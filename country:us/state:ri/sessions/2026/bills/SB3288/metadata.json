@@ -1,0 +1,173 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB3288",
+  "title": "AN ACT RELATING TO ALCOHOLIC BEVERAGES -- RETAIL LICENSES",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Allows for the issuance of a Class BV license for the property located at 1814 Broad Street in the city of Cranston."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb3288"
+    }
+  ],
+  "actions": [
+    {
+      "description": "05/15/2026 Introduced, referred to Senate Special Legislation and Veterans Affairs",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:52Z"
+      }
+    },
+    {
+      "description": "05/15/2026 Scheduled for hearing and/or consideration  (05/21/2026)",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:52Z"
+      }
+    },
+    {
+      "description": "05/21/2026 Committee recommends passage",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:52Z"
+      }
+    },
+    {
+      "description": "05/22/2026 Placed on Senate Calendar  (06/10/2026)",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:52Z"
+      }
+    },
+    {
+      "description": "06/10/2026 Senate read and passed",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:52Z"
+      }
+    },
+    {
+      "description": "06/11/2026 Placed on House Calendar  (06/11/2026)",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:52Z"
+      }
+    },
+    {
+      "description": "06/11/2026 House passed in concurrence",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:52Z"
+      }
+    },
+    {
+      "description": "06/18/2026 Transmitted to Governor",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:52Z"
+      }
+    },
+    {
+      "description": "06/26/2026 Effective without Governor's signature",
+      "date": "2026-06-26",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vargas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vargas\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "3288",
+      "links": [
+        {
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S3288.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://status.rilegislature.gov/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ri/government",
+    "name": "Rhode Island",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ri"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:52Z"
+  }
+}

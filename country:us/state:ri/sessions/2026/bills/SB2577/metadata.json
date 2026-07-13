@@ -1,0 +1,207 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2577",
+  "title": "AN ACT RELATING TO TAXATION -- LEVY AND ASSESSMENT OF LOCAL TAXES",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Enables the town of Portsmouth to adopt, repeal, or modify their tax classification plan for any tax year on and after December 31, 2026."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sb2577"
+    }
+  ],
+  "actions": [
+    {
+      "description": "02/13/2026 Introduced, referred to Senate Housing and Municipal Government",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "03/09/2026 Scheduled for hearing and/or consideration  (03/12/2026)",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "03/12/2026 Committee recommends passage",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "03/26/2026 Placed on Senate Calendar  (03/31/2026)",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "03/31/2026 Senate read and passed",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "04/01/2026 Referred to House Municipal Government & Housing",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "04/10/2026 Scheduled for consideration  (04/15/2026)",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "04/15/2026 Committee recommends passage in concurrence",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "04/24/2026 Placed on the House Consent Calendar  (04/28/2026)",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "04/28/2026 House passed in concurrence",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "04/28/2026 Transmitted to Governor",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    },
+    {
+      "description": "05/06/2026 Effective without Governor's signature",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ujifusa",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ujifusa\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "2577",
+      "links": [
+        {
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2577.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://status.rilegislature.gov/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ri/government",
+    "name": "Rhode Island",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ri"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:50Z"
+  }
+}

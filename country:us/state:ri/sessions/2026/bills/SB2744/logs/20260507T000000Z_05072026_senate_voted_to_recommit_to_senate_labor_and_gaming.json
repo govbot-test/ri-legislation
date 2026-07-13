@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "05/07/2026 Senate voted to recommit to Senate Labor and Gaming",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2744"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "05/12/2026 Committee heard",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2839"
+}

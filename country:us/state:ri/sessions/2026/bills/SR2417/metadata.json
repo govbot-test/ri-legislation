@@ -1,0 +1,79 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SR2417",
+  "title": "JOINT RESOLUTION CREATING A SPECIAL LEGISLATIVE COMMISSION TO STUDY AND PROVIDE RECOMMENDATIONS TO SAFEGUARD RHODE ISLAND AGAINST THE USE OF NUCLEAR WEAPONS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Creates an 11 member commission to study and provide recommendations to safeguard Rhode Island against use of nuclear weapons, and who would report back no later than August 6, 2027, and whose life would expire on November 6, 2027."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-sr2417"
+    }
+  ],
+  "actions": [
+    {
+      "description": "01/30/2026 Introduced, referred to Senate Special Legislation and Veterans Affairs",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mack",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mack\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "2417",
+      "links": [
+        {
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2417.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://status.rilegislature.gov/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ri/government",
+    "name": "Rhode Island",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ri"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:49Z"
+  }
+}

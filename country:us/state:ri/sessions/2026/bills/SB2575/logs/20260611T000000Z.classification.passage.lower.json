@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "06/11/2026 House passed Sub A in concurrence",
+    "occurred_at": "2026-06-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2575"
+}

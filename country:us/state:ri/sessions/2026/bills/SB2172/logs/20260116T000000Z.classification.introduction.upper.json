@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "01/16/2026 Introduced, referred to Senate Labor and Gaming",
+    "occurred_at": "2026-01-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2172"
+}

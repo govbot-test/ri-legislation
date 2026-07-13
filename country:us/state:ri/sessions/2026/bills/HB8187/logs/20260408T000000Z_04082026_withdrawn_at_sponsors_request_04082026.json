@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "04/08/2026 Withdrawn at sponsor's request  (04/08/2026)",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB8187"
+}

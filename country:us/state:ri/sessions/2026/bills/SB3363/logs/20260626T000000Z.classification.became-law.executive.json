@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "06/26/2026 Effective without Governor's signature",
+    "occurred_at": "2026-06-26",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3363"
+}

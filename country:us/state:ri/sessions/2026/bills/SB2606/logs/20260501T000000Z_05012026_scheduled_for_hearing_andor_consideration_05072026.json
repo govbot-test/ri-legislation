@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "05/01/2026 Scheduled for hearing and/or consideration  (05/07/2026)",
+    "occurred_at": "2026-05-01",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2606"
+}

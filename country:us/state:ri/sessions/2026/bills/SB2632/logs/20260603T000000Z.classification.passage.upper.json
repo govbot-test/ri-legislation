@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "06/03/2026 Senate passed Sub A as amended (floor amendment)",
+    "occurred_at": "2026-06-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2632"
+}

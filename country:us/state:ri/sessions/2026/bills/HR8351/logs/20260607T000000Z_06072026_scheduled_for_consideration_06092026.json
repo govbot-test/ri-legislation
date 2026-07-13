@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "06/07/2026 Scheduled for consideration  (06/09/2026)",
+    "occurred_at": "2026-06-07",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR8351"
+}

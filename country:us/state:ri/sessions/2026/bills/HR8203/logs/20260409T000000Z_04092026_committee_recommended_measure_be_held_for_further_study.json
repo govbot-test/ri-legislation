@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "04/09/2026 Committee recommended measure be held for further study",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR8203"
+}

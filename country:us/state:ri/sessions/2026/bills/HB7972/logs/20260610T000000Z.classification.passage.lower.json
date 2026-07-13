@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "06/10/2026 House passed Sub A",
+    "occurred_at": "2026-06-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB7972"
+}

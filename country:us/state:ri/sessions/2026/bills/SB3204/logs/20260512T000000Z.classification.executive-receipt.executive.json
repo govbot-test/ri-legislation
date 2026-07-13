@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "05/12/2026 Transmitted to Governor",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3204"
+}

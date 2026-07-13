@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "06/24/2026 Vetoed by Governor",
+    "occurred_at": "2026-06-24",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB7183"
+}

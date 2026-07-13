@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "04/16/2026 House read and passed",
+    "occurred_at": "2026-04-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB8230"
+}

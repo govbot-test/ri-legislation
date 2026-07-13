@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "05/29/2026 Scheduled for consideration  (06/02/2026)",
+    "occurred_at": "2026-05-29",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2089"
+}

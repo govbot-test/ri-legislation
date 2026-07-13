@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "04/30/2026 Committee recommends passage",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB7676"
+}

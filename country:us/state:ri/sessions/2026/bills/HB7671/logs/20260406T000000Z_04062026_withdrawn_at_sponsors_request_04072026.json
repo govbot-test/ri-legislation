@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "04/06/2026 Withdrawn at sponsor's request  (04/07/2026)",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB7671"
+}

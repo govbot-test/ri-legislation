@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "06/02/2026 Placed on Senate Calendar  (06/04/2026)",
+    "occurred_at": "2026-06-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3135"
+}

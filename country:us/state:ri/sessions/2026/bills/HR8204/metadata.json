@@ -1,0 +1,109 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HR8204",
+  "title": "JOINT RESOLUTION AUTHORIZING THE STATE TO ENTER INTO A FINANCING AGREEMENT RELATING TO SCHOOL CONSTRUCTION IN THE CITY OF PAWTUCKET AND AUTHORIZING THE CITY OF PAWTUCKET TO FINANCE RENOVATIONS AND REPAIRS TO SAMUEL SLATER MIDDLE SCHOOL FACILITIES, OR THE ACQUISITION, CONSTRUCTION, IMPROVEMENT, FURNISHING AND EQUIPPING OF A NEW MIDDLE SCHOOL AND SCHOOL FACILITIES AND ALL EXPENSES INCIDENT THERETO INCLUDING, BUT NOT LIMITED TO, COSTS OF DESIGN, DEMOLITION, ATHLETIC FIELDS, LANDSCAPING AND PARKING BY THE ISSUANCE OF NOT MORE THAN $22,500,000 CITY BONDS, CITY NOTES AND/OR OTHER EVIDENCES OF INDEBTEDNESS THEREFOR",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Authorizes bonds to finance school construction in the city of Pawtucket."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ri-2026-hr8204"
+    }
+  ],
+  "actions": [
+    {
+      "description": "02/27/2026 Introduced, referred to House Finance",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:51Z"
+      }
+    },
+    {
+      "description": "04/24/2026 Scheduled for hearing and/or consideration  (04/28/2026)",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:51Z"
+      }
+    },
+    {
+      "description": "04/28/2026 Committee recommended measure be held for further study",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Messier",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Messier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alzate",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alzate\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "8204",
+      "links": [
+        {
+          "url": "http://webserver.rilegislature.gov/BillText/BillText26/HouseText26/H8204.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://status.rilegislature.gov/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ri/government",
+    "name": "Rhode Island",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ri"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:51Z"
+  }
+}

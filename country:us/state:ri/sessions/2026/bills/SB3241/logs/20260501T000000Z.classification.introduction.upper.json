@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "05/01/2026 Introduced, referred to Senate Housing and Municipal Government",
+    "occurred_at": "2026-05-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3241"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "01/09/2026 Scheduled for hearing and/or consideration  (01/15/2026)",
+    "occurred_at": "2026-01-09",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://status.rilegislature.gov/",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB7049"
+}
