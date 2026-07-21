@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - 8154
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8154
+========
+LC005605
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- NON-CHARITABLE BINGO
+Introduced By: Representative William W. O'Brien
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 11 of the General Laws entitled "CRIMINAL OFFENSES" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 71
+4 NON-CHARITABLE BINGO
+5 11-71-1. Definitions.
+6 The following definitions apply within this chapter:
+7 (1) “Allowable electronic bingo aid” means an electronic device which satisfies the
+8 following criteria:
+9 (i) An electronic bingo aid must function primarily as an electronic aid or labor-saving
+10 device that requires some interaction between the player and the device, but where the numbers are
+11 drawn independently and apart from the device, and the device can only be utilized in a common
+12 bingo game along with other players competing for a common, preannounced prize;
+13 (ii) In addition to being tested and approved, an electronic bingo aid must provide for
+14 accountability, integrity, security and fairness of the game. As such all electronic cards in play
+15 during any bingo game must be fully accounted for at any time during and after the game by an
+16 independent accounting means and must be fully verifiable at any time by an independent
+17 verification means;
+18 (iii) Electronic cards available to players shall be part of a predetermined deck, group or
+19 series of cards, no two (2) of which shall be alike, and electronic cards shall not be arranged or
+
+1 distributed so as to give any player preference to any particular card. All cards must have an equal
+2 chance of winning;
+3 (iv) In order to insure the integrity and fairness, the electronic aid shall preclude any
+4 unauthorized transfer or substitution of electronic cards during (after the start of) any bingo game;
+5 (v) As the primary function of the system must be to assist the bingo player as the player
+6 plays bingo, the system must not generate the bingo numbers utilized in the game. Upon the player
+7 calling “bingo”, the player's winning card must be simultaneously displayed to all players playing
+8 bingo to allow all players the opportunity to verify the winning card;
+9 (vi) The particular arrangement of numbers required to win a particular game shall be
+10 clearly displayed on or through the electronic aid before the start of the game without the necessity
+11 of any player action or inaction; and
+12 (vii) The called bingo numbers must be presented on the electronic aid as they are
+13 announced by the bingo caller without the necessity for any player action or inaction.
+14 (2) “Bingo” means a game of chance in which each player receives a bingo card, either
+15 paper, hard card, or electronic representation thereof. Each bingo card, whether paper card, hard
+16 card or electronic representation thereof, is defined as a series of five (5) vertical rows of five (5)
+17 predetermined numbers ranging from one through seventy-five (75). Numbers are drawn or
+18 otherwise obtained by chance, from a set of consecutively numbered balls of essentially equal size,
+19 weight, and shape, and publicly displayed or otherwise publicly made known. The player first
+20 having a specified patterned of announced numbers appearing on their card, upon verification by
+21 an authorized person and/or through electronic or computer verification means or otherwise, shall
+22 be declared the winner.
+23 (3) “Bingo equipment” means the receptacle from which the numbered objects are drawn,
+24 the display board upon which the numbered objects are displayed, the master board or bingo rack
+25 upon which the numbered objects are placed upon being drawn, bingo cards, electronic
+26 representations or otherwise, and any and all computer and/or electronic systems which are utilized
+27 as electronic aids in playing and verifying bingo, and any and all other articles essential to the
+28 operation, conduct, and playing of bingo.
+29 (4) “Director” means the director of the division.
+30 (5) “Division” means the state lottery division of the department of revenue and/or any
+31 successor in interest thereto.
+32 (6) “Hosting facility” refers to the Lincoln gaming facility and the Tiverton gaming facility.
+33 (7) “Non-charitable bingo operator” means a non-charitable entity authorized by the
+34 division to host and conduct bingo.
+LC005605 - Page 2 of 5
+
+1 11-71-2. Operation of non-charitable bingo games.
+2 (a) The division shall have the power and authority to license, regulate, supervise and
+3 exercise general control over the operation of non-charitable bingo at a hosting facility including,
+4 but not limited to, the conduct of bingo, the distribution of prizes, and the use and licensing of bingo
+5 equipment, the use and licensing of allowable electronic bingo aids, the licensing of a non-
+6 charitable bingo operator as well as persons, firms, corporations in the business of the sale and
+7 rental of bingo equipment. The Rhode Island state police shall have the power and authority to
+8 investigate as to the direct or indirect ownership or control of any licenses and to revoke or suspend
+9 any license for just cause after a hearing.
+10 (b) Any non-charitable bingo operator approved by the division may promote, carry on, or
+11 conduct the game of bingo provided as follows:
+12 (1) Bingo is conducted at a hosting facility.
+13 (2) No person under the age of eighteen (18) years shall be permitted to play the game.
+14 (3) Notwithstanding any regulation to the contrary, the division shall have regulatory
+15 authority over marketing regarding non-charitable bingo.
+16 (c) Within one hundred eighty days (180) of enactment of this section, the division shall
+17 promulgate regulations for non-charitable bingo.
+18 11-71-3. Allocation of non-charitable bingo revenue.
+19 (a) Notwithstanding the provisions of § 42-61-15, the division of lottery is authorized to
+20 enter into an agreement to allocate non-charitable bingo revenue among the state, the state’s
+21 authorized non-charitable bingo operator, and the host municipalities.
+22 (b) The allocation of non-charitable bingo revenue shall be:
+23 (1) To the state, fifteen percent (15%) of non-charitable bingo revenue;
+24 (2) To the non-charitable bingo operator, eighty-four percent (84%) of non-charitable
+25 bingo revenue;
+26 (3) To the town of Lincoln and the town of Tiverton collectively, one percent (1%) of non-
+27 charitable bingo revenue, divided whereby the town of Lincoln receives eighty percent (80%) of
+28 such allocation and the town of Tiverton receives twenty percent (20%) of such allocation; provided
+29 that, the amounts received under this subsection shall be credited towards the Lincoln Minimum
+30 and Tiverton Minimum, respectively, pursuant to § 42-61.2-7.
+31 (c) Non-charitable gaming revenue allocated to the state shall be deposited into the state
+32 lottery fund for administrative purposes and then the balance remaining into the general fund.
+LC005605 - Page 3 of 5
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC005605
+========
+LC005605 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- NON-CHARITABLE BINGO
+***
+1 This act would create a new chapter to provide for non-charitable bingo by the state lottery
+2 division.
+3 This act would take effect upon passage.
+========
+LC005605
+========
+LC005605 - Page 5 of 5

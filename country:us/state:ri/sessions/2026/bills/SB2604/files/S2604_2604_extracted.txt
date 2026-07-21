@@ -1,0 +1,544 @@
+Title: 
+Official Title: 
+Source: versions - 2604
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2604
+========
+LC005109
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- DEFINITIONS AND GENERAL CODE
+PROVISIONS
+Introduced By: Senator Dawn M. Euer
+Date Introduced: February 13, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 31-1-3 of the General Laws in Chapter 31-1 entitled "Definitions and
+2 General Code Provisions" is hereby amended to read as follows:
+3 31-1-3. Types of vehicles.
+4 (a)(1) “Antique motor car” means any motor vehicle that is more than twenty-five (25)
+5 years old. Unless fully inspected and meeting inspection requirements, the vehicle may be
+6 maintained solely for use in exhibitions, club activities, parades, and other functions of public
+7 interest. The vehicle may also be used for limited enjoyment and purposes other than the previously
+8 mentioned activities, but may not be used primarily for the transportation of passengers or goods
+9 over any public highway.
+10 (2) After the vehicle has met the requirements of state inspection, a registration plate may
+11 be issued to it on payment of the standard fee. The vehicle may be operated on the highways of this
+12 and other states, and may, in addition to the registration plate, retain the designation “antique” and
+13 display an “antique plate.”
+14 (3) For any vehicle that is more than twenty-five (25) years old, the division of motor
+15 vehicles may also issue or approve, subject to rules and regulations that may be promulgated by
+16 the administrator, a “year of manufacture plate” for the vehicle that is an exact replica plate
+17 designating the exact year of manufacture of the vehicle. The year of manufacture plate, as
+18 authorized by this subsection, need only be attached to the rear of the vehicle.
+
+1 (b)(1) “Antique motorcycle” means any motorcycle that is more than twenty-five (25)
+2 years old. Unless fully inspected and meeting inspection requirements, the vehicle shall be
+3 maintained solely for use in exhibitions, club activities, parades, and other functions of public
+4 interest. The vehicle may also be used for limited enjoyment and purposes other than the previously
+5 mentioned activities, but may not be used primarily for the transportation of passengers or goods
+6 over any public highway; and
+7 (2) After the vehicle has met the requirements of state inspection, a registration plate may
+8 be issued to it, on payment of the standard fee, and the vehicle may be operated on the highways
+9 of this and other states, and may, in addition to the registration plate, retain the designation
+10 “antique” and display an “antique plate.”
+11 (c) “Authorized emergency vehicle” means vehicles of the fire department (fire patrol);
+12 police vehicles; vehicles of the department of corrections while in the performance of official
+13 duties; vehicles used by the state bomb squad within the office of state fire marshal; vehicles of
+14 municipal departments or public service corporations designated or authorized by the administrator
+15 as ambulances and emergency vehicles; and privately owned motor vehicles of volunteer
+16 firefighters or privately owned motor vehicles of volunteer ambulance drivers or attendants, as
+17 authorized by the department chief or commander and permitted by the Rhode Island Association
+18 of Fire Chiefs and Rhode Island Association of Police Chiefs Joint Committee for Volunteer
+19 Warning Light Permits.
+20 (d) “Automobile” means, for registration purposes, every motor vehicle carrying
+21 passengers other than for hire.
+22 (e) “Bicycle” means every vehicle having two (2) tandem wheels, except scooters and
+23 similar devices, propelled exclusively by human power, and upon which a person may ride.
+24 (f) “Camping recreational vehicle” means a vehicular type camping unit, certified by the
+25 manufacturer as complying with ANSI A119.2 Standards, designed primarily as temporary living
+26 quarters for recreation that has either its own motor power or is mounted on, or towed by, another
+27 vehicle. The basic units are tent trailers, fifth-wheel trailers, motorized campers, travel trailers, and
+28 pick-up campers.
+29 (g) “Electric motorized bicycle”, also called an “electric bicycle”, as defined in § 31-19.7-
+30 1, means a two-wheel (2) vehicle that may be propelled by human power or electric motor power,
+31 or by both, with an electric motor rated not more than two (2) (S.A.E.) horsepower, that is capable
+32 of a maximum speed of not more than twenty-eight miles per hour (28 m.p.h.), and are permitted
+33 to be operated on state, municipal roads, or highways in this state by a person sixteen (16) years of
+34 age or older pursuant to § 31-19.1-1 and are not required to be registered under chapter 3 of this
+LC005109 - Page 2 of 16
+
+1 title.
+2 (h) “Electric personal assistive mobility device” (“EPAMD”) is a self-balancing, non-
+3 tandem two-wheeled (2) device, designed to transport only one person, with an electric propulsion
+4 system that limits the maximum speed of the device to fifteen miles per hour (15 m.p.h.), and are
+5 permitted to be operated on state, municipal roads, or highways in this state by a person sixteen
+6 (16) years of age or older pursuant to § 31-10.1-1 and are not required to be registered under chapter
+7 3 of this title.
+8 (i) “Fifth-wheel trailer”: A towable recreational vehicle, not exceeding four hundred (400)
+9 square feet in area, designed to be towed by a motorized vehicle that contains a towing mechanism
+10 that is mounted above or forward of the tow vehicle’s rear axle and that is eligible to be registered
+11 for highway use.
+12 (j) “Hearse” means every motor vehicle used for transporting human corpses. A hearse
+13 shall be considered an automobile for registration purposes.
+14 (k) “Jitney or bus” means: (1) A “public bus” that includes every motor vehicle, trailer,
+15 semi-trailer, tractor trailer, or tractor trailer combination, used for the transportation of passengers
+16 for hire, and operated wholly or in part upon any street or highway as a means of transportation
+17 similar to that afforded by a street railway company, by indiscriminately receiving or discharging
+18 passengers, or running on a regular route or over any portion of one, or between fixed termini; or
+19 (2) A “private bus” that includes every motor vehicle other than a public bus or passenger van
+20 designed for carrying more than ten (10) passengers and used for the transportation of persons, and
+21 every motor vehicle other than a taxicab designed and used for the transportation of persons for
+22 compensation.
+23 (l) “Kei car” or “Kei truck” means every motor vehicle of the keijidōsha class of imported
+24 vehicles, including, but not limited to, mini-trucks, microvans, and Kei cars imported pursuant to
+25 49 U.S.C. § 30112(b)(9), having four (4) wheels, an engine displacement of six hundred sixty cubic
+26 centimeters (660 cc) or less, an overall length of one hundred thirty inches (130″) or less, an overall
+27 height of seventy-eight inches (78″) or less, and an overall width of sixty inches (60″) or less.
+28 (m) “Low-speed motor vehicle” or “low-speed vehicle” means a motor vehicle defined in
+29 49 C.F.R. § 571.3 as a vehicle that is four (4) wheeled, whose speed attainable in one mile is more
+30 than twenty miles per hour (20 m.p.h.) and not more than twenty-five miles per hour (25 m.p.h.)
+31 on a paved level surface, is electric, and whose gross vehicle weight rating is less than three
+32 thousand pounds (3,000 lbs.). All low-speed motor vehicles shall comply with the standards
+33 established in 49 C.F.R. § 571.500, as amended, and pursuant thereto, shall be equipped with
+34 headlamps, front and rear turn signal lamps, tail lamps, stop lamps, an exterior mirror mounted on
+LC005109 - Page 3 of 16
+
+1 the driver’s side of the vehicle and either an exterior mirror mounted on the passenger’s side of the
+2 vehicle or an interior mirror, a parking brake, a windshield that conforms to the federal standards
+3 on glazing materials, a vehicle identification number that conforms to the requirements of 49 C.F.R.
+4 pt. 565 for such numbers, a Type 1 or Type 2 seat belt assembly conforming to 49 C.F.R. § 571.209,
+5 installed at each designated seating position, and reflex reflectors; provided, that one reflector is
+6 red on each side as far to the rear as practicable and one reflector is red on the rear. A low-speed
+7 motor vehicle that meets the requirements of 49 C.F.R. § 571.500, as amended, and is equipped as
+8 herein provided, may be registered in this state, subject to inspection and insurance requirements.
+9 (n) “Motorcycle” means only those motor vehicles having not more than three (3) wheels
+10 in contact with the ground and a saddle on which the driver sits astride, except bicycles with helper
+11 motors as defined in subsection (p) of this section a two (2) or three (3) wheeled self-propelled
+12 vehicle designed for use on public roads and highways and displaces in excess of fifty cubic
+13 centimeters (50 cc) or four and nine-tenths horsepower (4.9 hp).
+14 (o) “Motor-driven cycle” means every motorcycle, including every motor scooter, with a
+15 motor of no greater than five (5) horsepower, except bicycles with helper motors as defined in
+16 subsection (p) of this section.
+17 (p) “Motorized bicycles” means two-wheel (2) vehicles that may be propelled by human
+18 power or helper power, or by both, with a motor rated not more than four and nine-tenths (4.9)
+19 horsepower and not greater than fifty cubic centimeters (50 cc), that are capable of a maximum
+20 speed of not more than thirty miles per hour (30 m.p.h.).
+21 (q) “Motorized camper”: A camping recreational vehicle, built on, or permanently attached
+22 to, a self-propelled motor vehicle chassis cab or van that is an integral part of the completed vehicle.
+23 (r) "Motorized skateboard" means every vehicle regardless of the number of its wheels in
+24 contact with the ground, that:
+25 (1) Is designed to allow an operator to stand;
+26 (2) Is powered in whole or in part by an electric motor;
+27 (3) Weighs less than one hundred pounds (100 lbs.); and
+28 (4) Has a speed of not more than twenty miles per hour (20 mph) on a paved level surface
+29 when powered solely by the electric motor.
+30 (r)(s) “Motorized tricycles” means tricycles that may be propelled by human power or
+31 helper motor, or by both, with a motor rated no more than 1.5 brake horsepower that is capable of
+32 a maximum speed of not more than thirty miles per hour (30 m.p.h.).
+33 (s)(t) “Motorized wheelchair” means any self-propelled vehicle, designed for, and used by,
+34 a person with a disability that is incapable of speed in excess of eight miles per hour (8 m.p.h.).
+LC005109 - Page 4 of 16
+
+1 (t)(u) “Motor scooter” means a motor-driven cycle with a motor rated not more than four
+2 and nine-tenths (4.9) horsepower and not greater than fifty cubic centimeters (50 cc) that is capable
+3 of a maximum speed of not more than thirty miles per hour (30 m.p.h.) gasoline powered motor-
+4 driven cycle with a motor rated not more than four and nine-tenths horsepower (4.9 hp) and not
+5 greater than fifty cubic centimeters (50 cc) that is capable of a maximum speed of not more than
+6 thirty miles per hour (30 mph) or propelled by an electric motor that has a speed of not more than
+7 thirty miles per hour (30 mph) and is not required to be registered pursuant to § 31-3-2.2.
+8 (u)(v) “Motor vehicle” means every vehicle that is self-propelled or propelled by electric
+9 power obtained from overhead trolley wires, but not operated upon rails, except vehicles moved
+10 exclusively by human power, an EPAMD and electric motorized bicycles as defined in subsection
+11 subsections (g) and (h) of this section, and motorized wheelchairs.
+12 (v)(w) “Motor vehicle for hire” means every motor vehicle other than jitneys, public buses,
+13 hearses, and motor vehicles used chiefly in connection with the conduct of funerals, to transport
+14 persons for compensation in any form, or motor vehicles rented for transporting persons either with
+15 or without furnishing an operator.
+16 (w)(x) “Natural gas vehicle” means a vehicle operated by an engine fueled primarily by
+17 natural gas.
+18 (x)(y) “Park trailer”: A camping recreational vehicle that is eligible to be registered for
+19 highway use and meets the following criteria: (1) Built on a single chassis mounted on wheels; and
+20 (2) Certified by the manufacturer as complying with ANSI A119.5.
+21 (y)(z) “Passenger van” means every motor vehicle capable of carrying ten (10) to fourteen
+22 (14) passengers plus an operator and used for personal use or on a not-for-hire basis. Passenger
+23 vans may be used for vanpools, transporting passengers to and from work locations, provided that
+24 the operator receives no remuneration other than free use of the vehicle.
+25 (z)(aa) “Pedal carriage” (also known as “quadricycles”) means a nonmotorized bicycle
+26 with four (4) or more wheels operated by one or more persons for the purpose of, or capable of,
+27 transporting additional passengers in seats or on a platform made a part of or otherwise attached to
+28 the pedal carriage. The term shall not include a bicycle with trainer or beginner wheels affixed to
+29 it, nor shall it include a wheelchair or other vehicle with the purpose of operation by or for the
+30 transportation of a person with a disability, nor shall it include a tricycle built for a child or an adult
+31 with a seat for only one operator and no passenger.
+32 (aa)(bb) “Pick-up camper”: A camping recreational vehicle consisting of a roof, floor, and
+33 sides designed to be loaded onto and unloaded from the back of a pick-up truck.
+34 (bb)(cc) “Rickshaw” (also known as “pedi cab”) means a nonmotorized bicycle with three
+LC005109 - Page 5 of 16
+
+1 (3) wheels operated by one person for the purpose of, or capable of, transporting additional
+2 passengers in seats or on a platform made a part of, or otherwise attached to, the rickshaw. This
+3 definition shall not include a bicycle built for two (2) where the operators are seated one behind the
+4 other, nor shall it include the operation of a bicycle with trainer or beginner wheels affixed thereto,
+5 nor shall it include a wheelchair or other vehicle with the purpose of operation by or for the
+6 transportation of a person with a disability.
+7 (cc)(dd) “School bus” means every motor vehicle owned by a public or governmental
+8 agency, when operated for the transportation of children to or from school; or privately owned,
+9 when operated for compensation for the transportation of children to or from school.
+10 (dd)(ee) “Suburban vehicle” means every motor vehicle with a convertible or
+11 interchangeable body or with removable seats, usable for both passenger and delivery purposes,
+12 and including motor vehicles commonly known as station or depot wagons or any vehicle into
+13 which access can be gained through the rear by means of a hatch or trunk and where the rear seats
+14 can be folded down to permit the carrying of articles as well as passengers.
+15 (ee)(ff) “Tent trailer”: A towable recreational vehicle that is mounted on wheels and
+16 constructed with collapsible partial side walls that fold for towing by another vehicle and unfold
+17 for use and that is eligible to be registered for highway use.
+18 (ff)(gg) “Trackless trolley coach” means every motor vehicle that is propelled by electric
+19 power obtained from overhead trolley wires, but not operated on rails.
+20 (gg)(hh) “Travel trailer”: A towable recreational vehicle, not exceeding three hundred
+21 twenty square feet (320 sq. ft.) in area, designed to be towed by a motorized vehicle containing a
+22 towing mechanism that is mounted behind the tow vehicle’s bumper and that is eligible to be
+23 registered for highway use.
+24 (hh)(ii) “Vehicle” means every device in, upon, or by which any person or property is or
+25 may be transported or drawn upon a highway, except devices used exclusively upon stationary rails
+26 or tracks.
+27 SECTION 2. Sections 31-3-2 and 31-3-2.2 of the General Laws in Chapter 31-3 entitled
+28 "Registration of Vehicles" are hereby amended to read as follows:
+29 31-3-2. Vehicles subject to registration.
+30 Every motor vehicle, trailer, semi-trailer, pole trailer, motorized camper, tent trailer, travel
+31 trailer, pick-up coach, and pick-up camper, owned by a resident of this state when operated or
+32 drawn upon a highway within this state for a period of thirty (30) days, shall be subject to the
+33 registration provisions of chapters 3 — 9 of this title except:
+34 (1) Any vehicle operated upon a highway in conformance with the provisions of the
+LC005109 - Page 6 of 16
+
+1 chapters relating to manufacturers, transporters, dealers, lien holders, or nonresidents;
+2 (2) Any vehicle that is operated upon a highway only for the purpose of crossing the
+3 highway but not along the highway from one property to another;
+4 (3) Any farm vehicle, whether or not of a type otherwise subject to registration under this
+5 chapter, that is only incidentally operated upon a highway. For purposes of this title, the phrase
+6 “incidentally operated upon a highway” shall mean the operation upon a highway of a slow-moving
+7 motor vehicle that is designed and used primarily as a farm implement for drawing plows, mowing
+8 machines, and other implements of husbandry, between agricultural operations owned or managed
+9 by the owner of the motor vehicle. Unless the incidental operation is only for purposes of crossing
+10 the highway but not traveling along it, the farm vehicle engaged in the incidental operation shall
+11 display a “Slow Moving Vehicle” emblem in a manner that complies with requirements established
+12 by the division of motor vehicles;
+13 (4) Any special mobile equipment as defined in § 31-1-9;
+14 (5) Any vehicle that is propelled exclusively by electric power obtained from overhead
+15 trolley wires, though not operated upon rails;
+16 (6) Any low-speed motor vehicle or low-speed vehicle as defined in § 31-1-3;
+17 (7) Any electric motorized bicycle exempt pursuant to § 31-3-2.2;
+18 (8) An electric personal assistive mobility device ("EPAMD") exempt pursuant to § 31-3-
+19 2.2.
+20 31-3-2.2. Registration of motorcycles, motorized bicycles, and motorized tricycles.
+21 (a) Every motorcycle, motorized bicycle, and motorized tricycle owned by a resident of
+22 this state shall be subject to the registration provisions of chapters 3 — 9 of this title whether the
+23 motorcycle, motorized bicycle, or motorized tricycle is operated or drawn upon a highway within
+24 this state or upon private property. An electric personal assistive mobility device (“EPAMD”) and
+25 electric motorized bicycles shall not be required to register under this chapter; provided, however,
+26 that an EPAMD and/or electric motorized bicycles shall not be operated in this state by a person
+27 under the age of sixteen (16) years pursuant to §§ 31-1-3(g) and 31-1-3(h).
+28 (b) Notwithstanding any general law to the contrary, cities and towns are empowered to
+29 enact ordinances that permit the use and regulation of electric personal assistive mobility devices
+30 (“EPAMD”).
+31 SECTION 3. Section 31-10.1-1 of the General Laws in Chapter 31-10.1 entitled "Special
+32 Licenses for Motorcycles, Motor Scooters, Low-Speed Vehicles and Other Motor Driven Cycles"
+33 is hereby amended to read as follows:
+34 31-10.1-1. License required.
+LC005109 - Page 7 of 16
+
+1 (a) No resident of this state, except those expressly exempted in this chapter, shall drive
+2 any two-wheeled (2) motorcycle or motor-driven cycle upon a highway in this state, unless the
+3 person shall first obtain a special license as an operator under the provisions of this chapter;
+4 provided, however, motorized bicycles and motor scooters with a motor rated not more than four
+5 and nine-tenths horsepower (4.9 h.p.) and not greater than fifty cubic centimeters (50 cc), which is
+6 capable of a maximum speed of not more than thirty miles per hour (30 m.p.h.), shall be exempt
+7 from the provisions of this section. No person shall be licensed pursuant to this chapter unless he
+8 or she shall be at least sixteen (16) years of age or unless the person previously has been issued a
+9 full operator’s license or a limited provisional license and has satisfied the requirements of § 31-
+10 10.1-3(a), has the required equipment pursuant to § 31-10.1-4, or is already licensed under a prior
+11 act of this state. Any person under the age of eighteen (18) duly licensed under the prior act shall
+12 be eligible to have his or her license renewed in the same manner as persons over the age of eighteen
+13 (18). All licenses issued pursuant to this chapter shall reflect any requirement of the operator to
+14 wear a helmet pursuant to § 31-10.1-4.
+15 (b) No resident of this state, except those expressly exempted in this chapter, shall drive
+16 any three-wheeled (3) motorcycle or motor-driven cycle upon a highway in this state, unless the
+17 person shall first obtain a special license as an operator under the provisions of this chapter;
+18 provided, however, motorized bicycles and motor scooters with a motor rated not more than four
+19 and nine-tenths horsepower (4.9 h.p.) and not greater than fifty cubic centimeters (50 cc), which is
+20 capable of a maximum speed of not more than thirty miles per hour (30 m.p.h.), shall be exempt
+21 from the provisions of this section. No person shall be licensed pursuant to this chapter unless he
+22 or she shall be at least sixteen (16) years of age or unless the person previously has been issued a
+23 full operator’s license or a limited provisional license and has satisfied the requirements of § 31-
+24 10.1-3(b) or is already licensed under a prior act of this state. Any person under the age of eighteen
+25 (18) years duly licensed under the prior act shall be eligible to have their license renewed in the
+26 same manner as persons over the age of eighteen (18) years. All licenses issued pursuant to this
+27 chapter shall reflect any requirement of the operator to wear a helmet pursuant to § 31-10.1-4.
+28 (c) Any person currently licensed pursuant to this chapter, prior to March 1, 2022, shall
+29 continue to be permitted to operate both two-wheeled (2) and three-wheeled (3) motorcycles and
+30 motor-driven cycles without further examination.
+31 (d) The holder of a special license as an operator under the provisions of this chapter who
+32 has a limited provisional license may drive the motorcycle only at times when the license holder
+33 could drive a motor vehicle without supervision pursuant to § 31-10-6.
+34 SECTION 4. Section 31-19.7-1 of the General Laws in Chapter 31-19.7 entitled "Electric
+LC005109 - Page 8 of 16
+
+1 Bicycles" is hereby amended to read as follows:
+2 31-19.7-1. Classes.
+3 (a) There shall be three (3) four (4) classes of electric bicycles:
+4 (1) Class 1: Bicycle equipped with an electric motor that provides assistance only when the
+5 rider is pedaling, and that ceases to provide assistance when the electric bicycle reaches twenty
+6 miles per hour (20 m.p.h.).
+7 (2) Class 2: Bicycle equipped with a throttle-actuated electric motor that ceases to provide
+8 assistance when the electric bicycle reaches twenty miles per hour (20 m.p.h.).
+9 (3) Class 3: Bicycle equipped with an electric motor that provides assistance only when the
+10 rider is pedaling, and that ceases to provide assistance when the electric bicycle reaches twenty-
+11 eight miles per hour (28 m.p.h.).
+12 (4) Class 4: Bicycle equipped with an electric motor exceeding seven hundred fifty watts
+13 (750W) and a top assisted speed over twenty-eight miles per hour (28 mph). Provided, class 4
+14 bicycles shall be also be deemed to be a “recreational vehicle” as defined in chapter 3.2 of title 31
+15 (“snowmobiles and recreational vehicles”) and subject to the same operation, rules, and regulations
+16 pertaining to recreational vehicles provided for in that chapter.
+17 (b) All businesses that sell electric bicycles in Rhode Island shall prominently display
+18 provisions and restrictions of state law regulating electric bicycles.
+19 (c) The Rhode Island office of energy resources shall notify electric bicycle rebate
+20 recipients of applicable state laws regarding electric bicycles.
+21 SECTION 5. Chapter 31-19.7 of the General Laws entitled "Electric Bicycles" is hereby
+22 amended by adding thereto the following section:
+23 31-19.7-4. Notice of state laws, rules, and regulations.
+24 (a) All businesses that sell electric bicycles in Rhode Island shall prominently display
+25 provisions and restrictions of state law regulating electric bicycles.
+26 (b) The office of energy resources shall notify electric bicycle rebate recipients of
+27 applicable state laws regarding electric bicycles, including but not limited to the provisions of this
+28 chapter and any regulations promulgated pursuant to this chapter.
+29 SECTION 6. Section 31-22-30 of the General Laws in Chapter 31-22 entitled
+30 "Miscellaneous Rules" is hereby amended to read as follows:
+31 31-22-30. Distracted driving prohibited while operating a motor vehicle.
+32 (a) For purposes of this section, the following terms shall have the following meanings:
+33 (1) “Driving” means operating a motor vehicle on a public road, including operation while
+34 temporarily stationary because of traffic, a traffic light or stop sign, or otherwise, but does not
+LC005109 - Page 9 of 16
+
+1 include operating a motor vehicle when the vehicle has pulled over to the side of, or off, an active
+2 roadway and has stopped in a location where it can safely remain stationary.
+3 (2) “Hands free” means the manner in which a wireless handset is operated by using an
+4 internal feature or function, or through an attachment or addition, including, but not limited to, an
+5 earpiece, headset, remote microphone, or short-range wireless connection, thereby allowing the
+6 user to operate said device without the use of hands, except to activate, deactivate, or initiate a
+7 feature or function thereof.
+8 (3) “Inoperability” means a motor vehicle that is incapable of being operated or being
+9 operated in a safe and prudent manner due to mechanical failure, including, but not limited to,
+10 engine overheating or tire failure.
+11 (4) “Motor vehicle” means any vehicle that is self-propelled by a motor, including, but not
+12 limited to: automobiles, trucks, vans, construction vehicles, etc.; provided, for provisions of this
+13 section only, the term “motor vehicle” also includes electric bicycles, electric motorize bicycles,
+14 electric-powered motor scooters, motorized skateboards, and electric personal assistive mobility
+15 devices as defined §31-1-3.
+16 (5) “Person” means any natural person, corporation, unincorporated association, firm,
+17 partnership, joint venture, joint stock association, or other entity or business organization of any
+18 kind.
+19 (6) “Personal wireless communication device” means a hand-held device through which
+20 personal wireless services (commercial mobile services, unlicensed wireless services, and common
+21 carrier wireless exchange access services) are transmitted, but does not include a global navigation
+22 satellite receiver used for positioning, emergency notification, or navigation purposes.
+23 (7) “Stopped” means not in motion.
+24 (8) “Text message,” also referred to as short messaging service (SMS), means the process
+25 by which users send, read, or receive messages on a wireless handset, including text messages,
+26 instant messages, electronic messages, or e-mails, in order to communicate with any person or
+27 device.
+28 (9) [Deleted by P.L. 2025, ch. 401, § 1 and P.L. 2025, ch. 402, § 1.]
+29 (10) “Wireless handset” means a portable electronic or computing device, including mobile
+30 devices and personal digital assistants (PDAs), capable of transmitting data.
+31 (b) No person shall use a wireless handset or personal wireless communication device to
+32 compose, read, or send text messages, or for any other purpose while driving a motor vehicle on
+33 any public street or public highway within the state of Rhode Island except for:
+34 (1) Any law enforcement, public safety or police officers, emergency services officials,
+LC005109 - Page 10 of 16
+
+1 first aid, emergency medical technicians and personnel, and fire safety officials in the performance
+2 of duties arising out of, and in the course of, their employment as such;
+3 (2) A person using a wireless handset to contact an individual listed in subsection (b)(1);
+4 (3) A person using a wireless handset or personal wireless communication device inside a
+5 motor vehicle while such motor vehicle is parked, standing, or stopped and is removed from the
+6 flow of traffic, in accordance with applicable laws, rules, or ordinances, or is stopped due to the
+7 inoperability of such motor vehicle;
+8 (4) A person activating, viewing, or deactivating a global positioning or navigation device
+9 or a global positioning or navigation application while the handset is mounted or otherwise affixed
+10 to the vehicle to allow for hands-free operation; or
+11 (5) The use of a personal wireless communication device in a hands-free manner, with a
+12 hands-free accessory, or with the activation or deactivation of a feature or function of the personal
+13 wireless communication device with the motion of a single swipe or tap of the finger of the driver.
+14 (c) Nothing in this section shall be construed to prohibit a person driving a motor vehicle
+15 from utilizing a hands-free wireless handset.
+16 The nonemergency use by pilot/escort vehicle drivers of portable electronic devices is
+17 prohibited.
+18 (d) Any person who violates any of the provisions of this section shall, upon conviction,
+19 be subject to a fine of one hundred dollars ($100); for a second conviction a person shall be subject
+20 to a fine of one hundred fifty dollars ($150); and for a third or subsequent conviction a person shall
+21 be subject to a fine of two hundred fifty dollars ($250). All violations arising out of this section
+22 shall be heard in the Rhode Island traffic tribunal.
+23 (e) If the offending operator elects to dispose of the charge without personally appearing
+24 before the traffic tribunal, then in accordance with the provisions of § 31-41.1-3, the operator shall
+25 execute the form indicated and return it to the traffic tribunal not later than twenty (20) days from
+26 the date of the summons, either by mailing or delivering the form and summons, to the violation
+27 section of the traffic tribunal, or to its designee, together with a check or money order in the amount
+28 indicated by the fine schedule on the form in addition to any technology surcharge applied by the
+29 traffic tribunal assessed in accordance with § 8-15-11.
+30 SECTION 7. Legislative Findings:
+31 The general assembly finds that:
+32 (1) The use of powered wheeled devices such as motorized bicycles, motor scooters,
+33 electric bicycles, and electric personal assistive mobility devices (EPAMDs) is increasing rapidly
+34 and presents unique safety and regulatory challenges.
+LC005109 - Page 11 of 16
+
+1 (2) Current laws regulating these devices are scattered throughout the general laws, causing
+2 confusion among operators, law enforcement, and the public.
+3 (3) Centralizing and clarifying the legal framework governing these devices will improve
+4 safety, compliance, and enforcement while promoting efficient use of public ways.
+5 SECTION 8. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+6 is hereby amended by adding thereto the following chapter:
+7 CHAPTER 19.8
+8 CONSOLIDATED REGULATION OF POWERED WHEELED DEVICES AND
+9 MICROMOBILITY VEHICLES
+10 31-19.8-1. Motorcycles, motor-driven cycles, and motorized tricycles.
+11 (a) Definitions.
+12 (1) “Motorcycle,” “motor-driven cycle,” and “motorized tricycle” are defined in § 31-1-3.
+13 (b) Registration. Every motorcycle, motor-driven cycle, and motorized tricycle shall be
+14 registered with the division of motor vehicles and display a valid registration plate in accordance
+15 with chapter 3 of title 31, including § 31-3-2.2.
+16 (c) Licensing.
+17 (1) No person shall operate a motorcycle, motor-driven cycle, or motorized tricycle unless
+18 holding a valid driver’s license with a motorcycle endorsement or permit as required by § 31-10.1-
+19 1.
+20 (2) The administrator of the division of motor vehicles may issue restricted or provisional
+21 licenses for motor-driven cycles or motorized tricycles as authorized by chapter 10.1 of title 31.
+22 (d) Equipment.
+23 Motorcycles, motor-driven cycles, and motorized tricycles shall be equipped with:
+24 (1) At least one rearview mirror;
+25 (2) Eye protection approved by the administrator; and
+26 (3) Additional equipment as required by the administrator pursuant to § 31-10.1-4.
+27 (e) Helmet requirements.
+28 (1) Operators under twenty-one (21) years of age shall wear an approved helmet.
+29 (2) Operators of any age must wear an approved helmet during the first twelve (12) months
+30 after receiving their initial motorcycle license or endorsement.
+31 (f) Passenger safety. Passengers must be seated on permanent seats with footrests and wear
+32 helmets approved by the administrator.
+33 (g) Operation and enforcement. Motorcycles, motor-driven cycles, and motorized tricycles
+34 must comply with all applicable traffic laws, with violations subject to penalties under chapter 41.1
+LC005109 - Page 12 of 16
+
+1 of title 31.
+2 31-19.8-2. Motorized bicycles and motor scooters.
+3 (a) Definitions.
+4 (1) “Motorized bicycle” and “motor scooter” are defined in § 31-1-3.
+5 (b) Registration. Motorized bicycles and motor scooters must be registered pursuant to §
+6 31-3-2.2, unless specifically exempted.
+7 (c) Licensing.
+8 (1) No person under sixteen (16) years of age may operate a motorized bicycle.
+9 (2) Operators must hold a valid motor vehicle operator’s license; subject to exemption
+10 pursuant to 31-10.1-1.
+11 (3) Motorized bicycles with engine displacement over fifty cubic centimeters (50 cc) or
+12 maximum speed over thirty miles per hour (30 mph) require a motorcycle endorsement pursuant to
+13 chapter 31-10.1.
+14 (4) Motor scooters are subject to licensing requirements for motorcycles or motor-driven
+15 cycles.
+16 (d) Equipment. Required equipment includes brakes and lights appropriate to the vehicle
+17 type.
+18 (e) Helmet requirements. Operators and passengers under twenty-one (21) years of age
+19 shall wear a helmet approved by the administrator.
+20 (f) Operation and enforcement. Motorized bicycles and motor scooters shall comply with
+21 applicable traffic laws, with violations subject to penalties under chapter 41.1 of title 31.
+22 31-19.8-3. Electric bicycles (E-bikes).
+23 (a) Definitions.
+24 (1) “Electric bicycle” and its classes are defined in § 31-19.7-1.
+25 (b) Registration and licensing. E-bikes, pursuant to §31-3-2.2 are exempt from registration
+26 and do not require a driver’s license. Operators must be at least sixteen (16) years old.
+27 (c) Helmet requirements. Helmet use is required for operators and passengers under
+28 twenty-one (21) years of age pursuant § 31-19.7-3.
+29 (d) Operation and enforcement. E-bikes may be operated where permitted on roads, bike
+30 lanes, and paths, with violations subject to penalties in chapter 41.1 of title 31.
+31 31-19.8-4. Electric personal assistive mobility devices (EPAMDs).
+32 (a) Definitions.
+33 (1) “EPAMD” is defined in § 31-1-3.
+34 (b) Registration and licensing. EPAMDs are exempt from registration, pursuant to § 31-3-
+LC005109 - Page 13 of 16
+
+1 2.2; operators must be at least sixteen (16) years old and do not require a driver’s license.
+2 (c) Equipment and operation. Subject to local regulations and DMV safety rules; EPAMDs
+3 have rights similar to bicycles on sidewalks and shared pathways, pursuant to §§ 31-19-11 and 31-
+4 19-12.
+5 (d) Enforcement. Violations subject to penalties under chapter 41.1 of title 31.
+6 31-19.8-5. Local authority.
+7 Local governments may adopt regulations consistent with this chapter regarding the
+8 operation of powered wheeled devices on sidewalks, bike paths, and other public ways.
+9 31-19.8-6. Powered wheeled device and micromobility vehicle information --
+10 Department of motor vehicles website posting required.
+11 (a) The division of motor vehicles shall maintain and make available to the public, in a
+12 clear and conspicuous location on its official website, a centralized informational page
+13 summarizing the laws and requirements applicable to powered wheeled devices and micromobility
+14 vehicles regulated under title 31.
+15 (b) The informational page required under subsection (a) of this section shall, at a
+16 minimum, include for each applicable class of vehicle:
+17 (1) The statutory definition of the vehicle type;
+18 (2) Registration requirements, if any;
+19 (3) Operator licensing or permit requirements, if any;
+20 (4) Equipment requirements, including lighting and safety equipment;
+21 (5) Helmet and passenger safety requirements, if applicable;
+22 (6) Age restrictions on operation;
+23 (7) General rules of operation; and
+24 (8) Citations to the relevant sections of the general laws governing each requirement.
+25 (c) The informational page shall distinguish among vehicle classes including, but not
+26 limited to:
+27 (1) Motorcycles;
+28 (2) Motor-driven cycles;
+29 (3) Motorized tricycles;
+30 (4) Motorized bicycles;
+31 (5) Motor scooters;
+32 (6) Electric bicycles; and
+33 (7) Electric personal assistive mobility devices (EPAMDs).
+34 (d) The division shall ensure that the information posted pursuant to this section is kept
+LC005109 - Page 14 of 16
+
+1 current and updated in a timely manner following any amendment to the general laws or adoption
+2 of regulations affecting the vehicles listed in subsection (c) of this section.
+3 (e) Nothing in this section shall be construed to alter, expand, or limit any substantive
+4 requirement of law. The informational materials provided pursuant to this section are intended
+5 solely to improve public access, understanding, and compliance with existing law.
+6 31-19.8-7. Severability.
+7 If any provision of this chapter is held invalid, the remainder shall remain in full force and
+8 effect.
+9 SECTION 9. This act shall take effect upon passage.
+========
+LC005109
+========
+LC005109 - Page 15 of 16
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- DEFINITIONS AND GENERAL CODE
+PROVISIONS
+***
+1 This act would spell out the requirements for the operation of recreational vehicles, manual,
+2 electric or gas powered. This act would also prohibit the use of a wireless handset such as mobile
+3 devices and personal digital assistants, while operating an electric motorized bicycle, electric-
+4 powered motor scooters, motorized skateboards, and electric personal assistive mobility devices. It
+5 also would add a new class of electric bicycles and require sellers of the recreational vehicles to
+6 notify customers of related state laws and require the division of motor vehicles to provide a
+7 centralized informational page summarizing laws and requirements applicable to powered wheeled
+8 devices and micromobility vehicles.
+9 This act would take effect upon passage.
+========
+LC005109
+========
+LC005109 - Page 16 of 16

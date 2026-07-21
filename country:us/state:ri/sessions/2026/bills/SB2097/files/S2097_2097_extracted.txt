@@ -1,0 +1,498 @@
+Title: 
+Official Title: 
+Source: versions - 2097
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2097
+========
+LC003824
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC FINANCE -- STATE FUNDS
+Introduced By: Senators Acosta, DiPalma, DiMario, Vargas, Felag, Zurier, Valverde,
+Thompson, Quezada, and Murray
+Date Introduced: January 16, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 35-4-27 of the General Laws in Chapter 35-4 entitled "State Funds"
+2 is hereby amended to read as follows:
+3 35-4-27. Indirect cost recoveries on restricted receipt accounts.
+4 Indirect cost recoveries of fifteen percent (15%) of cash receipts shall be transferred from
+5 all restricted receipt accounts, to be recorded as general revenues in the general fund. However,
+6 there shall be no transfer from cash receipts with restrictions received exclusively: (1) From
+7 contributions from nonprofit charitable organizations; (2) From the assessment of indirect cost-
+8 recovery rates on federal grant funds; or (3) Through transfers from state agencies to the department
+9 of administration for the payment of debt service. These indirect cost recoveries shall be applied to
+10 all accounts, unless prohibited by federal law or regulation, court order, or court settlement. The
+11 following restricted receipt accounts shall not be subject to the provisions of this section:
+12 Executive Office of Health and Human Services
+13 HIV Care Grant Drug Rebates
+14 Health System Transformation Project
+15 Health Care Entity Fiscal Integrity, Transparency and Accountability Act
+16 Rhode Island Statewide Opioid Abatement Account
+17 HCBS Support-ARPA
+18 HCBS Admin Support-ARPA
+19 Department of Human Services
+
+1 Organ Transplant Fund
+2 Veterans’ home — Restricted account
+3 Veterans’ home — Resident benefits
+4 Pharmaceutical Rebates Account
+5 Demand Side Management Grants
+6 Veteran’s Cemetery Memorial Fund
+7 Donations — New Veterans’ Home Construction
+8 Commodity Supplemental Food Program-Claims
+9 Department of Health
+10 Pandemic medications and equipment account
+11 Miscellaneous Donations/Grants from Non-Profits
+12 State Loan Repayment Match
+13 Healthcare Information Technology
+14 Department of Behavioral Healthcare, Developmental Disabilities and Hospitals
+15 Eleanor Slater non-Medicaid third-party payor account
+16 Hospital Medicare Part D Receipts
+17 RICLAS Group Home Operations
+18 Group Home Facility Improvement Fund
+19 Commission on the Deaf and Hard of Hearing
+20 Emergency and public communication access account
+21 Department of Environmental Management
+22 National heritage revolving fund
+23 Environmental response fund II
+24 Underground storage tanks registration fees
+25 De Coppet Estate Fund
+26 Rhode Island Historical Preservation and Heritage Commission
+27 Historic preservation revolving loan fund
+28 Historic Preservation loan fund — Interest revenue
+29 Department of Public Safety
+30 E-911 Uniform Emergency Telephone System
+31 Forfeited property — Retained
+32 Forfeitures — Federal
+33 Forfeited property — Gambling
+34 Donation — Polygraph and Law Enforcement Training
+LC003824 - Page 2 of 15
+
+1 Rhode Island State Firefighter’s League Training Account
+2 Fire Academy Training Fees Account
+3 Attorney General
+4 Forfeiture of property
+5 Federal forfeitures
+6 Attorney General multi-state account
+7 Forfeited property — Gambling
+8 Department of Administration
+9 Health Insurance Market Integrity Fund
+10 RI Health Benefits Exchange
+11 Information Technology restricted receipt account
+12 Restore and replacement — Insurance coverage
+13 Convention Center Authority rental payments
+14 Investment Receipts — TANS
+15 OPEB System Restricted Receipt Account
+16 Grants Management Administration
+17 Office of Energy Resources
+18 OER Reconciliation Funding
+19 RGGI Executive Climate Change Coordinating Council Projects
+20 Electric Vehicle Charging Stations Operating and Maintenance Account
+21 Clean Transportation Programs
+22 Department of Housing
+23 Housing Resources and Homelessness Restricted Receipt Account
+24 Housing Production Fund
+25 Low-Income Housing Tax Credit Fund
+26 Department of Revenue
+27 Car Rental Tax/Surcharge-Warwick Share
+28 DMV Modernization Project
+29 Jobs Tax Credit Redemption Fund
+30 Legislature
+31 Audit of federal assisted programs
+32 Department of Children, Youth and Families
+33 Children’s Trust Accounts — SSI
+34 Military Staff
+LC003824 - Page 3 of 15
+
+1 RI Military Family Relief Fund
+2 RI National Guard Counterdrug Program
+3 Treasury
+4 Admin. Expenses — State Retirement System
+5 Retirement — Treasury Investment Options
+6 Defined Contribution — Administration - RR
+7 Violent Crimes Compensation — Refunds
+8 Treasury Research Fellowship
+9 Business Regulation
+10 Banking Division Reimbursement Account
+11 Office of the Health Insurance Commissioner Reimbursement Account
+12 Securities Division Reimbursement Account
+13 Commercial Licensing and Racing and Athletics Division Reimbursement Account
+14 Insurance Division Reimbursement Account
+15 Historic Preservation Tax Credit Account
+16 Rhode Island Cannabis Control Commission
+17 Marijuana Trust Fund
+18 Social Equity Assistance Fund
+19 Judiciary
+20 Arbitration Fund Restricted Receipt Account
+21 Third-Party Grants
+22 RI Judiciary Technology Surcharge Account
+23 Department of Elementary and Secondary Education
+24 Statewide Student Transportation Services Account
+25 School for the Deaf Fee-for-Service Account
+26 School for the Deaf — School Breakfast and Lunch Program
+27 Davies Career and Technical School Local Education Aid Account
+28 Davies — National School Breakfast & Lunch Program
+29 School Construction Services
+30 Office of the Postsecondary Commissioner
+31 Tuition Savings Program Fund
+32 Higher Education and Industry Center
+33 IGT STEM Scholarships
+34 Department of Labor and Training
+LC003824 - Page 4 of 15
+
+1 Job Development Fund
+2 Contractor Training Restricted Receipt Account
+3 Workers’ Compensation Administrative Account
+4 Rhode Island Council on the Arts
+5 Governors’ Portrait Donation Fund
+6 Statewide records management system account
+7 SECTION 2. Section 42-7.2-5 of the General Laws in Chapter 42-7.2 entitled "Office of
+8 Health and Human Services" is hereby amended to read as follows:
+9 42-7.2-5. Duties of the secretary.
+10 The secretary shall be subject to the direction and supervision of the governor for the
+11 oversight, coordination, and cohesive direction of state-administered health and human services
+12 and in ensuring the laws are faithfully executed, notwithstanding any law to the contrary. In this
+13 capacity, the secretary of the executive office of health and human services (EOHHS) shall be
+14 authorized to:
+15 (1) Coordinate Oversee and direct the administration and financing of healthcare benefits,
+16 human services, systems of care, and programs including those authorized by the state’s Medicaid
+17 section 1115 demonstration waiver and, as applicable, the Medicaid state plan under Title XIX of
+18 the U.S. Social Security Act. However, except as explicitly set forth herein, nothing in this section
+19 shall be construed as transferring to the secretary the powers, duties, or functions conferred upon
+20 the departments by Rhode Island public and general laws for the administration of federal/state
+21 programs financed in whole or in part with Medicaid funds or the administrative responsibility for
+22 the preparation and submission of any state plans, state plan amendments, or authorized federal
+23 waiver applications, once approved by the secretary.
+24 (2) Serve as the governor’s chief advisor and liaison to federal policymakers on Medicaid
+25 reform issues as well as the principal point of contact in the state on any such related matters.
+26 (3)(i) Review and ensure the coordination of the state’s Medicaid section 1115
+27 demonstration waiver requests and renewals as well as any initiatives and proposals requiring
+28 amendments to the Medicaid state plan or formal amendment changes, as described in the special
+29 terms and conditions of the state’s Medicaid section 1115 demonstration waiver with the potential
+30 to affect the scope, amount, or duration of publicly funded healthcare services, provider payments
+31 or reimbursements, or access to or the availability of benefits and services as provided by Rhode
+32 Island general and public laws. The secretary shall consider whether any such changes are legally
+33 and fiscally sound and consistent with the state’s policy and budget priorities. The secretary shall
+34 also assess whether a proposed change is capable of obtaining the necessary approvals from federal
+LC003824 - Page 5 of 15
+
+1 officials and achieving the expected positive consumer outcomes. Department directors shall,
+2 within the timelines specified, provide any information and resources the secretary deems necessary
+3 in order to perform the reviews authorized in this section.
+4 (ii) Direct the development and implementation of any Medicaid policies, procedures, or
+5 systems that may be required to assure successful operation of the state’s health and human services
+6 integrated eligibility system and coordination with HealthSource RI, the state’s health insurance
+7 marketplace.
+8 (iii) Beginning in 2015, conduct on a biennial basis a comprehensive review of the
+9 Medicaid eligibility criteria for one or more of the populations covered under the state plan or a
+10 waiver to ensure consistency with federal and state laws and policies, coordinate and align systems,
+11 and identify areas for improving quality assurance, fair and equitable access to services, and
+12 opportunities for additional financial participation.
+13 (iv) Implement service organization and delivery reforms that facilitate service integration,
+14 increase value, and improve quality and health outcomes.
+15 (4) Beginning in 2020, prepare and submit to the governor, the chairpersons of the house
+16 and senate finance committees, the caseload estimating conference, and to the joint legislative
+17 committee for health-care oversight, by no later than September 15 of each year, a comprehensive
+18 overview of all Medicaid expenditures outcomes, administrative costs, and utilization rates. The
+19 overview shall include, but not be limited to, the following information:
+20 (i) Expenditures under Titles XIX and XXI of the Social Security Act, as amended;
+21 (ii) Expenditures, outcomes, and utilization rates by population and sub-population served
+22 (e.g., families with children, persons with disabilities, children in foster care, children receiving
+23 adoption assistance, adults ages nineteen (19) to sixty-four (64), and elders);
+24 (iii) Expenditures, outcomes, and utilization rates by each state department or other
+25 municipal or public entity receiving federal reimbursement under Titles XIX and XXI of the Social
+26 Security Act, as amended;
+27 (iv) Expenditures, outcomes, and utilization rates by type of service and/or service
+28 provider;
+29 (v) Expenditures by mandatory population receiving mandatory services and, reported
+30 separately, optional services, as well as optional populations receiving mandatory services and,
+31 reported separately, optional services for each state agency receiving Title XIX and XXI funds; and
+32 (vi) Information submitted to the Centers for Medicare & Medicaid Services for the
+33 mandatory annual state reporting of the Core Set of Children’s Health Care Quality Measures for
+34 Medicaid and Children’s Health Insurance Program, behavioral health measures on the Core Set of
+LC003824 - Page 6 of 15
+
+1 Adult Health Care Quality Measures for Medicaid and the Core Sets of Health Home Quality
+2 Measures for Medicaid to ensure compliance with the Bipartisan Budget Act of 2018, Pub. L. No.
+3 115-123.
+4 The directors of the departments, as well as local governments and school departments,
+5 shall assist and cooperate with the secretary in fulfilling this responsibility by providing whatever
+6 resources, information, and support shall be necessary.
+7 (5) Resolve administrative, jurisdictional, operational, program, or policy conflicts among
+8 departments and their executive staffs and make necessary recommendations to the governor.
+9 (6) Ensure continued progress toward improving the quality, the economy, the
+10 accountability, and the efficiency of state-administered health and human services. In this capacity,
+11 the secretary shall:
+12 (i) Direct implementation of reforms in the human resources practices of the executive
+13 office and the departments that streamline and upgrade services, achieve greater economies of scale
+14 and establish the coordinated system of the staff education, cross-training, and career development
+15 services necessary to recruit and retain a highly-skilled, responsive, and engaged health and human
+16 services workforce;
+17 (ii) Encourage EOHHS-wide consumer-centered approaches to service design and delivery
+18 that expand their capacity to respond efficiently and responsibly to the diverse and changing needs
+19 of the people and communities they serve;
+20 (iii) Develop all opportunities to maximize resources by leveraging the state’s purchasing
+21 power, centralizing fiscal service functions related to budget, finance, and procurement,
+22 centralizing communication, policy analysis and planning, and information systems and data
+23 management, pursuing alternative funding sources through grants, awards, and partnerships and
+24 securing all available federal financial participation for programs and services provided EOHHS-
+25 wide;
+26 (iv) Improve the coordination and efficiency of health and human services legal functions
+27 by centralizing adjudicative and legal services and overseeing their timely and judicious
+28 administration;
+29 (v) Facilitate the rebalancing of the long-term system by creating an assessment and
+30 coordination organization or unit for the expressed purpose of developing and implementing
+31 procedures EOHHS-wide that ensure that the appropriate publicly funded health services are
+32 provided at the right time and in the most appropriate and least restrictive setting;
+33 (vi) Strengthen health and human services program integrity, quality control and
+34 collections, and recovery activities by consolidating functions within the office in a single unit that
+LC003824 - Page 7 of 15
+
+1 ensures all affected parties pay their fair share of the cost of services and are aware of alternative
+2 financing;
+3 (vii) Assure protective services are available to vulnerable elders and adults with
+4 developmental and other disabilities by reorganizing existing services, establishing new services
+5 where gaps exist, and centralizing administrative responsibility for oversight of all related
+6 initiatives and programs.
+7 (7) Prepare and integrate comprehensive budgets for the health and human services
+8 departments and any other functions and duties assigned to the office. The budgets shall be
+9 submitted to the state budget office by the secretary, for consideration by the governor, on behalf
+10 of the state’s health and human services agencies in accordance with the provisions set forth in §
+11 35-3-4.
+12 (8) Utilize objective data to evaluate health and human services policy goals, resource use
+13 and outcome evaluation and to perform short and long-term policy planning and development.
+14 (9) Establish an integrated approach to interdepartmental information and data
+15 management that complements and furthers the goals of the unified health infrastructure project
+16 initiative and that will facilitate the transition to a consumer-centered integrated system of state-
+17 administered health and human services.
+18 (10) At the direction of the governor or the general assembly, conduct independent reviews
+19 of state-administered health and human services programs, policies, and related agency actions and
+20 activities and assist the department directors in identifying strategies to address any issues or areas
+21 of concern that may emerge thereof. The department directors shall provide any information and
+22 assistance deemed necessary by the secretary when undertaking such independent reviews.
+23 (11) Provide regular and timely reports to the governor and make recommendations with
+24 respect to the state’s health and human services agenda.
+25 (12) Employ such personnel and contract for such consulting services as may be required
+26 to perform the powers and duties lawfully conferred upon the secretary.
+27 (13) Assume responsibility for complying with the provisions of any general or public law
+28 or regulation related to the disclosure, confidentiality, and privacy of any information or records,
+29 in the possession or under the control of the executive office or the departments assigned to the
+30 executive office, that may be developed or acquired or transferred at the direction of the governor
+31 or the secretary for purposes directly connected with the secretary’s duties set forth herein.
+32 (14) Hold the director of each health and human services department accountable for their
+33 administrative, fiscal, and program actions in the conduct of the respective powers and duties of
+34 their agencies.
+LC003824 - Page 8 of 15
+
+1 (15) Identify opportunities for inclusion with the EOHHS’ October 1, 2023, budget
+2 submission, to remove fixed eligibility thresholds for programs under its purview by establishing
+3 sliding scale decreases in benefits commensurate with income increases up to four hundred fifty
+4 percent (450%) of the federal poverty level. These shall include but not be limited to, medical
+5 assistance, childcare assistance, and food assistance.
+6 (16) Ensure that insurers minimize administrative burdens on providers that may delay
+7 medically necessary care, including requiring that insurers do not impose a prior authorization
+8 requirement for any admission, item, service, treatment, or procedure ordered by an in-network
+9 primary care provider. Provided, the prohibition shall not be construed to prohibit prior
+10 authorization requirements for prescription drugs. Provided further, that as used in this subsection
+11 (16) of this section, the terms “insurer,” “primary care provider,” and “prior authorization” means
+12 the same as those terms are defined in § 27-18.9-2.
+13 (17) The secretary shall convene, in consultation with the governor, an advisory working
+14 group to assist in the review and analysis of potential impacts of any adopted federal actions related
+15 to Medicaid programs. The working group shall develop options for administrative action or
+16 general assembly consideration that may be needed to address any federal funding changes that
+17 impact Rhode Island’s Medicaid programs.
+18 (i) The advisory working group may include, but not be limited to, the secretary of health
+19 and human services, director of management and budget, and designees from the following: state
+20 agencies, businesses, healthcare, public sector unions, and advocates.
+21 (ii) As soon as practicable after the enactment federal budget for fiscal year 2026, but no
+22 later than October 31, 2025, the advisory working group shall forward a report to the governor,
+23 speaker of the house, and president of the senate containing the findings, recommendations and
+24 options for consideration to become compliant with federal changes prior to the governor’s budget
+25 submission pursuant to § 35-3-7.
+26 (18) Promote fiscal integrity, transparency, and accountability in the state’s health care
+27 system by implementing the provisions of chapter 7.5 of title 42.
+28 SECTION 3. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+29 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+30 CHAPTER 7.5
+31 HEALTH CARE ENTITY FISCAL INTEGRITY, TRANSPARENCY, AND
+32 ACCOUNTABILITY
+33 42-7.5-1. Definitions.
+34 As used in this chapter:
+LC003824 - Page 9 of 15
+
+1 (1) Adverse change in financial condition” means material, negative changes in a nursing
+2 facility’s financial condition that may include, but not be limited to, changes in financial position,
+3 marginal financial status, cash flow or operation results, severe financial difficulties or other events
+4 that could affect the delivery of essential care and services that initiate the provisions of § 23-17-
+5 12.7.
+6 (2) “Audited financial statement” means the complete set of financial statements of a health
+7 care entity, including notes to the financial statements, which are subject to an independent audit
+8 in accordance with generally accepted auditing standards that certain reporting covered entities are
+9 required to submit to state and federal authorities. The quarterly reports required in this section
+10 should be approved by the governing board of the reporting covered entity although they are a
+11 supplement to and not a substitute for existing audited financial statement reporting requirements.
+12 (3) “Assessment” means review of the financial reports submitted by reporting covered
+13 entities for the purposes of identifying financial strengths, weaknesses, and risks, tracking
+14 utilization and capacity, and initiating any authorized remedies or corrective actions deemed
+15 necessary and appropriate to address financial risks in accordance with implementing regulations
+16 promulgated by the secretary of EOHHS.
+17 (4) “Bad debt” means loans or outstanding balances owed that are no longer deemed
+18 recoverable and are journaled as uncollectible accounts.
+19 (5) “Department” or “OFFICE” means the executive office of health and human services.
+20 (6) “Financial risk” means the possibility of facing adverse financial and/or operational
+21 consequences based on criteria established by regulations promulgated pursuant to this chapter by
+22 the secretary of EOHHS.
+23 (7) “Fiscal integrity” means a financial system that operates in a transparent, and
+24 accountable way that promotes stability and solvency and in accordance with widely accepted
+25 financial rules and standards.
+26 (8) “Imminent financial jeopardy” means an assessment finding indicating that a reporting
+27 covered entity is in financial distress that poses an immediate threat and significant likelihood of
+28 financial insolvency, the ceasing of operations or admissions, the loss of licensure, accreditation,
+29 or certification for third party reimbursement, and/or the reduction of access to health care services
+30 to the extent that public health and safety may be adversely affected.
+31 (9) “Parent organization” means an entity that has a controlling interest in one or more
+32 subsidiary reporting covered entities.
+33 (10) “Quarterly financial report” means detailed information about a reporting covered
+34 entity’s finances prepared by the entity in accordance with a format and/or set of specific auditing
+LC003824 - Page 10 of 15
+
+1 principles to be determined by the secretary.
+2 (11) “Reporting covered entity” means:
+3 (i) Hospitals and their parent organizations licensed by the department of health and
+4 actively operating under § 23-17-4 and the associated implementing regulations established in 216-
+5 RICR-40-10-4; and
+6 (ii) Federally qualified community health centers, hereinafter referred to as “FQHCs,”
+7 licensed by the state as a type of “organized ambulatory facility” in accordance with § 23-17-10
+8 and implementing regulations at 216-RICR40-10-3 and certified by the federal Centers for
+9 Medicare and Medicaid and the executive office of health and human services.
+10 (12) “Rhode Island code of regulations” or “RICR” means the online, uniform code
+11 maintained by the secretary of state that provides access to all proposed and final regulations filed
+12 by state agencies, boards, and commissions under the state's administrative procedures act to make
+13 government more transparent, accessible, and efficient.
+14 (13) “Secretary” means the secretary of the executive office of health and human services.
+15 42-7.5-2. Quarterly reporting required.
+16 (a) Beginning October 1, 2026, reporting covered entities are required to submit quarterly
+17 financial reports including, but not limited to, balance sheet and income statement information
+18 showing cash on hand, accounts payable and accounts receivable, gross and net patient revenues,
+19 other income, operating costs by category, other expenses, investment income and non-patient
+20 services revenues, assets, liabilities, and net surplus or profit margin, uninsured and bad debt costs,
+21 and net charity care and any other information as may be required by the secretary.
+22 The secretary shall consider ease of data collection, submission, and analysis from the
+23 perspective of both the reporting covered entities and the EOHHS when selecting a report format
+24 and shall pursue electronic formats to the full extent feasible.
+25 (b) Reporting covered entities shall submit quarterly reports to the secretary no later than
+26 sixty (60) business days after the end date of the preceding filing quarter. Quarters are as follows:
+27 Q1: January 1– March 31; Q2: April 1–June 30; Q3: July 1–September 30; Q4: October 1–
+28 December 31.
+29 (c) Quarterly reports shall be signed by a reporting covered entity’s chief financial officer
+30 or authorized financial signatory and include an attestation to the truthfulness and validity of the
+31 information contained in the report at the time it was filed with the secretary.
+32 (d) The quarterly reports shall be reviewed and provide the basis for an assessment and
+33 analysis of each reporting covered entity’s financial status and capacity. The secretary shall develop
+34 a process for conducting assessments and analyses of the reports in a systematic, objective, and
+LC003824 - Page 11 of 15
+
+1 timely manner that assures each reporting covered entity receives feedback of any noteworthy
+2 findings at least thirty (30) days prior to the deadline for the next quarterly report submission. The
+3 secretary may seek technical advice and support to assist in establishing this process and ensuring
+4 that it leverages existing information technology to the full extent feasible, and utilizes available
+5 objective data analytic tools. The secretary shall request that reporting covered entities provide
+6 quarterly financial statements in a mutually agreed upon format until such time as a permanent
+7 format is required.
+8 42-7.5-3. Penalties for non-compliance – fines.
+9 (a) A reporting covered entity that fails to submit a quarterly report on the date due without
+10 good cause is subject to a fine of five hundred dollars ($500) per day for each business day the
+11 report is past due. Good cause exceptions shall be defined in the regulations promulgated by the
+12 secretary.
+13 (b) Fines are to be paid to the secretary at the time the past due report is submitted to
+14 EOHHS. The fines shall be deposited into a restricted receipt account created in subsection (c) of
+15 this section.
+16 (c) There is hereby created a restricted receipt account in the general fund housed within
+17 the budget of EOHHS to be known as the “health care entity fiscal integrity, transparency and
+18 accountability account” which shall be used to carry out the provisions, policies, and purposes of
+19 this chapter. This account shall be exempt from the indirect cost recovery provisions of § 35-4-27.
+20 42-7.5-4. Notification, remedies, and corrective actions.
+21 (a) Each reporting covered entity shall be notified of the dates of receipt of the report and
+22 completion of the assessment and analyses. Such notification shall include any findings which
+23 require additional information from or actions by the reporting covered entity. Consistent with the
+24 intent to ensure solvency of reporting covered entities, as an initial step upon finding financial risk
+25 or significant financial jeopardy, EOHHS representatives shall meet with the reporting covered
+26 entity’s leadership to identify and document strategies to address financial risks.
+27 (b) If EOHHS makes a finding of financial risk or significant financial jeopardy, the notice
+28 shall provide that the provisions of § 23-17-12.7 have been initiated and include any actions that
+29 may be deemed necessary and appropriate in addition to, or in lieu of, the requirements herein. In
+30 all other instances in which the assessment and analyses findings indicate that the financial status
+31 of a reporting covered entity is at significant risk or poses imminent financial jeopardy, the
+32 notification shall indicate:
+33 (1) The range of corrective actions that the reporting health care entity is required to take,
+34 the obligations of their owner(s)/operator(s) to cooperate, and any actions that may be imposed for
+LC003824 - Page 12 of 15
+
+1 failing to do so.
+2 (2) The type of corrective action plan and follow-up reports the reporting covered entity is
+3 required to submit to the secretary in response, associated due dates, and any additional
+4 documentation that may be required.
+5 (3) Any reporting covered entity that is required to provide an independent or other
+6 additional analyses including forensic audits as part of a corrective action plan developed in
+7 accordance with this chapter, is responsible for paying all associated costs. The secretary may use
+8 the restricted receipt account to subsidize the costs of such analyses for a reporting covered entity
+9 that has insufficient resources to pay all associated costs.
+10 (4) Any fiscally sound necessary and appropriate actions the secretary and/or the health
+11 and human services directors are authorized to take to mitigate the risk or imminent jeopardy and
+12 secure health system stability and the corresponding obligations of the reporting covered entity;
+13 and/or;
+14 (5) In circumstances in which government action is deemed warranted and no authority for
+15 such exists within the EOHHS or the health and human services departments, any recommendations
+16 that will be made to the governor for the prompt resolution of any imminent risks identified.
+17 42-7.5-5. Restrictions.
+18 Nothing in this chapter obligates the secretary, the directors of the health and human
+19 services departments, or any other state official to provide financial assistance to a reporting
+20 covered entity identified as at serious financial risks even in instances in which the continued
+21 viability of an entity is in immediate jeopardy.
+22 42-7.5-6. Disclosure.
+23 The secretary shall make available the findings from the required reports that is not
+24 otherwise protected as confidential or deemed non-disclosable by federal or state law and
+25 regulations.
+26 42-7.5-7. Federal authorities and financing opportunities.
+27 In addition to the fines collected as described in § 42-7.2.1-3, the secretary is authorized to
+28 pursue additional funding including, but not limited to, authorized Medicaid Federal Match
+29 opportunities, grants, and foundation awards to stabilize reporting covered entities in imminent
+30 jeopardy and promote fiscal integrity, transparency and accountability in the state’s health care
+31 system. Any additional funds received for the purposes of this chapter that are eligible shall be
+32 deposited in the restricted receipt account established pursuant to § 42-7.2.1-3(c).
+33 42-7.5-8. Rules and regulations.
+34 The secretary is authorized to promulgate rules and regulations to carry out the provisions,
+LC003824 - Page 13 of 15
+
+1 policies, and purposes of this chapter.
+2 SECTION 4. This act shall take effect upon passage.
+========
+LC003824
+========
+LC003824 - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC FINANCE -- STATE FUNDS
+***
+1 This act would exempt the Health Care Entity Fiscal Integrity, Transparency and
+2 Accountability Act from the requirement that indirect cost recoveries of fifteen percent (15%) of
+3 funds from restricted receipt accounts be recorded as general revenues in the general fund. This act
+4 would also require quarterly financial reporting to the executive office of health and human services
+5 beginning on October 1, 2026.
+6 This act would take effect upon passage.
+========
+LC003824
+========
+LC003824 - Page 15 of 15

@@ -1,0 +1,346 @@
+Title: 
+Official Title: 
+Source: versions - 8151
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8151
+========
+LC005824
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO THE BLUE WAVE BOND FOR COASTAL PREPAREDNESS -- 2026 BOND
+REFERENDUM
+Introduced By: Representatives Spears, McEntee, Cortvriend, Boylan, Casimiro,
+McGaw, Azzinaro, Potter, Kennedy, and Dawson
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Short title.
+2 This act shall be known and may be cited as the "Blue Wave Bond for Coastal Preparedness
+3 Act."
+4 SECTION 2. Legislative findings and purpose. The general assembly finds that Rhode
+5 Island faces increasing risks from sea level rise, coastal erosion, storm surge, extreme precipitation,
+6 chronic flooding, and other climate-related hazards, which threaten public safety, public
+7 infrastructure, housing, environmental resources, and the state’s economy.
+8 The purpose of this act is to authorize the issuance of general obligation bonds to fund
+9 coastal preparedness and resilience projects that protect Rhode Island’s communities, critical
+10 facilities, and natural systems, while also supporting workforce readiness to plan, design, construct,
+11 and maintain climate-resilient infrastructure.
+12 SECTION 3. Authorization of general obligation bonds. For the purpose of financing
+13 coastal preparedness, resilience infrastructure, and workforce development projects as set forth in
+14 this act, the State of Rhode Island is authorized to issue general obligation bonds in a principal
+15 amount not to exceed one hundred million dollars ($100,000,000). The bonds shall be issued in
+16 such amounts and at such times as the governor and the general treasurer determine, and shall bear
+17 interest and mature in accordance with applicable provisions of Rhode Island law.
+18 SECTION 4. Use of proceeds - Eligible project types. Bond proceeds shall be used only
+
+1 for capital projects and related planning, design, engineering, permitting, acquisition, and
+2 construction costs that directly increase resilience to climate hazards. In addition, all eligible
+3 projects funded in whole or in part by funds from the Blue Wave Bond for Coastal Preparedness
+4 shall adhere to the requirements and obligations of chapter 13 of title 37 ("labor and payment of
+5 debts of contractors"), which require all relevant contractors and subcontractors performing work
+6 on blue economy bond projects to pay their employees in compliance with the provisions of R.I.
+7 Gen. Laws § 37-13-7.
+8 Eligible project types shall include, but not be limited to, the following:
+9 (a) Coastal and shoreline protection. Projects to reduce damage from coastal flooding,
+10 storm surge, and erosion, including:
+11 (1) Living shoreline installations and restoration;
+12 (2) Dune construction, dune restoration, and beach nourishment;
+13 (3) Salt marsh restoration and migration corridors;
+14 (4) Coastal buffer acquisition and conservation easements;
+15 (5) Nature-based wave attenuation systems; and
+16 (6) Shoreline stabilization where nature-based methods are not feasible.
+17 (b) Stormwater and Flood Mitigation Infrastructure. Projects to manage extreme rainfall
+18 and reduce inland flooding, including:
+19 (1) Expansion or replacement of stormwater drainage systems;
+20 (2) Culvert upsizing and replacement to meet future rainfall conditions;
+21 (3) Flood storage systems, detention basins, and green bank retrofits;
+22 (4) Permeable pavement and impervious surface removal projects;
+23 (5) Municipal stormwater system mapping and hydraulic modeling; and
+24 (6) Flood mitigation retrofits for high-risk neighborhoods and commercial districts.
+25 (c) Wastewater and drinking water system resilience. Projects to protect water quality and
+26 essential services, including:
+27 (1) Floodproofing wastewater treatment plants and pump stations;
+28 (2) Relocation or elevation of critical equipment in wastewater facilities;
+29 (3) Wet weather storage and overflow reduction systems;
+30 (4) Drinking water infrastructure hardening, redundancy, and backup power;
+31 (5) Protection of wellheads, reservoirs, and drinking water intakes; and
+32 (6) Infrastructure improvements that prevent sewage releases during storms.
+33 (d) Transportation and evacuation route resilience. Projects to maintain emergency access
+34 and mobility during flooding events, including:
+LC005824 - Page 2 of 10
+
+1 (1) Elevation of roads and bridges in flood-prone areas;
+2 (2) Flood barrier systems protecting key transportation corridors;
+3 (3) Roadway berm construction to reduce inundation;
+4 (4) Engineering and planning for managed retreat or rerouting of roadways; and
+5 (5) Resilient transit infrastructure improvements that support evacuation planning.
+6 (e) Energy and critical infrastructure hardening. Projects that protect essential lifeline
+7 systems, including:
+8 (1) Microgrids and backup power systems for critical facilities;
+9 (2) Hardening of substations and power distribution equipment;
+10 (3) Targeted undergrounding of vulnerable transmission and distribution lines;
+11 (4) Infrastructure redundancy to reduce outage risk in coastal communities; and
+12 (5) Protection of communications infrastructure and emergency systems.
+13 (f) Port, harbor, and working waterfront resilience. Projects to protect Rhode Island's
+14 coastal economy and supply chains, including:
+15 (1) Bulkhead elevation and reinforcement;
+16 (2) Flood barrier systems for ports and waterfront industrial zones;
+17 (3) Storm surge mitigation infrastructure at marinas and port facilities;
+18 (4) Shoreline protection for shipyards, fisheries, and waterfront businesses; and
+19 (5) Backup power and resilience upgrades to maintain port operations during outages.
+20 (g) Public facilities and community resilience hubs. Projects that protect public health and
+21 safety, including:
+22 (1) Floodproofing of public safety buildings, schools, shelters, and community centers;
+23 (2) Creation and retrofitting of resilience hubs with emergency power and supplies;
+24 (3) Protection of emergency medical services and hospital-adjacent infrastructure; and
+25 (4) Relocation of critical community services out of flood hazard zones.
+26 (h) Workforce preparedness and training. Projects and programs that develop Rhode
+27 Island's climate resilience workforce, including:
+28 (1) Workforce training programs for construction, engineering, green infrastructure,
+29 maritime, and coastal restoration;
+30 (2) Credentialing and apprenticeship programs related to resilience construction trades;
+31 (3) Partnerships with community colleges, technical schools, unions, and workforce
+32 boards;
+33 (4) Training for municipal and state staff in climate-resilient planning, design
+34 standards, and project implementation; and
+LC005824 - Page 3 of 10
+
+1 (5) Development of a statewide resilience workforce pipeline, including recruitment
+2 and career pathways.
+3 Funds under this subsection may be used for training facilities, program development, equipment
+4 purchases, and grants to qualified training providers; provided that, expenditures are directly related
+5 to implementation of climate resilience and coastal preparedness projects.
+6 SECTION 5. Project eligibility - Priority areas - Ten (10) year implementation
+7 requirement.
+8 (a) Legislative intent.
+9 It is the intent of the general assembly that bond proceeds authorized by this act shall be
+10 used exclusively for projects that address the most urgent and high-risk climate resilience needs
+11 identified by the State of Rhode Island for the upcoming decade.
+12 (b) Definitions.
+13 As used in this act, the following terms shall have the following meanings:
+14 (1) "Administering agency" means the governor's office or such state agency or agencies
+15 designated by the governor or by law to implement the provisions of this act including, but not
+16 limited to, the Rhode Island infrastructure bank, the department of environmental management ,
+17 the coastal resources management council , the department of transportation, or any successor
+18 agencies.
+19 (2) "Eligible project" means a capital improvement, natural infrastructure project,
+20 resilience retrofit, acquisition, engineering design, permitting activity, or workforce preparedness
+21 investment that is authorized under this act and meets the requirements of this section.
+22 (3) "High-risk area" means any geographic area within the State of Rhode Island that is
+23 identified in the resilience report, or through mapping and analysis incorporated into the resilience
+24 report, as subject to significant current or projected vulnerability to climate impacts including, but
+25 not limited to, sea level rise, coastal flooding, storm surge, coastal erosion, riverine flooding,
+26 extreme precipitation, heat impacts, repetitive loss flooding, or critical infrastructure exposure.
+27 (4) "Prioritized area" means any geographic area, municipality, neighborhood, watershed,
+28 coastal zone, port district, transportation corridor, or critical infrastructure service area identified
+29 in the resilience report as a focus area for near-term or medium-term resilience investment.
+30 (5) "Resilience Report" means the State of Rhode Island's most recently adopted statewide
+31 climate resilience strategy or resilience planning document including, but not limited to, the
+32 Resilient Rhody 2025 report, as published by the executive climate change coordinating council
+33 (EC4), the Rhode Island department of environmental management , or any successor entity, and
+34 any formal amendments or successor reports adopted by the state.
+LC005824 - Page 4 of 10
+
+1 (6) "Ten-year implementation horizon" means the period of ten (10) years following voter
+2 approval of this act, during which funded projects must be planned, designed, permitted, or
+3 constructed in alignment with the resilience report's priority actions, timelines, and identified
+4 implementation phases.
+5 (c) Mandatory alignment with the resilience report.
+6 All projects funded in whole or in part through the proceeds of the bonds authorized by
+7 this act shall be:
+8 (1) Directly related to high-risk areas or prioritized areas as defined in this section; and
+9 (2) Consistent with and supportive of the resilience actions, priority solutions, hazard
+10 mitigation objectives, or infrastructure protection strategies identified in the resilience report.
+11 (d) Ten-(10) year priority requirement.
+12 Bond proceeds shall be awarded to projects that are identified in the resilience report as
+13 requiring action within the ten-(10) year implementation horizon, including projects categorized as
+14 immediate, near-term, or medium-term priorities. Projects shall demonstrate that the funded
+15 activities will result in measurable resilience benefits within the ten-(10) year implementation
+16 horizon.
+17 (e) Prohibition on non-priority spending.
+18 No bond proceeds shall be obligated, expended, or awarded for any project that cannot
+19 demonstrate, to the satisfaction of the administering agency, a direct and documented connection
+20 to:
+21 (1) A high-risk area or prioritized area; and
+22 (2) A ten-(10) year priority action, resilience solution, or infrastructure need identified in
+23 the resilience report.
+24 (f) Required documentation for each project.
+25 Each applicant seeking bond funding shall submit documentation including, at minimum:
+26 (1) The location of the project and the specific high-risk or prioritized area served;
+27 (2) Citation to the relevant section(s), map(s), or priority action(s) in the resilience report
+28 demonstrating alignment;
+29 (3) A description of the climate hazards being addressed;
+30 (4) An estimate of the anticipated reduction in risk, damage, service disruption, or public
+31 safety vulnerability; and
+32 (5) A schedule demonstrating that the project will be initiated or completed within the ten-
+33 (10) year implementation horizon.
+34 (g) Public list of priority areas and eligible investments.
+LC005824 - Page 5 of 10
+
+1 Within one hundred eighty (180) days of voter approval of this act, the administering
+2 agency shall publish and maintain a publicly accessible list of:
+3 (1) High-risk and prioritized areas eligible for investment under this act; and
+4 (2) Project categories eligible for funding.
+5 Such list shall be based on the resilience report and updated as the State publishes revised
+6 risk mapping, hazard projections, or subsequent statewide resilience reports.
+7 (h) Enforcement.
+8 Any expenditure made in violation of this section shall be deemed an unauthorized
+9 expenditure of bond proceeds and shall be subject to corrective action, including reallocation of
+10 funds to eligible projects.
+11 SECTION 6. Allocation and administration.
+12 (a) The proceeds of the bonds authorized by this act shall be deposited in a special fund to
+13 be known as the Blue Wave Bond Fund.
+14 (b) The governor's office, in consultation with the Rhode Island infrastructure bank, the
+15 department of environmental management, the coastal resources management council, the
+16 department of transportation, the department of administration, and other relevant agencies, shall
+17 establish a process to prioritize and approve eligible projects.
+18 (c) In awarding funds, priority shall be given to projects that:
+19 (1) Protect critical facilities and vulnerable populations;
+20 (2) Reduce repetitive flood losses;
+21 (3) Advance nature-based solutions where feasible;
+22 (4) Improve statewide emergency response capacity;
+23 (5) Leverage federal, municipal, and private matching funds;
+24 (6) Support economic resilience of ports and working waterfronts;
+25 (7) Provide measurable climate risk reduction benefits; and
+26 (8) Create or sustain a trained workforce to implement resilience investments.
+27 SECTION 7. Allocation of bond proceeds - Funding schedule.
+28 (a) Allocation schedule.
+29 Notwithstanding any other provision of law, proceeds of the bonds authorized by this act
+30 shall be allocated for eligible project categories as follows:
+31 (1) Coastal and Shoreline Protection. Thirty Million Dollars ($30,000,000)
+32 (2) Stormwater and Flood Mitigation Infrastructure. Twenty Million Dollars ($20,000,000)
+33 (3) Wastewater and Drinking Water System Resilience. Fifteen Million Dollars
+34 ($15,000,000)
+LC005824 - Page 6 of 10
+
+1 (4) Transportation and Evacuation Route Resilience. Ten Million Dollars ($10,000,000)
+2 (5) Energy and Critical Infrastructure Hardening. Ten Million Dollars ($10,000,000)
+3 (6) Port, Harbor, and Working Waterfront Resilience. Ten Million Dollars ($10,000,000)
+4 (7) Public Facilities and Community Resilience Hubs. Three Million Dollars ($3,000,000)
+5 (8) Workforce Preparedness and Training. Two Million Dollars ($2,000,000)
+6 (b) Administrative cost limitation.
+7 No more than two percent (2%) of the total bond proceeds may be used for administrative
+8 purposes, including program management and grant administration.
+9 (c) Flexibility provision.
+10 The administering agency may transfer funds between categories listed in subsection (a)
+11 by no more than ten percent (10%) of the total allocation for any category; provided that:
+12 (1) Such transfer is justified by project readiness, cost escalation, or federal match
+13 opportunities;
+14 (2) The transfer remains consistent with section 5 of this act; and
+15 (3) notice of such transfer is provided in writing to the speaker of the house, the president
+16 of the senate, and the chairs of the house and senate finance committees no fewer than thirty (30)
+17 days prior to obligation of the transferred funds.
+18 (d) Minimum municipal grant set-aside.
+19 Not less than twenty-five percent (25%) of the proceeds authorized under this act shall be
+20 made available through competitive grants or direct awards to municipalities, regional entities, or
+21 quasi-public agencies for eligible projects, provided such projects meet the requirements of section
+22 5.
+23 (e) Matching incentives.
+24 The administering agency shall prioritize funding for projects that leverage federal funding,
+25 private investment, or municipal matching funds, including FEMA hazard mitigation programs,
+26 U.S. Army Corps of Engineers programs, and other federal infrastructure resilience grants.
+27 SECTION 8. Regional equity and distribution requirement.
+28 (a) Intent.
+29 The general assembly finds that climate impacts threaten all regions of Rhode Island and
+30 that equitable distribution of resilience investments is necessary to protect residents, economic
+31 assets, and critical infrastructure statewide.
+32 (b) Regional distribution.
+33 In awarding funds, the administering agency shall ensure that investments are distributed
+34 across coastal and inland regions of the state in a manner consistent with the high-risk and
+LC005824 - Page 7 of 10
+
+1 prioritized areas identified in the resilience report.
+2 (c) Minimum regional investment standard.
+3 To ensure statewide benefit, the administering agency shall allocate not less than:
+4 (1) Fifteen percent (15%) of total bond proceeds to projects located in or directly benefiting
+5 Washington County,
+6 (2) Fifteen percent (15%) of total bond proceeds to projects located in or directly benefiting
+7 Kent County,
+8 (3) Fifteen percent (15%) of total bond proceeds to projects located in or directly benefiting
+9 Providence County, and
+10 (4) Fifteen percent (15%) of total bond proceeds to projects located in or directly benefiting
+11 Bristol and Newport Counties, including communities in the East Bay and Aquidneck Island.
+12 (5) Fifteen percent (15%) of total bond proceeds to projects located in or directly benefiting
+13 Blackstone Valley, including communities in the West Bay and Northern Rhode Island.
+14 The remaining portion of bond proceeds may be allocated statewide to priority projects
+15 meeting the requirements of section 5 of this act.
+16 (d) Waiver authority.
+17 The administering agency may waive the minimum regional investment standards in
+18 subsection (c) of this section only upon written determination that:
+19 (1) Insufficient eligible projects are ready for implementation in a region within the ten-
+20 (10) year implementation horizon; or
+21 (2) A statewide critical infrastructure project provides substantial benefits across multiple
+22 regions.
+23 Any waiver shall be reported in the annual report required under section 9 of this act and
+24 shall include justification and alternative strategies to ensure equitable investment.
+25 SECTION 9. Accountability and reporting.
+26 (a) Within one hundred eighty (180) days of voter approval, the administering agency or
+27 agencies shall publish a Blue Wave Bond Implementation Plan identifying:
+28 (1) A preliminary list of projects to be funded;
+29 (2) Estimated costs and timelines;
+30 (3) Geographic distribution of investments;
+31 (4) Anticipated resilience outcomes and performance measures; and
+32 (5) Workforce preparedness investments and expected workforce outcomes.
+33 (b) An annual report shall be submitted to the governor and the general assembly and
+34 posted publicly, describing:
+LC005824 - Page 8 of 10
+
+1 (1) Funds obligated and expended;
+2 (2) Status of funded projects;
+3 (3) Workforce training outcomes and participation metrics;
+4 (4) Resilience performance measures achieved; and
+5 (5) Progress toward protecting high-risk and prioritized areas under the resilience report.
+6 SECTION 10. Proposition to be submitted to the people.
+7 At the general election to be held on the Tuesday after the first Monday in November 2026,
+8 there shall be submitted to the people of the State of Rhode Island, for their approval or rejection,
+9 the following proposition:
+10 The question submitted shall be substantially in the following form:
+11 BALLOT QUESTION.
+12 Shall the State of Rhode Island issue general obligation bonds in an amount not to exceed
+13 one hundred million dollars ($100,000,000) for the Blue Wave Bond for Coastal Preparedness to
+14 fund coastal protection, stormwater and flood mitigation, wastewater and drinking water resilience,
+15 transportation and evacuation route upgrades, energy and critical infrastructure hardening, port and
+16 working waterfront resilience, resilience hubs, and workforce preparedness and training programs,
+17 with investments limited to high-risk and prioritized areas identified in the state's resilience report
+18 for implementation within the next ten (10) years?
+19 YES
+20 NO
+21 SECTION 11. EFFECTIVE DATE. Sections 1, 2, 10, and 11 of this act shall take effect
+22 upon passage. The remaining sections of this act shall take effect when and if the state board of
+23 elections shall certify to the secretary of state that a majority of the qualified electors voting on the
+24 proposition contained in section 10 hereof have indicated their approval of the project thereunder.
+========
+LC005824
+========
+LC005824 - Page 9 of 10
+
+EXPLANATION
+OF
+A N A C T
+RELATING TO THE BLUE WAVE BOND FOR COASTAL PREPAREDNESS -- 2026 BOND
+REFERENDUM
+***
+1 This act would be a proposed bond measure that would authorize the State of Rhode Island
+2 to issue up to one hundred million dollars ($100,000,000) in general obligation bonds, subject to
+3 voter approval, to fund coastal preparedness and resilience projects. Funds would be used for
+4 shoreline protection, flood mitigation, stormwater and wastewater upgrades, protection of critical
+5 facilities, port and working waterfront resilience, and workforce preparedness and training
+6 programs to support resilience-related jobs and infrastructure investments. Bond proceeds may only
+7 be used for projects in high-risk and prioritized areas identified in the state’s resilience report for
+8 implementation within the next ten (10) years.
+9 Sections 1, 2, 10, and 11 of this act would take effect upon passage. The remaining sections
+10 of this act would take effect when and if the state board of elections shall certify to the secretary of
+11 state that a majority of the qualified electors voting on the proposition contained in section 10 of
+12 this act hereof have indicated their approval of the project thereunder.
+========
+LC005824
+========
+LC005824 - Page 10 of 10

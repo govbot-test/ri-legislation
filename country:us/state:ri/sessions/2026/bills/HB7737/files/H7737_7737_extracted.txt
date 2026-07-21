@@ -1,0 +1,175 @@
+Title: 
+Official Title: 
+Source: versions - 7737
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7737
+========
+LC004757
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- CONSUMER PFAS BAN ACT OF 2024
+Introduced By: Representatives Cortvriend, Speakman, Bennett, and Spears
+Date Introduced: February 12, 2026
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 23-18.18-3 of the General Laws in Chapter 23-18.18 entitled
+2 "Consumer PFAS Ban Act of 2024" is hereby amended to read as follows:
+3 23-18.18-3. Definitions.
+4 As used in this chapter:
+5 (1) “Adult mattress” means a mattress other than a crib mattress or toddler mattress.
+6 (2) “Apparel” means any of the following:
+7 (i) Clothing items intended for regular wear or formal occasions, including, but not limited
+8 to: undergarments, shirts, pants, skirts, dresses, overalls, bodysuits, costumes, vests, dancewear,
+9 suits, saris, scarves, tops, leggings, school uniforms, leisurewear, athletic wear, sports uniforms,
+10 everyday swimwear, formal wear, onesies, bibs, diapers, footwear, and everyday uniforms for
+11 workwear. Clothing items intended for regular wear or formal occasions does not include personal
+12 protective equipment or clothing items for exclusive use by the United States military; and
+13 (ii) Outdoor apparel.
+14 (3) “Artificial turf” means a man-made material that simulates the appearance of live turf,
+15 organic turf, grass, sod, or lawn.
+16 (4) “Carpet” or “rug” means a consumer product made from natural or synthetic fabric
+17 intended for use as a floor covering inside commercial or residential buildings. “Carpet or rug”
+18 does not include:
+19 (i) A carpet or rug intended solely for outdoor use;
+
+1 (ii) A carpet or rug intended solely for use inside an aircraft, train, watercraft, automobile,
+2 light duty truck, van, bus, or any other vehicle and any aftermarket or replacement part marketed
+3 solely for use in a vehicle;
+4 (iii) A resilient floor covering;
+5 (iv) Artificial turf;
+6 (v) A wall hanging or covering;
+7 (vi) A table mat; or
+8 (vii) A camping sleeping mat.
+9 (5) “Cookware” means durable cookware items that are used in homes and restaurants to
+10 prepare, dispense, or store food, foodstuffs, or beverages. “Cookware” includes pots, pans, skillets,
+11 grills, baking sheets, baking molds, trays, bowls, and cooking utensils.
+12 (6) “Cosmetic” means:
+13 (i) Articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or
+14 otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting
+15 attractiveness, or altering the appearance; and
+16 (ii) Articles intended for use as a component of any such article; except that such term shall
+17 not include soap.
+18 (7) “Covered product” means the following:
+19 (i) Artificial turf;
+20 (ii) Carpets or rugs;
+21 (iii) Cookware;
+22 (iv) Cosmetics;
+23 (v) Fabric treatments;
+24 (vi) Juvenile products;
+25 (vii) Menstrual products;
+26 (viii) Ski wax;
+27 (ix) Textile articles;
+28 (x) Firefighting personal protective equipment.
+29 (8) “Department” means the department of environmental management.
+30 (9) “Director” means the director of the department of environmental management.
+31 (10) “Fabric treatment” means a substance applied to fabric to give the fabric one or more
+32 characteristics, including, but not limited to, stain resistance or water resistance.
+33 (11) “Ingredient” has the same meaning as defined in 21 C.F.R. Part 700 § 700.3(e) and
+34 does not include any incidental ingredient as defined in 21 C.F.R. Part 701 § 701.3.
+LC004757 - Page 2 of 6
+
+1 (12) “Intentionally added PFAS” means PFAS deliberately added to during the
+2 manufacture of a covered product or one of its product components to provide a specific
+3 characteristic, appearance, or quality or to perform a specific function. “Intentionally added PFAS”
+4 also includes any degradation byproducts of PFAS or PFAS that are intentional breakdown
+5 products of an added chemical. The use of PFAS as a processing agent, mold release agent, or
+6 intermediate is considered intentional introduction for the purposes of this chapter where PFAS is
+7 detected in the final covered product where the continued presence of PFAs is desired in the final
+8 package or packaging component to perform a specific function.
+9 (13) “Juvenile product” means a product designed for use by infants and children under
+10 twelve (12) years of age, including, but not limited to: a baby or toddler foam pillow, bassinet,
+11 bedside sleeper, booster seat, changing pad, child restraint system for use in motor vehicles and
+12 aircraft, co-sleeper, crib mattress, floor playmat, highchair, highchair pad, infant bouncer, infant
+13 carrier, infant seat, infant sleep positioner, infant swing, infant travel bed, infant walker, nap cot,
+14 nursing pad, nursing pillow, playmat, playpen, play yard, polyurethane foam mat, pad, or pillow,
+15 portable foam nap mat, portable infant sleeper, portable hook-on chair, soft-sided portable crib,
+16 stroller, and toddler mattress. “Juvenile product” shall not include any of the following:
+17 (i) A children’s electronic product, including, but not limited to: a personal computer, audio
+18 and video equipment, calculator, wireless phone, game console, handheld device incorporating a
+19 video screen, or any associated peripheral such as a mouse, keyboard, power supply unit, power
+20 cord, film, camera, audio, visual, or imaging equipment or sensors;
+21 (ii) A medical device;
+22 (iii) An adult mattress; or
+23 (iv) Children’s electronic products containing integrated circuits, semiconductor package,
+24 or device that contains a semiconductor chip.
+25 (14) “Manufacturer” means the person that manufactures a product or whose brand name
+26 is affixed to the product. In the case of a product imported into the United States, “manufacturer”
+27 includes the importer or first domestic distributor of the product if the person that manufactured or
+28 assembled the product or whose brand name is affixed to the product does not have a presence in
+29 the United States.
+30 (15) “Medical device” has the same meaning as the term “device” as defined in 21 U.S.C.
+31 § 321(h).
+32 (16) “Menstrual product” means a product used to collect menstruation and vaginal
+33 discharge, including, but not limited to: tampons, pads, sponges, menstruation underwear, disks,
+34 applicators, and menstrual cups, whether disposable or reusable.
+LC004757 - Page 3 of 6
+
+1 (17) “Outdoor apparel” means clothing items intended primarily for outdoor activities,
+2 including, but not limited to: hiking, camping, skiing, climbing, bicycling, and fishing.
+3 (18) “Outdoor apparel for severe wet conditions” means apparel that are extreme and
+4 extended use products designed for outdoor sports experts for applications that provide protection
+5 against extended exposure to extreme rain conditions or against extended immersion in water or
+6 wet conditions, such as from snow, in order to protect the health and safety of the user and that are
+7 not marketed for general consumer use. Examples of extreme and extended use products include
+8 outerwear for offshore fishing, offshore sailing, whitewater kayaking, and mountaineering.
+9 (19) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” means substances that
+10 include any member of the class of fluorinated organic chemicals containing at least one fully
+11 fluorinated carbon atom.
+12 (20) “Personal protective equipment” means equipment worn to minimize exposure to
+13 hazards that cause serious workplace injuries and illnesses that may result from contact with
+14 chemical, radiological, physical, biological, electrical, mechanical, or other workplace or
+15 professional hazards.
+16 (21) “Product” means an item manufactured, assembled, packaged, or otherwise prepared
+17 for sale to consumers, including its product components, sold or distributed for personal or
+18 residential use, including for use in making other products. “Product” does not mean used products
+19 offered for sale or resale.
+20 (22) “Product component” means an identifiable component of a product, regardless of
+21 whether the manufacturer of the product is the manufacturer of the component.
+22 (23) “Ski wax” means a lubricant applied to the bottom of snow runners, including, but not
+23 limited to, skis and snowboards to improve their grip or glide properties. “Ski wax” includes related
+24 tuning products.
+25 (24) “Textile” means any item made in whole or part from a natural, manmade, or synthetic
+26 fiber, yarn, or fabric, and includes, but is not limited to: leather, cotton, silk, jute, hemp, wool,
+27 viscose, nylon, or polyester. “Textile” does not include single-use paper hygiene products,
+28 including, but not limited to: toilet paper, paper towels or tissues, or single-use absorbent hygiene
+29 products.
+30 (25) “Textile articles” means textile goods of a type customarily and ordinarily used in
+31 households and businesses, and include, but are not limited to: apparel, accessories, handbags,
+32 backpacks, draperies, shower curtains, furnishings, upholstery, beddings, towels, napkins, and
+33 tablecloths. “Textile articles” does not include:
+34 (i) A carpet or rug;
+LC004757 - Page 4 of 6
+
+1 (ii) A treatment for use on covered textiles or leathers;
+2 (iii) A textile used in or designed for laboratory analysis and testing;
+3 (iv) A stadium shade or other architectural fabric structure; or
+4 (v) Filtration or separation media processing equipment and plumbing, or a filter product
+5 used in industrial applications, including but not limited to, chemical or pharmaceutical
+6 manufacturing and environmental control technologies.
+7 SECTION 2. This act shall take effect upon passage.
+========
+LC004757
+========
+LC004757 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- CONSUMER PFAS BAN ACT OF 2024
+***
+1 This act would modify the definition of “intentionally added PFAS” to mean PFAS that
+2 are deliberately added during the manufacturing of a covered product to perform a specific function.
+3 This act would take effect upon passage.
+========
+LC004757
+========
+LC004757 - Page 6 of 6

@@ -1,0 +1,247 @@
+Title: 
+Official Title: 
+Source: versions - 3008
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3008
+========
+LC005211
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- RHODE ISLAND LIFE AND HEALTH INSURANCE
+GUARANTY ASSOCIATION ACT
+Introduced By: Senator Andrew R. Dimitri
+Date Introduced: March 06, 2026
+Referred To: Senate Commerce
+(by request)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-34.3-3 of the General Laws in Chapter 27-34.3 entitled "Rhode
+2 Island Life and Health Insurance Guaranty Association Act" is hereby amended to read as follows:
+3 27-34.3-3. Coverage and limitations.
+4 (a) This chapter shall provide coverage for the policies and contracts specified in subsection
+5 (b) of this section:
+6 (1) To persons who, regardless of where they reside (except for nonresident certificate
+7 holders under group policies or contracts), are the beneficiaries, assignees, or payees of the persons
+8 covered under subsection (a)(2); and
+9 (2) To persons who are owners of or certificate holders under the policies or contracts
+10 (other than unallocated annuity contracts, and structured settlement annuities) and in each case
+11 who:
+12 (i) Are residents; or
+13 (ii) Are not residents, but only under all of the following conditions:
+14 (A) The insurer that issued the policies or contracts is domiciled in this state;
+15 (B) The states in which the persons reside have associations similar to the association
+16 created by this chapter; and
+17 (C) The persons are not eligible for coverage by an association in any other state due to the
+18 fact that the insurer was not licensed in the state at the time specified in the state’s guaranty
+
+1 association law.
+2 (3) For unallocated annuity contracts set forth in subsection (b), subsections (a)(1) and
+3 (a)(2) shall not apply, and this chapter shall (except as provided in subsections (a)(5) and (a)(6))
+4 provide coverage to:
+5 (i) Persons who are owners of the unallocated annuity contracts if the contracts are issued
+6 to or in connection with a specific benefit plan whose plan sponsor has its principal place of
+7 business in this state; and
+8 (ii) Persons who are owners of unallocated annuity contracts issued to or in connection
+9 with government lotteries if the owners are residents.
+10 (4) For structured settlement annuities specified in subsection (b)(1), subsections (a)(1) and
+11 (a)(2) shall not apply, and this chapter shall (except as provided in subsections (a)(5) and (a)(6))
+12 provide coverage to a person who is a payee under a structured settlement annuity (or beneficiary
+13 of a payee if the payee is deceased), if the payee:
+14 (i) Is a resident, regardless of where the contract owner resides; or
+15 (ii) Is not a resident, but only under both of the following conditions:
+16 (A)(I) The contract owner of the structured settlement annuity is a resident; or
+17 (II) The contract owner of the structured settlement annuity is not a resident but the insurer
+18 that issued the structured settlement annuity is domiciled in this state; and
+19 The state in which the contract owner resides has an association similar to the association
+20 created by this chapter; and
+21 (B) Neither the payee or beneficiary, nor the contract owner, is eligible for coverage by the
+22 association of the state in which the payee or contract owner resides.
+23 (5) This chapter shall not provide coverage to:
+24 (i) A person who is a payee or beneficiary of a contract owner resident of this state, if the
+25 payee or beneficiary is afforded any coverage by the association of another state; or
+26 (ii) A person covered under subsection (a)(3), if any coverage is provided by the association
+27 of another state to the person.
+28 (6) This chapter is intended to provide coverage to a person who is a resident of this state
+29 and, in special circumstances, to a nonresident. In order to avoid duplicate coverage, if a person
+30 who would otherwise receive coverage under this chapter is provided coverage under the laws of
+31 any other state, the person shall not be provided coverage under this chapter. In determining the
+32 application of the provisions of this paragraph in situations where a person could be covered by the
+33 association of more than one state, whether as an owner, payee, beneficiary, or assignee, this
+34 chapter shall be construed in conjunction with other state laws to result in coverage by only one
+LC005211 - Page 2 of 8
+
+1 association.
+2 (b)(1) This chapter shall provide coverage to the persons specified in subsection (a) for
+3 direct, nongroup life, health, or annuity policies or contracts and supplemental policies or contracts
+4 to any of these, for certificates under direct group policies and contracts, and for unallocated annuity
+5 contracts issued by member insurers, except as limited by this chapter. Annuity contracts and
+6 certificates under group annuity contracts include, but are not limited to, guaranteed investment
+7 contracts, deposit administration contracts, unallocated funding agreements, allocated funding
+8 agreements, structured settlement annuities, annuities issued to or in connection with government
+9 lotteries, and any immediate or deferred annuity contracts.
+10 (2) This chapter shall not provide coverage for:
+11 (i) A portion of a policy or contract not guaranteed by the insurer, or under which the risk
+12 is borne by the policy or contract owner;
+13 (ii) A policy or contract of reinsurance, unless assumption certificates have been issued
+14 pursuant to the reinsurance policy or contract;
+15 (iii) A portion of a policy or contract to the extent that the rate of interest on which it is
+16 based, or the interest rate, crediting rate, or similar factor determined by use of an index or other
+17 external reference stated in the policy or contract employed in calculating returns or changes in
+18 value:
+19 (A) Averaged over the period of four (4) years prior to the date on which the member
+20 insurer becomes an impaired or insolvent insurer under this chapter, whichever is earlier, exceeds
+21 the rate of interest determined by subtracting two (2) percentage points from Moody’s corporate
+22 bond yield average averaged for that same four-year (4) period or for such lesser period if the policy
+23 or contract was issued less than four (4) years before the member insurer becomes an impaired or
+24 insolvent insurer under this chapter, whichever is earlier; and
+25 (B) On and after the date on which the member insurer becomes an impaired or insolvent
+26 insurer under this chapter, whichever is earlier, exceeds the rate of interest determined by
+27 subtracting three (3) percentage points from Moody’s corporate bond yield average as most recently
+28 available;
+29 (iv) A portion of a policy or contract issued to a plan or program of an employer,
+30 association, or other person to provide life, health, or annuity benefits to its employees, members,
+31 or others to the extent that the plan or program is self-funded or uninsured, including but not limited
+32 to benefits payable by an employer, association, or other person under:
+33 (A) A multiple employer welfare arrangement as defined in 29 U.S.C. § 1144;
+34 (B) A minimum premium group insurance plan;
+LC005211 - Page 3 of 8
+
+1 (C) A stop-loss group insurance plan; or
+2 (D) An administrative services only contract;
+3 (v) A portion of a policy or contract to the extent that it provides for:
+4 (A) Dividends or experience rating credits;
+5 (B) Voting rights; or
+6 (C) Payment of any fees or allowances to any person, including the policy or contract
+7 owner, in connection with the service to or administration of the policy or contract;
+8 (vi) A policy or contract issued in this state by a member insurer at a time when it was not
+9 licensed or did not have a certificate of authority to issue the policy or contract in this state;
+10 (vii) An unallocated annuity contract issued to or in connection with a benefit plan
+11 protected under the federal pension benefit guaranty corporation, regardless of whether the federal
+12 pension benefit guaranty corporation has yet become liable to make any payments with respect to
+13 the benefit plan;
+14 (viii) A portion of unallocated annuity contract that is not issued to or in connection with a
+15 specific employee, union or association of natural persons benefit plan, or a government lottery;
+16 (ix) A portion of a policy or contract to the extent that the assessments required by § 27-
+17 34.3-9 with respect to the policy or contract are preempted by federal or state law;
+18 (x) An obligation that does not arise under the express written terms of the policy or
+19 contract issued by the insurer to the contract owner or policy owner, including, without limitation:
+20 (A) Claims based on marketing materials;
+21 (B) Claims based on side letters, riders, or other documents that were issued by the insurer
+22 without meeting applicable policy form filing or approval requirements;
+23 (C) Misrepresentations of or regarding policy benefits;
+24 (D) Extracontractual claims; or
+25 (E) A claim for penalties or consequential or incidental damages;
+26 (xi) A contractual agreement that establishes the member insurer’s obligations to provide
+27 a book value accounting guaranty for defined contribution benefit plan participants by reference to
+28 a portfolio of assets that is owned by the benefit plan or its trustee, which in each case is not an
+29 affiliate of the member insurer;
+30 (xii) A portion of a policy or contract to the extent it provides for interest or other changes
+31 in value to be determined by the use of an index or other external reference stated in the policy or
+32 contract, but which have not been credited to the policy or contract, or as to which the policy or
+33 contract owner’s rights are subject to forfeiture, as of the date the member insurer becomes an
+34 impaired or insolvent insurer under this chapter, whichever is earlier. If a policy’s or contract’s
+LC005211 - Page 4 of 8
+
+1 interest or changes in value are credited less frequently than annually, then, for purposes of
+2 determining the values that have been credited and are not subject to forfeiture under this paragraph,
+3 the interest or change in value determined by using the procedures defined in the policy or contract
+4 will be credited as if the contractual date of crediting interest or changing values was the date of
+5 impairment or insolvency, whichever is earlier, and will not be subject to forfeiture;
+6 (xiii) Any transaction or combination of transactions between a protected cell and the
+7 general account or another protected cell of a protected cell company organized under chapter 64
+8 of this title; or
+9 (xiv) A policy or contract providing any hospital, medical, prescription drug, or other
+10 healthcare benefits pursuant to Part C or Part D of subchapter XVIII, chapter 7 of title 42 of the
+11 United States Code (commonly known as Medicare part C & D) or any regulations issued pursuant
+12 thereto.
+13 (c) The benefits that the association may become obligated to cover shall in no event exceed
+14 the lesser of:
+15 (1) The contractual obligations for which the insurer is liable or would have been liable if
+16 it were not an impaired or insolvent insurer; or
+17 (2)(i) With respect to any one life, regardless of the number of policies or contracts:
+18 (A) Three hundred thousand dollars ($300,000) in life insurance death benefits, but not
+19 more than one hundred thousand dollars ($100,000) in net cash surrender and net cash withdrawal
+20 values for life insurance;
+21 (B) In health insurance benefits:
+22 (I) One hundred thousand dollars ($100,000) for coverages not considered as disability
+23 insurance or basic hospital, medical, and surgical insurance or major medical insurance or long-
+24 term care insurance, including any net cash surrender and net cash withdrawal values;
+25 (II) Three hundred thousand dollars ($300,000) for disability insurance and three hundred
+26 thousand dollars ($300,000) for long-term care insurance;
+27 (III) Five hundred thousand dollars ($500,000) for basic hospital, medical, and surgical
+28 insurance; or
+29 (C) Two hundred fifty thousand dollars ($250,000) Five hundred thousand dollars
+30 ($500,000) in the present value of annuity benefits, including net cash surrender and net cash
+31 withdrawal values;
+32 (ii) With respect to each individual participating in a governmental retirement plan
+33 established under § 401, § 403(b), or § 457 of the U.S. Internal Revenue Code, 26 U.S.C. § 401,
+34 § 403(b), or § 457, covered by an unallocated annuity contract or the beneficiaries of each such
+LC005211 - Page 5 of 8
+
+1 individual if deceased, in the aggregate, two hundred fifty thousand dollars ($250,000) in present
+2 value annuity benefits, including net cash surrender and net cash withdrawal values;
+3 (iii) With respect to each payee of a structured settlement annuity or beneficiary or
+4 beneficiaries, of the payee if deceased, two hundred fifty thousand dollars ($250,000) in present
+5 value annuity benefits, in the aggregate, including net cash surrender and net cash withdrawal
+6 values if any;
+7 (iv) However in no event shall the association be obligated to cover more than: (A) an
+8 aggregate of three hundred thousand dollars ($300,000) in benefits with respect to any one life
+9 under this subsection (c)(2)(iv) and subsections (c)(2)(i), (c)(2)(ii), and (c)(2)(iii) except with
+10 respect to benefits for basic hospital, medical, and surgical insurance and major medical insurance
+11 under subsection (c)(2)(i)(B), in which case the aggregate liability of the association shall not
+12 exceed five hundred thousand dollars ($500,000) with respect to any one individual; or (B) with
+13 respect to one owner of multiple nongroup policies of life insurance, whether the policy owner is
+14 an individual, firm, corporation, or other person, and whether the persons insured are officers,
+15 managers, employees, or other persons, more than five million dollars ($5,000,000) in benefits,
+16 regardless of the number of policies and contracts held by the owner;
+17 (v) With respect to either: (A) one contract owner provided coverage under subsection
+18 (a)(3)(i); or (B) one plan sponsor whose plans own directly or in trust any one or more unallocated
+19 annuity contracts not included in subsection (c)(2)(ii), five million dollars ($5,000,000) in benefits,
+20 irrespective of the number of contracts with respect to the contract owner or plan sponsor. Provided,
+21 however, in the case of one or more unallocated annuity contracts that are covered contracts under
+22 this chapter and are owned by a trust or other entity for the benefit of two (2) or more plan sponsors,
+23 coverage shall be afforded by the association if the largest interest in the trust or entity owning the
+24 contract or contracts is held by a plan sponsor whose principal place of business is in this state and
+25 in no event shall the association be obligated to cover more than five million dollars ($5,000,000)
+26 in benefits with respect to all such unallocated contracts;
+27 (vi) The limitations set forth in this subsection (c) are limitations on the benefits for which
+28 the association is obligated before taking into account either its subrogation and assignment rights
+29 or the extent to which those benefits could be provided out of the assets of the impaired or insolvent
+30 insurer attributable to covered policies. The costs of the association’s obligations under this chapter
+31 may be met by the use of assets attributable to covered policies or reimbursed to the association
+32 pursuant to its subrogation and assignment rights.
+33 (d) In performing its obligations to provide coverage under § 27-34.3-8, the association
+34 shall not be required to guarantee, assume, reinsure, or perform, or cause to be guaranteed, assumed,
+LC005211 - Page 6 of 8
+
+1 reinsured, or performed, contractual obligations of the insolvent or impaired insurer under a
+2 covered policy or contract that do not materially affect the economic values or economic benefits
+3 of the covered policy or contract.
+4 SECTION 2. This act shall take effect upon passage.
+========
+LC005211
+========
+LC005211 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- RHODE ISLAND LIFE AND HEALTH INSURANCE
+GUARANTY ASSOCIATION ACT
+***
+1 This act would require the Rhode Island life and health insurance guarantee association to
+2 be obligated to cover a minimum of five hundred thousand dollars ($500,000) in present value of
+3 annuity benefits, including net cash surrender and net cash withdrawal values.
+4 This act would take effect upon passage.
+========
+LC005211
+========
+LC005211 - Page 8 of 8

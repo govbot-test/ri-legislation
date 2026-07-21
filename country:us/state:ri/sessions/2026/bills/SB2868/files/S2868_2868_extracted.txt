@@ -1,0 +1,299 @@
+Title: 
+Official Title: 
+Source: versions - 2868
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2868
+========
+LC004773
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PHYSICIAN ASSISTANTS
+Introduced By: Senators Valverde, Lauria, Urso, Acosta, Ujifusa, Euer, Thompson,
+DiMario, Murray, and Gallo
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 5-54-2, 5-54-8, 5-54-9 and 5-54-22 of the General Laws in Chapter
+2 5-54 entitled "Physician Assistants" are hereby amended to read as follows:
+3 5-54-2. Definitions.
+4 As used in this chapter, the following words have the following meanings:
+5 (1) “Administrator” means the administrator, division of professional regulation.
+6 (2) “Approved program” means a program for the education and training of physician
+7 assistants formally approved by the American Medical Association’s (A.M.A.’s) Committee on
+8 Allied Health, Education and Accreditation, its successor, the Commission on Accreditation of
+9 Allied Health Education Programs (CAAHEP) or its successor.
+10 (3) “Approved program for continuing medical education” means a program for continuing
+11 education approved by the American Academy of Physician Assistants (AAPA) or the
+12 Accreditation Council for Continuing Medical Education of the American Medical Association
+13 (AMA), or the American Academy of Family Physicians (AAPFP) or the American Osteopathic
+14 Association Committee on Continuing Medical Education (AOACCME) or any other board-
+15 approved program.
+16 (4) “Board” means the board of licensure of physician assistants.
+17 (5) “Collaboration” means the physician assistant shall, as indicated by the patient’s
+18 condition, the education, competencies, and experience of the physician assistant, and the standards
+19 of care, consult with or refer to an appropriate physician or other healthcare professional. The
+
+1 degree of collaboration shall be determined by the practice and includes decisions made by a
+2 physician employer affiliated with the practice, physician medical group practice as defined in § 5-
+3 37-1(15), and or the credentialing and privileging systems of a licensed hospital, health center, or
+4 ambulatory care center healthcare facility licensed pursuant to chapter 17 of title 23, or a health
+5 maintenance organization licensed pursuant to chapter 17 of title 23 or chapter 41 of title 27. A
+6 physician must be accessible at all times for consultation by the physician assistant.
+7 (6) “Director” means the director of the department of health.
+8 (7) “Division” means the division of professional regulation, department of health.
+9 (8) [Deleted by P.L. 2013, ch. 320, § 1 and P.L. 2013, ch. 420, § 1.]
+10 (9) “Physician” means a person licensed under the provisions of chapter 29 or 37 of this
+11 title.
+12 (10) “Physician assistant” or “PA” means a person who is qualified by academic and
+13 practical training to provide medical and surgical services in collaboration with physicians.
+14 (11) “Unprofessional conduct” includes, but is not limited to, the following items or any
+15 combination and may be defined by regulations established by the board with prior approval of the
+16 director:
+17 (i) Fraudulent or deceptive procuring or use of a license;
+18 (ii) Representation of himself or herself as a physician;
+19 (iii) Conviction of a felony; conviction of a crime arising out of the practice of medicine.
+20 All advertising of medical business that is intended or has a tendency to deceive the public;
+21 (iv) Abandonment of a patient;
+22 (v) Dependence upon a controlled substance, habitual drunkenness, or rendering
+23 professional services to a patient while intoxicated or incapacitated by the use of drugs;
+24 (vi) Promotion of the sale of drugs, devices, appliances, or goods or services provided for
+25 a patient in a manner that exploits the patient for the financial gain of the physician assistant;
+26 (vii) Immoral conduct of a physician assistant in the practice of medicine;
+27 (viii) Willfully making and filing false reports or records;
+28 (ix) Willful omission to file or record or willfully impeding or obstructing a filing or
+29 recording, or inducing another person to omit to file or record medical or other reports as required
+30 by law;
+31 (x) Agreeing with clinical or bioanalytical laboratories to accept payments from these
+32 laboratories for individual tests or test series for patients;
+33 (xi) Practicing with an unlicensed physician or physician assistant or aiding or abetting
+34 these unlicensed persons in the practice of medicine;
+LC004773 - Page 2 of 9
+
+1 (xii) Offering, undertaking, or agreeing to cure or treat a disease by a secret method,
+2 procedure, treatment, or medicine;
+3 (xiii) Professional or mental incompetence;
+4 (xiv) Surrender, revocation, suspension, limitation of privilege based on quality of care
+5 provided, or any other disciplinary action against a license or authorization to practice in another
+6 state or jurisdiction; or surrender, revocation, suspension, or any other disciplinary action relating
+7 to membership on any medical staff or in any medical professional association, or society while
+8 under disciplinary investigation by any of those authorities or bodies for acts or conduct similar to
+9 acts or conduct that would constitute grounds for action as stated in this chapter;
+10 (xv) Any adverse judgment, settlement, or award arising from a medical liability claim
+11 related to acts or conduct that would constitute grounds for action as stated in this chapter;
+12 (xvi) Failure to furnish the board, the administrator, investigator, or representatives,
+13 information legally requested by the board;
+14 (xvii) Violation of any provisions of this chapter or the rules and regulations promulgated
+15 by the director or an action, stipulation, or agreement of the board;
+16 (xviii) Cheating or attempting to subvert the certifying examination;
+17 (xix) Violating any state or federal law or regulation relating to controlled substances;
+18 (xx) Medical malpractice;
+19 (xxi) Sexual contact between a physician assistant and patient during the existence of the
+20 physician assistant/patient relationship;
+21 (xxii) Providing services to a person who is making a claim as a result of a personal injury,
+22 who charges or collects from the person any amount in excess of the reimbursement to the physician
+23 assistant by the insurer as a condition of providing or continuing to provide services or treatment.
+24 5-54-8. Permitted healthcare practices by physician assistants.
+25 (a) Physician assistants shall practice in with collaboration with physicians as defined in §
+26 5-54-2(5). A physician assistant may provide any medical or surgical services that are within the
+27 physician assistant’s skills, education, and training. Whenever any provision of general or public
+28 law or regulation requires a signature, certification, stamp, verification, affidavit, or endorsement
+29 by a physician, it shall be deemed to include a signature, certification, stamp, verification, affidavit,
+30 or endorsement by a physician assistant. Physician assistants may perform those duties and
+31 responsibilities consistent with the limitations of this section, including prescribing, administering,
+32 procuring, and dispensing of drugs and medical devices. Physician assistants may request, receive,
+33 sign for, and distribute professional samples of drugs and medical devices to patients only within
+34 the limitations of this section. Notwithstanding any other provisions of law, a physician assistant
+LC004773 - Page 3 of 9
+
+1 may provide medical and surgical services when those services are rendered in collaboration with
+2 a licensed physician.
+3 (b) [Deleted by P.L. 2019, ch. 197, § 1 and P.L. 2019, ch. 230, § 1].
+4 (c) Physician assistants may write prescriptions and medical orders to the extent provided
+5 in this paragraph. When extended medical staff privileges by a licensed hospital or other licensed
+6 healthcare facility in accordance with subsection (e) of this section, a physician assistant may write
+7 medical orders for inpatients as delineated by the medical staff bylaws of the facility as well as its
+8 credentialing process and applicable governing authority. Physician assistants may prescribe
+9 legend medications including Schedule II, III, IV, and V medications under chapter 28 of title 21
+10 of the Rhode Island uniform controlled substances act, medical therapies, medical devices, and
+11 medical diagnostics.
+12 (d) When collaborating with a physician licensed under chapter 29 of this title, the service
+13 rendered by the physician assistant shall be limited to the foot. The “foot” is defined as the pedal
+14 extremity of the human body and its articulations, and includes the tendons and muscles of the
+15 lower leg only as they are involved in conditions of the foot.
+16 (e) Hospitals and other licensed healthcare facilities have discretion to grant privileges to
+17 a physician assistant and to define the scope of privileges or services that a physician assistant may
+18 deliver in a facility.
+19 (f) A physician assistant shall not undertake or represent that he or she is qualified to
+20 provide a medical or surgical care service that he or she knows or reasonably should know to be
+21 outside his or her competence or is prohibited by law.
+22 (g) Notwithstanding any other provision of law or regulation, a physician assistant shall be
+23 considered to be a primary care provider when the physician assistant is practicing in the medical
+24 specialties required for a physician to be a primary care provider.
+25 5-54-9. Criteria for licensure as a physician assistant.
+26 The board shall recommend to the director for licensure as a physician assistant an
+27 applicant who:
+28 (1) Is of good character and reputation;
+29 (2) Graduated from a physician-assistant training program certified by the AMA’s
+30 Committee on Allied Health, Education, and Accreditation, its successor, the Commission on
+31 Accreditation of Allied Health Education Programs (CAAHEP), its successor, or the Accreditation
+32 Review Commission on Education for the Physician Assistant (ARC-PA), or its successor;
+33 (3) Passed the National Commission on Certification of Physician Assistants physician
+34 assistant national certification examination or any other national exam approved by the board;
+LC004773 - Page 4 of 9
+
+1 (4) Submitted a completed application together with the required fee as set forth in § 23-1-
+2 54; and
+3 (5) After January 1, 2027, candidates for initial licensure and licensure renewal shall
+4 complete a criminal history records check. The board shall promulgate rules and regulations to
+5 fulfill this requirement.
+6 5-54-22. Continuing medical education.
+7 Every physician assistant licensed to practice within the state shall be required to have
+8 satisfactorily completed twenty-five (25) fifty (50) hours of approved continuing medical education
+9 annually biannually. The annual biannual period for accumulation of continuing-education hours
+10 commences on the first day of October June and runs through the last day of September May
+11 beginning in 1996 2026. Beginning with the annual biannual renewal period commencing the first
+12 day of October 1997 June 2027, the administrator shall not renew the certificate of licensure until
+13 satisfactory evidence of the completion of the required continuing medical education is provided
+14 to the division. The board may extend these educational requirements for only one six (6) month
+15 period if the board is satisfied that the applicant has suffered hardship that prevented the applicant
+16 from completing the educational requirements. No recertification to practice medicine in this state
+17 shall be refused, nor shall any certificate be suspended or revoked, except:
+18 (1) As provided for in this chapter; and
+19 (2) For failure to provide satisfactory evidence of continuing medical education as provided
+20 for in this section.
+21 SECTION 2. Section 5-54-28 of the General Laws in Chapter 5-54 entitled "Physician
+22 Assistants" is hereby repealed.
+23 5-54-28. Participation in charitable and voluntary care.
+24 A physician assistant licensed in this state, or licensed or authorized to practice in any other
+25 U.S. jurisdiction, or who is credentialed by a federal employer or meets the licensure requirements
+26 of his or her requisite federal agency as a physician assistant may volunteer to render such care that
+27 he or she is able to provide at a children’s summer camp or for a public or community event or in
+28 a licensed ambulatory health center providing free care. Such care must be rendered without
+29 compensation or remuneration. It is the obligation of the physician assistant to assure adequate and
+30 appropriate professional liability coverage.
+31 SECTION 3. Chapter 5-54 of the General Laws entitled "Physician Assistants" is hereby
+32 amended by adding thereto the following section:
+33 5-54-29. Restrictive covenants.
+34 (a) Any contract or agreement that creates or establishes the terms of a partnership,
+LC004773 - Page 5 of 9
+
+1 employment, or any other form of professional relationship with a physician assistant licensed to
+2 practice pursuant to this chapter that includes any restriction of the right of such physician assistant
+3 to practice shall be void and unenforceable with respect to said restriction; provided, however, that
+4 nothing in this section shall render void or unenforceable the remaining provisions of any such
+5 contract or agreement.
+6 (b) Restrictions rendered void under subsection (a) of this section shall include, but shall
+7 not be limited to, the following:
+8 (1) The right to practice in any geographic area for any period of time after the termination
+9 of such partnership, employment, or professional relationship;
+10 (2) The right of such physician assistant to provide treatment, advise, consult with or
+11 establish a professional relationship with any current patient of the employer; and
+12 (3) The right of such physician assistant to solicit or seek to establish a professional
+13 relationship with any current patient of the employer.
+14 (c) Notwithstanding the foregoing, the prohibition on physician assistant covenants shall
+15 not apply in connection with the purchase and sale of a practice; provided that, the restrictive
+16 covenant and/or non-compete covenant is for a period of not more than five (5) years.
+17 SECTION 4. Section 16-91-3 of the General Laws in Chapter 16-91 entitled "School and
+18 Youth Programs Concussion Act" is hereby amended to read as follows:
+19 16-91-3. School district’s guidelines to be developed and implemented.
+20 (a) The department of education and the department of health shall work in concert with
+21 the Rhode Island Interscholastic League to develop and promulgate guidelines to inform and
+22 educate coaches, teachers, school nurses, youth athletes, and their parents and/or guardians of the
+23 nature and risk of concussion and head injury, including continuing to play after concussion or head
+24 injury. A concussion and head injury information sheet shall be signed and returned by the youth
+25 athlete and the athlete’s parent and/or guardian prior to the youth athlete’s return to practice or
+26 competition.
+27 (b) School districts are required to use training materials made available by the United
+28 States Center for Disease Control and Prevention entitled “Heads Up: Concussion in the High
+29 School Sports/Concussion in Youth Sports” and any updates or amendments thereto, or training
+30 materials substantively and substantially similar thereto. The department of education shall post
+31 training materials made available by the Center for Disease Control and Prevention and the Rhode
+32 Island Interscholastic League on its website. All coaches and volunteers involved in a youth sport
+33 or activity covered by this chapter must complete a training course and a refresher course annually
+34 thereafter in concussions and traumatic brain injuries. All school nurses must complete a training
+LC004773 - Page 6 of 9
+
+1 course and an annual refresher course in concussions and traumatic brain injuries. Teachers and
+2 teachers’ aides are strongly encouraged to complete the training course in concussions and
+3 traumatic brain injuries. Training may consist of videos, classes, and any other generally accepted
+4 mode and medium of providing information.
+5 (c) School districts are encouraged to have all student athletes perform baseline
+6 neuropsychological testing, computerized or otherwise. Parents and/or guardians shall be provided
+7 with information as to the risk of concussion and/or traumatic brain injuries prior to the start of
+8 every sport season and they shall sign an acknowledgement as to their receipt of such information.
+9 (d) A youth athlete, who is suspected of sustaining a concussion or head injury in a practice
+10 or game, shall be removed from competition at that time.
+11 (e) A youth athlete, who has been removed from play, may not return to play until the
+12 athlete is evaluated by a licensed physician, physician assistant, or certified nurse practitioner who
+13 may consult with an athletic trainer, all of whom shall be trained in the evaluation and management
+14 of concussions. The athlete must receive written clearance to return to play from that licensed
+15 physician, physician assistant, or certified nurse practitioner.
+16 (f) All school districts are encouraged to have an athletic trainer, or similarly trained
+17 person, at all recreational and athletic events addressed by this statute.
+18 SECTION 5. Section 16-91.1-3 of the General Laws in Chapter 16-91.1 entitled "The
+19 Sudden Cardiac Arrest Prevention Act" is hereby amended to read as follows:
+20 16-91.1-3. School districts’ guidelines to be developed and implemented.
+21 (a) The department of education and the department of health shall promulgate guidelines
+22 to inform and educate coaches, teachers, school nurses, youth athletes, and their parents and/or
+23 guardians about the nature and warning signs of sudden cardiac arrest, including the risks associated
+24 with continuing to play or practice after experiencing the following symptoms: fainting or seizures
+25 during exercise, unexplained shortness of breath, chest pains, dizziness, racing heart rate and
+26 extreme fatigue.
+27 (b) School districts may use training materials made available at no cost to the school
+28 district by organizations such as Simon’s Fund, Parent Heart Watch, Sudden Arrhythmia Death
+29 Syndromes Foundation, or training materials substantively and substantially similar thereto. The
+30 department of education shall post links to training materials on its website. All coaches and
+31 volunteers involved in a youth sport program or activity covered by this chapter must complete a
+32 training course that may be completed online about the nature and warning signs of sudden cardiac
+33 arrest, including the risks associated with continuing to play or practice after experiencing
+34 symptoms including: fainting or seizures during exercise, unexplained shortness of breath, chest
+LC004773 - Page 7 of 9
+
+1 pains, dizziness, racing heart rate and extreme fatigue. Training may consist of videos, classes, and
+2 any other generally accepted mode and medium of providing information.
+3 (c) Parents and/or guardians shall be provided with information as to the nature and
+4 warning signs of sudden cardiac arrest prior to the start of every sport season.
+5 (d)(1) A student who, as determined by a game official, coach from the student’s team,
+6 certified athletic trainer, licensed physician, or other official designated by the student’s school
+7 entity, exhibits signs or symptoms of sudden cardiac arrest while participating in an athletic activity
+8 shall be removed by the coach from participation at that time, subject to subsection (d)(3) of this
+9 section.
+10 (2) If a student is known to have exhibited signs or symptoms of sudden cardiac arrest at
+11 any time prior to or following an athletic activity, the student shall be prevented from participating
+12 in an athletic activity, subject to subsection (d)(3) of this section.
+13 (3) A student removed or prevented from participating in an athletic activity under
+14 subsections (d)(1) or (d)(2) of this section shall not return to participation until the student is
+15 evaluated and cleared for return to participation in writing by a licensed physician, physician
+16 assistant or certified registered nurse practitioner, or cardiologist.
+17 (e) All school districts are encouraged to have an athletic trainer, or similarly trained
+18 person, at all recreational and athletic events addressed by this statute.
+19 SECTION 6. This act shall take effect upon passage.
+========
+LC004773
+========
+LC004773 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PHYSICIAN ASSISTANTS
+***
+1 This act would increase continuing medical education requirements for physician assistants
+2 to fifty (50) hours biannually. The act also would remove restrictions of physician assistants to
+3 render charitable care provided they have liability coverage; permit physician assistants to render
+4 aid under The School and Youth Programs Concussion Act and “The Sudden Cardiac Arrest
+5 Prevention Act; and remove restrictive covenants and non-compete agreements.
+6 This act would take effect upon passage.
+========
+LC004773
+========
+LC004773 - Page 9 of 9

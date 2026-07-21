@@ -1,0 +1,181 @@
+Title: 
+Official Title: 
+Source: versions - 2380
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2380
+========
+LC004627
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE HOSPITAL CONVERSIONS ACT
+Introduced By: Senators Euer, DiPalma, and Ujifusa
+Date Introduced: January 30, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings. The general assembly finds and declares that:
+2 (1) Birthing centers, including freestanding centers and hospital-operated birthing units,
+3 play a critical role in ensuring safe, timely, and equitable access to maternal, perinatal, and newborn
+4 care across Rhode Island.
+5 (2) The closure or reduction of birthing centers has significant consequences for maternal
+6 morbidity and mortality, newborn outcomes, emergency transport times, and regional healthcare
+7 capacity.
+8 (3) Rhode Island law does not require sufficient advance notice, public transparency, or
+9 rigorous financial review before a birthing center is closed or its operations are significantly
+10 reduced.
+11 (4) Given ongoing consolidation within regional healthcare systems, it is essential that the
+12 state receive complete and accurate financial information, including system-level data, to determine
+13 whether a birthing center's closure is truly unavoidable.
+14 (5) It is in the public interest to establish a strong review process requiring advance notice,
+15 robust financial disclosure, community engagement, and independent analysis to protect Rhode
+16 Island families, particularly in underserved and high-risk communities.
+17 SECTION 2. Chapter 23-17.14 of the General Laws entitled "The Hospital Conversions
+18 Act" is hereby amended by adding thereto the following section:
+19 23-17.14-18.1. The Rhode Island birthing center access, transparency, and financial
+
+1 accountability act of 2026.
+2 (a) For purposes of this section:
+3 (1) "Applicant" means the birthing center submitting an application pursuant to subsection
+4 (d) of this section.
+5 (2) "Birthing center" means any freestanding birthing center licensed under chapter 17 of
+6 title 23, and any birthing unit, maternity unit, perinatal unit, or labor-and-delivery service operated
+7 by a hospital or healthcare facility.
+8 (3) "Closure" means the permanent cessation of all birthing services at a birthing center.
+9 (4) "Closure application" means the application required by subsection (d) of this section.
+10 (5) "Discontinuation of services" means the cessation of any prenatal, perinatal,
+11 postpartum, or birthing-related service or program offered by a birthing center without complete
+12 closure of the facility.
+13 (6) "Significant reduction" or "significantly reduced" means:
+14 (i) A reduction of twenty-five percent (25%) or more in capacity or annual volume;
+15 (ii) A reduction in operating hours by twenty-five percent (25%) or more;
+16 (iii) Elimination of labor, delivery, or postpartum services; or
+17 (iv) Any relocation of birthing-related services outside the municipality in which the
+18 service is currently located.
+19 (b) No birthing center shall be closed, terminated, relocated, or significantly reduced
+20 without the prior written approval of the director of the department of health.
+21 (c) A facility proposing closure or significant reduction of a birthing center shall file a
+22 closure application with the director of the department of health no fewer than one hundred eighty
+23 (180) days prior to the proposed effective closure date. Notice shall also be provided to:
+24 (1) The city or town council within the municipality in which the birthing center is located;
+25 (2) The birthing center's patients and personnel;
+26 (3) The patient advocacy groups within the state that support maternal and child health;
+27 (4) All local EMS agencies;
+28 (5) Local and state media outlets by written publication; and
+29 (6) The speaker of the house and the president of the senate.
+30 (d) Prior to the discontinuation or significant reduction of services at a birthing center, its
+31 controlling officers shall provide a closure application to the director of the department of health,
+32 the contents of which shall be a considered public record and posted on the department of health's
+33 website. The closure application shall include:
+34 (1) An access impact assessment that details:
+LC004627 - Page 2 of 6
+
+1 (i) The number of beds within the impacted birthing unit;
+2 (ii) The number of existing patients within the impacted birthing unit;
+3 (iii) The number of employees and staff within the impacted birthing unit;
+4 (iv) Affected healthcare services for traditionally underserved populations;
+5 (v) Affected healthcare services for the affected community; and
+6 (vi) Other licensed birthing centers in the affected community and the distance of those
+7 facilities to the applicant's birthing center.
+8 (2) A detailed evaluation of:
+9 (i) Annual deliveries, prenatal visits, postpartum care, and newborn services;
+10 (ii) Impact on high-risk pregnancies, low-income families, and Medicaid members;
+11 (iii) EMS transport impacts; and
+12 (iv) Projected changes in maternal morbidity and newborn outcomes.
+13 (3) A patient transition plan, including:
+14 (i) Protocols for laboring patient transfers;
+15 (ii) EMS and hospital coordination;
+16 (iii) Continuity plans for prenatal patients beyond twenty (20) weeks gestation;
+17 (iv) Transfer agreements with receiving hospitals or birthing centers; and
+18 (v) Protocols for the storage of and access to medical records.
+19 (4) Workforce plan, including detailed descriptions of:
+20 (i) Staffing levels;
+21 (ii) Proposed layoff or reassignment plans; and
+22 (iii) Transition plans for licensed midwives, doulas, nurses, and obstetric clinicians.
+23 (5) Financial justification, certified by a certified public accountant, including:
+24 (i) Five (5) years of audited financial statements for the birthing center and operating
+25 hospital, if applicable, parent health system, and all controlled affiliates, subsidiaries, and
+26 management entities;
+27 (ii) Detailed service-level financials, including, revenues, expenses, and margins, volume
+28 trends, overhead allocation methodology, and documentation of any staffing cuts, resource
+29 reductions, or underinvestment contributing to financial decline;
+30 (iii) Five (5) year forward projection, including, break-even analyses, capital investment
+31 needs, labor costs, and sensitivity analyses for multiple scenarios; and
+32 (iv) Parent system financial capacity review, including, reserves and unrestricted funds,
+33 cash on hand, investments and endowment holdings, executive compensation, and intercompany
+34 transfers or management fees.
+LC004627 - Page 3 of 6
+
+1 (6) Comparative analysis of at least three (3) alternatives to closure including, but not
+2 limited to, shared staffing models, partnerships with community providers or regional systems,
+3 cross-subsidization by the parent system, and/or redesign or modernization; and
+4 (7) The applicant's controlling officers shall certify that neither the birthing center nor
+5 parent system engaged in actions that materially contributed to financial instability including, but
+6 not limited to, understaffing, reduction of capital investment, curtailment of marketing or referral
+7 pathways, diversion of patients, and/or failure to pursue available external funding.
+8 (e) The director of the department of health shall deny a closure application that fails to
+9 satisfy the requirements of this section.
+10 (f) An independent expert, selected by the department of health and paid for by the
+11 applicant, shall evaluate sustainability, feasible restructuring alternatives, and pathways to avoid
+12 closure or significant reduction of services.
+13 (g)(1) Within sixty (60) days of receiving the notice required by subsection (c) of this
+14 section, the director of the department of health shall hold a public hearing. The applicant's
+15 controlling officers shall attend the public hearing and members of the public shall be permitted to
+16 participate and offer testimony; the director of the department of health shall provide twenty-one
+17 (21) days written notice on the department of health's website of the date, time, and location of the
+18 public hearing.
+19 (2) Within thirty (30) days of receiving a closure application that satisfies the requirements
+20 of subsection (d) of this section, the director of the department of health shall hold a public hearing.
+21 The applicant's controlling officers shall attend the public hearing and members of the public shall
+22 be permitted to participate and offer testimony; the director of the department of health shall
+23 provide twenty-one (21) days written notice on the department of health's website of the date, time,
+24 and location of the public hearing.
+25 (h) The director of the department of health shall not approve an application submitted
+26 pursuant to subsection (d) of this section unless the applicant demonstrates, by clear and convincing
+27 evidence, that:
+28 (1) The birthing center cannot reasonably be sustained through restructuring, alternative
+29 staffing models, or system-level financial support;
+30 (2) No feasible alternatives exist that would maintain safe and accessible birthing services;
+31 (3) Closure shall not exacerbate maternal, newborn, racial, economic, or geographic
+32 disparities; and
+33 (4) Adequate, timely, and safe birthing access shall remain for the affected population.
+34 (i) Notwithstanding any other provision in the general laws, the director of the department
+LC004627 - Page 4 of 6
+
+1 of health shall have the sole authority to review all applications submitted under this section and
+2 shall issue a written decision within ninety (90) days of the public hearing that follows the
+3 applicant's submission of the completed closure application. The decision of the director of the
+4 department of health shall approve, deny, or approve with conditions, the closure application.
+5 (j) The department of health shall not amend a facility license issued pursuant to chapter
+6 17 of title 23 to remove a birthing center unless the requirements of this section have been fulfilled.
+7 (k) Failure to comply with the requirements of this section shall subject the entity required
+8 to comply with the provisions of this section to civil penalties not to exceed twenty-five thousand
+9 dollars ($25,000) per violation. Each day of noncompliance shall constitute a separate violation.
+10 (l) The department of health shall adopt rules and regulations to implement and enforce the
+11 provisions of this section.
+12 SECTION 3. This act shall take effect upon passage.
+========
+LC004627
+========
+LC004627 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE HOSPITAL CONVERSIONS ACT
+***
+1 This act would prohibit the closure or significant reduction of services of a birthing center
+2 without notice, application, financial disclosure, public hearing, and approval by the department of
+3 health.
+4 This act would take effect upon passage.
+========
+LC004627
+========
+LC004627 - Page 6 of 6

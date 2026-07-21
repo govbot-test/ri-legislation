@@ -1,0 +1,175 @@
+Title: 
+Official Title: 
+Source: versions - 8114
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8114
+========
+LC004877
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- DEPARTMENT OF CHILDREN,
+YOUTH AND FAMILIES
+Introduced By: Representatives Hopkins, Casimiro, Casey, Cotter, McGaw, Place, and
+Fascia
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 42-72-8 of the General Laws in Chapter 42-72 entitled "Department
+2 of Children, Youth and Families" is hereby amended to read as follows:
+3 42-72-8. Confidentiality of records.
+4 (a) Any records of the department pertaining to children and their families in need of
+5 service pursuant to the provisions of this chapter; or for whom an application for services has been
+6 made, shall be confidential and only disclosed as provided by law.
+7 (b) Records may be disclosed when necessary:
+8 (1) To individuals, or public or private agencies engaged in medical, psychological, or
+9 psychiatric diagnosis or treatment or education of the person under the supervision of the
+10 department;
+11 (2) To individuals or public or private agencies for the purposes of temporary or permanent
+12 placement of the person, and when the director determines that the disclosure is needed to
+13 accomplish that placement, including any and all healthcare information obtained by the
+14 department in accordance with the provisions of chapter 37.3 of title 5 and applicable federal laws
+15 and regulations;
+16 (3) When the director determines that there is a risk of physical injury by the person to
+17 himself or herself or others, and that disclosure of the records is necessary to reduce that risk;
+18 (4) To the family court, including periodic reports regarding the care and treatment of
+
+1 children; provided, that if a child is represented by a guardian ad litem or attorney, a copy of the
+2 family court report will be made available to the guardian ad litem or attorney prior to its
+3 submission;
+4 (5) To inform any person who made a report of child abuse or neglect pursuant to § 40-11-
+5 3, whether services have been provided the child as a result of the report; provided, however, that
+6 no facts or information shall be released pursuant to this subsection other than the fact that services
+7 have been, or are being, provided;
+8 (6) To permit access to computer records relating to child abuse and neglect investigations
+9 by physicians who are examining a child when the physician believes that there is reasonable cause
+10 to suspect that a child may have been abused or neglected;
+11 (7) To the office of the department of attorney general, upon the request of the attorney
+12 general or assistant attorney general, when the office is engaged in the investigation of, or
+13 prosecution of, criminal conduct by another relating to the child or other children within the same
+14 family unit;
+15 (8) To the department of corrections in the case of an individual who has been transferred
+16 to the jurisdiction of that department pursuant to the provisions of § 14-1-7.3 or § 14-1-7.1;
+17 (9) To the office of the department of the attorney general, upon the request of the attorney
+18 general or assistant attorney general, when the office is engaged in the investigation of, or
+19 prosecution of, criminal conduct as defined in § 40-11-3.2;
+20 (10) To individuals employed by a state or county child-welfare agency outside of Rhode
+21 Island when the director determines that the information is needed to ensure the care, protection,
+22 and/or treatment of any child; provided, however, any records relating to allegations previously
+23 determined to be unfounded, unsubstantiated, or not indicated shall not be disclosed;
+24 (11) Whenever a person previously under the supervision of the training school becomes
+25 subject to the jurisdiction of the department of corrections as an adult offender, the director of
+26 corrections, or the director's designee, shall receive, upon request, the portions of the person’s
+27 training school records limited to the escape history, disciplinary record, and juvenile classification
+28 history;
+29 (12) In an administrative hearing held pursuant to § 42-35-9, the records, or exact copies
+30 of the records, shall be delivered to the administrative hearing officer pursuant to a written request
+31 by one of the parties, and shall be delivered to the party making the request or shall be reviewed in
+32 camera by the administrative hearing officer for purposes of making a determination of relevancy
+33 to the merits of the administrative matter pending before the hearing officer, as the hearing officer
+34 may direct. If the records or a portion are relevant to the matter, those records may be viewed and/or
+LC004877 - Page 2 of 6
+
+1 copied by counsel of record, at the expense of the party requesting the records. The records shall
+2 not be disseminated in any form beyond the parties, counsel of record and their agents, and any
+3 experts, except as otherwise specifically authorized by the hearing officer, and provided further
+4 that at the conclusion of the action, the records shall be sealed; and
+5 (13) In a criminal or civil action, the records, or exact copies of the records, shall be
+6 delivered to a court of proper jurisdiction pursuant to a subpoena duces tecum, properly issued by
+7 one of the parties, and shall be delivered to the party issuing the subpoena, or shall be reviewed in
+8 camera by the trial justice for purposes of making a determination of relevancy to the merits of the
+9 civil or criminal action pending before the court, as the court may direct. If the records or a portion
+10 are relevant to the civil or criminal action, those records may be viewed and/or copied by counsel
+11 of record, at the expense of the party requesting the records. The court shall issue a protective order
+12 preventing dissemination of the records in any form beyond the parties, counsel of record and their
+13 agents, and any experts, except as otherwise specifically authorized by the court, and provided,
+14 further, that at the conclusion of the action, all records shall be sealed.
+15 (c) Disclosure required.
+16 (1) The director shall notify the office of the child advocate verbally and electronically, in
+17 writing, within 48 hours of a confirmed fatality or near fatality of a child who is the subject of a
+18 DCYF case. The department shall provide the office of the child advocate with access to any written
+19 material about the case. For purposes of this chapter, “near fatality” shall mean a child in serious
+20 or critical condition as certified by a physician as a result of abuse, neglect, self-harm, or other
+21 unnatural causes.
+22 (2) The director shall make public disclosure of a confirmed fatality or near fatality of a
+23 child who is the subject of a DCYF case within 48 hours of confirmation, provided disclosure of
+24 such information is in general terms and does not jeopardize a pending criminal investigation.
+25 (3) The director shall disclose to the office of the child advocate information, within five
+26 (5) days of completion of the department’s investigation, when there is a substantiated finding of
+27 child abuse or neglect that resulted in a child fatality or near fatality. The department may disclose
+28 the same information to the office of the attorney general and other entities allowable under 42
+29 U.S.C. § 5106a.
+30 (4) The information that must be disclosed in accordance with subsection (c)(3) includes:
+31 (i) A summary of the report of abuse or neglect and a factual description of the contents of
+32 the report;
+33 (ii) The date of birth and gender of the child;
+34 (iii) The date that the child suffered the fatality or near fatality;
+LC004877 - Page 3 of 6
+
+1 (iv) The cause of the fatality or near fatality, if such information has been determined;
+2 (v) Whether the department of children, youth and families, or a court-appointed special
+3 advocate, had any contact with the child before the fatality or near fatality and, if so:
+4 (A) The frequency of any contact or communication with the child or a member of the
+5 child’s family or household before the fatality or near fatality and the date on which the last contact
+6 or communication occurred before the fatality or near fatality;
+7 (B) Whether the department provided any child welfare services to the child, or to a
+8 member of the child’s family or household, before, or at the time of, the fatality or near fatality;
+9 (C) Whether the department made any referrals for child welfare services for the child, or
+10 for a member of the child’s family or household, before or at the time of the fatality or near fatality;
+11 (D) Whether the department took any other action concerning the welfare of the child
+12 before or at the time of the fatality or near fatality; and
+13 (E) A summary of the status of the child’s case at the time of the fatality or near fatality,
+14 including, without limitation, whether the child’s case was closed by the department before the
+15 fatality or near fatality and if so, the reasons why the case was closed; and
+16 (vi) Whether the department, in response to the fatality or near fatality:
+17 (A) Has provided, or intends to provide and/or make, a referral for child welfare services
+18 to the child, or to a member of the child’s family or household; and
+19 (B) Has taken, or intends to take, any other action concerning the welfare and safety of the
+20 child, or any member of the child’s family or household.
+21 (5) The director shall disclose to the school nurse where a child is enrolled, when that child
+22 has been placed in foster care.
+23 (d) If a public panel is convened or established by the department to evaluate the extent to
+24 which the department is discharging its child-protection responsibilities, the panel, or any of its
+25 members or staff, shall not disclose identifying information about a specific child protection case,
+26 nor make public any identifying information provided by the department, except as may be
+27 authorized by law. Any person who violates this subsection shall be subject to civil sanctions as
+28 provided by law.
+29 (e) If a public panel is convened or established by the department, this panel, in the course
+30 of its evaluation, may review, but shall not investigate, any child fatality that is under the
+31 jurisdiction of the child advocate in accordance with the provisions of § 42-73-7(2).
+32 (f) In the event records and information contained within DCYF records are shared with
+33 individuals or public or private agencies as specified in subsection (b) above, any such individual,
+34 and/or public or private agency, shall be advised that the shared information cannot be further
+LC004877 - Page 4 of 6
+
+1 disclosed, except as specifically provided for under applicable federal and/or state law and
+2 regulation. Any individual and/or public or private agency who or that violates this subsection shall
+3 be subject to civil sanctions as provided in chapter 37.3 of title 5, and any other federal or state law
+4 pertinent thereto.
+5 SECTION 2. This act shall take effect upon passage.
+========
+LC004877
+========
+LC004877 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- DEPARTMENT OF CHILDREN,
+YOUTH AND FAMILIES
+***
+1 This act would require the DCYF director to disclose to the school nurse where a child is
+2 enrolled, when that child has been placed in foster care.
+3 This act would take effect upon passage.
+========
+LC004877
+========
+LC004877 - Page 6 of 6

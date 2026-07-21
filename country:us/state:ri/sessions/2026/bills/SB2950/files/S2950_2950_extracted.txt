@@ -1,0 +1,91 @@
+Title: 
+Official Title: 
+Source: versions - 2950
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2950
+========
+LC005377
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE HOSPITAL CONVERSIONS ACT --
+HEALTHCARE INVESTMENT BOND REQUIREMENT
+Introduced By: Senators Urso, Famiglietti, Vargas, Dimitri, Ujifusa, de la Cruz,
+LaMountain, and Acosta
+Date Introduced: March 04, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-17.14 of the General Laws entitled "The Hospital Conversions
+2 Act" is hereby amended by adding thereto the following section:
+3 23-17.14-37. Bond requirement for private equity company or REIT investment.
+4 (a) Any private equity company or real estate investment trust (REIT) engaging in a
+5 transaction that will lead to the private equity company or the REIT obtaining direct or indirect
+6 ownership or control of a provider, as defined in federal law, 42 CFR § 400.202 or provider-
+7 sponsored organization (PSO), pursuant to federal law 42 U.S.C. § 1395w-25(d) shall:
+8 (1) Submit a notice of material change to the department of attorney general pursuant to
+9 rules promulgated pursuant to § 6-36-22 to include, but not limited to, 110-RICR 30-00-5; and
+10 (2) Deposit, a bond with the department of health ("department").
+11 (b) The private equity company or REIT shall not use the provider or PSO or the provider's
+12 or PSO’s assets or property as security for the bond, pay for the bond by placing debt on the provider
+13 or PSO, permit the provider or PSO to pay the bond on the private equity company or REIT’s
+14 behalf, or allow the provider or PSO to otherwise be liable or indemnify the private equity company
+15 or REIT for the bond.
+16 (c) Until such bond has been deposited, the department shall not issue a license to such
+17 provider or PSO under this chapter, and any material change notice submitted pursuant to
+18 subsection (b) of this section shall be deemed incomplete. If the bond has not been deposited, but
+
+1 the department would otherwise be permitted to collect the bond, the department shall be permitted
+2 to collect from the private equity company or the REIT the amount the department would have
+3 been able to collect had the bond been deposited.
+4 (d) The department shall determine the amount of the bond, which shall equal one year of
+5 the provider's or PSO’s average or estimated operating expenses, plus the estimated cost of hiring
+6 an independent supervisor and reasonable staff to supervise and facilitate collecting and spending
+7 the bond. The private equity company or REIT shall maintain the bond for as long as the private
+8 equity company or REIT directly or indirectly owns or controls the provider or PSO, and for seven
+9 (7) years thereafter.
+10 (e) The department may collect the bond if the provider or PSO declares bankruptcy, is at
+11 imminent risk of closure, or closes a majority of the essential services the provider or PSO provides,
+12 as determined by the department. The department shall use the bond proceeds to support the
+13 continued provision of healthcare services to patients served by the provider or PSO. Prior to
+14 spending the bond, the department shall seek input from the public, including, but not limited to,
+15 providers, PSOs and patients, regarding how to spend the bond. The department may select an
+16 independent supervisor and reasonable staff to supervise and facilitate collecting and spending the
+17 bond. This section does not provide the department with the authority to petition for the
+18 appointment of a receiver for the provider or PSO.
+19 (f) The private equity company or the REIT is prohibited from interfering with or
+20 controlling the clinical decisions of health care practitioners.
+21 (g) The department shall promulgate regulations necessary to implement this section.
+22 SECTION 2. This act shall take effect upon passage.
+========
+LC005377
+========
+LC005377 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE HOSPITAL CONVERSIONS ACT --
+HEALTHCARE INVESTMENT BOND REQUIREMENT
+***
+1 This act would mandate all private equity companies or real estate investment trusts (REIT)
+2 that are seeking to invest in healthcare providers or provider-sponsored organizations in this state,
+3 submit a notice of material change with attorney general and deposit a bond with the department
+4 of health (DOH). This act would also require that the bond be the equivalent of one year of the
+5 investor’s expenses and be maintained as long as the company owns or controls the provider or
+6 provider organization and for 7 years after leaving. DOH would be allowed to collect the bond if
+7 the provider or provider-sponsored organization declares bankruptcy, is at risk of closure, or closes
+8 a majority of essential services. The act would also prohibit the investor from interfering with or
+9 controlling the clinical decisions of health care practitioners.
+10 This act would take effect upon passage.
+========
+LC005377
+========
+LC005377 - Page 3 of 3

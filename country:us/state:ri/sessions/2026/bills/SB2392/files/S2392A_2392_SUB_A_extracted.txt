@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - 2392  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2392 SUBSTITUTE A
+========
+LC004470/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SCHOOL BUS SAFETY
+ENFORCEMENT
+Introduced By: Senators Britto, DiMario, DiPalma, Gu, McKenney, Gallo, Tikoian,
+Ciccone, Zurier, and LaMountain
+Date Introduced: January 30, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 31-51-2 of the General Laws in Chapter 31-51 entitled "School Bus
+2 Safety Enforcement" is hereby amended to read as follows:
+3 31-51-2. Live digital video school bus violation detection monitoring systems.
+4 (a) All school departments of this state are hereby authorized to install and operate:
+5 (1) live Live digital video school bus violation detection monitoring systems. Such systems
+6 shall, at a minimum, be systems which monitor and detect school bus traffic violations. For
+7 purposes of this chapter a live digital video school bus violation detection monitoring system means
+8 a system with one or more camera sensors and computers which produce live digital and recorded
+9 video of motor vehicles being operated in violation of school bus traffic laws in violation of § 31-
+10 20-12. All systems installed for use under this chapter shall, at a minimum, produce a live visual
+11 image viewable remotely, a recorded image of the license plate, and be able to record the time,
+12 date, and location of the vehicle, and a signed affidavit by a person who witnessed the violation via
+13 live video.
+14 (2) The GPS (global positioning system) data regarding the real time location and velocity
+15 of the bus or other motor vehicle used to transport students to and from schools shall be made
+16 available electronically to the department, as well as to authorized parents or guardians of students
+17 who are being transported by such bus or other motor vehicle.
+18 (b) On and after July 1, 2027, all new school buses to be operated pursuant to § 31-20-
+
+1 11(a) shall be equipped with a live digital video school bus violation detection monitoring system
+2 that conforms with the requirements of subsection (a)(1) of this section, and the GPS requirements
+3 of subsection (a)(2) of this section.
+4 (c) On and after July 1, 2032, all school buses to be operated pursuant to § 31-20-11(a)
+5 shall be equipped with a live digital video school bus violation detection monitoring system that
+6 conforms with the requirements of subsection (a) of this section.
+7 (d) The school departments with input and approval by the municipal police chief may
+8 enter into an agreement with a private corporation or other entity to provide live digital video school
+9 bus violation detection monitoring systems and to maintain and operate such systems.
+10 (e) No information that is otherwise required to be reported or be made available
+11 electronically pursuant to this section shall be reported or be made available electronically in a
+12 manner that would violate any applicable provision of federal, state or local law related to the
+13 privacy of information, interfere with an active law enforcement investigation, or otherwise result
+14 in the disclosure of information exempt from public disclosure pursuant to applicable federal, state,
+15 or local law.
+16 SECTION 2. This act shall take effect upon passage.
+========
+LC004470/SUB A
+========
+LC004470/SUB A - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SCHOOL BUS SAFETY
+ENFORCEMENT
+***
+1 This act would allow parents or guardians to have access to GPS data of the bus or other
+2 motor vehicle used to transport students to and from school.
+3 This act would take effect upon passage.
+========
+LC004470/SUB A
+========
+LC004470/SUB A - Page 3 of 3

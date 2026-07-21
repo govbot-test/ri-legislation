@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - 8079
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8079
+========
+LC005771
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE--PROCEDURE GENERALLY -- JURY
+LISTS
+Introduced By: Representatives Potter, Alzate, Cruz, Batista, McEntee, and Felix
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 9-9-1 and 9-9-1.1 of the General Laws in Chapter 9-9 entitled "Jury
+2 Lists" are hereby amended to read as follows:
+3 9-9-1. Persons liable to service — Voting operator’s licenses, Rhode Island
+4 identification card, state income tax returns and unemployment compensation as evidence.
+5 (a) A person is liable to serve as a juror if the person is:
+6 (1) A citizen of the United States; and
+7 (2) At least eighteen (18) years of age; and
+8 (3) A resident of Rhode Island who either:
+9 (i) Resides in the county where the person is registered to vote;
+10 (ii) Is licensed to operate a motor vehicle within this state; or
+11 (iii) Possesses a Rhode Island identification card issued pursuant to the provisions of §§ 3-
+12 8-6 and 3-8-6.1; or
+13 (iv) Is an individual filing a state income tax return; or
+14 (v) Is an individual recipient of unemployment compensation; or
+15 (vi) Is an individual recipient of public assistance benefits, as defined in § 40-6-1.
+16 (b) The list of qualified electors of each town and city as made up by the board of
+17 canvassers thereof, at its last meeting prior to the Tuesday after the first Monday in November in
+18 each even numbered year, and the duly certified records of the administrator of the division of
+
+1 motor vehicles shall be conclusive evidence of the liability of each person to serve as provided in
+2 this chapter, unless in the case of a qualified elector the name of the person has been removed from
+3 the list of qualified electors of that town or city on which the name of that person appears prior to
+4 being summoned to appear in court as a juror, and except as provided in this chapter. The jury
+5 commissioner shall notify the clerk of the board of canvassers and registration of each particular
+6 city or town when it appears that a person on a list of qualified jurors does not reside at the address
+7 on the list. The board of canvassers and registration, after due notice to the person, shall challenge
+8 the listing thereof and after a hearing thereon may remove that person from the list.
+9 (c) The division of motor vehicles shall forward to the jury commissioner the names of
+10 licensed drivers and the names of those persons who possess Rhode Island identification cards
+11 issued pursuant to the provisions of §§ 3-8-6 and 3-8-6.1 in the state on a yearly basis.
+12 (d) The division of taxation shall forward to the jury commissioner the names of all
+13 individuals who have filed a state income tax return, on a yearly basis.
+14 (e) The department of labor and training shall forward to the jury commissioner the names
+15 of all individuals who are receiving unemployment compensation, on a yearly basis.
+16 (f) The department of human services shall forward to the jury commissioner the names of
+17 all individuals who are receiving public assistance benefits, on a yearly basis.
+18 9-9-1.1. Qualifications of jurors.
+19 (a) A person is qualified to serve as a juror if the person is:
+20 (1) A citizen of the United States;
+21 (2) A resident of Rhode Island who either:
+22 (i) Resides in the county where the person is registered to vote; or
+23 (ii) Is licensed to operate a motor vehicle within this state; or
+24 (iii) Possesses a Rhode Island identification card issued pursuant to the provisions of §§ 3-
+25 8-6 and 3-8-6.1; or
+26 (iv) Is an individual filing a state income tax return; or
+27 (v) Is an individual recipient of unemployment compensation; or
+28 (vi) Is an individual recipient of public assistance benefits, as defined in § 40-6-1.
+29 (3) At least 18 years of age;
+30 (4) Able to understand and participate in the court proceedings; and
+31 (5) Physically and mentally capable of performing in a reasonable manner the duties of a
+32 juror.
+33 (b) No person shall be allowed to serve as a juror if he or she has been lawfully adjudicated
+34 to be non compos mentis, or is serving a sentence of confinement at a correctional facility as a
+LC005771 - Page 2 of 5
+
+1 consequence of a felony conviction.
+2 (c) [Deleted by P.L. 2023, ch. 367, § 1 and P.L. 2023, ch. 368, § 1.]
+3 (d) Notwithstanding subdivisions (a)(4) and (5), a person with a disability shall not be
+4 ineligible to serve as a juror solely on the basis of the person’s disability, and if that person meets
+5 the above requirements, with reasonable accommodations if necessary, the person shall be deemed
+6 a qualified juror.
+7 (e) Nothing in this section shall prevent the court from disqualifying a prospective juror
+8 because the prospective juror lacks a faculty or has a disability which will prevent the potential
+9 juror from being a competent juror in a particular case.
+10 (f) Nothing in this section shall be construed to limit a party’s right to preemptorially
+11 challenge jurors.
+12 SECTION 2. Section 40-6-12 of the General Laws in Chapter 40-6 entitled "Public
+13 Assistance Act" is hereby amended to read as follows:
+14 40-6-12. Records as to assistance.
+15 (a) All records pertaining to the administration of public assistance pursuant to this chapter
+16 and chapter 8 of this title are hereby declared to constitute confidential matter. It shall be unlawful
+17 for any person to make use of, or cause to be used, any information contained in records for
+18 purposes not directly connected with the administration thereof, except with the consent of the
+19 individual concerned.
+20 (b) The director of the department shall have the power to establish rules and regulations
+21 governing the custody, use, and preservation of the records, papers, files, and communications
+22 dealing with the administration of public assistance. The rules and regulations shall have the same
+23 force and effect as law. The records shall be produced in response to subpoena duces tecum
+24 properly issued by any federal or state court; provided, however, that the purpose for which the
+25 subpoena is sought is directly connected with the administration of public assistance. No subpoena
+26 shall be issued by a court asking either for the records, or for persons having custody or access to
+27 the records, unless the litigation involved in such matters is directly connected with the
+28 administration of public assistance.
+29 (c) Any person, who by law is entitled to a list of individuals receiving any of the assistance
+30 as provided in this section, shall not publish, or cause to be published, the list except by the express
+31 consent of the director of the department, or to make use thereof for purposes not directly connected
+32 with the administration thereof. Any person violating any of the provisions of this section, or the
+33 lawful rules and regulations made pursuant to this section, shall be guilty of a misdemeanor, and
+34 shall be fined not more than two hundred dollars ($200) or shall be imprisoned for not more than
+LC005771 - Page 3 of 5
+
+1 six (6) months, or both.
+2 (d) Nothing in this section shall be deemed to prohibit the director of the department, or
+3 his or her agents duly authorized for that purpose, from issuing any statistical material or data, or
+4 publishing, or causing the data to be published, whenever he or she shall deem it to be in the public
+5 interest. The director of the department may inquire into the records of any state department or
+6 agency in the course of his or her administration of public assistance.
+7 (e) Nothing in this section shall prohibit the director of the department, or the director's
+8 duly authorized agents, from providing the jury commissioner the names and addresses of
+9 individual recipients of public assistance benefits; provided these records shall be used solely for
+10 the purpose of compiling the jury lists drawn pursuant to § 9-9-23.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC005771
+========
+LC005771 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE--PROCEDURE GENERALLY -- JURY
+LISTS
+***
+1 This act would amend the jury list and jury qualification statutes to add individuals
+2 receiving public assistance benefits to the list of individuals sent to the state's jury commissioner
+3 on a yearly basis and would authorize the director of the department to provide the records for the
+4 purpose of compiling jury lists.
+5 This act would take effect upon passage.
+========
+LC005771
+========
+LC005771 - Page 5 of 5

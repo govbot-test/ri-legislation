@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - 7917
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7917
+========
+LC005302
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- EXECUTIVE CLIMATE
+CHANGE COORDINATING COUNCIL -- MANDATORY ACT ON CLIMATE
+COMPLIANCE IN STATE BUDGETING AND PLANNING
+Introduced By: Representatives Carson, McGaw, Kislak, Boylan, Knight, Speakman,
+Cortvriend, McEntee, Bennett, and Spears
+Date Introduced: February 27, 2026
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and purpose.
+2 (a) The General Assembly finds that:
+3 (1) The act on climate, chapter 42-6.2 of the general laws, establishes legally binding
+4 greenhouse gas emissions reduction targets for the State of Rhode Island.
+5 (2) The executive climate change coordinating council (EC4), pursuant to the act on
+6 climate, finalized the act on climate strategy report in December 2025, identifying sector-specific
+7 actions necessary to meet those statutory targets.
+8 (3) Failure to integrate the act on climate strategy report into state budgeting and planning
+9 undermines compliance with state law and jeopardizes achievement of mandated emissions
+10 reductions.
+11 (b) It is therefore the purpose of this act to require mandatory, enforceable integration of
+12 the act on climate strategy report into state and quasi-public agency budgeting, capital planning,
+13 and policy development, supported by quantified emissions impact analysis and enforceable review
+14 standards.
+15 SECTION 2. Chapter 42-6.2 of the General Laws entitled "2021 Act on Climate" is hereby
+16 amended by adding thereto the following section:
+17 42-6.2-8.1. Mandatory act on climate compliance in budgeting, planning, and capital
+18 investment.
+
+1 (a) Applicability. This section shall apply to:
+2 (1) All state administrative departments, agencies, boards, offices, councils, and
+3 commissions; and
+4 (2) All quasi-public agencies, public corporations, and authorities that:
+5 (i) Receive state appropriations;
+6 (ii) Submit capital plans or capital budget requests; or
+7 (iii) Issue debt or bonds subject to state approval or backing.
+8 (b) Mandatory integration into budgets and plans. Beginning with the fiscal year 2027
+9 budget cycle, and for each fiscal year thereafter, each entity subject to this section shall integrate
+10 and implement the applicable recommendations contained in the act on climate strategy report
+11 finalized by the EC4 in December 2025, as amended or updated pursuant to law, in:
+12 (1) Annual operating budget requests;
+13 (2) Capital budget submissions and capital improvement plans;
+14 (3) Strategic plans, performance plans, and policy planning documents; and
+15 (4) Any additional planning or investment documents required by the executive office of
+16 administration or the office of management and budget.
+17 (c) Quantified emissions impact assessment required.
+18 (1) Each submission under subsection (b) of this section shall include a quantified
+19 emissions impact assessment that:
+20 (i) Estimates the anticipated greenhouse gas emissions impact of the proposed budget,
+21 program, or capital project using methodologies approved by the EC4 and the office of energy
+22 resources;
+23 (ii) Identifies whether the proposal:
+24 (A) Reduces greenhouse gas emissions;
+25 (B) Is emissions-neutral; or
+26 (C) Increases greenhouse gas emissions;
+27 (iii) Demonstrates consistency with the emissions reduction targets established under § 42-
+28 6.2-2; and
+29 (iv) Identifies mitigation measures required to offset any projected emissions increases.
+30 (2) Narrative descriptions alone shall not satisfy the requirements of this section.
+31 (d) Act on climate certification — condition of submission. No budget request, capital
+32 project, or planning document subject to this section shall be deemed complete unless it includes
+33 an act on climate compliance certification, signed by the agency head or chief executive officer,
+34 affirming that:
+LC005302 - Page 2 of 5
+
+1 (1) The submission is consistent with the act on climate strategy report;
+2 (2) The quantified emissions impact assessment is accurate to the best of the signer’s
+3 knowledge; and
+4 (3) The submission advances, and does not materially impede, achievement of the state’s
+5 statutory emissions reduction targets.
+6 (e) Enforcement -- budget and capital gatekeeping authority.
+7 (1) The office of management and budget, in consultation with the executive office of
+8 administration and the EC4, shall reject or return any budget or capital submission that fails to
+9 comply with this section.
+10 (2) No capital project subject to this section shall advance to authorization, bonding, or
+11 appropriation without a determination of compliance.
+12 (3) For quasi-public agencies, failure to comply with this section may result in:
+13 (i) Denial or reduction of state appropriations;
+14 (ii) Suspension or denial of bond approval; or
+15 (iii) Deferral of capital project authorization.
+16 (f) Limited exception process. An entity may request a temporary exception from specific
+17 recommendations of the act on climate strategy report only if it:
+18 (1) Demonstrates that compliance is infeasible due to legal, safety, or emergency
+19 conditions;
+20 (2) Identifies alternative actions that achieve equivalent or greater emissions reductions;
+21 and
+22 (3) Receives written approval from the EC4 and the executive office of administration.
+23 Exceptions shall be narrowly construed and time limited.
+24 (g) Public reporting and legislative oversight.
+25 (1) All act on climate compliance certifications and quantified emissions impact
+26 assessments shall be posted on the submitting entity’s public website.
+27 (2) The EC4 shall compile an annual compliance report and submit it to the speaker of the
+28 house, the president of the senate, and the governor no later than July 1 of each year.
+29 (3) The house committee on environment and natural resources and the house committee
+30 on finance may jointly request testimony from any non-compliant entity.
+31 (h) Severability. If any provision of this section or the application thereof is held invalid,
+32 such invalidity shall not affect the remaining provisions.
+LC005302 - Page 3 of 5
+
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC005302
+========
+LC005302 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- EXECUTIVE CLIMATE
+CHANGE COORDINATING COUNCIL -- MANDATORY ACT ON CLIMATE
+COMPLIANCE IN STATE BUDGETING AND PLANNING
+***
+1 This act would require that state departments and agencies integrate the recommendations
+2 contained in the act on climate strategy report.
+3 This act would take effect upon passage.
+========
+LC005302
+========
+LC005302 - Page 5 of 5

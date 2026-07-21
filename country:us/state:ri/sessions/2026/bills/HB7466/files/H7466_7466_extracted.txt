@@ -1,0 +1,229 @@
+Title: 
+Official Title: 
+Source: versions - 7466
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7466
+========
+LC004163
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND INDIVIDUAL
+MARKET AFFORDABILITY ACT OF 2026
+Introduced By: Representatives Speakman, Spears, Potter, Alzate, Boylan, Knight,
+Donovan, Cotter, Tanzi, and Giraldo
+Date Introduced: January 30, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 157.2
+4 RHODE ISLAND INDIVIDUAL MARKET AFFORDABILITY ACT OF 2026
+5 42-157.2-1. Short title and purpose.
+6 (a) This chapter shall be known and may be cited as the "Rhode Island Individual Market
+7 Affordability Act of 2026."
+8 (b) The purpose of this chapter is to create a state affordability program to reduce out-of-
+9 pocket costs for low- and moderate-income consumers enrolled in health insurance coverage
+10 through the Rhode Island health benefits exchange.
+11 42-157.2-2. Definitions.
+12 As used in this chapter:
+13 (1) "Affordability program" means a program to improve affordability for health care or
+14 health insurance coverage as set forth in § 42-157.2-5.
+15 (2) "Board" means the exchange advisory board established by § 42-157-7.
+16 (3) "Commissioner'' means the commissioner of the office of the health insurance
+17 commissioner.
+18 (4) "Cost-sharing reduction" means the program set forth in 42 U.S.C. § 18071 by which
+
+1 certain individuals eligible to purchase health insurance coverage through the exchange are entitled
+2 to purchase a plan with an adjusted actuarial value to lower out-of-pocket expenses.
+3 (5) "Director" means the director of the Rhode Island health benefits exchange.
+4 (6) "Exchange" means the Rhode Island health benefits exchange established within the
+5 department of administration by § 42-157-1.
+6 (7) "Federal poverty line" has the same meaning as "poverty line" as set forth in 42 U.S.C.
+7 § 9902(2).
+8 (8) "Health insurance carrier" or "carrier'' has the same meaning as set forth in § 27-18.5-
+9 2.
+10 (9) "Health insurance coverage" has the same meaning as set forth in § 27-18.5-2.
+11 (10) "Household income" has the same meaning as set forth in 26 U.S.C. § 36B(d)(2) in
+12 effect as of January 1, 2026.
+13 (11) "Individual market" has the same meaning as set forth in § 27-18.5-2.
+14 (12) "Office of the health insurance commissioner" means the entity established by § 42-
+15 14.5-1 within the department of business regulation.
+16 (13) "Original ACA premium assistance amount" means the collective amount of premium
+17 assistance provided by the federal premium tax credits utilizing the applicable percentages of
+18 household income established in the version of 26 U.S.C. § 36B(b)(3)(A)(i) in effect on July 3,
+19 2025.
+20 (14) "Premium assistance credit amount" has the same meaning as set forth in 26 U.S.C. §
+21 36(B)(b)(1), effective January 1, 2026.
+22 (15) "Premium tax credit" means the refundable tax credit available, pursuant to federal
+23 law, to assist certain individuals in purchasing health insurance coverage through the exchange.
+24 (16) "Program" means the individual market affordability program established by § 42-
+25 157.2-3.
+26 (17) "Program fund" or "fund" means the fund established by § 42-157.2-4.
+27 (18) "State" means the State of Rhode Island.
+28 42-157.2-3. Establishment of the Rhode Island individual market affordability
+29 program.
+30 (a) The director is authorized to establish a state-based affordability program, to be known
+31 as the "Rhode Island individual market affordability program":
+32 (1) To provide for improved affordability for individuals who purchase health insurance
+33 coverage through the exchange; and
+34 (2) That is consistent with state and federal law.
+LC004163 - Page 2 of 7
+
+1 (b) The program is intended to mitigate the impact of high and rising healthcare costs for
+2 low- and middle-income Rhode Islanders who purchase health insurance coverage through the
+3 exchange by reducing out-of-pocket costs through expanded affordability programs.
+4 (c) The director is authorized, based on recommendations advanced by the board, to
+5 implement affordability programs and direct payment to carriers to reduce the cost of health
+6 insurance coverage purchased through the exchange, and to improve the actuarial value of health
+7 insurance coverage, for individuals determined eligible for state-based subsidies.
+8 (d) In addition to the funding contribution established by § 42-157.2-4, the director, in
+9 consultation with the commissioner, the secretary of the executive office of health and human
+10 services, and the Medicaid director, shall collaborate to identify any federal or other external
+11 sources of funding for the program, including funding available through the state's existing section
+12 1115 Medicaid demonstration waiver, the state's existing section 1332 state innovation waiver, or
+13 new funding available under those authorities or any other authority.
+14 (1) The director is authorized to apply for and obtain any available identified funding for
+15 the program.
+16 (2) The secretary of the executive office of health and human services is authorized to apply
+17 for, submit, and negotiate any necessary changes to the Medicaid state plan, the state section 1115
+18 Medicaid demonstration waiver, or any other necessary authorities in order to facilitate the
+19 obtaining of identified funding for the program.
+20 42-157.2-4. Establishment of program fund.
+21 (a) There is created a state general fund appropriation to be known as the "health insurance
+22 individual market affordability appropriation."
+23 (b) In establishing the size of the health insurance individual market affordability
+24 appropriation:
+25 (1) As long as federal premium tax credits remain in place that are no less generous than
+26 the original ACA premium assistance amount defined at § 42-157.2-2(14), the general assembly,
+27 based on any estimates provided by the director in coordination with the work of the board, shall
+28 appropriate sufficient general revenue to create, in combination with any other sources of funding
+29 identified to support the program, a total funding amount equal to the amount necessary to provide
+30 state premium assistance payments on behalf of enrollees which shall provide a total monthly
+31 premium assistance payments on behalf of enrollees which shall provide a total monthly premium
+32 assistance amount for each enrollee, including both federal premium tax credits and state premium
+33 assistance payments, which achieves an applicable percentage utilizing the following income tier
+34 table in lieu of the income table established in 26 U.S.C. § 36B(b)(3)(A)(i):
+LC004163 - Page 3 of 7
+
+1 In the case of household income The initial premium The final premium
+2 (expressed as a percent of the percentage is: percentage is:
+3 Federal Poverty Line) within
+4 the following income tier:
+5 Up to 150.0 percent 0.0 0.0
+6 150.0 percent up to 200.0 percent 0.0 2.0
+7 200.0 percent up to 250.0 percent 2.0 4.0
+8 250.0 percent up to 300.0 percent 4.0 6.0
+9 300.0 percent up to 400.0 percent 6.0 8.5
+10 400.0 percent and higher 8.5 8.5
+11 (2) If the federal premium tax credits in place are less generous than would have existed
+12 under the original ACA premium assistance amount defined at § 42-157.2-2(14), the general
+13 assembly shall appropriate sufficient general revenue to create, in combination with any other
+14 sources of funding identified to support the program, a total funding amount no lower than fifty-
+15 nine million three hundred thousand dollars ($59,300,000).
+16 (3) The general assembly shall provide a further appropriation, as needed, to support the
+17 total administrative costs of the program as provided by § 42-157.2-5(a)(4).
+18 (c) The funds appropriated under this section may be utilized by the exchange pursuant to
+19 the process established by § 42-157.2-5.
+20 (d) The exchange shall submit to the general assembly an annual report on the program and
+21 costs related to the program, on or before February 1 of each year.
+22 42-157.2-5. Utilization of program fund -- Affordability programs.
+23 (a) The director shall allocate the program fund, pursuant to regulations adopted under this
+24 chapter for any of the following state affordability programs, individually or in combination:
+25 (1) To provide payments on behalf of individual enrollees to carriers in the form of
+26 supplemental state premium assistance payments, to increase the affordability of health insurance
+27 on the individual market by reducing out-of-pocket premium expenses, for individuals who receive
+28 federal premium tax credits;
+29 (2) To provide payments on behalf of individual enrollees to carriers in the form of state
+30 premium assistance payments, to increase the affordability of health insurance on the individual
+31 market by reducing out-of-pocket premium expenses, for individuals who are over the household
+32 income limit, as established by federal law, for federal premium tax credits;
+33 (3) To provide subsidies to reduce cost sharing for individuals enrolled in health insurance
+34 coverage through the exchange who are determined eligible for state subsidies; and
+LC004163 - Page 4 of 7
+
+1 (4) To pay for the actual administrative costs for implementing and administering the
+2 program established under this chapter. These actual administrative costs include the following:
+3 (i) The costs of the board related to their activities under § 42-157.2-6;
+4 (ii) The actual costs related to implementing and maintaining the assessment established
+5 by § 42-157.2-4;
+6 (iii) The costs for conducting analyses necessary to determine the payments to be made to
+7 carriers for the purposes described in subsections (a)(1), (a)(2), and (a)(3) of this section; and
+8 (iv) Any other costs which accrue to the state traceable to the operation of this program.
+9 (v) The program fund shall be allocated as the director, pursuant to recommendations
+10 established by the board, determines is in the best interest of advancing consumer affordability.
+11 42-157.2-6. Board recommendations for program design.
+12 (a) The board is authorized to recommend, for approval and establishment by the director
+13 by rule or regulation:
+14 (1) The appropriate allocation of program funds toward premium assistance payments
+15 under §§ 42-157.2-5(a)(1) and (a)(2) and for cost-sharing subsidies under § 42-157.2-5(a)(3) in a
+16 manner that best improves affordability for individual marketplace enrollees; and
+17 (2) The parameters, including income limits, for implementing the program and for
+18 identifying subsidized populations, including the appropriate balance between affordability
+19 programs and the most effective method to improve the availability and comprehensiveness of
+20 coverage to serve the goal of improved consumer access to care across all populations.
+21 (b) In formulating its initial recommendations, the board shall consider the
+22 recommendations advanced by the Marketplace Coverage Affordability Work Group and
+23 summarized in the report delivered to the general assembly entitled “Coverage at Risk: State
+24 Actions to Keep Rhode Islanders Covered.”
+25 42-157.2-7. Rules and regulations.
+26 (a) The director may promulgate rules and regulations as necessary to implement the
+27 purposes of this chapter.
+28 (b) In establishing regulations relating to the parameters of the program, the director shall
+29 consider the recommendations of the board and shall explain in writing the reasons for any
+30 deviation from the recommendations of the board.
+31 SECTION 4. Section 42-157-7 of the General Laws in Chapter 42-157 entitled "Rhode
+32 Island Health Benefit Exchange" is hereby amended to read as follows:
+33 42-157-7. Exchange advisory board.
+34 (a) The exchange shall maintain an advisory board which shall be appointed by the director.
+LC004163 - Page 5 of 7
+
+1 (b) The director shall consider the expertise of the members of the board and make
+2 appointments so that the board’s composition reflects a range and diversity of skills, backgrounds,
+3 and stakeholder perspectives board shall consist of the following fourteen (14) voting members:
+4 (1) The director of the exchange or designee;
+5 (2) The commissioner of the office of the health insurance commissioner or designee;
+6 (3) The secretary of the executive office of health and human services or designee;
+7 (4) Eleven (11) additional members appointed by the director of the exchange as follows:
+8 (i) Two (2) members employed by health insurance carriers that offer plans on the
+9 exchange;
+10 (ii) Three (3) members representing healthcare providers who do not represent a health
+11 insurance carrier, including at least one member representing a primary care healthcare provider
+12 and one member representing a pediatric healthcare provider;
+13 (iii) Two (2) members who represent healthcare advocacy organizations;
+14 (iv) One member who is a representative of a business that purchases or otherwise provides
+15 health insurance coverage for its employees;
+16 (v) One member who represents a hospital; and
+17 (vi) Two (2) members who are consumers of health care who are not representatives or
+18 employees of a hospital, health insurance carrier, or other healthcare industry entity.
+19 (c) To the extent possible the director shall ensure that the consumer members of the board
+20 are individuals who lack affordable offers of coverage from their employers and who otherwise
+21 struggle to afford to purchase health insurance or who struggle to afford to pay for their health care.
+22 SECTION 5. This act shall take effect upon passage.
+========
+LC004163
+========
+LC004163 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND INDIVIDUAL
+MARKET AFFORDABILITY ACT OF 2026
+***
+1 This act would enact the Rhode Island individual market affordability act of 2026 to
+2 establish a program to help reduce out-of-pocket costs for low- and moderate-income consumers
+3 enrolled in individual health insurance coverage through the Rhode Island health benefits exchange.
+4 This act would take effect upon passage.
+========
+LC004163
+========
+LC004163 - Page 7 of 7

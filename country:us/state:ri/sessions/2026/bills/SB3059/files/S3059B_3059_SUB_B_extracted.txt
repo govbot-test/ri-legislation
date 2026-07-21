@@ -1,0 +1,237 @@
+Title: 
+Official Title: 
+Source: versions - 3059  SUB B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3059 SUBSTITUTE B
+========
+LC005060/SUB B
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- PHARMACY FREEDOM OF CHOICE--FAIR
+COMPETITION AND PRACTICES
+Introduced By: Senators Britto, Murray, Lawson, Ciccone, Tikoian, and LaMountain
+Date Introduced: March 12, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 27-29.1-1, 27-29.1-2, 27-29.1-7, 27-29.1-10 and 27-29.1-11 of the
+2 General Laws in Chapter 27-29.1 entitled "Pharmacy Freedom of Choice — Fair Competition and
+3 Practices" are hereby amended to read as follows:
+4 27-29.1-1. Definitions.
+5 For purposes of this chapter, the following terms shall mean:
+6 (1) “Director” shall mean the director of the department of business regulation.
+7 (2) “Eligible bidder” shall mean a retail pharmacy, community pharmacy, or pharmacy
+8 department registered pursuant to chapter 19.1 of title 5, irrespective of corporate structure or
+9 number of locations at which it conducts business, located within the geographical service area of
+10 a carrier and willing to bid for participation in a restricted pharmacy network contract.
+11 (3)(2) “Insured” or "covered individual" shall mean any person who is entitled to have
+12 pharmacy services paid by an insurer pursuant to a policy, certificate, contract, or agreement of
+13 insurance or coverage.
+14 (4)(3) “Insurer” shall mean an insurance carrier as defined in chapters 18, 19, 20, and 41
+15 of this title.
+16 (5)(4) “Nonrestricted pharmacy network” shall mean a network that permits any pharmacy
+17 to participate on substantially uniform terms and conditions established by an insurer or pharmacy
+18 benefits manager pharmacy benefit manager.
+
+1 (5) "Health insurance commissioner" or "commissioner" shall mean the office of health
+2 insurance commissioner.
+3 (6) “Pharmacy benefits manager” "Pharmacy benefit manager" or "PBM" shall mean any
+4 person or entity who or that is not licensed in Rhode Island as an insurer and that develops or
+5 manages pharmacy benefits, pharmacy network contracts, or the pharmacy benefit bid process have
+6 the meaning provided in § 27-19-26.2.
+7 (7) “Pharmacy benefit management services” shall mean the management or
+8 administration of prescription drug benefits for an insurer, directly or through another entity, and
+9 regardless of whether the pharmacy benefit manager and the insurer are related, or associated by
+10 ownership, common ownership, organization or otherwise. Such management or administration
+11 includes, but is not limited to:
+12 (i) The administration or management of prescription drug benefits;
+13 (ii) Claims processing, retail network management, or payment of claims to pharmacies for
+14 dispensing prescription drugs;
+15 (iii) Clinical or other formulary or preferred drug list development or management;
+16 (iv) Negotiation or administration of rebates, discounts, payment differentials, or other
+17 incentives, for the inclusion of particular prescription drugs in a particular category or to promote
+18 the placement of particular prescription drugs on a formulary or preferred drug list;
+19 (v) Patient compliance, therapeutic intervention, or generic substitution programs;
+20 (vi) Disease management;
+21 (vii) Drug utilization review or prior authorization;
+22 (viii) Adjudication of appeals or grievances related to prescription drug coverage;
+23 (ix) Contracting with network pharmacies; and
+24 (x) Controlling the cost of covered prescription drugs.
+25 (7)(8) “Restricted pharmacy network” shall mean an arrangement for the provision of
+26 pharmaceutical drug services to insureds that under the terms of an insurer’s policy, certificate,
+27 contract, or agreement of insurance or coverage requires an insured or creates a financial incentive
+28 for an insured to obtain prescription drug services from one or more participating pharmacies that
+29 have entered into a specific contractual relationship with the carrier.
+30 (9) "Spread pricing" shall mean any amount charged or claimed by a pharmacy benefit
+31 manager for a prescription drug that exceeds the amount paid by the pharmacy benefit manager to
+32 a pharmacy or pharmacist for the dispensing of the prescription drug.
+33 27-29.1-2. Requirement for availability and accessibility of pharmacy services.
+34 In accordance with § 23-17.13-3 [repealed], an An insurer must demonstrate to the director
+LC005060/SUB B - Page 2 of 8
+
+1 health insurance commissioner of health the willingness and potential ability to ensure that
+2 pharmacy services will be provided in a manner to ensure both availability and accessibility of
+3 adequate personnel and facilities and in a manner enhancing availability, accessibility, and
+4 continuity of service.
+5 27-29.1-7. Regulation of pharmacy benefit managers.
+6 (a) Pharmacy benefits managers Pharmacy benefit manager shall be included within the
+7 definition of third-party administrator under chapter 20.7 of this title and shall be regulated in
+8 accordance with chapter 84 of this title as such. The annual report filed by third-party administrators
+9 with the department of business regulation shall include: contractual language that provides a
+10 complete description of the financial arrangements between the third-party administrator and each
+11 of the insurers covering benefit contracts delivered in Rhode Island; and if the third-party
+12 administrator is owned by or affiliated with another entity or entities, it shall include an
+13 organization chart and brief description that shows the relationships among all affiliates within a
+14 holding company or otherwise affiliated. The reporting shall be in a format required by the director
+15 and filed with the department as a public record as defined and regulated under chapter 2 of title
+16 38.
+17 (b) A pharmacy benefit manager shall not substitute or cause the substitution of one
+18 prescription drug for another in dispensing a prescription including, but not limited to, a generic or
+19 therapeutically equivalent drug, or alter or cause the altering of the terms of a prescription, without
+20 the approval of the prescriber or as explicitly required or permitted by law, including regulations
+21 of the health insurance commissioner or board of pharmacy and department of health.
+22 (c) No pharmacy benefit manager shall, with respect to contracts between such pharmacy
+23 benefit manager and a pharmacy or, alternatively, such pharmacy benefit manager and a pharmacy's
+24 contracting agent including, but not limited to, a pharmacy services administrative organization:
+25 (1) Prohibit or penalize a pharmacist or pharmacy from disclosing to an individual
+26 purchasing a prescription medication or service information regarding:
+27 (i) The cost of the prescription medication or service to the individual, or the cost of the
+28 prescription medication or service to the pharmacy and the pharmacy's reimbursement for that
+29 prescription medication or service; or
+30 (ii) The availability of any therapeutically equivalent alternative medications or alternative
+31 methods of purchasing the prescription medication including, but not limited to, paying a cash
+32 price; or
+33 (2) Charge or collect from an individual a copayment that exceeds the total submitted
+34 charges by the pharmacy for which the pharmacy is paid. If an individual pays a copayment, the
+LC005060/SUB B - Page 3 of 8
+
+1 pharmacy shall retain the adjudicated costs and the pharmacy benefit manager shall not redact or
+2 recoup the adjudicated cost.
+3 (d) A pharmacy benefit manager, with respect to contracts between a pharmacy benefit
+4 manager and a pharmacy or, alternatively, a pharmacy benefit manager and a pharmacy's
+5 contracting agent including, but not limited to a pharmacy services administrative organization,
+6 shall include a reasonable process to appeal, investigate and resolve disputes regarding multi-source
+7 generic drug pricing. The appeals process shall include the following provisions:
+8 (1) The right to appeal by the pharmacy and/or the pharmacy's contracting agent shall be
+9 limited to fifteen (15) days following the initial claim submitted for payment;
+10 (2) A telephone number through which a network pharmacy may contact the pharmacy
+11 benefit manager for the purpose of filing an appeal and an electronic mail address of the individual
+12 who is responsible for processing appeals;
+13 (3) The pharmacy benefit manager shall send an electronic mail message acknowledging
+14 receipt of the appeal. The pharmacy benefit manager shall respond in an electronic message to the
+15 pharmacy and/or the pharmacy's contracting agent filing the appeal within fifteen (15) days
+16 indicating its determination. If the appeal is determined to be valid, the maximum allowable cost
+17 for the drug shall be adjusted for the appealing pharmacy effective as of the date of the original
+18 claim for payment. The pharmacy benefit manager shall require the appealing pharmacy to reverse
+19 and rebill the claim in question in order to obtain the corrected reimbursement;
+20 (4) If an update to the maximum allowable cost is warranted, the pharmacy benefit manager
+21 or insurer shall adjust the maximum allowable cost of the drug effective for all similarly situated
+22 pharmacies in its network in the state effective no later than one day after the date the appeal was
+23 determined to be valid; and
+24 (5) If an appeal is denied, the pharmacy benefit manager shall provide the reason for the
+25 denial and identify the national drug code of a therapeutically equivalent drug, as determined by
+26 the federal Food and Drug Administration, that is available and in adequate supply for purchase by
+27 pharmacies in this state from wholesalers at a price which is equal to or less than the maximum
+28 allowable cost for that drug as determined by the pharmacy benefit manager.
+29 27-29.1-10. Costs of enforcement.
+30 The total cost of the enforcement under this chapter of §§ 27-29.1-3 and 27-29.1-8 shall be
+31 borne by the pharmacy benefits manager(s) pharmacy benefit manager(s) and/or the insurer(s)
+32 against whom the complaint investigation, examination or enforcement action is made on an equal
+33 basis and shall include, without limitation, the following expenses:
+34 (1) One hundred fifty percent (150%) of the total salaries and benefits paid to the personnel
+LC005060/SUB B - Page 4 of 8
+
+1 of the department of business regulation office of health insurance commissioner engaged in the
+2 enforcement less any salary reimbursement;
+3 (2) All reasonable technology costs related to the enforcement process. Technology costs
+4 shall include the actual cost of software and hardware utilized in the enforcement process and the
+5 cost of training personnel in the proper use of the software or hardware;
+6 (3) All necessary and reasonable education and training costs incurred by the state to
+7 maintain the proficiency and competence of the enforcing personnel. All these costs shall be
+8 incurred in accordance with the appropriate state of Rhode Island regulations, guidelines, and
+9 procedures.; and
+10 (4) Any reasonable expenses of any experts, consultants, and contractors retained by the
+11 health insurance commissioner.
+12 27-29.1-11. Evaluation report.
+13 The health insurance commissioner, pursuant to § 42-14.5-1, shall evaluate the impact of
+14 nonrestricted pharmacy networks pharmacy benefit manager practices and operations on health
+15 insurance costs in Rhode Island and shall submit a report of findings to the joint legislative
+16 committee on health care oversight on or before May 1, 2005 and recommendations to the general
+17 assembly on or before March 31, 2027.
+18 SECTION 2. Chapter 27-29.1 of the General Laws entitled "Pharmacy Freedom of Choice
+19 — Fair Competition and Practices" is hereby amended by adding thereto the following section:
+20 27-29.1-12. Duty, accountability, and transparency of pharmacy benefit managers.
+21 (a)(1) The pharmacy benefit manager shall have a duty and obligation to perform pharmacy
+22 benefit management services with care, skill, prudence, diligence, and professionalism.
+23 (2) A pharmacy benefit manager interacting with a covered individual shall have the same
+24 duty to a covered individual as the insurer for whom it is performing pharmacy benefit management
+25 services.
+26 (3) A pharmacy benefit manager shall have a duty of good faith and fair dealing with all
+27 parties including, but not limited to, covered individuals and pharmacies, with whom it interacts in
+28 the performance of pharmacy benefits management services.
+29 (b) All funds received by the pharmacy benefit manager in relation to providing pharmacy
+30 benefit management services shall be received by the pharmacy benefit manager in trust and shall
+31 be used or distributed only pursuant to the pharmacy benefit manager's contract with the insurer or
+32 applicable law; including any administrative fee or payment to the pharmacy benefit manager
+33 expressly provided for in the contract to compensate the pharmacy benefit manager for its services.
+34 Any funds received by the pharmacy benefit manager through spread pricing shall be subject to
+LC005060/SUB B - Page 5 of 8
+
+1 this section.
+2 (c) Beginning August 1, 2027, a pharmacy benefit manager shall provide to an insurer for
+3 whom it is providing pharmacy benefit services:
+4 (1) Any pricing discounts, rebates of any kind, inflationary payments, credits, clawbacks,
+5 fees, grants, chargebacks, reimbursements, or other benefits received by the pharmacy benefit
+6 manager. The insurer shall have access to all financial and utilization information of the pharmacy
+7 benefit manager in relation to pharmacy benefit management services provided to the insurer;
+8 (2) The terms and conditions of any contract or arrangement between the pharmacy benefit
+9 manager and any party relating to pharmacy benefit management services provided to the insurer
+10 including, but not limited to, dispensing fees paid to the pharmacies; and
+11 (3) Any activity, policy, practice, contract or arrangement of the pharmacy benefit manager
+12 that directly or indirectly presents any conflict of interest with the pharmacy benefit manager's
+13 relationship with or obligation to the insurer.
+14 (d) Beginning August 1, 2028, reports required to be provided under the Consolidated
+15 Appropriation Act of 2026, and subsequent regulations, shall be deemed sufficient to comply with
+16 the requirements of this subsection.
+17 (e) Any information required to be disclosed by a pharmacy benefit manager to an insurer
+18 under this section that is reasonably designated by the pharmacy benefit manager as proprietary or
+19 trade secret information shall be kept confidential by the insurer, except as required or permitted
+20 by law, including disclosure necessary to prosecute or defend any legitimate legal claim or cause
+21 of action. Designation of information as proprietary or trade secret information under this
+22 subsection shall have no effect on the obligations of any pharmacy benefit manager or insurer to
+23 provide that information to the office of health insurance commissioner, provided any such
+24 information provided to the office of health insurance commissioner shall be confidential and
+25 exempt from disclosure under § 38-2-2.
+26 27-29.1-13. Rules and regulations.
+27 The health insurance commissioner shall promulgate rules and regulations necessary to
+28 effectuate the purpose of this chapter, including, defining, limiting, and relating to the duties,
+29 obligations, requirements and other provisions relating to pharmacy benefit managers.
+LC005060/SUB B - Page 6 of 8
+
+1 SECTION 3. This act shall take effect on January 1, 2027.
+========
+LC005060/SUB B
+========
+LC005060/SUB B - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- PHARMACY FREEDOM OF CHOICE--FAIR
+COMPETITION AND PRACTICES
+***
+1 This act would impose certain duties, transparency, and accountability from pharmacy
+2 benefit managers and pharmacy benefit management services.
+3 This act would take effect on January 1, 2027.
+========
+LC005060/SUB B
+========
+LC005060/SUB B - Page 8 of 8

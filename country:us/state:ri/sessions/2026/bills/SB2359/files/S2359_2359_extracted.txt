@@ -1,0 +1,325 @@
+Title: 
+Official Title: 
+Source: versions - 2359
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2359
+========
+LC003849
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- NET METERING -- PORTABLE
+SOLAR GENERATION DEVICES
+Introduced By: Senators Valverde, Kallman, DiMario, DiPalma, Lauria, Quezada,
+McKenney, Britto, Gu, and Rogers
+Date Introduced: January 30, 2026
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 39-26.4-2 of the General Laws in Chapter 39-26.4 entitled "Net
+2 Metering" is hereby amended to read as follows:
+3 39-26.4-2. Definitions.
+4 Terms not defined in this section herein shall have the same meaning as contained in
+5 chapter 26 of this title. When used in this chapter:
+6 (1) “Community remote net-metering system” means a facility generating electricity using
+7 an eligible net-metering resource that allocates net-metering credits to a minimum of one account
+8 for a system associated with low- or moderate-income housing eligible credit recipients, or three
+9 (3) eligible credit-recipient customer accounts, provided that no more than fifty percent (50%) of
+10 the credits produced by the system are allocated to one eligible credit recipient, and provided further
+11 at least fifty percent (50%) of the credits produced by the system are allocated to the remaining
+12 eligible credit recipients in an amount not to exceed that which is produced annually by twenty-
+13 five kilowatt (25 KW) AC capacity. The community remote net-metering system may transfer
+14 credits to eligible credit recipients in an amount that is equal to or less than the sum of the usage of
+15 the eligible credit recipient accounts measured by the three-year (3) average annual consumption
+16 of energy over the previous three (3) years. A projected annual consumption of energy may be used
+17 until the actual three-year (3) average annual consumption of energy over the previous three (3)
+18 years at the eligible credit recipient accounts becomes available for use in determining eligibility
+
+1 of the generating system. The community remote net-metering system may be owned by the same
+2 entity that is the customer of record on the net-metered account or may be owned by a third party.
+3 (2) “Core forest” refers to unfragmented forest blocks of single or multiple parcels totaling
+4 two hundred fifty (250) acres or greater unbroken by development and at least twenty-five (25)
+5 yards from mapped roads, with eligibility questions to be resolved by the director of the department
+6 of environmental management. Such determination shall constitute a contested case as defined in
+7 § 42-35-1.
+8 (3) “Electric distribution company” shall have the same meaning as § 39-1-2, but shall not
+9 include Block Island Power Company or Pascoag Utility District, each of whom shall be required
+10 to offer net metering to customers through a tariff approved by the public utilities commission after
+11 a public hearing. Any tariff or policy on file with the public utilities commission on the date of
+12 passage of this chapter shall remain in effect until the commission approves a new tariff.
+13 (4) “Eligible credit recipient” means one of the following eligible recipients in the electric
+14 distribution company’s service territory whose electric service account or accounts may receive
+15 net-metering credits from a community remote net-metering system. Eligible credit recipients
+16 include the following definitions:
+17 (i) Residential accounts in good standing.
+18 (ii) “Low- or moderate-income housing eligible credit recipient” means an electric service
+19 account or accounts in good standing associated with any housing development or developments
+20 owned or operated by a public agency, nonprofit organization, limited-equity housing cooperative,
+21 or private developer that receives assistance under any federal, state, or municipal government
+22 program to assist the construction or rehabilitation of housing affordable to low- or moderate-
+23 income households, as defined in the applicable federal or state statute, or local ordinance,
+24 encumbered by a deed restriction or other covenant recorded in the land records of the municipality
+25 in which the housing is located, that:
+26 (A) Restricts occupancy of no less than fifty percent (50%) of the housing to households
+27 with a gross, annual income that does not exceed eighty percent (80%) of the area median income
+28 as defined annually by the United States Department of Housing and Urban Development (HUD);
+29 (B) Restricts the monthly rent, including a utility allowance, that may be charged to
+30 residents, to an amount that does not exceed thirty percent (30%) of the gross, monthly income of
+31 a household earning eighty percent (80%) of the area median income as defined annually by HUD;
+32 (C) Has an original term of not less than thirty (30) years from initial occupancy.
+33 Electric service account or accounts in good standing associated with housing
+34 developments that are under common ownership or control may be considered a single low- or
+LC003849 - Page 2 of 10
+
+1 moderate-income housing eligible credit recipient for purposes of this section. The value of the
+2 credits shall be used to provide benefits to tenants.
+3 (iii) “Educational institutions” means public and private schools at the primary, secondary,
+4 and postsecondary levels.
+5 (iv) “Commercial or industrial customers” means any nonresidential customer of the
+6 electric distribution company.
+7 (5) “Eligible net-metering resource” means eligible renewable energy resource, as defined
+8 in § 39-26-5 including biogas created as a result of anaerobic digestion, but, specifically excluding
+9 all other listed eligible biomass fuels.
+10 (6) “Eligible net-metering system” means a facility generating electricity using an eligible
+11 net-metering resource that, for any system with a nameplate capacity in excess of twenty-five
+12 kilowatts (25 KW), is reasonably designed and sized to annually produce electricity in an amount
+13 that is equal to, or less than, the renewable self-generator’s usage at the eligible net-metering system
+14 site measured by the three-year (3) average annual consumption of energy over the previous three
+15 (3) years at the electric distribution account(s) located at the eligible net-metering system site. A
+16 projected annual consumption of energy may be used until the actual three-year (3) average annual
+17 consumption of energy over the previous three (3) years at the electric distribution account(s)
+18 located at the eligible net-metering system site becomes available for use in determining eligibility
+19 of the generating system. For any system with a nameplate capacity equal to or less than twenty-
+20 five kilowatts (25 KW), eligibility shall not be restricted based on prior consumption. The eligible
+21 net-metering system may be owned by the same entity that is the customer of record on the net-
+22 metered accounts or may be owned by a third party that is not the customer of record at the eligible
+23 net-metering system site and which may offer a third-party, net-metering financing arrangement or
+24 net-metering financing arrangement, as applicable. Notwithstanding any other provisions of this
+25 chapter, any eligible net-metering resource: (i) Owned by a public entity, educational institution,
+26 hospital, nonprofit, or multi-municipal collaborative; or (ii) Owned and operated by a renewable-
+27 generation developer on behalf of a public entity, educational institution, hospital, nonprofit, or
+28 multi-municipal collaborative through a net-metering financing arrangement shall be treated as an
+29 eligible net-metering system and all accounts designated by the public entity, educational
+30 institution, hospital, nonprofit, or multi-municipal collaborative for net metering shall be treated as
+31 accounts eligible for net metering within an eligible net-metering system site; or (iii) Owned and
+32 operated by a renewable-generation developer on behalf of one or more commercial or industrial
+33 customer(s) through net-metering financing arrangement(s) shall be treated as an eligible net-
+34 metering system within an eligible net-metering system site. Notwithstanding any other provision
+LC003849 - Page 3 of 10
+
+1 to the contrary, effective July 1, 2060, an eligible net-metering system means a facility generating
+2 electricity using an eligible net-metering resource that is interconnected behind the same meter as
+3 the net-metering customer’s load. "Eligible net-metering system" does not include a portable solar
+4 generation device.
+5 (7) “Eligible net-metering system site” means the site where the eligible net-metering
+6 system or community remote net-metering system is located or is part of the same campus or
+7 complex of sites contiguous to one another and the site where the eligible net-metering system or
+8 community remote net-metering system is located or a farm on which the eligible net-metering
+9 system or community remote net-metering system is located. Except for an eligible net-metering
+10 system owned by or operated on behalf of a public entity, educational institution, hospital,
+11 nonprofit, or multi-municipal collaborative or for a commercial or industrial customer through a
+12 net-metering financing arrangement, the purpose of this definition is to reasonably assure that
+13 energy generated by the eligible net-metering system is consumed by net-metered electric service
+14 account(s) that are actually located in the same geographical location as the eligible net-metering
+15 system. All energy generated from any eligible net-metering system is, and will be considered,
+16 consumed at the meter where the renewable energy resource is interconnected for valuation
+17 purposes. Except for an eligible net-metering system owned by, or operated on behalf of, a public
+18 entity, educational institution, hospital, nonprofit, or multi-municipal collaborative, or for a
+19 commercial or industrial customer through a net-metering financing arrangement, or except for a
+20 community remote net-metering system, all of the net-metered accounts at the eligible net-metering
+21 system site must be the accounts of the same customer of record and customers are not permitted
+22 to enter into agreements or arrangements to change the name on accounts for the purpose of
+23 artificially expanding the eligible net-metering system site to contiguous sites in an attempt to avoid
+24 this restriction. However, a property owner may change the nature of the metered service at the
+25 accounts at the site to be master metered in the owner’s name, or become the customer of record
+26 for each of the accounts, provided that the owner becoming the customer of record actually owns
+27 the property at which the account is located. As long as the net-metered accounts meet the
+28 requirements set forth in this definition, there is no limit on the number of accounts that may be net
+29 metered within the eligible net-metering system site.
+30 (8) “Excess renewable net-metering credit” means a credit that applies to an eligible net-
+31 metering system or community remote net-metering system for that portion of the production of
+32 electrical energy beyond one hundred percent (100%) and no greater than one hundred twenty-five
+33 percent (125%), except for any system with a nameplate capacity equal to or less than twenty-five
+34 kilowatts (25 KW) for which excess renewable net-metering credit applies to all production of
+LC003849 - Page 4 of 10
+
+1 electrical energy beyond one hundred percent (100%) of the renewable self-generator’s own
+2 consumption at the eligible net-metering system site or the sum of the usage of the eligible credit
+3 recipient accounts associated with the community remote net-metering system during the
+4 applicable billing period.
+5 For electrical energy produced greater than one hundred percent (100%) of the renewable
+6 self-generator’s own electricity consumption at the eligible net-metering system site or the sum of
+7 the usage of the eligible credit recipient accounts associated with the community remote net-
+8 metering system during the applicable billing period, excess renewable net-metering credits shall
+9 be equal to the wholesale electricity rate, which is hereby declared to be the ISO-New England
+10 energy clearing price. When applying the ISO-New England energy clearing price to calculate the
+11 value of excess renewable net-metering credits, the electric distribution company, subject to
+12 commission approval and subject to amendment from time to time, may use an annual average,
+13 monthly average, or other time increment and may use Rhode Island zone pricing or other
+14 applicable locational pricing. The commission shall have the authority to make determinations as
+15 to the applicability of this credit to specific generation facilities to the extent there is any uncertainty
+16 or disagreement.
+17 (9) “Farm” shall be defined in accordance with § 44-27-2, except that all buildings
+18 associated with the farm shall be eligible for net-metering credits as long as: (i) The buildings are
+19 owned by the same entity operating the farm or persons associated with operating the farm; and (ii)
+20 The buildings are on the same farmland as the project on either a tract of land contiguous with, or
+21 reasonably proximate to, such farmland or across a public way from such farmland.
+22 (10) “Hospital” means and shall be defined and established as set forth in chapter 17 of
+23 title 23.
+24 (11) “Multi-municipal collaborative” means a group of towns and/or cities that enter into
+25 an agreement for the purpose of co-owning a renewable-generation facility or entering into a
+26 financing arrangement pursuant to subsection (15).
+27 (12) “Municipality” means any Rhode Island town or city, including any agency or
+28 instrumentality thereof, with the powers set forth in title 45.
+29 (13) “Net metering” means using electrical energy generated by an eligible net-metering
+30 system for the purpose of self-supplying electrical energy and power at the eligible net-metering
+31 system site, or with respect to a community remote net-metering system, for the purpose of
+32 generating net-metering credits to be applied to the electric bills of the eligible credit recipients
+33 associated with the community net-metering system. The amount so generated will thereby offset
+34 consumption at the eligible net-metering system site through the netting process established in this
+LC003849 - Page 5 of 10
+
+1 chapter, or with respect to a community remote net-metering system, the amounts generated in
+2 excess of that amount will result in credits being applied to the eligible credit-recipient accounts
+3 associated with the community remote net-metering system.
+4 (14) “Net-metering customer” means a customer of the electric distribution company
+5 receiving and being billed for distribution service whose distribution account(s) are being net
+6 metered.
+7 (15) “Net-metering financing arrangement” means arrangements entered into by a public
+8 entity, educational institution, hospital, nonprofit, multi-municipal collaborative, or a commercial
+9 or industrial customer with a private entity to facilitate the financing and operation of a net-metering
+10 resource, in which the private entity owns and operates an eligible net-metering resource on behalf
+11 of a public entity, educational institution, hospital, nonprofit, multi-municipal collaborative, or
+12 commercial or industrial customer, where: (i) The eligible net-metering resource is located on
+13 property owned or controlled by the public entity, educational institution, hospital, municipality,
+14 multi-municipal collaborative, or commercial or industrial customer as applicable; and (ii) The
+15 production from the eligible net-metering resource and primary compensation paid by the public
+16 entity, educational institution, hospital, nonprofit, multi-municipal collaborative, or commercial or
+17 industrial customer to the private entity for such production is directly tied to the consumption of
+18 electricity occurring at the designated net-metered accounts.
+19 (16) “Nonprofit” means a nonprofit corporation as defined and established through chapter
+20 6 of title 7, and shall include religious organizations that are tax exempt pursuant to 26 U.S.C. §
+21 501(d).
+22 (17) “Person” means an individual, firm, corporation, association, partnership, farm, town
+23 or city of the state of Rhode Island, multi-municipal collaborative, or the state of Rhode Island or
+24 any department of the state government, governmental agency, or public instrumentality of the
+25 state.
+26 (18) "Portable solar generation device" means a moveable photovoltaic generation device
+27 that:
+28 (i) Has a maximum power output of not more than one thousand two hundred watts
+29 (1,200W);
+30 (ii) Is designed to be connected to a building's electrical system through a standard one
+31 hundred twenty volt (120V) alternating current outlet;
+32 (iii) Is intended primarily to offset part of the customer's electricity consumption;
+33 (iv) Meets the standards of the most recent version of the National Electrical Code; and
+34 (v) Is certified by Underwriters Laboratories or an equivalent nationally recognized testing
+LC003849 - Page 6 of 10
+
+1 laboratory.
+2 (18)(19) “Preferred site” means a location for a renewable energy system that has had prior
+3 development, including, but not limited to: landfills, gravel pits and quarries, highway and major
+4 road median strips, brownfields, superfund sites, parking lots or sites that are designated
+5 appropriate for carports, and all rooftops including, but not limited to, residential, commercial,
+6 industrial, and municipal buildings.
+7 (19)(20) “Project” means a distinct installation of an eligible net-metering system or a
+8 community remote net-metering system. An installation will be considered distinct if it is installed
+9 in a different location, or at a different time, or involves a different type of renewable energy.
+10 Subject to the safe-harbor provisions in § 39-26.4-3(a)(1), new and distinct projects cannot be
+11 located on adjoining parcels of land within core forests, except for preferred sites.
+12 (20)(21) “Public entity” means the federal government, the state of Rhode Island,
+13 municipalities, wastewater treatment facilities, public transit agencies, or any water distributing
+14 plant or system employed for the distribution of water to the consuming public within this state
+15 including the water supply board of the city of Providence.
+16 (21)(22) “Public entity net-metering system” means a system generating renewable energy
+17 at a property owned or controlled by the public entity that is participating in a net-metering
+18 financing arrangement where the public entity has designated accounts in its name to receive net-
+19 metering credits.
+20 (22)(23) “Renewable net-metering credit” means a credit that applies to an eligible net-
+21 metering system or a community remote net-metering system up to one hundred percent (100%) of
+22 either the renewable self-generator’s usage at the eligible net-metering system site or the sum of
+23 the usage of the eligible credit-recipient accounts associated with the community remote net-
+24 metering system over the applicable billing period. This credit shall be equal to the total kilowatt
+25 hours of electrical energy generated up to the amount consumed on-site, and/or generated up to the
+26 sum of the eligible credit-recipient account usage during the billing period multiplied by the sum
+27 of the distribution company’s:
+28 (i) Last resort service kilowatt-hour charge for the rate class applicable to the net-metering
+29 customer, except that for remote public entity and multi-municipality collaborative net-metering
+30 systems that submit an application for an interconnection study on or after July 1, 2017, and
+31 community remote net-metering systems, the last resort service kilowatt-hour charge shall be net
+32 of the renewable energy standard charge or credit;
+33 (ii) Distribution kilowatt-hour charge;
+34 (iii) Transmission kilowatt-hour charge; and
+LC003849 - Page 7 of 10
+
+1 (iv) Transition kilowatt-hour charge.
+2 For projects after April 15, 2023, subject to the allowable two hundred seventy-five
+3 megawatts alternating current (275 MWac), under § 39-26.4-3(a)(1)(vi), the credit shall be reduced
+4 by twenty percent (20%).
+5 Notwithstanding the foregoing, except for systems that have requested an interconnection
+6 study for which payment has been received by the distribution company, or if an interconnection
+7 study is not required, a completed and paid interconnection application, by December 31, 2018, the
+8 renewable net-metering credit for all remote public entity and multi-municipal collaborative net-
+9 metering systems shall not include the distribution kilowatt-hour charge commencing on January
+10 1, 2060.
+11 (23)(24) “Renewable self-generator” means an electric distribution service customer of
+12 record for the eligible net-metering system or community remote net-metering system at the eligible
+13 net-metering system site which system is primarily designed to produce electrical energy for
+14 consumption by that same customer at its distribution service account(s), and/or, with respect to
+15 community remote net-metering systems, electrical energy which generates net-metering credits to
+16 be applied to offset the eligible credit-recipient account usage.
+17 (24)(25) “Third party” means and includes any person or entity, other than the renewable
+18 self-generator, who or that owns or operates the eligible net-metering system or community remote
+19 net-metering system on the eligible net-metering system site for the benefit of the renewable self-
+20 generator.
+21 (25)(26) “Third-party, net-metering financing arrangement” means the financing of
+22 eligible net-metering systems or community remote net-metering systems through lease
+23 arrangements or power/credit purchase agreements between a third party and renewable self-
+24 generator, except for those entities under a public entity net-metering financing arrangement. A
+25 third party engaged in providing financing arrangements related to such net-metering systems with
+26 a public or private entity is not a public utility as defined in § 39-1-2.
+27 SECTION 2. Chapter 39-26.4 of the General Laws entitled "Net Metering" is hereby
+28 amended by adding thereto the following section:
+29 39-26.4-3.1. Portable solar generation device -- Exemptions -- Requirements.
+30 (a) A portable solar generation device that meets the requirements of this chapter is exempt
+31 from:
+32 (1) interconnection standards and utility technical requirements; and
+33 (2) requirements for submission of a complete interconnection application to the electric
+34 distribution company, along with proof of system eligibility, permits, and technical compliance,
+LC003849 - Page 8 of 10
+
+1 leading to an approved agreement before grid connection; and
+2 (3) is not subject to the net metering program requirements under this chapter.
+3 (b) A portable solar generation device shall include a device or feature that prevents the
+4 system from energizing the building's electrical system during a power outage.
+5 (c) An electrical distribution company:
+6 (1) May not require a customer using a portable solar generation device to:
+7 (i) Obtain the electrical corporation's approval before installing or using the system;
+8 (ii) Pay any fee or charge related to the system; or
+9 (iii) Install any additional controls or equipment beyond what is integrated into the system;
+10 (iv) Is not liable for any damage or injury caused by a portable solar generation device.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC003849
+========
+LC003849 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- NET METERING -- PORTABLE
+SOLAR GENERATION DEVICES
+***
+1 This act would exclude portable solar generation devices intended primarily to offset part
+2 of a customer's electricity consumption from the definition of eligible net-metering system.
+3 This act would take effect upon passage.
+========
+LC003849
+========
+LC003849 - Page 10 of 10

@@ -1,0 +1,396 @@
+Title: 
+Official Title: 
+Source: versions - 8579  SUB A as amended
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8579 SUBSTITUTE A AS AMENDED
+========
+LC006503/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- PHARMACY BENEFIT MANAGERS ACT
+Introduced By: Representatives Spears, and Donovan
+Date Introduced: May 22, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 84
+4 PHARMACY BENEFIT MANAGERS ACT
+5 27-84-1. Short title.
+6 This chapter shall be known and may be cited as the "Pharmacy Benefit Managers Act."
+7 27-84-2. Definitions.
+8 For the purpose of this chapter:
+9 (1) "Controlling person" means any person or entity that directly or indirectly has the power
+10 to direct or cause to be directed the management, control or activities of a pharmacy benefit
+11 manager.
+12 (2) "Health insurance commissioner" or "commissioner" means the office of health
+13 insurance commissioner.
+14 (3) "Insured" or "covered individual" means any person who is entitled to have pharmacy
+15 services paid by an insurer pursuant to a policy, certificate, contract, or agreement of insurance or
+16 coverage.
+17 (4) "Insurer" means a health insurance carrier as defined in chapters 18, 19, 20, and 41 of
+18 this title.
+19 (5) "Pharmacy benefit management services" means the management or administration of
+
+1 prescription drug benefit for an insurer, directly or indirectly through another entity, and regardless
+2 of whether the pharmacy benefit manager and the insurer are related, or associated by ownership,
+3 common ownership, organization or otherwise. Such management or administration of prescription
+4 drug benefit includes, but is not limited to:
+5 (i) The administration or management of prescription drug benefits;
+6 (ii) Claims processing, retail network management, or payment of claims to pharmacies for
+7 dispensing prescription drugs;
+8 (iii) Clinical or other formulary or preferred drug list development or management;
+9 (iv) Negotiation or administration of rebates, discounts, payment differentials, or other
+10 incentives, for the inclusion of particular prescription drugs in a particular category or to promote
+11 the placement of particular prescription drugs on a formulary or preferred drug list;
+12 (v) Patient compliance, therapeutic intervention, or generic substitution programs;
+13 (vi) Disease management;
+14 (vii) Drug utilization review or prior authorization;
+15 (viii) Adjudication of appeals or grievances related to prescription drug coverage;
+16 (ix) Contracting with network pharmacies; and
+17 (x) Controlling the cost of covered prescription drugs.
+18 (6) "Pharmacy benefit manager" or "PBM" shall have the meaning provided in § 27-19-
+19 26.2.
+20 (7) "Rebate" means all price concessions paid by a manufacturer to a pharmacy benefit
+21 manager or insurer, including rebates, discounts, and other price concessions that are based on the
+22 actual or estimated utilization of a prescription drug. Rebates also include price concessions based
+23 on the effectiveness of a drug as in a value-based or performance-based contract.
+24 (8) "Restricted pharmacy network" shall have the meaning provided in § 27-29.1-1.
+25 (9) "Spread pricing" means any amount charged or claimed by a pharmacy benefit manager
+26 for a prescription drug that exceeds the amount paid by the pharmacy benefit manager to a
+27 pharmacy or pharmacist for the dispensing of the prescription drug.
+28 27-84-3. Certificate of authority required.
+29 (a) No person, firm, association, corporation or other entity may act, offer to act as, or hold
+30 itself out to be a pharmacy benefit manager, without having a valid certificate of authority as a
+31 pharmacy benefit manager issued by the health insurance commissioner. Notwithstanding the
+32 requirements of this section, for a period of up to two (2) years after the date on which the health
+33 insurance commissioner issues a guidance document outlining the application process for entities
+34 to obtain a valid certificate of authority as a pharmacy benefits manager, a person, firm, association,
+LC006503/SUB A - Page 2 of 12
+
+1 corporation or other entity may act, offer to act as, or hold itself out to be a pharmacy benefit
+2 manager if it has obtained a provisional pharmacy benefit manager certificate of authority (a
+3 provisional certificate of authority) issued by the health insurance commissioner. The health
+4 insurance commissioner may establish minimum registration standards required for a provisional
+5 certificate of authority. Any person, firm, association or corporation who applies for a provisional
+6 certificate of authority shall make an application to the commissioner in such form(s) and
+7 supplements as required by the commissioner. The commissioner may issue a provisional
+8 certificate of authority to applicants that have complied with the commissioner's minimum
+9 provisional certificate of authority standards. The commissioner may reject an application for a
+10 provisional certificate of authority that fails to comply with the minimum standards. Upon at least
+11 sixty (60) days' notice, the commissioner may advise a holder of a provisional certificate of
+12 authority that the provisional certificate of authority will expire as of a certain date. The
+13 commissioner may revoke a provisional certificate of authority upon at least sixty (60) days' notice
+14 for any reason. For each business entity, the officer(s) and director(s) named in the provisional
+15 certificate of authority and the successors thereof shall be responsible for the business entity's
+16 compliance with the applicable laws, rules and regulations of this state.
+17 (b) Any person, firm, association, corporation or other entity that violates this section shall,
+18 in addition to any other penalty provided by law, be liable for restitution and compensatory
+19 damages to any insurer, pharmacy or covered individual, or other person harmed by the violation
+20 and shall also be subject to either a penalty not exceeding the greater of ten thousand dollars
+21 ($10,000) for the first violation and fifteen thousand dollars ($15,000) for each subsequent
+22 violation; or the aggregate gross receipts attributable to all violations.
+23 27-84-4. Requirements for pharmacy benefit managers.
+24 (a) Any person, firm, association or corporation who applies to be certified as a pharmacy
+25 benefit manager shall make an application to the commissioner in such form(s) and supplements
+26 required by the commissioner. The commissioner may issue a certificate of authority to applicants
+27 that have complied with the requirements of this chapter. The commissioner may reject an
+28 application filed by a pharmacy benefit manager that fails to comply with the requirements of this
+29 chapter.
+30 (b) For each business entity, the officer(s) and director(s) named in the application and the
+31 successors thereof shall be responsible for the business entity's compliance with the applicable
+32 laws, rules and regulations of this state.
+33 (c) Applicants to be a pharmacy benefit manager shall make an application to the health
+34 insurance commissioner upon a form to be furnished by the commissioner. The application shall
+LC006503/SUB A - Page 3 of 12
+
+1 include or be accompanied by the following information and documents:
+2 (1) All basic organizational documents of the pharmacy benefit manager including, but not
+3 limited to, any articles of incorporation, articles of association, partnership agreement, trade name
+4 certificate, trust agreement, shareholder agreement, and other applicable documents and all
+5 amendments to those documents;
+6 (2) The bylaws, rules, regulations, or similar documents regulating the internal affairs of
+7 the pharmacy benefit manager;
+8 (3) The names, addresses, official positions, and professional qualifications of the
+9 individuals who are responsible for the conduct of affairs of the pharmacy benefit manager;
+10 including, all members of the board of directors, board of trustees, executive committee, or other
+11 governing board or committee; the principal officers in the case of a corporation or the partners or
+12 members in the case of a partnership or association; shareholders holding directly or indirectly ten
+13 percent (10%) or more of the voting securities of the pharmacy benefit manager; and any other
+14 person who exercises control or influence over the affairs of the pharmacy benefit manager;
+15 (4) Annual financial statements or reports for the two (2) most recent years which prove
+16 that the applicant is solvent and any information that the health insurance commissioner may
+17 require in order to review the current financial condition of the applicant;
+18 (5) A statement describing the business plan of the pharmacy benefit manager including,
+19 but not limited to, information pertaining to staffing levels and activities proposed in this state and
+20 nationwide. The plan shall provide details setting forth the pharmacy benefit manager's capability
+21 for providing a sufficient number of experienced and qualified personnel in the areas of claims
+22 processing, recordkeeping and underwriting;
+23 (6) Standards and practices utilized by the pharmacy benefit manager for:
+24 (i) The creation of pharmacy networks and contracting with network pharmacies and other
+25 providers in compliance with chapter 29.1 of title 27, including promotion and use of independent
+26 and community pharmacies and patient access;
+27 (ii) Development of pricing models used by pharmacy benefit manager both for their
+28 services to an insurer and for the payment of services to a pharmacy benefit manager by a third-
+29 party administrator; and
+30 (iii) Protection of consumers; and
+31 (7) Any other pertinent information that may be required by the commissioner on any of
+32 the following related to a pharmacy benefit manager's operations in any state including, but not
+33 limited to:
+34 (i) Conflicts of interest between pharmacy benefit managers and insurers;
+LC006503/SUB A - Page 4 of 12
+
+1 (ii) Deceptive practices in connection with the performance of pharmacy benefit
+2 management services;
+3 (iii) Anti-competitive practices in connection with the performance of pharmacy benefit
+4 management services; and
+5 (iv) Unfair claims practices in connection with the performance of pharmacy benefit
+6 management services.
+7 (d) The applicant shall make available, for inspection by the office of the health insurance
+8 commissioner, copies of all contracts with insurers, third-party benefit administrators, and other
+9 persons or entities utilizing the services of the pharmacy benefit manager in this state.
+10 (e) A pharmacy benefit manager shall immediately notify the office of the health insurance
+11 commissioner of any material change in its ownership, control, or other fact or circumstance
+12 affecting its qualification for a certificate of authority in this state. Any pharmacy benefit manager
+13 holding a certificate issued under this chapter shall inform the office of the health insurance
+14 commissioner by a means acceptable to the commissioner of a change of address within thirty (30)
+15 days of the change.
+16 27-84-5. Certificate of authority term, renewal, and fees.
+17 (a) Any person, firm, association or corporation who applies to be certified as a pharmacy
+18 benefit manager shall provide with the submission of an application to the office of the health
+19 insurance commissioner a fee of ten thousand dollars ($10,000) for each year or fraction of a year
+20 in which a certificate shall be valid. Any person, firm, association or corporation who applies for a
+21 provisional certificate of authority as a pharmacy benefit manager shall provide with the submission
+22 of an application to the office of the health insurance commissioner a fee of ten thousand dollars
+23 ($10,000).
+24 (b) Every pharmacy benefit manager's certificate of authority shall expire twenty-four (24)
+25 months after the date of issue. Every certificate of authority issued pursuant to this chapter may be
+26 renewed for the ensuing period of twenty-four (24) months upon the filing of an application and
+27 renewal fee of ten thousand dollars ($10,000) in conformity with this chapter.
+28 (c) If an application for a renewal certificate of authority shall have been filed with the
+29 office of the health insurance commissioner at least two (2) months before its expiration, then the
+30 certificate sought to be renewed shall continue in full force and effect either until the issuance by
+31 the health insurance commissioner of the renewal certificate applied for or until five (5) days after
+32 the commissioner shall have refused to issue such renewal certificate and given notice of such
+33 refusal to the applicant.
+34 (d) The health insurance commissioner may refuse to issue a pharmacy benefit manager's
+LC006503/SUB A - Page 5 of 12
+
+1 certificate of authority if, in the commissioner's judgment, the applicant or any member, principal,
+2 officer or director of the applicant, is not trustworthy and competent to act as or in connection with
+3 a pharmacy benefit manager, or that any of the foregoing has given cause for revocation or
+4 suspension of such license, or has failed to comply with any prerequisite for the issuance of such
+5 license.
+6 (e) Pharmacy benefit manager applicants and certificate holders shall be subject to
+7 examination by the office of the health insurance commissioner as often as the commissioner may
+8 deem it expedient. The commissioner may promulgate any necessary regulations establishing
+9 methods and procedures for facilitating and verifying compliance with the requirements of this
+10 chapter.
+11 (f) The commissioner may issue a replacement for a currently in-force certificate that has
+12 been lost or destroyed. Before the replacement certificate shall be issued, there shall be on file with
+13 the office of the health insurance commissioner a written application for the replacement certificate,
+14 affirming under penalty of perjury that the original certificate has been lost or destroyed, together
+15 with a fee of two thousand dollars ($2,000).
+16 27-84-6. Reporting requirements for pharmacy benefit managers.
+17 (a) On or before July first of each year, every pharmacy benefit manager shall report to the
+18 office of the health insurance commissioner, in a statement subscribed and affirmed as true under
+19 penalties of perjury, the information requested by the commissioner including, but not limited to:
+20 (1) Any pricing discounts, rebates of any kind, inflationary payments, credits, clawbacks,
+21 fees, grants, chargebacks, reimbursements, other financial or other reimbursements, incentives,
+22 inducements, refunds or other benefit received by the pharmacy benefit manager;
+23 (2) The terms and conditions of any contract or arrangement, including other financial or
+24 other reimbursements incentives, inducements or refunds between the pharmacy benefit manager
+25 and any other party relating to pharmacy benefit management services provided to an insurer
+26 including, but not limited to, dispensing fees paid to pharmacies;
+27 (3) The following information attributable to patient utilization of prescription drugs
+28 covered by insurers in the state including, but not limited to:
+29 (i) The aggregated dollar amount of rebates and fees collected from pharmaceutical
+30 manufacturers;
+31 (ii) The aggregated dollar amount of rebates and fees collected from pharmaceutical
+32 manufacturers that were passed to insurers;
+33 (iii) The aggregated dollar amount of rebates and fees collected from pharmaceutical
+34 manufacturers passed to covered individuals at the point of sale of a prescription drug; and
+LC006503/SUB A - Page 6 of 12
+
+1 (iv) The aggregated dollar amount of rebates and fees collected from pharmaceutical
+2 manufacturers that were retained by the pharmacy benefit manager.
+3 (4) A response to a set of standard questions developed by the commissioner regarding
+4 business practices including, but not limited to, spread pricing, pharmacy network development,
+5 and utilization management;
+6 (5) The rebate percentage and dollar amount retained by the pharmacy benefit manager for
+7 every rebate, discount, price concession or other consideration under each rebate contract; and
+8 (6) The dollar amount of any other compensation paid by a drug manufacturer to a
+9 pharmacy benefit manager for services, including distribution management services, data or data
+10 services, marketing or promotional services, research programs, or other ancillary services, under
+11 each rebate contract.
+12 (b) The office of the health insurance commissioner may require the filing of quarterly or
+13 other statements, which shall be in such form and shall contain such matters as the commissioner
+14 shall prescribe.
+15 (c) The commissioner may address to any pharmacy benefit manager or its officers any
+16 inquiry in relation to its provision of pharmacy benefit management services or any matter
+17 connected therewith. Every pharmacy benefit manager or person so addressed shall reply in writing
+18 to such inquiry promptly and truthfully, and such reply shall be, if required by the office of the
+19 health insurance commissioner, subscribed by such individual, or by such officer or officers of the
+20 pharmacy benefit manager, as the commissioner shall designate, and affirmed by them as true under
+21 the penalties of perjury.
+22 (d) In the event any pharmacy benefit manager or person does not submit the report
+23 required by subsection (a) of this section, the commissioner is authorized to levy a civil penalty
+24 against such pharmacy benefit manager or person not to exceed ten thousand dollars ($10,000) per
+25 day for each day beyond the date the report is due or the date specified by the commissioner for
+26 response to the inquiry.
+27 (e) Not later than October 1 of each year, the commissioner shall publish the aggregated
+28 data from all reports for that year required by this section in an appropriate location on the office
+29 of health insurance commissioner's Internet website. The combined aggregated data from the
+30 reports must be published in a manner that does not disclose or tend to disclose proprietary or
+31 confidential information of any pharmacy benefit manager or insurer.
+32 (f) All information, documents and material disclosed by a pharmacy benefit manager
+33 under this section and in the possession or under the control of the office of the health insurance
+34 commissioner shall be deemed confidential and not subject to disclosure except to the extent such
+LC006503/SUB A - Page 7 of 12
+
+1 information is included on an aggregated basis across all pharmacy benefit managers in the
+2 published report required by subsection (e) of this section. This subsection shall not apply to
+3 information, documents and materials where they are in the possession and under the control of a
+4 person or entity other than the commissioner.
+5 27-84-7. Additional obligations.
+6 (a) No pharmacy benefit manager shall violate any provisions of the state law applicable
+7 to pharmacy benefit managers.
+8 (b) No pharmacy benefit manager shall permit any subcontractor, affiliate, subsidiary, or
+9 other individual or entity performing pharmacy benefit management services for a pharmacy
+10 benefit manager to take any action which would violate any provision of law if taken by the
+11 pharmacy benefit manager. A pharmacy benefit manager shall be responsible for the actions of any
+12 subcontractor, affiliate, subsidiary, or other individual or entity who violates any provision of this
+13 article in performance of any pharmacy benefit management services for such pharmacy benefit
+14 manager whether or not the pharmacy benefit manager was aware of, or sanctioned, the conduct.
+15 27-84-8. Grounds for suspension or revocation of certificate of authority.
+16 (a) The commissioner may revoke or suspend the certificate of authority of any pharmacy
+17 benefit manager if, after notice and hearing, the director determines that the pharmacy benefit
+18 manager or any member, principal, officer, commissioner, or controlling person of the pharmacy
+19 benefit manager, has:
+20 (1) Violated any applicable laws, regulations, or orders of the commissioner or another
+21 state's authority who oversees pharmacy benefit managers, or has violated any law in the course of
+22 his or her dealings in such capacity after such certificate of authority has been issued or renewed
+23 pursuant to this chapter;
+24 (2) Provided materially incorrect, materially misleading, materially incomplete or
+25 materially untrue information in the application for a certificate of authority;
+26 (3) Obtained or attempted to obtain a certificate of authority through misrepresentation or
+27 fraud;
+28 (4) Used fraudulent, coercive or dishonest practices;
+29 (5) Demonstrated incompetence;
+30 (6) Demonstrated untrustworthiness; or
+31 (7) Demonstrated financial irresponsibility in the conduct of business in this state or
+32 elsewhere;
+33 (8) Improperly withheld, misappropriated or converted any monies or properties received
+34 in the course of business in this state or elsewhere;
+LC006503/SUB A - Page 8 of 12
+
+1 (9) Intentionally misrepresented the terms of an actual or proposed contract;
+2 (10) Admitted to or been found to have committed any insurance unfair trade practice or
+3 fraud;
+4 (11) Had a pharmacy benefit manager certificate, registration, or license, or its equivalent,
+5 denied, suspended or revoked in any other state, province, district or territory;
+6 (12) Failed to pay state income tax or comply with any administrative or court order
+7 directing payment of state income tax; or
+8 (13) Ceased to meet the requirements for a certificate of authority under this chapter.
+9 (b) Before revoking or suspending the certificate of authority of any pharmacy benefit
+10 manager pursuant to the provisions of this chapter, the commissioner shall give notice to the holder
+11 of the certificate of authority and shall hold, or cause to be held, an adjudicatory proceeding in
+12 conformity with chapter 35 of title 42.
+13 (c) If a pharmacy benefit manager's certificate of authority in accordance with this section
+14 is revoked or suspended by the commissioner, then the commissioner shall forthwith give notice to
+15 the pharmacy benefit manager. For good cause shown, the commissioner may delay the effective
+16 date of a revocation or suspension to permit the pharmacy benefit manager to satisfy some or all of
+17 its contractual obligations to perform pharmacy benefit management services in the state.
+18 (d) No individual, corporation, firm or association whose certificate of authority as a
+19 pharmacy benefit manager has been revoked pursuant to subsection (a) of this section, and no firm
+20 or association of which such individual is a member, and no corporation of which such individual
+21 is an officer or director, and no controlling person of the holder of the certificate of authority shall
+22 be entitled to obtain any certificate of authority under the provisions of this chapter for a minimum
+23 period of one year after such revocation, or, if such revocation be judicially reviewed, for a
+24 minimum period of one year after the final determination thereof affirming the action of the
+25 commissioner in revoking such certificate.
+26 (e) If any such certificate of authority held by a firm, association or corporation be revoked,
+27 no member of such firm or association and no officer or director of such corporation or any
+28 controlling person of the pharmacy benefit manager shall be entitled to obtain any certificate of
+29 authority under this chapter for the same period of time, unless the commissioner determines that
+30 such member, officer or director was not personally at fault in the matter on account of which such
+31 certificate of authority was revoked.
+32 (f) The commissioner shall retain the authority to enforce the provisions of and impose any
+33 penalty or remedy authorized by this chapter against any person or entity who is under investigation
+34 for or charged with a violation of this chapter, even if the person's or entity's certificate of authority
+LC006503/SUB A - Page 9 of 12
+
+1 has been surrendered, or has expired or has lapsed by operation of law.
+2 (g) A pharmacy benefit manager subject to this chapter shall report to the commissioner
+3 any administrative action taken against the holder of the certificate of authority in another
+4 jurisdiction or by another governmental agency in this state within thirty (30) days of the final
+5 disposition of the matter. This report shall include a copy of any order, consent order, decision or
+6 other relevant legal documents.
+7 (h) Within thirty (30) days of the initial pretrial hearing date, a pharmacy benefit manager
+8 subject to this chapter shall report to the commissioner any criminal prosecution of the holder of
+9 the certificate of authority taken in any jurisdiction. The report shall include a copy of the initial
+10 complaint filed, the order resulting from the hearing and any other relevant legal documents.
+11 (i) Chapter 35 of title 42 ("administrative procedures") shall apply to any notice or hearing
+12 by the commissioner in accordance with this section.
+13 27-84-9. Penalties for violations.
+14 (a) The commissioner, in addition to any other power conferred by law, may, in any one
+15 proceeding by order require the pharmacy benefit manager who violates the provisions of this title,
+16 or related regulation to make restitution and pay compensatory damages, in an amount to be
+17 determined by the commissioner, to any person injured by the unlawful actions of said holder of
+18 certificate of authority and to pay to the people of this state a penalty in a sum not exceeding either
+19 the greater of ten thousand dollars ($10,000) for each offense and fifteen thousand dollars ($15,000)
+20 for each subsequent violation; or the aggregate gross receipts attributable to all offenses.
+21 (b) Upon the failure of such a holder of a certificate of authority to pay the penalty ordered
+22 pursuant to subsection (a) of this section within twenty (20) days after the mailing of the order,
+23 postage prepaid, registered, and addressed to the last known place of business of the holder of the
+24 certificate of authority, unless the order is stayed by an order of a court of competent jurisdiction,
+25 the commissioner may revoke the holder's certificate of authority or may suspend the same for such
+26 period as the commissioner determines.
+27 27-84-10. Applicability of other laws.
+28 (a) Nothing in this chapter shall be construed to exempt a pharmacy benefit manager from
+29 complying with any other applicable state laws or regulations.
+30 (b) Notwithstanding the provisions of 2026--H 7127 Substitute A, as amended, Article 12,
+31 Section 13, relating to the Pharmacy Benefit Manager Transparency Reporting and Study Act, shall
+32 have no force and effect and is hereby superseded by the provisions of this chapter.
+33 27-84-11. Assessments.
+34 Holders of a certificate of authority issued pursuant to this chapter and holders of a
+LC006503/SUB A - Page 10 of 12
+
+1 provisional certificate of authority shall be assessed by the commissioner for the operating expenses
+2 of the office of the health insurance commissioner including, but not limited to, any reasonable
+3 expenses of any experts, consultants, and contractors, that are attributable to regulating such
+4 pharmacy benefit managers in such proportions as the commissioner shall deem just and
+5 reasonable.
+6 27-84-12. Rules and regulations.
+7 The office of the health insurance commissioner shall promulgate rules and regulations
+8 necessary to effectuate the purpose of this chapter, including procedures for notice to insurers,
+9 covered individuals, employers, and other organizations of the provisions of this chapter.
+10 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC006503/SUB A
+========
+LC006503/SUB A - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- PHARMACY BENEFIT MANAGERS ACT
+***
+1 This act would require pharmacy benefit managers to apply for a certificate of authority
+2 from the office of the health insurance commissioner to operate such a business in this state.
+3 Further, this act would empower the health insurance commissioner to oversee all pharmacy benefit
+4 managers and penalize violations.
+5 This act would take effect on January 1, 2027.
+========
+LC006503/SUB A
+========
+LC006503/SUB A - Page 12 of 12

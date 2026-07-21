@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - 7171
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7171
+========
+LC003731
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PATIENT PAYMENT
+INFORMATION
+Introduced By: Representatives Casimiro, Giraldo, Spears, Shallcross Smith, and Potter
+Date Introduced: January 21, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 37.9
+4 PATIENT PAYMENT INFORMATION
+5 5-37.9-1. Patient payment information -- Requiring electronic payment information
+6 prohibited.
+7 (a) No healthcare provider, as defined in § 5-37.3-12, shall require a patient to provide bank
+8 account information, a credit card number, a debit card number or any other form of electronic
+9 payment to be kept on file with the healthcare provider as a prerequisite to seeing the patient for an
+10 office visit or providing any healthcare service to the patient.
+11 (b) A violation of subsection (a) of this section shall be considered an unfair trade practice
+12 pursuant to chapter 13.1 of title 6 ("deceptive trade practices").
+13 (c) Nothing in this section shall be construed to:
+14 (1) Affect a patient's obligation to pay for healthcare services; or
+15 (2) Prohibit a healthcare provider from requesting, collecting or storing bank, credit or
+16 debit card or other payment-related information if the patient agrees to provide such information.
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC003731
+========
+LC003731 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PATIENT PAYMENT
+INFORMATION
+***
+1 This act would prohibit a healthcare provider from requiring patients to provide electronic
+2 payment information to be kept on file as a condition to receiving treatment. The act would make
+3 a violation of this section a deceptive trade practice.
+4 This act would take effect upon passage.
+========
+LC003731
+========
+LC003731 - Page 3 of 3

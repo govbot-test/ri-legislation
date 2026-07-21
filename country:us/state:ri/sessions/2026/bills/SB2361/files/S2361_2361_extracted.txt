@@ -1,0 +1,329 @@
+Title: 
+Official Title: 
+Source: versions - 2361
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2361
+========
+LC003411
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- WEALTH TAX
+Introduced By: Senators Mack, Acosta, DiMario, Murray, and Lauria
+Date Introduced: January 30, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 73
+4 WEALTH TAX
+5 44-73-1. Definitions.
+6 The definitions in this section apply throughout this chapter unless the context clearly
+7 requires otherwise:
+8 (1) "Artificial person" means a corporation; limited liability company; limited liability
+9 partnership, limited partnership, joint venture, or any other kind of partnership; association;
+10 business trust or any other trust; estate; association; or any other organization.
+11 (2) "Cash and cash equivalents" means currency and short-term, highly liquid investments
+12 that are readily convertible to known amounts of cash. "Cash and cash equivalents" includes money
+13 on hand, certificates of deposit, checking account deposits, savings account deposits, money market
+14 funds, cryptocurrency, and similar assets.
+15 (3) "Day" means a calendar day or any portion of a calendar day.
+16 (4) "Department" means the department of revenue.
+17 (5) "Domicile" means for purposes of an artificial person:
+18 (i) For a business, the principal place from which the business is directed or managed; and
+19 (ii) For artificial persons other than businesses, the place where the entity was organized.
+
+1 (6) "Fair market value" means the amount of money that a willing buyer would pay to a
+2 willing seller for property in an arms-length transaction if both parties were fully informed about
+3 all advantages and disadvantages of the property and neither party is acting under a compulsion to
+4 enter into the transaction.
+5 (7) "Financial intangible assets" means the following assets:
+6 (i) Cash and cash equivalents;
+7 (ii) Financial investments such as annuities, bonds, treasury bills, mutual funds or index
+8 funds, stocks, publicly traded options, futures contracts, commodities contracts, put and call
+9 options, certificates of interest in gold and other precious metals or gems, and other similar
+10 investments;
+11 (iii) Units of ownership in a subchapter K entity;
+12 (iv) Units of ownership and stock in a subchapter S entity; and
+13 (v) Similar intangible assets.
+14 (8) "Intangible assets" means both financial intangible assets and nonfinancial intangible
+15 assets.
+16 (9) "Nonfinancial intangible assets" means all intangible property other than financial
+17 intangible assets, such as trademarks, trade names, brand names, patents, copyrights, trade secrets,
+18 licenses, permits, core deposits of financial institutions, noncompete agreements, customer lists,
+19 patient lists, favorable contracts, favorable financing agreements, reputation, exceptional
+20 management, prestige, good name, integrity of a business, private nongovernmental personal
+21 service contracts, and private nongovernmental athletic or sports franchises or agreements.
+22 (10) "Person" means any natural person or artificial person.
+23 (11) "Subchapter K entity" means a partnership, including a limited partnership, limited
+24 liability partnership, limited liability limited partnership, limited liability company, joint venture,
+25 or any other entity subject to subchapter K of the Internal Revenue Code, 26 U.S.C. §§ 701 through
+26 761, including a single member limited liability company.
+27 (12) "Subchapter S entity" means any entity subject to the Internal Revenue Code, 26
+28 U.S.C. §§ 1361 through 1379.
+29 (13) "Tax year" means the calendar year immediately preceding the year in which the tax
+30 under this chapter is due and payable to the department.
+31 (14) "Taxable worldwide wealth" means a person's worldwide wealth, excluding the fair
+32 market value of any intangible property exempt from the tax imposed under this chapter.
+33 (15) "Rhode Island resident" or "resident" means the following:
+34 (i) Any artificial person domiciled in this state at any time during the tax year; or
+LC003411 - Page 2 of 10
+
+1 (ii) A natural person:
+2 (A) Who is domiciled in this state at any time during the tax year; or
+3 (B) Who is not domiciled in this state during the tax year, but maintained a place of abode
+4 and was physically present in this state for more than one hundred eighty three (183) days during
+5 the tax year.
+6 (16)(i) "Worldwide wealth" means the fair market value of all intangible assets, or portion
+7 thereof, owned or controlled by a resident.
+8 (ii) For purposes of this subsection:
+9 (A) "Control" means a person possesses, directly or indirectly, alone or with one or more
+10 close associates, more than fifty percent (50%) of the power to sell or otherwise dispose of
+11 intangible assets.
+12 (B) "Close associates" means natural persons who are in close association with another
+13 natural person by reason of a family, marital, personal, or business relationship.
+14 (C) "Own" includes both legal and beneficial ownership.
+15 44-73-2. Tax imposed.
+16 (a) Beginning January 1, 2027, for taxes due in 2028, a wealth tax is imposed on each
+17 Rhode Island resident. The wealth tax equals one percent (1%) multiplied by a resident's taxable
+18 worldwide wealth.
+19 (b) Except as provided in subsection (c) of this section, the tax imposed under this section
+20 applies to a resident's taxable worldwide wealth as of December 31 of the tax year.
+21 (c) In the case of any individual who dies during a tax year and who is not married or in a
+22 state registered domestic partnership on the date of such individual's death:
+23 (1) The tax imposed under this section applies to the individual's taxable worldwide wealth
+24 as of the date of the individual's death; and
+25 (2) The amount of the tax otherwise due under this section shall be reduced by an amount
+26 determined by:
+27 (i) Dividing the amount of tax otherwise due for the entire tax year by the total number of
+28 days in the tax year; and
+29 (ii) Multiplying the amount determined in subsection (c)(2)(i) of this section by the number
+30 of days remaining in the tax year after the date of the individual's death.
+31 (d) The tax imposed in this section does not apply to a resident based on that person's status
+32 as a trustee of a trust, unless that person is also a beneficiary of the trust or holds a general power
+33 of appointment over the assets of the trust.
+34 (e)(1) If an individual is treated as the owner of any portion of a trust that qualifies as a
+LC003411 - Page 3 of 10
+
+1 grantor trust for federal income tax purposes, that individual shall be treated as the owner of that
+2 property for purposes of the tax imposed in this section to the extent such property includes
+3 intangible assets.
+4 (2) A grantor of a trust that does not qualify as a grantor trust for federal income tax
+5 purposes shall nevertheless be treated as the owner of the intangible assets of the trust for purposes
+6 of the tax imposed in this section if the grantor's transfer of assets to the trust is treated as an
+7 incomplete gift under 26 CFR § 25.2511-2.
+8 (f) Intangible assets transferred after the effective date of this section by a resident to an
+9 individual who is a member of the family of the resident and has not attained the age of eighteen
+10 (18) shall be treated as property of the resident for any calendar year before the year in which such
+11 individual attains the age of eighteen (18).
+12 (g) All funds collected from the wealth tax shall be deposited pursuant to the requirements
+13 of this chapter.
+14 44-73-3. When taxes and tax returns are due.
+15 (a)(1) Except as otherwise provided in this section, each resident owing tax under this
+16 chapter shall file, on forms prescribed by the department, a return with the department on or before
+17 April 15th each year reporting that person's taxable worldwide wealth for the immediate preceding
+18 calendar year, and such other information the department determines necessary to administer the
+19 tax imposed under this chapter.
+20 (2)(i) Except as provided in subsection (a)(2)(ii) of this section, returns and all supporting
+21 documents shall be filed electronically using the department's online tax filing service or other
+22 method of electronic reporting as the department may authorize.
+23 (ii) The department may waive the electronic filing requirement in this subsection for good
+24 cause as outlined in subsection (b)(2)(ii) of this section.
+25 (b)(1) Except as otherwise provided in this subsection, spouses and state registered
+26 domestic partners shall jointly file returns required under this section.
+27 (2)(i) A spouse or state registered domestic partner may petition the department, on a form
+28 and in a format as required by the department, for permission to file a separate return. The
+29 department may grant the petition only if it finds that good cause exists for allowing the petitioner
+30 to file a separate return.
+31 (ii) For purposes of this subsection, "good cause" means:
+32 (A) The petitioner reasonably believes that the non-petitioning spouse or state registered
+33 domestic partner will not cooperate in the filing of a complete and accurate joint return; or
+34 (B) Any other circumstance that, in the department's judgment, renders the filing of a joint
+LC003411 - Page 4 of 10
+
+1 return manifestly unreasonable.
+2 (c) Each resident required to file a return under this section shall, without assessment,
+3 notice, or demand, pay any tax due under this chapter to the department on or before the due date
+4 of the return, regardless of any filing extension granted by the department. The tax shall be paid by
+5 electronic funds transfer or by other forms of electronic payment as may be authorized by the
+6 department. The department may waive the electronic payment requirement for good cause.
+7 (d)(1) If any return due under subsection (a) of this section is not filed with the department
+8 by the due date or any extension granted by the department, the department shall assess a penalty
+9 in the amount of five percent (5%) of the tax due for the tax year covered by the return for each
+10 month or portion of a month that the return remains unfiled. The total penalty assessed under this
+11 subsection may not exceed twenty-five percent (25%) of the tax due for the tax year covered by the
+12 delinquent return. The penalty under this subsection is in addition to any penalties assessed for the
+13 late payment of any tax due on the return.
+14 (2) The department shall waive the penalty imposed under this subsection if:
+15 (i) The department is persuaded that the person's failure to file the return by the due date
+16 was due to circumstances beyond the person's control; or
+17 (ii) The person has not been delinquent in filing any return due under this section during
+18 the preceding five (5) calendar years.
+19 44-73-4. Administrative provisions.
+20 The department may adopt any rules and regulations it considers useful in administering
+21 the tax under this chapter.
+22 44-73-5. Exemptions.
+23 Exemptions from the tax imposed under § 44-73-3 are provided for:
+24 (1) Up to twenty-five million dollars ($25,000,000) of a taxpayer's financial intangible
+25 assets. For purposes of this exemption, both spouses or state registered domestic partners are
+26 considered to be one taxpayer. If the department authorizes the filing of separate returns for a tax
+27 year, each spouse or state registered domestic partner is entitled to claim one-half of the exemption
+28 provided under this subsection for that tax year;
+29 (2) Nonfinancial intangible assets;
+30 (3) Worldwide wealth of artificial persons; provided, however, the exemption provided in
+31 this subsection does not affect the computation of a natural person's worldwide wealth;
+32 (4) Any obligations or evidences of debt of the United States and obligations of United
+33 States government agencies and corporations established by acts of the Congress of the United
+34 States to the extent required by federal law to be exempt from taxation by the states;
+LC003411 - Page 5 of 10
+
+1 (5) Any obligations or evidences of debt of the State of Rhode Island and its agencies,
+2 instrumentalities, political subdivisions, and municipal corporations, which include municipal
+3 bonds;
+4 (6) Any stock of the Federal Reserve Bank, the government national mortgage association,
+5 the federal National Mortgage Association, and other corporations and associations established by
+6 acts of the Congress of the United States; and
+7 (7) Any property subject to ad valorem taxation.
+8 44-73-6. Credit for similar wealth tax paid to another state.
+9 (a) Except as provided in subsection (b) of this section, a person subject to tax under this
+10 chapter is allowed a credit against the tax otherwise due under this chapter equal to the amount of
+11 any similar wealth tax legally imposed on, and paid by, the person to another state for the same tax
+12 year on financial intangible assets subject to tax under this chapter. Credit under this section shall
+13 not exceed the tax otherwise due under this chapter and shall not be carried forward or backward
+14 to another tax year. Unused credit is not refundable.
+15 (b) No credit may be claimed under this section if:
+16 (1) The other state does not provide a substantially similar credit against its wealth tax; or
+17 (2) The taxpayer was domiciled in Rhode Island for a greater amount of time than in the
+18 other state during the tax year.
+19 (c) For purposes of this section, a similar wealth tax does not include an estate tax,
+20 inheritance tax, net income tax, gross receipts tax, other business activity tax, or similar tax. A tax
+21 on the value of property shall be considered to be a similar wealth tax even though taxpayers are
+22 allowed a deduction for their liabilities in computing the tax.
+23 44-73-7. Innocent spouse relief.
+24 (a) An individual who is required to jointly file a return under this chapter may petition the
+25 department for relief from joint and several liability for an assessment of taxes due under this
+26 chapter, including penalties and interest. Relief under this section is available only to the extent
+27 that the individual establishes by clear, cogent, and convincing evidence that the petitioner is
+28 entitled to relief under this section. The petition shall be made on a form and in a format prescribed
+29 by the department.
+30 (b) An individual is entitled to relief from joint and several liability under this section only
+31 if the petitioner establishes that all of the following criteria have been met:
+32 (1) The individual jointly filed a return under this chapter for a taxable year;
+33 (2) There is an understatement of tax due on the jointly filed return that is attributable to
+34 erroneous reporting of assets by the non-petitioning current or former spouse or state registered
+LC003411 - Page 6 of 10
+
+1 domestic partner;
+2 (3) The individual seeking relief establishes that the petitioner did not know, and had no
+3 reason to know, that there was such an understatement; and
+4 (4) Taking into account all the facts and circumstances, it is manifestly inequitable to hold
+5 the individual seeking relief liable for the deficiency in tax for such taxable year attributable to such
+6 understatement.
+7 (c) Any determination under this section shall be made without regard to community
+8 property laws.
+9 (d) If an individual seeking relief under this section establishes that they did not know, and
+10 had no reason to know, the extent of such understatement, then such individual shall be relieved of
+11 liability for tax not properly paid, including penalties and interest, for such taxable year to the extent
+12 that such liability is attributable to the portion of such understatement of which such individual did
+13 not know and had no reason to know.
+14 (e) An individual seeking relief under this section has the burden of proof with respect to
+15 establishing the portion of any deficiency allocable to such individual and the portion solely
+16 allocable to the individual's current or former spouse or state registered domestic partner.
+17 (f)(1) Notwithstanding any other provision of this section, an individual seeking relief
+18 under this section shall not seek relief for taxes on wealth derived from disqualified assets. For the
+19 purposes of this subsection, "disqualified asset" means any asset or right to an asset transferred
+20 between spouses or state registered domestic partners required to jointly file a return under this
+21 chapter if the principle purpose of the transfer was the avoidance of tax.
+22 (2) Except as provided in subsection (f)(3) of this section, any transfer of assets between
+23 two (2) spouses or state registered domestic partners, required to jointly file a return under this
+24 chapter, that is made within twelve (12) months prior to December 31 of the tax year for which an
+25 individual is seeking relief under this section is presumed to be made with the principle purpose of
+26 avoidance of tax.
+27 (3) The presumption under subsection (f)(2) of this section, does not apply to any transfer
+28 pursuant to a decree of divorce, dissolution of a domestic partnership, separate maintenance action,
+29 or a written instrument incident to such action, or to any transfer that an individual establishes did
+30 not have tax avoidance as its principle purpose.
+31 (g) If relief is granted under this section, any asset giving rise to a deficiency on a jointly
+32 filed return shall be allocated to the individuals filing the return in the same manner as it would
+33 have been allocated if the individuals had filed separate returns for the taxable year. No relief
+34 granted under this section may reduce the combined tax liability of individuals required to jointly
+LC003411 - Page 7 of 10
+
+1 file a return under this chapter in any given tax year.
+2 (h) Any relief granted under this section shall not result in an increase in the exemption
+3 amount allowed under § 44-73-5. Nothing in this section shall be construed to permit individuals
+4 required to jointly file a return under this chapter to claim a combined exemption exceeding the
+5 limit established in § 44-73-5.
+6 (i) An individual seeking relief under this section shall file a petition with the department
+7 no later than two (2) years after the date of the department's notification of the deficiency that is
+8 the subject of the petition.
+9 (j) The department shall by rule and regulation provide a method or methods for allocating
+10 assets between individuals required to jointly file returns under this chapter in cases where one of
+11 the individuals is granted relief under this section. The department shall also by rule and regulation
+12 provide substantiation requirements for an individual to establish the individual's eligibility for
+13 relief under this section.
+14 (k) An individual seeking relief under this section shall petition the department for a review
+15 of a denial of such relief.
+16 44-73-8. Substantial wealth tax valuation understatement penalty imposed.
+17 (a) Except as otherwise provided in this section, if any portion of an underpayment of tax
+18 due under this chapter is due to a substantial wealth tax valuation understatement, there shall be
+19 added to the tax an amount equal to:
+20 (1) In the case of any substantial wealth tax valuation understatement that is a gross wealth
+21 tax valuation misstatement, fifty percent (50%) of the portion of the underpayment due to the
+22 valuation understatement; or
+23 (2) In all other cases, thirty percent (30%) of the portion of the underpayment due to the
+24 valuation understatement.
+25 (b) The penalty imposed under subsection (a) of this section does not apply unless the
+26 portion of the underpayment attributable to substantial wealth tax valuation understatements for the
+27 calendar year exceeds five thousand dollars ($5,000).
+28 (c) The penalty imposed in this section is in addition to any other applicable penalties
+29 imposed under this chapter.
+30 (d) For purposes of this section, the following definitions apply:
+31 (1) "Gross wealth tax valuation misstatement" means the fair market value of any financial
+32 intangible assets reported on a return is forty percent (40%) or less of the amount determined to be
+33 the correct amount of such fair market value.
+34 (b) "Substantial wealth tax valuation understatement" means the fair market value of any
+LC003411 - Page 8 of 10
+
+1 financial intangible assets reported on a return is sixty five percent (65%) or less of the amount
+2 determined to be the correct amount of such fair market value.
+3 44-73-9. Enforcement.
+4 Beginning in calendar year 2027, to the extent that sufficient funds are specifically
+5 appropriated for this purpose, the department shall initiate audits of at least ten percent (10%) of
+6 individuals who are registered with the department to pay the tax imposed in this chapter, increasing
+7 to fifteen percent (15%) in calendar year 2028, and twenty percent (20%) in calendar year 2029
+8 and thereafter.
+9 44-73-10. Rule of construction.
+10 The general assembly intends that any provision of this chapter that is found to be
+11 ambiguous, by a court of competent jurisdiction or administrative agency, be construed in favor of
+12 application of the tax, notwithstanding any contrary common law rule of statutory construction.
+13 44-73-11. Severability clause.
+14 If any provision of this chapter or its application to any person or circumstance is held
+15 invalid, the remainder of the chapter or the application of the provision to other persons or
+16 circumstances is not affected.
+17 SECTION 2. This act shall take effect upon passage.
+========
+LC003411
+========
+LC003411 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- WEALTH TAX
+***
+1 This act would impose a wealth tax on Rhode Island individuals and entities at a rate of
+2 one percent (1%) of worldwide wealth.
+3 This act would take effect upon passage.
+========
+LC003411
+========
+LC003411 - Page 10 of 10

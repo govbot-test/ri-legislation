@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - 8019
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8019
+========
+LC005835
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- STATE BUILDING CODE
+Introduced By: Representative Joseph M. McNamara
+Date Introduced: February 27, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 23-27.3-108.2 of the General Laws in Chapter 23-27.3 entitled "State
+2 Building Code" is hereby amended to read as follows:
+3 23-27.3-108.2. Duties of the state building code commissioner.
+4 (a) The state building code commissioner shall have the authority to enforce and perform
+5 the duties required by the state building code, chapter 27.3 of this title, and all codes referenced
+6 therein and adopted thereunder, and all other provisions of the general laws and public laws insofar
+7 as such powers and duties relate to building codes and building inspection; provided, however, that
+8 for the purposes of this section structures constituting tents and/or membrane frame structures as
+9 defined in this state building code and any regulations promulgated hereunder shall be subject to
+10 an annual certification process to be established by the state building commissioner in conjunction
+11 with the state fire marshal and shall not be subject to recurring permit and fee requirements as
+12 otherwise required by this code.
+13 (b) The state building code commissioner shall work to standardize building code
+14 interpretations across the state with input from the Rhode Island League of Cities and Towns and
+15 ensure consistent enforcement of the code throughout the state.
+16 (c) Permit fees. Permit fees for the construction under this chapter shall be established by
+17 the committee. The fees shall be deposited as general revenues.
+18 (1) Building permit fees. The state building official or the local cites and towns, as
+19 applicable, shall charge each permit applicant an additional one-tenth percent (0.1%) levy of the
+
+1 total construction cost for each commercial permit issued, and two-tenths percent (0.2%) levy of
+2 the total construction cost for each residential permit issued. The levy shall be limited to a
+3 maximum of one hundred dollars ($100) one hundred fifty dollars ($150) for each of the permits
+4 issued for one-, two (2)-, three (3)-, and four (4)-family dwellings. This additional levy shall be
+5 transmitted monthly to the state building code office; and
+6 (i) Fifty percent (50%) of this additional levy on residential permits and one hundred
+7 percent (100%) of this additional levy on commercial permits shall be used to staff and support the
+8 purchase or lease and operation of a web-accessible service and/or system to be utilized by the state
+9 and municipalities for uniform, statewide electronic plan review, permit management, and
+10 inspection system and other programs described in this chapter. This portion of the fee levy shall
+11 be deposited as general revenues.
+12 (ii) Fifty percent (50%) of this additional levy on residential permits shall be transferred to
+13 the department of labor and training and shall be deposited into the contractor training restricted
+14 receipt account, which shall be exempt from the indirect cost recovery provisions of § 35-4-27.
+15 Subject to appropriation by the general assembly, these funds shall be used to provide residential
+16 contractor training grants for programs that shall include, but are not limited to, minority business
+17 enterprises and state local building officials.
+18 (2) Fees for electronic permitting from other state agencies and cities and towns. The
+19 local cities and towns and any state agency utilizing an electronic permitting platform, except as
+20 set forth in this section, shall charge each applicant in accordance with §§ 42-13-10, 42-17.1-46,
+21 45-23-36.1, 45-24-58.1, 45-53-16, and 46-23-30 as applicable.
+22 (d) Electronic permitting.
+23 (1) For purposes of this section, “electronic permitting” means the use of computer-based
+24 tools and services through a platform which automates and streamlines the application and permit
+25 process to include, but not be limited to, task-specific tools for applications, submission of plans,
+26 checklists, reports and other documents, reviews, permitting, scheduling, review and project
+27 tracking, comments from staff and committees, fee calculation and collection; and workflow and
+28 report management
+29 (2) On or before July 1, 2013, the building commissioner shall develop a standard statewide
+30 process for electronic plan review, permit management, and inspection. The process shall include,
+31 but not be limited to: applications; submission of building plans and plans for developments and
+32 plots; plan review; permitting; inspections; inspection scheduling; project tracking; fee calculation
+33 and collections; and workflow and report management.
+34 (3) On or before December 1, 2013, the building commissioner shall implement the
+LC005835 - Page 2 of 5
+
+1 standard statewide process for electronic plan review, permit management, and inspection. In
+2 addition, the building commissioner, through the department of business regulation, shall develop
+3 a technology and implementation plan for a standard web-accessible service or system to be utilized
+4 by the state and municipalities for uniform, statewide electronic plan review, permit management,
+5 and inspection for building permits. The plan shall include, but not be limited to: applications;
+6 submission of building plans and plans for developments and plots; plan review; permitting;
+7 inspections; inspection scheduling; project tracking; fee calculation and collections; and workflow
+8 and report management.
+9 (4) The building commissioner shall implement the standard statewide process for
+10 electronic permitting to be utilized pursuant to this section and §§ 23-27.3-115.6, 42-13-10, 42-
+11 17.1-46, 45-23-36.1, 45-24-58.1, 45-53-16, and 46-23-30. In addition, the building commissioner
+12 shall develop a technology and implementation plan for a web-accessible service or system to be
+13 utilized by the state and municipalities for these purposes and shall cause the purchase or lease and
+14 operation of a web-accessible service and/or system to be utilized by the state and municipalities
+15 for electronic permitting (“electronic permitting platform”).
+16 (e) All electronic permitting fees collected by the state building code office shall be
+17 remitted to the department of business regulation, which funds shall be used to staff and support
+18 the purchase or lease and operation of a web-accessible service or system to be utilized by the state
+19 and municipalities for electronic permitting.
+20 (f) The building commissioner shall, upon request by any state contractor described in §
+21 37-2-38.1, review, and when all conditions for certification have been met, certify to the state
+22 controller that the payment conditions contained in § 37-2-38.1 have been met.
+23 (g) The building commissioner shall coordinate the development and implementation of
+24 this section with the state fire marshal to assist with the implementation of § 23-28.2-6. On or before
+25 January 1, 2022, the building commissioner shall promulgate rules and regulations to implement
+26 the provisions of this section and §§ 23-27.3-115.6, 42-13-10, 42-17.1-46, 45-23-36.1, 45-24-58.1,
+27 45-53-16, and 46-23-30.
+28 (h) The building commissioner shall submit, in coordination with the state fire marshal, a
+29 report to the governor and general assembly on or before April 1, 2013, and each April 1 thereafter,
+30 providing the status of the web-accessible service(s) and/or system(s) implementation and any
+31 recommendations for process or system improvement. In every report submitted on or after April,
+32 2024, the building commissioner shall provide the following information:
+33 (1) The identity of every municipality and state agencies, as applicable, in full compliance
+34 with the provisions of §§ 23-27.3-115.6, 42-13-10, 42-17.1-46, 45-23-36.1, 45-24-58.1, 45-53-16,
+LC005835 - Page 3 of 5
+
+1 and 46-23-30 and the rules and regulations promulgated pursuant to the provisions of this section;
+2 (2) The identity of every municipality or state agencies, as applicable, failing to fully
+3 implement and comply with the provisions of §§ 23-27.3-115.6, 42-13-10, 42-17.1-46, 45-23-36.1,
+4 45-24-58.1, 45-53-16, and 46-23-30 and/or the rules and regulations promulgated pursuant to the
+5 provisions of this section, and the nature, extent, and basis or reason for the failure or
+6 noncompliance; and
+7 (3) Recommendations to achieve compliance by all municipalities or state agencies, as
+8 applicable, with the provisions of §§ 23-27.3-115.6, 42-13-10, 42-17.1-46, 45-23-36.1, 45-24-58.1,
+9 45-53-16, and 46-23-30 and the rules and regulations promulgated pursuant to this section.
+10 (i) The building commissioner shall assist with facilitating the goals and objectives set forth
+11 in § 28-42-84(a)(9).
+12 (j) The state building code commissioner shall serve as the executive secretary to the state
+13 building code standards committee.
+14 (k) In addition to the state building code commissioner’s other duties as set forth in this
+15 chapter, and notwithstanding the same, the state building code commissioner and the
+16 commissioner’s staff shall assume the authority for the purposes of enforcing the provisions of the
+17 state building code in a municipality where there is no local building official or alternate as detailed
+18 in § 23-27.3-107.2, or where there are no local building inspectors.
+19 SECTION 2. This act shall take effect upon passage.
+========
+LC005835
+========
+LC005835 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- STATE BUILDING CODE
+***
+1 This act would increase the additional permit fee cap on residential construction that
+2 supports electronic permitting and residential construction workforce training from one hundred
+3 dollars ($100) to one hundred fifty dollars ($150).
+4 This act would take effect upon passage.
+========
+LC005835
+========
+LC005835 - Page 5 of 5

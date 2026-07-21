@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - 7843
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7843
+========
+LC005609
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CORPORATIONS, ASSOCIATIONS, AND PARTNERSHIPS -- RHODE
+ISLAND DECENTRALIZED AUTONOMOUS ORGANIZATION ACT
+Introduced By: Representative Stephen M. Casey
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 7 of the General Laws entitled "CORPORATIONS, ASSOCIATIONS,
+2 AND PARTNERSHIPS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 17
+4 RHODE ISLAND DECENTRALIZED AUTONOMOUS ORGANIZATION ACT
+5 7-17-1. Purpose and recognition.
+6 (a) By adopting this legislation, Rhode Island can compete effectively for blockchain talent
+7 and investment, drive economic growth in emerging tech sectors, and open new avenues for
+8 projects, financing and public-private collaboration while upholding strong oversight,
+9 cybersecurity protections, and full federal compliance.
+10 (b) A decentralized autonomous organization may be recognized as a limited liability
+11 company under Rhode Island law when it satisfies the governance and reporting requirements
+12 established in this chapter.
+13 7-17-2. Articles of organization.
+14 A decentralized autonomous organization limited liability company shall include in its
+15 articles of organization a declaration that it is a decentralized autonomous organization limited
+16 liability company, the address of the on-chain governance contract or protocol, the name and
+17 address of a registered agent for service of process in Rhode Island, and provisions that specify
+18 member’s rights, voting thresholds, and procedures for amendments.
+
+1 7-17-3. Governance and liability.
+2 Governance may occur through smart contracts or digital consensus mechanisms. Member
+3 liability is limited to the amount of each member’s financial contribution unless fraud or willful
+4 misconduct is proven. A decentralized autonomous organization limited liability company may sue
+5 and be sued in its own name.
+6 7-17-4. Reporting and oversight.
+7 Decentralized autonomous organization limited liability companies shall file an annual
+8 report with the department of business regulation (” the department”) that discloses the status of
+9 governance and any technical modifications. The department shall issue guidance on filing
+10 procedures and review processes, and cybersecurity standards consistent with regard to compliance
+11 with any laws pertaining to Rhode Island financial institutions cybersecurity law.
+12 7-17-5. Regulatory sandbox.
+13 The state shall establish a limited-term regulatory sandbox that permits decentralized
+14 autonomous organization entities to pilot public and private projects, including infrastructure and
+15 financing initiatives, under department oversight. Participants shall maintain compliance with anti-
+16 money laundering, know-your-customer, and Financial Crimes Enforcement Network (FinCEN)
+17 obligations.
+18 7-17-6. Dissolution and conversion.
+19 A decentralized autonomous organization limited liability company may convert to a
+20 traditional limited liability company or dissolve through a member vote recorded on-chain or by
+21 written consent filed with the secretary of state.
+22 7-17-7. Capital formation and project finance.
+23 A decentralized autonomous organization limited liability company may engage in capital
+24 formation through private placements of membership interests or governance tokens that comply
+25 with federal securities laws, including Regulation D (private placements), and may finance
+26 infrastructure projects, public-private partnerships, and other lawful initiatives through transparent
+27 on-chain mechanisms, subject to all applicable state and federal regulatory requirements.
+28 7-17-7. Rules and Regulations.
+29 The department of business regulation shall promulgate rule and regulations relating to the
+30 implementation and enforcement of this chapter.
+31 SECTION 2. This act shall take effect upon passage.
+========
+LC005609
+========
+LC005609 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CORPORATIONS, ASSOCIATIONS, AND PARTNERSHIPS -- RHODE
+ISLAND DECENTRALIZED AUTONOMOUS ORGANIZATION ACT
+***
+1 This act would authorize the formation of the decentralized autonomous organizations
+2 (DAO) and giving DAOs clear legal status as limited liability companies. It would create a
+3 predictable, business-friendly framework that provides limited liability protection, allow
+4 governance through smart contracts, support compliant capital raising and token issuance, and
+5 include a regulatory sandbox for safe testing of blockchain projects in infrastructure, finance, and
+6 public-private partnerships.
+7 This act would take effect upon passage.
+========
+LC005609
+========
+LC005609 - Page 3 of 3

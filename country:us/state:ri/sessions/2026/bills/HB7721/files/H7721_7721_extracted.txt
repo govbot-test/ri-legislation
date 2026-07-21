@@ -1,0 +1,361 @@
+Title: 
+Official Title: 
+Source: versions - 7721
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7721
+========
+LC005118
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- RHODE ISLAND BAN ON THE CORPORATE
+PRACTICE OF MEDICINE ACT
+Introduced By: Representatives Fogarty, McEntee, Shanley, Ajello, Tanzi, Shallcross
+Smith, Kazarian, Carson, McGaw, and Speakman
+Date Introduced: February 12, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapters:
+3 CHAPTER 106
+4 RHODE ISLAND BAN ON THE CORPORATE PRACTICE OF MEDICINE ACT
+5 23-106-1. Prohibition on the corporate practice of Medicine (“CPOM”).
+6 (a) Except as provided in § 23-106-2(b), it is unlawful for an individual, corporation,
+7 partnership, or any other entity without proper licensure pursuant to the provisions of title 23
+8 (“health and safety”), to own a medical practice, employ healthcare licensees, or otherwise engage
+9 in the practice of medicine.
+10 (b) Notwithstanding the foregoing, an individual, corporation, partnership, or any other
+11 entity, without a license under this title or chapter 37 of title 5 that is permitted to employ licensees
+12 under § 23-106-2 shall not indirectly or directly interfere with, control, or otherwise direct the
+13 professional judgment or clinical decisions of a licensee.
+14 23-106-2. Corporate entities permitted to employ physicians.
+15 (a) A medical practice organized for the purpose of practicing medicine may employ
+16 physicians and engage in the practice of medicine under the following conditions:
+17 (1) Licensees who are licensed in this state to practice medicine shall hold the majority of
+18 each class of shares that are entitled to vote.;
+
+1 (2) Licensees who are licensed in this state to practice medicine shall be a majority of the
+2 directors.; and
+3 (3) All officers except the secretary and treasurer, if any, must be licensees who are licensed
+4 in this state to practice medicine. The same person may hold any two (2) or more offices.
+5 (b) The following entities may employ physicians and engage in the practice of medicine:
+6 (1) Safety net clinics and public healthcare providers, including federally qualified health
+7 centers, rural health clinics;
+8 (2) Public hospitals;
+9 (3) Health and hospital districts;
+10 (4) School-based health clinics; and
+11 (5) Tribal health clinics.
+12 23-106-3. Regulating contracts between medical practices and management services
+13 organizations.
+14 (a) Ban on straw ownership.
+15 (1) Licensee owners of a medical practice shall exhibit meaningful ownership of the
+16 medical practice.
+17 (2) Meaningful ownership shall require that each licensee owner is duly licensed and
+18 present in the state and substantially engaged in delivering medical care or managing the medical
+19 practice.
+20 (b) Ban on dual ownership or interests.
+21 (1) A shareholder, director, or officer of a medical practice shall not:
+22 (i) Own or control shares in, serve as a director or officer of, be an employee of or an
+23 independent contractor with, or otherwise participate in managing both the medical practice and a
+24 management services organization with which the medical practice has a contract; or
+25 (ii) Receive substantial compensation or remuneration from a management services
+26 organization in return for ownership or management of the medical practice.
+27 (iii) Subsection (b)(1)(i) of this section shall not apply to the shareholders, directors, or
+28 officers of a medical practice if the medical practice owns a majority of the interest in the
+29 management services organization or separate legal entity.
+30 (c) Ban on stock transfer restriction agreements.
+31 (1) A medical practice shall not transfer or relinquish control over the sale, the restriction
+32 of the sale, or the encumbrance of the sale of the medical practice’s shares or assets.
+33 (2) A medical practice shall not transfer or relinquish control over the issuing of shares of
+34 stock in the medical practice, in a subsidiary of the medical practice or an entity affiliated with the
+LC005118 - Page 2 of 11
+
+1 medical practice, or the paying of dividends.
+2 (d) Ban on restrictive covenants.
+3 (1) Noncompetition agreements:
+4 (i) Except as provided in subsection (d)(1)(ii) of this section, a noncompetition agreement
+5 between a licensee and another person is void and unenforceable.
+6 (ii) A noncompetition agreement between a licensee and another person is valid and
+7 enforceable if the licensee is a shareholder or member of the other person or otherwise owns or
+8 controls an ownership or membership interest that is equivalent to twenty-five percent (25%) or
+9 more of the entire ownership or membership interest that exists in the other person.
+10 (2) Non-disclosure and nondisparagement agreements;
+11 (i) A nondisclosure agreement or nondisparagement agreement between a licensee and a
+12 management services organization is void and unenforceable;
+13 (ii) The provisions of subsection (d)(2)(i) shall not limit or otherwise affect any cause of
+14 action that:
+15 (A) A party to, or third-party beneficiary of, the agreement may have with respect to a
+16 statement of a licensee that constitutes libel, slander, a tortious interference with contractual
+17 relations, or another tort for which the party has a cause of action against the licensee; and
+18 (B) Does not depend upon or derive from a breach or violation of an agreement described
+19 in this subsection.
+20 (e) Ban on advertising. It is unlawful for a management services organization or other legal
+21 entity that is not the medical practice to advertise the medical practice’s services under the name
+22 of the entity that is not the medical practice.
+23 (f) Ban on relinquishing control of the medical practice.
+24 (1) A medical practice shall not by means of a contract or other agreement or arrangement,
+25 by providing in the medical practice’s articles of incorporation or bylaws, by forming a subsidiary
+26 or affiliated entity or by other means, relinquish control over or otherwise transfer de facto control
+27 over any of the medical practice’s administrative, business or clinical operations that may affect
+28 clinical decision-making or the nature or quality of medical care that the medical practice delivers.
+29 (2) Conduct prohibited under subsection (f)(1) of this section includes, but is not limited
+30 to, relinquishing ultimate decision-making authority over:
+31 (i) Hiring or terminating, setting work schedules and compensation, or otherwise
+32 specifying terms of employment of employees who are licensed to practice medicine in this state
+33 or who are licensed in this state as physician assistants or nurse practitioners;
+34 (ii) The disbursement of revenue generated from physician fees and other revenue
+LC005118 - Page 3 of 11
+
+1 generated by physician services.
+2 (iii) Collaboration and negotiation with hospitals and other institutions in which the
+3 licensees of the medical practice may deliver clinical care, particularly with regard to controlling
+4 licensee schedules as a means of discipline.
+5 (iv) Setting staffing levels, or specifying the period of time a licensee may see a patient,
+6 for any location that serves patients;
+7 (v) Making diagnostic coding decisions;
+8 (vi) Setting clinical standards or policies;
+9 (vii) Setting policies for patient, client, or customer billing and collection;
+10 (viii) Setting the prices, rates, or amounts the medical practice charges for a licensee’s
+11 services; or
+12 (ix) Negotiating, executing, performing, enforcing, or terminating contracts with third-
+13 party payors or persons that are not employees of the medical practice.
+14 (4) The conduct described in subsection (f)(1) and (f)(2) of this subsection shall not prohibit
+15 collection of quality metrics as required by law or in accordance with an agreement to which the
+16 medical practice is a party or setting criteria for reimbursement under a contract between the
+17 medical practice and an insurer or payer or entity that otherwise reimburses the medical practice
+18 for medical care.
+19 (5) Notwithstanding the provisions of subsection (f)(1) of this subsection, a medical
+20 practice may delegate administrative, business, or clinical operations described in subsection (f)(2)
+21 of this section to a managed services organization; provided that, the medical practice’s shareholder
+22 agreement bestows this delegation authority exclusively to the majority of shareholders who are
+23 licensee-owners, and such delegation does not relinquish de facto control of the medical practice
+24 to non-licensees.
+25 23-106-4. Protections for employed licensees.
+26 (a) The following provisions apply to persons licensed pursuant to the provisions of this
+27 title or chapter 37 of title 5 to provide healthcare services and who are employed by, or who provide
+28 healthcare services under contract with, an unlicensed person, corporation, or other entity under
+29 this chapter.
+30 (b) Ban on restrictive covenants.
+31 (1) Noncompetition agreements. A nondisclosure agreement or nondisparagement
+32 agreement between a licensee and an employer or another entity is void and unenforceable.
+33 (2) Non-disclosure and nondisparagement agreements.
+34 (i) A nondisclosure agreement or nondisparagement agreement between a licensee and an
+LC005118 - Page 4 of 11
+
+1 employer or any other entity is void and unenforceable.
+2 (ii) Subsection (b)(2) of this section shall not limit or otherwise affect any cause of action
+3 that:
+4 (A) A party to, or third-party beneficiary of, the agreement may have with respect to a
+5 statement of a licensee that constitutes libel, slander, a tortious interference with contractual
+6 relations, or another tort for which the party has a cause of action against the licensee; and
+7 (B) Does not depend upon or derive from a breach or violation of an agreement described
+8 in subsection (b)(2)(ii)(A) of this section.
+9 (c) Ban on interfering with, controlling, or otherwise directing the professional judgment
+10 or clinical decisions of a licensee. Conduct prohibited pursuant to the provisions of this section
+11 includes, but is not limited to, controlling, either directly or indirectly, through discipline,
+12 punishment, threats, adverse employment actions, coercion, retaliation, or excessive pressure, the
+13 following:
+14 (1) The period of time a licensee may spend with a patient, including the time permitted
+15 for a licensee to triage patients in the emergency department or evaluate admitted patients;
+16 (2) The period of time within which a licensee shall discharge a patient;
+17 (3) The clinical status of the patient, including whether the patient should be admitted to
+18 inpatient status, whether the patient should be kept in observation status, whether the patient should
+19 receive palliative care, and whether and where the patient should be referred upon discharge, such
+20 as a skilled nursing facility;
+21 (4) The diagnoses, diagnostic terminology, or codes that are entered into the medical record
+22 by the licensee;
+23 (5) The range of clinical orders available to licensees, including by configuring the medical
+24 record to prohibit or significantly limit the options available to the licensee; and
+25 (6) Any other action specified by regulation to constitute impermissible interference or
+26 control over the clinical judgment and decision-making of a licensee.
+27 23-106-5. Enforcement.
+28 (a) Attorney general enforcement authority.
+29 (1) The attorney general may subpoena any records necessary to enforce any provisions of
+30 this chapter or to investigate suspected violations of any provisions of this chapter or any conditions
+31 imposed by conditional approval pursuant to the material transactions review process.
+32 (2) The attorney general may enforce any requirement of this chapter and any conditions
+33 imposed by a conditional approval pursuant to the material transactions review process to the fullest
+34 extent provided by law, including damages. In addition to any legal remedies the attorney general
+LC005118 - Page 5 of 11
+
+1 may have, the attorney general shall be entitled to specific performance, injunctive relief, and other
+2 equitable remedies a court deems appropriate for any violations or imminent violation of any
+3 requirement of this chapter or any violations or breach of any of the conditions and shall be entitled
+4 to recover its attorneys’ fees and costs incurred in remedying each violation.
+5 (3) The attorney general may also impose a statutory penalty of ten thousand dollars
+6 ($10,000) per day for any violation of this chapter or of any conditions imposed pursuant to a
+7 conditional approval and may rescind or deny approval for any other past, pending, or future
+8 material change transactions involving the healthcare entity or an affiliate.
+9 (4) Nothing in this section shall narrow, abrogate, or otherwise alter the authority of the
+10 attorney general to prosecute violations of antitrust or consumer protection requirements.
+11 (b) Administrative enforcement.
+12 (1) Any entity that violates any provision of this chapter or any rules adopted pursuant
+13 thereto shall be subject to an administrative penalty of ten thousand dollars ($10,000) per day for
+14 any violation;
+15 (2) The department of health engaged in market oversight may disapprove any transaction
+16 or agreement that violates this chapter; and
+17 (3) The department of health may refer any entity to the attorney general to review for
+18 enforcement of any noncompliance with this chapter or regulations adopted pursuant thereto.
+19 (c) Private right of action.
+20 (1) Any person aggrieved by a violation of this statute may file suit in any superior court
+21 in the state without regard to exhaustion of any alternative administrative remedies provided herein.
+22 (2) Upon application by a complainant and in such circumstances as the court may deem
+23 just, the court may appoint an attorney for such complainant and may authorize the commencement
+24 of the action.
+25 (3) If the court finds that the respondent has intentionally violated any provision of this
+26 chapter or any regulation under this chapter, it may award damages up to and including an amount
+27 equal to the amount of actual damages, or statutory damages of up to one hundred thousand dollars
+28 ($100,000) per plaintiff per violation, or other equitable relief.
+29 (4) Any civil action brought under this section shall be subject to appeal.
+30 (d) The attorney general and the department of health may adopt rules and regulations as
+31 necessary to implement the provisions of this chapter.
+32 CHAPTER 107
+33 RHODE ISLAND TRANSPARENCY IN OWNERSHIP AND CONTROL OF HEALTHCARE
+34 ENTITIES
+LC005118 - Page 6 of 11
+
+1 23-107-1. Reporting of ownership and control of healthcare entities.
+2 (a) Each healthcare entity shall report to the department of health, on or before January 1,
+3 2027, and on or before January 1 annually thereafter, upon the consummation of a material change
+4 transaction involving the entity as described in chapter 106 of title 23, in a form and manner
+5 required by the department of health, with the following information:
+6 (1) Legal name of entity;
+7 (2) Business address of healthcare entity;
+8 (3) Locations of operations;
+9 (4) Business identification numbers of the entity, as applicable, including:
+10 (i) Taxpayer identification number (TIN);
+11 (ii) National provider identifier (NPI);
+12 (iii) Employer identification number (EIN);
+13 (iv) CMS certification number (CCN);
+14 (v) National Association of Insurance Commissioners (NAIC) identification number;
+15 (vi) A personal identification number associated with a license issued by the department of
+16 insurance; and
+17 (vii) Pharmacy benefit manager identification number associated with a license or
+18 registration of the pharmacy benefit manager in this state.
+19 (5) Name and contact information of a representative of the healthcare entity;
+20 (6) The name, business address, and business identification numbers listed in subsection
+21 (a)(4) of this section for each person or entity that, with respect to the relevant healthcare entity:
+22 (i) Has an ownership or investment interest;
+23 (ii) Has a controlling interest;
+24 (iii) Is a management services organization; or
+25 (iv) Is a significant equity investor;
+26 (7) A current organizational chart showing the business structure of the healthcare entity,
+27 including:
+28 (i) Any entity listed in this section;
+29 (ii) Affiliates, including entities that control or are under common control as the healthcare
+30 entity; and
+31 (iii) Subsidiaries.
+32 (8) For a healthcare entity that is a provider organization or a healthcare facility:
+33 (i) The affiliated healthcare providers identified by name, license type, specialty, NPI, and
+34 other applicable Identification number listed in subsection (a)(4) of this section; the address of
+LC005118 - Page 7 of 11
+
+1 principal practice location; and whether the healthcare provider is employed or contracted by the
+2 entity; and
+3 (ii) The name and address of affiliated healthcare facilities by license number, license type,
+4 and capacity in each major service area.
+5 (8) The names, NPI (if applicable), and compensation of the members of the governing
+6 board, board of directors, or similar governance body for the healthcare entity; any entity that is
+7 owned or controlled by, affiliated with, under common control as the healthcare entity, and any
+8 entity listed in subsection (a)(5) of this section; and
+9 (9) Comprehensive financial reports of the healthcare entity and any ownership and control
+10 entities, including audited financial statements, cost reports, annual costs, annual receipts, realized
+11 capital gains and losses, accumulated surplus, and accumulated reserves.
+12 23-107-2. Exemptions.
+13 The following healthcare entities are exempt from the reporting requirements under § 23-
+14 107-1:
+15 (1) A healthcare entity that is an independent provider organization, without any ownership
+16 or control entities, consisting of two (2) or fewer physicians; provided, however, that if such
+17 healthcare entity experiences a material change transaction under the provisions of chapter 106 of
+18 title 23, the healthcare entity is subject to reporting under upon the consummation of the transaction.
+19 (2) A healthcare provider or provider organization that is owned or controlled by another
+20 healthcare entity, if the healthcare provider organization is shown in the organizational chart
+21 submitted under § 23-107-1, and the controlling healthcare entity reports all the information
+22 required under § 23-107-1 on behalf of the controlled or owned entity; provided, however, that
+23 healthcare facilities are not subject to this exemption.
+24 23-107-3. Regulatory authorization.
+25 (a) The department of health shall promulgate rules and regulations necessary to implement
+26 the provisions of this chapter, specify the format and content of reports, and impose penalties for
+27 non-compliance. The department of health may require additional reporting of data or information
+28 that it determines is necessary to better protect the public’s interest in monitoring the financial
+29 conditions, organizational structure, business practices, and market share of each registered
+30 healthcare entity.
+31 (b) The department of health may assess administrative fees on healthcare entities in an
+32 amount to help defray the costs in overseeing and implementing the provisions of this chapter.
+33 23-107-4. Sharing of ownership information to improve transparency.
+34 (a) Information provided pursuant to the provisions of this chapter to be posted pursuant to
+LC005118 - Page 8 of 11
+
+1 subsection (b) of this section shall be public information and shall not be considered confidential,
+2 proprietary, or a trade secret; provided, however, that any individual healthcare provider’s taxpayer
+3 ID that is also their social security number shall be confidential.
+4 (b) Not later than January 1, 2027, and annually on or before January 1 thereafter, the
+5 department of health shall post on a publicly available website a report with respect to the previous
+6 one year period, including:
+7 (1) The number of healthcare entities reporting for such year, disaggregated by the business
+8 structure of each specified entity;
+9 (2) The names, addresses, business structure of any entities with an ownership or
+10 controlling interest in each healthcare entity;
+11 (3) Any change in ownership or control for each healthcare entity;
+12 (4) Any change in the tax identification number of a healthcare entity;
+13 (5) As applicable, the name, address, tax identification number, and business structure of
+14 other affiliates under common control, subsidiaries, and management services entities of the
+15 healthcare entity to include the business type and the tax identification number of each; and
+16 (6) An analysis of trends in horizontal and vertical consolidation, disaggregated by business
+17 structure and provider type.
+18 (c) The department of health may share information reported under this chapter with the
+19 attorney general, other state agencies, and other state officials, to reduce or avoid duplication in
+20 reporting requirements or to facilitate oversight or enforcement pursuant to the laws of the state,
+21 provided that any tax ID numbers that are individual Social Security numbers may be shared with
+22 the attorney general, other state agencies, or other state officials that agree to maintain the
+23 confidentiality of such information. The department of health may, in consultation with the relevant
+24 state agencies, merge similar reporting requirements where appropriate.
+25 23-107-5. Enforcement.
+26 (a) Audit and inspection authority. The department of health is authorized to audit and
+27 inspect the records of any healthcare entity that has failed to submit complete information pursuant
+28 to this chapter or if the department of health has reason to question the accuracy or completeness
+29 of the information submitted pursuant to this chapter.
+30 (b) Random audits. The department of health shall conduct annual audits of a random
+31 sample of healthcare entities to verify compliance with, accuracy and completeness of the reported
+32 information pursuant to this chapter.
+33 (c) Penalty for failure to report. If a healthcare entity fails to provide a complete report as
+34 required under § 23-107-1, or submits a report containing false information, such entity shall be
+LC005118 - Page 9 of 11
+
+1 subject to a civil penalty as follows:
+2 (1) Healthcare entities consisting of independent healthcare providers or provider
+3 organizations without any third-party ownership or control entities, with ten (10) or fewer
+4 physicians or less than ten million dollars ($10,000,000) in annual revenue, the penalty shall not
+5 exceed fifty thousand dollars ($50,000) for each report not provided or containing false
+6 information.
+7 (2) For all other healthcare entities, the penalty shall not exceed five hundred thousand
+8 dollars ($500,000) for each report not provided or containing false information.
+9 SECTION 3. This act shall take effect upon passage.
+========
+LC005118
+========
+LC005118 - Page 10 of 11
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- RHODE ISLAND BAN ON THE CORPORATE
+PRACTICE OF MEDICINE ACT
+***
+1 This act would establish the Rhode Island Ban on the Corporate Practice of Medicine Act,
+2 and the Rhode Island transparency in ownership and control of healthcare facilities act. The act
+3 would regulate the ownership of medical practices by unlicensed corporate and other business
+4 entities and require reporting of ownership and control of healthcare facilities in the state.
+5 This act would take effect upon passage.
+========
+LC005118
+========
+LC005118 - Page 11 of 11

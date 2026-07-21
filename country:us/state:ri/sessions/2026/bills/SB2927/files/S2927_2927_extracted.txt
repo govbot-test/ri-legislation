@@ -1,0 +1,193 @@
+Title: 
+Official Title: 
+Source: versions - 2927
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2927
+========
+LC005296
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- TEMPORARY DISABILITY
+INSURANCE -- GENERAL PROVISIONS
+Introduced By: Senators Vargas, Thompson, LaMountain, Quezada, Lauria, DiPalma,
+Pearson, Kallman, Mack, and Burke
+Date Introduced: March 04, 2026
+Referred To: Senate Labor & Gaming
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 28-39-2 of the General Laws in Chapter 28-39 entitled "Temporary
+2 Disability Insurance — General Provisions" is hereby amended to read as follows:
+3 28-39-2. Definitions.
+4 The following words and phrases, as used in chapters 39 — 41 of this title, have the
+5 following meanings unless the context clearly requires otherwise:
+6 (1) “Average weekly wage” means the amount determined by dividing the individual’s
+7 total wages earned for services performed in employment within his or her base period by the
+8 number of that individual’s credit weeks within the base period.
+9 (2) “Base period” with respect to an individual’s benefit year when the benefit year begins
+10 on or after October 7, 1990, means the first four (4) of the most recently completed five (5) calendar
+11 quarters immediately preceding the first day of an individual’s benefit year; provided, that for any
+12 individual’s benefit year when the benefit year begins on or after October 4, 1992, and for any
+13 individual deemed monetarily ineligible for benefits under the “base period” as defined in this
+14 subdivision, the department shall make a re-determination of entitlement based upon an alternate
+15 base period that consists of the last four (4) completed calendar quarters immediately preceding the
+16 first day of the claimant’s benefit year. Notwithstanding anything contained to the contrary in this
+17 subdivision, the base period shall not include any calendar quarter previously used to establish a
+18 valid claim for benefits; provided, however, that the “base period” with respect to members of the
+
+1 United States military service, the Rhode Island National Guard, or a United States military reserve
+2 force, and who served in a United States declared combat operation during their military service,
+3 who file a claim for benefits following their release from their state or federal active military service
+4 and who are deemed to be monetarily ineligible for benefits under this section, shall mean the first
+5 four (4) of the most recently completed five (5) calendar quarters immediately preceding the first
+6 day the individual was called into that state or federal active military service; provided, that for any
+7 individual deemed monetarily ineligible for benefits under the “base period” as defined in this
+8 section, the department shall make a re-determination of entitlement based upon an alternative base
+9 period that consists of the last four (4) completed calendar quarters immediately preceding the first
+10 day the claimant was called into that state or federal active military service. Notwithstanding any
+11 provision of this section of the general or public laws to the contrary, the base period shall not
+12 include any calendar quarter previously used to establish a valid claim for benefits.
+13 (3) “Benefit” means the money payable, as provided in chapters 39 — 41 of this title, to an
+14 individual as compensation for his or her unemployment caused by sickness.
+15 (4) “Benefit credits” means the total amount of money payable to an individual as benefits,
+16 as provided in § 28-41-7.
+17 (5) “Benefit rate” means the money payable to an individual as compensation, as provided
+18 in chapters 39 — 41 of this title, for his or her wage losses with respect to any week during which
+19 his or her unemployment is caused by sickness.
+20 (6) “Benefit year” with respect to any individual who does not already have a benefit year
+21 in effect, and who files a valid claim for benefits as of November 16, 1958, or any later date, means
+22 fifty-two (52) consecutive calendar weeks, the first of which shall be the week containing the day
+23 as of which he or she first files that valid claim in accordance with regulations adopted as
+24 subsequently prescribed; provided, that for any benefit year beginning on or after October 7, 1990,
+25 the benefit year shall be fifty-three (53) consecutive calendar weeks if the subsequent filing of a
+26 new valid claim immediately following the end of a previous benefit year would result in the
+27 overlapping of any quarter of the base period of the prior new claim. In no event shall a new benefit
+28 year begin prior to the Sunday next following the end of the old benefit year.
+29 (i) For benefit years that begin on or after July 1, 2012, an individual’s benefit year will
+30 begin on the Sunday of the calendar week in which an individual first became unemployed due to
+31 sickness and for which the individual has filed a valid claim for benefits.
+32 (7) “Board” means the board of review as created under chapter 16.1 of title 42.
+33 (8) “Calendar quarter” has the same definition as contained in chapter 42 of this title.
+34 (9) “Credit week” means any week within an individual’s base period in which that
+LC005296 - Page 2 of 6
+
+1 individual earns wages amounting to at least twenty (20) times the minimum hourly wage as
+2 defined in chapter 12 of this title, for performing services in employment for one or more employers
+3 subject to chapters 39 — 41 of this title.
+4 (10) “Director” means the director of the department of labor and training.
+5 (11) “Employee” means any person who is or has been employed by an employer subject
+6 to chapters 39 — 41 of this title and in employment subject to those chapters.
+7 (12) “Employer” means any employing unit that is an employer under chapters 42 — 44
+8 of this title.
+9 (13) “Employing unit” has the same definition as contained in chapter 42 of this title and
+10 includes any governmental entity that elects to become subject to the provisions of chapters 39 —
+11 41 of this title, in accordance with the provisions of §§ 28-39-3.1 and 28-39-3.2.
+12 (14) “Employment” has the same definition as contained in chapter 42 of this title and
+13 notwithstanding any provision of the general laws to the contrary, for purposes of this chapter the
+14 term “employment” shall include service performed by any individual in the employ of the State
+15 of Rhode Island, including all departments, agencies, boards, commissions, and instrumentalities
+16 thereof, whether such service is performed on a full-time, part-time, seasonal, or temporary basis,
+17 unless specifically excluded under this chapter..
+18 (15) “Employment office” has the same definition as contained in chapter 42 of this title.
+19 (16) “Fund” means the Rhode Island temporary disability insurance fund established by
+20 this chapter.
+21 (17) “Partial unemployment due to sickness.” For weeks beginning on or after January 1,
+22 2006, an individual shall be deemed partially unemployed due to sickness in any week of less than
+23 full-time work if he or she fails to earn in wages for services for that week an amount equal to the
+24 weekly benefit rate for total unemployment due to sickness to which he or she would be entitled if
+25 totally unemployed due to sickness and eligible.
+26 (i) For the purposes of this subdivision and subdivision (22) of this section, “Wages”
+27 includes only that part of remuneration for any work, which is in excess of one-fifth (1/ ) of the
+5
+28 weekly benefit rate for total unemployment, rounded to the next lower multiple of one dollar
+29 ($1.00), to which the individual would be entitled if totally unemployed and eligible in any one
+30 week, and “services” includes only that part of any work for which remuneration in excess of one-
+31 fifth (1/ ) of the weekly benefit rate for total unemployment, rounded to the next lower multiple of
+5
+32 one dollar ($1.00), to which the individual would be entitled if totally unemployed and eligible in
+33 any one week is payable; provided, that nothing contained in this paragraph shall permit any
+34 individual to whom remuneration is payable for any work performed in any week in an amount
+LC005296 - Page 3 of 6
+
+1 equal to, or greater than, his or her weekly benefit rate to receive benefits under this subdivision
+2 for that week.
+3 (18) “Reserve fund” means the temporary disability insurance reserve fund established by
+4 § 28-39-7.
+5 (19) “Services” means all endeavors undertaken by an individual that are paid for by
+6 another or with respect to which the individual performing the services expects to receive wages or
+7 profits.
+8 (20) “Sickness.” An individual shall be deemed to be sick in any week in which, because
+9 of his or her physical or mental condition, including pregnancy, he or she is unemployed and unable
+10 to perform his or her regular or customary work or services.
+11 (21)(i) “Taxes” means the money payments required by chapters 39 — 41 of this title, to
+12 be made to the temporary disability insurance fund or to the temporary disability insurance reserve
+13 fund.
+14 (ii) Wherever and whenever in chapters 39 — 41 of this title, the words “contribution”
+15 and/or “contributions” appear, those words shall be construed to mean the “taxes,” as defined in
+16 this subdivision, that are the money payments required by those chapters to be made to the
+17 temporary disability insurance fund or to the temporary disability insurance reserve fund.
+18 (22) “Wages” has the same definition as contained in chapter 42 of this title; provided, that
+19 no individual shall be denied benefits under chapters 39 — 41 of this title because his or her
+20 employer continues to pay to that individual his or her regular wages, or parts of them, while he or
+21 she is unemployed due to sickness and unable to perform his or her regular or customary work or
+22 services. The amount of any payments, whether or not under a plan or system, made to or on behalf
+23 of an employee by his or her employer after the expiration of six (6) calendar months following the
+24 last calendar month in which the employee performed actual bona fide personal services for his or
+25 her employer, shall not be deemed to be wages either for the purpose of paying contributions
+26 thereon under chapter 40 of this title, or for the purpose of being used as a basis for paying benefits
+27 under chapter 41 of this title.
+28 (23) “Week” has the same definition as contained in chapter 42 of this title.
+29 SECTION 2. Chapter 28-41 of the General Laws entitled "Temporary Disability Insurance
+30 — Benefits" is hereby amended by adding thereto the following section:
+31 28-41-43. Mandatory coverage of state employees.
+32 (a) Notwithstanding the provisions of § 28-39-3 to the contrary, effective January 1, 2027,
+33 the State of Rhode Island shall be deemed an employer for purposes of this chapter and shall
+34 participate in the temporary disability insurance program administered by the department of labor
+LC005296 - Page 4 of 6
+
+1 and training.
+2 (b) All employees of the State of Rhode Island shall be covered under the temporary
+3 disability insurance program and shall be eligible for benefits in the same manner and subject to
+4 the same conditions as other covered employees under this chapter.
+5 (c) The state shall remit employer and employee contributions to the temporary disability
+6 insurance fund in accordance with any applicable provision of this chapter or title 28.
+7 (d) Payroll deductions for employee contributions shall be made in the same manner as
+8 required of other employers subject to this chapter.
+9 (e) The director of the department of labor and training is authorized to promulgate rules
+10 and regulations necessary to implement the provisions of this section.
+11 (f) The provisions of this section shall apply notwithstanding the provisions of any
+12 collective bargaining agreement entered into prior to the effective date of this section; provided,
+13 however, that nothing herein shall prohibit the negotiation of supplemental disability benefits
+14 through collective bargaining.
+15 (g) The general treasurer, in coordination with the department of administration and the
+16 department of labor and training, shall take all administrative steps necessary to ensure
+17 implementation of this section, including modification of payroll systems and contribution
+18 reporting mechanisms.
+19 SECTION 3. This act shall take effect on January 1, 2027, and shall apply to wages earned
+20 on or after that date.
+========
+LC005296
+========
+LC005296 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- TEMPORARY DISABILITY
+INSURANCE -- GENERAL PROVISIONS
+***
+1 This act would provide that Rhode Island state employees be eligible for temporary
+2 disability insurance effective January 1, 2027.
+3 This act would take effect on January 1, 2027, and would apply to wages earned on or after
+4 that date.
+========
+LC005296
+========
+LC005296 - Page 6 of 6

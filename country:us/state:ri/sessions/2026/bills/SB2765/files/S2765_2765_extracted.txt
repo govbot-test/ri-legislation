@@ -1,0 +1,323 @@
+Title: 
+Official Title: 
+Source: versions - 2765
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2765
+========
+LC005539
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC PROPERTY AND WORKS -- THE GREEN BUILDINGS ACT
+Introduced By: Senators DiPalma, Gallo, Lauria, DiMario, and LaMountain
+Date Introduced: March 04, 2026
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 37-24-2, 37-24-3, 37-24-4, 37-24-5 and 37-24-6 of the General
+2 Laws in Chapter 37-24 entitled "The Green Buildings Act" are hereby amended to read as follows:
+3 37-24-2. Legislative findings.
+4 It is hereby found and declared as follows:
+5 (1) Energy costs for public buildings and public projects are skyrocketing and will likely
+6 continue to increase.
+7 (2) Energy use by public buildings and public projects contributes substantially to the
+8 problems of pollution and global warming.
+9 (3) Public buildings, public structures, public real property and public projects can be built,
+10 renovated, and located using high-performance methods that are resilient, sustainable and
+11 regenerative; that save and generate energy; that reduce and conserve our waters and water
+12 consumption; that foster the appropriate use of our lands and buildings; that improve indoor air and
+13 environmental quality; that improve water quality; that reduce transportation demand and
+14 emissions; that preserve the environment; that make workers and students more productive; and
+15 that improve the quality of our individual and shared human experience and environmental justice
+16 for all citizens of the state, creating a working continuum of ecology embracing and enhancing the
+17 very places and experiences of Rhode Island 's heritage, its people, all life, communities, lands, air
+18 and waters.
+19 (4) The green buildings act is a strategic tool to achieve the greenhouse gas emission
+
+1 reduction targets and other objectives of chapter 6.2 of title 42 ("2021 act on climate") and the work
+2 of the executive climate change coordinating council established in § 42-6.2-1.
+3 (5) This law is necessary to more efficiently spend public funds.
+4 37-24-3. Definitions.
+5 For purposes of this chapter, the following definitions shall apply:
+6 (1) "Construction" means the design and construction process of involved for any new
+7 building, or for the renovation and altering, repairing, improving, or and/or demolishing forty
+8 percent (40%) twenty percent (20%) or more of any public structures, public buildings, public real
+9 property or other public improvements of any kind to any public structures, public buildings or
+10 public real property that are governed by the threshold requirements of "public major facility
+11 projects" as defined in this section.
+12 (2) "Department", when used without a specific department name, means the department
+13 of administration state building office, building code commission of the Rhode Island department
+14 of business regulation, or any subsequently identified successor to the above "department", or any
+15 other subsequently named "department" or any other entity of the state. The department through
+16 the state building office, building code commission shall provide staff, other administrative support
+17 services, and funding to the green buildings act commission, and shall provide consultation to, and
+18 with, the green buildings act commission in order to implement the green buildings act.
+19 (3) "Equivalent standard" means a high-performance green building standard, other than
+20 LEED certified standard, LEED for Neighborhood Development certified standard, and SITES
+21 certified standard, that provides an independent, third-party verification and certification of a rating
+22 system or measurement tool, that, when used, leads to outcomes equivalent to, LEED, LEED for
+23 Neighborhood Development, and SITES outcomes, in terms of green building, green infrastructure,
+24 and green site performance; current accepted equivalent standards include green globes, Northeast
+25 collaborative high-performance schools protocol; or other equivalent high-performance green
+26 building, green infrastructure, and green site standards accepted by the green buildings act
+27 commission in consultation with the department.
+28 (4) "Green buildings act commission" means the appointed entity of public and public
+29 agency members, described in § 37-24-5, who shall be responsible for the implementation of the
+30 green buildings act in consultation with the department.
+31 (5) "LEED certified standard" also, "LEED for Neighborhood Development certified
+32 standard", and "SITES certified standard" means the current version of the U.S. Green Building
+33 Council Leadership in Energy and Environmental Design (LEED) green building rating standard
+34 referred to as LEED certified, LEED for Neighborhood Development certified, and SITES
+LC005539 - Page 2 of 10
+
+1 certified. SITES means the U.S. Green Building Council’s SITES — The Sustainable SITES
+2 Initiative.
+3 (5)(6) "Public agency" means every state or municipal office, board, commission,
+4 committee, bureau, department, or public institution of education, or any political subdivision
+5 thereof.
+6 (6)(7) "Public facility" means any public institution, public facility, public equipment, or
+7 any physical asset owned, including its public real-property site, leased or controlled in whole or
+8 in part by this state, a public agency, a municipality or a political subdivision, that is for public or
+9 government use.
+10 (7)(8) "Public major facility project" means:
+11 (i) A public facility building construction project larger than ten thousand (10,000) gross
+12 square feet or greater of occupied or conditioned space, and its public real-property site; or
+13 (ii) A public facility building renovation project larger than ten thousand (10,000) gross
+14 square feet or greater of occupied or conditioned space, and its public real-property site.
+15 37-24-4. Green building standards.
+16 (a) All public major facility projects of the state, public agencies, municipalities and
+17 political subdivisions shall be designed and, permitted, and constructed to at least the LEED
+18 certified standard, LEED for Neighborhood Development certified standard, and SITES certified
+19 standard, as provided herein, certified or an equivalent high-performance green building standard
+20 approved by the green buildings act commission. This provision applies to public major facility
+21 projects or other public improvements of any kind to any public facility that have not entered the
+22 design phase prior to July 1, 2023, for LEED, LEED for Neighborhood Development and for
+23 SITES.
+24 (b) All public major facility projects of a public school facility, where the project receives
+25 any funding from the state, shall be designed and, permitted, and constructed to at least the LEED
+26 certified standard, LEED for Neighborhood Development certified standard, and SITES certified
+27 standard, as provided herein, certified standard, or the Northeast Collaborative for High-
+28 Performance Schools Protocol, Version 1.1 or above. This provision applies to public major facility
+29 projects or other public improvements by the state or a public school district to any public school
+30 facility that have not entered the design phase prior to July 1, 2023, for LEED, LEED for
+31 Neighborhood Development, and for SITES.
+32 (c) All public major facility projects described in § 37-24-3 (8) and subsections (a) and (b)
+33 of this section, shall comply with this section as a condition precedent in order to apply for and
+34 receive a building permit under section 105 permits of the Rhode Island state building code,
+LC005539 - Page 3 of 10
+
+1 certification under § 23-27.3-128.0, design and construction procedures, and a certificate of
+2 occupancy for that public major facility project in accordance with section 111 certificate of
+3 occupancy of the Rhode Island state building code, commercial editions, shall be required to be in
+4 compliance with this chapter. This chapter shall hereby be incorporated in the Rhode Island state
+5 building code in accordance with RISBC § 23-27.3-100.4 specialized codes incorporated.
+6 (d) All public agencies identified in § 37-24-3(6) shall provide the requested and required
+7 reports and information to the green buildings act commission for all the public major facility
+8 projects described in the statutory requirements of this chapter ("the green buildings act").
+9 (e) A public major facility project does not have to meet the LEED certified standard,
+10 LEED for Neighborhood Development certified standard, and SITES certified standard or an
+11 equivalent high-performance green building standard if:
+12 (1) There is no appropriate LEED certified standard, LEED for Neighborhood
+13 Development certified standard, and SITES certified standard or other high-performance green
+14 building standard for that type of building or renovation project or other public improvements of
+15 any kind to any public facility. In such case, the department will green buildings act commission
+16 shall set green building standards that are appropriate to the project.
+17 (2) There is no practical way to apply the LEED certified standard, LEED for
+18 Neighborhood Development certified standard, and SITES certified standard or other high-
+19 performance green building standard to a particular building or renovation project or other public
+20 improvements of any kind to any public facility. In such case, the department will green buildings
+21 act commission shall set green building standards that are appropriate to the project.
+22 (d)(f) [Deleted by P.L. 2022, ch. 204, § 1 and P.L. 2022, ch. 205, § 1.]
+23 37-24-5. Administration and reports -- Green buildings advisory committee
+24 Administration and reports -- Green buildings act commission.
+25 (a) The department shall promulgate such regulations as are necessary to enforce this
+26 section by January 1, 2023 green buildings act commission shall promulgate such additional
+27 regulations as are necessary to enforce this section in consultation with the department. Those
+28 regulations shall include how the department green buildings act commission will determine
+29 whether a project qualifies for an exception from the LEED certified standard, LEED for
+30 Neighborhood Development certified standard, and SITES certified standard or equivalent high-
+31 performance green building standard, and shall determine the green building standards that may be
+32 imposed on projects that are granted exceptions.
+33 (b) The department green buildings act commission shall monitor and document ongoing
+34 operating savings that result from major facility projects designed, constructed, and certified as
+LC005539 - Page 4 of 10
+
+1 meeting the LEED certified standard, LEED for Neighborhood Development certified standard,
+2 and SITES certified standard, and shall annually publish a public report of findings, addressing the
+3 legislative findings of § 37-24-2, and recommended changes in policy. The report shall also include
+4 a description of projects that were granted exceptions from the LEED certified standard, LEED for
+5 Neighborhood Development certified standard, and SITES certified standard, as provided herein,
+6 certified or an equivalent high-performance green building certified standard approved by the green
+7 buildings act commission, the reasons for exception, and the lesser green building standards
+8 imposed.
+9 (c) — (f) [Deleted by P.L. 2022, ch. 204, § 1 and P.L. 2022, ch. 205, § 1.]
+10 (g) A green buildings advisory committee act commission shall be created composed of
+11 nineteen (19) seventeen (17) members. The advisory committee green buildings act commission
+12 shall have eleven (11) nine (9) public members and eight (8) public agency members. Five (5)
+13 Three (3) of the public members shall be appointed by the governor; three (3) two (2) of the public
+14 members shall be appointed by the president of the senate; and, three (3) two (2) of the public
+15 members shall be appointed by the speaker of the house of representatives. One of the public
+16 members shall be appointed by and represent the Rhode Island AFL-CIO. One of the public
+17 members shall be appointed by and represent the Rhode Island league of cities and towns.
+18 (h)(1) The governor, the speaker of the house, and the president of the senate shall make
+19 the following seven (7) appointments representing accordingly as stated with the appointees initial
+20 terms of service:
+21 (i) Governor: one from general construction contracting, three-year (3) term; one at-large
+22 citizen from the urban municipalities of Providence, Cranston, Warwick, Pawtucket, Woonsocket,
+23 or Newport, two (2) year term; and one at-large citizen from the other thirty-two (32) municipalities
+24 in the state, two-year (2) term;
+25 (ii) Speaker of the house: one from architecture, three-year (3) term; one from planning,
+26 two-year (2) term;
+27 (iii) President of the senate: one from engineering, three-year (3) term; one from landscape
+28 architecture, two-year (2) term.
+29 (1)(2) The eleven (11) nine (9) public members of the advisory committee green buildings
+30 act commission shall be composed of nine (9) representatives who are involved in and have
+31 recognized knowledge and accomplishment in their respective professions, of high-performance
+32 green building standards, relating to the standards set forth in § 37-24-4. The public members shall
+33 include one from each of the following fields: architecture, engineering, landscape architecture,
+34 energy planning, labor through the Rhode Island AFL-CIO, general construction contracting,
+LC005539 - Page 5 of 10
+
+1 building product and building materials industries who are involved in, and have recognized
+2 knowledge and accomplishment in their respective professions, of high-performance green
+3 building standards, relating to the standards set forth in § 37-24-4; in addition to two (2) three (3)
+4 additional public members, one public member representing the Rhode Island league of cities and
+5 towns; one at-large citizen public member representing an urban municipality from Providence,
+6 Cranston, Warwick, Pawtucket, Woonsocket, or Newport, and one at-large citizen public member
+7 representing the other thirty-two (32) municipalities in the state in order to ensure geographic
+8 diversity.
+9 (2)(3) The advisory committee green buildings act commission shall have eight (8) public
+10 agency members representing personnel from affected public agencies, and cities and towns, that
+11 oversee public works buildings, public structures, and public real property projects and workforce
+12 development, who shall be appointed by the directors or chief executive officers of the respective
+13 public agencies which shall include the department of administration; the department of
+14 environmental management; the department of education; the department of transportation; the
+15 department of labor and training; the department of health; the office of the state building code
+16 commissioner; and the Rhode Island infrastructure bank, and the Rhode Island League of Cities
+17 and Towns.
+18 (3)(4) The chairperson of the green buildings advisory committee act commission shall be
+19 a public member chosen by the green buildings advisory committee act commission.
+20 (4)(5) Of the initial eleven (11) nine (9) public members, six (6) three (3) shall serve three-
+21 year (3) terms and five (5) four (4) shall have two-year (2) terms. Each appointing authority shall
+22 appoint two (2) public members to three-year (3) terms with the remainder of the public member
+23 appointments serving two-year terms. Thereafter, all public members shall be appointed to three-
+24 year (3) terms.
+25 (i) The three (3) appointees from architecture, engineering, and general construction
+26 contracting shall each have a three-year (3) term of service with a maximum of three (3) terms of
+27 service.
+28 (ii) The two (2) appointees from landscape architecture and planning, shall each have a
+29 two-year (2) term of service, with a maximum of two (2) terms of service;
+30 (iii) The two (2) at-large citizen appointees from the urban municipalities, and the at-large
+31 citizens appointees from the other thirty-two (32) municipalities shall each have a two-year (2) term
+32 of service, with a maximum of two (2) terms of service;
+33 (iv) The two (2) appointees from the Rhode Island AFL-CIO and the Rhode Island league
+34 of cities and towns shall each have a two-year (2) term of service, with a maximum of two (2) terms
+LC005539 - Page 6 of 10
+
+1 of service;
+2 (6) Upon the effective date of this section, the current public members of the green
+3 buildings advisory committee shall continue their service on the green buildings act commission
+4 until reappointed or when replacement appointments are made by the appointing authorities.
+5 (7) The chairperson of the green buildings advisory committee shall be a LEED Accredited
+6 Professional with a specialty in building design and construction (LEED AP BD+C), and shall have
+7 current Rhode Island professional registration in architecture, engineering, or landscape
+8 architecture, and with said credentials shall have the ability to continue as the chairperson for the
+9 green buildings act commission for a maximum of three (3) three-year (3) terms of service in order
+10 to establish the direction and implementation of this chapter across the state and its municipalities.
+11 (8) With, and in, any given appointments by the appointing authorities, there shall not be
+12 appointments made for the public members which would constitute more than one-third (⅓) of the
+13 total nine (9) public members of the green buildings advisory commission. The chairperson of the
+14 green buildings advisory commission shall annually inform the appointing authorities of the
+15 makeup and constituencies of the green buildings advisory commission, and provide
+16 recommendations to that effect.
+17 (h)(i) The green buildings advisory committee act commission shall:
+18 (1) Make all determinations for the implementation of and compliance with the green
+19 buildings act;
+20 (2) Make recommendations regarding an ongoing evaluation process of the green buildings
+21 act to help assist the department and the executive climate change coordinating council implement
+22 this chapter and to achieve the greenhouse gas emission reduction targets and other objectives of
+23 chapter 6.2 of title 42 ("2021 act on climate");
+24 (2)(3) Identify the needs, actions, and funding required to implement the requirements set
+25 forth in this chapter, in achieving high-performance green building projects for our public
+26 buildings, public structures, and our public real properties;
+27 (3)(4) Establish clear, measurable targets for implementing the standards, defined in this
+28 chapter, for all public major facility projects including timeline, workforce needs, anticipated costs
+29 and other measures identified by the green buildings advisory committee act commission and
+30 required by chapter 6.2 of title 42 ("2021 act on climate"); and
+31 (4)(5) Identify ways to monitor and document ongoing operating savings and greenhouse
+32 gas emission reductions that result from public major facility projects designed, constructed and
+33 certified as meeting the LEED certified standard, LEED for Neighborhood Development certified
+34 standard, SITES certified standard, Green Globes, Northeast Collaborative for High-Performance
+LC005539 - Page 7 of 10
+
+1 Schools Protocol, Version 1.1 or above and annually publish a report to the general assembly and
+2 the executive climate change coordinating council of findings and recommended changes in
+3 policy.;
+4 (6) Shall have the authority to establish subcommittees appointed by the chairperson to
+5 further the implementation of this chapter, and the chairperson of the green buildings act
+6 commission shall have the authority to appoint the chairperson and the members of the
+7 subcommittees, whereas each subcommittee shall have at least one member of the green buildings
+8 act commission serving on each of the appointed subcommittees;
+9 (7) Shall have the authority to promulgate rules and regulations for the implementation of
+10 this chapter, and shall have the authority to establish bylaws for the governance of the green
+11 buildings act commission;
+12 (8) Shall collaborate with the executive climate change coordinating council regarding the
+13 implementation of this chapter including, but not be limited to, the establishment of the
+14 benchmarking requirements, technical assistance, building owner needs, outreach and education,
+15 opportunities for funding related to this chapter, the implementation of state policies, programs,
+16 and statutes related to this chapter and recommendations for building performance standards; and
+17 (9) Shall have the authority to identify, pursue, apply for, and receive funding from any
+18 public, private, nonprofit entity or any other organization or private citizen.
+19 (i)(j) All public agency requests for proposals, requests for information, requests for bids,
+20 requests for design/build, requests for construction managers, and any requests relating to obtaining
+21 the professional services, pricing, and construction for public major facility projects by a public
+22 agency for a public facility, shall prominently include the notice of the statutory requirements of
+23 this chapter ("the green buildings act") at the beginning of such requests.
+24 (j)(k) The green buildings advisory committee act commission shall have no responsibility
+25 for, and shall not develop requests for proposals, requests for information, requests for bids,
+26 requests for design/build, requests for construction managers, and any requests relating to obtaining
+27 the professional services, pricing, and construction for major facility projects by a public agency
+28 for a public facility; and the green buildings advisory committee act commission shall have no
+29 responsibility for, and shall not select any vendors for any requests for proposals, requests for
+30 information, requests for bids, requests for design/build, requests for construction managers, and
+31 any requests relating to obtaining the professional services, pricing, and construction for major
+32 facility projects by a public agency for a public facility. Nothing shall prohibit public members of
+33 the green buildings advisory committee act commission from responding to, and being involved
+34 with, any submittals of requests for proposals, requests for information, requests for bids, requests
+LC005539 - Page 8 of 10
+
+1 for design/build, requests for construction managers, and any requests relating to obtaining the
+2 professional services, pricing, and construction for major facility projects by a public agency for a
+3 public facility.
+4 37-24-6. Protection from liability.
+5 No person, corporation, or entity shall be held liable for the failure of a public major facility
+6 project to meet the LEED certified standard, LEED for Neighborhood Development certified
+7 standard, and SITES certified standard or other standards established for the project as long as a
+8 good faith attempt was made to achieve the standard set for the project.
+9 SECTION 2. This act shall take effect upon passage.
+========
+LC005539
+========
+LC005539 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC PROPERTY AND WORKS -- THE GREEN BUILDINGS ACT
+***
+1 This act would create the green buildings act commission to consist of seventeen (17)
+2 members, responsible for the implementation of the green buildings act in consultation with the
+3 state building office, building code commission of the Rhode Island department of business
+4 regulation.
+5 This act would take effect upon passage.
+========
+LC005539
+========
+LC005539 - Page 10 of 10

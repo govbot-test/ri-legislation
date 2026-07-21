@@ -1,0 +1,265 @@
+Title: 
+Official Title: 
+Source: versions - 7494
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7494
+========
+LC004580
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO ELECTIONS -- MAIL BALLOTS
+Introduced By: Representatives Shanley, Dawson, Kennedy, J. Brien, Kazarian,
+Casimiro, and Solomon
+Date Introduced: February 04, 2026
+Referred To: House State Government & Elections
+(Board of Elections)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 17-20-13, 17-20-13.1 and 17-20-26 of the General Laws in Chapter
+2 17-20 entitled "Mail Ballots" are hereby amended to read as follows:
+3 17-20-13. Form of application.
+4 The application to be subscribed by the voters before receiving a mail ballot shall, in
+5 addition to those directions that may be printed, stamped, or written on it by authority of the
+6 secretary of state, be in substantially the following form:
+7 STATE OF RHODE ISLAND APPLICATION OF VOTER FOR BALLOT FOR ELECTION
+8 ON_________________________________________
+9 (COMPLETE HIGHLIGHTED SECTIONS)
+10
+11
+12 NOTE — THIS APPLICATION MUST BE RECEIVED BY THE BOARD OF
+13 CANVASSERS OF YOUR CITY OR TOWN NOT LATER THAN 4:00 P.M. ON
+14
+15
+16 BOX A (PRINT OR TYPE)
+17
+18 NAME_________________________________________
+19
+
+1 VOTING ADDRESS_________________________________________
+2
+3 CITY/TOWN_______________________________________ STATE RI ZIP
+4 CODE_________________________________________
+5
+6 DATE OF BIRTH_______________________________________ PHONE
+7 #_________________________________________
+8 RHODE ISLAND DRIVER'S LICENSE/STATE IDENTIFICATION NUMBER OR THE LAST
+9 FOUR (4) DIGITS OF YOUR SOCIAL SECURITY
+10 NUMBER___________________________________
+11
+12
+13 BOX B (PRINT OR TYPE)
+14
+15 NAME OF INSTITUTION (IF
+16 APPLICABLE)_________________________________________
+17
+18 ADDRESS_________________________________________
+19
+20 ADDRESS_________________________________________
+21
+22 CITY/TOWN_______________________________________ STATE___________ ZIP
+23 CODE_________________________________________
+24
+25 FACSIMILE NUMBER (if applicable)_________________________________________
+26
+27 I CERTIFY THAT I AM ELIGIBLE FOR A MAIL BALLOT ON THE FOLLOWING BASIS:
+28 (CHECK ONE ONLY)
+29 ( ) 1. I am incapacitated to such an extent that it would be an undue hardship to vote at
+30 the polls because of illness, mental or physical disability, blindness, or a serious impairment of
+31 mobility. If the ballot is not being mailed to your voter registration address (BOX A above)
+32 please provide the Rhode Island address where you are temporarily residing in BOX B above.
+33
+34 ( ) 2. I am confined in a hospital, convalescent home, nursing home, rest home, or similar
+LC004580 - Page 2 of 8
+
+1 institution within the State of Rhode Island. Provide the name and address of the facility where
+2 you are residing in BOX B above
+3
+4 ( ) 3. I am employed or in service intimately connected with military operations or
+5 because I am a spouse or dependent of such person, or I am a United States citizen and will be
+6 outside the United States. Complete BOX B above or the ballot will be mailed to the local board
+7 of canvassers.
+8
+9 ( ) 4. I may not be able to vote at the polling place in my city or town on the day of the
+10 election. If the ballot is not being mailed to your voter registration address (BOX A above) please
+11 provide the address within the United States where you are temporarily residing in BOX B above.
+12 If you request that your ballot be sent to your local board of canvassers please indicate so in BOX
+13 B above.
+14
+15 BOX D OATH OF VOTER
+16 I declare under the pains and penalty of perjury that all of the information I have provided
+17 on this form is true and correct to the best of my knowledge. I further state that I am not a
+18 qualified voter of any other city or town or state and have not claimed and do not intend to claim
+19 the right to vote in any other city or town or state. If unable to sign name because of blindness,
+20 disability, or inability to read or write, the applicant shall mark the box to indicate the voter
+21 cannot sign due to blindness, disability, or inability to read or write, and include the full name,
+22 residence address, signature, and optionally the telephone number and e-mail address of the
+23 person who provided assistance to the voter.
+24 SIGNATURE IN FULL_________________________________________
+25 Please note: A Power of Attorney signature is not valid in Rhode Island.
+26 17-20-13.1. Form of emergency mail ballot application.
+27 The emergency mail ballot application to be subscribed by the voters before receiving a
+28 mail ballot shall, in addition to any directions that may be printed, stamped, or written on the
+29 application by authority of the secretary of state, be in substantially the following form:
+30 STATE OF RHODE ISLAND
+31 EMERGENCY APPLICATION OF VOTER FOR BALLOT FOR ELECTION
+32 ON_________________________________________
+33 (COMPLETE HIGHLIGHTED SECTIONS)
+34 NOTE — THIS APPLICATION MUST BE RECEIVED BY THE BOARD OF
+LC004580 - Page 3 of 8
+
+1 CANVASSERS OF YOUR CITY OR TOWN NOT LATER THAN 4:00 P.M. ON
+2 ______________
+3 BOX A (PRINT OR TYPE)
+4 NAME_________________________________________
+5 VOTING ADDRESS_________________________________________
+6 CITY/TOWN_______________________________________ STATE RI
+7 ZIP CODE_________________________________________
+8 DATE OF BIRTH_______________________________________
+9 RHODE ISLAND DRIVER'S LICENSE/STATE IDENTIFICATION NUMBER OR THE LAST
+10 FOUR (4) DIGITS OF YOUR SOCIAL SECURITY
+11 NUMBER___________________________________
+12 PHONE#_________________________________________
+13 BOX B (PRINT OR TYPE)
+14 NAME OF INSTITUTION (IF APPLICABLE) ______________________________
+15 ADDRESS_________________________________________
+16 ADDRESS_________________________________________
+17 CITY/TOWN_______________________________________ STATE___________
+18 ZIP CODE_________________________________________
+19 I CERTIFY THAT I AM ELIGIBLE FOR A MAIL BALLOT ON THE FOLLOWING BASIS:
+20 (CHECK ONE ONLY)
+21 ( ) 1. I am incapacitated to such an extent that it would be an undue hardship to vote at the
+22 polls because of illness, mental or physical disability, blindness or a serious impairment of mobility.
+23 If not voting ballot at local board, ballot will be mailed to the address in BOX A above or to the
+24 Rhode Island address provided in BOX B above. If the ballot is to be delivered by the local board
+25 of canvassers to a person presenting written authorization to pick up the ballot, complete BOX A
+26 above and fill in the person’s name below.
+27 I hereby authorize
+28 _______________________________________________________________________ to pick
+29 up my ballot at my local board of canvassers.
+30 ( ) 2. I am confined in a hospital, convalescent home, nursing home, rest home, or similar
+31 institution within the State of Rhode Island. Provide the name and address of the facility where you
+32 are residing in BOX B above.
+33 ( ) 3. I am employed or in service intimately connected with military operations or because
+34 I am a spouse or dependent of such person, or I am a United States citizen who will be outside the
+LC004580 - Page 4 of 8
+
+1 United States. If not voting ballot at local board, provide address in BOX B above.
+2 ( ) 4. I choose to vote by mail. If the ballot is not being mailed to your voter registration
+3 address (BOX A above) please provide the address within the United States where you are
+4 temporarily residing in BOX B above. If you request that your ballot be sent to your local board of
+5 canvassers please indicate so in BOX B above.
+6 I hereby authorize
+7 _____________________________________________________________________ to pick up
+8 my ballot at my local board of canvassers.
+9 BOX D OATH OF VOTER
+10 I declare that all of the information I have provided on this form is true and correct to the
+11 best of my knowledge. I further state that I am not a qualified voter of any other city or town or
+12 state and have not claimed and do not intend to claim the right to vote in any other city or town or
+13 state. If unable to sign name because of physical incapacity or otherwise, applicant shall make his
+14 or her mark “X”.
+15 SIGNATURE IN FULL_________________________________________
+16 Please note: A Power of Attorney signature is not valid in Rhode Island.
+17 17-20-26. Opening and counting of ballots.
+18 (a)(1) Beginning prior to and continuing on election day the state board, upon receipt of
+19 mail ballots, shall keep the ballots in a safe and secure place that shall be separate and apart from
+20 the general public area and sufficiently monitored through security measures including security
+21 cameras. The board shall, beginning twenty (20) days prior to and continuing on election day,
+22 proceed to certify the mail ballots.
+23 (2) Notice of these sessions shall be given to the public on the state board of elections’
+24 website and the secretary of state’s website posted at least twenty-four (24) hours before the
+25 commencing of any session. All candidates for state and federal office, as well as all state party
+26 chairpersons, shall be given notice by telephone, email or otherwise of the day on which ballots
+27 will be certified; provided, that failure to effect the notice shall in no way invalidate the ballots.
+28 (b) This processing shall be done within a railed space in the room in which it takes place
+29 secure area, and the board shall admit within the railed space, provide an area for public observation
+30 of the process in accordance with those rules that the board shall adopt, to witness the processing
+31 and certification of the ballots, the interested voter or the voter’s representative, the candidates, or
+32 at least one representative of each candidate for whom votes are at the time being processed, and
+33 an equal number of representatives of each political party. These representatives shall be authorized
+34 in writing by the voter, the candidate, or the chairperson of the state committee of the political
+LC004580 - Page 5 of 8
+
+1 party, respectively, as the case may be. The board shall also, in accordance with these rules, admit
+2 representatives of the press and newscasting agencies and any other persons that it deems proper.
+3 (c) At these sessions, and before certifying any ballot, the state board shall:
+4 (1) Determine the city or town in which the voter cast his or her ballot; and
+5 (2) Compare the name, residence, and signature of the voter as it appears on the
+6 certification envelope, with the name, residence, and signature on the central voter registration
+7 system for mail ballots and satisfy itself that both signatures are identical. The board shall designate
+8 two (2) persons, to review and compare each voter’s signature with the voter’s signature found in
+9 the central voter registration system. If both designees agree that the signatures match, the mail
+10 ballot shall proceed to be processed, certified, and tabulated. In the event that one or both designees
+11 find a discrepancy with the voter’s signature, the certification envelope shall then be reviewed by
+12 a pair of supervising board staff members. If the pair of supervising board staff members find that
+13 the signatures match, then the mail ballot shall proceed to be processed, certified, and tabulated. In
+14 the event that one or both supervising board staff members find a discrepancy in the voter’s
+15 signature, the supervising board staff shall compare the signature on the certification envelope to
+16 the signature on the voter’s ballot application, and may also consider other identifiers, including
+17 the voter’s Rhode Island driver license number/state identification number, or the last four (4) digits
+18 of the voter’s Social Security number, as provided by the voter on the mail ballot application. If the
+19 pair of supervising board staff members find that those signatures match the voter’s signature is
+20 valid, then the mail ballot shall proceed to be processed, certified, and tabulated. In the event that
+21 one or both supervising board staff members continue to find a discrepancy in with the voter’s
+22 signature, the supervising board staff shall compare the signature on the certification envelope to
+23 the voter’s ballot application. If the pair of supervising board staff members find that the signatures
+24 match, then the mail ballot shall proceed to be processed, certified, and tabulated. In the event that
+25 one or both supervising board staff members find a discrepancy in the voter’s signature, the
+26 certification envelope shall be segregated, and the board will notify the voter of the discrepancy, in
+27 accordance with regulations and procedures promulgated by the board. Any segregated certification
+28 envelope that has not been cured or fully addressed by the voter, in accordance with the board’s
+29 promulgated regulations and procedures, shall be reviewed by the board to make a final
+30 determination on the signature set forth on the validity of the mail ballot application and
+31 certification envelope.
+32 (d) [Deleted by P.L. 2015, ch. 259, § 1.]
+33 (e) The board shall promulgate regulations that allow for challenges to the certification
+34 process by the interested voter, the voter’s representative, the candidates, and representatives of the
+LC004580 - Page 6 of 8
+
+1 recognized political parties. Such challenges shall be made to the executive director of the board,
+2 or the executive director’s designee. The decision of the executive director or designee shall be
+3 subject to review by the board.
+4 (f) After processing and certification of the mail ballots, they shall be separated in packages
+5 in accordance with their respective cities and towns, in the presence of all interested parties.
+6 Thereupon, in each instance the board staff shall open the enclosing envelope, and without looking
+7 at the votes cast on the enclosed ballot, shall remove the ballot from the envelope. The board staff
+8 shall proceed to tabulate the ballots through the use of a central count optical-scan unit with the
+9 same effect as if the ballots had been cast by the electors in open town or district meetings.
+10 (g) When a local election is held at a time other than in conjunction with a statewide
+11 election, the state board, after the processing and certification of the mail ballots cast in the local
+12 election, shall have the authority to count the ballots in the same manner and with the same effect
+13 as state mail ballots are counted by the state board in a statewide election. Once the ballots are
+14 counted, the results shall be transmitted to the local board.
+15 (h) When a local election is held in New Shoreham at a time other than in conjunction with
+16 a statewide election, the state board, after the processing and certification of the mail ballots cast
+17 in the local election, shall have the authority to count the ballots in the same manner and with the
+18 same effect as state mail ballots are counted by the state board in a statewide election. Once the
+19 ballots are counted, the results shall be sent via facsimile to the local board in New Shoreham.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC004580
+========
+LC004580 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- MAIL BALLOTS
+***
+1 This act would require the board of elections to establish a secure area for the public
+2 observation of mail ballot processing and require the mail ballot voter's signature be compared to
+3 the signature on file within the state central voter registration system and would require as part of
+4 an application for a mail ballot or emergency mail ballot a Rhode Island driver license, state ID
+5 number or the last four (4) digits of your social security number.
+6 This act would take effect upon passage.
+========
+LC004580
+========
+LC004580 - Page 8 of 8

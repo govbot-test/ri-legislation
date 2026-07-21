@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - 7432
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7432
+========
+LC004520
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- INDICTMENTS, INFORMATIONS AND
+COMPLAINTS
+Introduced By: Representatives Place, and J. Lombardi
+Date Introduced: January 30, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 12-12 of the General Laws entitled "Indictments, Informations and
+2 Complaints" is hereby amended by adding thereto the following section:
+3 12-12-23. Acquittal in another jurisdiction as bar to prosecution.
+4 If a violation of any criminal law is a violation of a federal law or the law of another state,
+5 an acquittal under federal law or the law of another state for the same set of facts or acts shall be a
+6 bar to prosecution in this state, unless there exists newly discovered evidence which would
+7 substantially indicate that prosecution in this state is warranted.
+8 SECTION 2. This act shall take effect upon passage.
+========
+LC004520
+========
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- INDICTMENTS, INFORMATIONS AND
+COMPLAINTS
+***
+1 This act would prohibit prosecutions for violations of criminal laws in this state if the
+2 violation arises from the same set of facts or acts for which a defendant has been acquitted in federal
+3 court or another jurisdiction, unless there exists newly discovered evidence substantially warranting
+4 prosecution in this state.
+5 This act would take effect upon passage.
+========
+LC004520
+========
+LC004520 - Page 2 of 2

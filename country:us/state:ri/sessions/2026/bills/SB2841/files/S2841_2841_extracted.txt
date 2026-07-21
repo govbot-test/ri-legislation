@@ -1,0 +1,448 @@
+Title: 
+Official Title: 
+Source: versions - 2841
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2841
+========
+LC005449
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- DEPARTMENT OF CHILDREN,
+YOUTH AND FAMILIES
+Introduced By: Senators Lauria, and DiMario
+Date Introduced: March 04, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 42-72 of the General Laws entitled "Department of Children, Youth
+2 and Families" is hereby amended by adding thereto the following section:
+3 42-72-5.4. Benefits owed to foster children.
+4 (a) Definitions. As used in this section, the following words and terms shall have the
+5 following meanings unless the context shall clearly indicate another or different meaning or intent:
+6 (1) “Benefits” means income and other services pursuant to Title XVI of the federal Social
+7 Security Act, 42 U.S.C. §§ 1381–1383(f), also referred to as “supplemental security income” or
+8 “SSI”; and benefits under Title II of the Social Security Act, 42 U.S.C. §§ 401–434, also referred
+9 to as “retirement, survivors or disability insurance benefits” or “RSDI”; or other federal benefits.
+10 (2) “Representative payee or fiduciary” means any person or entity designated to receive
+11 benefits for a minor child under the department rules governing such benefits.
+12 (b) When a child is placed in foster care under a voluntary placement agreement or court-
+13 ordered custody, the department shall make all reasonable efforts to identify within sixty (60) days
+14 of the child being committed to custody of the department whether the child is already receiving or
+15 may be eligible to receive benefits. In reviewing eligibility, the department shall consult with the
+16 parents and others who may have information about the child’s eligibility. If the department
+17 determines, or has cause to believe, that the child may be eligible for benefits, it shall apply for
+18 benefits on the child’s behalf. If the agency administering such benefits denies the application, the
+
+1 department may appeal the decision. The department shall review cases of children in foster care
+2 annually to determine whether the child may have become eligible for benefits after the initial
+3 assessment. The department shall only seek federal foster care reimbursement for a child if such
+4 reimbursement will not impact the child’s eligibility for benefits or the amount of benefits.
+5 (c) If the child is already receiving benefits prior to entering department custody, the
+6 department may apply to be the child’s representative payee or fiduciary. If the department is
+7 applying for benefits for the child, the department may also apply to be the representative payee or
+8 fiduciary. Where the goal is reunification, the department shall consider whether applying to
+9 become the child’s representative payee or fiduciary will undermine the goal of reunification and
+10 be contrary to the child’s best interests.
+11 (d)(1) On and after January 1, 2028, the department shall provide timely notice pursuant to
+12 the provisions of subsection (d)(2) of this section for each of the following events:
+13 (i) The department has submitted an application for benefits;
+14 (ii) The department has submitted a request to become the child’s representative payee;
+15 (iii) The department has received notice of the agency’s decision regarding benefits
+16 including denial, termination or reduction in benefits;
+17 (iv) The department has decided whether or not to appeal an adverse determination,
+18 including the outcome of any appeal filed; and
+19 (v) The department has received notice of an eligibility redetermination.
+20 (2) Notice, pursuant to this subsection, shall be provided to the court appointed special
+21 advocate (CASA) or a guardian ad litem (GAL) for the child, as well as counsel for the parent or
+22 parents, except that no notice shall be provided to a parent for whom there has been an involuntary
+23 termination of parental rights (TPR) pursuant to § 15-7-7.
+24 Until January 1, 2028, the department shall make best efforts to ensure compliance with
+25 the notice requirements of this subsection.
+26 (e) When the department is the child’s representative payee or fiduciary, the department
+27 shall maintain an accounting of the child’s benefits and shall make available to CASA or GAL
+28 current accounting information electronically or by other means. The accounting information shall
+29 include the following:
+30 (1) The amount and source of benefits collected by the department and credited to any
+31 account maintained on behalf of the child;
+32 (2) The balance of any account maintained on behalf of the child;
+33 (3) Any amounts deducted by the department and the reasons for the deductions; and
+34 (4) Information regarding all the child’s assets and resources, including benefits, insurance,
+LC005449 - Page 2 of 13
+
+1 cash assets, trust accounts, and earnings if such assets or resources are controlled by the department.
+2 The department shall provide such accounting information to the court, as necessary, or upon
+3 request.
+4 (5) If the department is the child’s representative payee or fiduciary, the department shall
+5 not use such benefits to reimburse the state for the child’s placement in foster care. If the child is
+6 receiving SSI benefits, the department shall ensure that any funds retained on the child’s behalf are
+7 kept in a manner that does not exceed any federal asset or resource limit that would affect the
+8 child’s eligibility to continue receiving SSI benefits. Benefits held by the department as a
+9 representative payee or fiduciary may be spent on the child’s unmet needs, which would not
+10 ordinarily be funded by another source, or otherwise conserved for the child. Any funds
+11 administered for SSI recipients above the federal asset or resource limits shall be conserved in an
+12 Achieving a Better Life Experience (ABLE) account, authorized by Section 529A of the Internal
+13 Revenue Code of 1986 (26 U.S.C.§529A), or another account for the child determined not to
+14 interfere with federal asset or resource limits for any other federal means-tested benefit program.
+15 If the child is not receiving SSI or other federal means-tested benefits with an asset or resource
+16 limit, the department shall place excess funds in an interest-bearing account or other savings or
+17 investment vehicle for the benefit of the child. If the department is the child’s representative payee
+18 or fiduciary and receives retroactive benefits for the child, those funds shall be kept as required by
+19 the program rules of the agency administering such benefits.
+20 (g) The department shall take steps to conserve the benefits of children receiving benefits
+21 under this section to assist them in the transition to adulthood and living independently. The
+22 department shall establish accounts as specified in subsection (f) of this section in conserving a
+23 child’s benefits. The department shall work actively with the agency administering such benefits
+24 and the child to ensure that when the child leaves foster care, becomes eligible for direct payment,
+25 or another representative payee is identified, all payments of benefits or conserved funds shall be:
+26 (1) Returned to the agency following program rules; or
+27 (2) Upon agreement by the agency, if necessary, transferred to the child or to a new
+28 representative payee or fiduciary.
+29 (h) The department shall provide the child with ongoing financial information regarding
+30 the eligibility for benefits, as well as the existence, amount, availability, use, and limitations of
+31 funds conserved for the child, beginning at fourteen (14) years of age and tailored to the individual
+32 child. For youth ages seventeen (17) years of age or older, financial information shall also include
+33 basic assistance with understanding budgeting and money management, checking and savings
+34 accounts, tailored to the individual child.
+LC005449 - Page 3 of 13
+
+1 (i) The department shall provide the child with ongoing financial literacy training and
+2 support, beginning at fourteen (14) years of age and tailored to the individual child. This program
+3 may include, but need not be limited to, topics such as: budgeting; money management; informed
+4 decision-making; banking, checking and savings accounts; credit card counseling; managing debt;
+5 planning for financial security and stability; financing post-secondary education or training; long
+6 term asset-building; and community and agency services. Financial literacy resources concerning
+7 the use of conserved funds shall also be made available to all parents, guardians, and adoptive
+8 parents gaining access to funds conserved by the department. The financial literacy requirements
+9 set forth in this subsection shall go into effect eighteen (18) months after the enactment of this
+10 section. Until the effective implementation date, the department shall make best efforts to ensure
+11 compliance with the financial literacy requirements set forth in this subsection.
+12 (j) The department shall provide an annual report to the speaker of the house and senate
+13 president, not later than December 31; provided, the report shall set forth:
+14 (1) The numbers of children in the department’s care and custody receiving benefits for
+15 which the department is the representative payee or fiduciary;
+16 (2) The numbers of children in the department’s care or custody who are receiving SSI,
+17 RSDI or other federal benefits;
+18 (3) The amount of benefits being conserved by the department; and
+19 (4) The number and type of accounts established by the department on behalf of such
+20 children.
+21 (k) To the extent such data is available, the report shall also set forth the numbers of
+22 children in the department’s care or custody:
+23 (1) Who were screened for eligibility for benefits; and whether such screening occurred
+24 within sixty (60) days of being committed to the department’s custody, and if not, the date of the
+25 screening and reasons for the delay;
+26 (2) Who were already receiving benefits after screening; and
+27 (3) For whom the department submitted applications for benefits, by type of application,
+28 and the outcome of those applications, including the number of appeals filed; provided, however,
+29 that if such data is not available, the department shall provide information as to its ongoing efforts
+30 to be able to gather and report upon such information.
+31 (l) In administering the benefits of young adults ages eighteen (18) to twenty-two (22) for
+32 whom the department is acting as a representative payee or fiduciary, the department shall comply
+33 with the requirements for children under subsections (b) through (k) of this section. The department
+34 shall continue to provide financial literacy training under subsection (h) of this section to young
+LC005449 - Page 4 of 13
+
+1 adults who become eligible for direct payment of benefits and continue to receive young adult
+2 services from the department.
+3 (m) Not later than October 1, 2026, the secretary of the executive office of health and
+4 human services (EOHHS) shall promulgate regulations as necessary to implement this section.
+5 SECTION 2. Section 42-72-5 of the General Laws in Chapter 42-72 entitled "Department
+6 of Children, Youth and Families" is hereby amended to read as follows:
+7 42-72-5. Powers and scope of activities.
+8 (a) The department shall be the principal agency of the state to mobilize the human,
+9 physical, and financial resources available to plan, develop, and evaluate a comprehensive and
+10 integrated statewide program of services designed to ensure the opportunity for children to reach
+11 their full potential. The services shall include prevention, early intervention, outreach, placement,
+12 care and treatment, and after-care programs; provided, however, that the department shall notify
+13 the state police and cooperate with local police departments when it receives and/or investigates a
+14 complaint of sexual assault on a minor and concludes that probable cause exists to support the
+15 allegation(s). The department also shall serve as an advocate for the needs of children. Additionally,
+16 on or before October 1, 2023, the department shall implement the hiring process developed by the
+17 director pursuant to subsection (f) of this section.
+18 (b) To accomplish the purposes and duties, as set forth in this chapter, the director is
+19 authorized and empowered:
+20 (1) To establish those administrative and operational divisions of the department that the
+21 director determines is in the best interests of fulfilling the purposes and duties of this chapter;
+22 (2) To assign different tasks to staff members that the director determines best suit the
+23 purposes of this chapter;
+24 (3) To establish plans and facilities for emergency treatment, relocation, and physical
+25 custody of abused or neglected children that may include, but are not limited to,
+26 homemaker/educator child-case aides, specialized foster-family programs, daycare facilities, crisis
+27 teams, emergency parents, group homes for teenage parents, family centers within existing
+28 community agencies, and counseling services;
+29 (4) To establish, monitor, and evaluate protective services for children including, but not
+30 limited to, purchase of services from private agencies and establishment of a policy and procedure
+31 manual to standardize protective services;
+32 (5) To plan and initiate primary- and secondary-treatment programs for abused and
+33 neglected children;
+34 (6) To evaluate the services of the department and to conduct periodic, comprehensive-
+LC005449 - Page 5 of 13
+
+1 needs assessment;
+2 (7) To license, approve, monitor, and evaluate all residential and nonresidential group
+3 homes, foster homes, and programs;
+4 (8) To recruit and coordinate community resources, public and private;
+5 (9) To promulgate rules and regulations concerning the confidentiality, disclosure, and
+6 expungement of case records pertaining to matters under the jurisdiction of the department;
+7 (10) To establish a minimum mandatory level of twenty (20) hours of training per year and
+8 provide ongoing staff development for all staff;
+9 (11) To establish procedures for reporting suspected child abuse and neglect pursuant to
+10 chapter 11 of title 40;
+11 (12) To promulgate all rules and regulations necessary for the execution of departmental
+12 powers pursuant to the administrative procedures act, chapter 35 of this title;
+13 (13) To provide and act as a clearinghouse for information, data, and other materials
+14 relative to children;
+15 (14) To initiate and carry out studies and analysis that will aid in solving local, regional,
+16 and statewide problems concerning children;
+17 (15) To represent and act on behalf of the state in connection with federal-grant programs
+18 applicable to programs for children in the functional areas described in this chapter;
+19 (16) To seek, accept, and otherwise take advantage of all federal aid available to the
+20 department, and to assist other agencies of the state, local agencies, and community groups in taking
+21 advantage of all federal grants and subventions available for children;
+22 (17) To review and coordinate those activities of agencies of the state, and of any political
+23 subdivision of the state, that affect the full and fair utilization of community resources for programs
+24 for children, and initiate programs that will help ensure utilization;
+25 (18) To administer the pilot juvenile-restitution program, including the overseeing and
+26 coordinating of all local community-based restitution programs, and the establishment of
+27 procedures for the processing of payments to children performing community service;
+28 (19) To adopt rules and regulations that:
+29 (i) For the twelve-month (12) period beginning on October 1, 1983, and for each
+30 subsequent twelve-month (12) period, establish specific goals as to the maximum number of
+31 children who will remain in foster care for a period in excess of two (2) years; and
+32 (ii) Are reasonably necessary to implement the child-welfare services and foster-care
+33 programs;
+34 (20) May establish and conduct seminars for the purpose of educating children regarding
+LC005449 - Page 6 of 13
+
+1 sexual abuse;
+2 (21) To establish fee schedules by regulations for the processing of requests from adoption
+3 placement agencies for adoption studies, adoption study updates, and supervision related to
+4 interstate and international adoptions. The fee shall equal the actual cost of the service(s) rendered,
+5 but in no event shall the fee exceed two thousand dollars ($2,000);
+6 (22) To be responsible for the education of all children who are placed, assigned, or
+7 otherwise accommodated for residence by the department in a state-operated or -supported
+8 community residence licensed by a Rhode Island state agency. In fulfilling this responsibility, the
+9 department is authorized to enroll and pay for the education of students in the public schools or,
+10 when necessary and appropriate, to itself provide education in accordance with the regulations of
+11 the council on elementary and secondary education either directly or through contract;
+12 (23) To develop multidisciplinary service plans, in conjunction with the department of
+13 health, at hospitals prior to the discharge of any drug-exposed babies. The plan requires the
+14 development of a plan using all healthcare professionals;
+15 (24) To be responsible for the delivery of appropriate mental health services to seriously
+16 emotionally disturbed children and children with functional developmental disabilities.
+17 Appropriate mental health services may include hospitalization, placement in a residential
+18 treatment facility, or treatment in a community-based setting. The department is charged with the
+19 responsibility for developing the public policy and programs related to the needs of seriously
+20 emotionally disturbed children and children with functional developmental disabilities.
+21 In fulfilling its responsibilities the department shall:
+22 (i) Plan a diversified and comprehensive network of programs and services to meet the
+23 needs of seriously emotionally disturbed children and children with functional developmental
+24 disabilities;
+25 (ii) Provide the overall management and supervision of the state program for seriously
+26 emotionally disturbed children and children with functional developmental disabilities;
+27 (iii) Promote the development of programs for preventing and controlling emotional or
+28 behavioral disorders in children;
+29 (iv) Coordinate the efforts of several state departments and agencies to meet the needs of
+30 seriously emotionally disturbed children and children with functional developmental disabilities
+31 and to work with private agencies serving those children;
+32 (v) Promote the development of new resources for program implementation in providing
+33 services to seriously emotionally disturbed children and children with functional developmental
+34 disabilities.
+LC005449 - Page 7 of 13
+
+1 The department shall adopt rules and regulations that are reasonably necessary to
+2 implement a program of mental health services for seriously emotionally disturbed children.
+3 Each community, as defined in chapter 7 of title 16, shall contribute to the department, at
+4 least in accordance with rules and regulations to be adopted by the department, at least its average
+5 per-pupil cost for special education for the year in which placement commences, as its share of the
+6 cost of educational services furnished to a seriously emotionally disturbed child pursuant to this
+7 section in a residential treatment program that includes the delivery of educational services.
+8 “Seriously emotionally disturbed child” means any person under the age of eighteen (18)
+9 years, or any person under the age of twenty-one (21) years, who began to receive services from
+10 the department prior to attaining eighteen (18) years of age and has continuously received those
+11 services thereafter; who has been diagnosed as having an emotional, behavioral, or mental disorder
+12 under the current edition of the Diagnostic and Statistical Manual and that disability has been
+13 ongoing for one year or more or has the potential of being ongoing for one year or more; and the
+14 child is in need of multi-agency intervention; and the child is in an out-of-home placement or is at
+15 risk of placement because of the disability.
+16 A child with a “functional developmental disability” means any person under the age of
+17 eighteen (18) years or any person under the age of twenty-one (21) years who began to receive
+18 services from the department prior to attaining eighteen (18) years of age and has continuously
+19 received those services thereafter.
+20 The term “functional developmental disability” includes autism spectrum disorders and
+21 means a severe, chronic disability of a person that:
+22 (A) Is attributable to a mental or physical impairment or combination of mental physical
+23 impairments;
+24 (B) Is manifested before the person attains age eighteen (18);
+25 (C) Is likely to continue indefinitely;
+26 (D) Results in age-appropriate, substantial, functional limitations in three (3) or more of
+27 the following areas of major life activity:
+28 (I) Self-care;
+29 (II) Receptive and expressive language;
+30 (III) Learning;
+31 (IV) Mobility;
+32 (V) Self direction;
+33 (VI) Capacity for independent living; and
+34 (VII) Economic self-sufficiency; and
+LC005449 - Page 8 of 13
+
+1 (E) Reflects the person’s need for a combination and sequence of special, interdisciplinary,
+2 or generic care, treatment, or other services that are of life-long or extended duration and are
+3 individually planned and coordinated.
+4 Funding for these clients shall include funds that are transferred to the department of human
+5 services as part of the managed healthcare program transfer. However, the expenditures relating to
+6 these clients shall not be part of the department of human services’ caseload estimated for the semi-
+7 annual, caseload-estimating conference. The expenditures shall be accounted for separately;
+8 (25) To provide access to services to any person under the age of eighteen (18) years, or
+9 any person under the age of twenty-one (21) years who began to receive child welfare services
+10 from the department prior to attaining eighteen (18) years of age, has continuously received those
+11 services thereafter, and elects to continue to receive such services after attaining the age of eighteen
+12 (18) years. The general assembly has included funding in the FY 2008 DCYF budget in the amount
+13 of $10.5 million from all sources of funds and $6.0 million from general revenues to provide a
+14 managed system to care for children serviced between 18 to 21 years of age. The department shall
+15 manage this caseload to this level of funding;
+16 (26) To initiate transition planning in cooperation with the department of behavioral
+17 healthcare, developmental disabilities and hospitals and local school departments for any child who
+18 receives services through DCYF; is seriously emotionally disturbed or developmentally delayed
+19 pursuant to subsection (b)(24)(v); and whose care may or shall be administered by the department
+20 of behavioral healthcare, developmental disabilities and hospitals after the age of twenty-one (21)
+21 years; the transition planning shall commence at least twelve (12) months prior to the person’s
+22 twenty-first birthday and shall result in a collaborative plan submitted to the family court by both
+23 the department of behavioral healthcare, developmental disabilities and hospitals and the
+24 department of children, youth and families and shall require the approval of the court prior to the
+25 dismissal of the abuse, neglect, dependency, or miscellaneous petition before the child’s twenty-
+26 first birthday;
+27 (27) To develop and maintain, in collaboration with other state and private agencies, a
+28 comprehensive continuum of care in this state for children in the care and custody of the department
+29 or at risk of being in state care. This continuum of care should be family centered and community
+30 based with the focus of maintaining children safely within their families or, when a child cannot
+31 live at home, within as close proximity to home as possible based on the needs of the child and
+32 resource availability. The continuum should include community-based prevention, family support,
+33 and crisis-intervention services, as well as a full array of foster care and residential services,
+34 including residential services designed to meet the needs of children who are seriously emotionally
+LC005449 - Page 9 of 13
+
+1 disturbed, children who have a functional developmental disability, and youth who have juvenile
+2 justice issues. The director shall make reasonable efforts to provide a comprehensive continuum of
+3 care for children in the care and custody of DCYF, taking into account the availability of public
+4 and private resources and financial appropriations and the director shall submit an annual report to
+5 the general assembly as to the status of the director's efforts in accordance with the provisions of §
+6 42-72-4(b)(13);
+7 (28) To administer funds under the John H. Chafee Foster Care Independence and
+8 Educational and Training Voucher (ETV) Programs of Title IV-E of the Social Security Act [42
+9 U.S.C. § 677] and the DCYF higher education opportunity grant program as outlined in chapter
+10 72.8 of this title, in accordance with rules and regulations as promulgated by the director of the
+11 department; and
+12 (29) To process nationwide criminal record checks on prospective foster parents and any
+13 household member age 18 or older, prospective adoptive parents and any household member age
+14 18 and older, operators of childcare facilities, persons seeking to act as volunteer court-appointed
+15 special advocates, persons seeking employment in a childcare facility or at the training school for
+16 youth or on behalf of any person seeking employment at DCYF, who are required to submit to
+17 nationwide criminal background checks as a matter of law; and
+18 (30) To comply with § 42-72-5.4 by providing benefit management services to children
+19 and young adults in the department’s care, custody, or responsibility, including eligibility
+20 screening, representative payee or fiduciary assistance, notice, benefits accounting, conservation of
+21 benefits and other services related to benefits.
+22 (c) In order to assist in the discharge of the director's duties, the director may request from
+23 any agency of the state information pertinent to the affairs and problems of children.
+24 (d) [Deleted by P.L. 2008, ch. 9, art. 16, § 2.]
+25 (e) [Deleted by P.L. 2008, ch. 9, art. 16, § 2.]
+26 (f) On or before October 1, 2023, the director shall establish a process for hiring individuals
+27 seeking employment at the department as a social caseworker or child protective investigator. The
+28 department shall be provided with funding for one full-time employee, or the equivalent, to support
+29 the implementation of the hiring process. The process shall be in effect through March 15, 2026.
+30 (1) Generally, the process shall include, but need not be limited to:
+31 (i) Screening and reviewing candidates for eligibility criteria including education and
+32 experience;
+33 (ii) Administering the requisite civil service examinations;
+34 (iii) Conducting in-person interviews;
+LC005449 - Page 10 of 13
+
+1 (iv) Determining which applicants will be offered employment; and
+2 (v) Determining the order in which employment offers will be given.
+3 (2) Specifically, the process shall include, but need not be limited to, the following
+4 elements:
+5 (i) Eligibility criteria. Candidates must meet the minimum job requirements as defined in
+6 the specification with social caseworker IIs and child protective investigators as approved by the
+7 department of administration.
+8 (ii) Civil service examinations.
+9 (A) Examinations shall be offered by the department at least three (3) times per month to
+10 individuals who meet the eligibility criteria and at times that shall include a weekend, a weekday,
+11 and a weeknight option.
+12 (B) The director shall determine the process and administration of the exam. The director
+13 is not obligated to schedule an examination if there are no current applicants for the position
+14 available by the deadline set by the director pursuant to this subsection.
+15 (C) If an applicant does not pass the examination, the department shall notify the applicant
+16 as soon as is practicable. Applicants wishing to re-take the examination are not eligible to do so
+17 until sixty (60) days have passed from the date the notification was sent.
+18 (iii) In-person interviews.
+19 (A) Applicants who pass the civil service examination shall be invited to an in-person
+20 interview.
+21 (B) The interview shall be conducted by at least two (2) current employees of the
+22 department.
+23 (I) One of whom shall have a culturally or racially diverse background; and
+24 (II) One of whom is currently in a supervisory role over social caseworkers or child
+25 protective investigators for at least three (3) years.
+26 (III) Satisfying the requirements of subsections (f)(2)(iii)(B)(I) and (f)(2)(iii)(B)(II) of this
+27 section does not necessarily require two (2) individuals. One individual may satisfy both
+28 requirements.
+29 (C) There shall be a good faith effort to accommodate the availability of the applicant and
+30 the individuals on the panel when scheduling the interview.
+31 (iv) Offering employment.
+32 (A) Prior to offering employment, an applicant shall pass both the civil service exam and
+33 the in-person interview. Nothing herein is a guarantee of employment to an applicant who meets
+34 these criteria.
+LC005449 - Page 11 of 13
+
+1 (B) Determining whether an applicant successfully completes the in-person interview shall
+2 be based on criteria established by the director.
+3 (I) The department of administration shall score the civil service exams and provide a
+4 pass/fail listing of all candidates to DCYF within five (5) business days of receipt of the exams
+5 from DCYF.
+6 (II) The director may create a method of scoring interviews to provide objectivity and
+7 uniformity when assessing applicants.
+8 (g) On or before March 15, 2024, the department shall provide an interim report to the
+9 senate president and the speaker of the house regarding the hiring process developed and
+10 implemented pursuant to subsection (f) of this section. The report shall include, but is not limited
+11 to, the following data concerning social caseworkers and child protective investigators at the
+12 department:
+13 (1) The number of social caseworkers hired using the process developed pursuant to
+14 subsection (f) of this section;
+15 (2) The number of child protective investigators hired using the process developed pursuant
+16 to subsection (f) of this section;
+17 (3) The number of terminations or resignations since October 1, 2023;
+18 (4) The number of vacancies that existed on October 1, 2023, and the number of vacancies
+19 that exist as of the date of the report; and
+20 (5) Any identified barriers to hiring that exist in spite of, or because of, the process
+21 developed pursuant to subsection (f) of this section.
+22 SECTION 3. This act shall take effect upon passage.
+========
+LC005449
+========
+LC005449 - Page 12 of 13
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- DEPARTMENT OF CHILDREN,
+YOUTH AND FAMILIES
+***
+1 This act would mandate DCYF protection for benefits owed to foster children, such as:
+2 (1) Eligibility screening for federal benefits;
+3 (2) Applying for benefits;
+4 (3) Conserving benefits while assisting the child into adulthood, living independently;
+5 (4) Providing financial information;
+6 (5) Providing financial literacy training and support; and
+7 (6) Providing annual reports to the general assembly and concerned parties.
+8 This act would take effect upon passage.
+========
+LC005449
+========
+LC005449 - Page 13 of 13
