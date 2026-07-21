@@ -1,0 +1,241 @@
+Title: 
+Official Title: 
+Source: versions - 8077
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8077
+========
+LC005807
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- AUTOMATED LICENSE PLATE READERS
+Introduced By: Representatives Dawson, Boylan, Furtado, Casey, Stewart, Cortvriend,
+Speakman, Spears, McGaw, and Handy
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 12 of the General Laws entitled "CRIMINAL PROCEDURE" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 5.3
+4 AUTOMATED LICENSE PLATE READERS
+5 12-5.3-1. Automated license plate reader defined.
+6 As used in this chapter:
+7 (a) “Automated license plate reader” means an electronic device mounted on a law
+8 enforcement vehicle or positioned in a stationary location that is capable of recording data on, or
+9 taking a photograph of, the license plate of a vehicle and comparing the collected data and
+10 photographs to existing law enforcement databases for investigative purposes. "Automated license
+11 plate reader" includes a device that is owned or operated by a person who is not a government entity
+12 to the extent that data collected by the reader is shared with a law enforcement agency. For the
+13 purposes of this chapter, “automated license plate reader” does not refer to those electronic devices
+14 mounted on a law enforcement vehicle or positioned in a stationary location that is capable of
+15 recording data on, or taking a photograph of, the license plate of a vehicle solely for the purpose of
+16 recording the speed on a vehicle, recording information for tolling purposes, or recording traffic
+17 patterns and assessing traffic violations at an intersection.
+18 (b) "Captured plate data" means the GPS coordinates, date and time, photograph, license
+19 plate number, and any other data captured by, derived, or inferred from any automatic license plate
+
+1 reader system including, but not limited to, model, color and other automobile characteristics.
+2 (c) "Federal immigration authority" means any officer, employee, or person otherwise paid
+3 by or acting as an agent of United States immigration and customs enforcement or United States
+4 customs and border protection or any division or designee thereof, or any other officer, employee
+5 or otherwise paid by or acting as an agent of the United States department of homeland security or
+6 United State department of state who is charged with immigration enforcement.
+7 (d) "Notification" means an alert from an automatic license plate reader system that a
+8 license plate or vehicle matches a license plate or vehicle in a database utilized by the automatic
+9 license plate ready system for comparison purposes.
+10 12-5.3-2. Municipal approval mandatory for funding acquisition or use.
+11 (a) Unless otherwise prohibited by city or town charter, a municipal law enforcement
+12 agency shall obtain city or town council approval following an advertised public hearing of the
+13 council prior to engaging in any of the following acts:
+14 (1) Seeking funds for automated license plate readers, including, but not limited to,
+15 applying for a grant or soliciting or accepting state or federal funds or in-kind or other donations;
+16 (2) Acquiring or borrowing automated license plate readers, whether or not that acquisition
+17 is made through the exchange of monies or other consideration; or
+18 (3) Entering into an agreement with any other person or entity to acquire, share, or
+19 otherwise use automated license plate readers or data therefrom.
+20 (b) Any municipal law enforcement agency exempt from obtaining city or town council
+21 approval pursuant to subsection (a) of this section shall be required to formally advise the council
+22 of any actions taken to purchase or otherwise fund, acquire, or use an automated license plate
+23 reader.
+24 (c) A state law enforcement agency shall adopt, via rulemaking procedures pursuant to
+25 chapter 35 of title 42 ("administrative procedures"), its policies and procedures relating to the
+26 operation of an automated license plate reader system prior to engaging in any of the following
+27 acts:
+28 (1) Seeking funds for automated license plate readers, including, but not limited to,
+29 applying for a grant or soliciting or accepting state or federal funds or in-kind or other donations;
+30 (2) Acquiring or borrowing automated license plate readers, whether or not that acquisition
+31 is made through the exchange of monies or other consideration; or
+32 (3) Entering into an agreement with any other person or entity to acquire, share, or
+33 otherwise use automated license plate readers or data therefrom.
+34 (d) Any municipality that already uses automated license plate readers shall be subject to
+LC005807 - Page 2 of 8
+
+1 the requirements set forth in § 12-5.3-5.
+2 12-5.3-3. Regulated use of automated license plate readers.
+3 (a) Operation of and access to an automated license plate reader and captured plate data
+4 shall be for official law enforcement purposes only, and shall only be used to scan, detect, and
+5 identify license plate numbers for the purpose of identifying:
+6 (1) Stolen vehicles;
+7 (2) Vehicles associated with wanted, missing, or endangered persons;
+8 (3) Vehicles that register as a match within the National Crime Information Center; and
+9 (4) Vehicles associated with a suspect in an ongoing, active investigation of a violent felony
+10 or domestic violence offense.
+11 (b) An automated license plate reader shall not be used for:
+12 (1) Photographing, recording or producing images of the occupants of a motor vehicle;
+13 (2) Photographing, recording or producing images of further identifying features of a
+14 vehicle other than those captured on the rear of the vehicle from photographing or recording the
+15 license plate number;
+16 (3) Photographing, recording or producing images of passersby or pedestrians, including
+17 the photographing, recording, or production of images which may identify biometric information
+18 about such passersby or pedestrians through the usage of facial, voice, iris, or other software;
+19 (4) In the absence of a judicial warrant, utilizing any photographs, records or images
+20 produced through the implementation of the automated license plate reader for the purpose of
+21 identifying potentially associated vehicles;
+22 (5) Recording or otherwise capturing audio; or
+23 (6) The identification of a vehicle, or the performance of a search for a vehicle, based on
+24 the contents or message of a bumper sticker or decal.
+25 (c) Prior to using an automated license plate reader, the municipal or state law enforcement
+26 agency that intends to use the technology shall certify that the automated license plate reader meets
+27 all requirements of this chapter and that the agency has a policy or policies in effect governing its
+28 use in accordance with this chapter and a documented training process for the officers that will use
+29 it.
+30 (d) A positive match by an automated license plate reader alone shall not constitute
+31 reasonable suspicion as grounds for a law enforcement officer to stop the vehicle. Prior to stopping
+32 a vehicle based on identification within the automated license plate reader database, the officer
+33 shall immediately confirm visually that the license plate on the vehicle matches the image of the
+34 license plate displayed on the alert and conduct an inquiry through law enforcement databases to
+LC005807 - Page 3 of 8
+
+1 verify the plate on the vehicle photographed is the same state, numerical sequence and classification
+2 associated with the criteria specified in subsection (a) of this section. Officers will not take any law
+3 enforcement action until the automated license plate reader alert is verified.
+4 (e) Records of license plates recorded by an automated license plate reader shall not be
+5 transmitted for any other purpose and shall be purged from the database or system within twenty-
+6 one (21) days of their capture in such a manner that they are destroyed and not recoverable, unless
+7 the identification of a license plate resulted in an arrest, a citation, or identified a vehicle that was
+8 the subject of a missing person or wanted broadcast, or remains the subject of an active
+9 investigation to the extent authorized by this chapter, in which case the data on the particular license
+10 plate may be retained until final disposition of the matter. Captured license plate data obtained for
+11 the purposes identified in subsection (a) of this section shall not be used or shared for any other
+12 purpose.
+13 (f) A law enforcement officer shall be certified in automated license plate reader operation
+14 by the department of public safety prior to operating an automated license plate reader system.
+15 Agencies utilizing automated license plate reader technology shall maintain training logs of
+16 personnel with access to the automated license plate reader system.
+17 12-5.3-4. Protections.
+18 (a) Captured plate data collected by or on behalf of a government entity, as authorized
+19 pursuant to § 12-5.3-3(a), shall not be used or shared for any other purpose and shall be deleted
+20 after twenty-one (21) days, except that such data may be retained:
+21 (1) For as long as such captured plate data is needed as evidence of specific unlawful
+22 conduct enumerated in § 12-5.3-3(a);
+23 (2) Pursuant to a valid, court issued, probable cause warrant.
+24 (b) Any government entity that uses an automated license plate reader system must ensure
+25 that any databases used by their system to provide notifications are updated at least every twenty-
+26 four (24) hours, or as soon as practicable after such updates become available.
+27 12-5.3-5. Data sharing and automated license plate reader access.
+28 (a) Any government entity that uses automated license plate reader systems shall:
+29 (1) Not share or otherwise provide access to captured plate data unless the requesting party:
+30 (i) Is a government entity that agrees not to further share the data unless otherwise required
+31 by law; or
+32 (ii) Has a judicially issued, probable cause warrant for the specific data.
+33 (2) Not share or otherwise provide access to captured plate data to enforce, comply, or
+34 assist with federal immigration enforcement.
+LC005807 - Page 4 of 8
+
+1 (3) Not share or otherwise provide access to captured plate data for the purpose of
+2 identifying, tracking, or determining an individual’s reproductive health care and/or gender-
+3 affirming care status or decisions.
+4 (4) Not share or otherwise provide access to captured plate data for the purpose or known
+5 effect of infringing upon first amendment rights.
+6 (b) Nothing in this shall be construed to limit or prohibit any state or local agency officer
+7 from:
+8 (1) Sending to, or receiving from, federal immigration authorities the citizenship or
+9 immigration status of a person, or maintaining such information, or exchanging the citizenship or
+10 immigration status of an individual with any other federal, state, or local government agency, to
+11 the extent required by 8 U.S.C. 1373; or
+12 (2) Complying with any other Rhode Island or federal law.
+13 (c) Any current or future external agency granted permission to use or review automated
+14 license plate reader data or footage collected in this state must agree, through a formal written
+15 agreement, to this section and §§ 12-5.3-3 and 12-5.3-4. For external agencies who do not sign such
+16 agreements, permission to access data in this state is prohibited.
+17 12-5.3-6. Public log of use required.
+18 (a) A law enforcement agency that installs or uses any automated license plate reader shall
+19 maintain a public log of its use, to be updated on an ongoing monthly basis, containing, but not
+20 limited to, the following information:
+21 (1) The aggregate number of vehicles on which data is collected for each month of use and
+22 a list of all state and federal databases with which the data were compared, unless the existence of
+23 the database itself is not public;
+24 (2) For each month of use, a breakdown of the number of vehicles in which the collected
+25 data identified a stolen vehicle or license plate, a warrant for the arrest of the owner or operator of
+26 the vehicle, or any other basis for pursuing the owner or operator of a motor vehicle based on an
+27 identification generated in accordance with § 12-5.3-3(a);
+28 (3) The census tract in which any stationary or fixed location automated license plate reader
+29 that is actively collecting data is installed and used;
+30 (4) A summary of complaints or concerns that were received during each month of active
+31 use about the automated license plate reader; and
+32 (5) Any instances of erroneous identification by the automated license plate reader.
+33 (b) The law enforcement agency shall maintain a public list of current and previous census
+34 tracts in which an automated license plate reader is or has been located, including the dates it was
+LC005807 - Page 5 of 8
+
+1 or is utilized at those locations.
+2 12-5.3-7. Review of preexisting uses mandatory.
+3 No later than one hundred twenty (120) days following the effective date of this chapter,
+4 any law enforcement agency seeking to continue the use of any automated license plate reader that
+5 was in use prior to the effective date, shall commence an approval or advisory process and meet
+6 the standards in accordance with §§ 12-5.3-2 and 12-5.3-3. If the continued use of the automated
+7 license plate reader has not been approved within one hundred eighty (180) days of its submission,
+8 the municipal entity or state agency shall cease its use of the automated license plate reader and the
+9 sharing of data therefrom unless and until such time as approval is obtained in accordance with this
+10 chapter.
+11 12-5.3-8. Remedies and penalties.
+12 (a) The attorney general may seek appropriate relief, including an injunction banning or
+13 restricting the use of automated license plate readers, against an agency found to have violated the
+14 provisions of this chapter.
+15 (b) Any individual or entity aggrieved by a violation of this chapter may file an action in
+16 superior court and be entitled to the remedies available for a deprivation of the right to privacy as
+17 provided in § 9-1-28.1(b).
+18 (c) Any data or other information created or collected in contravention of this chapter, and
+19 any data or information derived therefrom, shall be immediately deleted and destroyed, and may
+20 not be offered as evidence by any municipal or state governmental entity in any criminal or civil
+21 action or proceeding, except as evidence of the violation of this chapter or be voluntarily provided
+22 to another person or entity for use as evidence or for any other purpose.
+23 (d) Notwithstanding subsection (c) of this section, if, upon the discovery of data or other
+24 information that was created or collected in contravention of this chapter, it appears such data or
+25 information may be material to the defense in a criminal prosecution, a copy of the relevant,
+26 potentially material data or other information shall be turned over to the defendant before it is
+27 deleted and destroyed.
+28 12-5.3-9. Severability.
+29 (a) If any provision of this section or the application thereof to any person or circumstances
+30 is held invalid, such invalidity shall not affect the other provisions or applications of this chapter,
+31 which can be given effect without the invalid provision or application, and to this end, the
+32 provisions of this chapter are declared to be severable.
+LC005807 - Page 6 of 8
+
+1 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC005807
+========
+LC005807 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- AUTOMATED LICENSE PLATE READERS
+***
+1 This act would provide for municipal and state police authorities to acquire and to utilize
+2 automated license plate readers. Further, the act would identify what data may be collected and in
+3 what ways the data can be used.
+4 This act would take effect on January 1, 2027.
+========
+LC005807
+========
+LC005807 - Page 8 of 8

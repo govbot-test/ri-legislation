@@ -1,0 +1,561 @@
+Title: 
+Official Title: 
+Source: versions - 2891  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2891 SUBSTITUTE A
+========
+LC005345/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE MEDICAL EXAMINERS
+Introduced By: Senators Urso, Ciccone, Appollonio, Famiglietti, Patalano, and Raptakis
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+(Dept. of Health)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 23-4-1, 23-4-2, 23-4-3, 23-4-4, 23-4-5, 23-4-6, 23-4-7, 23-4-8, 23-
+2 4-9, 23-4-10, 23-4-11, 23-4-13, 23-4-14 and 23-4-15 of the General Laws in Chapter 23-4 entitled
+3 "Office of State Medical Examiners" are hereby amended to read as follows:
+4 23-4-1. Definitions.
+5 (a) “Assistant medical examiner” means a duly licensed doctor of medicine or doctor of
+6 osteopathy appointed to assist the office of state medical examiners on a part-time basis in a medical
+7 examiner role subordinate to the chief medical examiner.
+8 (b) “Autopsy” means the external inspection of a dead body and subsequent dissection of
+9 a dead body and the removal and examination of bone, tissue, organs, and foreign objects, internal
+10 examination and collection of specimens and relevant foreign objects, for laboratory and/or other
+11 forensic testing as deemed necessary for the purpose of determining the condition of the body and
+12 the cause and the manner of the death.
+13 (c) “Cause of death” means the agent that has directly or indirectly resulted in a death the
+14 disease, condition, or injury that initiated the chain of events that led directly to the death.
+15 (d) “Death investigation” means the investigation into a death that falls to the jurisdiction
+16 of the office of state medical examiners to the extent necessary to establish the cause and manner
+17 of death with a reasonable degree of medical certainty. Death investigations may include, but are
+18 not limited to, death scene investigation, review of medical records, external inspection, autopsy,
+19 and postmortem testing.
+
+1 (e) “External inspection” means an external examination of a dead body without dissection.
+2 Specimens such as blood may be collected during an external inspection to assist with determining
+3 the cause and manner of death.
+4 (d)(f) “Inquest” means an official judicial inquiry before a medical examiner and/or
+5 medical examiners jury for the purpose of determining the manner of death.
+6 (g) "Interested person" for the purposes of this Title shall mean spouse or registered
+7 domestic partner, sibling(s) if over eighteen (18) years of age, parent(s) or guardian(s),
+8 grandparent(s), or his or her children, grandchildren, or great grandchildren over (18) years of age,
+9 or guardian of the deceased person at the time of the deceased person's death.
+10 (e)(h) “Manner of death” means the means or fatal agency that caused a death how the
+11 death occurred. Manner of death includes, but is not limited to, homicide, suicide, natural, accident,
+12 or undetermined.
+13 (i) “Physician” means any person licensed to practice allopathic or osteopathic medicine
+14 pursuant to the provisions of chapter 37 of title 5.
+15 (f)(j) “Postmortem examination” means examination of the decedent’s body or remains
+16 after death and includes an examination of the dead body and surroundings by an agent of the office
+17 of state medical examiners but does not include dissection of the body for any purpose either an
+18 external inspection, partial autopsy, or a full autopsy.
+19 (g)(k) “Work product” means preliminary drafts, notes, impressions, memoranda, working
+20 papers, and similar documents of a governmental entity, whether in electronic or other another
+21 format.
+22 23-4-2. Establishment of office.
+23 (a) There is established in the department of health the office of state medical examiners.
+24 The director of health, with the advice of the state medical examiners commission, is authorized to
+25 adopt, amend, promulgate, and enforce rules, and regulations, and standards that may be designed
+26 to further the accomplishment of the purposes of this chapter.
+27 (b) The office of state medical examiners shall obtain and maintain accreditation by the
+28 National Association of Medical Examiners (NAME) or other national accrediting organization in
+29 the field of forensic medicine and pathology medical examiner death investigation systems.
+30 23-4-3. Functions.
+31 The office of state medical examiners shall be responsible for:
+32 (1) The investigation of deaths occurring within the state that, in its judgment, might
+33 reasonably be expected to involve causes or manners of death enumerated in this chapter;
+34 (2) For the conduct of inquests when requested by the attorney general;
+LC005345/SUB A - Page 2 of 16
+
+1 (3) For the performance of autopsies postmortem examinations, including the retention,
+2 examination, and appropriate disposal of tissue, when appropriate, for deaths that, in its judgment,
+3 might reasonably be expected to involve causes or manners of deaths enumerated in this chapter;
+4 (4) For the written determination of the causes and manners of death investigated pursuant
+5 to this chapter;
+6 (5) For the presentation to the courts of Rhode Island of expert testimony relating to the
+7 cause and manner of death enumerated in this chapter;
+8 (6) For the keeping of complete records, including names decedent name, places location
+9 of death, circumstances of death, and causes and manners of all deaths, of deaths investigated and
+10 reported, copies of which shall be delivered to the attorney general and of which written
+11 determinations of causes of death shall be made available for public inspection;
+12 (7) For the burial of bodies for which there is no other existing legal responsibility to do so
+13 For approving organ and tissue donation to the extent possible from decedents whose deaths are
+14 being investigated by the office of state medical examiners; provided that, such donation will not
+15 interfere with the ability to determine cause or manner of death with a reasonable degree of medical
+16 certainty;
+17 (8) For the development and enforcement of procedures for the pronouncement of death
+18 and for the transplantation of organs from bodies of persons who have died within the state For
+19 making available the death investigation case information necessary to compile the case studies
+20 that will be reviewed by the respective multidisciplinary death review teams enumerated in this
+21 chapter;
+22 (9)(i) For supporting a multidisciplinary team review of child fatalities administered by the
+23 department of health with the goal to decrease the prevalence of preventable child deaths and report
+24 recommendations for community- and systems-intervention strategies. A child death-review team
+25 shall include, but is not limited to, representation from state agencies, health care, child welfare,
+26 and law enforcement; and
+27 (ii) The work product of the child death-review team shall be confidential and protected
+28 under all applicable laws, including the federal Health Insurance Portability and Accountability Act
+29 of 1996 and the Rhode Island confidentiality of health care information act (chapter 37.3 of title 5)
+30 and shall be exempt from the provisions of chapter 2 of title 38 and shall be deemed privileged
+31 pursuant to § 23-17.21-8;
+32 (10) The department of health shall work with the department of children, youth and
+33 families and the office of the child advocate to develop a process to ensure the timely availability
+34 of autopsy reports on child deaths;
+LC005345/SUB A - Page 3 of 16
+
+1 (11)(i) For supporting a multidisciplinary team review of drug-related overdose deaths
+2 administered by the department of health with the goal of reducing the prevalence of these deaths
+3 by examining emerging trends in overdose, identifying potential demographic, geographic, and
+4 structural points for prevention, and other factors. The multidisciplinary team for review of drug-
+5 related overdose deaths may include, as determined by the director of the department of health,
+6 representatives from the department of health; the department of the attorney general; the Rhode
+7 Island state police; the department of corrections; the department of behavioral healthcare,
+8 developmental disabilities and hospitals; the Rhode Island Police Chiefs Association; the Hospital
+9 Association of Rhode Island; an emergency department physician; a primary care physician; an
+10 addiction medicine/treatment provider; a mental health clinician; a toxicologist; a recovery coach
+11 or other representative of the recovery community; and others as may be determined by the director
+12 of the department of health;
+13 (ii) The work product of the multidisciplinary team for review of drug-related overdose
+14 deaths shall be confidential and protected under all applicable laws, including the federal Health
+15 Insurance Portability and Accountability Act of 1996 and the Rhode Island confidentiality of health
+16 care information act (chapter 37.3 of title 5), and shall be exempt from the provisions of chapter 2
+17 of title 38, not subject to subpoena, discovery, or introduction into evidence in any civil or criminal
+18 proceeding, and not subject to disclosure beyond the team members (except to authorized
+19 employees of the department of health as necessary to perform its official duties pursuant to this
+20 subsection (11));
+21 (iii) The multidisciplinary team shall report on or before December 1 of each year to the
+22 governor, the speaker of the house, and president of the senate, which report shall summarize the
+23 activities of the team, as well as the team’s findings, progress towards reaching its goals, and
+24 recommendations for any needed changes in legislation or otherwise;
+25 (iv) [Deleted by P.L. 2021, ch. 21, § 1 and P.L. 2021, ch. 22, § 1.]
+26 (v) The multidisciplinary team, or Rhode Island department of health state employees
+27 appointed by the director of the department of health, shall, as relatives of the deceased are willing,
+28 be empowered to gather information from such consenting relatives regarding the circumstances of
+29 the decedent’s death. The information gathered shall remain confidential and publicly released as
+30 aggregate de-identified information. The information gathered will be utilized to help identify
+31 specific prevention and intervention strategies to prevent further deaths. The information gathered
+32 shall not be subject to subpoena, discovery, or introduction into evidence in any civil or criminal
+33 proceeding, and shall not be subject to disclosure beyond the team members except to authorized
+34 employees of the department of health as necessary to perform its official duties pursuant to this
+LC005345/SUB A - Page 4 of 16
+
+1 subsection (11), and except as aggregate de-identified information;
+2 (12)(i) For supporting a multidisciplinary maternal mortality review committee
+3 administered by the department of health for review of maternal deaths of women that occur during
+4 pregnancy, delivery, or within one year of the end of pregnancy with the goal of reducing the
+5 prevalence of such deaths by examining emerging trends in such deaths, identifying potential
+6 demographic, geographic, and structural points for prevention, and other factors. This committee
+7 has the authority to request and receive data from vital records, healthcare providers, healthcare
+8 facilities, pharmacy records, and any other agencies or officials having information that is necessary
+9 for the committee to carry out its duties under this section. The multidisciplinary maternal mortality
+10 review committee shall include, but not be limited to, as determined by the director of the
+11 department of health, representation from state agencies; an obstetric provider from each hospital
+12 that delivers obstetrical care; a neonatal specialist; individuals or organizations that represent the
+13 populations that are most affected by pregnancy-related deaths or pregnancy-associated deaths and
+14 lack of access to maternal healthcare services; a perinatal pathologist; and a maternal fetal medicine
+15 specialist. This committee shall develop recommendations for the prevention of maternal deaths
+16 and disseminate findings and recommendations to policy makers, healthcare providers, healthcare
+17 facilities, and the general public;
+18 (ii) The work product of the maternal mortality review committee shall be confidential and
+19 protected under all applicable laws, including the federal Health Insurance Portability and
+20 Accountability Act of 1996 and the Rhode Island confidentiality of health care information act
+21 (chapter 37.3 of title 5) and shall be exempt from the provisions of chapter 2 of title 38 and shall
+22 be deemed privileged pursuant to § 23-17.21-8; and
+23 (13)(i) For supporting a multidisciplinary team review of suicide deaths administered by
+24 the department of health with the goal of reducing the prevalence of these deaths by examining
+25 trends in demographic, geographic, community, and structural protective and risk factors. The
+26 multidisciplinary team may include, as determined by the director of the Rhode Island department
+27 of health (RIDOH), representatives from the office of the state medical examiners, RIDOH’s
+28 violence and injury prevention program, the department of behavioral healthcare, developmental
+29 disabilities and hospitals, emergency medical services, law enforcement, health care, and others as
+30 may be determined by the director of the department of health;
+31 (ii) The work product of the adult suicide fatality review team shall be confidential and
+32 protected under all applicable laws, including the federal Health Insurance Portability and
+33 Accountability Act of 1996 and chapter 37.3 of title 5 (the “Rhode Island confidentiality of health
+34 care communications and information act”) and shall be exempt from the provisions of chapter 2
+LC005345/SUB A - Page 5 of 16
+
+1 of title 38 (“access to public records”) and shall be deemed privileged pursuant to § 23-17.21-8,
+2 not subject to subpoena, discovery, or introduction into evidence in any civil or criminal
+3 proceeding, and not subject to disclosure beyond the team members (except to authorized
+4 employees of the department of health as necessary to perform its official duties pursuant to this
+5 subsection (13));
+6 (iii) The multidisciplinary team shall be responsible for developing annual
+7 recommendations for the state suicide prevention coalition and/or the state agency(ies) responsible
+8 for suicide prevention in Rhode Island. The recommendations should align with the Rhode Island
+9 suicide prevention state plan and shall outline, based on suicide fatality case review data, potential
+10 strategies to increase protective factors and decrease risk factors to reduce suicide deaths in Rhode
+11 Island.
+12 23-4-4. Jurisdiction.
+13 The office of state medical examiners shall have the authority to make postmortem
+14 examinations conduct death investigations, to undertake inquests, and to perform autopsies
+15 postmortem examinations in all deaths occurring in Rhode Island where there may be in its
+16 judgment a reasonable belief that the manner of death could be pronounced as:
+17 (1) Death by a homicide, suicide, or casualty accident, undetermined or unusual manner;
+18 (2) Death due to a criminal abortion;
+19 (3) Death due to an accident involving lack of due care on the part of a person other than
+20 the deceased;
+21 (4)(2) Death which is the immediate or remote consequences of any physical or toxic injury
+22 incurred while the deceased person was employed;
+23 (5)(3) Death due to the use of addictive illegal drugs, prescription drugs, non-prescription
+24 drugs, medicinal substances, or other identifiable or unidentifiable chemical agents, including
+25 toxins and toxicants; or
+26 (6)(4) Death due to an infectious agent capable of spreading an epidemic within the state;
+27 or
+28 (5) Death that is sudden or unexpected when the decedent was in apparent good health;
+29 (6) Death that occurred under circumstances reportable to the office of state medical
+30 examiners as enumerated in this chapter or as described in rules promulgated by the department.
+31 23-4-5. Chief medical examiner — Assistants and other staff.
+32 (a) The office shall be under the immediate supervision of a chief, who shall be known as
+33 the “chief medical examiner” and who shall be a physician licensed under the provisions of chapter
+34 37 of title 5, and a qualified forensic pathologist certified by the American Board of Pathology in
+LC005345/SUB A - Page 6 of 16
+
+1 both anatomic and forensic pathology and who has had forensic training or pathology experience.
+2 He or she shall be appointed by the director of health as shall the deputy chief medical examiner
+3 with the advice of the medical examiner’s commission. The chief medical examiner shall be in the
+4 unclassified service and the deputy chief medical examiner shall be in the classified service.
+5 (b) The chief medical examiner shall appoint, with the approval of the director of health,
+6 assistant deputy medical examiners and shall hire other staff as necessary to carry out the provisions
+7 of this chapter.
+8 (c) Persons employed full time at the time of enactment of this chapter within the division
+9 of medical examiners in the department of the attorney general shall be transferred to the office of
+10 state medical examiners with their former rights and privileges of employment. For members
+11 eligible to retire on or before June 30, 2012, such members shall be eligible for retirement benefits
+12 after the age of fifty (50) years and service of twenty (20) years, including service within the
+13 division of medical examiners. For members eligible to retire on or after July 1, 2012, such
+14 members shall be eligible for retirement benefits in accordance with chapters 8 through 10 of title
+15 36.
+16 23-4-6. State medical examiners commission. State postmortem advisory commission.
+17 (a) There is established the state medical examiners postmortem advisory commission. The
+18 commission shall hear and determine appeals to decisions by the chief medical examiners examiner
+19 regarding the undertaking of investigations, inquests, and autopsies, and shall advise the chief
+20 medical examiner on matters of public concern cause and manner of death.
+21 (b) The commission shall consist of twelve (12) a panel of seven (7) members, three (3) of
+22 whom shall be ex officio members, viz., the director of health, the attorney general, the
+23 superintendent of state police, and nine (9) citizens of the state to be to include the Rhode Island
+24 attorney general or designee from the office of attorney general, with the remainder of members
+25 appointed by the governor with the advice and consent of the senate for the a term of three (3)
+26 years. Criteria for appointment must include that the remaining members be a physician, preferably
+27 with experience in performing autopsies to determine cause of death and who must not have been
+28 or currently employed or retained as an independent contractor by the office of state medical
+29 examiners within one year after employment or retainment as an independent contractor has ceased.
+30 The governor shall give due consideration to any recommendations for nominations submitted to
+31 him or her by the president of the Rhode Island Medical Society, the president of the Rhode Island
+32 Society of Pathologists, the president of the Rhode Island Bar Association, board-certified
+33 pathologists, preferably forensic pathologists, and the vice president of Brown University Division
+34 of Biological and Medical Sciences and the president of the Rhode Island Funeral Directors
+LC005345/SUB A - Page 7 of 16
+
+1 Association. Each citizen member shall hold office for the term of his or her their appointment and
+2 until his or her successor is appointed. Vacancies for citizen members shall be filled by appointment
+3 for the unexpired term only The members shall serve without compensation. If a commission
+4 member has a conflict of interest, that member must recuse themselves from hearing and
+5 determining appeals to decisions by the chief medical examiner regarding the cause and manner of
+6 death. The administrator of the office of the state medical examiners, or the administrator’s
+7 designee, shall serve as administrator of the commission to provide technical and administrative
+8 support.
+9 (c) The director of health and the attorney general shall be the chairperson and vice
+10 chairperson, respectively, of the commission. The chief medical examiner of the office of state
+11 medical examiners shall serve as the executive secretary of the commission, and the expenses of
+12 the commission shall be a responsibility of the department of health. The board may elect from
+13 among its members such other officers as it deems necessary. Seven (7) members of the board shall
+14 constitute a quorum and the vote of a majority of those present and voting shall be required for
+15 action. The commission shall meet at the call of its chairperson and at least four (4) times each year,
+16 the time and the place for each meeting to be fixed by the chairperson. Except in a case of a finding
+17 of homicide, a person of interest may request the office of state medical examiners to make
+18 amendments to findings and conclusions on the cause and manner of death recorded on a certificate
+19 of death within sixty (60) days after a medical examiner certifies the death certificate. The request
+20 to amend the findings and conclusions of a death certificate shall:
+21 (1) Be in writing to the chief medical examiner;
+22 (2) Clearly describe the requested amendment;
+23 (3) State the reason for the change; and
+24 (4) Provide a return address.
+25 (d) Members of the commission shall be removable by the governor pursuant to the
+26 provisions of § 36-1-7 of the general laws and for cause only, and removal solely for partisan or
+27 personal reasons unrelated to capacity or fitness for the office shall be unlawful. Within sixty (60)
+28 days of receiving the request in writing, the chief medical examiner shall provide the person of
+29 interest written notice of the action taken.
+30 (e) Within ninety (90) days after the end of each fiscal year, the commission shall approve
+31 and submit an annual report to the governor, the speaker of the house of representatives, the
+32 president of the senate, and the secretary of state, of its activities during that fiscal year. The report
+33 shall provide an operating statement summarizing meetings or hearings held, including meeting
+34 minutes, subjects addressed, decisions rendered, appeals considered and their disposition, rules or
+LC005345/SUB A - Page 8 of 16
+
+1 regulations promulgated, studies conducted, policies and plans developed, approved, or modified,
+2 and programs administered or initiated; a consolidated financial statement of all funds received and
+3 expended including the source of the funds, a listing of any staff supported by these funds, and a
+4 summary of any clerical, administrative or technical support received; a summary of performance
+5 during the previous fiscal year including accomplishments, shortcomings and remedies; a synopsis
+6 of hearing, complaints, suspensions, or other legal matters related to the authority of the
+7 commission; a summary of any training courses held pursuant to this chapter; a briefing on
+8 anticipated activities in the upcoming fiscal year; and findings and recommendations for
+9 improvements. The report shall be posted electronically on the websites of the general assembly
+10 and the secretary of state pursuant to the provisions of § 42-20-8.2. The director of the department
+11 of administration shall be responsible for the enforcement of the provisions of this subsection. If
+12 the chief medical examiner denies the written request to amend findings and conclusions on the
+13 cause and/or manner of death, the person of interest may appeal the denial in writing within fifteen
+14 (15) days to the director of health. The director shall refer the matter within fifteen (15) days of the
+15 receipt of the appeal request to the state postmortem advisory commission.
+16 (f) The commission shall conduct a training course for newly appointed and qualified
+17 members within six (6) months of their qualification or designation. The course shall be developed
+18 by the chair of the commission, be approved by the commission, and be conducted by the chair of
+19 the commission. The commission may approve the use of any commission and/or staff members
+20 and/or individuals to assist with training. The training course shall include instruction in the
+21 following areas: the provisions of chapters 42-46, 36-14 and 38-2; and the commission’s rules and
+22 regulations. The director of the department of administration shall, within ninety (90) days of June
+23 16, 2006, prepare and disseminate training materials relating to the provisions of chapters 42-46,
+24 36-14, and 38-2. The state postmortem advisory commission shall conduct a hearing on the denial
+25 and on the establishment of the amendments to the findings and conclusions on the cause and/or
+26 manner of death.
+27 (g) Upon reviewing the findings of fact submitted to the state postmortem advisory
+28 commission, the commission shall recommend a decision to the director of health. The director
+29 shall issue a final administrative order within sixty (60) days to:
+30 (1) Adopt the recommendation of the commission; or
+31 (2) Reject the recommendation of the commission and affirm the original findings of the
+32 chief medical examiner.
+33 (h) The director’s order shall constitute a final administrative order. If the director rejects
+34 the recommendation of the commission, the person of interest may appeal the final administrative
+LC005345/SUB A - Page 9 of 16
+
+1 order to the Rhode Island superior court.
+2 (i) If the final decision of the director, or the decision upon final adjudication on appeal
+3 establishes a different finding or conclusion on the cause or manner of death, the chief medical
+4 examiner shall amend the death certificate to reflect the change in finding or conclusion. The chief
+5 medical examiner shall send a request to amend the death certificate to reflect the final decision to
+6 the state registrar of vital records pursuant to § 23-3-4. The registrar of vital records shall amend
+7 the death certificate to reflect the final decision.
+8 (j) The final decision of the director, or of the court, may not give rise to any presumption
+9 concerning the application of any provision of or the resolution of any claim concerning a policy
+10 of insurance relating to the deceased.
+11 (k) If the findings of the chief medical examiner are upheld by the director, the appellant
+12 is responsible for the costs of the contested case hearing based on the billing rates established by
+13 the department of health pursuant to § 23-4-13.
+14 23-4-7. Reporting of certain deaths required — Violations — Penalties.
+15 (a)(1) Where any person shall die in any manner to suggest the possibility of a criminal act
+16 or as the result of violence or apparent suicide, or from a criminal abortion or in any suspicious or
+17 unusual manner or circumstances enumerated in § 23-4-4, it shall be the duty of any person having
+18 knowledge of those deaths to immediately notify the police of the city or town where the body of
+19 the deceased person lies or to notify the office of state medical examiners. The same procedure
+20 shall be followed upon discovery of anatomical material suspected of being or determined to be a
+21 part of a human body.
+22 (2) Any person who willfully neglects or refuses to report that death or who without an
+23 order from an agent of the office of medical examiners willfully touches, removes, or disturbs the
+24 body of that dead person, or willfully touches, removes, or disturbs the clothing or any article upon
+25 or near that body, shall be guilty of a misdemeanor shall be reported to the appropriate law
+26 enforcement agency. The body shall not be disturbed without authorization of the medical examiner
+27 except in those cases in which a possibility of life remains, whereupon the law enforcement officer
+28 or appropriate emergency medical services personnel on the scene shall initiate and facilitate such
+29 lifesaving procedures as may be appropriate. After death is declared or pronounced, the body is not
+30 to be disturbed, and nothing is to be removed from the body without authorization of the medical
+31 examiner.
+32 (b) If any person buries or causes to be buried the dead body of a person supposed to have
+33 come to a violent death before giving notice as stated in subsection (a) and before inquiry is made
+34 into the manner and circumstances of the death, that person shall be guilty of a misdemeanor that
+LC005345/SUB A - Page 10 of 16
+
+1 person shall be reported to the appropriate law enforcement agency.
+2 (c) When any person may appear to have met death when unattended by a physician, or in
+3 any unnatural manner, or as the apparent result of the negligence of another person, or as the
+4 consequence of any physical or toxic injury incurred while employed, or from the use of any
+5 addictive or unidentifiable chemical agent, or from accidental hypothermia, or from an infectious
+6 agent capable of spreading an epidemic within the state circumstances or manners enumerated in §
+7 23-4-4, it shall be the duty of any physician, law enforcement officer, funeral director, hospital
+8 official having knowledge of the death, or of any other person having responsibility for burial or
+9 cremation of the deceased person to notify the office of the state medical examiners. In the case of
+10 any prisoner committed by law to the custody of the department of corrections or in the department
+11 of behavioral healthcare, developmental disabilities and hospitals who dies or in the case of a person
+12 who dies while in the custody of the state police or local police departments of law enforcement as
+13 defined by the U.S. Department of Justice, the person charged with the responsibility for that
+14 custody shall have the duty to immediately notify the office of the state medical examiners. Any
+15 person charged with the responsibility of notifying the office of state medical examiners of any of
+16 the deaths stated in the first sentence of this subsection who neglects to give that notice shall upon
+17 conviction be guilty of a misdemeanor be reported to the office of the attorney general.
+18 (d) If an agent of the office of state medical examiners is of the opinion that a death was
+19 caused by the act of neglect of some person other than the deceased, he or she shall at once notify
+20 the attorney general, and the police of the city or town where the body was found or in which it
+21 lies. If any person shall be arrested and charged with causing any death by the act of neglect, the
+22 person so arrested shall be entitled to receive a copy of the record of the autopsy, upon written
+23 request delivered to the attorney general.
+24 (e) Where any person age sixty-five (65) years or older may appear to have died from
+25 accidental hypothermia or hyperthermia, the death shall be reported to the department of elderly
+26 affairs office of healthy aging by the state medical examiner. or
+27 (f) when When any person, under the age of eighteen (18) shall die, the physician signing
+28 medical professional pronouncing the death certificate shall report the death to the state medical
+29 examiner’s office within twenty-four (24) six (6) hours of the death.
+30 (f)(g) Any person who violates any of the provisions of subsection (a) or (b) of this section
+31 and does so with the intention upon conviction of concealing a felony crime or having knowledge
+32 of the commission of any felony offense, shall be guilty of a felony and, upon conviction, shall be
+33 fined or imprisoned for a term of not more than five (5) years or fined ten thousand dollars
+34 ($10,000), or both in accordance with § 11-1-5.
+LC005345/SUB A - Page 11 of 16
+
+1 23-4-8. Procedure for investigation of deaths.
+2 (a) When the office of state medical examiners has notice that there has been found or is
+3 lying within this state the body of a person who is supposed to have come to his or her death by
+4 violence, or in any manner or circumstances as stated in § 23-4-7 this chapter or in rules
+5 promulgated by the department, an agent of the office of state medical examiners shall immediately
+6 proceed to the place where the body lies and take charge of it, view it, and make personal inquiry
+7 into the cause and manner of death determine the medicolegal authority of the case, and if accepted,
+8 the office of the state medical examiners shall take jurisdiction of the body and initiate a
+9 postmortem investigation. If the body is found at the residence of the deceased, the agent of the
+10 office of state medical examiners shall not remove the body from the residence unless necessary
+11 for further postmortem examination or autopsy further investigation.
+12 (b) A health care facility, healthcare provider, educational institution, correctional
+13 institution, or law enforcement agency shall disclose any and all relevant information in its
+14 possession including, but not limited to, medical records, educational records, and incident reports,
+15 requested by the state medical examiner or his or her agent in connection with the death
+16 investigation of the death of a decedent who was a current or former patient, student, or subject of
+17 a law enforcement report or case file to the extent necessary as determined by the office of the state
+18 medical examiners, in order to assist the medical examiner in determining the cause and manner of
+19 death. Law enforcement agencies responding to the scene of a death are required to provide the
+20 office of state medical examiners with copies of all related law enforcement reports including, if
+21 requested, photographs and videos related to the incident.
+22 23-4-9. Deaths in public places.
+23 In the event that a person dies suddenly on a public highway or elsewhere in the public
+24 view and the death appears to be from natural causes or the result of injuries received from a
+25 highway accident, an agent of the office of the state medical examiners, or the state police or any
+26 superior officer of the local police or an agent of the office of state medical examiners, in
+27 consultation with and with permission from the office of the state medical examiners may order the
+28 removal of the body from the place of death, upon completion of their investigation as to the cause
+29 and manner of death, to the funeral home designated by a family representative of the deceased or
+30 to the state morgue or any hospital to the office of the state medical examiners or to an alternate
+31 location as directed and approved by an agent of the office of state medical examiners.
+32 23-4-10. Disposition of deceased bodies.
+33 (a) The office of state medical examiners shall, after any postmortem external examination
+34 or any autopsy, promptly release the deceased body to the relatives, representatives, or domestic
+LC005345/SUB A - Page 12 of 16
+
+1 partners or other persons authorized by law to make arrangements for the disposition of the
+2 decedent’s remains. The cost of transporting the deceased body to the office of state medical
+3 examiners shall be borne by the state if the autopsy was required to be performed as provided in
+4 this chapter. If the relatives, representatives, or domestic partners of the decedent or other person
+5 authorized by law to make arrangements for the disposition of the decedent’s remains:
+6 (1) Fails or refuses to claim the body within fourteen (14) days of receiving notice of the
+7 death of the decedent; or
+8 (2) Fails or refuses to make arrangements with a funeral home for the removal of the body
+9 from the state medical examiner’s morgue within thirty (30) days of receiving notice of the death
+10 of the decedent, then the body shall be deemed unclaimed and shall be buried in accordance with
+11 § 40-6-3.10. If there are no known relatives, representatives or domestic partners, after reasonable
+12 public notices, the body shall be deemed unclaimed and the office of state medical examiners shall
+13 cause the body of the deceased person to be buried in accordance with § 40-6-3.10. The general
+14 treasurer of the state shall have first priority in recovering the expenses of burial from the estate of
+15 the deceased person.
+16 (b) For the purpose of this chapter, “domestic partner” shall be defined as a person who,
+17 prior to the decedent’s death, was in an exclusive, intimate, and committed relationship with the
+18 decedent, and who certifies by affidavit that their relationship met the following qualifications:
+19 (1) Both partners were at least eighteen (18) years of age and were mentally competent to
+20 contract;
+21 (2) Neither partner is married to anyone else;
+22 (3) Partners were not related by blood to a degree that would prohibit marriage in the state
+23 of Rhode Island;
+24 (4) Partners resided together and had resided together for at least one year at the time of
+25 death; and
+26 (5) Partners were financially interdependent as evidenced by at least two (2) of the
+27 following:
+28 (i) Domestic partnership agreement or relationship contract;
+29 (ii) Joint mortgage or joint ownership of primary residence;
+30 (iii) Two (2) of the following:
+31 (A) Joint ownership of motor vehicle;
+32 (B) Joint checking account;
+33 (C) Joint credit account;
+34 (D) Joint lease; and/or
+LC005345/SUB A - Page 13 of 16
+
+1 (iv) The domestic partner had been designated as a beneficiary for the decedent’s will,
+2 retirement contract, or life insurance.
+3 (c) The office of the state medical examiners shall, in the event of a multiple or mass
+4 fatality, after consultation with the lead investigative agency for the incident, have the authority to
+5 order the cremation of recovered comingled remains that were not genetically linked to any single
+6 decedent.
+7 23-4-11. Effects and property of deceased.
+8 An agent of the office of state medical examiners, as the case may be during the course of
+9 investigation of a death, may shall take into his or her their possession all articles and property of
+10 the deceased on or about the body as well as other items at the scene that are deemed relevant to
+11 the investigation and shall deliver them to the office of the chief state medical examiner examiners
+12 if an autopsy or a postmortem examination is ordered, will be performed. but shall otherwise deliver
+13 them to a member of the family taking a receipt for them. Provided, however, any The original or
+14 a copy of a letter, note, or any other written instrument, the contents of which relate to the manner
+15 or cause of the death of the deceased, shall be permanently retained in the files of the office. If an
+16 autopsy is ordered, the chief medical examiner shall upon completion of the investigation deliver
+17 all other articles or property to a member of the family of the deceased taking a receipt from that
+18 family member and, if any dispute exists among members of the family, he or she shall hold the
+19 other articles or property for the executor or administrator of the estate of the deceased when
+20 appointed. When a funeral home livery service picks up a decedent from the state morgue whose
+21 death was investigated by the office of state medical examiners, any personal property of the
+22 decedent that was removed prior to or during postmortem examination by the office of state medical
+23 examiners shall be released with the body except for personal property that is being held for law
+24 enforcement investigation of a crime. Prior to release, the funeral home livery personnel shall sign
+25 an itemized receipt of the decedent’s personal property in possession of the office of the state
+26 medical examiners. In the event that If death shall have occurred in a hotel or other public place
+27 where possessions of the deceased may be lying, an agent of the office of state medical examiners
+28 the responding law enforcement agency shall make suitable arrangements for the protection of the
+29 property.
+30 23-4-13. Establishment of fees.
+31 The director of the department of health shall is authorized to establish fees for autopsy
+32 copies of documents such as postmortem reports, cremation certificates, and statistics for
+33 authorization of cremations. The director shall is also authorized to establish and impose fees, at an
+34 hourly or daily rate, to give testimony in civil suits under this chapter. All fees are as set forth in §
+LC005345/SUB A - Page 14 of 16
+
+1 23-1-54. The director is authorized to establish in regulation reasonable fees for copies of additional
+2 documents or other case file contents or archive searches not otherwise specified in this section.
+3 All of these fees shall be collected and deposited as general revenues; provided, however, that no
+4 city or town Rhode Island state agency, or any agency office or department of a city and or town
+5 within the state, or the department of human services law enforcement agencies from other states,
+6 federal agencies, and hospitals licensed pursuant to chapter 17 of title 23 entitled by law to such
+7 documents or other case file contents, shall be required to pay any fees established by the director
+8 pursuant to this section.
+9 23-4-14. Preservation of reports — Tabular reports. Annual reports.
+10 The director of the department of health shall cause the returns received by the office of
+11 state medical examiners and reports made by that office on causes of death for each year, in
+12 accordance with this chapter, to be bound together with an index to the volume. The director of
+13 health in his or her capacity as ex officio state registrar shall prepare or cause to be prepared from
+14 the returns tabular results that will render them of practical utility, and shall annually report thereof
+15 in connection with the report of births, marriages, and deaths required by chapter 3 of this title. The
+16 office of the state medical examiners shall produce an annual statistical report of all deaths
+17 investigated after all cases are closed for a calendar year. The report shall be publicly posted.
+18 Annual reports generated shall be retained in keeping with the state’s retention schedule.
+19 23-4-15. Morgue.
+20 A centrally located An office and morgue shall be provided with laboratories, furniture the
+21 necessary staffing, equipment, records, and supplies that may be required in the to conduct the
+22 duties and obligations of the office of state medical examiners as described within this chapter,
+23 rules promulgated by the department, and in keeping with applicable accreditation requirements.
+24 SECTION 2. Section 23-4-12 of the General Laws in Chapter 23-4 entitled "Office of State
+25 Medical Examiners" is hereby repealed.
+26 23-4-12. Compensation for recovery of body from water.
+27 When services are rendered in bringing to land the dead body of a person found in any of
+28 the harbors, rivers, or waters of the state, compensation for services as he or she deemed reasonable
+29 may be allowed; but this privilege shall not entitle any person to compensation for services rendered
+30 in search for a dead body.
+31 SECTION 3. This act shall take effect upon passage.
+========
+LC005345/SUB A
+========
+LC005345/SUB A - Page 15 of 16
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE MEDICAL EXAMINERS
+***
+1 This act would clarify and update language in the office of state medical examiners statute
+2 to address outdated or ambiguous language, outdated practices, outdated position
+3 titles/qualifications, and ensure compliance with federal HIPAA requirements.
+4 This act would take effect upon passage.
+========
+LC005345/SUB A
+========
+LC005345/SUB A - Page 16 of 16

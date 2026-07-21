@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - 7380
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7380
+========
+LC004422
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO ELECTIONS -- CONDUCT OF ELECTION AND VOTING EQUIPMENT,
+AND SUPPLIES
+Introduced By: Representatives J. Brien, Corvese, Lima, Chippendale, Hopkins, and
+Newberry
+Date Introduced: January 28, 2026
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 17-19 of the General Laws entitled "Conduct of Election and Voting
+2 Equipment, and Supplies" is hereby amended by adding thereto the following section:
+3 17-19-24.4. Ranked choice voting prohibition.
+4 (a) In all elections, including primary elections, for any local, state, or federal public office,
+5 the following shall be prohibited:
+6 (1) Voting systems that permit a voter to vote for more than one candidate for the same
+7 office;
+8 (2) Voting systems that permit a voter to rank multiple candidates for the same office; and
+9 (3) Voting systems that reallocate a voter's vote for one candidate to another candidate for
+10 the same office.
+11 (b) Nothing in this section shall be construed to prevent a locality from holding at-large
+12 elections or multi-member district elections, as long as voters have one vote per position and no
+13 votes are transferred between candidates.
+14 (c) Any existing or future ordinance by any political subdivision of this state which is in
+15 conflict with this section is void.
+16 (d) Any election for any public office in this state conducted under a voting system
+17 prohibited by subsection (a) of this section is void, and no candidate shall be elected under such a
+18 system.
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC004422
+========
+LC004422 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- CONDUCT OF ELECTION AND VOTING EQUIPMENT,
+AND SUPPLIES
+***
+1 This act would prohibit the use of ranked choice voting in all local, state and federal public
+2 office elections.
+3 This act would take effect upon passage.
+========
+LC004422
+========
+LC004422 - Page 3 of 3

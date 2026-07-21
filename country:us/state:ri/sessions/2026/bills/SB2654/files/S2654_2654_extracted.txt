@@ -1,0 +1,250 @@
+Title: 
+Official Title: 
+Source: versions - 2654
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2654
+========
+LC005295
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- RHODE ISLAND CLEAN HEAT STANDARD
+ACT
+Introduced By: Senators Zurier, Kallman, DiMario, and Euer
+Date Introduced: February 27, 2026
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly hereby recognizes and declares that:
+3 (1) There is a need for obligated parties to reduce greenhouse gas emissions attributable to
+4 the Rhode Island thermal sector by retiring required amounts of clean heat credits to meet the
+5 emissions reductions required in the provisions of chapter 6.2 of title 42 ("act on climate").
+6 (2) The clean heat standard shall be designed and implemented to enhance social equity by
+7 minimizing adverse impacts to low-income and moderate-income customers and those households
+8 with the highest energy burdens. The design shall ensure all customers have an equitable
+9 opportunity to participate in, and benefit from, clean heat measures regardless of heating fuel used,
+10 income level, geographic location, or homeownership status.
+11 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+12 amended by adding thereto the following chapter:
+13 CHAPTER 23.8
+14 RHODE ISLAND CLEAN HEAT STANDARD ACT
+15 23-23.8-1. Short title.
+16 This chapter shall be known and may be cited as the "Rhode Island Clean Heat Standard
+17 Act."
+18 23-23.8-2. Definitions.
+
+1 As used in this chapter:
+2 (1) "Clean heat credit" means a tradeable, non-tangible commodity that represents the
+3 amount of greenhouse gas reduction caused by a clean heat measure.
+4 (2) "Clean heat measure" means fuel and technologies delivered and installed to end-use
+5 customers in Rhode Island that reduce greenhouse gas emissions. Clean heat measures shall not
+6 include switching from one fossil fuel use to another fossil fuel use, or the use of renewable natural
+7 gas or hydrogen. The council shall adopt a list of acceptable actions that qualify as clean heat
+8 measures, which shall include weatherization, air-source heat pumps, air-source heat pump water
+9 heaters, ground-source heat pumps, electric stoves, and electric dryers.
+10 (3) "Council" means the Rhode Island executive climate change coordinating council.
+11 (4) "Default delivery agent" means the entity designated by the council to provide services
+12 that generate tradeable clean heat credits.
+13 (5) Department of environmental management or DEM means the state government agency
+14 charged with supervising and controlling the protection, development, planning, and utilization of
+15 the natural resources of the state and of which the director is the chair of the executive climate
+16 change coordinating council.
+17 (6) "Energy burden" means the annual spending on thermal energy as a percentage of
+18 household income.
+19 (7) "Entity" means any individual, trustee, agency, partnership, association, corporation,
+20 company, municipality, political subdivision, or any other form of organization.
+21 (8) "Heating fuel" means fossil-based heating fuel, including oil, propane, natural gas, coal,
+22 and kerosene.
+23 (9) "Obligated party" means:
+24 (i) A natural gas utility, whether investor-owned or a municipal utility, serving customers
+25 in Rhode Island; or
+26 (ii) For other heating fuels, the entity that makes the first sale of heating fuel into or in the
+27 state for consumption within the state. Electricity suppliers shall not be obligated parties.
+28 (10) Office of energy resources or OER means the state agency charged with leading Rhode
+29 Island towards clean, affordable, reliable, and equitable energy future.
+30 (11) Public utilities commission or PUC means the agency that serves as a quasi-judicial
+31 tribunal with jurisdiction, powers, and duties to implement and enforce the standards of conduct
+32 under § 39-1-27.6 and to hold investigations and hearings involving the rates, tariffs, tolls, and
+33 charges, and the sufficiency and reasonableness of facilities and accommodations of railroad, ferry
+34 boats, gas, electric distribution, water, telephone, telegraph, and pipeline public utilities, the
+LC005295 - Page 2 of 8
+
+1 location of railroad depots and stations, and the control of grade crossings, the revocation,
+2 suspension or alteration of certificates issued pursuant to § 39-19-4, appeals under § 39-1-30,
+3 petitions under § 39-1-31, and proceedings under § 39-1-32.
+4 (12) "Thermal sector" means the residential, non-residential, commercial, and industrial
+5 fuel use sectors.
+6 (13) "Weatherized" and/or "weatherization" means the process of protecting a building and
+7 its interior from the elements, particularly from sunlight, precipitation, and wind, and of modifying
+8 a building to reduce energy consumption and optimize energy efficiency.
+9 23-23.8-3. Clean heat standard implementation.
+10 (a) Beginning no later than July 1, 2027, the department of environmental management
+11 shall begin promulgating rules and regulations to establish or adopt a system of tradeable clean heat
+12 credits earned from the delivery of clean heat measures that reduce greenhouse gas emissions. The
+13 department shall be the lead agency for rulemaking, enforcement, and emissions tracking, but shall
+14 work in coordination with the Office of energy resources (OER) and the public utilities commission
+15 (PUC). The OER shall provide technical assistance, modeling support, and guidance on eligible
+16 clean heat strategies and the PUC shall oversee utility cost recovery, ratepayer protections, and plan
+17 approvals.
+18 (b) The DEM shall make every effort to coordinate with energy efficiency programs to
+19 prioritize energy efficiency and weatherization first before implementing other clean heat
+20 measures. Clean heat measures shall be consistent with least cost procurement in § 39-1-27.7.
+21 (c) An obligated party may obtain the required amount of clean heat credits through
+22 delivery of eligible clean heat measures, through contracts for delivery of eligible clean heat
+23 measures, through the market purchase of clean heat credits, or through delivery of eligible clean
+24 heat measures by a designated statewide default delivery agent.
+25 (d) The DEM in coordination with the OER and PUC shall establish a system of recognition
+26 for clean heat credits pursuant to this section.
+27 23-23.8-4. Compliance with the clean heat standard.
+28 (a) Required amounts:
+29 (1) The DEM shall establish the number of clean heat credits that each obligated party is
+30 required to retire each calendar year. The size of the annual requirement shall be set at a pace
+31 sufficient for the thermal sector to achieve lifecycle carbon dioxide equivalent (CO e) emission
+2
+32 reductions consistent with chapter 6.2 of title 42 for 2030, 2040, and 2050.
+33 (2) Annual requirements shall be expressed as a percent of each obligated party's
+34 contribution to the thermal sector's lifecycle CO e emissions in the previous year with the annual
+2
+LC005295 - Page 3 of 8
+
+1 percentages being the same for all parties.
+2 (3) The DEM may adjust the annual requirements for good cause after notice and
+3 opportunity for public process. Good cause may include a shortage of clean heat credits or undue
+4 adverse financial impacts on particular customers or demographic segments. Any downward
+5 adjustment shall be allowed for only a short, temporary period.
+6 (b) Annual registrations:
+7 (1) The DEM shall require registration information to include legal name, doing business
+8 as name if applicable, municipality, state, type of heating fuel sold, and the volume of sales of
+9 heating fuels into or in the state for final sale or consumption in the state in the calendar year
+10 immediately preceding the calendar year in which the entity is registering with the council.
+11 (2) The DEM shall maintain, and update annually, a list of registered entities on its website
+12 that contains the required registration information, except that the public list shall not include
+13 heating fuel volumes reported.
+14 (3) For any entity not registered, the first registration form shall be due thirty (30) days
+15 after the first sale of heating fuel to a location in Rhode Island.
+16 (4) Clean heat requirements shall transfer to entities that acquire an obligated party.
+17 (c) Equitable distribution of clean heat measures: A substantial portion of clean heat credits
+18 retired by each obligated party shall be sourced from clean heat measures delivered to low-income
+19 and moderate-income customers. The portion of each obligated party's required amount needed to
+20 satisfy the annual clean heat standard requirement shall be at least twenty percent (20%) from low-
+21 income customers and twenty percent (20%) from moderate-income customers, as those terms are
+22 defined in § 39-26.4-2.
+23 (d) Compliance of obligated parties with the clean heat standard shall begin by July 1,
+24 2028.
+25 23-23.8-5. Authority.
+26 (a) The DEM shall designate the default delivery agent. The default delivery agent shall be
+27 a single statewide entity capable of providing a variety of clean heat measures and contracted for a
+28 multi-year period through a competitive procurement process. The entity selected as the default
+29 delivery agent may also be a market participant; provided that, it shall not be an obligated party.
+30 (b) The DEM shall adopt annually the cost per clean heat credit to be paid to the default
+31 delivery agent by an obligated party that chooses this option. In adjusting the default delivery agent
+32 credit cost, the council shall consider the default delivery agent's anticipated costs to deliver clean
+33 heat measures and costs borne by customers, among other factors determined by the council.
+34 Changes to the cost of credits shall take effect not less than one hundred eighty (180) days after
+LC005295 - Page 4 of 8
+
+1 adoption.
+2 (c) All funds received from noncompliance payments pursuant to subsection (d) of this
+3 section shall be used by the default delivery agent to provide clean heat measures to low-income
+4 customers.
+5 (d) The DEM shall order an obligated party that fails to retire the number of clean heat
+6 credits required in a given year, including the required amounts from low-income and moderate-
+7 income customers, to make a noncompliance payment to the default delivery agent. The per-credit
+8 amount sf the noncompliance payment shall be three (3) times the amount established by the
+9 council under this section for timely per-credit payments to the default delivery agent.
+10 (e) The DEM is granted any additional authority to implement this section, and any rules,
+11 regulations or orders adopted to implement the provisions of this section, as may be necessary
+12 beyond its existing authorities including, but not limited to, issuing procedures, promulgating
+13 regulations, consulting with stakeholders, conducting public engagement, ordering penalties and
+14 injunctive relief , and contracting as appropriate to support administration of responsibilities under
+15 this chapter.
+16 23-23.8-6. Tradeable clean heat credit.
+17 (a) The department of environmental management shall establish or adopt a system of
+18 tradeable clean heat credits that may be earned by reducing greenhouse gas emissions through the
+19 delivery of clean heat measures. While credit denominations may be in simple terms for public
+20 understanding and ease of use, the underlying value shall be based on units of carbon dioxide
+21 equivalent (CO e). The system shall provide a process for the recognition, approval, and monitoring
+2
+22 of the clean heat credits. The council shall perform the verification of clean heat credit claims.
+23 (b) Clean heat credits shall be based on the lifecycle CO e emission reductions that result
+2
+24 from the delivery of eligible clean heat measures to end-use customer locations in Rhode Island.
+25 For clean heat measures that are installed, the value of the clean heat credits in each year shall be
+26 the lifecycle CO e emissions of the heating fuel avoided by the installation of the measure, minus
+2
+27 the lifecycle CO e emissions of the energy that is used instead.
+2
+28 (c) To promote certainty for obligated parties and clean heat providers, the DEM shall, by
+29 rule, regulation or order, establish a schedule of lifecycle emission rates for heating fuels and
+30 eligible clean heat measures. The schedule shall be based on transparent and accurate emissions
+31 accounting adapting the Argonne National Laboratory GREET Model, Intergovernmental Panel on
+32 Climate Change (IPCC) modeling, or an alternative of comparable analytical rigor to achieve the
+33 thermal sector greenhouse gas emissions reductions necessary to meet the sector's share of
+34 greenhouse gas reduction requirements to accurately account for emissions from biogenic and
+LC005295 - Page 5 of 8
+
+1 geologic sources, and to deter substantial unintended harmful consequences. The schedule may be
+2 amended based upon changes in technology or evidence on emissions; provided, however, that
+3 clean heat credits previously awarded shall not be adjusted retroactively.
+4 (d) Clean heat credits shall be "time stamped" for the year in which the clean heat measure
+5 is delivered as well as each subsequent year during which the measure produces emission
+6 reductions. Only clean heat credits with the current year time stamp, and credits banked from
+7 previous years, shall be eligible to satisfy the current year obligation.
+8 (e) Clean heat credits can be earned only in proportion to the deemed or measured thermal
+9 sector greenhouse gas emission reductions achieved by a clean heat measure delivered in Rhode
+10 Island. Other emissions offsets, wherever located, shall not be eligible measures.
+11 (f) All eligible clean heat measures that are delivered in Rhode Island shall be eligible for
+12 clean heat credits and may be retired and count towards an obligated party's emission reduction
+13 obligations, regardless of who creates or delivers them and regardless of whether their creation or
+14 delivery was required by other state policies and programs. The council shall determine whether
+15 the total value of a clean heat credit for an installed measure shall be claimed in the year it is
+16 installed or whether the annual value of that credit shall be applied each year of the measure's life.
+17 The DEM shall determine whether to require a certain portion of clean heat credits to be acquired
+18 each year from weatherization projects to further the state's building efficiency goals and shall
+19 recommend legislative changes, if needed, to accomplish this.
+20 (g) The DEM shall create a registration system to lower administrative barriers to
+21 individuals and businesses seeking to register qualified actions eligible to earn clean heat credits
+22 and to facilitate the transfer of credits to obligated parties. The DEM may hire a third-party
+23 consultant to evaluate, develop, implement, maintain, and support a database or other means for
+24 tracking clean heat credits and compliance with the annual requirements of obligated parties. The
+25 system shall require entities to submit the following information to receive the credit: the location
+26 of the clean heat measure, whether the customer or tenant has a low- or moderate-income, the type
+27 of property where the clean heat measure was installed or sold, the type of clean heat measure, and
+28 any other information as required by the council.
+29 (h)(1) If any provision of this section or its application are held invalid or in violation of
+30 the Constitution or laws of the United States or Rhode Island, the invalidity or the violation shall
+31 not affect other provisions of this section that can be given effect without the invalid provision or
+32 application, and to this end, the provisions of this section are severable.
+33 (2) Within ninety (90) days following the effective date of this chapter, the council shall
+34 commence any necessary proceedings to implement this chapter.
+LC005295 - Page 6 of 8
+
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC005295
+========
+LC005295 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- RHODE ISLAND CLEAN HEAT STANDARD
+ACT
+***
+1 This act would establish the Rhode Island clean heat standards program to implement a
+2 system of tradeable clean heat credits earned from the delivery of clean heat measures that reduce
+3 greenhouse gas emissions. Compliance of obligated parties with the clean heat standard shall begin
+4 by July 1, 2028.
+5 This act would take effect upon passage.
+========
+LC005295
+========
+LC005295 - Page 8 of 8

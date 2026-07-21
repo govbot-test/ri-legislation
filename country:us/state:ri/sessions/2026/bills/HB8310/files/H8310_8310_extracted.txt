@@ -1,0 +1,296 @@
+Title: 
+Official Title: 
+Source: versions - 8310
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8310
+========
+LC006085
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES --
+HEALTHCARE PROVIDER CREDENTIALING
+Introduced By: Representatives Place, Hopkins, Santucci, Kislak, McNamara, Cotter,
+Shanley, Stewart, Noret, and Knight
+Date Introduced: March 18, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-18-83 of the General Laws in Chapter 27-18 entitled "Accident
+2 and Sickness Insurance Policies" is hereby amended to read as follows:
+3 27-18-83. Healthcare provider credentialing.
+4 (a) For applications received on or after January 1, 2018, a healthcare entity or health plan
+5 operating in the state shall be required to issue a decision regarding the credentialing of a healthcare
+6 provider as soon as practicable, but no later than forty-five (45) thirty (30) calendar days after the
+7 date of receipt of a complete credentialing application. For any provider already credentialed with
+8 Medicare, the timeline shall be ten (10) business days.
+9 (b) For minor changes to the demographic information of an individual healthcare provider
+10 who is already credentialed with a particular healthcare entity or health plan, such healthcare entity
+11 or health plan shall complete such change within seven (7) five (5) business days of receipt of the
+12 healthcare provider’s request. Minor changes to demographic information requested by individual
+13 providers shall be submitted in the timeframe, and manner required by the healthcare entity or
+14 health plan, and shall include all supporting documentation required by the particular healthcare
+15 entity or health plan. For purposes of this section, minor changes to the information profile of a
+16 healthcare provider shall include, but not be limited to, changes of address and changes to a
+17 healthcare provider’s tax identification number.
+18 (c) Each healthcare entity or health plan shall establish a written standard defining what
+
+1 elements constitute a complete credentialing application and shall distribute this standard with the
+2 written version of the credentialing application and make such standard available on the healthcare
+3 entity’s or health plan’s website. If the payer fails to meet the timeline in subsection (a) of this
+4 section, the provider shall be deemed provisionally credentialed, and the payer shall reimburse the
+5 provider retroactively for all covered services rendered from the date the completed application
+6 was received.
+7 (d) Each healthcare entity or health plan shall respond to inquiries by the applicant
+8 regarding the status of an application.
+9 (1) Each healthcare entity or health plan shall provide the applicant with automated
+10 application status updates, at least once every fifteen (15) calendar days, informing the applicant of
+11 any missing application materials until the application is deemed complete;
+12 (2) Each healthcare entity or health plan shall inform the applicant within five (5) business
+13 days that the credentialing application is complete; and
+14 (3) If the healthcare entity or health plan denies a credentialing application, the healthcare
+15 entity or health plan shall notify the healthcare provider in writing and shall provide the healthcare
+16 provider with any and all reasons for denying the credentialing application.
+17 (e) The effective date for billing privileges for healthcare providers under a particular
+18 healthcare entity or health plan shall be the next business day following the date of approval of the
+19 credentialing application.
+20 (f) For applications received from resident graduates on or after January 1, 2018, a
+21 healthcare entity or health plan shall offer a transitional or conditional approval process such that a
+22 resident graduate who has submitted an otherwise complete application and met all other criteria,
+23 may be conditionally approved, effective upon successful graduation from the training program.
+24 (g) For the purposes of this section, the following definitions apply:
+25 (1) “Complete credentialing application” means all the requested material has been
+26 submitted.
+27 (2) “Date of receipt” means the date the healthcare entity or health plan receives the
+28 completed credentialing application whether via electronic submission or as a paper application.
+29 (3) “Healthcare entity” means a licensed insurance company or nonprofit hospital or
+30 medical or dental service corporation or plan or health maintenance organization, or a contractor
+31 as defined in § 23-17.13-2 [repealed] that operates a health plan.
+32 (4) “Healthcare provider” means a healthcare professional.
+33 (5) “Health plan” means a plan operated by a healthcare entity that provides for the delivery
+34 of healthcare services to persons enrolled in those plans through:
+LC006085 - Page 2 of 9
+
+1 (i) Arrangements with selected providers to furnish healthcare services; and
+2 (ii) Financial incentives for persons enrolled in the plan to use the participating providers
+3 and procedures provided for by the health plan.
+4 (h) The office of the health insurance commissioner shall enforce the provisions of this
+5 chapter and may impose administrative penalties consistent with its existing authority under title
+6 27. Non-compliant contract provisions are void. The commissioner shall adopt rules and
+7 regulations to implement this chapter and shall require payers to submit quarterly reports on
+8 credentialing timelines.
+9 SECTION 2. Section 27-19-74 of the General Laws in Chapter 27-19 entitled "Nonprofit
+10 Hospital Service Corporations" is hereby amended to read as follows:
+11 27-19-74. Healthcare provider credentialing.
+12 (a) For applications received on or after January 1, 2018, a healthcare entity or health plan
+13 operating in the state shall be required to issue a decision regarding the credentialing of a healthcare
+14 provider as soon as practicable, but no later than forty-five (45) thirty (30) calendar days after the
+15 date of receipt of a complete credentialing application. For any provider already credentialed with
+16 Medicare, the timeline shall be ten (10) business days.
+17 (b) For minor changes to the demographic information of an individual healthcare provider
+18 who is already credentialed with a particular healthcare entity or health plan, such healthcare entity
+19 or health plan shall complete such change within seven (7) five (5) business days of receipt of the
+20 healthcare provider’s request. Minor changes to demographic information requested by individual
+21 providers shall be submitted in the timeframe, and manner required by the healthcare entity or
+22 health plan, and shall include all supporting documentation required by the particular healthcare
+23 entity or health plan. For purposes of this section, minor changes to the information profile of a
+24 healthcare provider shall include, but not be limited to, changes of address and changes to a
+25 healthcare provider’s tax identification number.
+26 (c) Each healthcare entity or health plan shall establish a written standard defining what
+27 elements constitute a complete credentialing application and shall distribute this standard with the
+28 written version of the credentialing application and make such standard available on the healthcare
+29 entity’s or health plan’s website. If the payer fails to meet the timeline in subsection (a) of this
+30 section, the provider shall be deemed provisionally credentialed, and the payer shall reimburse the
+31 provider retroactively for all covered services rendered from the date the completed application
+32 was received.
+33 (d) Each healthcare entity or health plan shall respond to inquiries by the applicant
+34 regarding the status of an application.
+LC006085 - Page 3 of 9
+
+1 (1) Each healthcare entity or health plan shall provide the applicant with automated
+2 application status updates, at least once every fifteen (15) calendar days, informing the applicant of
+3 any missing application materials until the application is deemed complete;
+4 (2) Each healthcare entity or health plan shall inform the applicant within five (5) business
+5 days that the credentialing application is complete; and
+6 (3) If the healthcare entity or health plan denies a credentialing application, the healthcare
+7 entity or health plan shall notify the healthcare provider in writing and shall provide the healthcare
+8 provider with any and all reasons for denying the credentialing application.
+9 (e) The effective date for billing privileges for healthcare providers under a particular
+10 healthcare entity or health plan shall be the next business day following the date of approval of the
+11 credentialing application.
+12 (f) For applications received from resident graduates on or after January 1, 2018, a
+13 healthcare entity or health plan shall offer a transitional or conditional approval process such that a
+14 resident graduate who has submitted an otherwise complete application and met all other criteria,
+15 may be conditionally approved, effective upon successful graduation from the training program.
+16 (g) For the purposes of this section, the following definitions apply:
+17 (1) “Complete credentialing application” means all the requested material has been
+18 submitted.
+19 (2) “Date of receipt” means the date the healthcare entity or health plan receives the
+20 completed credentialing application whether via electronic submission or as a paper application.
+21 (3) “Healthcare entity” means a licensed insurance company or nonprofit hospital or
+22 medical or dental service corporation or plan or health maintenance organization, or a contractor
+23 as defined in § 23-17.13-2 [repealed] that operates a health plan.
+24 (4) “Healthcare provider” means a healthcare professional.
+25 (5) “Health plan” means a plan operated by a healthcare entity that provides for the delivery
+26 of healthcare services to persons enrolled in those plans through:
+27 (i) Arrangements with selected providers to furnish healthcare services; and
+28 (ii) Financial incentives for persons enrolled in the plan to use the participating providers
+29 and procedures provided for by the health plan.
+30 (h) The office of the health insurance commissioner shall enforce the provisions of this
+31 chapter and may impose administrative penalties consistent with its existing authority under title
+32 27. Non-compliant contract provisions are void. The commissioner shall adopt rules and
+33 regulations to implement this chapter and shall require payers to submit quarterly reports on
+34 credentialing timelines.
+LC006085 - Page 4 of 9
+
+1 SECTION 3. Section 27-20-70 of the General Laws in Chapter 27-20 entitled "Nonprofit
+2 Medical Service Corporations" is hereby amended to read as follows:
+3 27-20-70. Healthcare provider credentialing.
+4 (a) For applications received on or after January 1, 2018, a healthcare entity or health plan
+5 operating in the state shall be required to issue a decision regarding the credentialing of a healthcare
+6 provider as soon as practicable, but no later than forty-five (45) thirty (30) calendar days after the
+7 date of receipt of a complete credentialing application. For any provider already credentialed with
+8 Medicare, the timeline shall be ten (10) business days.
+9 (b) For minor changes to the demographic information of an individual healthcare provider
+10 who is already credentialed with a particular healthcare entity or health plan, the healthcare entity
+11 or health plan shall complete the change within seven (7) five (5) business days of receipt of the
+12 healthcare provider’s request. Minor changes to demographic information requested by individual
+13 providers shall be submitted in the timeframe, and manner required by the healthcare entity or
+14 health plan, and shall include all supporting documentation required by the particular healthcare
+15 entity or health plan. For purposes of this section, minor changes to the information profile of a
+16 healthcare provider shall include, but not be limited to, changes of address and changes to a
+17 healthcare provider’s tax identification number.
+18 (c) Each healthcare entity or health plan shall establish a written standard defining what
+19 elements constitute a complete credentialing application and shall distribute this standard with the
+20 written version of the credentialing application and make the standard available on the healthcare
+21 entity’s or health plan’s website. If the payer fails to meet the timeline in subsection (a) of this
+22 section, the provider shall be deemed provisionally credentialed, and the payer shall reimburse the
+23 provider retroactively for all covered services rendered from the date the completed application
+24 was received.
+25 (d) Each healthcare entity or health plan shall respond to inquiries by the applicant
+26 regarding the status of an application.
+27 (1) Each healthcare entity or health plan shall provide the applicant with automated
+28 application status updates, at least once every fifteen (15) calendar days, informing the applicant of
+29 any missing application materials until the application is deemed complete;
+30 (2) Each healthcare entity or health plan shall inform the applicant within five (5) business
+31 days that the credentialing application is complete; and
+32 (3) If the healthcare entity or health plan denies a credentialing application, the healthcare
+33 entity or health plan shall notify the healthcare provider in writing and shall provide the healthcare
+34 provider with any and all reasons for denying the credentialing application.
+LC006085 - Page 5 of 9
+
+1 (e) The effective date for billing privileges for healthcare providers under a particular
+2 healthcare entity or health plan shall be the next business day following the date of approval of the
+3 credentialing application.
+4 (f) For applications received from resident graduates on or after January 1, 2018, a
+5 healthcare entity or health plan shall offer a transitional or conditional approval process such that a
+6 resident graduate who has submitted an otherwise complete application and met all other criteria,
+7 may be conditionally approved, effective upon successful graduation from the training program.
+8 (g) For the purposes of this section, the following definitions apply:
+9 (1) “Complete credentialing application” means all the requested material has been
+10 submitted.
+11 (2) “Date of receipt” means the date the healthcare entity or health plan receives the
+12 completed credentialing application whether via electronic submission or as a paper application.
+13 (3) “Healthcare entity” means a licensed insurance company or nonprofit hospital or
+14 medical or dental service corporation or plan or health maintenance organization, or a contractor
+15 as defined in § 23-17.13-2 [repealed] that operates a health plan.
+16 (4) “Healthcare provider” means a healthcare professional.
+17 (5) “Health plan” means a plan operated by a healthcare entity that provides for the delivery
+18 of healthcare services to persons enrolled in those plans through:
+19 (i) Arrangements with selected providers to furnish healthcare services; and
+20 (ii) Financial incentives for persons enrolled in the plan to use the participating providers
+21 and procedures provided for by the health plan.
+22 (h) The office of the health insurance commissioner shall enforce the provisions of this
+23 chapter and may impose administrative penalties consistent with its existing authority under title
+24 27. Non-compliant contract provisions are void. The commissioner shall adopt rules and
+25 regulations to implement this chapter and shall require payers to submit quarterly reports on
+26 credentialing timelines.
+27 SECTION 4. Section 27-41-87 of the General Laws in Chapter 27-41 entitled "Health
+28 Maintenance Organizations" is hereby amended to read as follows:
+29 27-41-87. Healthcare provider credentialing.
+30 (a) For applications received on or after January 1, 2018, a healthcare entity or health plan
+31 operating in the state shall be required to issue a decision regarding the credentialing of a healthcare
+32 provider as soon as practicable, but no later than forty-five (45) thirty (30) calendar days after the
+33 date of receipt of a complete credentialing application. For any provider already credentialed with
+34 Medicare, the timeline shall be ten (10) business days.
+LC006085 - Page 6 of 9
+
+1 (b) For minor changes to the demographic information of an individual healthcare provider
+2 who is already credentialed with a particular healthcare entity or health plan, the healthcare entity
+3 or health plan shall complete the change within seven (7) five (5) business days of receipt of the
+4 healthcare provider’s request. Minor changes to demographic information requested by individual
+5 providers shall be submitted in the time frame, and manner required by the healthcare entity or
+6 health plan, and shall include all supporting documentation required by the particular healthcare
+7 entity or health plan. For purposes of this section, minor changes to the information profile of a
+8 healthcare provider shall include, but not be limited to, changes of address and changes to a
+9 healthcare provider’s tax identification number.
+10 (c) Each healthcare entity or health plan shall establish a written standard defining what
+11 elements constitute a complete credentialing application and shall distribute this standard with the
+12 written version of the credentialing application and make the standard available on the healthcare
+13 entity’s or health plan’s website. If the payer fails to meet the timeline in subsection (a) of this
+14 section, the provider shall be deemed provisionally credentialed, and the payer shall reimburse the
+15 provider retroactively for all covered services rendered from the date the completed application
+16 was received.
+17 (d) Each healthcare entity or health plan shall respond to inquiries by the applicant
+18 regarding the status of an application.
+19 (1) Each healthcare entity or health plan shall provide the applicant with automated
+20 application status updates, at least once every fifteen (15) calendar days, informing the applicant of
+21 any missing application materials until the application is deemed complete;
+22 (2) Each healthcare entity or health plan shall inform the applicant within five (5) business
+23 days that the credentialing application is complete; and
+24 (3) If the healthcare entity or health plan denies a credentialing application, the healthcare
+25 entity or health plan shall notify the healthcare provider in writing and shall provide the healthcare
+26 provider with any and all reasons for denying the credentialing application.
+27 (e) The effective date for billing privileges for healthcare providers under a particular
+28 healthcare entity or health plan shall be the next business day following the date of approval of the
+29 credentialing application.
+30 (f) For applications received from resident graduates on or after January 1, 2018, a
+31 healthcare entity or health plan shall offer a transitional or conditional approval process such that a
+32 resident graduate who has submitted an otherwise complete application and met all other criteria,
+33 may be conditionally approved, effective upon successful graduation from the training program.
+34 (g) For the purposes of this section, the following definitions apply:
+LC006085 - Page 7 of 9
+
+1 (1) “Complete credentialing application” means all the requested material has been
+2 submitted.
+3 (2) “Date of receipt” means the date the healthcare entity or health plan receives the
+4 completed credentialing application whether via electronic submission or as a paper application.
+5 (3) “Healthcare entity” means a licensed insurance company or nonprofit hospital or
+6 medical or dental service corporation or plan or health maintenance organization, or a contractor
+7 as defined in § 23-17.13-2 [repealed] that operates a health plan.
+8 (4) “Healthcare provider” means a healthcare professional.
+9 (5) “Health plan” means a plan operated by a healthcare entity that provides for the delivery
+10 of healthcare services to persons enrolled in those plans through:
+11 (i) Arrangements with selected providers to furnish healthcare services; and
+12 (ii) Financial incentives for persons enrolled in the plan to use the participating providers
+13 and procedures provided for by the health plan.
+14 (h) The office of the health insurance commissioner shall enforce the provisions of this
+15 chapter and may impose administrative penalties consistent with its existing authority under title
+16 27. Non-compliant contract provisions are void. The commissioner shall adopt rules and
+17 regulations to implement this chapter and shall require payers to submit quarterly reports on
+18 credentialing timelines.
+19 SECTION 5. This act shall take effect upon passage.
+========
+LC006085
+========
+LC006085 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES --
+HEALTHCARE PROVIDER CREDENTIALING
+***
+1 This act would amend the timelines related to healthcare provider credentialing.
+2 This act would take effect upon passage.
+========
+LC006085
+========
+LC006085 - Page 9 of 9

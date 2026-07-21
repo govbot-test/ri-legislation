@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - 3256
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3256
+========
+LC005968
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PUBLIC HEALTH DATA PRIVACY AND
+PROTECTION ACT
+Introduced By: Senators Burke, and Sosnowski
+Date Introduced: May 05, 2026
+Referred To: Senate Health & Human Services
+(Dept. of Health)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 106
+4 PUBLIC HEALTH DATA PRIVACY AND PROTECTION ACT
+5 23-106-1. Definitions.
+6 For purposes of this chapter:
+7 (1) “De-identified data” means data from which identifiers have been removed in
+8 accordance with applicable state and federal standards such that the data cannot reasonably be used
+9 to identify an individual.
+10 (2) “Line-level data” means reportable disease data that includes direct or indirect
+11 identifiers, or that can reasonably be used to identify an individual case, contact, or reporting entity.
+12 Individual-level or line-level data can also be known as record-level data.
+13 (3) “Public health purpose” means activities necessary to prevent or control disease, injury,
+14 or disability including, but not limited to public health surveillance, investigation, outbreak
+15 response, intervention, and evaluation.
+16 (4) “Reportable disease data” means any information, record, laboratory result, medical
+17 record, or other data collected or maintained by Rhode Island department of health (“department”)
+18 pursuant to state law or regulation for the purpose of disease reporting, surveillance, investigation,
+
+1 control, or prevention.
+2 23-106-2. Confidentiality of reportable disease data.
+3 (a) All reportable disease data, including line-level data, in the possession or control of the
+4 department shall be confidential and shall not be considered a public record.
+5 (b) Such data shall not be disclosed, subpoenaed, or otherwise released except as expressly
+6 authorized in § 23-106-3 or as required by federal law.
+7 (c) The confidentiality protections in this section apply regardless of the format of the data,
+8 including paper records, electronic records, and databases.
+9 23-106-3. Authority and permitted releases.
+10 (a) The Rhode Island department of health is the sole authority responsible for determining
+11 access to, confidentiality of, and release of reportable disease data. No other state agency, political
+12 subdivision, or entity shall release reportable disease line-level data without written authorization
+13 by the department.
+14 (b) The department may release de-identified reportable disease line-level data only when
+15 necessary for a public health purpose, including:
+16 (1) Sharing with other local, state, tribal, territorial, or federal public health authorities
+17 (including the Centers for Disease Control and Prevention) for surveillance, investigation, or
+18 control activities;
+19 (2) Sharing with healthcare facilities, laboratories, or providers as needed for case
+20 management, outbreak control, or prevention;
+21 (3) Sharing with researchers or partners pursuant to a department-approved data use
+22 agreement that limits use to a public health purpose and prohibits re-identification or re-disclosure;
+23 or
+24 (4) As otherwise required by federal law.
+25 (c) The department may release de-identified data or aggregate statistical reports when the
+26 department determines such release is in the public interest and does not create a reasonable risk of
+27 re-identification.
+28 23-106-4. Limitations on disclosure.
+29 (a) Line-level reportable disease data shall not be released for purposes unrelated to public
+30 health, including litigation, commercial purposes, or general public records requests.
+31 (b) Any recipient of line-level data must comply with department conditions for use,
+32 security, retention, and destruction, as set forth in a department data use agreement or equivalent
+33 written instrument.
+34 (c) Persons authorized by the director may conduct research studies pursuant to 216 RICR
+LC005968 - Page 2 of 4
+
+1 30-05-1; provided, however, that the researcher shall submit a written request for information, shall
+2 execute a research agreement that protects the confidentiality of the information provided and
+3 obtain any relative human subjects approval.
+4 (d) The department may enter into collaborative agreements with registries of states and
+5 exchange individual or group information provided that maximum protections are afforded the
+6 confidentiality of citizens of Rhode Island in accordance with state law.
+7 (e) Immunization information, obtained pursuant to § 23-1-44, shall only be released from
+8 the immunization registry to the following individuals and agencies, unless the registrant, or the
+9 parent or guardian if the registrant is a minor, objects to such disclosure. All such disclosures shall
+10 comply with the privacy protections of chapter 37.3 of title 5 and the Health Insurance Portability
+11 and Accountability Act of 1996, Pub. L. No. 104-191 (HIPAA), as amended and all other applicable
+12 state and federal laws:
+13 (1) Licensed health care providers providing direct care to the registrant-patient;
+14 (2) Elementary and secondary school nurses and institutions of higher education, and
+15 registration officials who require proof of immunization for school enrollment and disease control;
+16 (3) State Women Infants and Children, or WIC, nutrition program staff who administer
+17 WIC benefits to eligible infants and children;
+18 (4) Staff of state agencies or state programs whose duties include education and outreach
+19 related to the improvement of immunization coverage rates;
+20 (5) Health plans for immunization rate improvement and quality improvement efforts; and
+21 (6) Any other entity with the express written consent of the registrant or the registrant’s
+22 parent or guardian if the registrant is a minor.
+23 (f) Notwithstanding the provisions of subsection (e) of this section;
+24 (1) Persons authorized by the director may conduct research studies pursuant to § 23-1-
+25 18(10); provided, however, the researcher shall submit a written request for information, shall
+26 execute a research agreement that protects the confidentiality of the information provided, and
+27 obtain any relative human subject’s approval.
+28 (2) The department may enter into collaborative agreements with registries of other states
+29 and exchange individual or group information provided that maximum protections are afforded the
+30 confidentiality of registrant information in accordance with state and federal law.
+31 SECTION 2. This act shall take effect upon passage.
+========
+LC005968
+========
+LC005968 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PUBLIC HEALTH DATA PRIVACY AND
+PROTECTION ACT
+***
+1 Thia act would create the public health data privacy and protection act to regulate the
+2 reporting of information relating to reportable disease data in the possession of the department of
+3 health.
+4 This act would take effect upon passage.
+========
+LC005968
+========
+LC005968 - Page 4 of 4

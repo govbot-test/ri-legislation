@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - 7816
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7816
+========
+LC005053
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Introduced By: Representative Charlene Lima
+Date Introduced: February 26, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 27-18 of the General Laws entitled "Accident and Sickness Insurance
+2 Policies" is hereby amended by adding thereto the following section:
+3 27-18-96. Coverage denial justification and notification.
+4 (a) Notwithstanding any other provision of law, a pharmacy benefit manager as defined in
+5 § 27-18-33.2 shall not deny coverage for a prescription drug without first providing a written notice
+6 containing a medically sound justification for the denial, delivered simultaneously to both the
+7 prescribing provider and the patient. The notice shall include sufficient detail to permit the provider
+8 and patient to understand the basis for denial and, if appropriate, submit an appeal or request for
+9 prior authorization.
+10 (1) Medical oversight requirement. Any medically sound justification required under this
+11 section must be provided or reviewed by a licensed physician, licensed pharmacist, or other health
+12 care professional authorized under Rhode Island law to provide such clinical determinations, and
+13 the name and license information of the reviewing professional must be included in the written
+14 notice.
+15 (2) Definition of medically sound justification. For purposes of this section, "medically
+16 sound justification" means a reason based on recognized clinical standards or evidence-based
+17 guidelines appropriate to the patient’s condition.
+18 (3) Plan compliance. Nothing in this section shall prevent a pharmacy benefit manager
+19 from denying coverage in accordance with the terms of the insurance plan or prescription drug
+
+1 benefit contract; provided that, the written justification requirement and medical oversight
+2 requirements are met.
+3 SECTION 2. Chapter 27-19 of the General Laws entitled "Nonprofit Hospital Service
+4 Corporations" is hereby amended by adding thereto the following section:
+5 27-19-88. Coverage denial justification and notification.
+6 (a) Notwithstanding any other provision of law, a pharmacy benefit manager as defined in
+7 § 27-19-26.2 shall not deny coverage for a prescription drug without first providing a written notice
+8 containing a medically sound justification for the denial, delivered simultaneously to both the
+9 prescribing provider and the patient. The notice shall include sufficient detail to permit the provider
+10 and patient to understand the basis for denial and, if appropriate, submit an appeal or request for
+11 prior authorization.
+12 (1) Medical oversight requirement. Any medically sound justification required under this
+13 section must be provided or reviewed by a licensed physician, licensed pharmacist, or other health
+14 care professional authorized under Rhode Island law to provide such clinical determinations, and
+15 the name and license information of the reviewing professional must be included in the written
+16 notice.
+17 (2) Definition of medically sound justification. For purposes of this section, "medically
+18 sound justification" means a reason based on recognized clinical standards or evidence-based
+19 guidelines appropriate to the patient’s condition.
+20 (3) Plan compliance. Nothing in this section shall prevent a pharmacy benefit manager
+21 from denying coverage in accordance with the terms of the insurance plan or prescription drug
+22 benefit contract; provided that, the written justification requirement and medical oversight
+23 requirements are met.
+24 SECTION 3. Chapter 27-20 of the General Laws entitled "Nonprofit Medical Service
+25 Corporations" is hereby amended by adding thereto the following section:
+26 27-20-84. Coverage denial justification and notification.
+27 (a) Notwithstanding any other provision of law, a pharmacy benefit manager as defined in
+28 § 27-20-23.2 shall not deny coverage for a prescription drug without first providing a written notice
+29 containing a medically sound justification for the denial, delivered simultaneously to both the
+30 prescribing provider and the patient. The notice shall include sufficient detail to permit the provider
+31 and patient to understand the basis for denial and, if appropriate, submit an appeal or request for
+32 prior authorization.
+33 (1) Medical oversight requirement. Any medically sound justification required under this
+34 section must be provided or reviewed by a licensed physician, licensed pharmacist, or other health
+LC005053 - Page 2 of 4
+
+1 care professional authorized under Rhode Island law to provide such clinical determinations, and
+2 the name and license information of the reviewing professional must be included in the written
+3 notice.
+4 (2) Definition of medically sound justification. For purposes of this section, "medically
+5 sound justification" means a reason based on recognized clinical standards or evidence-based
+6 guidelines appropriate to the patient’s condition.
+7 (3) Plan compliance. Nothing in this section shall prevent a pharmacy benefit manager
+8 from denying coverage in accordance with the terms of the insurance plan or prescription drug
+9 benefit contract; provided that, the written justification requirement and medical oversight
+10 requirements are met.
+11 SECTION 4. Chapter 27-41 of the General Laws entitled "Health Maintenance
+12 Organizations" is hereby amended by adding thereto the following section:
+13 27-41-101. Coverage denial justification and notification.
+14 (a) Notwithstanding any other provision of law, a pharmacy benefit manager as defined in
+15 § 27-41-38.2 shall not deny coverage for a prescription drug without first providing a written notice
+16 containing a medically sound justification for the denial, delivered simultaneously to both the
+17 prescribing provider and the patient. The notice shall include sufficient detail to permit the provider
+18 and patient to understand the basis for denial and, if appropriate, submit an appeal or request for
+19 prior authorization.
+20 (1) Medical oversight requirement. Any medically sound justification required under this
+21 section must be provided or reviewed by a licensed physician, licensed pharmacist, or other health
+22 care professional authorized under Rhode Island law to provide such clinical determinations, and
+23 the name and license information of the reviewing professional must be included in the written
+24 notice.
+25 (2) Definition of medically sound justification. For purposes of this section, "medically
+26 sound justification" means a reason based on recognized clinical standards or evidence-based
+27 guidelines appropriate to the patient’s condition.
+28 (3) Plan compliance. Nothing in this section shall prevent a pharmacy benefit manager
+29 from denying coverage in accordance with the terms of the insurance plan or prescription drug
+30 benefit contract; provided that, the written justification requirement and medical oversight
+31 requirements are met.
+32 SECTION 5. This act shall take effect on January 1, 2027.
+========
+LC005053
+========
+LC005053 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+***
+1 This act would require pharmacy benefit managers to provide medical justification for
+2 denying any claim for prescription drug benefits.
+3 This act would take effect on January 1, 2027.
+========
+LC005053
+========
+LC005053 - Page 4 of 4

@@ -1,0 +1,176 @@
+Title: 
+Official Title: 
+Source: versions - 2345
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2345
+========
+LC004129
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- BROADBAND DEPLOYMENT
+AND INVESTMENT ACT -- RHODE ISLAND BROADBAND OVERSIGHT AND
+ACCOUNTABILITY ACT OF 2026
+Introduced By: Senators Ujifusa, E Morgan, Murray, Lauria, DiPalma, Acosta, Bell,
+DiMario, and Zurier
+Date Introduced: January 30, 2026
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Short Title.
+2 This act shall be known as the “Rhode Island Broadband Oversight and Accountability Act
+3 of 2026.”
+4 SECTION 2. The purpose of this act is to remove statutory barriers that prevent Rhode
+5 Island from oversight and monitoring of broadband services, and require the Rhode Island
+6 Commerce Corporation to develop a plan for a broadband office or equivalent program to ensure
+7 effective monitoring and oversight.
+8 SECTION 3. Sections 39-28-1, 39-28-2 and 39-28-3 of the General Laws in Chapter 39-
+9 28 entitled "Broadband Deployment and Investment Act" are hereby amended to read as follows:
+10 39-28-1. Findings.
+11 The Rhode Island general assembly finds that growth and enhancement of services using
+12 internet protocol technology provide Rhode Island consumers more choice in voice, data, and video
+13 services than at any other time. The proliferation of new technologies and applications and the
+14 growing number of providers developing and offering innovative services using internet protocol
+15 are due in large part to little barrier to investment, including freedom from state laws and
+16 regulations governing traditional telephone service, that these technologies have enjoyed in Rhode
+17 Island, as well as recognition that federal law is more uniform in its oversight of internet protocol-
+18 enabled services. The economic benefits, including consumer choice, new jobs, and significant
+
+1 capital investment, will be jeopardized and competition minimized by the imposition of traditional
+2 state entry, rate, and service-term regulation on voice over internet protocol service and internet
+3 protocol-enabled service.
+4 (1) The general assembly finds that broadband infrastructure is now essential to the daily
+5 life and well-being of all Rhode Islanders.
+6 (2) Reliable internet access supports critical activities across every sector including health
+7 care, education, public safety, energy management, business operations, financial services,
+8 housing, transportation, and access to government services.
+9 (3) Previously, provisions of § 39-28-3 made broadband oversight effectively illegal
+10 insofar as it prohibited the state from regulating, monitoring, or even designing a framework to
+11 oversee broadband performance or reliability.
+12 (4) No other state maintains a prohibition this sweeping at a time when federal law requires
+13 states to show meaningful broadband oversight capacity.
+14 (5) Rhode Island receives major federal broadband funds including BEAD, ARPA, and the
+15 Capital Projects Fund, which require the state to show real, long-term improvements in broadband
+16 coverage, adoption, and service quality.
+17 (6) Federal broadband programs do not track performance well over time and require only
+18 limited testing of specific award areas, leaving large gaps in understanding how networks are
+19 actually performing. States must fill these gaps with their own continuous monitoring.
+20 (7) Many states have created broadband offices or authorities with statutory powers to
+21 coordinate deployments, maintain maps, ensure accountability, and monitor performance (e.g.,
+22 Maine Connectivity Authority; Vermont Community Broadband Board; Massachusetts Broadband
+23 Institute).
+24 (8) In its FY2023 budget, the Rhode Island general assembly authorized a broadband
+25 director, and an employee of the commerce corporation, to, among other responsibilities, create a
+26 statewide broadband strategic plan which would include goals and strategies related to increasing
+27 the access and use of broadband internet in the state. Such a plan would include high-capacity
+28 transmission technique using a wide range of frequencies to deliver high-speed internet including
+29 both wireline and wireless technologies and would include, but not be limited to: goals for
+30 broadband elements such as speed, latency, affordability, reliability, access, sustainability, and
+31 digital equity. The plan was to be submitted to the governor, the speaker of the house of
+32 representatives, and the president of the senate on or before December 31, 2022 and be updated
+33 every five (5) years thereafter.
+34 (9) To responsibly manage public broadband funds and ensure that service is reliable and
+LC004129 - Page 2 of 6
+
+1 equitable, now and into the future as broadband technologies change and resident and business
+2 bandwidth needs increase, Rhode Island must develop a broadband office structure capable of
+3 mapping availability, monitoring performance, identifying unserved areas, coordinating federal
+4 awards, supporting local planning, increasing adoption, and providing transparent public reporting.
+5 39-28-2. Definitions.
+6 For the purpose of this chapter, the following terms shall have the following meanings:
+7 (1) "Broadband" means high-speed Internet access that provides a continuous, reliable
+8 connection currently defined by the Federal Communications Commission (FCC). Broadband can
+9 be delivered through technologies such as optical fiber, coaxial cable, fixed wireless, satellite, or
+10 cellular networks.
+11 (2) "Internet" means a global network of interconnected computer systems and servers that
+12 communicate using Internet protocol (IP) or its successors, enabling the transmission of data, voice,
+13 video, and multimedia content. It supports a wide variety of services, including web browsing,
+14 email, file sharing, voice over Internet protocol (VoIP), streaming, messaging, and other digital
+15 communications and content access.
+16 (2)(3) “Internet protocol-enabled service” or “IP-enabled service” means any service,
+17 capability, functionality, or application provided, except that as provided in subsection (1)(4), using
+18 internet protocol, or any successor protocol, that enables an end-user to send or receive a
+19 communication in internet protocol format or any successor format.
+20 (4) “Voice over internet protocol service” or “VoIP service” means any service that:
+21 (i) Enables real-time, two-way voice communications that originate from or terminate at
+22 the user’s location in internet protocol or any successor protocol;
+23 (ii) Uses a broadband connection from the user’s location; and
+24 (iii) Permits users generally to receive calls that originate on the public switched telephone
+25 network and to terminate calls to the public switched telephone network.
+26 39-28-3. Regulation.
+27 Notwithstanding any general or public law to the contrary, and with the exception of the
+28 provisions of § 39-28-4, no department, agency, commission, or political subdivision of Rhode
+29 Island shall enact, adopt, or enforce, either directly or indirectly, any law, rule, regulation,
+30 ordinance, standard, order, or other provision having the force or effect of law that regulates, or has
+31 the effect of regulating, the entry, rates, terms, or conditions of VoIP service or IP-enabled service.
+32 (a) Nothing in this chapter shall be construed to expand the jurisdiction of the public
+33 utilities commission or the division of public utilities and carriers beyond that provided in other
+34 chapters of title 39.
+LC004129 - Page 3 of 6
+
+1 (b) The statutory language in this chapter that prohibits any department, agency,
+2 commission, or political subdivision of the state from enacting, adopting, or enforcing any law,
+3 rule, or provision regulating the entry, rates, terms, or conditions of VoIP service or IP-enabled
+4 service is hereby repealed and shall have no force or effect.
+5 (c) This section does not itself grant regulatory authority over broadband or internet
+6 services.
+7 (d) The general assembly retains full authority to enact oversight, reporting, planning, and
+8 performance-monitoring statutes relating to broadband and internet services.
+9 SECTION 4. Chapter 42-64 of the General Laws entitled "Rhode Island Commerce
+10 Corporation" is hereby amended by adding thereto the following section:
+11 42-64-43. Broadband oversight planning -- Rhode Island commerce corporation.
+12 (a) The Rhode Island commerce corporation (“corporation”) shall, within one year of the
+13 effective date of this section, develop and submit to the speaker of the house, president of the senate,
+14 house and senate finance chairs, and committees with jurisdiction over commerce and technology,
+15 a detailed plan regarding the creation of a broadband oversight authority or similar structure.
+16 (b) The plan shall include, but not be limited to:
+17 (1) Recommendations for the mission, authority, and responsibilities of such an oversight
+18 authority, including broadband planning, deployment coordination, performance monitoring,
+19 consumer concerns, and equitable access;
+20 (2) Recommendations for organizational structure and staffing;
+21 (3) A proposed framework for collaboration with state, local, and federal entities involved
+22 in broadband deployment or oversight;
+23 (4) Proposed funding mechanisms to support the authority’s operations; and
+24 (5) A timeline for establishment of the authority, including any legislative actions
+25 necessary for its formation.
+26 (c) The corporation shall hire contractors or add a full-time equivalent employee to ensure
+27 compliance with this section, and may consult with municipalities, broadband providers, public
+28 safety agencies, educational institutions, community organizations, and other relevant stakeholders
+29 while preparing the plan.
+30 SECTION 5. Severability.
+31 If any provision of this act or the application thereof to any person or circumstances is held
+32 invalid, such invalidity shall not affect other provisions or applications of this act, which can be
+33 given effect without the invalid provision or application, and to this end the provisions of this act
+34 are declared to be severable.
+LC004129 - Page 4 of 6
+
+1 SECTION 6. This act shall take effect upon passage.
+========
+LC004129
+========
+LC004129 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- BROADBAND DEPLOYMENT
+AND INVESTMENT ACT -- RHODE ISLAND BROADBAND OVERSIGHT AND
+ACCOUNTABILITY ACT OF 2026
+***
+1 This act would enact the Rhode Island Broadband Oversight and Accountability Act of
+2 2026. The act would amend and remove statutory barriers that may prevent Rhode Island from
+3 oversight and monitoring of broadband services. The act would also direct the commerce
+4 corporation to prepare and submit a plan regarding the creation of broadband oversight authority
+5 or a similar structure.
+6 This act would take effect upon passage.
+========
+LC004129
+========
+LC004129 - Page 6 of 6

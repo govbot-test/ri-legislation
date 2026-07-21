@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - 7452  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7452 SUBSTITUTE A
+========
+LC004649/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- ELECTRONIC REGISTRATION AND
+TITLING
+Introduced By: Representatives Craven, DeSimone, Casimiro, O'Brien, and Shanley
+Date Introduced: January 30, 2026
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 3.4
+4 ELECTRONIC REGISTRATION AND TITLING
+5 31-3.4-1. Short title.
+6 This chapter shall be known and may be cited as the "Electronic Registration and Titling
+7 Act".
+8 31-3.4-2. Definitions.
+9 As used in this chapter:
+10 (1) "Business entity" means a sole proprietorship, partnership, association, joint venture,
+11 firm, corporation, holding company, joint stock company, receivership, trust, limited liability
+12 company, limited liability partnership, or any other legal entity.
+13 (2) "Credit union" means a credit union duly organized under the laws of this state.
+14 (3) "Division" means the division of motor vehicles.
+15 (4) "ELT system" means the electronic lien and title system authorized in § 31-3.4-3.
+16 (5) "ERT system" means the electronic registration and title system authorized in § 31-3.4-
+17 3.
+18 (6) "Financial institution" means any entity, other than a credit union, duly organized under
+
+1 the laws of this state that has the statutory authority to accept money on deposit pursuant to title
+2 19, including an entity that is prohibited from accepting deposits by its own bylaws or agreement
+3 to form; the term includes, but is not limited to, banks, trust companies, savings banks, loan and
+4 investment banks, and savings and loan associations.
+5 (7) "Licensed motor vehicle dealer" means a motor vehicle dealer licensed under chapter
+6 5 of this title.
+7 (8) "Service provider" means a person or entity that provides credit unions, financial
+8 institutions, or licensed motor vehicle dealers with software or services to interact with the
+9 division's electronic lien and title system or electronic registration and title system.
+10 31-3.4-3. Implementation.
+11 (a) The division may implement an electronic lien and title ("ELT") system, as authorized
+12 in § 31-3.1-16.1, and an electronic registration and title ("ERT") system that enable the ability to
+13 transact through a completely electronic process for:
+14 (1) All business entities, including licensed motor vehicle dealers, and their service
+15 providers applying for automotive titles and registrations, for themselves or their customers; and
+16 (2) All credit unions or financial institutions and their service providers recording and
+17 releasing security interests.
+18 (b) With respect to transactions processed through the ELT system or the ERT system:
+19 (1) Notwithstanding any other requirements in this title that a security interest on a motor
+20 vehicle shall be noted on the face of the certificate of title, if there are one or more security interests
+21 on the motor vehicle, the division shall electronically transmit the lien to the first lienholder and
+22 notify the first lienholder of any additional liens;
+23 (2) Subsequent releases of security interests shall be electronically transmitted to the
+24 division and shall include the name and address of the person releasing the security interest;
+25 (3) A certificate of title need not be issued to the owner of the motor vehicle until the last
+26 security interest is released. The division is not obligated to print a paper certificate of title until
+27 after the last security interest has been released;
+28 (4) When a motor vehicle is subject to an electronic lien, the certificate of title for the motor
+29 vehicle shall be considered to be physically held by the lienholder for purposes of compliance with
+30 state or federal odometer disclosure requirements;
+31 (5) A duly certified copy of the division's electronic record of a security interest shall be
+32 admissible in any civil, criminal, or administrative proceeding in this state as evidence of the
+33 existence of the security interest.
+34 (c) Beginning on October 1, 2026, all credit unions and financial institutions that record
+LC004649/SUB A - Page 2 of 6
+
+1 five (5) or more security interests in a calendar year shall use the division's ELT system to record
+2 and release all security interests. Provided, however, nothing shall prohibit any credit union or
+3 financial institution that records four (4) or less security interests in a calendar year from using the
+4 division's ELT system to record and release security interests.
+5 (d) Beginning twelve (12) months after the administrator of the division certifies that the
+6 division's ERT system is available for use by all licensed motor vehicle dealers, any licensed motor
+7 vehicle dealer who sells more than one hundred fifty (150) motor vehicles in a calendar year shall
+8 use the division's ERT system to submit title and registration applications. Provided, however,
+9 nothing shall prohibit any licensed motor vehicle dealer who sells one hundred fifty (150) or less
+10 motor vehicles in a calendar year from using the division's ERT system to submit title and
+11 registration applications.
+12 31-3.4-4. Secure digital vehicle titles.
+13 (a) The division may implement a system that offers vehicle title holders a fully paperless,
+14 secure digital vehicle certificate of title in lieu of a secure paper vehicle certificate of title.
+15 (b) Once implemented, the secure digital title and the secure digital title system shall:
+16 (1) Include all functions related to title re-assignments;
+17 (2) Meet or exceed applicable security requirements as set forth in regulations promulgated
+18 by the division; and
+19 (3) Provide title holders with online, real-time access to motor vehicle titles and status of
+20 titles in process.
+21 (c) A secure digital vehicle title produced under this section shall be regarded as an official
+22 vehicle title from the State of Rhode Island and be fully transactable within the State of Rhode
+23 Island and all other U.S. jurisdictions.
+24 (d) A duly certified copy of the division's secure digital vehicle title shall be admissible in
+25 any civil, criminal, or administrative proceeding in this state as evidence of the existence of the
+26 title.
+27 31-3.4-5. Fees.
+28 (a) Notwithstanding any general law to the contrary, the division may authorize a per-
+29 transaction fee to be assessed for the use of the ELT system and the ERT system.
+30 (b) The per-transaction fee:
+31 (1) Shall be consistent with market pricing for costs associated with the development and
+32 ongoing management, maintenance and enhancement of the ELT system and the ERT system; and
+33 (2) Shall integrate with current division payment service provider(s).
+34 31-3.4-6. Rules and regulations.
+LC004649/SUB A - Page 3 of 6
+
+1 The administrator of the division may promulgate rules and regulations to implement the
+2 provisions of this chapter.
+3 SECTION 2. Section 31-23.2-6 of the General Laws in Chapter 31-23.2 entitled
+4 "Tampering with Odometers" is hereby amended to read as follows:
+5 31-23.2-6. Transfer of vehicle.
+6 (a) Any sales agreement for the transfer of a motor vehicle between persons as defined in
+7 this chapter shall contain the words "both buyer and seller have examined the title certificate of this
+8 motor vehicle and it correctly reflects the mileage as it appears on the odometer" which shall be
+9 placed conspicuously and prominently on the agreement.
+10 (b) It shall be unlawful for any person to transfer ownership of a motor vehicle previously
+11 registered in this state or a motor vehicle used by a dealer as a demonstrator unless the person:
+12 (1) Enters on a written or electronic form prescribed by the department of revenue, as
+13 prescribed by state law, the mileage the motor vehicle has been operated. The form shall be signed
+14 by both the seller and buyer and contain a statement that both parties have viewed the odometer of
+15 the motor vehicle. The form as completed shall then be attached to the instrument evidencing
+16 transfer of ownership; or
+17 (2) Enters upon the form "not actual mileage" in the event that the odometer mileage is
+18 known to the person to be less than the motor vehicle has actually traveled; or
+19 (3) Enters the total cumulative mileage on the form in the event that it is known that the
+20 mileage indicated on the odometer is beyond its designated mechanical limits;
+21 (4) Enters the same information as set forth in subdivisions subsections (b)(1) through
+22 (b)(3) of this subsection section on the owner's title certificate; and
+23 (5) The owner of a motor vehicle shall supply its mileage upon the annual renewal
+24 registration form supplied by the division of motor vehicles.
+25 (c) It shall be a violation of this chapter for any person to give a false statement to a
+26 transferee under the provisions of this section; provided, however, that no person shall be in
+27 violation of this chapter where a vehicle has been resold in reliance on the required statement of
+28 the prior owner made pursuant to this section.
+29 (d) No motor vehicle, previously registered in another state, shall be registered for use in
+30 this state unless the application for a certificate of title in Rhode Island is accompanied by the prior
+31 owner's certificate of title and a form as set forth in subdivision subsection (b)(1) of this section.
+32 (e) The certificate of title of the motor vehicle issued to the new owner by the state of
+33 Rhode Island shall:
+34 (1) Be provided electronically, or printed using a process determined by the director to be
+LC004649/SUB A - Page 4 of 6
+
+1 the most efficient and effective means of avoiding unauthorized duplication;
+2 (2) Indicate on its face the mileage required to be disclosed by the transferor under
+3 subsections (b)(1) and (d) of this section; and
+4 (3) Contains a space for the transferee to disclose the mileage at the time of any future
+5 transfer and to sign and date the disclosure.
+6 (f) No registration card may be issued in this state for any motor vehicle unless:
+7 (1) The application for the registration card contains the prior owner's most recent
+8 registration card and the prior owner's title; and
+9 (2) The new registration card contains such information as provided on the application.
+10 (g) Pursuant to the provisions of § 42-127.1-7, any form required pursuant to the provisions
+11 of this section may be signed electronically and shall not require notarization.
+12 SECTION 3. This act shall take effect on July 1, 2026.
+========
+LC004649/SUB A
+========
+LC004649/SUB A - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- ELECTRONIC REGISTRATION AND
+TITLING
+***
+1 This act would permit the implementation of a system of electronic registration and titling
+2 of motor vehicles by the DMV and would require that rules and regulations to implement the
+3 provisions of this chapter would be promulgated by the administrator of the division of motor
+4 vehicles.
+5 This act would take effect on July 1, 2026.
+========
+LC004649/SUB A
+========
+LC004649/SUB A - Page 6 of 6

@@ -1,0 +1,576 @@
+Title: 
+Official Title: 
+Source: versions - 8186
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8186
+========
+LC005778
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- VIDEO LOTTERY, GAMES,
+TABLE GAMES AND SPORTS WAGERING
+Introduced By: Representatives Dawson, Corvese, Slater, Read, O'Brien, and Voas
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 42-61.2-1, 42-61.2-2.4, 42-61.2-3.3 and 42-61.2-5 of the General
+2 Laws in Chapter 42-61.2 entitled "Video Lottery Games, Table Games and Sports Wagering" are
+3 hereby amended to read as follows:
+4 42-61.2-1. Definitions.
+5 For the purpose of this chapter, the following words shall mean:
+6 (1) “2017 Budget Act” means 2017 — H 5175 Substitute A, as amended, entitled “An Act
+7 Relating to Making Appropriations for the Support of the State for the Fiscal Year ending June 30,
+8 2018,” which Act was signed into law by the Governor of Rhode Island on August 3, 2017.
+9 (2) “Casino gaming” means any and all table and casino-style games played with cards,
+10 dice, or equipment, for money, credit, or any representative of value; including, but not limited to:
+11 roulette, blackjack, big six, craps, poker, baccarat, paigow, any banking or percentage game, or any
+12 other game or device included within the definition of Class III gaming as that term is defined in
+13 Section 2703(8) of Title 25 of the United States Code and that is approved by the state through the
+14 division of state lottery.
+15 (3) “Central communication system” means a system approved by the Division, linking all
+16 Video Lottery Terminals at a licensed video lottery retailer location to provide auditing program
+17 information and any other information determined by the Division. In addition, the central
+18 communications system must provide all computer hardware and related software necessary for the
+
+1 establishment and implementation of a comprehensive system as required by the Division.
+2 (4) “Collegiate sports or athletic event” means a sporting event offered or sponsored by or
+3 played in connection with, a public or private institution that offers educational services beyond
+4 the secondary level, but shall not include a collegiate sports contest or collegiate athletic event that
+5 takes place in Rhode Island or a sports contest or athletic event in which any Rhode Island college
+6 team participates regardless of where the event takes place unless such contest or event is part of a
+7 collegiate tournament.
+8 (5) “Collegiate tournament” means a series of collegiate sports or athletic events involving
+9 four (4) or more collegiate teams that make up a single unit of competition.
+10 (6) “Consolidated promotional points program” means, collectively, the “Initial
+11 Promotional Points Program” and the “Supplementary Promotional Points Program” applicable to
+12 the Lincoln gaming facility and the “Initial Promotional Points Program” and the “Supplementary
+13 Promotional Points Program” applicable to the Tiverton gaming facility, with each of the terms
+14 “Initial Promotional Points Program” and “Supplementary Promotional Points Program” having
+15 the meanings given such terms in the 2017 Budget Act.
+16 (7) “Credit facilitator” means any employee of a licensed video lottery retailer approved in
+17 writing by the Division whose responsibility is to, among other things, review applications for
+18 credit by players, verify information on credit applications, grant, deny, and suspend credit,
+19 establish credit limits, increase and decrease credit limits, and maintain credit files, all in
+20 accordance with this chapter and rules and regulations approved by the Division.
+21 (8) “DBR” means the department of business regulation, division of gaming and athletics
+22 licensing, and any successor in interest thereto.
+23 (9) “Director” means the director of the Division.
+24 (10) “Division” means the state lottery division of the department of revenue and/or any
+25 successor in interest thereto.
+26 (11) “Hosting facility” refers to the Lincoln gaming facility and the Tiverton gaming
+27 facility.
+28 (12)(i) “iGaming” means casino gaming, inclusive of online slot games and online table
+29 games as defined herein, and made available to players who have reached twenty-one (21) years of
+30 age through the use of the internet through computers, mobile applications on mobile devices, or
+31 other interactive devices approved by the Division, which wagers are accepted by a server-based
+32 gaming system located at the premises of a hosting facility.
+33 (ii) All wagers on iGaming games shall be deemed to be placed and accepted, and iGaming
+34 games shall be deemed to be operated on the Division’s behalf, at the premises of a hosting facility.
+LC005778 - Page 2 of 17
+
+1 (iii) Notwithstanding the foregoing, the term “iGaming” does not include the following:
+2 (A) Sports wagering conducted under § 42-61.2-2.4;
+3 (B) Online sports wagering conducted under § 42-61.2-2.4 and regulated elsewhere
+4 pursuant to the general laws, including in § 42-61.2-16;
+5 (C) Pari-mutuel betting on the outcome of thoroughbred or harness horse racing, or
+6 greyhound dog racing, including, but not limited to, pari-mutuel wagering on a race that is
+7 “simulcast” (as defined in § 41-11-1), as regulated elsewhere pursuant to the general laws,
+8 including in chapters 3, 3.1, 4, and 11 of title 41;
+9 (D) Off-track betting on racing events, as regulated elsewhere pursuant to the general laws,
+10 including in chapter 10 of title 41;
+11 (E) Wagering on the respective scores or points of the game of jai alai or pelota and the
+12 sale of pari-mutuel pools related to such games, as regulated elsewhere pursuant to the general
+13 laws, including in chapter 7 of title 41; and
+14 (F) Lotteries, charitable gaming, games of chance, bingo games, raffles, and pull-tab lottery
+15 tickets, to the extent permitted and regulated pursuant to chapter 19 of title 11.
+16 (13) “iGaming game vendor” means any entity authorized to provide online slot games and
+17 online table games, as approved by the Division in connection with iGaming, on the Division’s
+18 behalf in accordance with this chapter, such online slot games and online table games being games
+19 owned or licensed by the iGaming game vendor (or by an entity controlling, controlled by, or under
+20 common control with such entity) or games owned or licensed by a third party, that (in either case)
+21 are licensed to the iGaming game vendor for sublicense to the Division as authorized by the
+22 Division.
+23 (14) “iGaming platform vendor” means an entity that operates a hosting facility (or by an
+24 entity controlling, controlled by, or under common control with such an entity) and that is
+25 authorized by the Division to conduct iGaming on the Division’s behalf in accordance with this
+26 chapter.
+27 (15) “IGT” means IGT Global Solutions Corporation, a Delaware corporation.
+28 (16) “Licensed video lottery retailer” means a pari-mutuel licensee specifically licensed by
+29 the Director subject to the approval of the Division to become a licensed video lottery retailer.
+30 (17) “Lincoln gaming facility” means the gaming and entertainment facility located at 100
+31 Twin River Road in the town of Lincoln, Rhode Island (sometimes referred to as “Twin River” or
+32 the “Twin River gaming facility”).
+33 (18) “Marketing Year” means the fiscal year of the state.
+34 (19) “Net table-game revenue” means win from table games minus counterfeit currency.
+LC005778 - Page 3 of 17
+
+1 (20) “Net terminal income” means currency placed into a Video Lottery Terminal less
+2 credits redeemed for cash by players.
+3 (21) “Newport Grand” means Newport Grand, LLC, a Rhode Island limited liability
+4 company, successor to Newport Grand Jai Alai, LLC, and each permitted successor to and assignee
+5 of Newport Grand, LLC under the Newport Grand Master Contract, including, without limitation,
+6 Premier (as defined in subsection (33) of this section) and/or Twin River-Tiverton (as defined in
+7 subsection (48) of this section) provided it is a pari-mutuel licensee (as defined in this section);
+8 provided, further, however, where the context indicates that the term is referring to the physical
+9 facility, then it shall mean the gaming and entertainment facility located at 150 Admiral Kalbfus
+10 Road, Newport, Rhode Island.
+11 (22) “Newport Grand Marketing Year” means each fiscal year of the state or a portion
+12 thereof between November 23, 2010, and the termination date of the Newport Grand Master
+13 Contract.
+14 (23) “Newport Grand Master Contract” means that certain master video lottery terminal
+15 contract made as of November 23, 2005, by and between the division of lotteries of the Rhode
+16 Island department of administration and Newport Grand, as amended and extended from time to
+17 time as authorized therein and/or as such Newport Grand Master Contract may be assigned as
+18 permitted therein.
+19 (24) “Online gaming account” means an account opened by a patron that such patron shall
+20 use for the deposit and withdrawal of funds used for online sports wagering, iGaming, or both. An
+21 online gaming account may be used for both online sports wagering conducted under § 42-61.2-
+22 2.4 and iGaming, only if the patron is over twenty-one (21) years of age. A patron under the age of
+23 twenty-one (21) is prohibited from having or using an online gaming account for iGaming.
+24 (25) “Online slot game” means an online slot-machine-like game authorized by the
+25 Division within the scope of the term iGaming. Online slot games include, but are not limited to,
+26 online games involving digital versions of spinning reels or pay lines, and may include:
+27 (i) An auto play feature;
+28 (ii) An adjustable bet feature;
+29 (iii) A random number generator to determine the game outcome; and
+30 (iv) Games that can be played infinitely, using a nondepleting prize pool, offer prizes that
+31 are all available with every play, and have odds that remain the same with every play.
+32 (26) “Online slot gaming revenue” means:
+33 (i) The total of cash or cash equivalents received from the operation of online slot games
+34 minus the total of:
+LC005778 - Page 4 of 17
+
+1 (A) Cash or cash equivalents paid to players as a result of the operation of online slot
+2 games;
+3 (B) Marketing expenses related to online slot games as agreed to by the Division, the
+4 iGaming game vendor, and the iGaming platform vendor, as approved by the Division; and
+5 (C) Any federal excise taxes (if applicable).
+6 (ii) The term does not include any of the following:
+7 (A) Counterfeit cash;
+8 (B) Coins or currency of other countries received as a result of the operation of online slot
+9 games, except to the extent that the coins or currency are readily convertible to cash;
+10 (C) Cash taken in a fraudulent act perpetrated against the iGaming platform vendor or
+11 iGaming game vendor, for which the iGaming platform vendor or iGaming game vendor is not
+12 reimbursed;
+13 (D) Free play provided by the iGaming platform vendor or iGaming game vendor as
+14 authorized by the Division to a player and subsequently “won back” by the iGaming platform
+15 vendor or iGaming game vendor, for which the iGaming platform vendor or iGaming game vendor
+16 can demonstrate that it or its affiliate has not been reimbursed in cash.
+17 (27) “Online sports wagering” means engaging in the act of sports wagering by the placing
+18 of wagers on sporting events or a combination of sporting events, or on the individual performance
+19 statistics of athletes in a sporting event or a combination of sporting events, over the internet
+20 through computers, mobile applications on mobile devices or other interactive devices approved
+21 by the Division, which wagers are accepted by a server-based gaming system located at the
+22 premises of a hosting facility authorized to accept sports wagers and administer payoffs of winning
+23 sports wagers; all such wagers shall be deemed to be placed and accepted at the premises of such
+24 hosting facility.
+25 (28) “Online sports-wagering revenue” means:
+26 (i) For sports-wagering vendor contracts entered into on or after the effective date of this
+27 section, the total of cash or cash equivalents received from online sports wagering minus the total
+28 of:
+29 (A) Cash or cash equivalents paid to players as a result of online sports wagering; and
+30 (B) Any federal excise taxes (if applicable).
+31 (ii) For sports-wagering vendor contracts entered into prior to the effective date of this
+32 section, including any renewal, extension, amendment, restatement, or successor agreement
+33 thereto, the (i) The total of cash or cash equivalents received from online sports wagering minus
+34 the total of:
+LC005778 - Page 5 of 17
+
+1 (A) Cash or cash equivalents paid to players as a result of online sports wagering;
+2 (B) Marketing expenses related to online sports wagering as agreed to by the Division, the
+3 sports-wagering vendor, and the host facilities, as approved by the Division; and
+4 (C) Any federal excise taxes (if applicable).
+5 (ii)(iii) The term does not include any of the following:
+6 (A) Counterfeit cash.
+7 (B) Coins or currency of other countries received as a result of online sports wagering,
+8 except to the extent that the coins or currency are readily convertible to cash.
+9 (C) Cash taken in a fraudulent act perpetrated against a hosting facility or sports-wagering
+10 vendor for which the hosting facility or sports-wagering vendor is not reimbursed.
+11 (D) Free play provided by the hosting facility or sports-wagering vendor as authorized by
+12 the Division to a player and subsequently “won back” by the hosting facility or sports-wagering
+13 vendor, for which the hosting facility or sports-wagering vendor can demonstrate that it or its
+14 affiliate has not been reimbursed in cash.
+15 (29) “Online table game” means a casino-style table game authorized by the Division
+16 within the scope of the term iGaming, where such games are conducted by one or more live persons
+17 and made available to players through use of the internet through computers, mobile applications
+18 on mobile devices, or other interactive devices approved by the Division, which wagers are
+19 accepted by a server-based gaming system located at the premises of a hosting facility and played
+20 with the digital representation of cards, dice, or equipment.
+21 (30) “Online table gaming revenue” means:
+22 (i) The total of cash or cash equivalents received from the operation of online table games
+23 minus the total of:
+24 (A) Cash or cash equivalents paid to players as a result of the operation of online table
+25 games;
+26 (B) Marketing expenses related to online table games as agreed to by the Division and the
+27 iGaming platform vendor, as approved by the Division; and
+28 (C) Any federal excise taxes (if applicable).
+29 (ii) The term does not include any of the following:
+30 (A) Counterfeit cash;
+31 (B) Coins or currency of other countries received as a result of the operation of online table
+32 games, except to the extent that the coins or currency are readily convertible to cash;
+33 (C) Cash taken in a fraudulent act perpetrated against the iGaming platform vendor or
+34 iGaming game vendor for which the iGaming platform vendor or iGaming game vendor is not
+LC005778 - Page 6 of 17
+
+1 reimbursed;
+2 (D) Free play provided by the iGaming platform vendor or iGaming game vendor as
+3 authorized by the Division to a player and subsequently “won back” by the iGaming platform
+4 vendor or iGaming game vendor, for which the iGaming platform vendor or iGaming game vendor
+5 can demonstrate that it or its affiliate has not been reimbursed in cash.
+6 (31) “Pari-mutuel licensee” means:
+7 (i) An entity licensed pursuant to § 41-3.1-3; and
+8 (ii) An entity licensed pursuant to § 41-7-3.
+9 (32) “Payoff,” when used in connection with sports wagering, means cash or cash
+10 equivalents paid to a player as a result of the player’s winning a sports wager. A “payoff” is a type
+11 of “prize,” as the term “prize” is used in chapters 61, 61.2, and 61.3 of this title.
+12 (33) “Premier” means Premier Entertainment II, LLC and its successor in interest by reason
+13 of the acquisition of the stock, membership interests, or substantially all of the assets of such entity.
+14 (34) “Prior marketing year,” means, with respect to a marketing year, the most recent
+15 previous marketing year during which the Division operated a majority of the authorized video
+16 lottery games at each of the Lincoln gaming facility and the Tiverton gaming facility for at least
+17 360 days (or 361 days in the case there are 366 days in such marketing year). For the avoidance of
+18 doubt, because the Division will not have operated a majority of the authorized video lottery games
+19 at the Lincoln gaming facility and at the Tiverton gaming facility for at least 361 days during the
+20 marketing year expiring on June 30, 2020, the prior marketing year with respect to the marketing
+21 year expiring on June 30, 2021, shall be the marketing year expiring on June 30, 2019.
+22 (35) “Promotional points” has the meaning given such term in the 2017 Budget Act.
+23 (36) “Rake” means a set fee or percentage of cash and chips representing cash wagered in
+24 the playing of a nonbanking table game assessed by a table games retailer for providing the services
+25 of a dealer, gaming table, or location, to allow the play of any nonbanking table game.
+26 (37) “Server-based gaming system” means all hardware, software, and communications
+27 devices that comprise a system utilized for the purpose of offering an electronic platform used in
+28 connection with the process of placing and accepting sports wagers and/or iGaming wagers (as
+29 applicable).
+30 (38) “Sporting event” means any professional sport or athletic event, any Olympic or
+31 international sports competition event, any collegiate sport or athletic event, and any other event
+32 authorized by the division or any portion thereof, including, but not limited to, the individual
+33 performance statistics of athletes in a sports event or combination of sports events, except “sporting
+34 event” shall not include:
+LC005778 - Page 7 of 17
+
+1 (i) The individual performance statistics of athletes in a collegiate sports or athletic event
+2 which is part of a collegiate tournament:
+3 (A) That takes place in Rhode Island; or
+4 (B) In which any Rhode Island college team participates regardless of where the event
+5 takes place; or
+6 (ii) Any other prohibited sporting event as determined by the division.
+7 (39) “Sports wagering” means the business of accepting wagers on sporting events or a
+8 combination of sporting events, or on the individual performance statistics of athletes in a sporting
+9 event or combination of sporting events, by any system or method of wagering. The term includes,
+10 but is not limited to, exchange wagering, parlays, over-under, moneyline, pools, and straight bets,
+11 and the term includes the placement of such bets and wagers. However, the term does not include,
+12 without limitation, the following:
+13 (i) Lotteries, including video lottery games and other types of casino gaming operated by
+14 the state, through the Division, as of June 22, 2018.
+15 (ii) Pari-mutuel betting on the outcome of thoroughbred or harness horse racing, or
+16 greyhound dog racing, including but not limited to, pari-mutuel wagering on a race that is
+17 “simulcast” (as defined in § 41-11-1), as regulated elsewhere pursuant to the general laws,
+18 including in chapters 3, 3.1, 4, and 11 of title 41.
+19 (iii) Off-track betting on racing events, as regulated elsewhere pursuant to the general laws,
+20 including in chapter 10 of title 41.
+21 (iv) Wagering on the respective scores or points of the game of jai alai or pelota and the
+22 sale of pari-mutuel pools related to such games, as regulated elsewhere pursuant to the general
+23 laws, including in chapter 7 of title 41.
+24 (v) Lotteries, charitable gaming, games of chance, bingo games, raffles, and pull-tab lottery
+25 tickets, to the extent permitted and regulated pursuant to chapter 19 of title 11.
+26 (vi) iGaming (as defined in this section).
+27 (40) “Sports-wagering device” means any mechanical, electrical, or computerized
+28 contrivance, terminal, machine, or other device, apparatus, equipment, or supplies approved by the
+29 Division and used to conduct sports wagering.
+30 (41) “Sports-wagering revenue” means:
+31 (i) The total of cash or cash equivalents received from sports wagering minus the total of:
+32 (A) Cash or cash equivalents paid to players as a result of sports wagering;
+33 (B) The annual flat fee to the host communities as defined by § 42-61.2-5(c);
+34 (C) Marketing expenses related to sports wagering as agreed to by the Division, the sports-
+LC005778 - Page 8 of 17
+
+1 wagering vendor, and the host facilities, as approved by the Division; and
+2 (D) Any federal excise taxes (if applicable).
+3 (ii) The term does not include any of the following:
+4 (A) Counterfeit cash.
+5 (B) Coins or currency of other countries received as a result of sports wagering, except to
+6 the extent that the coins or currency are readily convertible to cash.
+7 (C) Cash taken in a fraudulent act perpetrated against a hosting facility or sports-wagering
+8 vendor for which the hosting facility or sports-wagering vendor is not reimbursed.
+9 (D) Free play provided by the hosting facility or sports-wagering vendor as authorized by
+10 the Division to a patron and subsequently “won back” by the hosting facility or sports-wagering
+11 vendor, for which the hosting facility or sports-wagering vendor can demonstrate that it or its
+12 affiliate has not been reimbursed in cash.
+13 (42) “Sports-wagering vendor” means any entity authorized by the Division to operate
+14 sports betting on the Division’s behalf in accordance with this chapter.
+15 (43) “Table game” or “Table gaming” means that type of casino gaming in which table
+16 games are played for cash or chips representing cash, or any other representation of value that has
+17 been approved by the Division, using cards, dice, or equipment and conducted by one or more live
+18 persons.
+19 (44) “Table-game retailer” means a retailer authorized to conduct table gaming pursuant to
+20 § 42-61.2-2.1 or § 42-61.2-2.3.
+21 (45) “Technology provider” means any individual, partnership, corporation, or association
+22 that designs, manufactures, installs, maintains, distributes, or supplies Video Lottery Terminals or
+23 associated equipment for the sale or use in this state.
+24 (46) “Tiverton gaming facility” means the gaming and entertainment facility located at the
+25 intersection of William S. Canning Boulevard and Stafford Road in the town of Tiverton, Rhode
+26 Island (sometimes referred to as “Twin River-Tiverton”).
+27 (47) “Twin River” (sometimes referred to as “UTGR”) means UTGR, Inc., a Delaware
+28 corporation, and each permitted successor to and assignee of UTGR, Inc.; provided, however,
+29 where the context indicates that the term is referring to a physical facility, then “Twin River” shall
+30 mean the Lincoln gaming facility.
+31 (48) “Twin River-Tiverton” means Twin River-Tiverton, LLC and its successor in interest
+32 by reason of the acquisition of the stock, membership interests, or substantially all of the assets of
+33 such entity; provided, however, where the context indicates that the term is referring to a physical
+34 facility, then “Twin River-Tiverton” shall mean the Tiverton gaming facility.
+LC005778 - Page 9 of 17
+
+1 (49) “Twin River-Tiverton Marketing Year” has the same meaning as Marketing Year (as
+2 defined in subsection (18) of this section).
+3 (50) “Twin River-Tiverton Master Contract” has the same meaning as Newport Grand
+4 Master Contract (as defined in subsection (23) of this section).
+5 (51) “UTGR Master Contract” means that certain master video lottery terminal contract
+6 made as of July 1, 2005, by and between the division of lotteries of the Rhode Island department
+7 of administration (now the division of lotteries of the Rhode Island department of revenue) and
+8 Twin River, as amended and extended from time to time as authorized therein and as such UTGR
+9 Master Contract may be assigned as permitted therein.
+10 (52) “Video Lottery Agreement” means that certain Video Lottery Central Computer
+11 System Agreement dated as of December 20, 2001, by and between IGT and the Division, as
+12 amended, extended, assigned, and assumed from time to time.
+13 (53) “Video lottery games” means lottery games played on Video Lottery Terminals
+14 controlled by the Division.
+15 (54) “Video lottery terminal” means any electronic computerized video game machine that,
+16 upon the insertion of cash or any other representation of value that has been approved by the
+17 Division, is available to play a video game authorized by the Division, and that uses a video display
+18 and microprocessors in which, by chance, the player may receive free games or credits that can be
+19 redeemed for cash. The term does not include a machine that directly dispenses coins, cash, or
+20 tokens.
+21 (55) “VLT Agreement” means that certain Video Lottery Terminal Technology Provider
+22 License Agreement dated as of September 28, 2000, by and between IGT and the Division, as
+23 amended, extended, assigned, and assumed from time to time.
+24 42-61.2-2.4. State to conduct sports wagering hosted by Twin River and the Tiverton
+25 gaming facility.
+26 (a) The state, through the division of lotteries, shall implement, operate, conduct, and
+27 control sports wagering at the Twin River gaming facility and the Twin River-Tiverton gaming
+28 facility, once Twin River-Tiverton is licensed as a video lottery and table-game retailer. In
+29 furtherance thereof, the state, through the division, shall have full operational control to operate the
+30 sports wagering, including, without limitation, the power and authority to:
+31 (1) Establish, with respect to sports wagering, one or more systems for linking, tracking,
+32 depositing, and reporting of receipts, audits, annual reports, prohibited conduct, and other matters
+33 determined by the division from time to time;
+34 (2) Collect all sports-wagering revenue indirectly through Twin River and Tiverton gaming
+LC005778 - Page 10 of 17
+
+1 facilities, require that the Twin River and Tiverton gaming facilities collect all sports-wagering
+2 revenue in trust for the state (through the division), deposit sports-wagering revenue into an account
+3 or accounts of the division’s choice, allocate sports-wagering revenue according to law, and
+4 otherwise maintain custody and control over all sports-wagering revenue;
+5 (3) Hold and exercise sufficient powers over the Twin River and Tiverton gaming facilities’
+6 accounting and finances to allow for adequate oversight and verification of the financial aspects of
+7 sports wagering hosted at their respective facilities in Lincoln and Tiverton, including, without
+8 limitation:
+9 (i) The right to require the Twin River and Tiverton gaming facilities to maintain an annual
+10 balance sheet, profit and loss statement, and any other necessary information or reports;
+11 (ii) The authority and power to conduct periodic compliance or special or focused audits
+12 of the information or reports provided, as well as the premises within the facilities containing
+13 records of sports wagering or in which the sports-wagering activities are conducted;
+14 (4) Monitor the sports-wagering operations hosted by the Twin River and Tiverton gaming
+15 facilities and have the power to terminate or suspend any sports-wagering activities in the event of
+16 an integrity concern or other threat to the public trust, and in furtherance thereof, require Twin
+17 River and Tiverton, respectively, to provide a specified area or areas from which to conduct such
+18 monitoring activities;
+19 (5) Through the use of a sports-wagering vendor, define and limit the rules of play and
+20 odds of authorized sports-wagering games, including, without limitation, the minimum and
+21 maximum wagers for each sports-wagering game. Sports-wagering payoffs shall not be subject to
+22 any limitation or restriction related to sports-wagering revenue or lottery revenue;
+23 (6) Establish compulsive gambling treatment programs;
+24 (7) Promulgate, or propose for promulgation, any legislative, interpretive, and procedural
+25 rules necessary for the successful implementation, administration, and enforcement of this chapter;
+26 and
+27 (8) Hold all other powers necessary and proper to fully effectively execute and administer
+28 the provisions of this chapter for the purpose of allowing the state to operate sports wagering hosted
+29 by the Twin River and Tiverton gaming facilities.
+30 (b) The state, through the division and/or the DBR, shall have approval rights over matters
+31 relating to the employment of individuals to be involved, directly or indirectly, with the operation
+32 of sports wagering at the Twin River and Tiverton gaming facilities.
+33 (c) Nothing in this chapter or elsewhere in the general laws shall be construed to create a
+34 separate license governing the hosting of sports wagering in Rhode Island by licensed video lottery
+LC005778 - Page 11 of 17
+
+1 and table-game retailers.
+2 (d) The state, through the division, shall have authority to issue regulations as it deems
+3 appropriate pertaining to the control, operation, and management of sports wagering. The state,
+4 through DBR, shall have authority to issue regulations as it deems appropriate pertaining to the
+5 employment of individuals to be involved, directly or indirectly, with the operations of sports
+6 wagering as set forth in subsection (b).
+7 (e) Any list or other identifiable data of sports-wagering players generated or maintained
+8 by the sports-wagering vendor or the hosting facility as a result of sports wagering shall be the
+9 exclusive property of the division, provided that the hosting facilities sports-wagering vendor shall
+10 be permitted to use any list or other identifiable data generated or maintained by the sports-
+11 wagering vendor for marketing purposes to the extent it currently uses similar data, and, as
+12 approved by the division for other marketing purposes to directly or indirectly generate additional
+13 gaming revenue.
+14 (f) Notwithstanding § 42-61.2-2.4(a) and any other provision of law, a sports-wagering
+15 vendor shall be permitted to make operational decisions with regard to marketing , advertising, and
+16 promotions; in compliance with rules and regulations promulgated by the division pursuant to §
+17 42-61.2-2.4(d).
+18 (g) Notwithstanding § 42-61.2-2.4(a) and any other provision of law, a sports-wagering
+19 vendor shall be permitted to offer and accept wagers using promotions, bonuses, or cash equivalents
+20 without regard to the jurisdiction where the promotion, bonus, or cash equivalent was initially
+21 offered or awarded to a player.
+22 42-61.2-3.3. Sports wagering regulation.
+23 (a) In addition to the powers and duties of the division director under §§ 42-61-4, 42-61.2-
+24 3, 42-61.2-4, and 42-61.2-3.1, and pursuant to § 42-61.2-2.4, the division director shall promulgate
+25 rules and regulations relating to sports wagering and set policy therefor. These rules and regulations
+26 shall establish standards and procedures for sports wagering and associated devices, equipment,
+27 and accessories, and shall include, but not be limited to:
+28 (1) Approve standards, rules, and regulations to govern the conduct of sports wagering and
+29 the system of wagering associated with sports wagering, including without limitation:
+30 (i) The objects of the sports wagering (i.e., the sporting events upon which sports-wagering
+31 bets may be accepted) and methods of play, including what constitutes win, loss, or tie bets the
+32 process by which wagers are settled;
+33 (ii) The manner in which sports-wagering bets are received, payoffs are remitted, and point
+34 spreads, lines, and odds are determined for each type of available sports wagering bet;
+LC005778 - Page 12 of 17
+
+1 (iii) Physical characteristics of any devices, equipment, and accessories related to sports
+2 wagering;
+3 (iv) The applicable inspection procedures for any devices, equipment, and accessories
+4 related to sports wagering;
+5 (v) Procedures for the collection of bets and payoffs, including but not limited to,
+6 requirements for internal revenue service purposes;
+7 (vi) Procedures for handling suspected cheating and sports-wagering irregularities;
+8 (vii) Procedures for handling any defective or malfunctioning devices, equipment, and
+9 accessories related to sports wagering;
+10 (viii) Procedures for investigation of patron complaints related to sports wagering;
+11 (ix) Terms and conditions for online sports wagering;
+12 (x) Internal controls for all aspects of online sports wagering, including procedures for
+13 system integrity, system security, operations, accounting, and reporting of problem gamblers;
+14 (xi) Operational controls for server-based gaming systems, software, and hardware utilized
+15 for online sports wagering, including, but not limited to, appearance, functionality, contents,
+16 collection, storage, and retention of data and security; and
+17 (xii) Operational controls for online gaming accounts, including, but not limited to,
+18 procedures for the establishment and closure of an online gaming account, funding of withdrawal
+19 of funds from an online gaming account, and generation of an account statement for a patron’s
+20 online gaming account;
+21 (2) Establishing the method for calculating sports-wagering revenue and online sports-
+22 wagering revenue and standards for the daily counting and recording of cash and cash equivalents
+23 received in the conduct of sports wagering, and ensuring that internal controls are followed and
+24 financial books and records are maintained and audits are conducted;
+25 (3) Establishing the number and type of sports-wagering bets authorized at the hosting
+26 facility, including any new sports-wagering bets or variations or composites of approved sports-
+27 wagering bets, and all rules related thereto;
+28 (4) Establishing any sports-wagering rule changes, sports-wagering minimum and
+29 maximum bet changes, and changes to the types of sports-wagering products offered at a particular
+30 hosting facility, including but not limited to, any new sports-wagering bets or variations or
+31 composites of approved sports-wagering bets, and including all rules related thereto;
+32 (5) Requiring the hosting facility and/or sports-wagering vendor to:
+33 (i) Provide written information at each sports-wagering location within the hosting facility
+34 about wagering rules, payoffs on winning sports wagers, and written information prominently
+LC005778 - Page 13 of 17
+
+1 displayed on any electronic platform available to the player through a server-based gaming system
+2 and other information as the division may require;
+3 (ii) Provide specifications approved by the division to integrate and update the hosting
+4 facility’s surveillance system to cover all areas within the hosting facility where sports wagering is
+5 conducted and other areas as required by the division. The specifications shall include provisions
+6 providing the division and other persons authorized by the division with onsite access to the system;
+7 (iii) Designate one or more locations within the hosting facility where sports-wagering bets
+8 are received;
+9 (iv) Ensure that visibility in a hosting facility is not obstructed in any way that could
+10 interfere with the ability of the division, the hosting facility, or other persons authorized under this
+11 section or by the division to oversee the surveillance of the conduct of sports wagering;
+12 (v) Ensure that the count rooms for sports wagering have appropriate security for the
+13 counting and storage of cash;
+14 (vi) Ensure that drop boxes are brought into or removed from an area where sports
+15 wagering is conducted or locked or unlocked in accordance with procedures established by the
+16 division;
+17 (vii) Designate secure locations for the inspection, service, repair, or storage of sports-
+18 wagering equipment and for employee training and instruction to be approved by the division;
+19 (viii) Establish standards prohibiting persons under eighteen (18) years of age from
+20 participating in sports wagering;
+21 (ix) Establish compulsive and problem gambling standards and/or programs pertaining to
+22 sports wagering consistent with this chapter;
+23 (6) Establishing the minimal proficiency requirements for those individuals accepting
+24 sports wagers and administering payoffs on winning sports wagers. The foregoing requirements of
+25 this subsection may be in addition to any rules or regulations of the DBR requiring licensing of
+26 personnel of state-operated gaming facilities;
+27 (7) Establish appropriate eligibility requirements and standards for traditional sports-
+28 wagering equipment suppliers; and
+29 (8) Any other matters necessary for conducting sports wagering.
+30 (b) The hosting facility shall provide secure, segregated facilities as required by the
+31 division on the premises for the exclusive use of the division staff and the gaming enforcement unit
+32 of the state police. The space shall be located proximate to the gaming floor and shall include
+33 surveillance equipment, monitors with full camera control capability, as well as other office
+34 equipment that may be deemed necessary by the division. The location and size of the space and
+LC005778 - Page 14 of 17
+
+1 necessary equipment shall be subject to the approval of the division.
+2 (c) No later than January 1, 2027, the division shall issue an open invitation to applicants
+3 for sports-wagering vendor contracts and then shall award no less than four (4) and no more than
+4 six (6) individual sports-wagering vendor contracts. This subsection shall not be construed to direct
+5 the commission to award a sports-wagering vendor contract to an unqualified vendor.
+6 (1) Each selected vendor shall be subject to licensing requirements, ongoing compliance
+7 audits, and consumer protection standards as promulgated by the division.
+8 (2) The request for proposals shall prioritize vendors that demonstrate:
+9 (i) Technical capability to ensure platform integrity and responsible gaming;
+10 (ii) Strong regulatory compliance history;
+11 (iii) Strong history of sports betting operation in other states; and
+12 (iv) Commitment to maximizing state revenue and minimizing harm.
+13 (3) The division shall promulgate rules and regulations necessary to implement the
+14 provisions of this subsection within ninety (90) days of the effective date of this section.
+15 42-61.2-5. Allocation of sports-wagering and online sports-wagering revenue.
+16 (a) Notwithstanding the provisions of § 42-61-15, the division of lottery is authorized to
+17 enter into an agreement to allocate sports-wagering revenue derived from sports wagering and
+18 online sports wagering at the hosting facilities between the state, the state’s authorized sports-
+19 wagering vendor, and the host facilities. The allocation of sports-wagering revenue and online
+20 sports-wagering revenue shall be:
+21 (1) To the state, fifty-one percent (51%) of sports-wagering revenue and online sports-
+22 wagering revenue until the state has received the amount of revenue generated by sports-wagering
+23 and online sports-wagering in the fiscal year 2025, after which the state shall receive twelve percent
+24 (12%) of sports-wagering and online sports-wagering revenue;
+25 (2) To the state’s authorized sports-wagering vendor vendors, thirty-two percent (32%)
+26 forty and one half percent (40.5%) of sports-wagering revenue and online sports-wagering revenue
+27 until the state has received the amount of revenue generated by sports-wagering and online sports-
+28 wagering in the fiscal year 2025, after which the state’s authorized sports-wagering vendors shall
+29 receive seventy-nine and one half percent (79.5%) of sports-wagering and online sports-wagering
+30 revenue; and
+31 (3) To the host facilities, seventeen percent (17%) eight and a half percent (8.5%) of sports-
+32 wagering revenue and online sports-wagering revenue; provided that, the host facilities have
+33 received four million five hundred thousand dollars ($4,500,000).
+34 (b) Sports-wagering revenue and online sports-wagering revenue allocated to the state shall
+LC005778 - Page 15 of 17
+
+1 be deposited into the state lottery fund for administrative purposes and then the balance remaining
+2 into the general fund.
+3 (c) The town of Lincoln shall be paid an annual flat fee of two hundred thousand dollars
+4 ($200,000) and the town of Tiverton shall be paid an annual flat fee of two hundred thousand dollars
+5 ($200,000) in compensation for serving as the host communities for sports wagering.
+6 SECTION 2. This act shall take effect upon passage.
+========
+LC005778
+========
+LC005778 - Page 16 of 17
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- VIDEO LOTTERY, GAMES,
+TABLE GAMES AND SPORTS WAGERING
+***
+1 This act would redefine sports wagering sections and specifically change the percent the
+2 host facilities would receive on sports wagering. No later than January 1, 2027, the division would
+3 issue an open invitation to applicants for sports-wagering vendor contracts and then would award
+4 no less than four (4) and no more than six (6) individual sports-wagering vendor contracts.
+5 Additionally, this act would allow a sports-wagering vendor to be permitted to make operational
+6 decisions with regard to marketing, advertising, and promotions and reallocate the percentages of
+7 revenue that the vendors, the state and host facilities would receive from sports-wagering revenues.
+8 This act would take effect upon passage.
+========
+LC005778
+========
+LC005778 - Page 17 of 17

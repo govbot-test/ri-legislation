@@ -1,0 +1,289 @@
+Title: 
+Official Title: 
+Source: versions - 8089
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8089
+========
+LC005184
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+FAMILY COURT
+Introduced By: Representatives Stewart, Casimiro, Ajello, Cruz, Potter, Kislak, Handy,
+Morales, Alzate, and Caldwell
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 14-1-6, 14-1-7.3 and 14-1-36 of the General Laws in Chapter 14-1
+2 entitled "Proceedings in Family Court" are hereby amended to read as follows:
+3 14-1-6. Retention of jurisdiction.
+4 (a) When the court shall have obtained jurisdiction over any child prior to the child having
+5 attained the age of eighteen (18) years by the filing of a petition alleging that the child is wayward
+6 or delinquent pursuant to § 14-1-5, the child shall, except as specifically provided in this chapter,
+7 continue under the jurisdiction of the court until he or she becomes nineteen (19) years of age,
+8 unless discharged prior to turning nineteen (19); provided, however, that the court, upon motion by
+9 the child’s representative, or sua sponte, may extend jurisdiction over the child until the age of
+10 twenty-one (21) if the court finds that it is in the best interest of the child to remain confined and
+11 under the jurisdiction of the juvenile system.
+12 (b) When the court shall have obtained jurisdiction over any child prior to the child’s
+13 eighteenth (18th) birthday by the filing of a miscellaneous petition or a petition alleging that the
+14 child is dependent, neglected, or abused pursuant to §§ 14-1-5 and 40-11-7 or 42-72-14, the child
+15 shall, except as specifically provided in this chapter, continue under the jurisdiction of the court
+16 until he or she becomes eighteen (18) years of age; provided, that at least six (6) months prior to a
+17 child turning eighteen (18) years of age, the court shall require the department of children, youth
+18 and families to provide a description of the transition services including the child’s housing, health
+
+1 insurance, education and/or employment plan; available mentors and continuing support services,
+2 including workforce supports and employment services afforded the child in placement; or a
+3 detailed explanation as to the reason those services were not offered. As part of the transition
+4 planning, the child shall be informed by the department of the opportunity to voluntarily agree to
+5 extended care and placement by the department and legal supervision by the court until age twenty-
+6 one (21). The details of a child’s transition plan shall be developed in consultation with the child,
+7 wherever possible, and approved by the court prior to the dismissal of an abuse, neglect,
+8 dependency, or miscellaneous petition before the child’s twenty-first birthday.
+9 (c) A child, who is in foster care on their eighteenth birthday due to the filing of a
+10 miscellaneous petition or a petition alleging that the child is dependent, neglected, or abused
+11 pursuant to § 14-1-5, § 40-11-7, or § 42-72-14, may voluntarily elect to continue responsibility for
+12 care and placement from DCYF and to remain under the legal supervision of the court as a young
+13 adult until age twenty-one (21), provided:
+14 (1) The young adult was in the legal custody of the department at age eighteen (18); and
+15 (2) The young adult is participating in at least one of the following:
+16 (i) Completing the requirements to receive a high school diploma or GED;
+17 (ii) Completing a secondary education or a program leading to an equivalent credential;
+18 enrolled in an institution that provides postsecondary or vocational education;
+19 (iii) Participating in a job-training program or an activity designed to promote or remove
+20 barriers to employment;
+21 (iv) Is employed for at least eighty (80) hours per month; or
+22 (v) Is incapable of doing any of the foregoing due to a medical condition that is regularly
+23 updated and documented in the case plan.
+24 (d) A former foster child who was adopted or placed in guardianship with an adoption
+25 assistance agreement or a guardianship assistance agreement that was executed on or after his or
+26 her sixteenth birthday and prior to his or her eighteenth birthday may voluntarily agree to extended
+27 care and placement by the department and legal supervision by the court until age twenty-one (21)
+28 if the young adult satisfies the requirements in subsection (c)(2). Provided, however, the department
+29 retains the right to review the request and first attempt to address the issues through the adoption
+30 assistance agreement by providing post adoptive or post guardianship support services to the young
+31 adult and his or her adoptive or guardianship family.
+32 (e) Upon the request of the young adult, who voluntarily agreed to the extension of care
+33 and placement by the department and legal supervision by the court, pursuant to subsections (c)
+34 and (d) of this section, the court’s legal supervision and the department’s responsibility for care
+LC005184 - Page 2 of 9
+
+1 and placement may be terminated. Provided, however, the young adult may request reinstatement
+2 of responsibility and resumption of the court’s legal supervision at any time prior to his or her
+3 twenty-first birthday if the young adult meets the requirements set forth in subsection (c)(2). If the
+4 department wishes to terminate the court’s legal supervision and its responsibility for care and
+5 placement, it may file a motion for good cause. The court may exercise its discretion to terminate
+6 legal supervision over the young adult at any time.
+7 (f) With the consent of the person previously under the court’s supervision, the court may
+8 reopen, extend, or retain its jurisdiction beyond that person’s twenty-first birthday until his or her
+9 twenty-second birthday or until September 30, 2021, whichever date occurs first, under the
+10 following circumstances:
+11 (1) The person aged out of DCYF care or left foster care during the COVID-19 public
+12 health emergency, defined as beginning on January 27, 2020, and is entitled to extended benefits
+13 pursuant to the terms of the Consolidated Appropriations Act of 2021, Pub. L. No. 116-260; and
+14 (2) The court has or had obtained jurisdiction over the person prior to his or her eighteenth
+15 birthday by the filing of a miscellaneous petition or a petition alleging that the child is dependent,
+16 abused, or neglected pursuant to § 14-1-5, § 40-11-7, or § 42-72-14 or after the person’s eighteenth
+17 birthday pursuant to a voluntary extension of care petition; and
+18 (3) Court supervision is necessary for the department of children, youth and families to
+19 access IV-E funding to support such benefits, in whole or in part; and
+20 (4) Court supervision is required to continue transition planning and to ensure the safety,
+21 permanency, and well-being of older youth who remain in or who age out of foster care and re-
+22 enter foster care.
+23 (g) The court may retain jurisdiction of any child who is seriously emotionally disturbed
+24 or developmentally delayed pursuant to § 42-72-5(b)(24)(v) until that child turns age twenty-one
+25 (21) when the court shall have obtained jurisdiction over any child prior to the child’s eighteenth
+26 birthday by the filing of a miscellaneous petition or a petition alleging that the child is dependent,
+27 neglected, and/or abused pursuant to §§ 14-1-5, and 40-11-7, or 42-72-14.
+28 (h) The department of children, youth and families shall work collaboratively with the
+29 department of behavioral healthcare, developmental disabilities and hospitals, and other agencies,
+30 in accordance with § 14-1-59, to provide the family court with a transition plan for those individuals
+31 who come under the court’s jurisdiction pursuant to a petition alleging that the child is dependent,
+32 neglected, and/or abused and who are seriously emotionally disturbed or developmentally delayed
+33 pursuant to § 42-72-5(b)(24)(v). This plan shall be a joint plan presented to the court by the
+34 department of children, youth and families and the department of behavioral healthcare,
+LC005184 - Page 3 of 9
+
+1 developmental disabilities and hospitals. The plan shall include the behavioral healthcare,
+2 developmental disabilities and hospitals’ community or residential service level, health insurance
+3 option, education plan, available mentors, continuing support services, workforce supports and
+4 employment services, and the plan shall be provided to the court at least twelve (12) months prior
+5 to discharge. At least three (3) months prior to discharge, the plan shall identify the specific
+6 placement for the child, if a residential placement is needed. The court shall monitor the transition
+7 plan. In the instance where the department of behavioral healthcare, developmental disabilities and
+8 hospitals has not made timely referrals to appropriate placements and services, the department of
+9 children, youth and families may initiate referrals.
+10 (i) The parent and/or guardian and/or guardian ad litem of a child who is seriously
+11 emotionally disturbed or developmentally delayed pursuant to § 42-72-5(b)(24)(v), and who is
+12 before the court pursuant to §§ 14-1-5(1)(iii) through 14-1-5(1)(v), § 40-11-7, or § 42-72-14, shall
+13 be entitled to a transition hearing, as needed, when the child reaches the age of twenty (20) if no
+14 appropriate transition plan has been submitted to the court by the department of children, youth and
+15 families and the department of behavioral healthcare, developmental disabilities and hospitals. The
+16 family court shall require that the department of behavioral healthcare, developmental disabilities
+17 and hospitals shall immediately identify a liaison to work with the department of children, youth
+18 and families until the child reaches the age of twenty-one (21) and an immediate transition plan be
+19 submitted if the following facts are found:
+20 (1) No suitable transition plan has been presented to the court addressing the levels of
+21 service appropriate to meet the needs of the child as identified by the department of behavioral
+22 healthcare, developmental disabilities and hospitals; or
+23 (2) No suitable housing options, health insurance, educational plan, available mentors,
+24 continuing support services, workforce supports, and employment services have been identified for
+25 the child.
+26 (j) In any case where the court shall not have acquired jurisdiction over any person prior to
+27 the person’s eighteenth (18th) birthday by the filing of a petition alleging that the person had
+28 committed an offense, but a petition alleging that the person had committed an offense that would
+29 be punishable as a felony if committed by an adult has been filed before that person attains the age
+30 of nineteen (19) years of age, that person shall, except as specifically provided in this chapter, be
+31 subject to the jurisdiction of the court until he or she becomes nineteen (19) years of age, unless
+32 discharged prior to turning nineteen (19); provided, however, that the court, upon motion by the
+33 child’s representative, or sua sponte, may extend jurisdiction over the child until the age of twenty-
+34 one (21) if the court finds that it is in the best interest of the child to remain confined and under the
+LC005184 - Page 4 of 9
+
+1 jurisdiction of the juvenile system.
+2 (k) In any case where the court shall not have acquired jurisdiction over any person prior
+3 to the person attaining the age of nineteen (19) years by the filing of a petition alleging that the
+4 person had committed an offense prior to the person attaining the age of eighteen (18) years that
+5 would be punishable as a felony if committed by an adult, that person shall be referred to the court
+6 that had jurisdiction over the offense if it had been committed by an adult. The court shall have
+7 jurisdiction to try that person for the offense committed prior to the person attaining the age of
+8 eighteen (18) years and, upon conviction, may impose a sentence not exceeding the maximum
+9 penalty provided for the conviction of that offense.
+10 (l) In any case where the court has certified and adjudicated a child in accordance with the
+11 provisions of §§ 14-1-7.2 and 14-1-7.3, the jurisdiction of the court shall encompass the power and
+12 authority to sentence the child to a period in excess of the age of nineteen (19) years. However, in
+13 no case shall the sentence be in excess of the maximum penalty provided by statute for the
+14 conviction of the offense; provided, however, that the court, upon motion by the child’s
+15 representative, or sua sponte, may extend jurisdiction over the child until the age of twenty-one
+16 (21) if the court finds that it is in the best interest of the child to remain confined and under the
+17 jurisdiction of the juvenile system.
+18 (m) Nothing in this section shall be construed to affect the jurisdiction of other courts over
+19 offenses committed by any person after he or she reaches the age of eighteen (18) years.
+20 14-1-7.3. Certification — Effect.
+21 (a) Upon a finding by the court that the child is subject to certification pursuant to § 14-1-
+22 7.2, the court shall afford the child a right to a jury trial, and upon conviction for the offense
+23 charged, the court shall sentence the child in accordance with one of the following alternatives:
+24 (1) Impose a sentence upon the child to the training school for youth until the time that the
+25 child attains the age of nineteen (19) years; provided, however, that the court, upon motion by the
+26 child’s representative, or sua sponte, may extend jurisdiction over the child until the age of twenty-
+27 one (21) if the court finds that it is in the best interest of the child to remain confined and under the
+28 jurisdiction of the juvenile system;
+29 (2) Impose a sentence upon the child for a period in excess of the child’s nineteenth
+30 birthday to the adult correctional institutions, with the period of the child’s minority to be served
+31 in the training school for youth in a facility to be designated by the court; provided, however, that
+32 the court, upon motion by the child’s representative, or sua sponte, may extend jurisdiction over
+33 the child until the age of twenty-one (21) if the court finds that it is in the best interest of the child
+34 to remain confined and under the jurisdiction of the juvenile system. However, the sentence shall
+LC005184 - Page 5 of 9
+
+1 not exceed the maximum sentence provided for by statute for conviction of the offense.
+2 (b) Any child who is certified shall not be eligible for release from the training school for
+3 youth unless, after hearing, the certifying judge, or the chief judge in his or her absence, or his or
+4 her designee, determines by clear and convincing evidence that the child will not pose a threat to
+5 the public during the term of the release.
+6 (c) In the event that the court has modified the order of certification pursuant to § 14-1-42
+7 by suspending the balance of the sentence imposed, any violation of the terms of the suspended
+8 sentence shall be referred to the appropriate adult court to be treated in accordance with the regular
+9 procedure of the court, unless the person is under the age of eighteen (18) years at the time of the
+10 violation, in which case, jurisdiction over the sentence shall continue in the family court.
+11 (d) In the event that the court, after a hearing on modification of the order of certification
+12 pursuant to § 14-1-42, has determined that it has not been demonstrated by clear and convincing
+13 evidence that the person has been sufficiently rehabilitated and could be released in the community
+14 without posing a danger to the public should the order of certification be modified, the court shall
+15 deny the modification of the order of certification and direct the person to serve the balance of his
+16 or her sentence under the jurisdiction of the department of corrections in a facility under the control
+17 of the department; provided, however, that the court, upon motion by the child’s representative, or
+18 sua sponte, may extend jurisdiction over the child until the age of twenty-one (21) if the court finds
+19 that it is in the best interest of the child to remain confined and under the jurisdiction of the juvenile
+20 system. The sentence, including any term served in the training school for youth, shall be subject
+21 to the regulations and statutes governing the parole board.
+22 (e) Any person who commits an offense which would be punishable as a felony if
+23 committed by an adult, after having been certified and adjudicated by the family court pursuant to
+24 § 14-1-7.2, may, after a hearing by a justice of the family court to determine that probable cause
+25 exists to believe that the child has committed the offense, have the jurisdiction over his or her
+26 sentence transferred to the department of corrections to be served in facilities under the control of
+27 the department; provided, however, that the court, upon motion by the child’s representative, or sua
+28 sponte, may extend jurisdiction over the child until the age of twenty-one (21) if the court finds that
+29 it is in the best interest of the child to remain confined and under the jurisdiction of the juvenile
+30 system.
+31 (f) A finding that the child is subject to certification shall constitute presumptive evidence
+32 of the non-amenability of the person to further treatment in facilities available to the family court
+33 and the court shall transfer the jurisdiction over his or her sentence to the department of corrections
+34 to be served in facilities under the control of the department, unless the presumption is rebutted by
+LC005184 - Page 6 of 9
+
+1 clear and convincing evidence which demonstrates that the person is amenable to treatment in
+2 family court facilities.
+3 (g)(1) A finding that the child is subject to certification shall also constitute presumptive
+4 evidence of the non-amenability of the person to further treatment in facilities available to the
+5 family court and the court shall waive jurisdiction over that offense and all subsequent offenses and
+6 the child shall be prosecuted for the offense by the court which would have jurisdiction if committed
+7 by an adult, unless the presumption is rebutted by clear and convincing evidence which
+8 demonstrates that the person is amenable to treatment in family court facilities.
+9 (2) A waiver of jurisdiction over a child pursuant to subdivision (1) of this subsection shall
+10 constitute a waiver of jurisdiction over that child for that offense and for all subsequent offenses of
+11 whatever nature, and the child shall be referred to the court which would have had jurisdiction if
+12 the offense had been committed by an adult.
+13 (h) The name of any person waived or certified and convicted shall be available to the
+14 general public.
+15 14-1-36. Commitment of delinquent and wayward children.
+16 (a) In all proceedings under this chapter, the court may order a delinquent or wayward child
+17 to be committed to the training school for youth for a sentence no longer than the youth’s nineteenth
+18 birthday; provided, however, that the court, upon motion by the child’s representative, or sua
+19 sponte, may extend jurisdiction over the child until the age of twenty-one (21) if the court finds that
+20 it is in the best interest of the child to remain confined and under the jurisdiction of the juvenile
+21 system. However, nothing contained in this section shall be construed to prohibit the placing of any
+22 child in the custody of the department of children, youth and families or any other agency, society,
+23 or institution, pursuant to § 14-1-32. The commitment of delinquent or wayward children shall be
+24 by an order and all assignments of the custody of dependent, neglected, delinquent, or wayward
+25 children to the state training school for youth or to the custody of the department of children, youth
+26 and families or to any of the private institutions, agencies, or societies mentioned in this chapter
+27 shall be by a decree signed by the justice of the court by whom the order or decree is issued, and
+28 that order or decree shall be directed to any person that the court may designate, and shall require
+29 that person to take the child and deliver him or her to the officer in charge of the training school
+30 for youth or to the custody of the director of children, youth and families or of the public or private
+31 institution, agency, or society, and the order or decree shall constitute the person charged with it,
+32 while he or she has the order in his or her possession for service, an officer for all purposes under
+33 this chapter, in any county of the state in which it may be necessary for him or her to go. The person
+34 charged with carrying out the order or decree shall also deliver to the officer of the public or private
+LC005184 - Page 7 of 9
+
+1 institution, agency, or society or to the training school for youth or the director of children, youth
+2 and families a copy of the order or the decree signed by the justice of the court issuing it, and
+3 subject to the provisions of this chapter, the officer and other authorities in charge of the training
+4 school for youth or the director of children, youth and families or any public or private institution,
+5 agency, or society shall hold the child according to the terms of any other order or decree that may
+6 from time to time thereafter be issued by the court in relation to the child.
+7 (b) Whenever the court shall commit a child to the training school for youth or to the
+8 director of children, youth and families or any other institution or agency, it shall transmit with the
+9 order of commitment a summary of its information concerning the child.
+10 SECTION 2. This act shall take effect upon passage.
+========
+LC005184
+========
+LC005184 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO DELINQUENT AND DEPENDENT CHILDREN -- PROCEEDINGS IN
+FAMILY COURT
+***
+1 This act would permit the family court to retain jurisdiction over juveniles and allow the
+2 family court to order juveniles detained in the training school until the age of twenty-one if the
+3 court finds that it is in the best interest of the child.
+4 This act would take effect upon passage.
+========
+LC005184
+========
+LC005184 - Page 9 of 9

@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - 7507
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7507
+========
+LC004806
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+JUDGMENTS, ORDERS, AND DECREES
+Introduced By: Representatives Corvese, McNamara, J. Brien, Azzinaro, DeSimone,
+Read, Bennett, Noret, Fascia, and Slater
+Date Introduced: February 04, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 9-21 of the General Laws entitled "Judgments, Orders, and Decrees"
+2 is hereby amended by adding thereto the following section:
+3 9-21-14. Judgment lien notice.
+4 (a) Notwithstanding any such notice provided through the court process, within ten (10)
+5 business days of recording a judgment lien on real property, the judgment creditor shall send written
+6 notice to the property owner by certified mail at the last known address.
+7 (b) The notice shall include:
+8 (1) The name and address of the judgment creditor;
+9 (2) The amount of the judgment;
+10 (3) The property description affected by the lien; and
+11 (4) Instructions on how to satisfy or contest the lien.
+12 (c) Failure to provide the required notice shall not invalidate the lien but may toll any
+13 deadlines related to enforcement until notice is given.
+14 (d) The clerk of the court shall maintain records of judgment lien filings and notices sent.
+15 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC004806
+========
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+JUDGMENTS, ORDERS, AND DECREES
+***
+1 This act would require that notice of a judgment lien be sent within ten (10) business days
+2 of the recording of the lien.
+3 This act would take effect on January 1, 2027.
+========
+LC004806
+========
+LC004806 - Page 2 of 2

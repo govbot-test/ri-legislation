@@ -1,0 +1,117 @@
+Title: 
+Official Title: 
+Source: versions - 7336
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7336
+========
+LC004508
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- LIABILITY INSURANCE -- UNINSURED MOTORIST
+COVERAGE
+Introduced By: Representatives Corvese, Azzinaro, Kennedy, Shanley, Slater, Solomon,
+J. Lombardi, Noret, Dawson, and McNamara
+Date Introduced: January 28, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-7-2.1 of the General Laws in Chapter 27-7 entitled "Liability
+2 Insurance" is hereby amended to read as follows:
+3 27-7-2.1. Uninsured motorist coverage.
+4 (a) No policy insuring against loss resulting from liability imposed by law for property
+5 damage caused by collision, bodily injury, or death suffered by any person arising out of the
+6 ownership, maintenance, or use of a motor vehicle shall be delivered or issued for delivery in this
+7 state with respect to any motor vehicle registered or principally garaged in this state unless coverage
+8 is provided in or supplemental to the policy, for bodily injury or death in limits set forth in each
+9 policy, but in no instance less than the limits set forth in § 31-47-2(13)(i)(A) under provisions
+10 approved by the insurance commissioner, for the protection of persons insured under the policy
+11 who are legally entitled to recover damages from owners or operators of uninsured motor vehicles
+12 and hit-and-run motor vehicles because of property damage, bodily injury, sickness, or disease,
+13 including death, resulting from that injury, sickness, or disease. The insurer shall provide uninsured
+14 motorist coverage in an amount equal to the insured’s bodily injury liability limits. The named
+15 insured shall have the option of selecting a limit in writing less than the bodily injury liability
+16 coverage, but in no event less than the limits set forth in § 31-47-2(13)(i)(A), unless the named
+17 insured is purchasing only the minimum coverage required by compulsory insurance provisions of
+18 the general laws, in which case the limit can be reduced to zero, but only after signing an advisory
+
+1 notice approved by the director of business regulation concerning the hazard of uninsured and
+2 underinsured motorists. That coverage shall also apply in the case of a responsible party whose
+3 liability insurance carrier was insolvent at the time of the accident or became insolvent subsequent
+4 to the accident.
+5 (b) Notwithstanding the provisions of subsection (a), the named insured shall have the
+6 option to reject, in writing, uninsured motorist coverage for loss resulting from damage to property.
+7 If the named insured has collision coverage for property damage to his or her vehicle, then no
+8 coverage for uninsured motorist property damage shall be required unless the insured at his or her
+9 option chooses to purchase that coverage.
+10 (c) For the purposes of this section:
+11 (1) “Policy insuring against loss” means a policy that provides primary coverage for the
+12 insured motor vehicle; and
+13 (2) “Property damage” means injury to or destruction of the insured vehicle, including its
+14 loss of use and any property, excluding business property, owned by the insured while contained
+15 in the insured vehicle.
+16 (d) After the selection of limits by the named insured or the exercise of the right to reject
+17 that portion of the coverage that applies to property damage, the insurer or any affiliated insurer
+18 shall be required to notify the policyholder, in any renewal, reinstatement, substitute, amended,
+19 altered, modified, transfer, or replacement policy, as to the availability of that coverage or optional
+20 limits. The insured may, subject to the limitations expressed in this chapter, make a written request
+21 for higher limits, newly added coverage, or coverage more extensive than that provided on a prior
+22 policy.
+23 (e) Property damage caused by collision shall be subject to a two hundred dollar ($200)
+24 deductible per claim unless otherwise agreed. Any claim submitted under the property damage
+25 portion of this section must include the name, address, and other means of identification to establish
+26 that the at-fault operator is without insurance. The rate for this coverage will be established as a
+27 percentage of the existing base collision insurance rate as utilized by the majority of companies, to
+28 be determined by the insurance commissioner.
+29 (f) Whenever, through subrogation, an insurance company or its insurance producer
+30 collects a casualty loss from a third party, that company or insurance producer shall, from the funds
+31 collected, first pay to the insured the deductible portion of the casualty loss less the prorated share
+32 of subrogation expense and only after this retain any funds in excess of the deductible portion of
+33 the recovery.
+34 (g) For the purposes of this section “uninsured motorist” shall include an underinsured
+LC004508 - Page 2 of 4
+
+1 motorist. An “underinsured motorist” is the owner or operator of a motor vehicle who carries
+2 automobile liability insurance with coverage in an amount less than the limits or damages that
+3 persons insured pursuant to this section are legally entitled to recover because of bodily injury,
+4 sickness, or disease, including death, resulting from that property damage, injury, sickness, or
+5 disease.
+6 (h) A person entitled to recover damages pursuant to this section shall not be required to
+7 make a claim against or bring an action against the uninsured or underinsured tortfeasor as a
+8 prerequisite to recover damages from the insurer providing coverage pursuant to this section. In the
+9 event that the person entitled to recover against an underinsured motorist recovers from the insurer
+10 providing coverage pursuant to this section, that insurer shall be entitled to subrogation rights
+11 against the underinsured motorist and his or her insurance carrier. Release of the tortfeasor with the
+12 consent of the company providing the underinsured coverage shall not extinguish or bar the claim
+13 of the insured against the underinsurance carrier regardless of whether the claim has been
+14 liquidated.
+15 (i) Whenever an insured has paid two (2) or more separate premiums for uninsured
+16 motorists’ coverage in a single policy of insurance or under several policies with the same insurance
+17 company, the insured shall be permitted to collect up to the aggregate amount of coverage for all
+18 of the vehicles insured, regardless of any language in the policy to the contrary.
+19 SECTION 2. This act shall take effect upon passage.
+========
+LC004508
+========
+LC004508 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- LIABILITY INSURANCE -- UNINSURED MOTORIST
+COVERAGE
+***
+1 This act would add property damage to statutory underinsured motor coverage, rather than
+2 just uninsured motorist coverage, as it is presently.
+3 This act would take effect upon passage.
+========
+LC004508
+========
+LC004508 - Page 4 of 4

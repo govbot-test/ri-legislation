@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - 7631
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7631
+========
+LC004349
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC OFFICERS AND EMPLOYEES -- MEDICARE ENROLLMENT
+Introduced By: Representatives Alzate, Morales, Furtado, McGaw, Shanley, and Batista
+Date Introduced: February 11, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 36-12.2 of the General Laws entitled "Medicare Enrollment" is
+2 hereby amended by adding thereto the following section:
+3 36-12.2-2. Medicare eligibility.
+4 (a) Notwithstanding the provisions of any other general or public law to the contrary, in
+5 determining eligibility for the Qualified Medicare Beneficiary, Specified Low-Income Medicare
+6 Beneficiary and Qualified Individual programs, described in 42 U.S.C. 1396a(a)(10)(E), also
+7 known as the Medicare Saving or Medicare Buy-In programs, the Rhode Island executive office of
+8 health and human services (EOHHS) shall disregard all assets or resources. Implementation of this
+9 subsection shall be contingent upon receiving federal approvals described in subsection (b) of this
+10 section.
+11 (b) Prior to implementing subsection (a) of this section, the EOHHS shall obtain all
+12 required federal approvals including, amending its state plan, as necessary, and shall promulgate
+13 regulations to implement this section.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC004349
+========
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC OFFICERS AND EMPLOYEES -- MEDICARE ENROLLMENT
+***
+1 This act would require the EOHHS to disregard an individual’s assets or resources, when
+2 determining an individual’s eligibility for any Medicare beneficiary program, contingent on federal
+3 approval.
+4 This act would take effect upon passage.
+========
+LC004349
+========
+LC004349 - Page 2 of 2

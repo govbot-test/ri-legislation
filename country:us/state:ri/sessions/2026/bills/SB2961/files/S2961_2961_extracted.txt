@@ -1,0 +1,259 @@
+Title: 
+Official Title: 
+Source: versions - 2961
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2961
+========
+LC004962
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO FOOD AND DRUGS -- THE RHODE ISLAND CANNABIS ACT
+Introduced By: Senators Bissaillon, LaMountain, Mack, and Acosta
+Date Introduced: March 04, 2026
+Referred To: Senate Judiciary
+(Cannabis Control Commission)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 21-28.11-3 of the General Laws in Chapter 21-28.11 entitled "The
+2 Rhode Island Cannabis Act" is hereby amended to read as follows:
+3 21-28.11-3. Definitions.
+4 For purposes of this chapter, the following words, terms and phrases shall have the
+5 following meanings:
+6 (1) “Administrator” means the administrator of the cannabis office appointed by the
+7 governor pursuant to the provisions of § 21-28.11-18.1.
+8 (2) “Adult use cannabis” or “recreational cannabis” means cannabis which may be legally
+9 possessed and consumed for non-medical purposes by a person who is at least twenty-one (21)
+10 years of age.
+11 (3) “Applicant” means a Rhode Island resident or a business entity with a principal place
+12 of business located in Rhode Island to include, but not limited to, a corporation, limited liability
+13 company, limited liability partnership or partnership, and in which fifty-one percent (51%) of the
+14 equity in the business entity is owned by residents of Rhode Island, and the Rhode Island resident
+15 or business entity has made application for issuance of a license or certificate to own or engage in
+16 a cannabis business subject to the provisions of this chapter.
+17 (4) “Cannabinoid’' means any of several compounds produced by cannabis plants that have
+18 medical and psychotropic effects.
+19 (5) “Cannabinoid profile” means amounts, expressed as the dry-weight percentages, of
+
+1 delta-9-tetrahydrocannabinol, cannabidiol, tetrahydrocannabinolic acid and cannabidiolic acid in a
+2 cannabis product expressed in a form and manner determined by the commission. Amounts of other
+3 cannabinoids may be regulated by the commission.
+4 (6) “Cannabis” or “marijuana” or “marihuana” means all parts of any plant of the genus
+5 cannabis not excepted herein, and whether growing or not; the seeds thereof; and resin extracted
+6 from any part of the plant; and every compound, manufacture, salt, derivative, mixture or
+7 preparation of the plant, its seeds or resin including tetrahydrocannabinol; provided, however, that
+8 “cannabis” shall not include:
+9 (i) The mature stalks of the plant, fiber produced from the stalks, oil, or cake made from
+10 the seeds of the plant, any other compound, manufacture, salt, derivative, mixture or preparation of
+11 the mature stalks, fiber, oil or cake made from the seeds of the plant or the sterilized seed of the
+12 plant that is incapable of germination;
+13 (ii) Hemp; or
+14 (iii) The weight of any other ingredient combined with cannabis to prepare topical or oral
+15 administrations, food, drink or other products.
+16 (7) “Cannabis accessories” or “marijuana accessories” means equipment, products, devices
+17 or materials of any kind that are intended or designed for use in planting, propagating, cultivating,
+18 growing, harvesting, manufacturing, compounding, converting, producing, processing, preparing,
+19 testing, analyzing, packaging, repackaging, storing, containing, ingesting, inhaling or otherwise
+20 introducing cannabis into the human body.
+21 (8) “Cannabis advisory board” or “advisory board” means the cannabis advisory board
+22 established pursuant to the provisions of § 21-28.11-6.
+23 (9) “Cannabis concentrate” means the resin extracted from any part of the plant of the
+24 genus cannabis and every compound, manufacture, salt, derivative, mixture or preparation of that
+25 resin but shall not include the weight of any other ingredient combined with cannabis to prepare
+26 cannabis products.
+27 (10) “Cannabis control commission” or “commission” means the Rhode Island cannabis
+28 control commission established by § 21-28.11-4.
+29 (11) “Cannabis cultivator” or “marijuana cultivator” means an entity licensed to cultivate,
+30 process and package cannabis, to deliver cannabis to cannabis establishments and to transfer
+31 cannabis to other cannabis establishments, but not to consumers.
+32 (12) “Cannabis establishment” or “marijuana establishment” means a cannabis cultivator,
+33 cannabis testing laboratory, cannabis product manufacturer, cannabis retailer, hybrid cannabis
+34 retailer or any other type of licensed cannabis-related business.
+LC004962 - Page 2 of 8
+
+1 (13) “Cannabis office” means the office established pursuant to § 21-28.11-18.1.
+2 (14) “Cannabis product manufacturer” or “marijuana product manufacturer”' means an
+3 entity licensed to obtain, manufacture, process and package cannabis and cannabis products, to
+4 deliver cannabis and cannabis products to cannabis establishments and to transfer cannabis and
+5 cannabis products to other cannabis establishments, but not to consumers.
+6 (15) “Cannabis products” or “marijuana products” means products that have been
+7 manufactured and contain cannabis or an extract from cannabis, including concentrated forms of
+8 cannabis and products composed of cannabis and other ingredients that are intended for use or
+9 consumption, including edible products, beverages, topical products, ointments, oils and tinctures.
+10 (16) “Cannabis retailer” or “marijuana retailer” means an entity licensed pursuant to § 21-
+11 28.11-10.2 to purchase and deliver cannabis and cannabis products from cannabis establishments
+12 and to deliver, sell or otherwise transfer cannabis and cannabis products to cannabis establishments
+13 and to consumers.
+14 (17) “Cannabis testing laboratory’' means a third-party analytical testing laboratory that is
+15 licensed annually by the commission, in consultation with the department of health, to collect and
+16 test samples of cannabis and cannabis products pursuant to regulations issued by the commission
+17 and is:
+18 (i) Independent financially from any medical cannabis treatment center or any licensee or
+19 cannabis establishment for which it conducts a test; and
+20 (ii) Qualified to test cannabis in compliance with regulations promulgated by the
+21 commission pursuant to this chapter. The term includes, but is not limited to, a cannabis testing
+22 laboratory as provided in § 21-28.11-11.
+23 (18) “Chairperson” means the chairperson of the cannabis control commission established
+24 pursuant to § 21-28.11-4.
+25 (19) “Close associate” means a person who holds a legally recognized financial interest in,
+26 or is entitled to exercise power in, the business of an applicant or licensee and, by virtue of that
+27 interest or power, is able to exercise a significant influence over the management or operation of a
+28 cannabis establishment licensed under this chapter.
+29 (20) “Consumer” means a person who is at least twenty-one (21) years of age, and who is
+30 authorized by law to consume or use cannabis.
+31 (21) “Controlling person” means an officer, board member or other individual who has a
+32 financial or voting interest of ten percent (10%) or greater in a cannabis establishment.
+33 (22) “Cultivation batch” means a collection of cannabis plants from the same seed or plant
+34 stock that are cultivated and harvested together, and receive an identical propagation and cultivation
+LC004962 - Page 3 of 8
+
+1 treatment, including, but not limited to: growing media, ambient conditions, watering and light
+2 regimes and agricultural or hydroponic inputs. Every cannabis cultivator licensee shall assign and
+3 record a unique, sequential alphanumeric identifier to each cultivation batch for the purposes of
+4 production tracking, product labeling and product recalls.
+5 (23) “Disproportionately impacted area” means a census tract or comparable geographic
+6 area that satisfies at least one of the following criteria as determined by the commission, that:
+7 (i) The area has a poverty rate of at least twenty percent (20%) according to the latest
+8 federal decennial census;
+9 (ii) Seventy-five percent (75%) or more of the children in the area participate in the federal
+10 free lunch program according to reported statistics from the Rhode Island board of education;
+11 (iii) At least twenty percent (20%) of the households in the area receive assistance under
+12 the Supplemental Nutrition Assistance Program (SNAP);
+13 (iv) The area has an average unemployment rate, as determined by the Rhode Island
+14 department of labor and training, that is more than one hundred twenty percent (120%) of the
+15 national unemployment average, as determined by the United States Department of Labor, for a
+16 period of at least two (2) consecutive calendar years preceding the date of the application; or
+17 (v)(A) The area has disproportionately high rates of arrest, conviction, and incarceration
+18 related to the sale, possession, use, cultivation, manufacture, or transportation of cannabis in
+19 comparison to other communities and localities in the state; or
+20 (B) The area has a history of arrests, convictions, and other law enforcement practices in a
+21 certain geographic area, such as, but not limited to, precincts, zip codes, neighborhoods, and
+22 political subdivisions, reflecting a disparate enforcement of cannabis prohibition during a certain
+23 time period, when compared to the remainder of the state.
+24 (vi) The commission shall, with recommendations from the cannabis advisory board and
+25 the chief equity officer, issue guidelines to determine how to assess which communities have been
+26 disproportionately impacted and how to assess if someone is a member of a community
+27 disproportionately impacted.
+28 (24) “Final issuance of the commission’s rules and regulations” means the rules and
+29 regulations adopted by the commission after compliance with requirements of chapter 35 of title
+30 42 (the “administrative procedures act”) and chapter 46 of title 42 (the “open meetings act”) and
+31 shall not include any emergency, provisional or interim rules, regulations, requirements, orders,
+32 instructions or procedures.
+33 (25) “Finished cannabis” means a usable cannabis, cannabis resin or cannabis concentrate.
+34 (26) “Hemp” means the plant of the genus cannabis or any part of the plant, whether
+LC004962 - Page 4 of 8
+
+1 growing or not, with a delta-9-tetrahydrocannabinol concentration that does not exceed three tenths
+2 of one percent (0.3%) on a dry weight basis of any part of the plant of the genus cannabis, or per
+3 volume or weight of cannabis product, or the combined per cent of delta-9-tetrahydrocannabinol
+4 and tetrahydrocannabinolic acid in any part of the plant of the genus cannabis regardless of moisture
+5 content.
+6 (27) “Host community” means a municipality in which a cannabis establishment or a
+7 medical cannabis treatment center is located or in which an applicant has proposed locating a
+8 cannabis establishment or a medical cannabis treatment center.
+9 (28) “Hybrid cannabis retailer” or “hybrid compassion center” means a compassion center
+10 licensed pursuant to chapter 28.6 of this title that is in good standing with the department of business
+11 regulation and that has paid the fee pursuant to § 21-28.11-10 and has been authorized to sell non-
+12 medical or adult use cannabis to consumers.
+13 (29) “Laboratory agent” means a registered employee of a cannabis testing laboratory who
+14 transports, possesses or tests cannabis.
+15 (30) “Licensee” means a person or entity licensed by the commission pursuant to the
+16 provisions of this chapter. Any business structure recognized under title 7, including, but not limited
+17 to, corporations, partnerships, limited partnerships, limited-liability companies, and workers’
+18 cooperatives, which is otherwise qualified, is eligible to be considered by the commission as an
+19 entity licensee.
+20 (31) “Manufacture” means to compound, blend, extract, infuse or otherwise make or
+21 prepare a cannabis product.
+22 (32) “Medical cannabis” means cannabis and cannabis products that satisfy the
+23 requirements of chapter 28.6 of this title and have been given the designation of “medical cannabis”
+24 or “medical marijuana” due to dose, potency and form. Medical cannabis products are only
+25 available for use by patient cardholders, and may only be sold to or possessed by patient
+26 cardholders, or their registered caregiver, or authorized purchaser in accordance with chapter 28.6
+27 of this title. Medical cannabis may not be sold to, possessed by, manufactured by, or used by any
+28 person except as permitted pursuant to chapter 28.6 of this title.
+29 (33) “Medical cannabis treatment center” or “Medical marijuana treatment center” includes
+30 a compassion center, a medical marijuana emporium, or marijuana establishment licensee who
+31 operates a treatment center, as defined in § 21-28.6-3.
+32 (34) “Member of an impacted family” means an individual who has a parent, legal
+33 guardian, child, spouse, or dependent, or was a dependent of an individual who, prior to the
+34 effective date of this chapter, was arrested for, charged with, convicted of, or adjudicated delinquent
+LC004962 - Page 5 of 8
+
+1 for any offense that is eligible for expungement under this chapter.
+2 (35) “Ownership and control” means ownership of at least fifty-one percent (51%) of the
+3 cannabis establishment, and control over the management and day-to-day operations of the
+4 cannabis establishment, and an interest in the capital, assets, and profits and losses of the cannabis
+5 establishment proportionate to percentage of ownership.
+6 (36) “Process” or “processing” means to harvest, dry, cure, trim and separate parts of the
+7 cannabis plant by manual or mechanical means, except it shall not include manufacture as defined
+8 in this section.
+9 (37) “Production batch” means a batch of finished plant material, cannabis resin, cannabis
+10 concentrate or cannabis-infused product made at the same time, using the same methods, equipment
+11 and ingredients. The commission shall require licensees to assign and record a unique, sequential
+12 alphanumeric identifier to each production batch for the purposes of production tracking, product
+13 labeling and product recalls. All production batches shall be traceable to one or more cannabis
+14 cultivation batches.
+15 (38) “Residual solvent” means a volatile organic chemical used in the manufacture of a
+16 cannabis product and that is not completely removed by practical manufacturing techniques.
+17 (39) “Social equity applicant” means an applicant that has been disproportionately
+18 impacted by criminal enforcement of marijuana laws, including individuals convicted of nonviolent
+19 marijuana offenses, immediate family members of individuals convicted of nonviolent marijuana
+20 offenses and individuals who have resided in disproportionately impacted areas for at least five (5)
+21 of the last ten (10) years, as determined by the commission after consultation with the cannabis
+22 advisory board, and further specified in the rules and regulations that shall identify factors and other
+23 considerations to be evaluated in certifying applicants as social equity applicants, provided that
+24 such applicants shall at a minimum meet one of the following criteria:
+25 (i) An applicant with at least fifty-one percent (51%) ownership and control by one or more
+26 individuals who have resided for at least five (5) of the preceding ten (10) years in a
+27 disproportionately impacted area.
+28 (ii) An applicant with at least fifty-one percent (51%) ownership and control by one or
+29 more individuals who:
+30 (A) Have been arrested for, convicted of, or adjudicated delinquent for any offense that is
+31 eligible for expungement under this chapter; or
+32 (B) Is a member of an impacted family.
+33 (iii) For applicants with a minimum of ten (10) full-time employees, an applicant with at
+34 least fifty-one percent (51%) of current employees who:
+LC004962 - Page 6 of 8
+
+1 (A) Currently reside in a disproportionately impacted area; or
+2 (B) Have been arrested for, convicted of, or adjudicated delinquent for any offense that is
+3 eligible for expungement under this chapter or is a member of an impacted family.
+4 (iv) Can demonstrate significant past experience in or business practices that promote
+5 economic empowerment in disproportionally impacted areas.
+6 (v) Had income which does not exceed four hundred percent (400%) of the median income,
+7 as defined by the commission, in a disproportionally impacted area for at least five (5) of the past
+8 ten (10) years.
+9 (40) “Terpenoid” means an isoprene that are the aromatic compounds found in cannabis,
+10 including, but not limited to: limonene, myrcene, pinene, linalool, eucalyptol, Δ-terpinene, ß-
+11 caryophyllene, caryophyllene oxide, nerolidol and phytol.
+12 (41) “Unreasonable and impracticable” means that the measures necessary to comply with
+13 the rules and regulations adopted pursuant to this chapter subject licensees to unreasonable risk or
+14 require such a high investment of money, time or any other resource or asset that a reasonably
+15 prudent businessperson would not operate a cannabis establishment.
+16 (42) “Workers’ cooperative” means an applicant organized and operated pursuant to the
+17 provisions of chapter 6.2 of title 7.
+18 SECTION 2. This act shall take effect upon passage.
+========
+LC004962
+========
+LC004962 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- THE RHODE ISLAND CANNABIS ACT
+***
+1 This act would update the Rhode Island cannabis act to remove the current requirement to
+2 express cannabinoids as the dry-weight percentages.
+3 This act would take effect upon passage.
+========
+LC004962
+========
+LC004962 - Page 8 of 8

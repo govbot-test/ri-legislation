@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - 8146
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8146
+========
+LC005730
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC FINANCE -- STATE BUDGET--PROGRAM PERFORMANCE
+MEASUREMENT
+Introduced By: Representatives Marszalkowski, and Slater
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 35-3-7.2, 35-3-17.1 and 35-3-24.1 of the General Laws in Chapter
+2 35-3 entitled "State Budget" are hereby amended to read as follows:
+3 35-3-7.2. Budget officer as capital development officer.
+4 The budget officer shall be a capital development program officer who shall be responsible
+5 for:
+6 (1) The review of all capital development requests submitted by the various state
+7 departments, as set forth in chapter 6 of title 42, which shall include all independent boards and
+8 commissions and the capital development plans of the Narragansett Bay Commission, Rhode Island
+9 infrastructure bank, the Lottery Commission, and all other public corporations, as defined in
+10 chapter 18 of this title which plans would be subject to the provisions of § 35-18-3; provided, that,
+11 except as provided for in this section, nothing in this section shall be construed to limit the powers
+12 of the council on postsecondary education as outlined in chapter 59 of title 16. Capital development
+13 requests and plans shall be submitted in such form, with such explanation, in such number of copies,
+14 and by such date as the budget officer may require. Copies shall also be provided directly to the
+15 house fiscal advisor and the senate fiscal advisor.
+16 (2) Preparation of a capital budget which shall specify which capital items are proposed for
+17 presentation to the electorate at the next general election.
+18 (3) The activities which will promote capital development planning and develop criteria
+
+1 which can be used to determine appropriate levels of bonded indebtedness.
+2 (4) Acting as chairperson of the capital development planning and oversight commission
+3 which is to be appointed by the governor and shall meet no less than quarterly. The commission,
+4 in addition to recommending to the governor the biennial capital budget, shall implement a long-
+5 range capital development planning process and shall be responsible for the development of an
+6 inventory of state assets to determine the need and prioritization of capital improvements.
+7 (5) Working with the council on postsecondary education in the development by the
+8 council of that portion of the council’s capital development program involving annual general
+9 revenues.
+10 35-3-17.1. Financial statements required from state departments, agencies, and
+11 instrumentalities.
+12 The several state departments, agencies, and public authorities and corporations shall
+13 submit to the fiscal advisors of the house and senate, statements of financial conditions and
+14 operations within thirty (30) days of the close of each of the first three (3) fiscal quarters of each
+15 year. The statements shall include, at a minimum:
+16 (1) Account numbers;
+17 (2) Allotments;
+18 (3) Expenditures to-date;
+19 (4) Estimated expenditures to complete the fiscal year;
+20 (5) Surplus or deficiency projections; and
+21 (6) Progress on any corrective action plans per the most recent annual findings of the
+22 auditor general., the party responsible to implement the corrective action plan, and, if applicable,
+23 the reasons for disagreement with any recommendation proposed by the auditor general; and
+24 (7) The status of capital projects for which any funding from general obligation bond
+25 proceeds, Rhode Island Capital Plan funds, or other pay-as-you-go sources has been approved for
+26 the current fiscal year.
+27 35-3-24.1. Program performance measurement.
+28 (a)(1) Beginning with the fiscal year ending June 30, 1997, the governor shall submit, as
+29 part of each budget submitted to the general assembly pursuant to § 35-3-7, performance objectives
+30 for each program in the budget for the ensuing fiscal year, estimated performance data for the fiscal
+31 year in which the budget is submitted, and actual performance data for the preceding two (2)
+32 completed fiscal years. Performance data shall include efforts at achieving equal opportunity hiring
+33 goals as defined in the department’s annual affirmative action plan. The governor shall, in addition,
+34 recommend appropriate standards against which to measure program performance. Performance in
+LC005730 - Page 2 of 6
+
+1 prior years may be used as a standard where appropriate. These performance standards shall be
+2 stated in terms of results obtained.
+3 (2) Beginning with the fiscal year 2028 budget submission, the capital budget shall identify
+4 to the extent possible the source of the cost estimate upon which the recommendation is based and
+5 which capital projects have had material changes to the scope of work or cost changes of more than
+6 five percent (5%) from approved amounts.
+7 (b) The governor may submit, in lieu of any part of the information required to be submitted
+8 pursuant to subsection (a), an explanation of why the information cannot as a practical matter be
+9 submitted.
+10 (c)(1) The office of management and budget shall be responsible for managing and
+11 collecting program performance measures on behalf of the governor. The office is authorized to
+12 conduct performance reviews and audits of agencies to determine the manner and extent to which
+13 executive branch agencies achieve intended objectives and outcomes.
+14 (2) In order to collect performance measures from agencies, review performance, and
+15 provide recommendations, the office of budget and management is authorized to coordinate with
+16 the office of internal audit and program integrity regarding the findings and recommendations that
+17 result from audits conducted by the office.
+18 (3) In order to facilitate the office of management and budget’s performance reviews,
+19 agencies must generate and provide timely access to records, reports, analyses, audits, reviews,
+20 documents, papers, recommendations, contractual deliverables, or other materials available relating
+21 to agency programs and operations.
+22 (4) In order to ensure alignment of executive branch agency operations with the state’s
+23 priorities, the office of management and budget may produce, with all necessary cooperation from
+24 executive branch agencies, analyses and recommendations to improve program performance,
+25 conduct evidence-based budgeting, and respond to sudden shifts in policy environments.
+26 (5) In order to gain insight into performance or outcomes and inform policymaking and
+27 program evaluation, the office of management and budget may lead, manage, and/or coordinate
+28 interagency and cross-system collaboration or integration initiatives.
+29 SECTION 2. Section 42-11-2.5 of the General Laws in Chapter 42-11 entitled "Department
+30 of Administration" is hereby amended to read as follows:
+31 42-11-2.5. Information technology restricted receipt account and large systems
+32 initiatives fund.
+33 (a) All sums from the sale of any land and the buildings and improvements thereon, and
+34 other real property, title to which is vested in the state, except as provided in § 37-7-15(b) through
+LC005730 - Page 3 of 6
+
+1 (d), shall be transferred to an information technology restricted receipt account (ITRR account) that
+2 is hereby established. This ITRR account shall consist of such sums from the sale of any land and
+3 the buildings and improvements thereon, and other real property, title to which is vested in the state,
+4 except as provided in § 37-7-15(b) through (d), as well as a share of first response surcharge
+5 revenues collected under the provisions of § 39-21.1-14. This ITRR account may also consist of
+6 such sums as the state may from time to time appropriate; as well as money received from the
+7 disposal of information technology hardware, loan, interest, and service charge payments from
+8 benefiting state agencies; as well as interest earnings, money received from the federal government,
+9 gifts, bequests, donations, or otherwise from any public or private source. Any such funds shall be
+10 exempt from the indirect cost recovery provisions of § 35-4-27.
+11 (1) This ITRR account shall be used for the purpose of acquiring information technology
+12 improvements, including, but not limited to: hardware, software, consulting services, and ongoing
+13 maintenance and upgrade contracts for state departments and agencies.
+14 (2) The division of enterprise technology strategy and services of the Rhode Island
+15 department of administration shall adopt rules and regulations consistent with the purposes of this
+16 chapter and chapter 35 of this title, in order to provide recommendations for the orderly and
+17 equitable disbursement of funds from this ITRR account; provided, however, disbursements from
+18 the ITRR account shall be subject to project-specific appropriations and separately listed in the
+19 capital budget submission.
+20 (3) For all requests for proposals that are issued for information technology projects, a
+21 corresponding information technology project manager shall be assigned.
+22 (b) There is also hereby established a special fund to be known as the large systems
+23 initiatives fund (LSI fund), separate and apart from the general fund of the state, to be administered
+24 by the chief information officer within the department of administration for the purpose of
+25 implementing and maintaining enterprise-wide software projects for executive branch departments.
+26 The LSI fund shall consist of such sums as the state may from time to time directly appropriate to
+27 the LSI fund, any accrued interest, and any funds collected pursuant to subsection (b)(1) of this
+28 section. After the completion of any project, the chief digital officer shall inform the state controller
+29 of unexpended sums previously transferred to the LSI Fund for that project and the state controller
+30 shall subsequently transfer any such unexpended funds to the information technology restricted
+31 receipt account; provided, further, the unexpended sums from a completed project and the
+32 subsequent transfer to the ITRR account shall be reported by the state controller to the chairpersons
+33 of the house finance committee and the senate finance committee. The state controller shall transfer
+34 any excess interest accrued in the LSI fund and any funds collected pursuant to subsection (b)(1)
+LC005730 - Page 4 of 6
+
+1 of this section to the ITRR account.
+2 (1) The director of the department of administration may allocate and charge capitalized
+3 costs, in accordance with the statewide cost allocation plan, to agencies that benefit from initiatives
+4 funded through the LSI Fund. The department of administration shall include as part of its budget
+5 submission pursuant to § 35-3-4 an expected billing schedule for any capitalized costs that the
+6 department intends to charge to agencies for the next ensuing fiscal year.
+7 (c) For any new project initiated using sums expended from the LSI Fund, as part of its
+8 budget submission pursuant to § 35-3-4 relative to state fiscal year 2025 and thereafter, the
+9 department of administration shall include a statement of project purpose and the estimated project
+10 cost.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC005730
+========
+LC005730 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC FINANCE -- STATE BUDGET--PROGRAM PERFORMANCE
+MEASUREMENT
+***
+1 This act would provide additional oversight and reporting measures related to audits and
+2 capital projects.
+3 This act would take effect upon passage.
+========
+LC005730
+========
+LC005730 - Page 6 of 6

@@ -1,0 +1,471 @@
+Title: 
+Official Title: 
+Source: versions - 7867
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7867
+========
+LC005415
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+Introduced By: Representative Joseph J. Solomon
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+(Dept. of Business Regulation)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-14-1 of the General Laws in Chapter 19-14 entitled "Licensed
+2 Activities" is hereby amended to read as follows:
+3 19-14-1. Definitions. [Effective until January 1, 2027.]
+4 Unless otherwise specified, the following terms shall have the following meanings
+5 throughout chapters 14, 14.1, 14.2, 14.3, 14.4, 14.6, 14.8, 14.10, and 14.11 of this title:
+6 (1) “Board of directors” means the formal body established by an entity that is responsible
+7 for corporate governance and compliance with state and federal laws.
+8 (1)(2) “Bona fide employee” shall mean an employee of a licensee who works under the
+9 oversight and supervision of the licensee.
+10 (2)(3) “Check” means any check, draft, money order, personal money order, or other
+11 instrument for the transmission or payment of money. For the purposes of check cashing, travelers
+12 checks or foreign denomination instruments shall not be considered checks. “Check cashing”
+13 means providing currency for checks.
+14 (3)(4) “Check casher” means a person or entity who or that, for compensation, engages, in
+15 whole or in part, in the business of cashing checks.
+16 (5) “Corporate governance” means the structure of a business entity and how it is managed
+17 including the corporate rules, policies, processes, and practices used to oversee and manage the
+18 business entity.
+19 (6) “Covered mortgage servicer” means a nonbank mortgage servicer with servicing
+
+1 portfolios of two thousand (2,000) or more one to four (4) unit residential mortgage loans serviced
+2 or subserviced for others, excluding whole loans owned, and loans being interim serviced prior to
+3 sale as of the most recent calendar year end, reported in the NMLS Mortgage Call Report, and that
+4 operates in two (2) or more states, districts, or territories of the United States either currently or as
+5 of the prior calendar year end.
+6 (4)(7) “Currency transmission” means engaging in the business of any of the following:
+7 (i) Sale or issuance of payment instruments or stored value primarily for personal, family,
+8 or household purposes; or
+9 (ii) Receiving money or monetary value for transmission or holding funds incidental to
+10 transmission within the United States or to locations abroad by any and all means, including
+11 payment instrument, stored value, wire, facsimile, or electronic transfer, primarily for personal,
+12 family, or household purposes. This includes maintaining control of virtual currency or transactions
+13 in virtual currency on behalf of others.
+14 (5)(8) “Deferred-deposit transaction” means any transaction, such as those commonly
+15 known as “payday loans,” “payday advances,” or “deferred-presentment loans,” in which a cash
+16 advance is made to a customer in exchange for the customer’s personal check or in exchange for
+17 the customer’s authorization to debit the customer’s deposit account and where the parties agree
+18 either that the check will not be cashed or deposited, or that the customer’s deposit account will not
+19 be debited until a designated future date.
+20 (6)(9) [Deleted by P.L. 2019, ch. 226, § 1 and P.L. 2019, ch. 246, § 1.]
+21 (7)(10) “Deliver” means to deliver a check to the first person who, in payment for the
+22 check, makes, or purports to make, a remittance of, or against, the face amount of the check,
+23 whether or not the deliverer also charges a fee in addition to the face amount and whether or not
+24 the deliverer signs the check.
+25 (11) “External audit” means the formal report prepared by an independent certified public
+26 accountant expressing an opinion on whether the financial statements are presented fairly, in all
+27 material aspects, in accordance with the applicable financial reporting framework, and is inclusive
+28 of an evaluation of the adequacy of an entity’s internal control structure.
+29 (8)(12) “Insurance premium finance agreement” means an agreement by which an insured,
+30 or prospective insured, promises to pay to an insurance premium finance company the amount
+31 advanced, or to be advanced, under the agreement to an insurer or to an insurance producer, in
+32 payment of a premium, or premiums, on an insurance contract, or contracts, together with interest
+33 and a service charge, as authorized and limited by this title.
+34 (9)(13) “Insurance premium finance company” means a person or entity engaged in the
+LC005415 - Page 2 of 14
+
+1 business of making insurance premium finance agreements or acquiring insurance premium finance
+2 agreements from other insurance premium finance companies.
+3 (14) “Internal audit” means the internal activity of performing independent, objective
+4 assurance and consulting to evaluate and improve the effectiveness of entity operations, risk
+5 management, internal controls, and governance processes.
+6 (15) “Interim serviced prior to sale” means the activity of collecting a limited number of
+7 contractual mortgage payments immediately after origination on loans held for sale, but prior to
+8 the loans being sold on the secondary market.
+9 (10)(16)(i) “Lender” means any person who makes or funds a loan within this state with
+10 the person’s own funds, regardless of whether the person is the nominal mortgagee or creditor on
+11 the instrument evidencing the loan;
+12 (ii) A loan is made or funded within this state if any of the following conditions exist:
+13 (A) The loan is secured by real property located in this state;
+14 (B) An application for a loan is taken by an employee, agent, or representative of the lender
+15 within this state;
+16 (C) The loan closes within this state;
+17 (D) A retail installment contract as defined herein is created;
+18 (E) The loan solicitation is done by an individual with a physical presence in this state; or
+19 (F) The lender maintains an office in this state;
+20 (iii) The term “lender” shall also include any person engaged in a transaction whereby the
+21 person makes or funds a loan within this state using the proceeds of an advance under a line of
+22 credit over which proceeds the person has dominion and control and for the repayment of which
+23 the person is unconditionally liable. This transaction is not a table-funding transaction. A person is
+24 deemed to have dominion and control over the proceeds of an advance under a line of credit used
+25 to fund a loan regardless of whether:
+26 (A) The person may, contemporaneously with, or shortly following, the funding of the
+27 loan, assign or deliver to the line of credit lender one or more loans funded by the proceeds of an
+28 advance to the person under the line of credit;
+29 (B) The proceeds of an advance are delivered directly to the settlement agent by the line-
+30 of-credit lender, unless the settlement agent is the agent of the line-of-credit lender;
+31 (C) One or more loans funded by the proceeds of an advance under the line of credit is
+32 purchased by the line-of-credit lender; or
+33 (D) Under the circumstances, as set forth in regulations adopted by the director, or the
+34 director’s designee, pursuant to this chapter.
+LC005415 - Page 3 of 14
+
+1 (11)(17) “Licensee” means any person licensed under this chapter.
+2 (12)(18) “Loan” means any advance of money or credit including, but not limited to:
+3 (i) Loans secured by mortgages;
+4 (ii) Insurance premium finance agreements;
+5 (iii) The purchase or acquisition of retail installment contracts or advances to the holders
+6 of those contracts;
+7 (iv) Educational loans;
+8 (v) Any other advance of money; or
+9 (vi) Any transaction, such as those commonly known as “payday loans,” “payday
+10 advances,” or “deferred-presentment loans,” in which a cash advance is made to a customer in
+11 exchange for the customer’s personal check, or in exchange for the customer’s authorization to
+12 debit the customer’s deposit account, and where the parties agree either, that the check will not be
+13 cashed or deposited, or that the customer’s deposit account will not be debited, until a designated
+14 future date.
+15 (13)(19) “Loan broker” means any person or entity who or that, for compensation or gain,
+16 or in the expectation of compensation or gain, either directly or indirectly, solicits, processes,
+17 negotiates, places, or sells a loan within this state for others in the primary market, or offers to do
+18 so. A loan broker shall also mean any person who is the nominal mortgagee or creditor in a table-
+19 funding transaction. A loan is brokered within this state if any of the following conditions exist:
+20 (i) The loan is secured by real property located in this state;
+21 (ii) An application for a loan is taken or received by an employee, agent, or representative
+22 of the loan broker within this state;
+23 (iii) The loan closes within this state;
+24 (iv) The loan solicitation is done by an individual with a physical presence in this state; or
+25 (v) The loan broker maintains an office in this state.
+26 (14)(20) “Loan-closing services” means providing title services, including title searches,
+27 title examinations, abstract preparation, insurability determinations, and the issuance of title
+28 commitments and title insurance policies, conducting loan closings, and preparation of loan-closing
+29 documents when performed by, or under the supervision of, a licensed attorney, licensed title
+30 agency, or licensed title insurance company.
+31 (15)(21) “Loan solicitation” shall mean an effectuation, procurement, delivery and offer,
+32 or advertisement of a loan. Loan solicitation also includes providing or accepting loan applications
+33 and assisting persons in completing loan applications and/or advising, conferring, or informing
+34 anyone regarding the benefits, terms and/or conditions of a loan product or service. Loan
+LC005415 - Page 4 of 14
+
+1 solicitation does not include loan processing or loan underwriting as defined in this section. Loan
+2 solicitation does not include telemarketing that is defined, for purposes of this section, to mean
+3 contacting a person by telephone with the intention of collecting such person’s name, address, and
+4 telephone number for the sole purpose of allowing a mortgage loan originator to fulfill a loan
+5 inquiry.
+6 (16)(22) “Loan underwriting” shall mean a loan process that involves the analysis of risk
+7 with respect to the decision whether to make a loan to a loan applicant based on credit, employment,
+8 assets, and other factors, including evaluating a loan applicant against a lender’s various lending
+9 criteria for creditworthiness, making a determination for the lender as to whether the applicant
+10 meets the lender’s pre-established credit standards, and/or making a recommendation regarding
+11 loan approval.
+12 (17)(23) “Monetary value” means a medium of exchange, whether or not redeemable in
+13 fiat currency.
+14 (24) “Mortgage-backed security” or “MBS” means financial instruments, often debt
+15 securities, collateralized by residential mortgages.
+16 (25) “Mortgage call report” means the quarterly or annual report of residential real estate
+17 loan origination, servicing, and financial information completed by entities licensed in the
+18 Nationwide Multistate Licensing System.
+19 (18)(26) “Mortgage loan” means a loan secured in whole, or in part, by real property
+20 located in this state.
+21 (19)(27) “Mortgage loan originator” has the same meaning set forth in § 19-14.10-3.
+22 (28) “Mortgage servicing rights investor” or “MSR investor” means an entity that invests
+23 in and owns mortgage servicing rights and relies on sub-servicers to administer the loans on their
+24 behalf and often referred to as master servicer.
+25 (20)(29) “Nationwide Multistate Licensing System” means a system involving more than
+26 one state, the District of Columbia, or the Commonwealth of Puerto Rico and that is established to
+27 facilitate the sharing of regulatory information and the licensing, application, reporting, and
+28 payment processes, by electronic or other means, for mortgage lenders and loan brokers and other
+29 licensees required to be licensed under this chapter.
+30 (21)(30) “Natural person employee” shall mean any natural person performing services as
+31 a bona fide employee for a person or entity licensed under § 19-14-1 et seq., in return for a salary,
+32 wage, or other consideration, where such salary, wage, or consideration is reported by the licensee
+33 on a federal form W-2 payroll record. The term does not include any natural person or business
+34 entity performing services for a person licensed under the provisions of Rhode Island general laws
+LC005415 - Page 5 of 14
+
+1 in return for a salary, wage, or other consideration, where such salary, wage, or consideration is
+2 reported by the licensee on a federal form 1099.
+3 (22)(31) “Negative equity” means the difference between the value of an asset and the
+4 outstanding portion of the loan taken out to pay for the asset, when the latter exceeds the former
+5 amount.
+6 (23)(32) “Negotiates” shall mean, with respect to a loan, to confer directly with, or offer
+7 advice directly to, a loan applicant or prospective loan applicant for a loan product or service
+8 concerning any of the substantive benefits, terms, or conditions of the loan product or service.
+9 (24)(33) “Nonprofit organization” means a corporation qualifying as a 26 U.S.C. §
+10 501(c)(3) nonprofit organization, in the operation of which no member, director, officer, partner,
+11 employee, agent, or other affiliated person profits financially other than receiving reasonable
+12 salaries if applicable.
+13 (34) “Operating liquidity” means the funds necessary to perform normal business
+14 operations, such as payment of rent, salaries, interest expenses, and other typical expenses
+15 associated with operating the entity.
+16 (25)(35) “Operating subsidiary” shall mean a majority-owned subsidiary of a financial
+17 institution or banking institution that engages only in activities permitted by the parent financial
+18 institution or banking institution.
+19 (26)(36) “Oversight and supervision of the licensee” shall mean that the licensee provides
+20 training to the employee, sets the employee’s hours of work, provides the employee with the
+21 equipment required to perform the employee’s duties, and supervises the services provided by the
+22 employee to the licensee.
+23 (27)(37) “Personal money order” means any instrument for the transmission or payment of
+24 money in relation to which the purchaser or remitter appoints, or purports to appoint, the seller as
+25 his or her agent for the receipt, transmission, or handling of money, whether the instrument is signed
+26 by the seller, or by the purchaser, or remitter, or some other person.
+27 (28)(38) “Primary market” means the market in which loans are made to borrowers by
+28 lenders, whether or not through a loan broker or other conduit.
+29 (29)(39) “Principal owner” means any person or entity who or that owns, controls, votes,
+30 or has a beneficial interest in, directly or indirectly, ten percent (10%) or more of the outstanding
+31 capital stock and/or equity interest of a licensee.
+32 (30)(40) “Processes” shall mean, with respect to a loan, any of a series of acts or functions,
+33 including the preparation of a loan application and supporting documents, performed by a person
+34 that leads to, or results in, the acceptance, approval, denial, and/or withdrawal of a loan application,
+LC005415 - Page 6 of 14
+
+1 including, without limitation, the rendering of services, including loan underwriting, obtaining
+2 verifications, credit reports or appraisals, communicating with the applicant and/or the lender or
+3 loan broker, and/or other loan processing and origination services, for consideration by a lender or
+4 loan broker. Loan processing does not include the following:
+5 (i) Providing loan closing services;
+6 (ii) Rendering of credit reports by an authorized credit reporting agency; and
+7 (iii) Rendering of appraisal services.
+8 (31)(41) “Provisional employee” means a natural person who, pursuant to a written
+9 agreement between the natural person and a wholly owned subsidiary of a financial holding
+10 company, as defined in the Bank Holding Company Act of 1956 (12 U.S.C. § 1841 et seq.), as
+11 amended, a bank-holding company, savings-bank-holding company, or thrift-holding company, is
+12 an exclusive agent for the subsidiary with respect to mortgage loan originations and the subsidiary:
+13 (a) Holds a valid loan broker’s license; and (b) Enters into a written agreement with the director,
+14 or the director’s designee, to include:
+15 (i) An “undertaking of accountability,” in a form prescribed by the director, or the director’s
+16 designee, for all of the subsidiary’s exclusive agents to include full-and-direct financial and
+17 regulatory responsibility for the mortgage loan originator activities of each exclusive agent as if
+18 said exclusive agent were an employee of the subsidiary;
+19 (ii) A business plan, to be approved by the director, or the director’s designee, for the
+20 education of the exclusive agents, the handling of consumer complaints related to the exclusive
+21 agents, and the supervision of the mortgage loan origination activities of the exclusive agents; and
+22 (iii) A restriction of the exclusive agents’ mortgage loan originators’ activities to loans to
+23 be made only by the subsidiary’s affiliated bank.
+24 (32)(42) “Remote location” means a location meeting the requirements of § 19-14-25(b) at
+25 which an employee of a licensee may provide services for the licensee notwithstanding that the
+26 location differs from the place of business named in the license or a branch certificate issued to the
+27 licensee.
+28 (33)(43) “Retail installment contract” means any security agreement negotiated or
+29 executed in this state, or under the laws of this state, including, but not limited to, any agreement
+30 in the nature of a mortgage, conditional sale contract, or any other agreement whether or not
+31 evidenced by any written instrument to pay the retail purchase price of goods, or any part thereof,
+32 in installments over any period of time and pursuant to which any security interest is retained or
+33 taken by the retail seller for the payment of the purchase price, or any part thereof, of the retail
+34 installment contract.
+LC005415 - Page 7 of 14
+
+1 (44) “Risk management program” means the policies and procedures designed to identify,
+2 measure, monitor, and mitigate risk sufficient for the level of sophistication of the servicer.
+3 (34)(45) “Sell” means to sell, to issue, or to deliver a check.
+4 (35)(46) “Servicing” means receiving a scheduled, periodic payment from a borrower,
+5 pursuant to the terms of a loan, including amounts for escrow accounts, and making the payments
+6 to the owner of the loan or other third party of principal and interest and other payments with respect
+7 to the amounts received from the borrower as may be required pursuant to the terms of the servicing
+8 loan documents or servicing contract. In the case of a home equity conversion mortgage or a reverse
+9 mortgage, servicing includes making payment to the borrower.
+10 (47) “Servicing liquidity” or “liquidity” means the financial resources necessary to manage
+11 liquidity risk arising from servicing functions required in acquiring and financing mortgage
+12 servicing rights, hedging costs, including margin calls, associated with the mortgage servicing right
+13 assets and financing facilities, and advances or costs of advance financing for principal, interest,
+14 taxes, insurance and any other servicing related advances.
+15 (36)(48) “Simple interest” means interest computed on the principal balance outstanding
+16 immediately prior to a payment for one plus the actual number of days between payments made on
+17 a loan over the life of a loan.
+18 (37)(49) “Small loan” means a loan of less than five thousand dollars ($5,000), not secured
+19 by real estate, made pursuant to the provisions of chapter 14.2 of this title.
+20 (38)(50) “Small-loan lender” means a lender engaged in the business of making small loans
+21 within this state.
+22 (39)(51) “Stored value” means monetary value representing a claim against the issuer that
+23 is stored on an electronic or digital medium and is evidenced by an electronic or digital record, and
+24 that is intended and accepted for use as a means of redemption for money or monetary value or
+25 payment for goods or services. The term does not include stored value that is redeemable by the
+26 issuer exclusively in goods or services; stored value that is redeemable exclusively in goods or
+27 services limited to transactions involving a defined merchant or location or set of locations, such
+28 as a specific retailer or retail chain, college campus, or program points, miles, or other units issued
+29 in connection with a customer affinity or rewards program, even if there is a secondary market for
+30 the stored value.
+31 (52) “Sub-servicer” means the entity performing the routine administration of residential
+32 mortgage loans as agent of a servicer or mortgage servicing rights investor under the terms of a
+33 subservicing contract.
+34 (53) “Sub-servicing for others” means the contractual activities performed by sub-servicers
+LC005415 - Page 8 of 14
+
+1 on behalf of a servicer or mortgage servicing rights investor.
+2 (40)(54) “Table-funding transaction” means a transaction in which there is a
+3 contemporaneous advance of funds by a lender and an assignment by the mortgagee or creditor of
+4 the loan to the lender.
+5 (41)(55) “Tangible net worth” means the aggregate assets of a licensee excluding all
+6 intangible assets, less liabilities, as determined in accordance with United States generally accepted
+7 accounting principles.
+8 (42)(56) “Third-party loan servicer” means a person or entity who or that, directly or
+9 indirectly, engages in the business of servicing a loan secured by residential real estate located in
+10 Rhode Island, for a personal, family, or household purpose, owed or due, or asserted to be owed or
+11 due, another, or a person or entity that owns the servicing rights to a loan secured by residential
+12 real estate located in Rhode Island whether or not that owner services the loan themselves or
+13 contracts with another person or entity for the servicing.
+14 (43)(57) “Virtual currency”:
+15 (i) Means a digital representation of value that:
+16 (A) Is used as a medium of exchange, unit of account, or store of value; and
+17 (B) Is not legal tender, whether or not denominated in legal tender; and
+18 (ii) Does not include:
+19 (A) A transaction in which a merchant grants, as part of an affinity or rewards program,
+20 value that cannot be taken from or exchanged with the merchant for legal tender, bank credit, or
+21 virtual currency;
+22 (B) A digital representation of value issued by or on behalf of a publisher and used solely
+23 within an online game, game platform, or family of games sold by the same publisher or offered
+24 on the same game platform;
+25 (C) Native digital token used in a proprietary blockchain service platform; or
+26 (D) A gift certificate; store gift card; general-use prepaid card; or loyalty, award, or
+27 promotional gift card, as these terms are defined in federal Regulation E, 12 C.F.R. § 1005.20(a),
+28 without giving effect to any exception as specified in 31 C.F.R. § 1010.100(kkk) or any card, code
+29 or device, or other device that can add funds to those products.
+30 (58) “Whole loans” mean those loans where a mortgage and the underlying credit risk is
+31 owned and held on a balance sheet of the entity with all ownership rights.
+32 (44)(59) “Writing” means hard-copy writing or electronic writing that meets the
+33 requirements of § 42-127.1-2(7).
+34 SECTION 2. Chapter 19-14.11 of the General Laws entitled "Third-Party Loan Servicers"
+LC005415 - Page 9 of 14
+
+1 is hereby amended by adding thereto the following sections:
+2 19-14.11-5. Financial Condition.
+3 (a) A covered mortgage servicer must maintain capital and liquidity in compliance with
+4 this section.
+5 (b) For the purposes of complying with the capital and liquidity requirements of this
+6 section, all financial data must be determined in accordance with generally accepted accounting
+7 principles (“GAAP”).
+8 (c) A covered mortgage servicer that meets the Federal Housing Finance Agency’s
+9 Eligibility Requirements for Enterpriser Single Family Seller/Servicers for capital, net worth ratio,
+10 and liquidity, regardless of whether the servicer is approved for government sponsored enterprise
+11 servicing by the Federal National Mortgage Association (“Fannie Mae”) or the Federal Home Loan
+12 Mortgage Corporation (“Freddie Mac”) meets the requirements of subsections (a) and (b) of this
+13 section.
+14 (1) Covered mortgage servicers shall maintain written policies and procedures
+15 implementing the capital and servicing liquidity requirements of the section.
+16 (2) Such policies and procedures must include a sustainable written methodology for
+17 satisfying the requirements of subsection (c) of this section and be available to the director, or the
+18 director’s designee, upon request.
+19 (d) Covered mortgage servicers shall maintain sufficient allowable assets for liquidity in
+20 addition to the amounts required for servicing liquidity, to cover normal business operations.
+21 (1) Covered mortgage servicers shall have in place sound cash management and business
+22 operating plans that match the size and sophistication of the institution to ensure normal business
+23 operation.
+24 (2) Management must develop, establish and implement plans, policies and procedures for
+25 maintaining operating liquidity sufficient for the ongoing needs of the institution.
+26 (3) Such plans, policies and procedures must contain sustainable, written methodologies
+27 for maintaining sufficient operating liquidity and be available to the director, or the director’s
+28 designee, upon request.
+29 19-14.11-6. Corporate governance.
+30 (a) Covered mortgage servicers shall establish and maintain a board of directors
+31 responsible for oversight of the covered mortgage servicer.
+32 (b) For covered mortgage servicers that are not approved to service loans by a government
+33 sponsored enterprise, Federal National Mortgage Association (“Fannie Mae”) and Federal Home
+34 Loan Mortgage Corporation (“Freddie Mac”) or government National Mortgage Association
+LC005415 - Page 10 of 14
+
+1 (“Ginnie Mae”) or where these federal agencies have granted approval for a board alternative, a
+2 covered institution may establish a similar body constituted to exercise oversight and fulfill the
+3 board of directors’ responsibilities in subsection (c) of this section.
+4 (c) The board of directors shall be responsible for:
+5 (1) Establishing a written corporate governance framework, including appropriate internal
+6 controls designed to monitor corporate governance and assess compliance with the corporate
+7 governance framework, available to the director, or the director’s designee, upon request;
+8 (2) Monitoring and ensuring institution compliance with the corporate governance
+9 framework and Rhode Island general laws; and
+10 (3) Accurate and timely regulatory reporting, including the requirements for filing the
+11 Nationwide Multistate Licensing System’s (“NMLS”) Mortgage Call Report.
+12 (d) The board of directors shall establish internal audit requirements that are appropriate
+13 for the size, complexity, and risk profile of the servicer, with the appropriate independence to
+14 provide a reliable evaluation of the servicer’s internal control structure, risk management and
+15 governance. Board established internal audit requirements, and the results of internal audits shall
+16 be made available to the director, or the director’s designee, upon request.
+17 (e) Covered mortgage servicers shall receive an external audit, including audited financial
+18 statements and audit reports conducted by an independent public accountant annually. The external
+19 audit shall be available to the director, or the director’s designee, upon request and shall include at
+20 a minimum:
+21 (1) Annual financial statements including a balance sheet, statement of operations or
+22 income statement and cash flows, including notes and supplemental schedules prepared in
+23 accordance to generally accepted accounting principles;
+24 (2) Assessment of the internal control structure;
+25 (3) Computation of tangible net worth;
+26 (4) Validation of the mortgage servicing rights valuation and reserve methodology, if
+27 applicable;
+28 (5) Verification of adequate fidelity and errors and omissions insurance; and
+29 (6) Testing of controls related to risk management activities, including compliance and
+30 stress testing, where applicable.
+31 (f) Covered mortgage servicers shall establish a risk management program under the
+32 oversight of the board of directors and available to the director, or the director’s designee, upon
+33 request that identifies, measures, monitors, and controls risk sufficient for the level of sophistication
+34 of the servicer. The risk management program must have appropriate processes and models in place
+LC005415 - Page 11 of 14
+
+1 to measure, monitor and mitigate financial risks and changes to the risk profile of the servicer and
+2 assets being serviced. The risk management program must be scaled to the complexity of the
+3 organization, but be sufficiently robust to manage risks in several areas including, but not limited
+4 to:
+5 (1) Credit risk. The potential that a borrower or counterparty will fail to perform on an
+6 obligation.
+7 (2) Liquidity risk. The potential that the servicer will be unable to meet its obligations as
+8 they come due because of an inability to liquidate assets or obtain adequate funding or that it cannot
+9 easily unwind or offset specific exposures.
+10 (3) Operational risk. The risk resulting from inadequate or failed internal processes, people,
+11 and systems or from external events.
+12 (4) Market risk. The risk to the servicer’s condition resulting from adverse movements in
+13 market rates or prices.
+14 (5) Legal risk. The potential that actions against the servicer that result in unenforceable
+15 contracts, lawsuits, legal sanctions or adverse judgements can disrupt or otherwise negatively affect
+16 the operations or condition of the servicer.
+17 (6) Reputation risk. The risk to earnings and capital arising from negative publicity
+18 regarding the servicer’s business practices.
+19 (g) Covered mortgage servicers shall conduct a risk management assessment on an annual
+20 basis concluding with a formal report to the board of directors and made available to the director,
+21 or the director’s designee, upon request. Evidence of risk management activities throughout the
+22 year must be maintained and made part of the report, including findings of issues and the response
+23 to address those findings.
+24 19-14.11-7. Applicability and exclusions.
+25 (a) Sections 19-14.11-5 and 19-14.11-6 shall apply to covered mortgage servicers defined
+26 in § 19-14-1. For entities within a holding company or affiliated group of companies’, applicability
+27 shall be at the covered mortgage servicer level.
+28 (b) The following exclusions shall apply:
+29 (1) Section 19-14.11-5 shall not apply to not-for-profit servicers or housing finance
+30 agencies.
+31 (2) Section 19-14.11-5 shall not apply to servicers solely owning and or conducting reverse
+32 mortgage servicing or the reverse mortgage portfolio administered by covered institutions.
+33 19-14.11-8. Authority.
+34 (a) The director, or the director’s designee, may adopt rules necessary for the
+LC005415 - Page 12 of 14
+
+1 implementation and administration of the provisions of this chapter.
+2 (b) The director, or director’s designee, may:
+3 (1) Where risk is determined by a formal review of a specific covered mortgage servicer to
+4 be extremely high, order or direct the covered mortgage servicer to satisfy additional conditions
+5 necessary to ensure that the covered mortgage servicer will continue to operate in a safe and sound
+6 manner and be able to continue to service loans in compliance with state and federal law and
+7 regulation.
+8 (2) Where risk is determined by a formal review of a specific covered mortgage servicer to
+9 be extremely low, provide notice that all or part of §§ 19-14.11-5 and 19-14.11-6 is not applicable
+10 to those covered mortgage servicers.
+11 (3) Where economic, environmental, or societal events are determined to be of such
+12 severity to warrant a temporary suspension of all or part of §§ 19-14.11-5 and 19-14.11-6, provide
+13 public notice of such temporary suspension.
+14 SECTION 3. This act shall take effect upon passage.
+========
+LC005415
+========
+LC005415 - Page 13 of 14
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- LICENSED ACTIVITIES
+***
+1 This act would establish requirements for capital, liquidity, and corporate governance
+2 including audit, risk management, and board oversight, for nonbank mortgage servicers.
+3 This act would take effect upon passage.
+========
+LC005415
+========
+LC005415 - Page 14 of 14

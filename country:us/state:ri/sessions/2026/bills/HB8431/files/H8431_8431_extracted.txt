@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - 8431
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8431
+========
+LC006290
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- REFUSE DISPOSAL
+Introduced By: Representatives Finkelman, Casimiro, Craven, Caldwell, McEntee,
+McGaw, Shanley, and Solomon
+Date Introduced: April 10, 2026
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-18.9 of the General Laws entitled "Refuse Disposal" is hereby
+2 amended by adding thereto the following section:
+3 23-18.9-19. Siting restrictions for pyrolysis facilities.
+4 (a) Definitions. As used in this section:
+5 (1) "Pyrolysis facility" means any facility or operation that thermally decomposes solid
+6 waste, including plastics or other organic materials, in an oxygen-limited or oxygen-free
+7 environment for the purpose of producing fuel, gas, oil, char, or other byproducts. The term shall
+8 include any preprocessing, storage, or handling of feedstock or byproducts conducted as part of
+9 such operation.
+10 (2) "School" means any public or private elementary or secondary school, including charter
+11 schools, approved by the Rhode Island department of education and serving students in any of
+12 grades kindergarten through twelve (k-12).
+13 (b) Prohibition.
+14 Effective July 1, 2026, no person shall site, construct, install, expand, or operate a pyrolysis
+15 facility within one mile of the property line of any school.
+16 (c) Measurement.
+17 The distance required under subsection (b) of this section shall be measured in a straight
+18 line from the nearest property boundary of the proposed pyrolysis facility to the nearest property
+19 boundary of the school.
+
+1 (d) Permitting.
+2 The Rhode Island department of environmental management shall not issue any permit,
+3 license, or approval for a pyrolysis facility that does not comply with the requirements of this
+4 section.
+5 (e) Non-waiver.
+6 The requirements of this section shall be mandatory and shall not be waived by the
+7 department or any other state or municipal authority.
+8 (f) Relationship to other laws.
+9 The provisions of this section shall be in addition to, and not in lieu of, any other applicable
+10 requirements under this chapter or any other provision of the general laws or regulations.
+11 SECTION 2. This act shall take effect upon passage.
+========
+LC006290
+========
+LC006290 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- REFUSE DISPOSAL
+***
+1 This act would prohibit the construction, expansion or operation of a pyrolysis facility
+2 within one mile of a school.
+3 This act would take effect upon passage.
+========
+LC006290
+========
+LC006290 - Page 3 of 3

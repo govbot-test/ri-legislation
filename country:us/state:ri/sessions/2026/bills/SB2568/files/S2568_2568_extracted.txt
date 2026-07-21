@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - 2568
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2568
+========
+LC004721
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- DEPARTMENT OF HEALTH
+Introduced By: Senators Lauria, Valverde, Murray, DiMario, Mack, Euer, Urso,
+Kallman, Thompson, Gu, and Vargas
+Date Introduced: February 13, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 23-1-44 of the General Laws in Chapter 23-1 entitled "Department
+2 of Health" is hereby amended to read as follows:
+3 23-1-44. Routine childhood and adult immunization vaccines.
+4 (a) The department of health shall include in the department’s immunization program those
+5 vaccines for routine childhood immunization as recommended by the Advisory Committee for
+6 Immunization Practices (ACIP) and the Academy of Pediatrics (AAP), and for routine adult
+7 immunization as recommended by the ACIP, to the extent permitted by available funds. The
+8 immunization program includes administrative and quality assurance services and the Rhode Island
+9 Child and Adult Immunization Registry (RICAIR), a confidential, computerized information
+10 system that is used to manage statewide immunizations, for all persons in Rhode Island.
+11 (b) The director of the department of health shall appoint an advisory committee that will
+12 be convened after the ACIP makes a recommendation regarding immunization. The committee will
+13 review the ACIP recommendations for the state; as well as evidence-based, medically sound,
+14 scientific recommendations from the Academy of Pediatrics (AAP), American Medical
+15 Association (AMA), American Academy of Family Physicians (AAFP); assess the vaccine cost
+16 and feasibility; and advise the director of health and the office of the health insurance commissioner
+17 regarding insurers and providers acting on the ACIP immunization recommendation. All
+18 recommendations will be posted on the department of health website. The advisory committee
+19 membership shall include, but not be limited to, a primary care provider, pharmacist,
+
+1 representatives of the nursing home industry, the home healthcare industry and major insurers.
+2 (c) For the purpose of protecting patients’ information, all personally-identifiable
+3 information obtained pursuant to this section shall be subject to the privacy protections of chapter
+4 37.3 of title 5 and the Health Insurance Portability and Accountability Act of 1996, Pub. L. No.
+5 104-191 (HIPAA), as amended.
+6 SECTION 2. Section 23-101-2 of the General Laws in Chapter 23-101 entitled "Healthcare
+7 Provider Shield" is hereby amended to read as follows:
+8 23-101-2. Definitions.
+9 As used in this chapter, the followings words shall have the following meanings unless the
+10 context clearly indicates otherwise:
+11 (1) “Aggrieved person” means:
+12 (i) A person against whom hostile litigation is filed or prosecuted or the legal representative
+13 of a person against whom hostile litigation is filed or prosecuted; or
+14 (ii) The employer of a person against whom hostile litigation is filed or prosecuted if the
+15 legally protected healthcare activity or aiding and assisting legally protected healthcare activity of
+16 the person that forms the basis of the hostile litigation was performed within the scope of the
+17 person’s employment.
+18 (2) “Aid and assist legally protected healthcare activity” and “aiding and assisting legally
+19 protected healthcare activity” mean:
+20 (i) Any act or omission of a person aiding or effectuating or attempting to aid or effectuate
+21 any other person in legally protected healthcare activity; or
+22 (ii) The provision or administration of, or attempted provision or administration of,
+23 insurance coverage for gender-affirming healthcare services or reproductive healthcare services to
+24 a beneficiary or a dependent of a beneficiary by any insurer, payor, or employer.; or
+25 (iii) The prescription, administration, or dispensing of a vaccination pursuant to the routine
+26 childhood and adult immunization vaccine recommendations that are developed from evidence-
+27 based, medically sound scientific research by the department pursuant to § 23-1-44, as well as the
+28 Academy of Pediatrics (AAP), American Medical Association (AMA), American Academy of
+29 Family Physicians (AAFP), and other such similar medical professional organizations;
+30 (iii)(iv) “Aiding and assisting legally protected healthcare activity” does not include any
+31 conduct that violates Rhode Island law or deviates from the applicable standard of care or that could
+32 form the basis of a civil, criminal, or administrative action under the laws of this state had the
+33 course of conduct that forms the basis for liability occurred entirely within this state.
+34 (3) “Foreign judgment” means any judgment or decree of a court of another state.
+LC004721 - Page 2 of 6
+
+1 (4) “Gender-affirming healthcare services” means all supplies, care, and services of a
+2 medical, behavioral health, mental health, surgical, psychiatric, therapeutic, diagnostic, preventive,
+3 rehabilitative, or supportive nature, including medication, relating to the treatment of gender
+4 dysphoria and gender incongruence in accordance with the accepted standard of care as defined by
+5 major medical professional organizations and agencies with expertise in the field of gender-
+6 affirming health care, including the Standards of Care for the Health of Transgender and Gender
+7 Diverse People, Version 8, or subsequent version, published by the World Professional Association
+8 for Transgender Health. “Gender-affirming healthcare services” does not include conversion
+9 therapy as defined by § 23-94-2.
+10 (5) “Healthcare provider” means and shall apply to the following:
+11 (i) A qualified physician licensed pursuant to chapters 37 and 37.3 of title 5;
+12 (ii) A qualified osteopathic physician licensed pursuant to chapter 37 of title 5;
+13 (iii) A qualified physician assistant licensed pursuant to chapter 54 of title 5;
+14 (iv) A genetic counselor licensed pursuant to chapter 92 of title 5;
+15 (v) A qualified psychologist licensed pursuant to chapter 44 of title 5;
+16 (vi) A qualified social worker licensed pursuant to chapter 39.1 of title 5;
+17 (vii) An advanced practice registered nurse, and a certified nurse practitioner, licensed
+18 pursuant to chapter 34 of title 5, and a certified registered nurse anesthetist licensed pursuant to
+19 chapters 34 and 34.2 of title 5;
+20 (viii) A certified nurse midwife licensed pursuant to chapter 13 of this title;
+21 (ix) A licensed clinical mental health counselor or associate, and a licensed marriage and
+22 family therapist or associate, licensed pursuant to chapter 63.2 of title 5;
+23 (x) An electrologist licensed pursuant to chapter 32 of title 5;
+24 (xi) A speech-language pathologist licensed pursuant to chapter 48 of title 5;
+25 (xii) An occupational therapist licensed pursuant to chapter 40.1 of title 5;
+26 (xiii) A chiropractic physician licensed pursuant to chapter 30 of title 5; and
+27 (xiv) A pharmacist engaging in the practice of pharmacy and licensed pursuant to chapter
+28 19.1 of title 5.
+29 (6) “Hostile litigation” means any litigation or other legal action, including civil, criminal,
+30 or administrative action, to deter, prevent, sanction, or punish any person engaging in legally
+31 protected healthcare activity or aiding and assisting legally protected healthcare activity by:
+32 (i) Filing or prosecuting any litigation or other legal action in any other state where liability
+33 is based on legally protected healthcare activity or aiding and assisting legally protected healthcare
+34 activity that occurred in this state, including any action in which liability is based on any theory of
+LC004721 - Page 3 of 6
+
+1 vicarious, joint, or several liability; or
+2 (ii) Attempting to enforce any order or judgment issued in connection with any litigation
+3 or other legal action under subsection (6)(i) of this section by any party to the action or by any
+4 person acting on behalf of any party to the action.
+5 (iii) For purposes of this chapter, litigation or other legal action is based on legally protected
+6 healthcare activity or aiding and assisting legally protected healthcare activity that occurred in this
+7 state if any part of any act or omission involved in the course of conduct that forms the basis for
+8 liability in the action occurs or is initiated in this state, whether or not the act or omission is alleged
+9 or included in any pleading or other filing in the lawsuit.
+10 (7) “Law enforcement agency” means any police department in any city or town or the
+11 state police as defined in the general laws. For purposes of this act, a law enforcement agency may
+12 include any other non-federal entity in the state charged with the enforcement of laws relating to
+13 the custody of detained persons.
+14 (8) “Legally protected healthcare activity” means:
+15 (i) The exercise and enjoyment or attempted exercise and enjoyment by any person of the
+16 right secured by this state to gender-affirming healthcare services or reproductive healthcare
+17 services; and
+18 (ii) The provision or attempted provision of gender-affirming healthcare services or
+19 reproductive healthcare services that are permitted under the laws and regulations of this state and
+20 that are provided in accordance with the applicable standard of care by a person properly licensed
+21 under the laws of this state and physically present in this state, regardless of whether the patient is
+22 located in this state or whether the person is licensed in the state where the patient is located at the
+23 time the services are rendered.; and
+24 (iii) The provision or attempted provision of a vaccination pursuant to the routine childhood
+25 and adult immunization vaccine recommendations that are developed from evidence-based,
+26 medically sound scientific research by the department pursuant to § 23-1-44, as well as the
+27 Academy of Pediatrics (AAP), American Medical Association (AMA), American Academy of
+28 Family Physicians (AAFP), and other such similar medical professional organizations.
+29 (iv) “Legally protected healthcare activity” does not include any conduct that could form
+30 the basis of a civil, criminal, or administrative action under the laws of this state had the course of
+31 conduct that forms the basis for liability occurred entirely within this state and/or in violation of
+32 Rhode Island law.
+33 (9) “Reproductive healthcare services” means all supplies, care, and services of a medical,
+34 behavioral health, mental health, surgical, psychiatric, therapeutic, diagnostic, preventive,
+LC004721 - Page 4 of 6
+
+1 rehabilitative, or supportive nature, including medication, relating to pregnancy, contraception,
+2 assisted reproduction, pregnancy loss management, or the termination of a pregnancy in accordance
+3 with the applicable standard of care as defined by major medical professional organizations and
+4 agencies with expertise in the field of reproductive health care.
+5 (10) “Routine childhood and adult immunization vaccine recommendations” means
+6 vaccine recommendations that are developed from evidence based, medically sound scientific
+7 research by the department pursuant to § 23-1-44, as well as the Academy of Pediatrics (AAP),
+8 American Medical Association (AMA), American Academy of Family Physicians (AAFP), and
+9 other such similar medical professional organizations.
+10 (11) “State” means a state of the United States, the District of Columbia, Puerto Rico, the
+11 United States Virgin Islands or any territory or insular possession subject to the jurisdiction of the
+12 United States. The term “this state” refers to the state of Rhode Island.
+13 SECTION 3. This act shall take effect upon passage.
+========
+LC004721
+========
+LC004721 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- DEPARTMENT OF HEALTH
+***
+1 This act would require that routine childhood and adult immunization vaccine
+2 recommendations be based on, and developed from, evidence-based, medically sound scientific
+3 research by the department of health as well as the Academy of Pediatrics, American Medical
+4 Association, American Academy of Family Physicians, and other such similar medical professional
+5 organizations.
+6 This act would take effect upon passage.
+========
+LC004721
+========
+LC004721 - Page 6 of 6

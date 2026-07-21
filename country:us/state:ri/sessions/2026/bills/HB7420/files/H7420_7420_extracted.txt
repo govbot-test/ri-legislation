@@ -1,0 +1,357 @@
+Title: 
+Official Title: 
+Source: versions - 7420
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7420
+========
+LC003269
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO EDUCATION -- THE EDUCATION EQUITY AND PROPERTY TAX
+RELIEF ACT
+Introduced By: Representatives Paplauskas, Hopkins, J. Brien, Fascia, Santucci,
+Nardone, Place, Newberry, Chippendale, and Roberts
+Date Introduced: January 30, 2026
+Referred To: House Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 16-7.2-4 and 16-7.2-6 of the General Laws in Chapter 16-7.2 entitled
+2 "The Education Equity and Property Tax Relief Act" are hereby amended to read as follows:
+3 16-7.2-4. Determination of state’s share.
+4 (a) For each district, the state’s share of the foundation education aid calculated pursuant
+5 to § 16-7.2-3(a) shall use a calculation that considers a district’s revenue-generating capacity and
+6 concentration of high-need students. The calculation is the square root of the sum of the state share
+7 ratio for the community calculation, pursuant to § 16-7-20, squared plus the district’s percentage
+8 of students in grades PK-6 in poverty status squared, divided by two.
+9 If this calculation results in a state share ratio that is less than the state share ratio for the
+10 community calculated pursuant to § 16-7-20(a) and that district’s poverty status percentage as
+11 defined in § 16-7.2-3(a)(2) is greater than fifty percent (50%), the state share ratio shall be equal to
+12 the state share ratio for the community calculated pursuant to § 16-7-20(a).
+13 (b) For purposes of determining the state’s share, school district student data used in this
+14 calculation shall include charter school and state school students. These ratios are used in the
+15 permanent foundation education aid formula calculation described in § 16-7.2-5.
+16 (c) There shall be a poverty loss stabilization fund for districts that experience a decline in
+17 the state share ratio calculated pursuant to subsection (a) of this section from the prior year of more
+18 than 2.0 percent (2%). The amount shall be equal to fifty percent (50%) of the difference in the
+
+1 amount of permanent foundation education aid received pursuant to § 16-7.2-3 received in the prior
+2 year.
+3 (d) The department of revenue shall publish a report, in collaboration with local education
+4 agencies, identifying costs borne by districts that are partially funded or unfunded. The report shall
+5 be submitted to the governor for consideration when preparing the final budget proposal for
+6 submission to the general assembly. In addition, the report shall be accessible to the public and
+7 published to the state transparency portal with copies provided to the speaker of the house, and the
+8 senate president as well as all members of the general assembly.
+9 16-7.2-6. Categorical programs, state funded expenses.
+10 In addition to the foundation education aid provided pursuant to § 16-7.2-3, the permanent
+11 foundation education-aid program shall provide direct state funding for:
+12 (a) Excess costs associated with special education students. Excess costs are defined when
+13 an individual special education student’s cost shall be deemed to be “extraordinary.” Extraordinary
+14 costs are those educational costs that exceed the state-approved threshold based on an amount
+15 above four times the core foundation amount (total of core instruction amount plus student success
+16 amount). The department of elementary and secondary education shall prorate the funds available
+17 for distribution among those eligible school districts if the total approved costs for which school
+18 districts are seeking reimbursement exceed the amount of funding appropriated in any fiscal year;
+19 and the department of elementary and secondary education shall also collect data on those
+20 educational costs that exceed the state-approved threshold based on an amount above two (2), three
+21 (3), and five (5) times the core foundation amount;
+22 (b) Career and technical education costs to help meet initial investment requirements
+23 needed to transform existing, or create new, comprehensive, career and technical education
+24 programs and career pathways in critical and emerging industries and to help offset the higher-
+25 than-average costs associated with facilities, equipment maintenance and repair, and supplies
+26 necessary for maintaining the quality of highly specialized programs that are a priority for the state.
+27 The department shall develop criteria for the purpose of allocating any and all career and technical
+28 education funds as may be determined by the general assembly on an annual basis. The department
+29 of elementary and secondary education shall prorate the funds available for distribution among
+30 those eligible school districts if the total approved costs for which school districts are seeking
+31 reimbursement exceed the amount of funding available in any fiscal year;
+32 (c) Programs to increase access to voluntary, free, high-quality pre-kindergarten programs.
+33 The department shall recommend criteria for the purpose of allocating any and all early childhood
+34 program funds as may be determined by the general assembly;
+LC003269 - Page 2 of 11
+
+1 (d) Central Falls, Davies, and the Met Center Stabilization Fund is established to ensure
+2 that appropriate funding is available to support their students. Additional support for Central Falls
+3 is needed due to concerns regarding the city’s capacity to meet the local share of education costs.
+4 This fund requires that education aid calculated pursuant to § 16-7.2-3 and funding for costs outside
+5 the permanent foundation education-aid formula, including, but not limited to, transportation,
+6 facility maintenance, and retiree health benefits shall be shared between the state and the city of
+7 Central Falls. The fund shall be annually reviewed to determine the amount of the state and city
+8 appropriation. The state’s share of this fund may be supported through a reallocation of current
+9 state appropriations to the Central Falls school district. At the end of the transition period defined
+10 in § 16-7.2-7, the municipality will continue its contribution pursuant to § 16-7-24. Additional
+11 support for the Davies and the Met Center is needed due to the costs associated with running a
+12 stand-alone high school offering both academic and career and technical coursework. The
+13 department shall recommend criteria for the purpose of allocating any and all stabilization funds as
+14 may be determined by the general assembly;
+15 (e) Excess costs associated with transporting students to out-of-district non-public schools.
+16 This fund will provide state funding for the costs associated with transporting students to out-of-
+17 district non-public schools, pursuant to chapter 21.1 of this title. The state will assume the costs of
+18 non-public out-of-district transportation for those districts participating in the statewide system.
+19 The department of elementary and secondary education shall prorate the funds available for
+20 distribution among those eligible school districts if the total approved costs for which school
+21 districts are seeking reimbursement exceed the amount of funding available in any fiscal year;
+22 (f) Excess costs associated with transporting students within regional school districts. This
+23 fund will provide direct state funding for the excess costs associated with transporting students
+24 within regional school districts, established pursuant to chapter 3 of this title. This fund requires
+25 that the state and regional school district share equally the student transportation costs net any
+26 federal sources of revenue for these expenditures. The department of elementary and secondary
+27 education shall prorate the funds available for distribution among those eligible school districts if
+28 the total approved costs for which school districts are seeking reimbursement exceed the amount
+29 of funding available in any fiscal year;
+30 (g) Public school districts that are regionalized shall be eligible for a regionalization bonus
+31 as set forth below:
+32 (1) As used herein, the term “regionalized” shall be deemed to refer to a regional school
+33 district established under the provisions of chapter 3 of this title, including the Chariho Regional
+34 School district;
+LC003269 - Page 3 of 11
+
+1 (2) For those districts that are regionalized as of July 1, 2010, the regionalization bonus
+2 shall commence in FY 2012. For those districts that regionalize after July 1, 2010, the
+3 regionalization bonus shall commence in the first fiscal year following the establishment of a
+4 regionalized school district as set forth in chapter 3 of this title, including the Chariho Regional
+5 School District;
+6 (3) The regionalization bonus in the first fiscal year shall be two percent (2.0%) of the
+7 state’s share of the foundation education aid for the regionalized district as calculated pursuant to
+8 §§ 16-7.2-3 and 16-7.2-4 in that fiscal year;
+9 (4) The regionalization bonus in the second fiscal year shall be one percent (1.0%) of the
+10 state’s share of the foundation education aid for the regionalized district as calculated pursuant to
+11 §§ 16-7.2-3 and 16-7.2-4 in that fiscal year;
+12 (5) The regionalization bonus shall cease in the third fiscal year;
+13 (6) The regionalization bonus for the Chariho regional school district shall be applied to
+14 the state share of the permanent foundation education aid for the member towns; and
+15 (7) The department of elementary and secondary education shall prorate the funds available
+16 for distribution among those eligible regionalized school districts if the total, approved costs for
+17 which regionalized school districts are seeking a regionalization bonus exceed the amount of
+18 funding appropriated in any fiscal year;
+19 (h) [Deleted by P.L. 2024, ch. 117, art. 8, § 1.]
+20 (i) State support for school resource officers. For purposes of this subsection, a school
+21 resource officer (SRO) shall be defined as a career law enforcement officer with sworn authority
+22 who is deployed by an employing police department or agency in a community-oriented policing
+23 assignment to work in collaboration with one or more schools. School resource officers should have
+24 completed at least forty (40) hours of specialized training in school policing, administered by an
+25 accredited agency, before being assigned. Beginning in FY 2019, for a period of three (3) years,
+26 school districts or municipalities that choose to employ school resource officers shall receive direct
+27 state support for costs associated with employing such officers at public middle and high schools.
+28 Districts or municipalities shall be reimbursed an amount equal to one-half (½) of the cost of
+29 salaries and benefits for the qualifying positions. Funding will be provided for school resource
+30 officer positions established on or after July 1, 2018, provided that:
+31 (1) Each school resource officer shall be assigned to one school:
+32 (i) Schools with enrollments below one thousand two hundred (1,200) students shall
+33 require one school resource officer;
+34 (ii) Schools with enrollments of one thousand two hundred (1,200) or more students shall
+LC003269 - Page 4 of 11
+
+1 require two school resource officers;
+2 (2) School resource officers hired in excess of the requirement noted above shall not be
+3 eligible for reimbursement; and
+4 (3) Schools that eliminate existing school resource officer positions and create new
+5 positions under this provision shall not be eligible for reimbursement; and
+6 (j) Categorical programs defined in subsections (a) through (g) shall be funded pursuant to
+7 the transition plan in § 16-7.2-7.
+8 (k) Effective July 1, 2026, the state shall assume the cost of the dual enrollment program,
+9 established under chapter 100 of this title ("dual enrolment equal opportunity act") including, but
+10 not limited to, the community college of Rhode Island running start program, and the New England
+11 Institute of Technology early college completion programs at the post-secondary institution.
+12 (l) On or before January 1, 2027, and annually thereafter on or before January 1, the
+13 department of revenue shall publish a report, in collaboration with local education agencies,
+14 identifying costs borne by districts that are partially funded or unfunded. The report shall be
+15 submitted to the governor for consideration when preparing the final budget proposal for
+16 submission to the general assembly. In addition, the report shall be accessible to all, published to
+17 the state transparency portal with copies provided to the speaker of the house, and the senate
+18 president as well as all members of the general assembly.
+19 SECTION 2. Sections 16-22-30 and 16-22-31 of the General Laws in Chapter 16-22
+20 entitled "Curriculum [See Title 16 Chapter 97 — the Rhode Island Board of Education Act]" are
+21 hereby amended to read as follows:
+22 16-22-30. Statewide academic standards.
+23 (a) The council on elementary and secondary education (the “council”) shall direct the
+24 commissioner of elementary and secondary education (the “commissioner”) to institute a process
+25 to develop statewide academic standards for the core subjects of mathematics, English language
+26 arts, science and technology, history and social studies, world languages, and the arts. This process
+27 shall:
+28 (1) Be open and consultative;
+29 (2) Include, but need not be limited to, a culturally and racially diverse group of classroom
+30 teachers and students; and
+31 (3) Include, but need not be limited to, reviewing and revising current standards, as well as
+32 adopting new ones, if deemed appropriate.
+33 (b) The commissioner shall develop the statewide academic standards pursuant to this
+34 section by no later than December 31, 2019, and again as required by the council’s procedures set
+LC003269 - Page 5 of 11
+
+1 forth in subsection (f) of this section. The standards shall:
+2 (1) Cover grades prekindergarten through grade twelve (PK-12);
+3 (2) Clearly set forth the skills, competencies, and knowledge expected to be demonstrated
+4 by all students at the conclusion of individual grades or grade spans;
+5 (3) Be formulated so as to set high expectations for student performance;
+6 (4) Provide clear and specific examples that embody and reflect these high expectations;
+7 (5) Be constructed with due regard to the established research and recommendations of
+8 national organizations, to the best of similar efforts in other states, and to the level of skills,
+9 competencies, and knowledge possessed by typical students in the most educationally-advanced
+10 nations. The skills, competencies, and knowledge set forth in the standards shall define the
+11 performance outcomes expected of both students directly entering the workforce and of students
+12 pursuing higher education. In addition, the skills, competencies, and knowledge set forth in the
+13 standards shall inform the design and implementation of the Rhode Island comprehensive
+14 assessment system (“RICAS”) in mathematics, English language arts, and science and technology.
+15 The RICAS shall align with federal law, be in place for no fewer than ten (10) years, and facilitate
+16 comparisons of students of other states and nations;
+17 (6) Be designed to instill respect for the cultural, ethnic, and racial diversity of this state,
+18 and for the contributions made by diverse cultural, ethnic, and racial groups to the life of this state;
+19 (7) Be designed to avoid perpetuating gender, cultural, ethnic, or racial stereotypes;
+20 (8) Reflect sensitivity to different learning styles;
+21 (9) Reflect sensitivity to impediments to learning, which may include issues related to, but
+22 not limited to, cultural, financial, emotional, health, and social factors; and
+23 (10) Be in a form readily comprehensible by the general public.
+24 (c) This section shall not require the abandonment of any standards already in place, so
+25 long as the commissioner determines that these standards meet the statewide goals contained
+26 herein.
+27 (d) The commissioner shall submit a copy of the standards to the council for approval at
+28 least sixty (60) days prior to the standards taking effect.
+29 (e) Upon approval, the council shall make the standards available to the public.
+30 (f) The council shall develop procedures for updating, improving, or refining standards
+31 pursuant to this section by no later than September 1, 2021. The procedures shall include a
+32 requirement that the council review and evaluate the standards regularly to ensure that the high
+33 quality of the standards is maintained. The review cycle shall begin in 2025, with subsequent
+34 reviews taking place in 2029, 2033, and every four (4) years thereafter.
+LC003269 - Page 6 of 11
+
+1 (g) On or before December 1, 2020, and annually thereafter on or before December 1, the
+2 commissioner shall report to the governor, president of the senate, and the speaker of the house,
+3 regarding the standards developed and reviewed pursuant to this section.
+4 (h) Effective July 1, 2026, school districts shall be authorized to implement lower-cost
+5 curriculum programs that are substantially similar to programs approved by the Rhode Island
+6 department of education (RIDE) pursuant to this section. Educational districts shall have the ability
+7 to petition RIDE to use a lower-cost option.
+8 16-22-31. Curriculum frameworks.
+9 (a)(1) The council on elementary and secondary education (the “council”) shall direct the
+10 commissioner of elementary and secondary education (the “commissioner”) to institute a process
+11 to develop curriculum frameworks for mathematics, English language arts, science and technology,
+12 history and social studies, world languages, and the arts. This process shall:
+13 (i) Be open and consultative;
+14 (ii) Include, but need not be limited to, a culturally and racially diverse group of classroom
+15 teachers and students; and
+16 (iii) Include, but need not be limited to, reviewing and revising current frameworks, as well
+17 as developing new ones, if deemed appropriate.
+18 (2) The process may include, but need not be limited to, community groups, cultural
+19 organizations, parents, teacher preparation programs, and leading college and university figures in
+20 both subject matter disciplines and pedagogy.
+21 (b) The commissioner shall develop the curriculum frameworks pursuant to this section by
+22 no later than September 1, 2021, and again as required by the council’s procedures set forth in
+23 subsection (e) of this section. The curriculum frameworks developed by the commissioner shall:
+24 (1) Present broad, research-based pedagogical approaches and strategies to assist students
+25 develop the skills, competencies, and knowledge called for by the statewide standards provided in
+26 § 16-22-30;
+27 (2) Provide sufficient detail to guide and inform processes for the education, professional
+28 development, certification, and evaluation of both active and aspiring teachers and administrators;
+29 (3) Provide sufficient detail to guide the implementation of student assessment instruments;
+30 (4) Be constructed to guide and assist teachers, administrators, publishers, software
+31 developers, and other interested parties in the development and selection of curricula, textbooks,
+32 technology, and other instructional materials, and in the design of pedagogical approaches and
+33 strategies for use in elementary, secondary, and career and technical schools;
+34 (5) Be aligned with the state’s commitment to college and career readiness;
+LC003269 - Page 7 of 11
+
+1 (6) Encourage demanding real-world application, multidisciplinary problem solving,
+2 integration of academic and career and technical education curriculum, project-based learning,
+3 performance assessment, team teaching, and alignment of classroom instruction with work-based
+4 learning opportunities;
+5 (7) Promote better alignment with postsecondary curriculum and instruction, including, but
+6 not limited to, the expansion and/or use of dual enrollment and dual credit opportunities for high
+7 school students that help them with the postsecondary transition, persistence, and attainment of a
+8 credential;
+9 (8) Encourage capstone projects and associated performance assessments that provide
+10 students the opportunity to demonstrate holistic proficiency with respect to research, cross-
+11 disciplinary problem solving, critical thinking, communication, collaboration, and oral defense;
+12 (9) Present specific, pedagogical approaches and strategies to meet the academic and
+13 nonacademic needs of English learner, economically disadvantaged, special education, and
+14 academically advanced students;
+15 (10) Be designed to avoid perpetuating gender, cultural, ethnic, or racial stereotypes;
+16 (11) Reflect sensitivity to different learning styles;
+17 (12) Reflect sensitivity to impediments to learning, which may include issues related to,
+18 but not limited to, cultural, financial, emotional, health, and social factors; and
+19 (13) Be in a form readily comprehensible by the general public.
+20 (c) The commissioner shall submit a copy of the frameworks to the council for approval at
+21 least sixty (60) days prior to the frameworks taking effect.
+22 (d) Upon approval, the council shall make the frameworks available to the public.
+23 (e) The council shall develop procedures for updating, improving, or refining curriculum
+24 frameworks pursuant to this section by no later than September 1, 2021. The procedures shall
+25 include a requirement that the council review and evaluate the frameworks regularly to ensure that
+26 the high quality of the frameworks is maintained. The review cycle shall begin in 2025, with
+27 subsequent reviews taking place in 2029, 2033, and every four (4) years thereafter. Provided,
+28 effective July 1, 2026, there shall be a pause on purchasing new curricular materials and
+29 accompanying professional development required by this section until further action is taken by
+30 the general assembly.
+31 (f) On or before December 1, 2020, and annually thereafter on or before December 1, the
+32 commissioner shall report to the governor, president of the senate, and the speaker of the house,
+33 regarding the curriculum frameworks developed and reviewed pursuant to this section.
+34 SECTION 3. Section 16-45-1 of the General Laws in Chapter 16-45 entitled "Regional
+LC003269 - Page 8 of 11
+
+1 Vocational Schools [See Title 16 Chapter 97 — The Rhode Island Board of Education Act]" is
+2 hereby amended to read as follows:
+3 16-45-1. Establishment — Maintenance.
+4 The board of regents for elementary and secondary education is authorized and empowered
+5 to establish and maintain regional schools for vocational and technological training and instruction
+6 with any equipment, apparatus, books, and supplies that shall be necessary for instruction and for
+7 proper maintenance of the schools, and for these purposes the department of elementary and
+8 secondary education shall appoint and remove necessary instructors, teachers, and other employees,
+9 determine their compensation, fix the standards and terms upon which students shall be received
+10 and instructed in and discharged from the schools, and make all rules and regulations necessary for
+11 the control, management, and operation of the schools. Provided further, effective July 1, 2026,
+12 sending districts shall be notified of Career and Technical Education (CTE) enrollment timelines
+13 by April 1, and final rosters by June 15, with no changes after that date unless districts mutually
+14 agree, for the following school year.
+15 SECTION 4. Section 16-100-3 of the General Laws in Chapter 16-100 entitled "Dual
+16 Enrollment Equal Opportunity Act" is hereby amended to read as follows:
+17 16-100-3. Policy implemented.
+18 (a) The board of education shall prescribe by regulation a statewide dual enrollment policy
+19 that shall allow students to enroll in courses at postsecondary institutions to satisfy academic credit
+20 requirements in both high school and the aforementioned postsecondary institutions. The
+21 regulations shall address the postsecondary institution’s graduation requirements, if any; the
+22 institution’s ability to award degrees/certificates in Rhode Island; the minimum course grade to
+23 receive credit at the student’s secondary school; and any other criteria that the board deems
+24 appropriate.
+25 (b) The board shall convene a workgroup, including, but not limited to, representatives
+26 from the department of elementary and secondary education, the office of the postsecondary
+27 commissioner, superintendents, school committees, public higher education institutions, guidance
+28 counselors, and teachers. The purpose of the workgroup is to consider and advise the board as to a
+29 dual enrollment policy and its possible effect on school funding pursuant to chapter 7.2 of this title;
+30 academic supports; transportation; possible shared costs of the education; possible fee schedules;
+31 manners in which low-income students could access the program; and possible contracted tuition
+32 costs with our public higher education institutions.
+33 (c) Notwithstanding any law to the contrary, payments to public institutions of higher
+34 education for dual and concurrent enrollment shall be limited to no greater than the appropriation
+LC003269 - Page 9 of 11
+
+1 contained in the appropriations act. On or before September 30, 2017, the council on postsecondary
+2 education shall promulgate rules and regulations enforcing this limitation. Provided further,
+3 effective July 1, 2026, the state shall fund all costs for dual enrollment programs as a categorical
+4 expense.
+5 (d) Students in grade twelve (12) enrolled full-time, as defined by the institution, in a dual
+6 enrollment program where the courses are taken on a higher education institution campus shall be
+7 exempt from the requirements set forth in § 16-22-4(a).
+8 SECTION 5. This act shall take effect upon passage.
+========
+LC003269
+========
+LC003269 - Page 10 of 11
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- THE EDUCATION EQUITY AND PROPERTY TAX
+RELIEF ACT
+***
+1 This act would amend the current law on education to address unfunded mandates.
+2 This act would take effect upon passage.
+========
+LC003269
+========
+LC003269 - Page 11 of 11

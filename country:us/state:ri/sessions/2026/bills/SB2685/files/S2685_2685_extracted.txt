@@ -1,0 +1,752 @@
+Title: 
+Official Title: 
+Source: versions - 2685
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2685
+========
+LC004980
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- EMERGENCY MEDICAL TRANSPORTATION
+SERVICES
+Introduced By: Senators Gu, Murray, DiMario, Ujifusa, Bell, Valverde, Lauria,
+Thompson, and Appollonio
+Date Introduced: February 27, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-4.1 of the General Laws entitled "Emergency Medical
+2 Transportation Services" is hereby amended by adding thereto the following section:
+3 23-4.1-3.1. Mobile integrated healthcare community paramedicine program.
+4 (a) The department of health, in collaboration of the ambulance service coordinating
+5 advisory board, shall administer a mobile integrated healthcare community paramedicine program
+6 (the” program”), as defined in § 27-18-1.1, § 27-19-1, § 27-20-1, and § 27-41-2, and shall
+7 promulgate any rules, regulations, standing orders, protocols, and procedures necessary and proper
+8 for the efficient administration and enforcement of this section. The requirements of this section
+9 shall only apply to emergency medical services agencies as defined in chapters 18, 19, 20, and 41
+10 of title 27, who apply for and receive approval from the department of health to provide such
+11 services. The scope of the program shall address and incorporate ambulance services which are in-
+12 network (“INN”) ground ambulance services, out-of-network (“OON”) ground ambulance
+13 services, INN and OON community-based healthcare services, and INN and OON mobile
+14 integrated health community paramedicine programs approved by the department of health.
+15 (b) Provided, an OON ground ambulance service participating in the program shall be
+16 subject to all state and federal prohibitions on surprise medical billing for their services.
+17 SECTION 2. Sections 27-18-1.1 and 27-18-69 of the General Laws in Chapter 27-18
+18 entitled "Accident and Sickness Insurance Policies" are hereby amended to read as follows:
+
+1 27-18-1.1. Definitions.
+2 As used in this chapter:
+3 (1) “Adverse benefit determination” means any of the following: a denial, reduction, or
+4 termination of, or a failure to provide or make payment (in whole or in part) for, a benefit, including
+5 any such denial, reduction, termination, or failure to provide or make payment that is based on a
+6 determination of an individual’s eligibility to participate in a plan or to receive coverage under a
+7 plan, and including, with respect to group health plans, a denial, reduction, or termination of, or a
+8 failure to provide or make payment (in whole or in part) for, a benefit resulting from the application
+9 of any utilization review, as well as a failure to cover an item or service for which benefits are
+10 otherwise provided because it is determined to be experimental or investigational or not medically
+11 necessary or appropriate. The term also includes a rescission of coverage determination.
+12 (2) “Affordable Care Act” means the federal Patient Protection and Affordable Care Act
+13 of 2010, as amended by the federal Health Care and Education Reconciliation Act of 2010, and
+14 federal regulations adopted thereunder.
+15 (3) "Ambulance" means any publicly or privately owned vehicle, designed, constructed,
+16 equipped, and operated for emergency medical treatment and/or transportation of persons who are
+17 sick or injured.
+18 (3)(4) “Commissioner” or “health insurance commissioner” means that individual
+19 appointed pursuant to § 42-14.5-1.
+20 (5) "Emergency medical services" or "EMS agencies" means the practitioners, ambulance
+21 vehicles, and ambulance service entities licensed in accordance with chapter 4.1 of title 23 to
+22 provide emergency medical care, transportation, and prevention care to mitigate loss of life or
+23 exacerbation of illness or injury including, but not limited to, EMS responding to the 911 system
+24 established pursuant to the provisions of § 39-21.1-2.
+25 (6) "Emergency medical services practitioner" means an individual who is licensed in
+26 accordance with state laws and regulations to perform emergency medical care and preventive care
+27 to mitigate loss of life or exacerbation of illness or injury, including emergency medical
+28 technicians, advanced emergency medical technicians, advanced emergency medical technicians
+29 cardiac, and paramedics.
+30 (4)(7) “Essential health benefits” shall have the meaning set forth in section 1302(b) of the
+31 federal Affordable Care Act [42 U.S.C. § 18022].
+32 (5)(8) “Grandfathered health plan” means any group health plan or health insurance
+33 coverage subject to 42 U.S.C. § 18011.
+34 (9) "Ground ambulance services" means those services provided by an ambulance service
+LC004980 - Page 2 of 22
+
+1 licensed to operate in Rhode Island in accordance with § 23-4.1-6. The term excludes air and water
+2 ambulance services and ambulance services provided outside of Rhode Island.
+3 (6)(10) “Group health insurance coverage” means, in connection with a group health plan,
+4 health insurance coverage offered in connection with such plan.
+5 (7)(11) “Group health plan” means an employee welfare benefit plan, as defined in 29
+6 U.S.C. § 1002(1), to the extent that the plan provides health benefits to employees or their
+7 dependents directly or through insurance, reimbursement, or otherwise.
+8 (8)(12) “Health benefits” or “covered benefits” means coverage or benefits for the
+9 diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of
+10 affecting any structure or function of the body including coverage or benefits for transportation
+11 primarily for and essential thereto, and including medical services as defined in § 27-19-17.
+12 (9)(13) “Healthcare facility” means an institution providing healthcare services or a
+13 healthcare setting, including, but not limited to, hospitals and other licensed inpatient centers,
+14 ambulatory surgical or treatment centers, skilled nursing centers, residential treatment centers,
+15 diagnostic, laboratory, and imaging centers, and rehabilitation and other therapeutic health settings.
+16 (10)(14) “Healthcare professional” means a physician or other healthcare practitioner
+17 licensed, accredited, or certified to perform specified healthcare services consistent with state law.
+18 (11)(15) “Healthcare provider” or “provider” means a healthcare professional or a
+19 healthcare facility.
+20 (12)(16) “Healthcare services” means services for the diagnosis, prevention, treatment,
+21 cure, or relief of a health condition, illness, injury, or disease.
+22 (13)(17) “Health insurance carrier” means a person, firm, corporation, or other entity
+23 subject to the jurisdiction of the commissioner under this chapter. Such term does not include a
+24 group health plan.
+25 (14)(18) “Health plan” or “health benefit plan” means health insurance coverage and a
+26 group health plan, including coverage provided through an association plan if it covers Rhode
+27 Island residents. Except to the extent specifically provided by the federal Affordable Care Act, the
+28 term “health plan” shall not include a group health plan to the extent state regulation of the health
+29 plan is preempted under section 514 [29 U.S.C. § 1144] of the federal Employee Retirement Income
+30 Security Act of 1974. The term also shall not include:
+31 (A)(i) Coverage only for accident, or disability income insurance, or any combination
+32 thereof.
+33 (ii) Coverage issued as a supplement to liability insurance.
+34 (iii) Liability insurance, including general liability insurance and automobile liability
+LC004980 - Page 3 of 22
+
+1 insurance.
+2 (iv) Workers’ compensation or similar insurance.
+3 (v) Automobile medical payment insurance.
+4 (vi) Credit-only insurance.
+5 (vii) Coverage for on-site medical clinics.
+6 (viii) Other similar insurance coverage, specified in federal regulations issued pursuant to
+7 Pub. L. No. 104-191, the federal Health Insurance Portability and Accountability Act of 1996
+8 (“HIPAA”), under which benefits for medical care are secondary or incidental to other insurance
+9 benefits.
+10 (B) The following benefits if they are provided under a separate policy, certificate, or
+11 contract of insurance or are otherwise not an integral part of the plan:
+12 (i) Limited scope dental or vision benefits.
+13 (ii) Benefits for long-term care, nursing home care, home health care, community-based
+14 care, or any combination thereof.
+15 (iii) Other excepted benefits specified in federal regulations issued pursuant to federal Pub.
+16 L. No. 104-191 (“HIPAA”).
+17 (C) The following benefits if the benefits are provided under a separate policy, certificate,
+18 or contract of insurance, there is no coordination between the provision of the benefits and any
+19 exclusion of benefits under any group health plan maintained by the same plan sponsor, and the
+20 benefits are paid with respect to an event without regard to whether benefits are provided with
+21 respect to such an event under any group health plan maintained by the same plan sponsor:
+22 (i) Coverage only for a specified disease or illness.
+23 (ii) Hospital indemnity or other fixed indemnity insurance.
+24 (D) The following if offered as a separate policy, certificate, or contract of insurance:
+25 (i) Medicare supplement health insurance as defined under section 1882(g)(1) [42 U.S.C.
+26 § 1395ss] of the federal Social Security Act.
+27 (ii) Coverage supplemental to the coverage provided under chapter 55 of title 10, United
+28 States Code (Civilian Health and Medical Program of the Uniformed Services (CHAMPUS)).
+29 (iii) Similar supplemental coverage provided to coverage under a group health plan.
+30 (19) "Mobile integrated healthcare community paramedicine program" means the
+31 provision of healthcare using patient-centered, mobile resources in the out-of-hospital environment
+32 pursuant to an EMS agency's plan approved by the department of health utilizing licensed
+33 emergency medical service practitioners working in collaboration with physicians, nurses, mid-
+34 level practitioners, community health teams and social, behavioral and substance use disorder
+LC004980 - Page 4 of 22
+
+1 specialists to address the unmet needs of individuals experiencing intermittent health care issues;
+2 provided that, only those emergency medical services (EMS) agencies who submit plans that meet
+3 the minimum requirements for participation set and approved by the department of health shall be
+4 eligible to participate in a mobile integrated healthcare/community paramedicine program.
+5 (15)(20) “Office of the health insurance commissioner” means the agency established
+6 under § 42-14.5-1.
+7 (16)(21) “Rescission” means a cancellation or discontinuance of coverage that has
+8 retroactive effect for reasons unrelated to timely payment of required premiums or contribution to
+9 costs of coverage.
+10 27-18-69. Licensed ambulance service.
+11 (a) No individual or group health insurance contract, plan, or policy delivered, issued for
+12 delivery, or renewed in this state on or after January 1, 2009, shall provide for a copayment for
+13 ground ambulance services in excess of fifty dollars ($50.00).
+14 (b) As used in this section, the term “ground ambulance services” shall mean those services
+15 provided by an ambulance service licensed to operate in Rhode Island in accordance with § 23-4.1-
+16 6. The term excludes air and water ambulance services and ambulance services provided outside
+17 of Rhode Island.
+18 (c) This section Subsections (a) and (d) of this section shall not apply to insurance coverage
+19 providing benefits for: (1) Hospital confinement indemnity; (2) Disability income; (3) Accident
+20 only; (4) Long-term care; (5) Medicare supplement; (6) Limited benefit health; (7) Specified
+21 disease indemnity; (8) Sickness or bodily injury or death by accident or both; and (9) Other limited
+22 benefit policies.
+23 (d) Individual and group health insurance contracts, plans, and policies issued for delivery,
+24 or renewed in this state on or after January 1, 2027, shall provide coverage and reimbursement for
+25 ground ambulance services, as defined in § 27-18-1.1, equal to coverage and reimbursement rates
+26 provided by Medicare for the same medical services, and shall reimburse the emergency medical
+27 services provider staffed by emergency medical services practitioners, as defined in § 27-18-1.1, at
+28 the level of care provided, regardless of whether the patient is transported, such coverage and
+29 reimbursement shall be inclusive of the community-based healthcare services, to include mobile
+30 integrated health community paramedicine programs approved by the department of health;
+31 provided that, mobile integrated health community paramedicine programs services shall be
+32 performed by emergency medical services staffed by emergency medical practitioners. If the
+33 ground ambulance service provider participates in the carrier's network, the carrier shall cover and
+34 reimburse the ambulance service provider at the ambulance service provider's rate for the level of
+LC004980 - Page 5 of 22
+
+1 care provided, regardless of whether the patient is transported. This coverage and reimbursement
+2 shall also extend to ambulance services which are in-network (“INN”) ground ambulance services,
+3 out-of-network (“OON”) ground ambulance services, INN and OON community-based healthcare
+4 services, and INN and OON mobile integrated health community paramedicine programs approved
+5 by the department of health.
+6 SECTION 3. Sections 27-19-1 and 27-19-60 of the General Laws in Chapter 27-19 entitled
+7 "Nonprofit Hospital Service Corporations" are hereby amended to read as follows:
+8 27-19-1. Definitions.
+9 As used in this chapter:
+10 (1) “Adverse benefit determination” means any of the following: a denial, reduction, or
+11 termination of, or a failure to provide or make payment (in whole or in part) for, a benefit, including
+12 any such denial, reduction, termination, or failure to provide or make payment that is based on a
+13 determination of an individual’s eligibility to participate in a plan or to receive coverage under a
+14 plan, and including, with respect to group health plans, a denial, reduction, or termination of, or a
+15 failure to provide or make payment (in whole or in part) for, a benefit resulting from the application
+16 of any utilization review, as well as a failure to cover an item or service for which benefits are
+17 otherwise provided because it is determined to be experimental or investigational or not medically
+18 necessary or appropriate. The term also includes a rescission of coverage determination.
+19 (2) “Affordable Care Act” means the federal Patient Protection and Affordable Care Act,
+20 Pub. L. No. 111-148, 124 Stat. 119, as amended by the federal Health Care and Education
+21 Reconciliation Act of 2010, Pub. L. No. 111-152, 124 Stat. 1029, and federal regulations adopted
+22 thereunder.
+23 (3) "Ambulance" means any publicly or privately owned vehicle, designed, constructed,
+24 equipped, and operated for emergency medical treatment and/or transportation of persons who are
+25 sick or injured.
+26 (3)(4) “Commissioner” or “health insurance commissioner” means that individual
+27 appointed pursuant to § 42-14.5-1.
+28 (4)(5) “Contracting hospital” means an eligible hospital that has contracted with a nonprofit
+29 hospital service corporation to render hospital care to subscribers to the nonprofit hospital service
+30 plan operated by the corporation.
+31 (5)(6) “Eligible hospital” is one that is maintained either by the state or by any of its
+32 political subdivisions or by a corporation organized for hospital purposes under the laws of this
+33 state or of any other state or of the United States, that is designated as an eligible hospital by a
+34 majority of the directors of the nonprofit hospital service corporation.
+LC004980 - Page 6 of 22
+
+1 (7) "Emergency medical services" or "EMS agencies" means the practitioners, ambulance
+2 vehicles, and ambulance service entities licensed in accordance with chapter 4.1 of title 23 to
+3 provide emergency medical care, transportation, and prevention care to mitigate loss of life or
+4 exacerbation of illness or injury including, but not limited to, EMS responding to the 911 system
+5 established pursuant to the provisions of § 39-21.1-2.
+6 (8) "Emergency medical services practitioner" means an individual who is licensed in
+7 accordance with state laws and regulations to perform emergency medical care and preventive care
+8 to mitigate loss of life or exacerbation of illness or injury, including emergency medical
+9 technicians, advanced emergency medical technicians, advanced emergency medical technicians
+10 cardiac, and paramedics.
+11 (6)(9) “Essential health benefits” shall have the meaning set forth in section 1302(b) of the
+12 federal Patient Protection and Affordable Care Act [42 U.S.C. § 18022(b)].
+13 (7)(10) “Grandfathered health plan” means any group health plan or health insurance
+14 coverage subject to 42 U.S.C. § 18011.
+15 (11) "Ground ambulances services" means those services provided by an ambulance
+16 service licensed to operate in Rhode Island in accordance with § 23-4.1-6. The term excludes air
+17 and water ambulance services and ambulance services provided outside of Rhode Island.
+18 (8)(12) “Group health insurance coverage” means, in connection with a group health plan,
+19 health insurance coverage offered in connection with the plan.
+20 (9)(13) “Group health plan” means an employee welfare benefit plan, as defined in 29
+21 U.S.C. § 1002(1), to the extent that the plan provides health benefits to employees or their
+22 dependents directly or through insurance, reimbursement, or otherwise.
+23 (10)(14) “Health benefits” or “covered benefits” means coverage or benefits for the
+24 diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of
+25 affecting any structure or function of the body including coverage or benefits for transportation
+26 primarily for and essential thereto, and including medical services as defined in § 27-19-17.
+27 (11)(15) “Healthcare facility” means an institution providing healthcare services or a
+28 healthcare setting, including but not limited to: hospitals and other licensed inpatient centers;
+29 ambulatory surgical or treatment centers; skilled nursing centers; residential treatment centers;
+30 diagnostic, laboratory, and imaging centers; and rehabilitation and other therapeutic health settings.
+31 (12)(16) “Healthcare professional” means a physician or other healthcare practitioner
+32 licensed, accredited, or certified to perform specified healthcare services consistent with state law.
+33 (13)(17) “Healthcare provider” or “provider” means a healthcare professional or a
+34 healthcare facility.
+LC004980 - Page 7 of 22
+
+1 (14)(18) “Healthcare services” means services for the diagnosis, prevention, treatment,
+2 cure, or relief of a health condition, illness, injury, or disease.
+3 (15)(19) “Health insurance carrier” means a person, firm, corporation, or other entity
+4 subject to the jurisdiction of the commissioner under this chapter, and includes nonprofit hospital
+5 service corporations. Such term does not include a group health plan. The use of this term shall not
+6 be construed to subject a nonprofit hospital service corporation to the insurance laws of this state
+7 other than as set forth in § 27-19-2.
+8 (16)(20) “Health plan” or “health benefit plan” means health insurance coverage and a
+9 group health plan, including coverage provided through an association plan if it covers Rhode
+10 Island residents. Except to the extent specifically provided by the federal Patient Protection and
+11 Affordable Care Act, the term “health plan” shall not include a group health plan to the extent state
+12 regulation of the health plan is preempted under section 514 of the federal Employee Retirement
+13 Income Security Act of 1974 [29 U.S.C. § 1144]. The term also shall not include:
+14 (A)(i) Coverage only for accident, or disability income insurance, or any combination
+15 thereof.
+16 (ii) Coverage issued as a supplement to liability insurance.
+17 (iii) Liability insurance, including general liability insurance and automobile liability
+18 insurance.
+19 (iv) Workers’ compensation or similar insurance.
+20 (v) Automobile medical payment insurance.
+21 (vi) Credit-only insurance.
+22 (vii) Coverage for on-site medical clinics.
+23 (viii) Other similar insurance coverage, specified in federal regulations issued pursuant to
+24 the federal Health Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-191, 110
+25 Stat. 1936 (“HIPAA”), under which benefits for medical care are secondary or incidental to other
+26 insurance benefits.
+27 (B) The following benefits if they are provided under a separate policy, certificate, or
+28 contract of insurance or are otherwise not an integral part of the plan:
+29 (i) Limited scope dental or vision benefits.
+30 (ii) Benefits for long-term care, nursing home care, home health care, community-based
+31 care, or any combination thereof.
+32 (iii) Other excepted benefits specified in federal regulations issued pursuant to the federal
+33 Health Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-191, 110 Stat. 1936
+34 (“HIPAA”).
+LC004980 - Page 8 of 22
+
+1 (C) The following benefits if the benefits are provided under a separate policy, certificate,
+2 or contract of insurance, there is no coordination between the provision of the benefits and any
+3 exclusion of benefits under any group health plan maintained by the same plan sponsor, and the
+4 benefits are paid with respect to an event without regard to whether benefits are provided with
+5 respect to such an event under any group health plan maintained by the same plan sponsor:
+6 (i) Coverage only for a specified disease or illness.
+7 (ii) Hospital indemnity or other fixed indemnity insurance.
+8 (D) The following if offered as a separate policy, certificate, or contract of insurance:
+9 (i) Medicare supplement health insurance as defined under section 1882(g)(1) of the federal
+10 Social Security Act [42 U.S.C. § 1395ss].
+11 (ii) Coverage supplemental to the coverage provided under chapter 55 of title 10, United
+12 States Code (Civilian Health and Medical Program of the Uniformed Services (CHAMPUS)).
+13 (iii) Similar supplemental coverage provided to coverage under a group health plan.
+14 (21) "Mobile integrated healthcare community paramedicine program" means the
+15 provision of healthcare using patient-centered, mobile resources in the out-of-hospital environment
+16 pursuant to an EMS agency's plan approved by the department of health utilizing licensed
+17 emergency medical service practitioners working in collaboration with physicians, nurses, mid-
+18 level practitioners, community health teams and social, behavioral and substance use disorder
+19 specialists to address the unmet needs of individuals experiencing intermittent health care issues;
+20 provided that, only those emergency medical services (EMS) agencies who submit plans that meet
+21 the minimum requirements for participation set and approved by the department of health shall be
+22 eligible to participate in a mobile integrated healthcare/community paramedicine program.
+23 (17)(22) “Nonprofit hospital service corporation” means any corporation organized
+24 pursuant to this chapter for the purpose of establishing, maintaining, and operating a nonprofit
+25 hospital service plan.
+26 (18)(23) “Nonprofit hospital service plan” means a plan by which specified hospital care
+27 is to be provided to subscribers to the plan by a contracting hospital.
+28 (19)(24) “Office of the health insurance commissioner” means the agency established
+29 under § 42-14.5-1.
+30 (20)(25) “Rescission” means a cancellation or discontinuance of coverage that has
+31 retroactive effect for reasons unrelated to timely payment of required premiums or contribution to
+32 costs of coverage.
+33 (21)(26) “Subscribers” mean those persons, whether or not residents of this state, who have
+34 contracted with a nonprofit hospital service corporation for hospital care pursuant to a nonprofit
+LC004980 - Page 9 of 22
+
+1 hospital service plan operated by the corporation.
+2 27-19-60. Licensed ambulance service.
+3 (a) No individual or group health insurance contract, plan, or policy delivered, issued for
+4 delivery, or renewed in this state on or after January 1, 2009, shall provide for a copayment for
+5 ground ambulance services in excess of fifty dollars ($50.00).
+6 (b) As used in this section, the term “ground ambulance services” shall mean those services
+7 provided by an ambulance service licensed to operate in Rhode Island in accordance with § 23-4.1-
+8 6. The term excludes air and water ambulance services and ambulance services provided outside
+9 of Rhode Island.
+10 (c) This section Subsections (a) and (d) of this section shall not apply to insurance coverage
+11 providing benefits for: (1) Hospital confinement indemnity; (2) Disability income; (3) Accident
+12 only; (4) Long-term care; (5) Medicare supplement; (6) Limited benefit health; (7) Specified
+13 disease indemnity; (8) Sickness or bodily injury or death by accident, or both; and (9) Other limited
+14 benefit policies.
+15 (d) Individual and group health insurance contracts, plans, and policies issued for delivery,
+16 or renewed in this state on or after January 1, 2027, shall provide coverage and reimbursement for
+17 ground ambulance services, as defined in § 27-19-1, equal to coverage and reimbursement rates
+18 provided by Medicare for the same medical services, and shall reimburse the emergency medical
+19 services provider staffed by emergency medical services practitioners, as defined in § 27-19-1, at
+20 the level of care provided, regardless of whether the patient is transported, such coverage and
+21 reimbursement shall be inclusive of the community-based healthcare services, to include mobile
+22 integrated health community paramedicine programs approved by the department of health;
+23 provided that, mobile integrated health community paramedicine programs services shall be
+24 performed by emergency medical services staffed by emergency medical practitioners. If the
+25 ground ambulance service provider participates in the carrier's network, the carrier shall cover and
+26 reimburse the ambulance service provider at the ambulance service provider's rate for the level of
+27 care provided, regardless of whether the patient is transported.
+28 This coverage and reimbursement shall also extend to ambulance services which are in-
+29 network (“INN”) ground ambulance services, out-of-network (“OON”) ground ambulance
+30 services, INN and OON community-based healthcare services, and INN and OON mobile
+31 integrated health community paramedicine programs approved by the department of health.
+32 SECTION 4. Sections 27-20-1 and 27-20-55 of the General Laws in Chapter 27-20 entitled
+33 "Nonprofit Medical Service Corporations" are hereby amended to read as follows:
+34 27-20-1. Definitions.
+LC004980 - Page 10 of 22
+
+1 As used in this chapter:
+2 (1) “Adverse benefit determination” means any of the following: a denial, reduction, or
+3 termination of, or a failure to provide or make payment (in whole or in part) for, a benefit, including
+4 any such denial, reduction, termination, or failure to provide or make payment that is based on a
+5 determination of an individual’s eligibility to participate in a plan or to receive coverage under a
+6 plan, and including, with respect to group health plans, a denial, reduction, or termination of, or a
+7 failure to provide or make payment (in whole or in part) for, a benefit resulting from the application
+8 of any utilization review, as well as a failure to cover an item or service for which benefits are
+9 otherwise provided because it is determined to be experimental or investigational or not medically
+10 necessary or appropriate. The term also includes a rescission of coverage determination.
+11 (2) “Affordable Care Act” means the federal Patient Protection and Affordable Care Act,
+12 as amended by the federal Health Care and Education Reconciliation Act of 2010, and federal
+13 regulations adopted thereunder.
+14 (3) "Ambulance" means any publicly or privately owned vehicle, designed, constructed,
+15 equipped, and operated for emergency medical treatment and/or transportation of persons who are
+16 sick or injured.
+17 (3)(4) “Certified registered nurse practitioners” is an expanded role utilizing independent
+18 knowledge of physical assessment and management of health care and illnesses. The practice
+19 includes collaboration with other licensed healthcare professionals including, but not limited to,
+20 physicians, pharmacists, podiatrists, dentists, and nurses.
+21 (4)(5) “Commissioner” or “health insurance commissioner” means that individual
+22 appointed pursuant to § 42-14.5-1.
+23 (5)(6) “Counselor in mental health” means a person who has been licensed pursuant to §
+24 5-63.2-9.
+25 (7) "Emergency medical services" or "EMS agencies" means the practitioners, ambulance
+26 vehicles, and ambulance service entities licensed in accordance with chapter 4.1 of title 23 to
+27 provide emergency medical care, transportation, and prevention care to mitigate loss of life or
+28 exacerbation of illness or injury including, but not limited to, EMS responding to the 911 system
+29 established pursuant to the provisions of § 39-21.1-2.
+30 (8) "Emergency medical services practitioner" means an individual who is licensed in
+31 accordance with state laws and regulations to perform emergency medical care and preventive care
+32 to mitigate loss of life or exacerbation of illness or injury, including emergency medical
+33 technicians, advanced emergency medical technicians, advanced emergency medical technicians
+34 cardiac, and paramedics.
+LC004980 - Page 11 of 22
+
+1 (6)(9) “Essential health benefits” shall have the meaning set forth in section 1302(b) of the
+2 federal Affordable Care Act [42 U.S.C. § 18022(b)].
+3 (7)(10) “Grandfathered health plan” means any group health plan or health insurance
+4 coverage subject to 42 U.S.C. § 18011.
+5 (11) "Ground ambulances services" means those services provided by an ambulance
+6 service licensed to operate in Rhode Island in accordance with § 23-4.1-6. The term excludes air
+7 and water ambulance services and ambulance services provided outside of Rhode Island.
+8 (8)(12) “Group health insurance coverage” means, in connection with a group health plan,
+9 health insurance coverage offered in connection with such plan.
+10 (9)(13) “Group health plan” means an employee welfare benefit plan as defined in 29
+11 U.S.C. § 1002(1) to the extent that the plan provides health benefits to employees or their
+12 dependents directly or through insurance, reimbursement, or otherwise.
+13 (10)(14) “Health benefits” or “covered benefits” means coverage or benefits for the
+14 diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of
+15 affecting any structure or function of the body including coverage or benefits for transportation
+16 primarily for and essential thereto, and including medical services as defined in § 27-19-17.
+17 (11)(15) “Healthcare facility” means an institution providing healthcare services or a
+18 healthcare setting, including but not limited to: hospitals and other licensed inpatient centers;
+19 ambulatory surgical or treatment centers; skilled nursing centers; residential treatment centers;
+20 diagnostic, laboratory, and imaging centers; and rehabilitation and other therapeutic health settings.
+21 (12)(16)“Healthcare professional” means a physician or other healthcare practitioner
+22 licensed, accredited, or certified to perform specified healthcare services consistent with state law.
+23 (13)(17) “Healthcare provider” or “provider” means a healthcare professional or a
+24 healthcare facility.
+25 (14)(18) “Healthcare services” means services for the diagnosis, prevention, treatment,
+26 cure, or relief of a health condition, illness, injury, or disease.
+27 (15)(19) “Health insurance carrier” means a person, firm, corporation, or other entity
+28 subject to the jurisdiction of the commissioner under this chapter, and includes a nonprofit medical
+29 service corporation. Such term does not include a group health plan.
+30 (16)(20) “Health plan” or “health benefit plan” means health insurance coverage and a
+31 group health plan, including coverage provided through an association plan if it covers Rhode
+32 Island residents. Except to the extent specifically provided by the federal Affordable Care Act, the
+33 term “health plan” shall not include a group health plan to the extent state regulation of the health
+34 plan is preempted under section 514 of the federal Employee Retirement Income Security Act of
+LC004980 - Page 12 of 22
+
+1 1974 [29 U.S.C. § 1144]. The term also shall not include:
+2 (A)(i) Coverage only for accident, or disability income insurance, or any combination
+3 thereof;
+4 (ii) Coverage issued as a supplement to liability insurance;
+5 (iii) Liability insurance, including general liability insurance and automobile liability
+6 insurance;
+7 (iv) Workers’ compensation or similar insurance;
+8 (v) Automobile medical payment insurance;
+9 (vi) Credit-only insurance;
+10 (vii) Coverage for on-site medical clinics; and
+11 (viii) Other similar insurance coverage, specified in federal regulations issued pursuant to
+12 federal Pub. L. No. 104-191, the federal Health Insurance Portability and Accountability Act of
+13 1996 (“HIPAA”), under which benefits for medical care are secondary or incidental to other
+14 insurance benefits.
+15 (B) The following benefits if they are provided under a separate policy, certificate, or
+16 contract of insurance or are otherwise not an integral part of the plan:
+17 (i) Limited scope dental or vision benefits;
+18 (ii) Benefits for long-term care, nursing home care, home health care, community-based
+19 care, or any combination thereof; and
+20 (iii) Other excepted benefits specified in federal regulations issued pursuant to federal Pub.
+21 L. No. 104-191 (“HIPAA”).
+22 (C) The following benefits if the benefits are provided under a separate policy, certificate,
+23 or contract of insurance; there is no coordination between the provision of the benefits and any
+24 exclusion of benefits under any group health plan maintained by the same plan sponsor; and the
+25 benefits are paid with respect to an event without regard to whether benefits are provided with
+26 respect to such an event under any group health plan maintained by the same plan sponsor:
+27 (i) Coverage only for a specified disease or illness; and
+28 (ii) Hospital indemnity or other fixed indemnity insurance.
+29 (D) The following if offered as a separate policy, certificate, or contract of insurance:
+30 (i) Medicare supplement health insurance as defined under section 1882(g)(1) of the federal
+31 Social Security Act [42 U.S.C. § 1395ss];
+32 (ii) Coverage supplemental to the coverage provided under chapter 55 of title 10, United
+33 States Code (Civilian Health and Medical Program of the Uniformed Services (CHAMPUS)).
+34 (iii) Similar supplemental coverage provided to coverage under a group health plan.
+LC004980 - Page 13 of 22
+
+1 (17)(21) “Licensed midwife” means any midwife licensed under § 23-13-9.
+2 (18)(22) “Medical services” means those professional services rendered by persons duly
+3 licensed under the laws of this state to practice medicine, surgery, chiropractic, podiatry, and other
+4 professional services rendered by a licensed midwife, certified registered nurse practitioners, and
+5 psychiatric and mental health nurse clinical specialists, and appliances, drugs, medicines, supplies,
+6 and nursing care necessary in connection with the services, or the expense indemnity for the
+7 services, appliances, drugs, medicines, supplies, and care, as may be specified in any nonprofit
+8 medical service plan. Medical service shall not be construed to include hospital services.
+9 (23) "Mobile integrated healthcare community paramedicine program" means the
+10 provision of healthcare using patient-centered, mobile resources in the out-of-hospital environment
+11 pursuant to an EMS agency's plan approved by the department of health utilizing licensed
+12 emergency medical service practitioners working in collaboration with physicians, nurses, mid-
+13 level practitioners, community health teams and social, behavioral and substance use disorder
+14 specialists to address the unmet needs of individuals experiencing intermittent health care issues;
+15 provided that, only those emergency medical services (EMS) agencies who submit plans that meet
+16 the minimum requirements for participation set and approved by the department of health shall be
+17 eligible to participate in a mobile integrated healthcare/community paramedicine program.
+18 (19)(24) “Nonprofit medical service corporation” means any corporation organized
+19 pursuant hereto for the purpose of establishing, maintaining, and operating a nonprofit medical
+20 service plan.
+21 (20)(25) “Nonprofit medical service plan” means a plan by which specified medical service
+22 is provided to subscribers to the plan by a nonprofit medical service corporation.
+23 (21) “Office of the health insurance commissioner” means the agency established under §
+24 42-14.5-1.
+25 (22)(26) “Psychiatric and mental health nurse clinical specialist” is an expanded role
+26 utilizing independent knowledge and management of mental health and illnesses. The practice
+27 includes collaboration with other licensed healthcare professionals, including, but not limited to:
+28 psychiatrists, psychologists, physicians, pharmacists, and nurses.
+29 (23)(27) “Rescission” means a cancellation or discontinuance of coverage that has
+30 retroactive effect for reasons unrelated to timely payment of required premiums or contribution to
+31 costs of coverage.
+32 (24)(28) “Subscribers” means those persons or groups of persons who contract with a
+33 nonprofit medical service corporation for medical service pursuant to a nonprofit medical service
+34 plan.
+LC004980 - Page 14 of 22
+
+1 (25)(29) “Therapist in marriage and family practice” means a person who has been licensed
+2 pursuant to § 5-63.2-10.
+3 27-20-55. Licensed ambulance service.
+4 (a) No individual or group health insurance contract, plan, or policy delivered, issued for
+5 delivery, or renewed in this state on or after January 1, 2009, shall provide for a copayment for
+6 ground ambulance services in excess of fifty dollars ($50.00).
+7 (b) As used in this section, the term “ground ambulance services” shall mean those services
+8 provided by an ambulance service licensed to operate in Rhode Island in accordance with § 23-4.1-
+9 6. The term excludes air and water ambulance services and ambulance services provided outside
+10 of Rhode Island.
+11 (c) This section Subsections (a) and (d) of this section shall not apply to insurance coverage
+12 providing benefits for: (1) Hospital confinement indemnity; (2) Disability income; (3) Accident
+13 only; (4) Long-term care; (5) Medicare supplement; (6) Limited benefit health; (7) Specified
+14 disease indemnity; (8) Sickness or bodily injury or death by accident, or both; and (9) Other limited
+15 benefit policies.
+16 (d) Individual and group health insurance contracts, plans, and policies issued for delivery,
+17 or renewed in this state on or after January 1, 2027, shall provide coverage and reimbursement for
+18 ground ambulance services, as defined in § 27-20-1, equal to coverage and reimbursement rates
+19 provided by Medicare for the same medical services, and shall reimburse the emergency medical
+20 services provider staffed by emergency medical services practitioners, as defined in § 27-20-1, at
+21 the level of care provided, regardless of whether the patient is transported, such coverage and
+22 reimbursement shall be inclusive of the community-based healthcare services, to include mobile
+23 integrated health community paramedicine programs approved by the department of health;
+24 provided that, mobile integrated health community paramedicine programs services shall be
+25 performed by emergency medical services staffed by emergency medical practitioners. If the
+26 ground ambulance service provider participates in the carrier's network, the carrier shall cover and
+27 reimburse the ambulance service provider at the ambulance service provider's rate for the level of
+28 care provided, regardless of whether the patient is transported.
+29 This coverage and reimbursement shall also extend to ambulance services which are in-
+30 network (“INN”) ground ambulance services, out-of-network (“OON”) ground ambulance
+31 services, INN and OON community-based healthcare services, and INN and OON mobile
+32 integrated health community paramedicine programs approved by the department of health.
+33 SECTION 5. Sections 27-41-2 and 27-41-73 of the General Laws in Chapter 27-41 entitled
+34 "Health Maintenance Organizations" are hereby amended to read as follows:
+LC004980 - Page 15 of 22
+
+1 27-41-2. Definitions.
+2 As used in this chapter:
+3 (1) “Adverse benefit determination” means any of the following: a denial, reduction, or
+4 termination of, or a failure to provide or make payment (in whole or in part) for, a benefit, including
+5 any such denial, reduction, termination, or failure to provide or make payment that is based on a
+6 determination of an individual’s eligibility to participate in a plan or to receive coverage under a
+7 plan, and including, with respect to group health plans, a denial, reduction, or termination of, or a
+8 failure to provide or make payment (in whole or in part) for, a benefit resulting from the application
+9 of any utilization review, as well as a failure to cover an item or service for which benefits are
+10 otherwise provided because it is determined to be experimental or investigational or not medically
+11 necessary or appropriate. The term also includes a rescission of coverage determination.
+12 (2) “Affordable Care Act” means the federal Patient Protection and Affordable Care Act,
+13 Pub. L. No. 111-148, 124 Stat. 119, as amended by the Health Care and Education Reconciliation
+14 Act of 2010, Pub. L. No. 111-152, 124 Stat. 1029, and federal regulations adopted thereunder.
+15 (3) "Ambulance" means any publicly or privately owned vehicle, designed, constructed,
+16 equipped, and operated for emergency medical treatment and/or transportation of persons who are
+17 sick or injured.
+18 (3)(4) “Commissioner” or “health insurance commissioner” means that individual
+19 appointed pursuant to § 42-14.5-1.
+20 (4)(5) “Covered health services” means the services that a health maintenance organization
+21 contracts with enrollees and enrolled groups to provide or make available to an enrolled participant.
+22 (5)(6) “Director” means the director of the department of business regulation or his or her
+23 duly appointed agents.
+24 (7) "Emergency medical services" or "EMS agencies" means the practitioners, ambulance
+25 vehicles, and ambulance service entities licensed in accordance with chapter 4.1 of title 23 to
+26 provide emergency medical care, transportation, and prevention care to mitigate loss of life or
+27 exacerbation of illness or injury including, but not limited to, EMS responding to the 911 system
+28 established pursuant to the provisions of § 39-21.1-2.
+29 (8) "Emergency medical services practitioner" means an individual who is licensed in
+30 accordance with state laws and regulations to perform emergency medical care and preventive care
+31 to mitigate loss of life or exacerbation of illness or injury, including emergency medical
+32 technicians, advanced emergency medical technicians, advanced emergency medical technicians
+33 cardiac, and paramedics.
+34 (6)(9) “Employee” means any person who has entered into the employment of or works
+LC004980 - Page 16 of 22
+
+1 under a contract of service or apprenticeship with any employer. It shall not include a person who
+2 has been employed for less than thirty (30) days by his or her employer, nor shall it include a person
+3 who works less than an average of thirty (30) hours per week. For the purposes of this chapter, the
+4 term “employee” means a person employed by an “employer” as defined in subsection (7) of this
+5 section. Except as otherwise provided in this chapter, the terms “employee” and “employer” are to
+6 be defined according to the rules and regulations of the department of labor and training.
+7 (7)(10) “Employer” means any person, partnership, association, trust, estate, or
+8 corporation, whether foreign or domestic, or the legal representative, trustee in bankruptcy,
+9 receiver, or trustee of a receiver, or the legal representative of a deceased person, including the state
+10 of Rhode Island and each city and town in the state, that has in its employ one or more individuals
+11 during any calendar year. For the purposes of this section, the term “employer” refers only to an
+12 employer with persons employed within the state of Rhode Island.
+13 (8)(11) “Enrollee” means an individual who has been enrolled in a health maintenance
+14 organization.
+15 (9)(12) “Essential health benefits” shall have the meaning set forth in section 1302(b) of
+16 the Patient Protection and Affordable Care Act [42 U.S.C. § 18022(b)].
+17 (10)(13) “Evidence of coverage” means any certificate, agreement, or contract issued to an
+18 enrollee setting out the coverage to which the enrollee is entitled.
+19 (11)(14) “Grandfathered health plan” means any group health plan or health insurance
+20 coverage subject to 42 U.S.C. § 18011.
+21 (15) "Ground ambulances services" means those services provided by an ambulance
+22 service licensed to operate in Rhode Island in accordance with § 23-4.1-6. The term excludes air
+23 and water ambulance services and ambulance services provided outside of Rhode Island.
+24 (12)(16) “Group health insurance coverage” means, in connection with a group health plan,
+25 health insurance coverage offered in connection with that plan.
+26 (13)(17) “Group health plan” means an employee welfare benefit plan as defined in 29
+27 U.S.C. § 1002(1), to the extent that the plan provides health benefits to employees or their
+28 dependents directly or through insurance, reimbursement, or otherwise.
+29 (14)(18) “Health benefits” or “covered benefits” means coverage or benefits for the
+30 diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of
+31 affecting any structure or function of the body including coverage or benefits for transportation
+32 primarily for and essential thereto, and including medical services as defined in § 27-19-17.
+33 (15)(19) “Healthcare facility” means an institution providing healthcare services or a
+34 healthcare setting, including, but not limited, to hospitals and other licensed inpatient centers,
+LC004980 - Page 17 of 22
+
+1 ambulatory surgical or treatment centers, skilled nursing centers, residential treatment centers,
+2 diagnostic, laboratory and imaging centers, and rehabilitation and other therapeutic health settings.
+3 (16)(20) “Healthcare professional” means a physician or other healthcare practitioner
+4 licensed, accredited, or certified to perform specified healthcare services consistent with state law.
+5 (17)(21) “Healthcare provider” or “provider” means a healthcare professional or a
+6 healthcare facility.
+7 (18)(22) “Healthcare services” means any services included in the furnishing to any
+8 individual of medical, podiatric, or dental care, or hospitalization, or incident to the furnishing of
+9 that care or hospitalization, and the furnishing to any person of any and all other services for the
+10 purpose of preventing, alleviating, curing, or healing human illness, injury, or physical disability.
+11 (19)(23) “Health insurance carrier” means a person, firm, corporation, or other entity
+12 subject to the jurisdiction of the commissioner under this chapter, and includes a health
+13 maintenance organization. Such term does not include a group health plan.
+14 (20)(24) “Health maintenance organization” means a single public or private organization
+15 that:
+16 (i) Provides or makes available to enrolled participants healthcare services, including at
+17 least the following basic healthcare services: usual physician services, hospitalization, laboratory,
+18 x-ray, emergency, and preventive services, and out-of-area coverage, and the services of licensed
+19 midwives;
+20 (ii) Is compensated, except for copayments, for the provision of the basic healthcare
+21 services listed in subsection (20)(i) of this section to enrolled participants on a predetermined
+22 periodic rate basis;
+23 (iii)(A) Provides physicians’ services primarily:
+24 (I) Directly through physicians who are either employees or partners of the organization;
+25 or
+26 (II) Through arrangements with individual physicians or one or more groups of physicians
+27 organized on a group practice or individual practice basis;
+28 (B) “Health maintenance organization” does not include prepaid plans offered by entities
+29 regulated under chapter 1, 2, 19, or 20 of this title that do not meet the criteria above and do not
+30 purport to be health maintenance organizations; and
+31 (iv) Provides the services of licensed midwives primarily:
+32 (A) Directly through licensed midwives who are either employees or partners of the
+33 organization; or
+34 (B) Through arrangements with individual licensed midwives or one or more groups of
+LC004980 - Page 18 of 22
+
+1 licensed midwives organized on a group practice or individual practice basis.
+2 (21)(25) “Licensed midwife” means any midwife licensed pursuant to § 23-13-9.
+3 (22)(26) “Material modification” means only systemic changes to the information filed
+4 under § 27-41-3.
+5 (27) "Mobile integrated healthcare community paramedicine program" means the
+6 provision of healthcare using patient-centered, mobile resources in the out-of-hospital environment
+7 pursuant to an EMS agency's plan approved by the department of health utilizing licensed
+8 emergency medical service practitioners working in collaboration with physicians, nurses, mid-
+9 level practitioners, community health teams and social, behavioral and substance use disorder
+10 specialists to address the unmet needs of individuals experiencing intermittent health care issues;
+11 provided that, only those emergency medical services (EMS) agencies who submit plans that meet
+12 the minimum requirements for participation set and approved by the department of health shall be
+13 eligible to participate in a mobile integrated healthcare/community paramedicine program.
+14 (23)(28) “Net worth,” for the purposes of this chapter, means the excess of total admitted
+15 assets over total liabilities.
+16 (24)(29) “Office of the health insurance commissioner” means the agency established
+17 under § 42-14.5-1.
+18 (25)(30) “Physician” includes a podiatrist as defined in chapter 29 of title 5.
+19 (26)(31) “Private organization” means a legal corporation with a policy-making and
+20 governing body.
+21 (27)(32) “Provider” means any physician, hospital, licensed midwife, or other person who
+22 or that is licensed or authorized in this state to furnish healthcare services.
+23 (28)(33) “Public organization” means an instrumentality of government.
+24 (29)(34) “Rescission” means a cancellation or discontinuance of coverage that has
+25 retroactive effect for reasons unrelated to timely payment of required premiums or contribution to
+26 costs of coverage.
+27 (30)(35) “Risk-based capital (‘RBC’) instructions” means the risk-based capital report
+28 including risk-based capital instructions adopted by the National Association of Insurance
+29 Commissioners (“NAIC”), as these risk-based capital instructions are amended by the NAIC in
+30 accordance with the procedures adopted by the NAIC.
+31 (31)(36) “Total adjusted capital” means the sum of:
+32 (i) A health maintenance organization’s statutory capital and surplus (i.e., net worth) as
+33 determined in accordance with the statutory accounting applicable to the annual financial
+34 statements required to be filed under § 27-41-9; and
+LC004980 - Page 19 of 22
+
+1 (ii) Any other items, if any, that the RBC instructions provide.
+2 (32) “Uncovered expenditures” means the costs of healthcare services that are covered by
+3 a health maintenance organization, but that are not guaranteed, insured, or assumed by a person or
+4 organization other than the health maintenance organization. Expenditures to a provider who or
+5 that agrees not to bill enrollees under any circumstances are excluded from this definition.
+6 27-41-73. Licensed ambulance service.
+7 (a) No individual or group health insurance contract, plan, or policy delivered, issued for
+8 delivery, or renewed in this state on or after January 1, 2009, shall provide for a copayment for
+9 ground ambulance services in excess of fifty dollars ($50.00).
+10 (b) As used in this section, the term “ground ambulance services” shall mean those services
+11 provided by an ambulance service licensed to operate in Rhode Island in accordance with § 23-4.1-
+12 6. The term excludes air and water ambulance services and ambulance services provided outside
+13 of Rhode Island.
+14 (c) This section Subsections (a) and (d) of this section shall not apply to insurance coverage
+15 providing benefits for: (1) Hospital confinement indemnity; (2) Disability income; (3) Accident
+16 only; (4) Long-term care; (5) Medicare supplement; (6) Limited benefit health; (7) Specified
+17 disease indemnity; (8) Sickness or bodily injury or death by accident or both; and (9) Other limited
+18 benefit policies.
+19 (d) Individual and group health insurance contracts, plans, and policies issued for delivery,
+20 or renewed in this state on or after January 1, 2027, shall provide coverage and reimbursement for
+21 ground ambulance services, as defined in § 27-41-2, equal to coverage and reimbursement rates
+22 provided by Medicare for the same medical services, and shall reimburse the emergency medical
+23 services provider staffed by emergency medical services practitioners, as defined in § 27-41-2, at
+24 the level of care provided, regardless of whether the patient is transported, such coverage and
+25 reimbursement shall be inclusive of the community-based healthcare services, to include mobile
+26 integrated health community paramedicine programs approved by the department of health;
+27 provided that, mobile integrated health community paramedicine programs services shall be
+28 performed by emergency medical services staffed by emergency medical practitioners. If the
+29 ground ambulance service provider participates in the carrier's network, the carrier shall cover and
+30 reimburse the ambulance service provider at the ambulance service provider's rate for the level of
+31 care provided, regardless of whether the patient is transported.
+32 This coverage and reimbursement shall also extend to ambulance services which are in-
+33 network (“INN”) ground ambulance services, out-of-network (“OON”) ground ambulance
+34 services, INN and OON community-based healthcare services, and INN and OON mobile
+LC004980 - Page 20 of 22
+
+1 integrated health community paramedicine programs approved by the department of health.
+2 SECTION 6. This act shall take effect upon passage.
+========
+LC004980
+========
+LC004980 - Page 21 of 22
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- EMERGENCY MEDICAL TRANSPORTATION
+SERVICES
+***
+1 This act would provide coverage and increase individual and group insurance rates of
+2 reimbursement for ambulance services, and would require health insurers to provide coverage for
+3 emergency medical service providers administering mobile integrated healthcare community
+4 paramedicine. This act would also direct the department of health, in collaboration of the
+5 ambulance service coordinating advisory board, to administer a mobile integrated healthcare
+6 community paramedicine program.
+7 This act would take effect upon passage.
+========
+LC004980
+========
+LC004980 - Page 22 of 22

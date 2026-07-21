@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - 8116
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8116
+========
+LC005688
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE BODY CAMERAS FOR
+CORRECTIONAL FACILITIES ACT
+Introduced By: Representatives Morales, Sanchez, Giraldo, Cruz, Stewart, Potter, Tanzi,
+and Cotter
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 56.4
+4 THE BODY CAMERAS FOR CORRECTIONAL FACILITIES ACT
+5 42-56.4-1. Short title.
+6 This act shall be known and may be cited as "The Body Cameras for Correctional Facilities
+7 Act".
+8 42-56.4-2. Definitions.
+9 The following words shall have the following meanings in this chapter:
+10 (1) "Body camera" means a portable video recording device worn by correctional staff to
+11 capture incidents occurring in real time within correctional facilities.
+12 (2) "Incarcerated individuals" means any person held in custody within a facility operated
+13 by the department of corrections.
+14 (3) "Staff" means employees or contractors of the department of corrections, including
+15 correctional officers, supervisors, and administrators.
+16 42-56.4-3. Body camera requirements.
+17 (a) All correctional staff assigned to direct supervision roles over incarcerated individuals
+18 shall wear body cameras while on duty within the facilities.
+
+1 (b) Staff shall activate body cameras during interactions with incarcerated individuals
+2 including, but not limited to:
+3 (1) Use of force incidents;
+4 (2) Transporting individuals;
+5 (3) Medical emergencies; and
+6 (4) Disciplinary proceedings.
+7 (c) Cameras shall record continuously during the aforementioned interactions and shall
+8 only be deactivated once the situation is resolved and no further actions are anticipated.
+9 42-56.4-4. Data access and retention.
+10 (a) Recordings shall be retained for a minimum of sixty (60) days, after which the recording
+11 shall be securely deleted unless required for an ongoing investigation or legal proceeding.
+12 (b) Access to recordings is strictly limited to authorized personnel including investigators,
+13 supervisors, and legal counsel as necessary.
+14 (c) Incarcerated individuals shall be informed through posted notices regarding the use of
+15 body cameras within the facility. When practical, individuals shall be notified if recording is
+16 occurring at the time of the incident. Individuals shall have the right to request review of footage
+17 that directly involves the individual under appropriate circumstances.
+18 (d) Access by staff involved in recorded incidents. Any staff member involved in a
+19 recorded use-of-force incident, complaint, or other critical incident shall submit an initial written
+20 report prior to reviewing any body camera recording of the incident. Following submission of the
+21 initial report, the staff member may review the recording and, if necessary, submit a supplemental
+22 report, which shall be clearly designated as such and include the date and time of submission.
+23 42-56.4-5. Accountability and oversight.
+24 (a) The department of corrections shall establish an independent board pursuant to the
+25 provisions of subsection (b) of this section to oversee the review of recorded incidents involving
+26 use of force, complaints against staff, or other critical incidents involving incarcerated individuals.
+27 (b) An independent incident oversight board (“IIOB”) shall be established, consisting of
+28 members appointed by key stakeholders, including representatives from civil rights organizations,
+29 legal experts, mental health professionals, formerly incarcerated individuals, and community
+30 leaders.
+31 (c) The IIOB shall:
+32 (1) Oversee the review of recorded incidents involving use of force, complaints against
+33 staff, or other critical incidents involving incarcerated individuals and investigate the complaints
+34 and incidents and conduct periodic assessments and audits of facility operations, policies, and
+LC005688 - Page 2 of 5
+
+1 practices.
+2 (2) Provide recommendations for improvements and reforms to the department of
+3 corrections based on findings.
+4 (d) Rules and regulations. The attorney general and director of the department of
+5 corrections shall promulgate rules and regulations pursuant to chapter 35 of title 42 (administrative
+6 procedures”) to implement and enforce the provisions of this chapter. Such rules and regulations
+7 shall include, but not be limited to:
+8 (1) Standards governing the activation, deactivation, storage, retention, auditing, and
+9 preservation of body camera recordings;
+10 (2) Procedures governing access to recordings by staff, incarcerated individuals,
+11 investigators, legal counsel, and oversight entities;
+12 (3) The authority, procedures, and responsibilities of the independent incident oversight
+13 board; and
+14 (4) Enforcement mechanisms and corrective actions for noncompliance.
+15 (5) The attorney general and director shall provide meaningful opportunity for public
+16 comment, including at least one public hearing, prior to the adoption of any final rule or regulation.
+17 42-56.4-6. Reporting requirement, training and non-compliance.
+18 (a) The department of corrections shall provide biannual reports to the general assembly
+19 detailing the number of incidents recorded, access requests made by incarcerated individuals, and
+20 incidents reviewed by the incident review board.
+21 (b) Comprehensive training shall be provided to all staff on the proper use of body cameras,
+22 data privacy, and the importance of maintaining the dignity and rights of incarcerated individuals.
+23 (c) Any staff who fail to comply with body camera policies established in this chapter shall
+24 face disciplinary actions up to and including termination of employment, as well as potential civil
+25 liabilities.
+26 (d) The department of corrections shall conduct regular audits to ensure compliance with
+27 this chapter and assess the effectiveness of body camera utilization.
+28 42-56.4-7. Implementation.
+29 (a) Legislative intent and passage. It is the intent of the general assembly to enhance safety,
+30 accountability, and transparency within Rhode Island's correctional system and for the protection
+31 of correctional officers, inmates, and staff that incidents subject to recording be captured in their
+32 entirety.
+33 (b) General implementation timeline. The department shall implement and establish the
+34 necessary protocol and training programs for the statewide use of body cameras within six (6)
+LC005688 - Page 3 of 5
+
+1 months of the effective date of this chapter and written policies.
+2 (c) Pilot program required. To ensure effective and accountable implementation, the
+3 department shall initiate a structured pilot program within the timeframe set forth in subsection (b)
+4 of this section. The pilot program shall deploy body-worn cameras in two (2) to three (3) high-
+5 interaction operational settings, such as a housing unit and transportation detail.
+6 (d) Pilot program duration. The pilot program shall be conducted for a period of not less
+7 than six (6) months and not more than twelve (12) months.
+8 (e) Funding responsibility. The director of the department of corrections, in coordination
+9 with the attorney general's office, shall be responsible for identifying, writing, and obtaining all
+10 necessary grants or other external funding from federal, state, or private sources to fully fund the
+11 pilot program described in this section. A report on funding efforts shall be included in the
+12 department's biannual report to the general assembly as required under § 42-56.4-6.
+13 (f) Pilot oversight and evaluation. The pilot program shall be governed by the rules
+14 promulgated under chapter 56 or title 42 (“corrections department”) and shall be subject to
+15 oversight by the independent incident oversight board (“IIOB”). The department shall evaluate key
+16 metrics including activation compliance, use-of-force incident resolution, complaint adjudication,
+17 and safety indicators. The department shall provide a mid-pilot report and a final evaluation report
+18 to the general assembly.
+19 (g) Report and expansion plan. The final report required under subsection (f) of this section
+20 shall include a comprehensive cost-benefit analysis, recommended policy adjustments based on
+21 pilot findings, and a clear, evidence-based plan for statewide expansion, modification, or
+22 discontinuation of the body camera program.
+23 SECTION 2. This act shall take effect upon passage.
+========
+LC005688
+========
+LC005688 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE BODY CAMERAS FOR
+CORRECTIONAL FACILITIES ACT
+***
+1 This act would require correctional staff assigned to direct supervision roles over
+2 incarcerated individuals to wear and activate body cameras during specified interactions with
+3 incarcerated individuals and establish standards for recording, retention, access, and reporting. It
+4 would create an independent incident oversight board to review recorded incidents, investigate
+5 complaints, and recommend reforms. The act would also mandate training, biannual reporting,
+6 disciplinary consequences for noncompliance, and a pilot program funded through grants or other
+7 external sources, with evaluation and a plan for potential statewide implementation.
+8 This act would take effect upon passage.
+========
+LC005688
+========
+LC005688 - Page 5 of 5

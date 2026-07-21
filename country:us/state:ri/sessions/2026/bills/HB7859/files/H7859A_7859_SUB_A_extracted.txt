@@ -1,0 +1,578 @@
+Title: 
+Official Title: 
+Source: versions - 7859  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7859 SUBSTITUTE A
+========
+LC005413/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- DOMESTIC INSURANCE COMPANIES
+Introduced By: Representatives Kennedy, Edwards, O'Brien, Serpa, Azzinaro, Phillips,
+Diaz, and Shallcross Smith
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+(Dept. of Business Regulation)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 27-1-13, 27-1-14, 27-1-15, 27-1-16, 27-1-16.1, 27-1-16.2, 27-1-17,
+2 27-1-18, 27-1-19, 27-1-20 and 27-1-21 of the General Laws in Chapter 27-1 entitled "Domestic
+3 Insurance Companies" are hereby repealed.
+4 27-1-13. Citation for forfeiture of charter for unsafe practices.
+5 The superior court, upon complaint in writing from the insurance commissioner under oath
+6 setting forth that, in the commissioner’s opinion, any insurance company has forfeited its charter
+7 at law, or is managing its concerns in a manner that the public or those having funds in its custody
+8 are in danger of being defrauded, or the continued operation of its business would be hazardous to
+9 the public or its policyholders, or has become insolvent, shall issue a citation to the company,
+10 directed to and to be served on the president, secretary, or treasurer of the company by leaving an
+11 attested copy at the office or usual place of business of the company, commanding the president,
+12 secretary, or treasurer personally to appear before the court on a day and in a place to be mentioned
+13 in the citation, then and there under oath to show cause, if they have any, why the company should
+14 not be enjoined from further exercising the powers and franchises conferred by its charter and why
+15 the charter should not be forfeited.
+16 27-1-14. Decree of forfeiture — Receiver.
+17 If, upon the examination of the president, secretary, or treasurer and of any other witnesses
+18 and evidence as may be introduced by the insurance commissioner and defendants, the court is of
+19 the opinion that the charter of the company is forfeited at law, or that the company is managed in a
+
+1 manner that the public or those having funds in its custody or who hold policies of insurance issued
+2 by it are in danger of being defrauded, or the continued operation of its business would be hazardous
+3 to the public or its policyholders, or that the company has become insolvent, the court shall issue
+4 an injunction to the president, secretary, or treasurer and other officers of the corporation, enjoining
+5 them from proceeding further in transacting the business of the company, and shall appoint a
+6 discreet and proper person to be receiver of all the evidences of debt, goods, effects, and property
+7 of every description belonging to the corporation. The court may require the receiver to give bond
+8 with surety to the satisfaction of the court for the faithful execution of the receiver’s trusts. The
+9 person once appointed as the receiver may, subject to the discretion of the court, continue to be
+10 receiver for the duration of the receivership proceedings.
+11 27-1-15. Collection and distribution of assets by receiver — Reinsurance.
+12 The receiver may take evidence and property into the receiver’s possession and shall collect
+13 the debts, dispose of the property, and pay out of the proceeds of the disposition, if the proceeds
+14 are sufficient, all of the debts of the corporation, first reserving to the receiver a reasonable
+15 compensation that shall be allowed by the court for the receiver’s services; provided, the receiver
+16 may reinsure, upon the written consent of the insurance commissioner and the attorney general, all
+17 the policy obligations of the corporation in any solvent corporation authorized to do business in
+18 this state, if the assets of the corporation of which he or she is a receiver are sufficient to effect the
+19 reinsurance. If the assets are insufficient for that purpose, the receiver, upon the written consent of
+20 the insurance commissioner and the attorney general, may reinsure a percentage of each policy
+21 obligation of the corporation outstanding to the extent that its assets may be sufficient for that
+22 purpose. No contract of reinsurance shall be entered into by the receiver except in pursuance of an
+23 order of the court in which the receiver was appointed directing the reinsurance and establishing
+24 the general form of the contract for the reinsurance.
+25 27-1-16. Powers of receiver — Removal and control by court.
+26 The receiver shall be clothed with all of the powers and rights, in respect of the collection
+27 of debts due to the corporation, which the corporation possessed by virtue of its charter or otherwise
+28 before the injunction issued, and may be removed and another may be appointed by the court in his
+29 or her stead. The court shall have the same power and authority over the receiver, the receiver’s
+30 acts, proceedings, and accounts, as is exercised by courts of equity in similar cases.
+31 27-1-16.1. Sale by receiver of charter and licenses.
+32 (a) Notwithstanding any decree of forfeiture or finding of insolvency and order of
+33 liquidation, the receiver may, subject to court approval, sell or dispose of the charter and/or licenses
+34 of the insolvent insurer separate and apart from its outstanding liabilities or remaining assets.
+LC005413/SUB A - Page 2 of 17
+
+1 (b) The sale may be made after proper advertisement in a national publication on terms and
+2 conditions the court deems appropriate. The order approving the sale shall provide that the proceeds
+3 of the sale shall become part of the assets of the liquidation estate, to be distributed in the manner
+4 set forth in the pertinent provisions of law governing distribution of the estate and the order shall
+5 provide that the charter and licenses shall after this be free and clear from the claims or interests of
+6 all claimants, creditors, policyholders, and stockholders of the corporation under liquidation.
+7 (c) Nothing in this section of law shall be deemed a waiver of capitalization or surplus
+8 requirements, or any other condition of licensure imposed by this title that is necessary to obtain
+9 approval to do insurance business in this state, or that is necessary to obtain approval for the change
+10 in control of a foreign or domestic insurer.
+11 (d) This section applies retrospectively and shall be liberally construed to accomplish its
+12 purpose to provide a more expeditious and effective procedure for marshalling the assets of the
+13 estate in order to realize the maximum amount possible from the sale of those assets and ensure
+14 that the purchasers receive clear and marketable titles. It shall not be construed as a limitation upon
+15 the receiver, nor shall it exclude in any manner the receiver’s right to do other acts not specifically
+16 enumerated.
+17 27-1-16.2. Court-approved settlements.
+18 Notwithstanding any provisions of law to the contrary, a person, corporation, or other entity
+19 who has resolved its liability to the receiver in a judicially-approved good faith settlement shall not
+20 be liable for claims for contribution or equitable indemnity regarding matters addressed in the
+21 settlement. The settlement does not discharge any other joint tortfeasors unless its terms provide
+22 for this discharge, but it reduces the potential liability of joint tortfeasors by the amount of the
+23 settlement.
+24 27-1-17. Stay of executions and process against company.
+25 As long as the injunction is in force against any corporation, all executions and other final
+26 process against the corporation for the collection of debts shall be stayed.
+27 27-1-18. Limited injunction without receivership.
+28 The court may also issue a limited or temporary injunction, staying proceedings in any
+29 particulars and for any length of time as in the opinion of the court may be necessary for the safety
+30 of the public and the proper management of the affairs of the corporation, without proceeding to
+31 the appointment of a receiver.
+32 27-1-19. Declaration of forfeiture.
+33 The court shall, upon hearing of the parties to the complaint, if it sees cause, declare the
+34 charter of the corporation forfeited.
+LC005413/SUB A - Page 3 of 17
+
+1 27-1-20. Temporary injunction.
+2 The citation may also contain a temporary injunction against the corporation and all of its
+3 officers, restraining them from proceeding in any business of the corporation, except under the
+4 direction of the court, which injunction unless removed shall continue until the complaint is finally
+5 disposed of.
+6 27-1-21. Failure to deliver property or records to receiver.
+7 If the president, secretary, treasurer, agent, or servant of any insurance company that is
+8 enjoined as provided in this chapter, or any other person upon being required, neglects or refuses
+9 to deliver to the receiver or receivers of the corporation, who may be appointed by virtue of this
+10 chapter, evidences of debt, goods, effects, books, papers, and other evidences of property of every
+11 description belonging to the corporation as may be in his or her possession or under his or her
+12 control, he or she shall be fined not exceeding ten thousand dollars ($10,000) or be imprisoned not
+13 exceeding three (3) years, or be both fined and imprisoned at the discretion of the court.
+14 SECTION 2. Sections 27-2-3, 27-2-4 and 27-2-21 of the General Laws in Chapter 27-2
+15 entitled "Foreign Insurance Companies" are hereby repealed.
+16 27-2-3. Reciprocal privileges of nonresident insurance producers.
+17 (a) Any commission received by a Rhode Island licensed resident insurance producer may
+18 be shared with another licensed resident insurance producer, or with a licensed nonresident
+19 insurance producer; provided, that if the nonresident insurance producer resides in, or is a licensed
+20 insurance producer in, a state that requires the retention of a stipulated percentage of the
+21 commission on risks placed in the state by nonresident insurance producers, then and in that event
+22 the Rhode Island resident insurance producer shall require the same percentage of the commission
+23 as would be required if a Rhode Island insurance producer should place similar insurance in the
+24 state of the residence of the nonresident insurance producer; provided, that if the nonresident
+25 insurance producer resides in a state, county, or municipality that by statute or ordinance prohibits
+26 the division of commissions on insurance covering property or risks in the city, county, or state of
+27 the nonresident insurance producer, then and in that event, it shall be unlawful for the Rhode Island
+28 resident insurance producer to pay the nonresident insurance producer any share or portion of the
+29 commission on insurance on property or risks in the state of Rhode Island.
+30 (b) This section shall not apply to bid bonds issued by any admitted surety insurer in
+31 connection with any public or private contract.
+32 (c) An insurance producer that has been a licensed nonresident insurance producer prior to
+33 June 30, 1989, for twelve (12) years or more but whose company is no longer licensed to do
+34 business in a reciprocal state after June 30, 1989, may be licensed in Rhode Island as a special
+LC005413/SUB A - Page 4 of 17
+
+1 nonresident insurance producer.
+2 27-2-4. Penalty for unlawful business.
+3 Any company, officer, or insurance producer violating any of the provisions of § 27-2-3
+4 shall be punished by a fine of not less than one hundred dollars ($100) nor more than five hundred
+5 dollars ($500) for each offense.
+6 27-2-21. Report and prosecution of violations.
+7 The insurance commissioner shall report to the attorney general any violation of the
+8 provisions of this chapter that shall come to the commissioner’s knowledge. The attorney general
+9 shall institute the proper legal proceedings, in the name of the state, against any person violating
+10 any provision.
+11 SECTION 3. Sections 27-2-17, 27-2-20 and 27-2-24 of the General Laws in Chapter 27-2
+12 entitled "Foreign Insurance Companies" are hereby amended to read as follows:
+13 27-2-17. Reciprocal fees and charges.
+14 (a) Whenever, by the laws of any other state of the United States, any fees, charges, taxes,
+15 deposits of money or of securities, or other obligations or prohibitions are imposed on insurance
+16 companies incorporated or organized under the laws of this state or on the insurance producers of
+17 the insurance companies, so long as the laws continue in force, the fees, charges, taxes, deposits,
+18 and obligations shall be imposed on the insurance companies doing business in this state that are
+19 incorporated or organized under the laws of the other state and on their insurance producers.
+20 (b) Whenever, by the laws of any other state of the United States, insurance companies
+21 incorporated or organized under the laws of this state are required to provide a countersignature as
+22 a precondition to the issuance, delivery, or making of any contract of insurance in the other state,
+23 and whenever the insurance producer of the company is required to pay any fee or commission for
+24 placing any insurance coverage in the other state, then the same requirements for countersignatures
+25 and fee or commission shall be imposed upon the insurance companies doing business in this state
+26 that are incorporated and organized under the laws of the other states and/or their insurance
+27 producers.
+28 (c) Whenever insurance companies that are authorized to do business in this state issue,
+29 deliver, or make any contract of insurance on a person or property in this state, the companies shall
+30 place the business through a licensed resident insurance producer or licensed nonresident insurance
+31 producer as permitted under § 27-2-3 chapter 2.4 of title 27 or any other provision of Rhode Island
+32 law; provided, if the insurance to be issued in this state is part of an insurance contract written on
+33 a risk whose principal place of business is located in another state, and the insurance contract is
+34 placed through an insurance producer of the domiciliary state of the primary insured, it shall be
+LC005413/SUB A - Page 5 of 17
+
+1 permitted only if that state allows the placement of the business by a licensed nonresident insurance
+2 producer of Rhode Island in similar circumstances.
+3 (d) The provisions of this section shall not apply to insurance companies incorporated or
+4 organized under the laws of a state or country whose laws do not impose retaliatory taxes or other
+5 charges or that grant, on a reciprocal basis, exemptions from those taxes or other charges to
+6 insurance companies incorporated or organized under the laws of this state.
+7 27-2-20. Validity of contracts of noncomplying companies — Penalty on insurance
+8 producers — Actions by company.
+9 If any insurance company, cooperative or otherwise, makes insurance without complying
+10 with the provisions of this chapter, the contract shall be valid, but every person acting within this
+11 state as an insurance producer of the company within the meaning of chapter 2.4 of this title,
+12 respecting the effecting of any insurance, shall be fined not less than three hundred dollars ($300)
+13 nor more than one thousand dollars ($1,000) subject to the commissioner who may impose any
+14 penalty as appropriate pursuant to § 42-14-16. No action at law or suit in equity shall be maintained
+15 or recovery had by any insurance company, cooperative or otherwise, or by any assignee of the
+16 company or by any person claiming under the assignee or the company, except a domestic receiver
+17 of the company, on any contract in any of the courts of this state, so long as the company fails to
+18 comply with the provisions of this chapter.
+19 27-2-24. Revocation or suspension of license of foreign company.
+20 Whenever it appears to the insurance commissioner from the statements, or from an
+21 examination of the affairs, of any life, fire, marine, fire and marine, casualty, or other insurance
+22 company not incorporated under the authority of this state, that the company is insolvent, or is in
+23 an unsound financial condition, or that its business policies are unsound or improper, or that its
+24 condition or management is such as to render its further transaction of business hazardous to the
+25 public or its policyholders, or that the amount of its funds, net cash, or contingent assets is deficient,
+26 or that its capital is impaired, or that it is conducting its business fraudulently or refuses or neglects
+27 to comply with the laws of the state relating to insurance companies, it shall be the duty of the
+28 insurance commissioner, after notice and hearing, to revoke the license issued to the company and
+29 the licenses issued to all of its insurance producers, or the commissioner may revoke those licenses
+30 or suspend them for a period not exceeding their unexpired terms the insurance commissioner may
+31 take action pursuant to § 42-14-16.
+32 SECTION 4. Section 27-2.7-5 of the General Laws in Chapter 27-2.7 entitled "Portable
+33 Electronics Insurance" is hereby amended to read as follows:
+34 27-2.7-5. Suspension or revocation of license.
+LC005413/SUB A - Page 6 of 17
+
+1 If a portable electronics insurance vendor or its employee or authorized representative
+2 violates any provision of this section, the insurance commissioner may do any of the following:
+3 (1) After notice and hearing, impose fines not to exceed five hundred dollars ($500) per
+4 violation or five thousand dollars ($5,000) in the aggregate for such conduct.
+5 (2) After notice and hearing, impose other penalties that the commissioner deems necessary
+6 and reasonable to carry out the purposes of this chapter including:
+7 (i) Suspending the privilege of transacting portable electronics insurance pursuant to this
+8 section at specific business locations where violations have occurred; and
+9 (ii) Suspending or revoking the ability of individual employees or authorized
+10 representatives to act under the license; and
+11 (3) Any take action pursuant to any other penalties appropriate under § 42-14-16.
+12 SECTION 5. Section 27-8.1-5 of the General Laws in Chapter 27-8.1 entitled "Information
+13 Reporting and Immunity Relating to Fire Losses" is hereby amended to read as follows:
+14 27-8.1-5. Enforcement — Penalty.
+15 (a) No insurer, lending institution, party in interest, or authorized agency, or any person
+16 acting in behalf of, or in conjunction with, any of these, shall:
+17 (1) Intentionally or knowingly refuse to release any information requested and/or ordered
+18 pursuant to § 27-8.1-3(a), (b), (e), or (f);
+19 (2) Intentionally or knowingly refuse to provide authorized relevant information pursuant
+20 to § 27-8.1-3(d)(1); and
+21 (3) Fail to hold in strict confidence, possession, and custody, information required to be so
+22 held under § 27-8.1-4(a).
+23 (b) Whoever shall violate subsection (a) of this section shall be guilty of a misdemeanor
+24 and, upon conviction, shall be punished by a fine Violations of subsection (a) of this section shall
+25 be subject to penalties not to exceed one hundred dollars ($100).
+26 SECTION 6. Section 27-17-16 of the General Laws in Chapter 27-17 entitled "Reciprocal
+27 Exchanges and Interinsurers" is hereby amended to read as follows:
+28 27-17-16. Penalty for doing business without compliance.
+29 Any attorney who exchanges any contracts of insurance of the kind and character specified
+30 in this chapter, or any attorney or representative of the attorney who solicits or negotiates any
+31 applications for the attorney without the attorney first complying with the provisions of this chapter,
+32 shall be deemed guilty of a misdemeanor, and upon conviction shall be subjected to a fine of not
+33 less than one hundred dollars ($100) nor more than one thousand dollars ($1,000) subject to
+34 penalties pursuant to § 42-14-16.
+LC005413/SUB A - Page 7 of 17
+
+1 SECTION 7. Section 27-25-37 of the General Laws in Chapter 27-25 entitled "Rhode
+2 Island Fraternal Code" is hereby amended to read as follows:
+3 27-25-37. Penalties.
+4 (a) Any person who willfully makes a false or fraudulent statement in or relating to an
+5 application for membership or for the purpose of obtaining money from or a benefit in any society,
+6 shall upon conviction be fined not less than one hundred dollars ($100) nor more than five hundred
+7 dollars ($500) or imprisonment for not less than thirty (30) days nor more than one year, or both.
+8 (b) Any person who willfully makes a false or fraudulent statement in any verified report
+9 or declaration under oath required or authorized by this chapter, or of any material fact or thing
+10 contained in a sworn statement concerning the death or disability of an insured for the purpose of
+11 procuring payment of a benefit named in the certificate, shall be guilty of perjury and shall be
+12 subject to the penalties prescribed by law.
+13 (c) Any person who solicits membership for, or in any manner assists in procuring
+14 membership in, any society not licensed to do business in this state shall upon conviction be fined
+15 not less than fifty dollars ($50.00) nor more than two hundred dollars ($200).
+16 (d) Any person guilty of a willful violation of, or neglect or refusal to comply with, the
+17 provisions of this chapter for which a penalty is not prescribed, shall upon conviction, be subject
+18 to a fine not exceeding five hundred dollars ($500). Violations of this chapter shall be subject to
+19 penalties pursuant to § 42-14-16.
+20 SECTION 8. Section 27-29-4.5 of the General Laws in Chapter 27-29 entitled "Unfair
+21 Competition and Practices" is hereby amended to read as follows:
+22 27-29-4.5. Penalty.
+23 An insurer’s failure to comply with any requirement of § 27-29-4.4, or any rule or
+24 regulation promulgated by the department of business regulation pursuant to § 27-29-4.4 shall
+25 result in a fine in a sum of up to five thousand dollars ($5,000).
+26 SECTION 9. Section 27-5-3.8 of the General Laws in Chapter 27-5 entitled "Fire Insurance
+27 Policies and Reserves" is hereby repealed.
+28 27-5-3.8. Rhode Island commission on hurricane loss projection methodology.
+29 (a) Legislative findings and intent.
+30 (1) Reliable projections of hurricane losses are necessary in order to assure that rates for
+31 residential property insurance meet the statutory requirement that rates be neither excessive nor
+32 inadequate.
+33 (2) The general assembly recognizes the need for expert evaluation of computer models
+34 and other recently developed or improved actuarial methodologies for projecting hurricane losses,
+LC005413/SUB A - Page 8 of 17
+
+1 in order to resolve conflicts among actuarial professionals, and in order to provide both immediate
+2 and continuing improvement in the sophistication of actuarial methods used to set rates charged to
+3 consumers.
+4 (3) It is the intent of the general assembly to create the Rhode Island commission on
+5 hurricane loss projection methodology as a panel of experts to provide the most actuarially
+6 sophisticated guidelines and standards for projection of hurricane losses possible, given the current
+7 state of actuarial science.
+8 (b) Commission created.
+9 (1) There is created the Rhode Island commission on hurricane loss projection
+10 methodology. For the purposes of this section, the term “commission” means the Rhode Island
+11 commission on hurricane loss projection methodology. The commission shall be administratively
+12 housed within the department of administration, but it shall independently exercise the powers and
+13 duties specified in this section.
+14 (2) The commission shall consist of the following eight (8) members:
+15 (i) The director of business regulation, acting as the administrator of insurance, or designee;
+16 (ii) The director of the Rhode Island emergency management agency;
+17 (iii) A member of the board of directors of the Rhode Island Joint Reinsurance Association
+18 appointed by the governor;
+19 (iv) Five (5) members directly appointed by the governor, as follows:
+20 (A) An actuary who is employed full-time by a property and casualty insurer that was
+21 responsible for at least one percent (1%) of the aggregate statewide direct written premium for
+22 homeowner’s insurance in the calendar year preceding the member’s appointment to the
+23 commission;
+24 (B) An expert in insurance finance who has a background in actuarial science;
+25 (C) An expert in statistics who has a background in insurance;
+26 (D) An expert in computer system design;
+27 (E) An expert in meteorology who specializes in hurricanes.
+28 (3) Members designated under subsections (b)(2)(i)-(iii) shall serve on the commission as
+29 long as they maintain the respective offices designated in subsections (b)(2)(i)-(iii). Members under
+30 subsections (b)(2)(iv)(A)-(E) shall serve for a term of three (3) years, and may be reappointed to
+31 the commission. All members may be removed by the governor prior to the expiration of their term
+32 for cause. Vacancies on the commission shall be filled in the same manner as the original
+33 appointment.
+34 (4) The governor shall annually appoint one of the members of the commission to serve as
+LC005413/SUB A - Page 9 of 17
+
+1 chair.
+2 (5) Members of the commission shall serve without compensation but shall be reimbursed
+3 for per diem and travel expenses.
+4 (6) There shall be no liability on the part of, and no cause of action of any nature shall arise
+5 against, any member of the commission for any action taken in the performance of their duties
+6 under this section. In addition, the commission may, in writing, waive any potential cause of action
+7 for negligence of a consultant, contractor, or contract employee engaged to assist the commission.
+8 (c) Adoption and effect of standards and guidelines.
+9 (1) The commission shall consider any actuarial methods, principles, standards, models, or
+10 output ranges that have the potential for improving the accuracy of or reliability of the hurricane
+11 loss projections used in residential property insurance rate filings. The commission shall, from time
+12 to time, adopt findings as to the accuracy or reliability of particular methods, principles, standards,
+13 models, or output ranges.
+14 (2) The commission shall adopt revisions to previously adopted actuarial methods,
+15 principles, standards, models, or output ranges at least annually.
+16 (3)(i) A trade secret that is used in designing and constructing a hurricane loss model and
+17 that is provided pursuant to this section, by a private company, to the commission, is confidential
+18 and shall not be deemed a public record pursuant to the provisions of chapter 2 of title 38.
+19 (ii) That portion of a meeting of the commission or of a rate proceeding on an insurer’s rate
+20 filing at which a trade secret made confidential and exempt by this subsection (c)(3) is discussed
+21 shall be deemed confidential and not open to disclosure pursuant to the open meetings act, but may
+22 be discussed at a closed meeting as provided for in chapter 46 of title 42.
+23 (d) The Rhode Island commission is hereby authorized to form a multistate commission
+24 with the states of Massachusetts, Connecticut, and any other interested state in furtherance of the
+25 goals of this act.
+26 SECTION 10. Section 27-14.4-3 of the General Laws in Chapter 27-14.4 entitled "Uniform
+27 Insurers Liquidation Act" is hereby amended to read as follows:
+28 27-14.4-3. Director as domiciliary receiver.
+29 Whenever under this title, including § 27-1-14, a receiver is to be appointed upon the
+30 commencement of delinquency proceedings for an insurer domiciled in this state, the superior court
+31 shall appoint the director of business regulation as the receiver. The court shall direct the receiver
+32 to immediately take possession of the assets of the insurer and to administer them under the orders
+33 of the court. The receiver may, subject to the discretion of the court, continue to be the receiver for
+34 the duration of the receivership proceedings and shall have all of the powers and duties conferred
+LC005413/SUB A - Page 10 of 17
+
+1 upon the receivers by law including the powers and duties set forth in chapter 1 14.3 of this title.
+2 SECTION 11. Section 27-35-4 of the General Laws in Chapter 27-35 entitled "Insurance
+3 Holding Company Systems" is hereby amended to read as follows:
+4 27-35-4. Standards and management of an insurer within a holding company system.
+5 (a) Transactions within an insurance holding company system.
+6 (1) Transactions within an insurance holding company system to which an insurer subject
+7 to registration is a party shall be subject to the following standards:
+8 (i) The terms shall be fair and reasonable;
+9 (ii) Agreements for cost sharing and management services shall include such provisions as
+10 required by rule and regulation issued by the commissioner;
+11 (iii) Charges or fees for services performed shall be reasonable;
+12 (iv) Expenses incurred and payment received shall be allocated to the insurer in conformity
+13 with customary insurance accounting practices consistently applied;
+14 (v) The books, accounts, and records of each party to all such transactions shall be so
+15 maintained as to clearly and accurately disclose the nature and details of the transactions including
+16 such accounting information as is necessary to support the reasonableness of the charges or fees to
+17 the respective parties; and
+18 (vi) The insurer’s surplus as regards policyholders following any dividends or distributions
+19 to shareholder affiliates shall be reasonable in relation to the insurer’s outstanding liabilities and
+20 adequate to its financial needs.;
+21 (vii) If an insurer subject to this chapter is deemed by the commissioner to be in a hazardous
+22 financial condition as defined by chapter 14.2 of title 27 or a condition that would be grounds for
+23 supervision, conservation or a delinquency proceeding, then the commissioner may require the
+24 insurer to secure and maintain either a deposit, held by the commissioner, or a bond, as determined
+25 by the insurer at the insurer’s discretion, for the protection of the insurer for the duration of the
+26 contract(s) or agreement(s), or the existence of the condition for which the commissioner required
+27 the deposit or the bond. In determining whether a deposit or a bond is required, the commissioner
+28 should consider whether concerns exist with respect to the affiliated person’s ability to fulfill the
+29 contract(s) or agreement(s) if the insurer were to be put into liquidation. Once the insurer is deemed
+30 to be in a hazardous financial condition or a condition that would be grounds for supervision,
+31 conservation or a delinquency proceeding, and a deposit or bond is necessary, the commissioner
+32 has discretion to determine the amount of the deposit or bond, not to exceed the value of the
+33 contract(s) or agreement(s) in any one year, and whether such deposit or bond should be required
+34 for a single contract, multiple contracts or a contract only with a specific person(s);
+LC005413/SUB A - Page 11 of 17
+
+1 (viii) All records and data of the insurer held by an affiliate are and remain the property of
+2 the insurer, are subject to control of the insurer, are identifiable, and are segregated or readily
+3 capable of segregation, at no additional cost to the insurer, from all other persons’ records and data.
+4 This includes all records and data that are otherwise the property of the insurer, in whatever form
+5 maintained including, but not limited to, claims and claim files, policyholder lists, application files,
+6 litigation files, premium records, rate books, underwriting manuals, personnel records, financial
+7 records or similar records within the possession, custody or control of the affiliate. At the request
+8 of the insurer, the affiliate shall provide that the receiver can obtain a complete set of all records of
+9 any type that pertain to the insurer’s business; obtain access to the operating systems on which the
+10 data is maintained; obtain the software that runs those systems either through assumption of
+11 licensing agreements or otherwise; and restrict the use of the data by the affiliate if it is not operating
+12 the insurer’s business. The affiliate shall provide a waiver of any landlord lien or other encumbrance
+13 to give the insurer access to all records and data in the event of the affiliate’s default under a lease
+14 or other agreement; and
+15 (ix) Premiums or other funds belonging to the insurer that are collected by or held by an
+16 affiliate are the exclusive property of the insurer and are subject to the control of the insurer. Any
+17 right of offset in the event an insurer is placed into receivership shall be subject to chapter 14.3 of
+18 title 27.
+19 (2) The following transactions involving a domestic insurer and any person in its insurance
+20 holding company system, including amendments or modifications of affiliate agreements
+21 previously filed pursuant to this section, which are subject to any materiality standards contained
+22 in subsections (a)(2)(i) through (a)(2)(vii) of this section, may not be entered into unless the insurer
+23 has notified the commissioner in writing of its intention to enter into the transaction at least thirty
+24 (30) days prior, or such shorter period as the commissioner may permit, and the commissioner has
+25 not disapproved it within that period. The notice for amendments or modifications shall include the
+26 reasons for the change and the financial impact on the domestic insurer. Informal notice shall be
+27 reported, within thirty (30) days after a termination of a previously filed agreement, to the
+28 commissioner for determination of the type of filing required, if any.
+29 (i) Sales, purchases, exchanges, loans, extensions of credit, or investments, provided the
+30 transactions are equal to or exceed:
+31 (A) With respect to nonlife insurers, the lesser of three percent (3%) of the insurer’s
+32 admitted assets or twenty-five percent (25%) of surplus as regards policyholders as of the 31st day
+33 of December next preceding; or
+34 (B) With respect to life insurers, three percent (3%) of the insurer’s admitted assets; as of
+LC005413/SUB A - Page 12 of 17
+
+1 the 31st day of December next preceding;
+2 (ii) Loans or extensions of credit to any person who is not an affiliate, where the insurer
+3 makes the loans or extensions of credit with the agreement or understanding that the proceeds of
+4 the transactions, in whole or in substantial part, are to be used to make loans or extensions of credit
+5 to, to purchase assets of, or to make investments in, any affiliate of the insurer making the loans or
+6 extensions of credit, provided the transactions are equal to or exceed:
+7 (A) With respect to nonlife insurers, the lesser of three percent (3%) of the insurer’s
+8 admitted assets or twenty-five percent (25%) of surplus as regards policyholders as of the 31st day
+9 of December next preceding;
+10 (B) With respect to life insurers, three percent (3%) of the insurer’s admitted assets; as of
+11 the 31st day of December next preceding;
+12 (iii) Reinsurance agreements or modifications thereto, including:
+13 (A) All reinsurance pooling agreements;
+14 (B) Agreements in which the reinsurance premium or a change in the insurer’s liabilities,
+15 or the projected reinsurance premiums or a change in the insurer’s liabilities in any of the next three
+16 (3) years, equals or exceeds five percent (5%) of the insurer’s surplus as regards policyholders as
+17 of the 31st day of December next preceding, including those agreements which may require as
+18 consideration the transfer of assets from an insurer to a nonaffiliate, if an agreement or
+19 understanding exists between the insurer and nonaffiliate that any portion of those assets will be
+20 transferred to one or more affiliates of the insurer;
+21 (iv) All management agreements, service contracts, tax allocation agreements, guarantees
+22 and all cost-sharing arrangements;
+23 (v) Guarantees when made by a domestic insurer; provided, however, that a guarantee
+24 which is quantifiable as to amount is not subject to the notice requirements of this subsection (a)(2)
+25 unless it exceeds the lesser of one-half of one percent (.5%) of the insurer’s admitted assets or ten
+26 percent (10%) of surplus as regards policyholders as of the 31st day of December next preceding.
+27 Further, all guarantees which are not quantifiable as to amount are subject to the notice
+28 requirements of this subsection (a)(2);
+29 (vi) Direct or indirect acquisitions or investments in a person that controls the insurer or in
+30 an affiliate of the insurer in an amount which, together with its present holdings in such investments,
+31 exceeds two and one-half percent (2.5%) of the insurer’s surplus to policyholders. Direct or indirect
+32 acquisitions or investments in subsidiaries acquired pursuant to § 27-35-1.5 (or authorized under
+33 any other section of this chapter), or in non-subsidiary insurance affiliates that are subject to the
+34 provisions of this chapter, are exempt from this requirement; and
+LC005413/SUB A - Page 13 of 17
+
+1 (vii) Any material transactions, specified by regulation, the commissioner determines may
+2 adversely affect the interests of the insurer’s policyholders.
+3 Nothing contained in this subsection (a)(2) shall be deemed to authorize or permit any
+4 transactions which, in the case of an insurer not a member of the same insurance holding company
+5 system, would be otherwise contrary to law.
+6 (3) A domestic insurer may not enter into transactions which are part of a plan or series of
+7 like transactions with persons within the insurance holding company system if the purpose of those
+8 separate transactions is to avoid the statutory threshold amount and thus avoid the review that would
+9 occur otherwise. If the commissioner determines that the separate transactions were entered into
+10 over any twelve-month (12) period for that purpose, he or she may exercise his or her authority
+11 under § 27-35-9.
+12 (4) The commissioner, in reviewing transactions pursuant to subsection (a)(2) of this
+13 section shall consider whether the transactions comply with the standards set forth in subsection
+14 (a)(1) of this section and whether they may adversely affect the interests of policyholders.
+15 (5) The commissioner shall be notified within thirty (30) days of any investment of the
+16 domestic insurer in any one corporation if the total investment in the corporation by the insurance
+17 holding company system exceeds ten percent (10%) of the corporation’s voting securities.
+18 (6) Supervision, seizure, conservatorship or receivership proceedings.
+19 (i) Any affiliate that is party to an agreement or contract with a domestic insurer that is
+20 subject to subsection (a)(2)(iv) of this section shall be subject to the jurisdiction of any supervision,
+21 seizure, conservatorship or receivership proceedings against the insurer and to the authority of any
+22 supervisor, conservator, rehabilitator or liquidator for the insurer appointed pursuant to chapters
+23 14.1, 14.2, 14.3 and 14.4 of this title for the purpose of interpreting, enforcing and overseeing the
+24 affiliate’s obligations under the agreement or contract to perform services for the insurer that:
+25 (A) Are an integral part of the insurer’s operations including, but not limited to,
+26 management, administrative, accounting, data processing, marketing, underwriting, claims
+27 handling, investment or any other similar functions; or
+28 (B) Are essential to the insurer’s ability to fulfill its obligations under insurance policies.
+29 (ii) The commissioner may require that an agreement or contract pursuant to subsection
+30 (a)(2)(iv) of this section for the provision of services described in subsections (6)(i)(A) and
+31 (6)(i)(B) of this section specify that the affiliate consents to the jurisdiction as set forth in this
+32 subsection (a)(6) of this section.
+33 (b) Adequacy of surplus. For the purposes of this chapter, in determining whether an
+34 insurer’s surplus as regards policyholders is reasonable in relation to the insurer’s outstanding
+LC005413/SUB A - Page 14 of 17
+
+1 liabilities and adequate to its financial needs, the following factors, among others, shall be
+2 considered:
+3 (1) The size of the insurer as measured by its assets, capital and surplus, reserves, premium
+4 writings, insurance in force, and other appropriate criteria;
+5 (2) The extent to which the insurer’s business is diversified among the several lines of
+6 insurance;
+7 (3) The number and size of risks insured in each line of business;
+8 (4) The extent of the geographical dispersion of the insurer’s insured risks;
+9 (5) The nature and extent of the insurer’s reinsurance program;
+10 (6) The quality, diversification, and liquidity of the insurer’s investment portfolio;
+11 (7) The recent past and projected future trend in the size of the insurer’s investment
+12 portfolio;
+13 (8) The surplus as regards policyholders maintained by other comparable insurers;
+14 (9) The adequacy of the insurer’s reserves; and
+15 (10) The quality and liquidity of investment in affiliates. The commissioner may treat this
+16 investment as a disallowed asset for the purposes of determining the adequacy of surplus as regards
+17 policyholders whenever in his or her judgment the investment warrants.
+18 (c) Dividends and other distributions.(1) No domestic insurer shall pay any extraordinary
+19 dividend or make any other extraordinary distribution to its shareholders until thirty (30) days after
+20 the commissioner has received notice of the declaration thereof and has not within that period
+21 disapproved the payment, or until the commissioner has approved the payment within the thirty-
+22 day (30) period.
+23 (2) For purposes of this section, an “extraordinary dividend or distribution” includes any
+24 dividend or distribution of cash or other property, whose fair market value together with that of
+25 other dividends or distributions made within the preceding twelve (12) months exceeds the lesser
+26 of:
+27 (i) Ten percent (10%) of the insurer’s surplus as regards policyholders as of the 31st day
+28 of December next preceding; or
+29 (ii) The net gain from operations of the insurer, if the insurer is a life insurer, or the net
+30 income, if the insurer is not a life insurer, not including realized capital gains, for the twelve-month
+31 (12) period ending the 31st day of December next preceding, but shall not include pro rata
+32 distributions of any class of the insurer’s own securities.
+33 In determining whether a dividend or distribution is extraordinary, an insurer other than a
+34 life insurer may carry forward net income from the previous two (2) calendar years that has not
+LC005413/SUB A - Page 15 of 17
+
+1 already been paid out as dividends. This carry forward shall be computed by taking the net income
+2 from the second and third preceding calendar years, not including realized capital gains, less
+3 dividends paid in the second and immediate preceding calendar years.
+4 (3) Notwithstanding any other provision of law, an insurer may declare an extraordinary
+5 dividend or distribution which is conditional upon the commissioner’s approval, and the declaration
+6 shall confer no rights upon shareholders until: (i) The commissioner has approved the payment of
+7 the dividend or distribution; or (ii) The commissioner has not disapproved the payment within the
+8 thirty-day (30) period referred to in subsection (c)(1) of this section.
+9 (d) Management of domestic insurers subject to registration. All domestic insurers shall
+10 become in compliance and maintain compliance with the provisions of this title addressing good
+11 corporate governance standards § 27-1-2.1, unless otherwise exempted in § 27-1-2.1.
+12 SECTION 12. This act shall take effect upon passage.
+========
+LC005413/SUB A
+========
+LC005413/SUB A - Page 16 of 17
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- DOMESTIC INSURANCE COMPANIES
+***
+1 This act would provide an update to certain insurance sections of law to update or eliminate
+2 outdated sections of the insurance law.
+3 This act would take effect upon passage.
+========
+LC005413/SUB A
+========
+LC005413/SUB A - Page 17 of 17

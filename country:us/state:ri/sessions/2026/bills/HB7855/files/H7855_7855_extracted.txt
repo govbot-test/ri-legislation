@@ -1,0 +1,232 @@
+Title: 
+Official Title: 
+Source: versions - 7855
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7855
+========
+LC005566
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- CONDOMINIUM LAW
+Introduced By: Representative Deborah A. Fellela
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 34-36.1-1.2 and 34-36.1-1.3 of the General Laws in Chapter 34-36.1
+2 entitled "Condominium Law" are hereby amended to read as follows:
+3 34-36.1-1.02. Applicability.
+4 (a)(1) This chapter applies to all condominiums created within this state after July 1, 1982,
+5 except that any condominium created within this state prior to July 1, 1982, may voluntarily accept
+6 the provisions of this chapter in lieu of the provisions under which it was originally organized.
+7 Acceptance shall be evidenced by an agreement in writing executed by and in behalf of the
+8 condominium association and by all of the owners of all of the individual condominium units within
+9 the condominium, in which agreement it is clearly stated that they all accept the provisions of this
+10 chapter in lieu of those in the statute under which the condominium was organized and wish to be
+11 governed in the future by the provisions of this chapter. The agreement shall be recorded in the
+12 land evidence records of each and every town or city where all or any part of the land in the
+13 condominium concerned may be located and shall become effective when first so recorded. The
+14 acceptance shall only apply to the governance of the condominium concerned as to all matters
+15 which are prospective or executory in nature; and nothing herein shall be deemed to abrogate,
+16 amend, limit, effect, or impair the continued effectiveness, legality, or validity of all actions
+17 lawfully taken by or in behalf of the condominium prior to the effective date of the acceptance,
+18 including, but without limitation, the condominium declaration and all amendments thereto, the by-
+19 laws of the condominium and/or of its association, all deeds, mortgages, leases, and any further
+
+1 documents affecting the titles or rights of unit owners, or of the condominium or the prior lawful
+2 acts or deeds of any kind, of the condominium association, its officers, directors, or members.
+3 (2) Sections 34-36.1-1.03 (special assessments), 34-36.1-1.05 (separate titles and taxation),
+4 34-36.1-1.06 (applicability of local ordinances, regulations, and building codes), 34-36.1-1.07
+5 (eminent domain), 34-36.1-2.03 (construction and validity of declaration and bylaws), 34-36.1-
+6 2.04 (description of units), 34-36.1-2.19(b) (mortgage approval), 34-36.1-3.02(a)(1) — (6) and (11)
+7 — (17) (powers of unit owners’ association), 34-36.1-3.06(c) — (d) (bylaws), 34-36.1-3.08
+8 (meetings and notice), 34-36.1-3.11 (tort and contract liability), 34-36.1-3.13(d) and (k) (unit owner
+9 responsibility for master policy deductibles), 34-36.1-3.16 (lien for assessments), 34-36.1-3.18
+10 (association records), 34-36.1-4.09 (resale of units), and 34-36.1-4.17 (effect of violation on rights
+11 of action; attorney’s fees), § 34-36.1-3.20 (enforcement of declaration, bylaws and rules), and 34-
+12 36.1-1.03 (definitions), to the extent necessary in construing any of those sections, apply to all
+13 condominiums created in this state before July 1, 1982; but those sections apply only with respect
+14 to events and circumstances occurring after July 1, 1982, and do not invalidate existing provisions
+15 of the declaration, bylaws, plats, or plans of those condominiums.
+16 (3) A condominium created as an additional phase by amendment of a condominium
+17 created prior to July 1, 1982, if the original declaration contemplated the amendment, shall be
+18 deemed to be a condominium created prior to July 1, 1982; provided, however, the provisions of
+19 subdivision (a)(2) shall apply as defined therein.
+20 (4) Section 34-36.1-3.21 (foreclosure of condominium lien) applies, with respect to all
+21 condominiums created in this state prior to June 19, 1991, only with respect to events and
+22 circumstances occurring after June 18, 1991, does not invalidate existing provisions of the
+23 declarations, bylaws, plats, or plans of those condominiums, and applies in all respects to all
+24 condominiums created in this state after June 18, 1991.
+25 (b) The provisions of the Condominium Ownership Act, chapter 36 of this title, do not
+26 apply to condominiums created after July 1, 1982, and do not invalidate any amendment to the
+27 declaration, bylaws, plats, and plans of any condominium created before July 1, 1982, if the
+28 amendment would be permitted by this chapter. The amendment must be adopted in conformity
+29 with the procedures and requirements specified by those instruments and by chapter 36 of this title.
+30 If the amendment grants to any person any rights, powers, or privileges permitted by this chapter,
+31 all correlative obligations, liabilities, and restrictions in this chapter also apply to that person.
+32 (c) This chapter does not apply to condominiums or units located outside this state, but the
+33 public offering statement provisions (§§ 34-36.1-4.02 — 34-36.1-4.07) apply to all contracts for
+34 the disposition thereof signed in this state by any party unless exempt under § 34-36.1-4.01(b).
+LC005566 - Page 2 of 7
+
+1 34-36.1-1.03. Definitions.
+2 In the declaration and bylaws, unless specifically provided otherwise or the context
+3 otherwise requires, and in this chapter:
+4 (1) “Affiliate of a declarant” means any person who controls, is controlled by, or is under
+5 common control with a declarant.
+6 (i) A person “controls” a declarant if the person:
+7 (A) Is a general partner, officer, director, or employer of the declarant,
+8 (B) Directly or indirectly or acting in concert with one or more other persons, or through
+9 one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing,
+10 more than twenty percent (20%) of the voting interest in the declarant,
+11 (C) Controls in any manner the election of a majority of the directors of the declarant, or
+12 (D) Has contributed more than twenty percent (20%) of the capital of the declarant.
+13 (ii) A person “is controlled by” a declarant if the declarant:
+14 (A) Is a general partner, officer, director, or employer of the person,
+15 (B) Directly or indirectly or acting in concert with one or more other persons, or through
+16 one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing,
+17 more than twenty percent (20%) of the voting interest in the person,
+18 (C) Controls in any manner the election of a majority of the directors of the person, or
+19 (D) Has contributed more than twenty percent (20%) of the capital of the person.
+20 (iii) Control does not exist if the powers described in this subdivision are held solely as
+21 security for an obligation and are not exercised.
+22 (2) “Allocated interests” means the undivided interest in the common elements, the
+23 common expense liability, and votes in the association allocated to each unit.
+24 (3) “Association” or “unit owners’ association” means the unit owners’ association
+25 organized under § 34-36.1-3.01.
+26 (4) “Common elements” means all portions of a condominium other than the units.
+27 (5) “Common expenses” means expenditures made by or financial liabilities of the
+28 association, together with any allocations to reserves.
+29 (6) “Common expense liability” means the liability for common expenses allocated to each
+30 unit pursuant to § 34-36.1-2.07.
+31 (7)(i) “Condominium” means real estate, portions of which are designated for separate
+32 ownership and the remainder of which is designated for common ownership solely by the owners
+33 of those portions. Real estate is not a condominium unless the undivided interests in the common
+34 elements are vested in the unit owners.
+LC005566 - Page 3 of 7
+
+1 (ii) Provided that each unit owner has a vested, undivided interest in the common elements
+2 greater that 0.0 percent, no minimum percentage interest in the common elements is otherwise
+3 required by this chapter.
+4 (8) “Conversion building” means a building that at any time before creation of the
+5 condominium was occupied wholly or partially by persons other than purchasers and persons who
+6 occupy with the consent of purchasers.
+7 (9) “Declarant” means any person or group of persons acting in concert who:
+8 (i) As part of a common promotional plan, offers to dispose of his, her or its interest in a
+9 unit not previously disposed of; or
+10 (ii) Reserves or succeeds to any special declarant right.
+11 (10) “Declaration” means any instruments, however denominated, that create a
+12 condominium, and any amendments to those instruments.
+13 (11) “Development rights” means any right or combination of rights reserved by a declarant
+14 in the declaration to:
+15 (A) Add real estate to a condominium,
+16 (B) Create units, common elements, or limited common elements within a condominium,
+17 (C) Subdivide units or convert units into common elements, or
+18 (D) Withdraw real estate from a condominium.
+19 (12) “Person with a disability” means any person who is unable to engage in any substantial
+20 gainful activity by reason of any medically determinable physical or mental impairment which can
+21 be expected to result in death or has lasted or can be expected to last for a continuous period of not
+22 less than twelve (12) months or any person having an impairment of mobility or vision which is
+23 expected to be of at least twelve (12) months duration, and is a substantial impediment to his or her
+24 ability to live independently.
+25 (13) “Dispose” or “disposition” means a voluntary transfer to a purchaser of any legal or
+26 equitable interest in a unit, but does not include the transfer or release of a security interest.
+27 (14) “Executive board” means the body, regardless of name, designated in the declaration
+28 to act on behalf of the association.
+29 (15) [Deleted by P.L. 1999, ch. 83, § 80, and P.L. 1999, ch. 130, § 80 which enacted
+30 identical amendments to this section.]
+31 (16) “Identifying number” means a symbol or address that identifies only one unit in a
+32 condominium.
+33 (17) “Land only units” shall mean units designated as land only units on the plats and plans
+34 which units may be comprised entirely or partially of unimproved real property and the air space
+LC005566 - Page 4 of 7
+
+1 above the real property. The boundaries of a land only unit are to be described pursuant to § 34-
+2 36.1-2.05(a)(5). Land only units may, but need not, contain a physical structure. The declaration
+3 may provide for the conversion of land only units to other types of units and/or common elements
+4 provided the conversion shall be effective only upon the recording of an amendment to the
+5 declaration which amendment will include new plats and plans identifying any portion of the land
+6 only unit converted to another type of unit and/or common element.
+7 (18) “Leasehold condominium” means a condominium in which all or a portion of the real
+8 estate is subject to a lease the expiration or termination of which will terminate the condominium
+9 or reduce its size.
+10 (19) “Limited common element” means a portion of the common elements allocated by the
+11 declaration or by operation of § 34-36.1-2.02(2) or (4) for the exclusive use of one or more but
+12 fewer than all of the units.
+13 (20) “Master association” means an organization described in § 34-36.1-2.20, whether or
+14 not it is also an association described in § 34-36.1-3.01.
+15 (21) “Offering” means any advertisement, inducement, solicitation, or attempt to
+16 encourage any person to acquire any interest in a unit, other than as security for an obligation. An
+17 advertisement in a newspaper or other periodical of general circulation, or in any broadcast medium
+18 to the general public, of a condominium not located in this state, is not an offering if the
+19 advertisement states that an offering may be made only in compliance with the law of the
+20 jurisdiction in which the condominium is located.
+21 (22) “Person” means a natural person, corporation, business trust, estate, trust, partnership,
+22 association, joint venture, government, governmental subdivision or agency, or other legal or
+23 commercial entity. (In the case of a land trust, however, “person” means the beneficiary of the trust
+24 rather than the trust or the trustee.)
+25 (23) “Purchaser” means any person, other than a declarant or a person in the business of
+26 selling real estate for his or her own account, who by means of a voluntary transfer acquires a legal
+27 or equitable interest in a unit other than:
+28 (i) A leasehold interest including renewal options of less than twenty (20) years, or
+29 (ii) As security for an obligation.
+30 (24) “Real estate” means any leasehold or other estate or interest in, over, or under land,
+31 including structures, fixtures, and other improvements and interests which by custom, usage, or law
+32 pass with a conveyance of land though not described in the contract of sale or instrument of
+33 conveyance. “Real estate” includes parcels with or without upper or lower boundaries, and spaces
+34 that may be filled with air or water.
+LC005566 - Page 5 of 7
+
+1 (25) “Residential purposes” means use for dwelling or recreational purposes, or both.
+2 (26) “Special assessment” means an assessment that is not part of the association budget,
+3 (§ 34-36.1-3.03).
+4 (26)(27) “Special declarant rights” means rights reserved for the benefit of a declarant to:
+5 (i) Complete improvements indicated on plats and plans filed with the declaration, (§ 34-
+6 36.1-2.09),
+7 (ii) To exercise any development right, (§ 34-36.1-2.10),
+8 (iii) To maintain sales offices, management offices, signs advertising the condominium,
+9 and models, (§ 34-36.1-2.15),
+10 (iv) To use easements through the common elements for the purpose of making
+11 improvements within the condominium or within real estate which may be added to the
+12 condominium, (§ 34-36.1-2.16),
+13 (v) To make the condominium part of a larger condominium or a planned community, (§
+14 34-36.1-2.21),
+15 (vi) To make the condominium subject to a master association, (§ 34-36.1-2.20),
+16 (vii) Or to appoint or remove any officer of the association or any master association or
+17 any executive board member during any period of declarant control, (§ 34-36.1-3.03(d)).
+18 (27)(28) “Time share” means a right to occupy a unit or any of several units during five (5)
+19 or more separated time periods over a period of at least five (5) years, including renewal options,
+20 whether or not coupled with an estate or interest in a condominium or a specified portion thereof.
+21 (28)(29) “Unit” means a physical portion of the condominium designated for separate
+22 ownership or occupancy, the boundaries of which are described pursuant to § 34-36.1-2.05(a)(5).
+23 (29)(30) “Unit owner” means a declarant or other person who owns a unit, or a lessee of a
+24 unit in a leasehold condominium whose lease expires simultaneously with any lease, the expiration
+25 or termination of which will remove the unit from the condominium, but does not include a person
+26 having an interest in a unit solely as security for an obligation.
+27 SECTION 2. This act shall take effect upon passage.
+========
+LC005566
+========
+LC005566 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- CONDOMINIUM LAW
+***
+1 This act would define a special assessment as an assessment that is not a part of the
+2 condominium association budget and would apply to condominiums created before July 1, 1982,
+3 but only apply with respect to events and circumstances occurring after that date.
+4 This act would take effect upon passage.
+========
+LC005566
+========
+LC005566 - Page 7 of 7

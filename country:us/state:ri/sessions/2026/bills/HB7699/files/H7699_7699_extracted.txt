@@ -1,0 +1,721 @@
+Title: 
+Official Title: 
+Source: versions - 7699
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7699
+========
+LC004811
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- ESTATE AND TRANSFER TAXES -- LIABILITY AND
+COMPUTATION
+Introduced By: Representatives Costantino, Santucci, Lima, J. Brien, Casey, Noret,
+Chippendale, McEntee, Phillips, and Hopkins
+Date Introduced: February 11, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 44-22 of the General Laws entitled "Estate and Transfer Taxes —
+2 Liability and Computation" is hereby repealed in its entirety.
+3 CHAPTER 44-22
+4 Estate and Transfer Taxes — Liability and Computation
+5 44-22-1. Tax on net estate of decedents — Additional tax on postponed enjoyment —
+6 Deductions — Marital deduction.
+7 (a) A tax is imposed upon the transfer of the net estate of every resident or nonresident
+8 decedent as a tax upon the right to transfer. The tax is imposed at the rate of two percent (2%) upon
+9 all amounts not in excess of twenty-five thousand dollars ($25,000); at the rate of three percent
+10 (3%) upon all amounts in excess of twenty-five thousand dollars ($25,000) and not exceeding fifty
+11 thousand dollars ($50,000); at the rate of four percent (4%) upon all amounts in excess of fifty
+12 thousand dollars ($50,000) and not exceeding one hundred thousand dollars ($100,000); at the rate
+13 of five percent (5%) upon all amounts in excess of one hundred thousand dollars ($100,000) and
+14 not exceeding two hundred fifty thousand dollars ($250,000); at the rate of six percent (6%) upon
+15 all amounts in excess of two hundred fifty thousand dollars ($250,000) and not exceeding five
+16 hundred thousand dollars ($500,000); at the rate of seven percent (7%) upon all amounts in excess
+17 of five hundred thousand dollars ($500,000) and not exceeding seven hundred fifty thousand dollars
+18 ($750,000); at the rate of eight percent (8%) upon all amounts in excess of seven hundred fifty
+
+1 thousand dollars ($750,000) and not exceeding one million dollars ($1,000,000); at the rate of nine
+2 percent (9%) upon all amounts in excess of one million dollars ($1,000,000). An additional tax is
+3 imposed at the rate of two percent (2%) upon all or any part of each estate devised, bequeathed, or
+4 conveyed in such manner that it becomes necessary to postpone the assessment of taxes imposed
+5 by this chapter until the person entitled to the estate comes into beneficial enjoyment or possession
+6 of the estate; and provided, further, that an additional tax is not assessed and collected, as provided
+7 in §§ 44-23-9 — 44-23-12, in case a settlement of taxes is effected under the provisions of § 44-
+8 23-25.
+9 (b) In computing the value of the net estate in subsection (a) of this section, there is
+10 deducted from the estate and exempted from the tax twenty-five thousand dollars ($25,000).
+11 (c) In computing the value of the net estate in subsection (a) of this section, there is
+12 deducted from the estate and exempted from the tax all property or interests transferred to any
+13 corporation, association, or institution located in Rhode Island which is exempt from taxation by
+14 charter or under the laws of this state; or to any corporation, association, or institution located
+15 outside of this state, which if located within this state, would be exempt from taxation; provided,
+16 that the state of domicile of the corporation, association, or institution allows a reciprocal
+17 exemption to any similar Rhode Island corporation, association, or institution; or to any person in
+18 trust for the same or for use by the same for charitable purposes; or to any city or town in this state
+19 for public purposes.
+20 (d) In computing the value of the net estate in subsection (a) of this section, there is
+21 deducted from the estate and exempted from the tax United States civil and federal military service
+22 annuity payments.
+23 (e) In computing the value of the net estate in subsection (a) of this section, there is
+24 deducted from the estate and exempted from the estate tax a marital deduction, as defined in 26
+25 U.S.C. § 2056, in the amount of one hundred seventy-five thousand dollars ($175,000), from
+26 property or beneficial interests which pass or have passed from the decedent to the surviving
+27 spouse, but only to the extent that the interests are included in determining the value of the gross
+28 estate.
+29 (f)(1) In computing the value of the net estate in subsection (a) of this section, there is
+30 deducted from the estate and exempted from the estate tax, an orphan’s deduction, provided, that:
+31 (i) the decedent does not have a surviving spouse, and (ii) the decedent is survived by a minor child
+32 who, immediately after the death of the decedent, has no known parent, an amount equal to the
+33 value of any interest in property which passes or has passed from the decedent to the child, but only
+34 to the extent that the interest is included in determining the value of the gross estate. The aggregate
+LC004811 - Page 2 of 21
+
+1 amount of the deductions allowed under this section (computed without regard to this subsection)
+2 with respect to interests in property passing to any minor child shall not exceed an amount equal to
+3 five thousand dollars ($5,000) multiplied by the excess of twenty-one (21) over the age (in years)
+4 which the child has attained on the date of the decedent’s death.
+5 (2) For purposes of this subsection, any term used in the subsection has the same meaning
+6 as when used in a comparable context in 26 U.S.C. § 2057 unless a different meaning is clearly
+7 required.
+8 (g) Notwithstanding any other provisions of this chapter, the total estate tax payment on
+9 account of the estate of a decedent whose death occurs on or after January 1, 1986, is that percentage
+10 of the estate tax which would be payable under this chapter determined in accordance with the
+11 following schedule:
+12 (1) Death prior to January 1, 1987. Ninety percent (90%) in the case of decedents whose
+13 deaths occur on or after January 1, 1986, and prior to January 1, 1987;
+14 (2) Death prior to January 1, 1988. Eighty percent (80%) in the case of decedents whose
+15 deaths occur on or after January 1, 1987, and prior to January 1, 1988;
+16 (3) Death prior to January 1, 1989. Sixty percent (60%) in the case of decedents whose
+17 deaths occur on or after January 1, 1988, and prior to January 1, 1989;
+18 (4) Death prior to January 1, 1990. Forty percent (40%) in the case of decedents whose
+19 deaths occur on or after January 1, 1989, and prior to January 1, 1990;
+20 (5) Death prior to June 1, 1990. Twenty percent (20%) in the case of decedents whose
+21 deaths occur on or after January 1, 1990, and prior to June 1, 1990;
+22 (6) Death prior to January 1, 1992. Forty percent (40%) in the case of decedents whose
+23 deaths occur on or after June 1, 1990, and prior to January 1, 1992.
+24 (7) Death on or after January 1, 1992. The estate tax payable on or account of the estate of
+25 a decedent whose death occurs on or after January 1, 1992, is determined in accordance with § 44-
+26 22-1.1.
+27 (h) The estate tax payable under this section shall in no event be less than the estate tax due
+28 under § 44-22-1.1, computed without regard to the date of death.
+29 44-22-1.1. Tax on net estate of decedent.
+30 (a)(1) For decedents whose death occurs on or after January 1, 1992, but prior to January
+31 1, 2002, a tax is imposed upon the transfer of the net estate of every resident or nonresident decedent
+32 as a tax upon the right to transfer. The tax is a sum equal to the maximum credit for state death
+33 taxes allowed by 26 U.S.C. § 2011.
+34 (2) For decedents whose death occurs on or after January 1, 2002, but prior to January 1,
+LC004811 - Page 3 of 21
+
+1 2010, a tax is imposed upon the transfer of the net estate of every resident or nonresident decedent
+2 as a tax upon the right to transfer. The tax is a sum equal to the maximum credit for state death
+3 taxes allowed by 26 U.S.C. § 2011 as it was in effect as of January 1, 2001; provided, however,
+4 that the tax shall be imposed only if the net taxable estate shall exceed six hundred seventy-five
+5 thousand dollars ($675,000). Any scheduled increase in the unified credit provided in 26 U.S.C. §
+6 2010 in effect on January 1, 2001, or thereafter, shall not apply.
+7 (3) For decedents whose death occurs on or after January 1, 2010, and prior to January 1,
+8 2015, a tax is imposed upon the transfer of the net estate of every resident or nonresident decedent
+9 as a tax upon the right to transfer. The tax is a sum equal to the maximum credit for state death
+10 taxes allowed by 26 U.S.C. § 2011 as it was in effect as of January 1, 2001; provided, however,
+11 that the tax shall be imposed only if the net taxable estate shall exceed eight hundred and fifty
+12 thousand dollars ($850,000); provided, further, beginning on January 1, 2011, and each January 1
+13 thereafter until January 1, 2015, said amount shall be adjusted by the percentage of increase in the
+14 Consumer Price Index for all Urban Consumers (CPI-U) as published by the United States
+15 Department of Labor Statistics determined as of September 30 of the prior calendar year; said
+16 adjustment shall be compounded annually and shall be rounded up to the nearest five dollar ($5.00)
+17 increment. Any scheduled increase in the unified credit provided in 26 U.S.C. § 2010 in effect on
+18 January 1, 2003, or thereafter, shall not apply.
+19 (4) For decedents whose death occurs on or after January 1, 2015, a tax is imposed upon
+20 the transfer of the net estate of every resident or nonresident decedent as a tax upon the right to
+21 transfer. The tax is a sum equal to the maximum credit for state death taxes allowed by 26 U.S.C.
+22 § 2011, as it was in effect as of January 1, 2001; provided, however, that a Rhode Island credit shall
+23 be allowed against any tax so determined in the amount of sixty-four thousand four hundred
+24 ($64,400). Any scheduled increase in the unified credit provided in 26 U.S.C. § 2010 in effect on
+25 January 1, 2003, or thereafter, shall not apply; provided, further, beginning on January 1, 2016, and
+26 each January 1 thereafter, said Rhode Island credit amount under this section shall be adjusted by
+27 the percentage of increase in the Consumer Price Index for all Urban Consumers (CPI-U) as
+28 published by the United States Department of Labor Statistics determined as of September 30 of
+29 the prior calendar year; said adjustment shall be compounded annually and shall be rounded up to
+30 the nearest five dollar ($5.00) increment.
+31 (b) If the decedent’s estate contains property having a tax situs not within the state, then
+32 the tax determined by this section is reduced to an amount determined by multiplying the tax by a
+33 fraction whose numerator is the gross estate excluding all property having a tax situs not within the
+34 state at the decedent’s death and whose denominator is the gross estate. In determining the fraction,
+LC004811 - Page 4 of 21
+
+1 no deductions are considered and the gross estate is not reduced by a mortgage or other
+2 indebtedness for which the decedent’s estate is not liable.
+3 (c)(1) The terms “gross taxable estate,” “federal gross estate” or “net taxable estate” used
+4 in this chapter or chapter 23 of this title has the same meaning as when used in a comparable context
+5 in the laws of the United States, unless a different meaning is clearly required by the provisions of
+6 this chapter or chapter 23 of this title. Any reference in this chapter or chapter 23 of this title to the
+7 Internal Revenue Code or other laws of the United States means the Internal Revenue Code of
+8 1954, 26 U.S.C. § 1 et seq.
+9 (2) For decedents whose death occurs on or after January 1, 2002, the terms “gross taxable
+10 estate” “federal gross estate” or “net taxable estate” used in this chapter or chapter 23 of this title
+11 has the same meaning as when used in a comparable context in the laws of the United States, unless
+12 a different meaning is clearly required by the provisions of this chapter or chapter 23 of this title.
+13 Any reference in this chapter or chapter 23 of this title to the Internal Revenue Code or other laws
+14 of the United States means the Internal Revenue Code of 1954, 26 U.S.C. § 1 et seq., as they were
+15 in effect as of January 1, 2001, unless otherwise provided.
+16 (d) All values are as finally determined for federal estate tax purposes.
+17 (e) Property has a tax situs within the state of Rhode Island:
+18 (1) If it is real estate or tangible personal property and has actual situs within the state of
+19 Rhode Island; or
+20 (2) If it is intangible personal property and the decedent was a resident.
+21 44-22-2. Exemption — Missing persons in military action.
+22 An estate of a serviceman or servicewoman who has been classified by the armed forces
+23 of the United States as missing in action is exempt from provisions of this chapter pertaining to
+24 taxation.
+25 44-22-3 — 44-22-7. Repealed.
+26 44-22-8 — 44-22-11. Repealed.
+27 44-22-12 — 44-22-20. Repealed.
+28 44-22-21. Repealed.
+29 44-22-22 — 44-22-24. Repealed.
+30 44-22-25. Repealed.
+31 44-22-26. [Renumbered.]
+32 SECTION 2. Chapter 44-23 of the General Laws entitled "Estate and Transfer Taxes —
+33 Enforcement and Collection" is hereby repealed in its entirety.
+34 CHAPTER 44-23
+LC004811 - Page 5 of 21
+
+1 Estate and Transfer Taxes — Enforcement and Collection
+2 44-23-1. Statements filed by executors, administrators, and heirs-at-law.
+3 (a) Every executor, administrator, and heir-at-law, within nine (9) months after the death
+4 of the decedent, shall file with the tax administrator a statement under oath showing the full and
+5 fair cash value of the estate; the amounts paid out from the estate for claims, expenses, charges,
+6 and fees; and the statement shall also provide the names and addresses of all persons entitled to
+7 take any share or interest of the estate as legatees or distributees of the estate.
+8 (b) For estates of decedents with a date of death prior to January 1, 2025, a fee of fifty
+9 dollars ($50.00) shall be paid when filing any statement required by this section. All fees received
+10 under this section are allocated to the tax administrator for enforcement and collection of taxes.
+11 (c) For estates of decedents with a date of death on or after January 1, 2025, no fee shall be
+12 paid when filing any statement required by this section.
+13 44-23-2. Statements filed by trustees.
+14 Whenever any person during his or her life appoints a trustee, naming that person or others
+15 as beneficiaries, and providing for the administration of the trust after his or her death, or providing
+16 for a termination of the trust and a distribution of the trust estate or any part of the trust estate at his
+17 or her death, any person acting as the trustee or any trustee of property subject to a power of
+18 appointment, shall, within thirty (30) days after the death of the creator of the trust, or within thirty
+19 (30) days after the death of the donee of the power file with the tax administrator a sworn statement
+20 showing:
+21 (1) The trust agreement, if any;
+22 (2) The full and fair cash value of the trust estate;
+23 (3) The extent of the duration of the trust;
+24 (4) The manner provided for its termination;
+25 (5) The names and addresses of the beneficiaries of the trust; and
+26 (6) Any other information relating to the trust, which the tax administrator may deem
+27 necessary for the proper assessment of the tax on the estate.
+28 44-23-3. Extension of time for filing of statement.
+29 The tax administrator has authority to grant extensions of time corresponding to the
+30 approved extension granted by the Internal Revenue Service for the filing of federal form 706
+31 within which any statement is required to be filed upon written application of the executor,
+32 administrator, heir-at-law, or trustee desiring an extension, and it is the duty of the executor,
+33 administrator, heir-at-law, or trustee, to file the statement within the extension of time granted.
+34 44-23-4. Declarations under penalties of perjury.
+LC004811 - Page 6 of 21
+
+1 The oath or affirmation required by the provisions of this chapter as to any report or written
+2 statement is not required if the report or statement to be sworn to contains or is verified by a written
+3 declaration that it is made under the penalties of perjury; and whoever signs or issues any report or
+4 statement containing or verified by a written declaration is, if the report or statement is willfully
+5 false, guilty of perjury.
+6 44-23-5. Appraisal of estate.
+7 (a) If any statement filed in accordance with the provisions of this chapter is considered to
+8 be an erroneous or incomplete statement of the property, real, tangible personal, intangible
+9 personal, or of any part of the property, of the decedent, the tax administrator shall give notice to
+10 the executor, administrator, heir-at-law, beneficiary, or trustee filing the statement, to appear before
+11 the tax administrator for the purpose of examination of and concerning the statement, and
+12 concerning all matters appertaining to the estate and the value of the estate of the decedent; and if
+13 the executor, administrator, heir-at-law, beneficiary, or trustee fails to appear after due notice, or if
+14 after appearance and examination of the executor, administrator, heir-at-law, beneficiary, or trustee
+15 the tax administrator still considers the statement to be an erroneous or incomplete statement, or if
+16 the executor, administrator, heir-at-law, beneficiary, or trustee refuses or neglects to answer the
+17 questions propounded in reference to the statement, the tax administrator may appraise the estate.
+18 The tax administrator shall give notice by mail to the executor, administrator, heir-at-law,
+19 beneficiary, or trustee and to all persons known to have a claim or interest in the estate or property
+20 to be appraised, of the time and place of the appraisal, and the tax administrator or his or her
+21 authorized agent shall at that time and place appraise the estate or property at its full and fair cash
+22 value as prescribed in this section; and for that purpose the tax administrator is authorized to issue
+23 subpoenas and to compel the attendance of witnesses and to take the evidence of the witnesses
+24 under oath if necessary, concerning the estate or property and the value of the estate, and the
+25 witnesses shall receive the same fees as those now paid to witnesses subpoenaed to attend the
+26 superior court. From the appraisal and other proof relating to the estate or property, the tax
+27 administrator determines the full and fair cash value of the estate or property upon which all taxes
+28 imposed by chapter 22 of this title are computed and the amount of taxes to which it is liable. If no
+29 appraisal is made as provided in this section, the tax administrator may determine the value of the
+30 property upon which all the taxes are computed and the amount of taxes to which it is liable.
+31 (b) Notwithstanding the provisions of § 44-23-5(a), all farmland, as such term is defined
+32 in § 44-27-2, included as part of an estate for purposes of this section and utilized by the executor,
+33 administrator, heir-at-law, beneficiary or trustee as farmland, shall be appraised at its use value
+34 according to applicable federal and state law and not at its full and fair cash value.
+LC004811 - Page 7 of 21
+
+1 44-23-6. Notice by probate clerk of grant of letters on estate.
+2 Every probate clerk shall, within thirty (30) days after the granting of letters testamentary
+3 or letters of administration upon any estate, notify the tax administrator of the name of the decedent,
+4 the name and address of the executor, administrator, or trustee appointed, and the amount of the
+5 bond required by the court; and shall also furnish upon request certified copies of documents and
+6 any further information from the records and files of his or her office in regard to the estate that the
+7 tax administrator may from time to time require.
+8 44-23-7. Fees of probate clerk.
+9 The probate clerk furnishing the information required by § 44-23-6 is paid out of any
+10 money appropriated for expenses of tax administration a fee of fifteen cents ($.15) for every
+11 hundred words of copy, but the tax administrator may in his or her discretion make copies of the
+12 documents or of any other records of the probate court. If the copies are found by the probate clerk
+13 to be correct, the clerk shall certify to their correctness and be paid a fee of twenty-five cents ($.25)
+14 for each certification. All fees paid to a probate clerk under this section are disposed of in the same
+15 manner as is provided for the disposition of other probate fees under the provisions of chapter 22
+16 of title 33.
+17 44-23-8. Estates where no will has been offered or letters granted.
+18 If upon the decease of a person leaving an estate liable to a tax under the provisions of
+19 chapter 22 of this title, a will disposing of the estate is not offered for probate or an application for
+20 administration is not made within three (3) months after the decease, the tax administrator may in
+21 his or her discretion, with the approval of the attorney general, agree with the persons interested in
+22 the estate as to the value of the estate and the amount of the tax to be assessed on the estate, or the
+23 tax administrator may apply to the probate court for the appointment of an administrator of the
+24 estate, and the probate court upon the application shall appoint an administrator of the estate.
+25 44-23-9. Assessment and notice of estate tax — Collection powers — Lien.
+26 (a) The tax imposed by § 44-22-1.1 shall be assessed upon the full and fair cash value of
+27 the net estate determined by the tax administrator as provided in this chapter. Notice of the amount
+28 of the tax shall be mailed to the executor, administrator, or trustee, but failure to receive the notice
+29 does not excuse the nonpayment of or invalidate the tax. The tax administrator shall receive and
+30 collect the assessed taxes in the same manner and with the same powers as are prescribed for and
+31 given to the collectors of taxes by chapters 7 — 9 of this title. The tax shall be due and payable as
+32 provided in § 44-23-16, shall be paid to the tax administrator, and shall be and remain a lien upon
+33 the estate until it is paid. All executors, administrators, and trustees are personally liable for the tax
+34 until it is paid.
+LC004811 - Page 8 of 21
+
+1 (b) Notwithstanding the provisions of subsection (a) of this section, under no circumstances
+2 shall the tax administrator issue any notice of deficiency determination for the amount of the estate
+3 tax due more than ten (10) years after the return was filed, nor shall the tax administrator commence
+4 any collection action for any estate tax due and payable unless the collection action is commenced
+5 within ten (10) years after the date a notice of deficiency determination became a final collectible
+6 assessment. “Collection action” refers to any activity undertaken by the division of taxation to
+7 collect on any state tax liabilities that are final, due, and payable under Rhode Island law.
+8 “Collection action” may include, but is not limited to, any civil action involving a liability owed
+9 under chapters 22 and 23 of title 44.
+10 (c) The ten-year (10) limitation shall not apply to the renewal or continuation of the state’s
+11 attempt to collect a liability that became final, due, and payable within the ten-year (10) limitation
+12 periods set forth in this section.
+13 44-23-9.1. Hearing by tax administrator on application.
+14 An executor, administrator, trustee, legatee or other person aggrieved by a final assessment
+15 of the tax administrator as to the amount of the tax imposed by chapter 22 of this title on any estate
+16 or any part of the estate shall notify the tax administrator, in writing, within thirty (30) days from
+17 the date of mailing by the tax administrator of the notice of the final assessment or date tax is due,
+18 whichever is later, and shall request a hearing relative to the tax; and the tax administrator shall, as
+19 soon as practicable, fix a time and place for the hearing and shall, after the hearing, determine the
+20 correct amount of the tax, interest, and penalties.
+21 44-23-10. Deposit with tax administrator to cover taxes.
+22 An executor, administrator, or trustee may deposit with the tax administrator a sum of
+23 money sufficient in the opinion of the tax administrator to pay all taxes, which may become due
+24 under the provisions of chapter 22 of this title. When the taxes have been determined, the general
+25 treasurer shall, upon certification by the tax administrator and with the approval of the controller,
+26 repay to the executor, administrator, or trustee the difference between the determined taxes and the
+27 amount deposited, or the tax administrator shall collect any deficiency in the tax. The lien upon the
+28 estate imposed under § 44-23-9 is discharged by the acceptance of the deposit.
+29 44-23-11. Tentative assessment.
+30 At the request of an executor, administrator, or trustee the tax administrator may make a
+31 tentative assessment of taxes under the provisions of §§ 44-22-1 and 44-22-1.1, whichever section
+32 is in effect at the time, to prevent interest charges on the amount of the tentative assessment, and
+33 shall accept payment of that sum, and when the taxes have been finally determined, the general
+34 treasurer shall, upon certification by the tax administrator and with the approval of the controller,
+LC004811 - Page 9 of 21
+
+1 repay to the executor, administrator, or trustee the difference between the taxes so determined and
+2 the amount of the tentative assessment, or the tax administrator shall collect any deficiency in the
+3 taxes together with interest on the deficiency, if any is due.
+4 44-23-12. Recording of lien against real estate — Discharge.
+5 Whenever a statement is filed with the tax administrator showing the ownership of real
+6 property, the tax administrator shall notify the recorder of deeds or the clerk of the city or town, as
+7 the case may be, in which the real property is located, and the recorder of deeds shall note in the
+8 land records of his or her office the decedent’s name, and the fact that all real property belonging
+9 to the decedent is impressed with a lien under the provisions of this chapter. Upon the discharge of
+10 the lien, the tax administrator shall send the recorder of deeds a further notice showing the discharge
+11 and the manner of the discharge. The recorder of deeds is paid out of any money appropriated for
+12 expenses of tax administration, a fee of one dollar and fifty cents ($1.50) for a completed entry.
+13 44-23-13. Assessment and notice of transfer tax — Collection powers — Lien on
+14 property.
+15 (a) All taxes imposed by § 44-22-1.1 shall be assessed by the tax administrator upon the
+16 full and fair cash value of the property transferred at the rates described in chapter 22 of this title
+17 and only upon the amount in excess of the exemptions or deductions specified in that chapter, to
+18 be paid to the tax administrator, and all executors, administrators, or trustees are personally liable
+19 for any and all taxes until they are paid. Notice of the amount of the taxes shall be mailed to the
+20 executor, administrator or trustee liable for the taxes, and upon request made to the tax
+21 administrator to any other person by whom the taxes are payable, but failure to receive the notice
+22 does not excuse the nonpayment of or invalidate the taxes. Unless appeal is taken from the
+23 assessment, as provided in this chapter, the amount of assessed taxes is final.
+24 (b) The tax administrator shall receive and collect the assessed taxes in the manner and
+25 with the powers prescribed and given to the collectors of taxes by chapters 7 — 9 of this title.
+26 Payment of the certified amount is a discharge of the tax.
+27 (c) The taxes are and remain a lien upon the property transferred, and upon all property
+28 acquired by the executor, administrator or trustee in substitution for the property while that property
+29 remains in his or her hands until the taxes are paid, but the lien does not affect any tangible personal
+30 property or intangible personal property after it has passed to a bona fide purchaser for value.
+31 Nothing contained in this section gives the owner of any securities specified in § 44-23-34 the right
+32 to have the securities transferred to the owner by the corporation, association, company or trust
+33 issuing the securities, until the permit required by § 44-23-34 has been filed as provided in § 44-
+34 23-34.
+LC004811 - Page 10 of 21
+
+1 44-23-14. Discharge of lien on real estate — Liability of heir or devisee.
+2 The lien imposed under § 44-23-13 upon any real estate or separate parcel of real estate
+3 may be discharged by the payment of all taxes due and to become due upon the real estate or
+4 separate parcel, or by an order of the tax administrator transferring the lien to other real estate
+5 owned by the person to whom the real estate or separate parcel of the real estate passes, or by the
+6 acceptance of the surety for the payment of taxes which the tax administrator may approve. The
+7 heir, devisee, or other donee is personally liable for the tax on the real estate, as well as the executor,
+8 administrator, or trustee; and if the executor, administrator, or trustee pays the tax he or she shall,
+9 unless the tax is made an expense of administration by the will or other instrument of the decedent,
+10 have the right to recover the tax from the heir, devisee, or other donee of the real estate.
+11 44-23-15. Taxes as debt to state.
+12 The taxes imposed under the provisions of chapter 22 of this title, together with all
+13 penalties, charges and interest shall also become, from the time the taxes are due and payable, a
+14 debt to the state of Rhode Island from the person or corporation liable for the payment of the taxes.
+15 44-23-16. Time taxes due — Interest and additions to tax on delinquent payments.
+16 All taxes imposed by chapter 22 of this title, unless provided, are due and payable nine (9)
+17 months after the date of death of the decedent. If the taxes are not paid within nine (9) months from
+18 the date of death, interest shall be charged and collected at the annual rate provided by § 44-1-7
+19 from the time the tax is due, determined without regard to any extension of time for payment. In
+20 addition, if the taxes are not paid when due (determined with regard to any extension of time for
+21 payment), there is added to the amount of tax due five-tenths percent (0.5%) of the tax per month
+22 to a maximum of twenty-five percent (25%) unless it is shown that the failure to pay is due to
+23 reasonable cause and not due to willful neglect.
+24 44-23-16.1. Interest on overpayments.
+25 If it is determined that any overpayment has been made with respect to taxes imposed by
+26 chapter 22 of this title, the amount of the overpayment bears interest at the annual rate established
+27 by § 44-1-7.1. The acceptance of the check shall be without prejudice to any right of the taxpayer
+28 to claim any additional overpayment and interest.
+29 44-23-17. Suspension of tax payment pending claim against estate.
+30 Whenever it is necessary in the settlement of any estate to retain property or funds for the
+31 purpose of paying the claim of any creditor, the amount or validity of which is contested and is not
+32 determined, the payment of the whole or a proportionate part of the tax may be suspended, by and
+33 with the approval of the tax administrator, to await the disposition of the claim.
+34 44-23-18. Extension of time for payment of additional estate tax.
+LC004811 - Page 11 of 21
+
+1 Whenever the tax administrator finds that the payment of the tax imposed by § 44-22-1.1
+2 causes undue hardship, the tax administrator may, in his or her discretion, with the approval of the
+3 attorney general and by agreement with the executor, administrator, or trustee, extend the time for
+4 payment of the whole or any part of the tax for a period not to exceed four (4) years from the date
+5 the tax is due and payable, and may provide for payment in installments. In that case the amount in
+6 respect of which the extension is granted shall be paid with or without interest, on or before the
+7 date of the expiration of the period of the extension.
+8 44-23-19 — 44-23-22. Repealed.
+9 44-23-23. Sale of property to pay tax.
+10 Every executor, administrator, or trustee has full power to sell, upon application to the
+11 probate court, so much of the property of the decedent as will enable him or her to pay any tax
+12 imposed by chapter 22 of this title in the manner he or she might be entitled by law to do for the
+13 payment of the debts of the testator or intestate.
+14 44-23-24. Refusal to furnish information or obey subpoena.
+15 If any executor, administrator, heir-at-law, or trustee, probate clerk or other person neglects
+16 or refuses to file any statement as required by the provisions of this chapter, or to furnish any other
+17 information required by this chapter, or neglects or refuses to comply with any subpoena issued
+18 under the authority of § 44-23-5, the tax administrator may apply to the sixth (6th) division of the
+19 district court, upon proof by affidavit of the neglect or refusal, for an order returnable in not less
+20 than two (2) nor more than five (5) days, directing the person charged in the affidavit with the
+21 neglect or refusal to show cause before the judge who made the order, or any other judge of the
+22 court, why the person should not be adjudged in contempt. Upon the return of the order, the judge
+23 before whom the matter is brought for a hearing shall examine the person under oath, and the person
+24 shall be given an opportunity to be heard. If the judge determines that the person has without
+25 reasonable cause been guilty of the neglect or refusal complained of, the judge may immediately
+26 commit the offender to the adult correctional institutions, to remain there until the offender submits
+27 to file the statement required or to furnish the information required, or to obey the subpoena, as the
+28 case may be, or is discharged according to law, or the judge may make any other order in the
+29 premises that the circumstances of the case may seem to the judge to require, and may from time
+30 to time alter, amend or suspend any order entered by the judge under this section. Notwithstanding
+31 anything contained in this section or in § 44-23-5, whenever any executor, administrator, heir-at-
+32 law, trustee, or other person liable for any tax imposed under the provisions of chapter 22 of this
+33 title, refuses or neglects to furnish any information which in the opinion of the tax administrator is
+34 necessary for the proper computation of the taxes payable under that chapter, after having been
+LC004811 - Page 12 of 21
+
+1 requested so to do, the tax administrator may in his or her discretion assess and collect the taxes at
+2 the highest rate at which they could in any event be computed. A party aggrieved by an order of
+3 the court may appeal the order to the supreme court in accordance with the procedures contained
+4 in the rules of appellate procedure of the supreme court.
+5 44-23-25. Settlement of taxes due.
+6 The tax administrator, with the approval of the attorney general, may effect a settlement of
+7 the amount of any taxes imposed by chapter 22 of this title as they deem to be for the best interests
+8 of the state, and the payment of amount agreed upon is a full satisfaction of the taxes; provided,
+9 that the settlement and assessment are made only with the consent of the executor of the will or the
+10 trustee under the other instrument, or, in the case of a transfer by will of real estate, of the persons
+11 entitled to the real estate, or, if the real estate passes to a trustee for those persons, then of the
+12 trustee. The settlement, in accordance with the provisions of this section, of a tax upon any transfer
+13 of property subject to a power of appointment, if the agreement of settlement provides, precludes
+14 the assessment under this chapter or under any act hereafter passed of any further tax, with respect
+15 to the right to transfer, upon or with respect to the transfer of any property at the time subject to the
+16 power, as a part of the estate of the donee of the power. The agreement is binding upon all persons
+17 taking property subject to the tax, except for fraud or manifest error; and executors and trustees are
+18 expressly authorized to enter into an agreement unless a contrary intention appears in the instrument
+19 defining their powers.
+20 44-23-26. Adjustment of clerical or palpable errors.
+21 Whenever a clerical or palpable error or mistake has been made in any statement filed with
+22 the tax administrator under the provisions of this chapter concerning any matter of information, or
+23 in entering amounts or figures, the tax administrator may assess an additional tax and receive and
+24 collect the tax. In the event that the error or mistake has resulted in an over assessment, and in case
+25 the tax has already been paid to the tax administrator the general treasurer shall, upon certification
+26 by the tax administrator and with the approval of the controller, refund any overpayment to the
+27 executor, administrator, heir-at-law, or trustee, or to the person by whom the tax was paid, without
+28 any further act or resolution making appropriation for the refund; provided, that not more than four
+29 (4) years have elapsed from the payment of the tax.
+30 44-23-27. Conflict of laws as to domicile — Definition of terms.
+31 When used in §§ 44-23-27 — 44-23-32 the following terms have the following meanings:
+32 (1) “Death tax” means any tax levied by a state on account of the transfer or shifting of
+33 economic benefits in property at death, or in contemplation of death, or intended to take effect in
+34 possession or enjoyment at or after death, whether denominated an “inheritance tax,” “transfer tax,”
+LC004811 - Page 13 of 21
+
+1 “succession tax,” “estate tax,” “death duty,” “death dues,” or otherwise;
+2 (2) “Executor” means any executor of the will or administrator of the estate of a decedent,
+3 except an ancillary administrator;
+4 (3) “Interested person” means any person who may be entitled to receive or who has
+5 received any property or interest which may be required to be considered in computing the death
+6 tax of any state involved;
+7 (4) “Taxing official” means the tax administrator in this state, and in any other reciprocal
+8 state the officer or body designated in the statute of the state substantially similar to §§ 44-23-27
+9 — 44-23-32.
+10 44-23-28. Election to invoke remedy as to conflict of laws.
+11 (a) In any case in which this state and one or more other states each claim that it was the
+12 domicile of a decedent at the time of his or her death, and no judicial determination of domicile for
+13 death tax purposes has been made in any of those states, any executor or the taxing official of any
+14 of those states, may elect to invoke the provisions of §§ 44-23-27 — 44-23-32. The election is
+15 evidenced by sending a notice by registered or certified mail, receipt requested, to the taxing
+16 officials of each of those states and to each executor, ancillary administrator and interested person.
+17 (b) Any executor may reject the election by sending a notice by registered or certified mail,
+18 receipt requested, to the taxing officials involved and to all other executors within forty (40) days
+19 after the receipt of the notice of election. If the election is rejected, no further proceedings shall be
+20 had under §§ 44-23-27 — 44-23-32. If the election is not rejected, the dispute as to the death taxes
+21 shall be determined solely as provided in this chapter, and no other proceedings to determine or
+22 assess the death taxes shall be instituted in the courts of this state or otherwise.
+23 44-23-29. Agreement as to amount due when domicile is in question — Adjustment
+24 for credits against federal tax.
+25 In any case in which an election is made as provided in § 44-23-28 and not rejected, the
+26 tax administrator may enter into a written agreement with the other taxing officials involved and
+27 with the executors, to accept a certain sum in full payment of any death tax, together with interest
+28 and penalties, that may be due this state; provided, that the agreement also fixes the amount to be
+29 paid the other state or states. If an agreement cannot be reached and the arbitration proceeding
+30 specified in § 44-23-30 is commenced, and thereafter an agreement is arrived at, a written
+31 agreement may be entered into at any time before the proceeding is concluded notwithstanding the
+32 commencement of the proceeding. Upon the filing of the agreement or duplicate of it with the
+33 authority which would have jurisdiction to assess the death tax of this state if the decedent died
+34 domiciled in this state, an assessment shall be made as provided in the agreement. The assessment,
+LC004811 - Page 14 of 21
+
+1 except as hereinafter provided, shall finally and conclusively fix and determine the amount of death
+2 tax due this state. In the event that the aggregate amount payable under the agreement to the states
+3 involved is less than the maximum credit allowable to the estate against the United States estate tax
+4 imposed with respect to the tax, the executor shall also immediately pay to the taxing administrator
+5 that percentage of the difference between the aggregate amount and the amount of the credit, which
+6 the amount payable to the taxing administrator under the agreement bears to the aggregate amount.
+7 44-23-30. Interstate arbitration as to domicile.
+8 If in any case it appears that an agreement cannot be reached as provided in § 44-23-29, or
+9 if one year has elapsed from the date of the election without an agreement having been reached, the
+10 domicile of the decedent at the time of his or her death shall be determined solely for death tax
+11 purposes as follows:
+12 (1) Where only this state and one other state are involved, the taxing administrator and the
+13 taxing official of the other state shall each appoint a member of a board of arbitration, and the
+14 appointed members shall select the third member of the board. If this state and more than one other
+15 state are involved, the taxing officials of the states shall agree upon the authorities charged with the
+16 duty of administering death tax laws in three (3) states not involved, each of which authorities shall
+17 appoint a member of the board. The members of the board shall elect one of their number as
+18 chairperson.
+19 (2) The board shall hold hearings at those places as are deemed necessary, upon reasonable
+20 notice to the executors, ancillary administrators, all other interested persons, and the taxing officials
+21 of the states involved, all of whom are entitled to be heard.
+22 (3) The board has the power to administer oaths, take testimony, subpoena and require the
+23 attendance of witnesses and the production of books, papers and documents and issue commissions
+24 to take testimony. Subpoenas may be issued by any member of the board. Failure to obey a
+25 subpoena may be punished by a judge or justice of any court of record in the same manner as if the
+26 subpoena had been issued by the judge or justice or by the court in which the judge or justice
+27 functions.
+28 (4) The board shall apply, whenever practicable, the rules of evidence which prevail in
+29 federal courts under the federal rules of civil procedure at the time of hearing.
+30 (5) The board shall, by majority vote, determine the domicile of the decedent at the time of
+31 his or her death. The determination is final and conclusive, and binds this state and all its judicial
+32 and administrative officials on all questions concerning the domicile of the decedent for death tax
+33 purposes.
+34 (6) The reasonable compensation and expenses of the members of the board and employees
+LC004811 - Page 15 of 21
+
+1 of the board shall be agreed upon among the members, the taxing officials of the states involved,
+2 and the executors. In the event an agreement cannot be reached, the compensation and expenses
+3 shall be determined by the appropriate probate court of the state determined to be the domicile. The
+4 amount is borne by the estate and is deemed an administration expense.
+5 (7) The determination of the board and the record of its proceedings shall be filed with the
+6 authority having jurisdiction to assess the death tax in the state determined to be the domicile of
+7 the decedent and with the authorities which would have had jurisdiction to assess the death tax in
+8 each of the other states involved if the decedent had been found to be domiciled in that state.
+9 44-23-31. Interest on tax pending arbitration of domicile.
+10 In any case where it is determined by the board of arbitration referred to in § 44-23-30 that
+11 the decedent died domiciled in this state, penalties and interest for nonpayment of the tax, between
+12 the date of the election and the final determination of the board, shall not exceed, in the aggregate,
+13 four percent (4%) of the amount of the taxes per annum.
+14 44-23-32. Reciprocal laws required.
+15 The provisions of §§ 44-23-27 — 44-23-31 apply only to cases in which each of the states
+16 involved has in effect a law substantially similar to those sections.
+17 44-23-33. Appeals.
+18 Appeals from administrative orders or decisions made pursuant to any provisions of this
+19 chapter are to the sixth (6th) division district court pursuant to chapter 8 of title 8. The taxpayer’s
+20 right to appeal under this section is expressly made conditional upon prepayment of all taxes,
+21 interest, and penalties unless the taxpayer moves for and is granted an exemption from the
+22 prepayment requirements pursuant to § 8-8-26.
+23 44-23-34. Permit required for transfer of securities of resident decedent.
+24 No banking association organized under the laws of the United States and located within
+25 this state, no corporation incorporated within this state, and no incorporated association or joint
+26 stock company or business trust having certificates representing shares of stock and carrying on
+27 business in this state, shall record a transfer of its stock made by any executor, administrator, or
+28 trustee of a resident decedent or issue a new certificate for any share of its stock at the instance of
+29 the executor, administrator, or trustee, until a permit authorizing the transfer is issued by the tax
+30 administrator and filed with the corporation, association, company or trust. Any corporation,
+31 association, company, or trust making a transfer before a permit authorizing the transfer is issued
+32 is liable for the amount of any tax which may be assessed on account of the bequest or gift of the
+33 stock, bond or other evidence of indebtedness, together with its interest, to be collected in an action
+34 brought in the name of the tax administrator.
+LC004811 - Page 16 of 21
+
+1 44-23-35. Statement required as to delivery of decedent’s property to other than
+2 administrator.
+3 No person having in possession or under control of property forming a part of the estate of
+4 a resident decedent, as provided in this chapter, may deliver or transfer the property to any person
+5 other than the executor, administrator, or trustee of the decedent unless the person making delivery
+6 or transfer of the property immediately furnishes the tax administrator with a statement under oath
+7 describing the property delivered or transferred together with the name of the person to whom the
+8 property is delivered or transferred; provided, that any insurance company engaging in the business
+9 of writing contracts of insurance in the state notifies the tax administrator of the amount of any
+10 payment or payments made, or to be made to any person or persons under any insurance contract,
+11 as a result of the death of a Rhode Island resident, whenever the total amount of payment or
+12 payments made or to be made to the person or persons exceeds fifty thousand dollars ($50,000);
+13 and provided, that banks and other institutions having deposits standing in the joint names of two
+14 (2) or more persons, or standing in the joint names of two (2) or more persons and payable to either
+15 or the survivor or survivors, are not required to furnish the statement with respect to deposits of
+16 one thousand dollars ($1,000) or less. In the case of deposits of over one thousand dollars ($1,000),
+17 the bank or other institution, having knowledge of the decease of one of the persons in whose names
+18 the deposit stands, or upon request of the tax administrator, shall, in lieu of the statement furnish a
+19 certificate showing the amount of each deposit together with the names of the persons in whose
+20 names the deposit stands. Any person who makes delivery or transfer without furnishing a
+21 statement is liable for the amount of any tax which may be assessed on account of the transfer of
+22 the property, together with its interest, to be collected in an action brought in the name of the tax
+23 administrator.
+24 44-23-36. Payment of tax as prerequisite for allowance of final account.
+25 The final account of an executor, administrator, or trustee shall not be allowed by the court
+26 having jurisdiction of the estate unless the account shows, and the court finds, that all taxes imposed
+27 under the provisions of chapter 22 of this title upon any property or interest in property belonging
+28 to the estate to be settled by the account and then payable have been paid, that the payment of the
+29 taxes has been extended, or that the property or any interest in property is not liable for any tax
+30 imposed under chapter 22 of this title. The receipt of the tax administrator for the amount of the tax
+31 is conclusive as to the payment of the tax to the extent of the receipt, and the certification of the tax
+32 administrator that an estate, property, or interest is not liable for any tax imposed by chapter 22 of
+33 this title is conclusive of that fact.
+34 44-23-37. Applicability of enforcement provisions.
+LC004811 - Page 17 of 21
+
+1 Sections 44-23-1 — 44-23-8, 44-23-17, 44-23-23, 44-23-24, and 44-23-33 — 44-23-36
+2 apply to the tax imposed under the provisions of § 44-22-1 or 44-22-1.1, whichever is in effect at
+3 the time.
+4 44-23-38. Termination of lien.
+5 Any other provision of this or chapter 22 of this title to the contrary notwithstanding, a lien
+6 created by those chapters ceases to be a lien upon or enforceable against real estate upon the
+7 expiration of a period of ten (10) years from and after the death of the person whose act, failure to
+8 act, or death gave rise to the lien, regardless of the date of death.
+9 44-23-39. Proof of payment of domiciliary tax by administrator of nonresident.
+10 At any time before the expiration of eighteen (18) months after the appointment in any
+11 probate court of this state of an executor of the will, or administrator of the estate of, any
+12 nonresident decedent, the executor or administrator shall file with the probate court proof that all
+13 death taxes, together with interest, or penalties attached to or in connection with the death taxes,
+14 which are due to the state of domicile of the decedent, or to any of its political subdivisions, have
+15 been paid or secured, or that no taxes, interest, or penalties are due, as the case may be; provided,
+16 that the filing of the proof is not required if it appears that letters testamentary have been issued in
+17 the state of domicile. The proof may be in the form of a certificate issued by the official or body
+18 charged with the administration of the death tax laws of the state of domicile.
+19 44-23-40. Information furnished to foreign tax officials.
+20 If the proof is not filed with a probate court in this state as provided by § 44-23-39, the
+21 clerk of the probate court shall immediately notify by mail the official or body of the state of
+22 domicile charged with the administration of the death tax laws of that state with respect to the
+23 estate, and shall present in the notification, so far as is known to the clerk: (1) the name, date of
+24 death and last domicile of the decedent; (2) the name and address of the executor or administrator;
+25 (3) a summary of the values of the real estate, tangible personalty, and intangible personalty,
+26 wherever situated, belonging to the decedent at the time of his or her death; and (4) the fact that the
+27 executor or administrator has not previously filed the proof required by § 44-23-39. The clerk shall
+28 also attach to the notification a copy of the will of the decedent, if the decedent died testate, or if
+29 the decedent died intestate, a list of his or her heirs and next of kin, so far as is known to the clerk.
+30 For each copy of the notice, the probate clerk furnishing the information shall be paid out of any
+31 money appropriated for expenses of tax administration the fees provided in § 44-23-7.
+32 44-23-41. Accounting on petition by foreign tax official.
+33 Within sixty (60) days after the mailing of the notice, the official or body charged with the
+34 administration of the death tax laws of the state of domicile may file with the probate court in this
+LC004811 - Page 18 of 21
+
+1 state a petition for an accounting in the estate. The official or body of the state of domicile is, for
+2 the purposes of this chapter, a party in interest for the purpose of petitioning the probate court for
+3 the accounting. If the petition is filed within the period of sixty (60) days, the probate court shall
+4 decree the accounting, and upon the accounting being filed and approved shall decree the remission
+5 to the fiduciary appointed by the probate court of the state of domicile of the balance of the
+6 intangible personal property after the payment of creditors and expenses of administration in this
+7 state.
+8 44-23-42. Noncompliance by administrator of nonresident — “State” defined.
+9 Failure to comply with any of the provisions of §§ 44-23-39 — 44-23-41 bars any executor
+10 or administrator from the right to a final accounting or discharge in any probate court in this state.
+11 The word “state” for the purposes of §§ 44-23-39 — 44-23-41 includes any territory of the United
+12 States, the District of Columbia, and any foreign country.
+13 44-23-43. Reciprocal laws required — Liberal construction — Remission of
+14 intangible property.
+15 The provisions of §§ 44-23-39 — 44-23-42 apply to the estate of a nonresident decedent
+16 whenever the laws of the state of domicile of the decedents contain a provision, of any nature or
+17 however expressed, where this state is given reasonable assurance of the collection of its death
+18 taxes, interest and penalties, from the estates of decedents dying domiciled in this state but whose
+19 estates are being administered by a court having probate jurisdiction in the other state; or whenever
+20 the state of domicile does not grant letters testamentary or of administration in nonresident estates
+21 until after the letters have been issued by the state of domicile. The provisions are liberally
+22 construed in order to ensure that the state of domicile of any decedent receives any death taxes,
+23 which may be due it, together with interest and penalties. Nothing in those sections shall be
+24 construed to prevent a probate court from ordering the remission of any intangible personal
+25 property belonging to a nonresident decedent whose estate is being administered in this state, and
+26 the probate court is authorized to order the remission whenever good cause is shown.
+27 44-23-44. Exercise of statutory power.
+28 Whenever in this chapter or chapter 22 of this title any reference is made to any power or
+29 duty of the tax administrator, the reference shall be construed to mean that the power or duty is
+30 exercised by the tax administrator or by his or her authorized agent, under the supervision and
+31 direction of the director of revenue. Whenever in this chapter or chapter 22 of this title any reference
+32 is made to any power or duty of the controller, the reference shall be construed to mean that the
+33 power or duty is exercised by the controller or by his or her authorized agent, under the supervision
+34 and direction of the director of revenue.
+LC004811 - Page 19 of 21
+
+1 44-23-45. Liberal construction — Incidental powers.
+2 The provisions of this chapter and chapter 22 of this title shall be interpreted and construed
+3 liberally in order to accomplish the purpose of those chapters, and the tax administrator has, in
+4 addition to the powers in those chapters specified, mentioned and indicated, all additional implied
+5 and incidental powers which may be proper and necessary to effect and carry out, perform and
+6 execute all the powers specified, mentioned and indicated in those chapters.
+7 44-23-46. Severability.
+8 If any clause, sentence, paragraph, section, or part of this chapter and chapter 22 of this
+9 title is for any reason adjudged by any court of competent jurisdiction to be invalid, that judgment
+10 does not affect, impair or invalidate any other portion of those chapters which can be given
+11 reasonable effect without the part adjudged invalid.
+12 SECTION 3. This act shall take effect upon passage.
+========
+LC004811
+========
+LC004811 - Page 20 of 21
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- ESTATE AND TRANSFER TAXES -- LIABILITY AND
+COMPUTATION
+***
+1 This act would eliminate the estate tax in Rhode Island.
+2 This act would take effect upon passage.
+========
+LC004811
+========
+LC004811 - Page 21 of 21

@@ -1,0 +1,163 @@
+Title: 
+Official Title: 
+Source: versions - 8168
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8168
+========
+LC005722
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO LIBRARIES -- STATE AID TO LIBRARIES
+Introduced By: Representatives Cortvriend, Finkelman, Kislak, Edwards, McGaw, and
+Morales
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings and purpose.
+2 The general assembly hereby finds and declares that:
+3 (1) The State of Rhode Island recognizes that public libraries are essential civic institutions
+4 that provide free and equitable access to information, literacy resources, educational opportunities,
+5 technology, and cultural enrichment for residents of all ages;
+6 (2) Rhode Island’s public libraries play a critical role in supporting early childhood literacy,
+7 K–12 student achievement, higher education, and lifelong learning, thereby advancing the
+8 educational and economic well-being of the state;
+9 (3) Many public library buildings and facilities within the state are aging, undersized, or
+10 otherwise inadequate to meet current and emerging community needs, including the demand for
+11 digital access, collaborative learning spaces, quiet study areas, and flexible community
+12 programming;
+13 (4) Numerous library facilities require construction, renovation, or modernization in order
+14 to comply with current health, safety, and accessibility standards, including requirements under the
+15 Americans with Disabilities Act (the “ADA”), and to ensure that all residents of the state, including
+16 individuals with disabilities and older adults, can safely and fully utilize library services;
+17 (5) Investment in the construction, renovation, and modernization of public library
+18 facilities promotes local economic development, supports small businesses and workforce
+19 development programs, creates construction and related jobs, and enhances the quality of life in
+
+1 communities throughout the state;
+2 (6) Energy efficient, resilient, and technologically up-to-+date library buildings reduce
+3 operating costs for municipalities, advance the state’s environmental and resilience goals, and
+4 ensure continuity of essential community services during emergencies;
+5 (7) Modern, well equipped public libraries serve as vital community hubs that support civic
+6 engagement, public meetings, community partnerships, access to government information, and
+7 emergency response and recovery efforts;
+8 (8) Rhode Island state Regulations for Library Construction Reimbursement were
+9 promulgated in 2018 (the “2018 regulations”) and refiled without change on January 4, 2022;
+10 (9) The 2018 regulations provide for fifty percent (50%) reimbursement of expenditures
+11 for eligible projects subject to reimbursement caps that were established in 2018;
+12 (10) Publicly available data reflect that, between 2019 and 2025 the Boston Consumer
+13 Price Index (a commonly used measure of inflation for the region) has increased between 1.1% and
+14 7.1% annually, resulting in a total cumulative inflationary increase of 23.4% over that period;
+15 (11) Due to this sustained inflation, library projects can no longer be feasibly undertaken
+16 within the reimbursement caps set forth in the 2018 regulations; and
+17 (12) The general assembly finds that it is in the public interest to increase, by statute, the
+18 reimbursement caps established in the 2018 regulations on an interim basis, pending promulgation
+19 of amended regulations.
+20 SECTION 2. Section 29-6-6 of the General Laws in Chapter 29-6 entitled "State Aid to
+21 Libraries" is hereby amended to read as follows:
+22 29-6-6. Construction and capital improvements.
+23 The office of library and information services may cause to be paid to a city or town
+24 treasurer, or to any free public library in the state, a grant-in-aid for the construction and capital
+25 improvement of any free public library as the chief of library services may determine is necessary
+26 and desirable to provide better free library services to the public, which shall be paid in accordance
+27 with the following provisions:
+28 (1) No grant-in-aid shall be made unless the city or town receiving the grant-in-aid shall
+29 cause to be appropriated for the same purpose an amount from its own funds and not from any
+30 federal grant or other federal financial assistance equal to, or more than, the state grant-in-aid, or
+31 unless funds from private sources are dedicated for the same purpose in an amount equal to, or
+32 more than, the state grant-in-aid, or unless the total of the city or town appropriation and the funds
+33 from private sources for the same purpose is equal to, or more than, the state grant-in-aid.
+34 (2) The state grant-in-aid may be paid in installments over a period of years up to a
+LC005722 - Page 2 of 5
+
+1 maximum of twenty (20) years, beginning in the fiscal year during which the project is accepted
+2 by the office of library and information services. Whenever a grant-in-aid is paid on the installment
+3 basis permitted herein, there shall be included in the state grant-in-aid the interest cost actually
+4 incurred by the city or town, or any free public library, as a result of its having to borrow the state’s
+5 portion of the total cost of the library project. The amount of this interest cost shall be computed
+6 on the actual interest cost paid by the city or town, or free public library, less any applicable accrued
+7 interest, premiums, which are not applied to project costs, and profits from investments, over the
+8 period of time elapsing between the date borrowed funds are made available and the date of the last
+9 installment payment of the state grant-in-aid. Interest cost incurred by the city or town, or any free
+10 public library, as a result of having to borrow its portion of the total cost of the library project shall
+11 not be considered a part of the total cost of the project for the purposes of matching provided for in
+12 subdivision (1) of this section. Nothing contained herein shall prohibit the office of library and
+13 information services from accelerating the schedule of annual installments, or from paying the
+14 balance due of the state’s grant-in-aid in a lump sum; provided, however, that the state grant-in-aid
+15 in any fiscal year shall include no less than one-twentieth (⅟₂₀) of the state’s total reimbursable
+16 principal obligations.
+17 (3) Notwithstanding the provisions of the state regulations for library construction
+18 reimbursement promulgated in 2018 (the “2018 regulations”), which regulations were filed without
+19 change on January 4, 2022, the reimbursement caps for eligible project costs incurred during the
+20 period commencing June 30, 2025 and ending on June 30, 2031, or ending on such earlier date as
+21 the office of library information services promulgates amendments to the 2018 regulations which
+22 increase reimbursement caps to amounts above those amounts set forth in this subsection for the
+23 effective period shall be as follows:
+24 (i) Construction costs are eligible for fifty percent (50%) reimbursement of expenditures
+25 up to the amount of three hundred seventy dollars and twenty cents ($370.20) per square foot for
+26 new construction or three hundred and eight dollars and fifty cents ($308.50) per square foot for
+27 renovation and remodeling. If the actual construction costs exceed one or both of these amounts
+28 per square foot, the state share shall be based on the not-to-exceeded amounts. Cost per square foot
+29 shall be determined by the cost of contracts for new construction and/or contracts for expansion,
+30 remodeling and alteration of existing buildings.
+31 (ii) Site costs, including demolition, sitework, the acquisition of a site or building, site
+32 improvement and parking lots, are reimbursable up to the lesser amount of one million two hundred
+33 thirty-four thousand dollars ($1,234,000) or ten percent (10%) of the total project cost less the site
+34 costs.
+LC005722 - Page 3 of 5
+
+1 (iii) The total amount of reimbursement for any project shall not exceed twelve million
+2 three hundred forty thousand dollars ($12,340,000).
+3 (iv) Allowable costs include financing leases, but not operating leases, of library facilities,
+4 including land acquisition, construction, renovation, expansion, landscaping, parking facilities,
+5 fixtures, furnishings and equipment, fire suppression systems, and expenses related to meeting a
+6 high performance green building standard such as, but not limited to, the Leadership in Energy and
+7 Environmental Design (“LEED”) standard. Any library or municipality that finances or refinances
+8 a project with bonds, notes, financing leases, or other evidences of indebtedness shall not require
+9 pre-approval from the office of library services, but shall file the financing or refinancing
+10 documents with the office of library services after the financing transaction is complete.
+11 (4) Notwithstanding any provision of law or agreement to the contrary, the increases in the
+12 caps on state grant-in-aid reimbursement for construction or capital improvement projects pursuant
+13 to the provisions of this subsection shall apply retroactively to all eligible project costs incurred on
+14 or after July 1, 2025, whether the costs are subject to reimbursement under agreements executed
+15 before, on, or after June 1, 2025. All reimbursement agreements for construction or capital
+16 improvement projects executed by the office of library and information services shall be deemed
+17 amended by operation of law to incorporate the increased caps with respect to eligible project costs
+18 incurred during the effective period, and the office of library and information services is authorized
+19 and directed to adjust reimbursement payments accordingly, subject to the availability of
+20 appropriated funds. Any maximum dollar amount, percentage, or other cap on state grant-in-aid
+21 reimbursement for construction or capital improvement projects established under, this subsection
+22 shall automatically increase by three percent (3%) on July 1 of each year, beginning July 1, 2027.
+23 SECTION 3. This act shall take effect upon passage.
+========
+LC005722
+========
+LC005722 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LIBRARIES -- STATE AID TO LIBRARIES
+***
+1 This act would increase on an interim basis, by statute, the reimbursement caps established
+2 in the state’s Regulations for Library Construction Reimbursement promulgated in 2018, pending
+3 promulgation of amended regulations. The increased caps would apply to eligible costs for library
+4 projects incurred during the period commencing June 30, 2025 and ending on June 30, 2031, or
+5 ending on such earlier date as the Office of Library Information Services promulgates amendments
+6 to the regulations which increase reimbursement caps to amounts above those amounts set forth in
+7 this act. The amendments made by this act would apply retroactively to all eligible project costs
+8 incurred during the effective period, whether such costs are subject to reimbursement under
+9 agreements executed before, on, or after June 1, 2025.
+10 This act would take effect upon passage.
+========
+LC005722
+========
+LC005722 - Page 5 of 5

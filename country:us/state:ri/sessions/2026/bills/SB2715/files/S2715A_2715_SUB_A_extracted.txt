@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - 2715  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2715 SUBSTITUTE A
+========
+LC005209/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- FRAUD AND FALSE DEALING
+Introduced By: Senators Lawson, Ciccone, Tikoian, Britto, Burke, Bissaillon, Felag,
+LaMountain, Murray, and McKenney
+Date Introduced: February 27, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 11-18 of the General Laws entitled "Fraud and False Dealing" is
+2 hereby amended by adding thereto the following sections:
+3 11-18-35. Real estate title fraud -- Suspicious documents and instruments.
+4 (a) For the purpose of this section, the following definitions shall apply:
+5 (1) “Document” means information inscribed on a tangible medium or stored in an
+6 electronic or other medium and retrievable in perceivable form.
+7 (2) “Instrument” means a deed, to secure debt, security deed, mortgage, security interest,
+8 deed of trust, promissory note, or any other document representing a security interest or lien upon
+9 any interest property including the renewal, modification, or refinancing of any such loan.
+10 (3) "Pattern of real estate title fraud" means one or more violations of subsection (d) of this
+11 section and that have the same or similar interests, results, accomplices or methods of commission
+12 or otherwise results from comparable actions or omissions.
+13 (4) “Person” means an individual, corporation, company, limited liability company,
+14 partnership, trustee, association, or any other entity.
+15 (5) “Sufficient documentation” means a driver’s license, passport, military identification
+16 card, an attorney registration or bar association identification card, or other government issued
+17 identification that established positive identification.
+18 (6) “Suspicious document” means a document submitted for recording for which the
+19 recorder has found any one of the following:
+
+1 (i) The name or commission information of a notarial officer who has purported to
+2 acknowledge or verify the document does not match official records;
+3 (ii) The document purports not to be subject to the laws of the United States or this state;
+4 (iii) The document does not conform to recording standards established by other laws of
+5 this state, including chapter 30.1 of title 42; or
+6 (iv) The document has not been submitted for recording by a trusted submitter or an
+7 authorized representative of a trusted submitter and the document is materially false, fictitious, or
+8 fraudulent.
+9 (7) “Trusted submitter” means:
+10 (i) A title insurer, title company or title agent or escrow agent as defined by chapter 2.6 of
+11 title 27;
+12 (ii) An attorney licensed to practice in this state; and
+13 (iii) A regulated financial institution as defined by § 19-1-1.
+14 (8) “Victim” means a person who experienced personal loss including, but not limited to,
+15 monetary loss, due to violation of this section.
+16 (b) On and after September 1, 2027, no municipality shall authorize or accept for filing any
+17 real estate deed, mortgage, or other instrument by electronic filing from a remote location unless
+18 the filing is accompanied with sufficient documentation to identify the individual making the filing
+19 or the document is being submitted by a trusted submitter. In addition, a municipal recorder may:
+20 (1) Temporarily delay a suspicious document, unless a court of competent jurisdiction finds
+21 that the recorder’s finding that the document is a suspicious document is erroneous;
+22 (2) Report a suspicious document to any appropriate law enforcement agency; or
+23 (3) Notify a notarial officer who has purported to acknowledge or verify a suspicious
+24 document of the reason for the recorder’s finding that the document is a suspicious document.
+25 (c) Any filing in violation of the provisions of subsection (b) of this section shall be
+26 voidable upon a finding by a court of competent jurisdiction. Nothing in this section shall be
+27 construed to apply to an in person filing of a deed in the appropriate municipal department or office.
+28 (d) A person commits real estate title fraud when such person, with intent to defraud:
+29 (1) Knowingly offers for recording or records any real estate deed in which the transferor’s
+30 signature is forged:
+31 (2) Knowingly offers for recording or records a fraudulently created instrument or title to
+32 the real estate;
+33 (3) Knowingly offers for recording or records a fraudulent mortgage, lien or instrument
+34 claiming an interest in real estate for either themself or another person or entity;
+LC005209/SUB A - Page 2 of 6
+
+1 (4) Knowingly falsely encumbering the real estate of another; or
+2 (5) Knowingly attempts or transfers an interest, encumbrance, lien or mortgage in the
+3 property of a third party by means of a known forgery or false document or instrument.
+4 (e) In an action authorized by this subsection, an injured person is entitled to appropriate
+5 declaratory or injunctive relief against the document submitter, and not the recorder acting in good
+6 faith. A recorder shall not be liable for damages or any other claim for monetary relief in an action
+7 brought under this subsection.
+8 (f) Any person violating the provisions of subsection (d) of this section shall for a first
+9 offense be guilty of a felony and be subject to imprisonment for not more than ten (10) years, and
+10 a fine of not more than fifty thousand dollars ($50,000), or both. A person violating the provisions
+11 of subsection (d) of this section by a pattern of real estate title fraud shall be guilty of a felony and
+12 be subject to imprisonment for not more than twenty (20) years, and a fine of not more than one
+13 hundred thousand dollars ($100,000), or both, and/or an order of restitution to any victim.
+14 (g) Any owner of real estate who is a victim of a person violating the provisions of
+15 subsection (d) of this section, in addition to any other remedy that may be available at law or equity,
+16 may bring an action against an individual who has knowingly filed, entered, or recorded, or caused
+17 to be filed, entered, or recorded, in any public record a false or forged deed or other instrument
+18 purporting to convey the owner’s interest to such real property to such individual or a third party
+19 or purporting to encumber the owners interest in such real property to:
+20 (1) Recover the owner’s actual damages caused by the filing, entering, or recording of such
+21 false or forged deed or other instrument or five thousand dollars ($5,000), whichever is greater; and
+22 (2) Recover the owner’s costs incurred in bringing such action, including reasonable
+23 attorneys' fees.
+24 (h) Nothing in this section shall be construed as creating a cause of action against any
+25 public official or employee, including without limitation, a municipal clerk or any employee or
+26 agent of a clerk of a municipality for actions taken good faith on this section or on information
+27 provided by a third-party system or vendor in the performance of the clerk’s duties.
+28 11-18-36. Property alert notifications – Property owners.
+29 (a) Not later than January 1, 2028, each municipality shall establish a property alert
+30 notification system that allows a person to enroll real property owned by the person in the system.
+31 (b) A property alert notification system established under this section shall:
+32 (1) Notify the enrolled owner within ten (10) business days of the recording of any
+33 document describing, affecting, or purporting to affect the enrolled property; and
+34 (2) In the notification required by subsection (a) of this section identify the nature of the
+LC005209/SUB A - Page 3 of 6
+
+1 document recorded, identify the subject property by address or tax identification number, and
+2 provide the recording information of the document.
+3 (c) A property owner may elect to receive any notification provided under this section by
+4 mail, text message, call, or email.
+5 (d) There shall be no charge to a property owner for enrolling in the property alert
+6 notification system required by this section.
+7 (e) A municipality may by mail notification, website notification, newspaper
+8 advertisement, or other media provide property owners with:
+9 (1) Educational information on deed fraud; and
+10 (2) Information about the property alert notification system established under this section.
+11 (f)(1) A municipality may index or by other means create a searchable log that includes the
+12 following information for each document recorded in the land records:
+13 (i) Information identifying real property described in or purported to be affected by the
+14 document;
+15 (ii) The name and commission number, if applicable, of any notarial officer described in
+16 or identified in the document, along with commissioning jurisdiction of such officer; or
+17 (iii) The name of the person that submitted the document for recording;
+18 (2) A recorder shall not be liable for any violation of subsections (e) and (f) of this section.
+19 (g) An index or log created under subsection (f) of this section may be made available for
+20 public search and examination in the same manner as any other index for the land records required
+21 by other law of this state.
+22 (h) A municipality shall not be liable for a violation of this section. No person shall have a
+23 right or cause of action and a municipality shall not be liable with respect to the establishment,
+24 maintenance, or operation of a property alert notification system required by this section.
+25 SECTION 2. Section 42-30.1-7 of the General Laws in Chapter 42-30.1 entitled "Uniform
+26 Law on Notarial Acts" is hereby amended to read as follows:
+27 42-30.1-7. Authority to refuse to perform notarial act.
+28 (a) A notarial officer may refuse to perform a notarial act if the notarial officer is not
+29 satisfied that:
+30 (1) The individual executing the record is competent or has the capacity to execute the
+31 record; or
+32 (2) The individual’s signature is knowingly and voluntarily made.
+33 (b) A notarial officer may refuse to perform a notarial act if an individual does not provide
+34 the notarial officer information sufficient to conduct identity proofing under § 42-30.1-6 or § 42-
+LC005209/SUB A - Page 4 of 6
+
+1 30.1-12.1 or if the individual does not consent to pay for identity proofing.
+2 (b)(c) A notarial officer may refuse to perform a notarial act unless refusal is prohibited by
+3 law other than this chapter.
+4 SECTION 3. This act shall take effect upon passage.
+========
+LC005209/SUB A
+========
+LC005209/SUB A - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- FRAUD AND FALSE DEALING
+***
+1 This act would establish the criminal offense of real estate title fraud. Additionally, this act
+2 would allow municipalities to refuse to record “suspicious documents” from persons who are not
+3 trusted submitters. The act would also create penalties for real estate title fraud.
+4 This act would take effect upon passage.
+========
+LC005209/SUB A
+========
+LC005209/SUB A - Page 6 of 6

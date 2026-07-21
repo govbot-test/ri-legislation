@@ -1,0 +1,228 @@
+Title: 
+Official Title: 
+Source: versions - 2655
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2655
+========
+LC004853
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- ELECTRIC TRANSMISSION
+SITING AND REGULATORY ACT
+Introduced By: Senators Britto, McKenney, Gu, DiMario, Bissaillon, and Urso
+Date Introduced: February 27, 2026
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 39-25-3 of the General Laws in Chapter 39-25 entitled "Electric
+2 Transmission Siting and Regulatory Act" is hereby amended to read as follows:
+3 39-25-3. Regulations on construction of high-voltage lines.
+4 The energy facility siting board established under § 42-98-5 is hereby authorized and
+5 directed to establish rules and regulations governing construction within the state of high-voltage
+6 transmission lines of sixty-nine (69) kV or greater, including the replacement, rebuild or expansion
+7 of existing transmission line infrastructure.
+8 SECTION 2. Chapter 39-1 of the General Laws entitled "Public Utilities Commission" is
+9 hereby amended by adding thereto the following section:
+10 39-1-64. Distribution or transmission company performance incentive and
+11 investigation.
+12 (a) To the extent authorized by federal law, for base rate proceedings and other proceedings
+13 in which a distribution or transmission company proposes capital improvements or additions to the
+14 distribution or transmission system, the distribution or transmission company shall conduct a cost-
+15 effectiveness and timetable analysis of multiple strategies including, but not limited to, the
+16 deployment of advanced conductors, grid-enhancing technologies, or energy storage used as a
+17 distribution or transmission resource.
+18 (b) Where advanced conductors, grid-enhancing technologies, or energy storage used as a
+
+1 distribution or transmission resource, whether in combination with or instead of capital
+2 investments, offer a more cost-effective strategy for achieving distribution or transmission goals
+3 including, but not limited to, distributed energy resource interconnection, grid reliability and
+4 enhanced cyber and physical security, the commission, to the extent permitted under federal law,
+5 shall approve the deployment of advanced conductors, grid-enhancing technologies or energy
+6 storage used as a distribution or transmission resource.
+7 (c) As part of a base rate filing or other filing in which a distribution or transmission
+8 company proposes capital improvements or additions to the distribution or transmission system,
+9 the distribution or transmission company may propose a performance incentive mechanism that
+10 provides a financial mechanism for the cost-effective deployment of advanced reconductoring,
+11 grid-enhancing technologies or energy storage used as a distribution or transmission resource.
+12 (d) Additionally, distribution companies filing infrastructure, safety, and reliability plans
+13 starting in fiscal year 2028 and thereafter shall investigate grid enhancing technology
+14 implementation in their plans as part of the solutions needed to achieve Rhode Island’s greenhouse
+15 gas emissions reduction mandates as established in chapter 6.2 of title 41 ("2021 act on climate"),
+16 and in order to improve grid performance, reliability and security for the state.
+17 (e)(1) The public utilities commission, in coordination with the office of energy resources,
+18 shall conduct an independent investigation that examines the use of advanced conductors and grid-
+19 enhancing technologies to enhance the performance of the state’s transmission system in
+20 applications that are subject to federal jurisdiction. Such advanced conductors and grid-enhancing
+21 technologies shall include, but shall not be limited to, reconductoring of transmission and
+22 distribution lines and the use of dynamic line ratings, advanced power flow control and topology
+23 optimization software.
+24 (2) In conducting its investigation, the commission shall:
+25 (i) Review industry trends for the implementation and use of advanced conductors and
+26 grid-enhancing technologies to determine which technologies are cost-effective and in the public
+27 interest and under what conditions those technologies could be utilized for transmission and
+28 distribution infrastructure within the state; and
+29 (ii) For any technologies determined to be cost effective and in the public interest, identify
+30 any jurisdictional and cost-sharing issues related to requiring a transmission and distribution utility
+31 to implement such technologies.
+32 (iii) Consider the costs of such technologies and consider their benefits including, but not
+33 limited to:
+34 (A) Access to lower cost and zero carbon electricity;
+LC004853 - Page 2 of 7
+
+1 (B) Acceleration of distributed energy resource interconnection;
+2 (C) Reduced generator curtailment or congestion;
+3 (D) Reduced environmental impacts;
+4 (E) Maximization of the value of planned investments;
+5 (F) Improved resilience; and
+6 (G) Improved outage coordination and mitigation.
+7 (3) The public utilities commission shall submit a report to the general assembly not later
+8 than September 1, 2027.
+9 (f) The public utilities commission may promulgate rules and regulations to implement the
+10 provisions of subsection (e) of this section.
+11 SECTION 3. Sections 42-98-3 and 42-98-8 of the General Laws in Chapter 42-98 entitled
+12 "Energy Facility Siting Act" are hereby amended to read as follows:
+13 42-98-3. Definitions.
+14 As used in this chapter:
+15 (a)(1) “Advanced conductor” means an electric conductor that has a direct current electrical
+16 resistance at least ten percent (10%) lower than existing conductors of a similar diameter on the
+17 system.
+18 (2) “Advanced power flow control” means hardware and/or software used to reroute
+19 electricity from overloaded transmission lines to underutilized transmission or distribution
+20 corridors by adjusting circuit impedance.
+21 (3) “Agency” means any agency, council, board, or commission of the state or political
+22 subdivision of the state.
+23 (b)(4) “Alteration” means a significant modification to a major energy facility, which, as
+24 determined by the board, will result in a significant impact on the environment, or the public health,
+25 safety, and welfare. Conversion from one type of fuel to another shall not be considered to be an
+26 “alteration.”
+27 (c)(5) “Board” for purposes of this chapter refers to the siting board.
+28 (d)(6) “Clean coal technology” means one of the technologies developed in the clean coal
+29 technology program of the United States Department of Energy, and shown to produce emissions
+30 levels substantially equal to those of natural gas fired power plants.
+31 (7) “Dynamic line rating” means hardware and/or software used to calculate the updated
+32 thermal limits of distribution or transmission lines using real-time and forecasted weather
+33 conditions.
+34 (8) “Energy storage as a distribution or transmission asset” means a resource capable of
+LC004853 - Page 3 of 7
+
+1 receiving energy from the transmission or distribution system and storing it for later injection of
+2 energy back into the transmission or distribution system.
+3 (9) "Grid-enhancing technology" means any hardware or software technology that enables
+4 enhanced or more efficient flow of electricity across the existing electric transmission and
+5 distribution system infrastructure and rights of way which includes, but is not limited to, dynamic
+6 line rating, advanced power flow control, reconductoring and rebuilding with advanced conductors,
+7 topology optimization and energy storage when used as a distribution or transmission asset.
+8 (e)(10) “Major energy facility” means facilities for the extraction, production, conversion,
+9 and processing of coal; facilities for the generation of electricity designed or capable of operating
+10 at a gross capacity of forty megawatts (40 MW) or more; transmission lines of sixty-nine (69) Kv
+11 or over; facilities for the conversion, gasification, treatment, transfer, or storage of liquefied natural
+12 and liquefied petroleum gases; facilities for the processing, enrichment, storage, or disposal of
+13 nuclear fuels or nuclear byproducts; facilities for the refining of oil, gas, or other petroleum
+14 products; facilities of ten megawatts (10 MW) or greater capacity for the generation of electricity
+15 by water power, and facilities associated with the transfer of oil, gas, and coal via pipeline; any
+16 energy facility project of the Rhode Island commerce corporation; the board may promulgate
+17 regulations to further define “major energy facility” to the extent further definition is required to
+18 carry out the purpose of this chapter, provided that any waste to energy facility shall not be deemed
+19 a major energy facility for the purposes of this chapter.
+20 (11) “Reconductoring” means the process of installing advanced conductors in place of the
+21 legacy conductors, including structure rehabilitation as needed.
+22 (12) “Topology optimization” means software that identifies reconfigurations of the
+23 transmission grid to reroute electricity from overloaded or congested lines to underutilized
+24 corridors.
+25 42-98-8. Applications — Contents — Acceptance for filing.
+26 (a) The rules and regulations promulgated by the board pursuant to § 42-98-7(c) shall
+27 prescribe the form and contents of applications under this chapter. The applications shall contain
+28 at least the following, where applicable:
+29 (1) Identification of the proposed owner(s) of the facility, including identification of all
+30 affiliates of the proposed owners, as the term is defined in § 39-3-27.
+31 (2) Detailed description of the proposed facility, including its function and operating
+32 characteristics, and complete plans as to all structures, including underground construction and
+33 transmission facilities, underground or aerial, associated with the proposed facility.
+34 The complete plans shall be the basis for determining jurisdiction under the energy facility
+LC004853 - Page 4 of 7
+
+1 siting act and shall be the plans submitted to all agencies whose permit is required under the law.
+2 (3) A detailed description and analysis of the impact of the proposed facility on its physical
+3 and social environment together with a detailed description of all environmental characteristics of
+4 the proposed site, and a summary of all studies prepared and relied upon in connection therewith.
+5 In considering and issuing a decision, the board shall consider the net-zero mandate of chapter 6.2
+6 of title 42 ("2021 act on climate"), and how the project may advance or delay the greenhouse gas
+7 emissions reductions set forth therein. The board may also consider other reasonably foreseeable
+8 climate change impacts, including other pollutant emissions known to have negative health
+9 impacts, predicted sea level rise, coastal and inland flooding, and other disproportionate adverse
+10 effects on a specific geographical area.
+11 Where applicable these descriptions and analysis shall include a review of current
+12 independent, scientific research pertaining to electric and magnetic fields (EMF). The review shall
+13 provide data assessing potential health risks associated with EMF exposure. For the purposes of
+14 this chapter “prudent avoidance” shall refer to measures to be implemented in order to protect the
+15 public from EMF exposure.
+16 (4) All studies and forecasts, complete with the information, data, methodology, and
+17 assumptions on which they are based, on which the applicant intends to rely in showing the need
+18 for the proposed facility under the statewide master construction plan submitted annually.
+19 (5) Complete detail as to the estimated construction cost of the proposed facility, the
+20 projected maintenance and operation costs, estimated costs to the community such as safety and
+21 public health issues, storm damage and power outages, estimated costs to businesses and
+22 homeowners due to power outages, the estimated unit cost of energy to be produced by the proposed
+23 facility, and expected methods of financing the facility.
+24 (6) A complete life-cycle management plan for the proposed facility, including measures
+25 for protecting the public health and safety and the environment during the facility’s operations,
+26 including plans for the handling and disposal of wastes from the facility, and plans for the
+27 decommissioning of the facility at the end of its useful life.
+28 (7) A study of alternatives to the proposed facility, including alternatives as to energy
+29 sources, methods of energy production, and sites for the facility, together with reasons for the
+30 applicant’s rejection of these alternatives. The study shall include estimates of facility cost and unit
+31 energy costs of alternatives considered. In the case of electric transmission infrastructure facilities
+32 and natural gas pipelines, applicants shall give due consideration to advanced conductors, grid-
+33 enhancing technologies, and non-wires or non-pipeline alternatives in order to avoid or minimize
+34 expenditures and/or maximize cost-effectiveness.
+LC004853 - Page 5 of 7
+
+1 (8) Applicants shall further indicate that for transmission line infrastructure, they have
+2 sufficiently considered routes that make use of existing rights of way in the state. The board may
+3 expedite the licensing process for transmission lines utilizing existing rights-of-way. If applicants
+4 do not intend to make use of existing rights-of-way, or did not consider them, they shall explain
+5 the reasoning of that decision.
+6 (9) Applicants shall further describe, where applicable, the degree to which a transmission
+7 project(s) fulfills an identified need at a regional level, including any studies, forecasts, and other
+8 evidence demonstrating consistency and alignment with relevant regional grid planning processes,
+9 and including any “right-sizing” analyses done to confirm that the project could or could not be
+10 modified to meet a regional need. To the extent a project does not fulfill a regional need, applicants
+11 shall describe and justify the continued need for the project absent a regional need. The rules and
+12 regulations promulgated by the board pursuant to § 42-98-7 may identify how the fulfillment of
+13 any such regional needs are to be weighed alongside Rhode Island-specific needs.
+14 (b) Within thirty (30) days of the filing of an applicant under this chapter, the board shall
+15 notify the applicant whether the application is in the form and addresses the matters that are required
+16 by this section and the rules and regulations as are promulgated pursuant to § 42-98-7. An
+17 application meeting these requirements shall then be docketed. Any application deemed to be
+18 deficient shall be returned to the applicant, together with a concise and explicit statement of the
+19 application’s deficiencies. Within fifteen (15) days of the resubmission of an application following
+20 a rejection for deficiency, the board shall docket the application together with specification of
+21 continuing deficiencies noted by the board, if any.
+22 SECTION 4. This act shall take effect upon passage.
+========
+LC004853
+========
+LC004853 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- ELECTRIC TRANSMISSION
+SITING AND REGULATORY ACT
+***
+1 This act would require applications for energy facilities to take into consideration the net-
+2 zero mandate contained in the 2021 act on climate and how the facility may advance or delay the
+3 greenhouse gas emissions reductions.
+4 This act would take effect upon passage.
+========
+LC004853
+========
+LC004853 - Page 7 of 7

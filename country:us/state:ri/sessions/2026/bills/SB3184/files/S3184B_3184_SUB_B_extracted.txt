@@ -1,0 +1,227 @@
+Title: 
+Official Title: 
+Source: versions - 3184  SUB B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3184 SUBSTITUTE B
+========
+LC006266/SUB B
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- NURSES
+Introduced By: Senators Ciccone, Burke, Famiglietti, Raptakis, and Tikoian
+Date Introduced: April 03, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 5-34 of the General Laws entitled "Nurses" is hereby amended by
+2 adding thereto the following section:
+3 5-34-3.1. Administration of deep sedation and general anesthesia.
+4 (a) Applicability.
+5 This section applies solely to nursing practice authority arising under chapters 34 and 34.2
+6 of title 5 and shall not be construed to regulate, restrict, define, expand, diminish, supersede, or
+7 otherwise affect the scope of practice, licensure authority, delegated authority, credentialing,
+8 privileging, supervision, or lawful professional activities of any healthcare professional licensed
+9 under any other chapter of title 5.
+10 (b) Nursing limitations relating to elective deep sedation and general anesthesia.
+11 (1) A registered nurse or nurse practitioner who is not licensed as a certified registered
+12 nurse anesthetist pursuant to chapter 34.2 of title 5 shall not administer, initiate, titrate, bolus, or
+13 maintain medications classified as general anesthetics for inducing or maintaining procedural deep
+14 sedation or general anesthesia for elective, scheduled, non-emergent procedures outside of
+15 emergency, urgent, resuscitative, trauma, critical care, or urgent bedside procedural circumstances
+16 where delay would materially risk patient health or safety.
+17 (2) Nothing in this section shall be construed to prohibit a registered nurse enrolled as a
+18 bona fide student in a nurse anesthesia program approved by the Council on Accreditation of Nurse
+19 Anesthesia Educational Programs (COA), or its successors or predecessors, from participating in
+
+1 the administration of deep sedation or general anesthesia when acting under the supervision of a
+2 certified registered nurse anesthetist or anesthesiologist
+3 (c) Moderate sedation and sedation continuum protections.
+4 (1) Nothing in this section shall be construed to prohibit a registered nurse or nurse
+5 practitioner from participating in or administering minimal sedation or moderate sedation
+6 consistent with lawful scope of practice, credentialing, institutional privileges, professional
+7 standards, and facility policies;
+8 (2) The general assembly recognizes that sedation exists along a clinical continuum and
+9 that patients may transition between levels of sedation despite the practitioner’s intended sedation
+10 target.
+11 (3) Moderate sedation shall include the clinical practice of initiating, administering, and
+12 titrating sedative medications in response to patient condition and procedural needs, including
+13 circumstances in which a patient transiently or unplanned enters a deep sedation; provided,
+14 however, that nothing in this subsection shall be construed to authorize conduct prohibited by
+15 subsection (b)(1) of this section.
+16 (4) A transient or unplanned progression to a deep sedation during lawful moderate
+17 sedation practice shall not, standing alone, constitute the unlawful administration of elective deep
+18 sedation or general anesthesia under this section.
+19 (d) Definitions.
+20 For purposes of this section, the terms “minimal sedation,” “moderate sedation,” “deep
+21 sedation” and “general anesthesia” shall have the meanings and clinical interpretations assigned to
+22 those terms under applicable Joint Commission standards governing the provision of sedation and
+23 anesthesia services.
+24 (e) Construction.
+25 (1) Nothing in this section shall be interpreted, construed, or applied to:
+26 (i) Narrow, diminish, supersede, amend, redefine, impair, or otherwise affect the scope of
+27 practice, licensure authority, delegated authority, clinical authority, credentialing authority,
+28 privileging authority, supervision authority, or lawful professional activities of any healthcare
+29 professional licensed under any chapter of title 5 other than chapters 34 and 34.2;
+30 (ii) Restrict emergency stabilization obligations under state or federal law;
+31 (iii) Prevent hospitals or licensed healthcare facilities from establishing additional
+32 credentialing, privileging, supervision, staffing, patient safety, or clinical practice requirements;
+33 (iv) Create any negative inference regarding the preexisting lawful authority of licensed
+34 clinicians to administer sedating medications within applicable scope of practice, delegated
+LC006266/SUB B - Page 2 of 7
+
+1 authority, institutional privileges, or facility policies; or
+2 (v) Amend, limit, supersede, expand, or otherwise alter the licensure authority, scope of
+3 practice, credentialing authority or professional practice standards applicable to certified registered
+4 nurse anesthetists under chapter 34.2 of title 5.
+5 (2) Nothing in this section shall permit facility credentialing, privileging, delegated
+6 authority, standing orders, supervision arrangements, protocols, policies, or medical staff bylaws
+7 to authorize a registered nurse or non-CRNA nurse practitioners to engage in conduct prohibited
+8 by subsection (b) of this section.
+9 (3) This section and chapter 34.2 of title 5 shall be construed harmoniously so as to preserve
+10 the lawful authority of certified registered nurse anesthetists while clarifying limitations applicable
+11 to nursing practice under this chapter.
+12 (f) The department of health shall promulgate rules and regulations necessary to implement
+13 the provisions of this section no later than January 31, 2027, and shall report to the general assembly
+14 regarding implementation issues, including but not limited to access to care, workforce shortages,
+15 procedural delays, cancelled elective procedures, patient safety considerations, operational impacts
+16 on hospitals and healthcare facilities, and all reportable patient incidents no later than January 31,
+17 2028. Pursuant to § 23-17-40(f)(15) a reportable incident includes an unplanned progression to
+18 deep sedation or general anesthesia resulting in the insertion of a supraglottic airway, endotracheal
+19 intubation, unplanned hospital admission, transfer to a high level of care, cardiac arrest, permanent
+20 neurologic injury or death, excluding certified registered nurse anesthetists, physicians privileged
+21 in procedural sedation and all physicians in the specialties of emergency medicine, anesthesiology,
+22 and critical care.
+23 SECTION 2. Section 23-17-40 of the General Laws in Chapter 23-17 entitled "Licensing
+24 of Healthcare Facilities" is hereby amended to read as follows:
+25 23-17-40. Hospital and freestanding emergency-care facility events reporting.
+26 (a) Definitions. As used in this section, the following terms shall have the following
+27 meanings:
+28 (1) “Adverse event” means injury to a patient resulting from a medical intervention, and
+29 not to the underlying condition of the patient.
+30 (2) “Checklist of care” means predetermined steps to be followed by a team of healthcare
+31 providers before, during, or after a given procedure to decrease the possibility of adverse effects
+32 and other patient harm by articulating standards of care.
+33 (b) Reportable events as defined in subsection (c) of this section shall be reported to the
+34 department of health division of facilities regulation on a telephone number maintained for that
+LC006266/SUB B - Page 3 of 7
+
+1 purpose. Hospitals and freestanding emergency-care facilities shall report incidents as defined in
+2 subsection (c) of this section within twenty-four (24) hours of when the accident occurred or, if
+3 later, within twenty-four (24) hours of receipt of information causing the hospital or freestanding
+4 emergency-care facility to believe that a reportable event has occurred.
+5 (c) Reportable events are defined as follows:
+6 (1) Fires or internal disasters in the facility that disrupt the provisions of patient-care
+7 services or cause harm to patients or personnel;
+8 (2) Poisoning involving patients of the facility;
+9 (3) Infection outbreaks as defined by the department in regulation;
+10 (4) Kidnapping and inpatient psychiatric elopements and elopements by minors;
+11 (5) Strikes by personnel;
+12 (6) Disasters or other emergency situations external to the hospital or freestanding
+13 emergency-care facility environment that adversely affect facility operations; and
+14 (7) Unscheduled termination of any services vital to the continued safe operation of the
+15 facility or to the health and safety of its patients and personnel.
+16 (d) Any hospital or freestanding emergency-care facility filing a report with the attorney
+17 general’s office concerning abuse, neglect, and mistreatment of patients, as defined in chapter 17.8
+18 of this title, shall forward a copy of the report to the department of health. In addition, a copy of all
+19 hospital notifications and reports made in compliance with the federal Safe Medical Devices Act
+20 of 1990, 21 U.S.C. § 301 et seq., shall be forwarded to the department of health within the time
+21 specified in the federal law.
+22 (e) Any reportable incident in a hospital that results in patient injury, as defined in
+23 subsection (f) of this section, shall be reported to the department of health with seventy-two (72)
+24 hours or when the hospital has reasonable cause to believe that an incident, as defined in subsection
+25 (f) of this section, has occurred. The department of health shall promulgate rules and regulations to
+26 include the process whereby healthcare professionals with knowledge of an incident shall report it
+27 to the hospital; requirements for the hospital to conduct a root-cause analysis of the incident or
+28 other appropriate process for incident investigation and to develop and file a performance-
+29 improvement plan; and additional incidents to be reported that are in addition to those listed in
+30 subsection (f) of this section. In its reports, no personal identifiers shall be included. The hospital
+31 shall require the appropriate committee within the hospital to carry out a peer-review process to
+32 determine whether the incident was within the normal range of outcomes, given the patient’s
+33 condition. The hospital shall notify the department of the outcome of the internal review, and if the
+34 findings determine that the incident was within the normal range of patient outcomes, no further
+LC006266/SUB B - Page 4 of 7
+
+1 action is required. If the findings conclude that the incident was not within the normal range of
+2 patient outcomes, the hospital shall conduct a root-cause analysis or other appropriate process for
+3 incident investigation to identify causal factors that may have lead to the incident and develop a
+4 performance-improvement plan to prevent similar incidents from occurring in the future. The
+5 hospital shall also provide to the department of health the following information:
+6 (1) An explanation of the circumstances surrounding the incident;
+7 (2) An updated assessment of the effect of the incident on the patient;
+8 (3) A summary of current patient status, including follow-up care provided and post-
+9 incident diagnosis; and
+10 (4) A summary of all actions taken to correct identified problems to prevent recurrence of
+11 the incident and/or to improve overall patient care and to comply with other requirements of this
+12 section.
+13 (f) Incidents to be reported are those causing or involving:
+14 (1) Brain injury;
+15 (2) Mental impairment;
+16 (3) Paraplegia;
+17 (4) Quadriplegia;
+18 (5) Any type of paralysis;
+19 (6) Loss of use of limb or organ;
+20 (7) Hospital stay extended due to serious or unforeseen complications;
+21 (8) Birth injury;
+22 (9) Impairment of sight or hearing;
+23 (10) Surgery on the wrong patient;
+24 (11) Subjecting a patient to a procedure other than that ordered or intended by the patient’s
+25 attending physician;
+26 (12) Any other incident that is reported to their malpractice insurance carrier or self-
+27 insurance program;
+28 (13) Suicide of a patient during treatment or within five (5) days of discharge from an
+29 inpatient or outpatient unit (if known);
+30 (14) Blood transfusion error; and
+31 (15) An unplanned progression to deep sedation or general anesthesia resulting in the
+32 insertion of a supraglottic airway, endotracheal intubation, unplanned hospital admission, transfer
+33 to a higher level of care, cardiac arrest, permanent neurologic injury or death, excluding certified
+34 registered nurse anesthetists, physicians privileged in procedural sedation and all physicians in the
+LC006266/SUB B - Page 5 of 7
+
+1 specialties of emergency medicine, anesthesiology, and critical care; and
+2 (15)(16) Any serious or unforeseen complication, that is not expected or probable, resulting
+3 in an extended hospital stay or death of the patient.
+4 (g) This section does not replace other reporting required by this chapter.
+5 (h) Nothing in this section shall prohibit the department from investigating any event or
+6 incident.
+7 (i) All reports to the department under this section shall be subject to the provisions of §
+8 23-17-15. In addition, all reports under this section, together with the peer-review records and
+9 proceedings related to events and incidents so reported and the participants in the proceedings, shall
+10 be deemed entitled to all the privileges and immunities for peer-review records set forth in § 23-
+11 17-25.
+12 (j) The department shall issue an annual report by March 31 each year providing aggregate,
+13 summary information on the events and incidents reported by hospitals and freestanding
+14 emergency-care facilities as required by this chapter. A copy of the report shall be forwarded to the
+15 governor, the speaker of the house, the senate president, and members of the health care quality
+16 steering committee established pursuant to § 23-17.17-6.
+17 (k) The director shall review the list of incidents to be reported in subsection (f) at least
+18 biennially to ascertain whether any additions, deletions, or modifications to the list are necessary.
+19 In conducting the review, the director shall take into account those adverse events identified on the
+20 National Quality Forum’s List of Serious Reportable Events. In the event the director determines
+21 that incidents should be added, deleted, or modified, the director shall make such recommendations
+22 for changes to the legislature.
+23 SECTION 3. This act shall take on January 1, 2027.
+========
+LC006266/SUB B
+========
+LC006266/SUB B - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- NURSES
+***
+1 This act would provide and clarify procedures for the administration of deep sedation and
+2 general anesthesia by certain types of nurses.
+3 This act would take on January 1, 2027.
+========
+LC006266/SUB B
+========
+LC006266/SUB B - Page 7 of 7

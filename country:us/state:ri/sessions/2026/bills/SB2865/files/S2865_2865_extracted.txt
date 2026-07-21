@@ -1,0 +1,497 @@
+Title: 
+Official Title: 
+Source: versions - 2865
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2865
+========
+LC005384
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- DETERMINATION OF NEED FOR NEW
+HEALTHCARE EQUIPMENT AND NEW INSTITUTIONAL HEALTH SERVICES
+Introduced By: Senators de la Cruz, and Rogers
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-15 of the General Laws entitled "Determination of Need for New
+2 Healthcare Equipment and New Institutional Health Services" is hereby repealed in its entirety.
+3 CHAPTER 23-15
+4 Determination of Need for New Healthcare Equipment and New Institutional Health Services
+5 23-15-1. Short title.
+6 This chapter may be cited as the “Health Care Certificate of Need Act of Rhode Island”.
+7 23-15-2. Definitions.
+8 As used in this chapter:
+9 (1) “Affected person” means and includes the person whose proposal is being reviewed, or
+10 the applicant, healthcare facilities located within the state that provide institutional health services,
+11 the state medical society, the state osteopathic society, those voluntary nonprofit area-wide
+12 planning agencies that may be established in the state, the state budget office, the office of health
+13 insurance commissioner, any hospital or medical service corporation organized under the laws of
+14 the state, the statewide health coordinating council, contiguous health-systems agencies, and those
+15 members of the public who are to be served by the proposed, new institutional health services or
+16 new healthcare equipment.
+17 (2) “Cost-impact analysis” means a written analysis of the effect that a proposal to offer or
+18 develop new institutional health services or new healthcare equipment, if approved, will have on
+
+1 healthcare costs and shall include any detail that may be prescribed by the state agency in rules and
+2 regulations.
+3 (3) “Director” means the director of the Rhode Island state department of health.
+4 (4)(i) “Healthcare facility” means any institutional health-service provider, facility or
+5 institution, place, building, agency, or portion of them, whether a partnership or corporation,
+6 whether public or private, whether organized for profit or not, used, operated, or engaged in
+7 providing healthcare services that are limited to hospitals, nursing facilities, home nursing-care
+8 provider, home-care provider, hospice provider, inpatient rehabilitation centers (including drug
+9 and/or alcohol abuse treatment centers), freestanding emergency-care facilities as defined in § 23-
+10 17-2, certain facilities providing surgical treatment to patients not requiring hospitalization (surgi-
+11 centers, multi-practice, physician ambulatory-surgery centers and multi-practice, podiatry
+12 ambulatory-surgery centers), and facilities providing inpatient hospice care. Single-practice
+13 physician or podiatry ambulatory-surgery centers (as defined in § 23-17-2(17), (18), respectively)
+14 are exempt from the requirements of chapter 15 of this title; provided, however, that such
+15 exemption shall not apply if a single-practice physician or podiatry ambulatory-surgery center is
+16 established by a medical practice group (as defined in § 5-37-1) within two (2) years following the
+17 formation of such medical practice group, when such medical practice group is formed by the
+18 merger or consolidation of two (2) or more medical practice groups or the acquisition of one
+19 medical practice group by another medical practice group. Medical spas as defined in chapter 105
+20 of this title are exempt from the requirements of this chapter. The term “healthcare facility” does
+21 not include Christian Science institutions (also known as Christian Science nursing facilities) listed
+22 and certified by the Commission for Accreditation of Christian Science Nursing
+23 Organizations/Facilities, Inc.
+24 (ii) Any provider of hospice care who provides hospice care without charge shall be exempt
+25 from the provisions of this chapter.
+26 (5) “Healthcare provider” means a person who is a direct provider of healthcare services
+27 (including but not limited to physicians, dentists, nurses, podiatrists, physician assistants, or nurse
+28 practitioners) in that the person’s primary current activity is the provision of healthcare services for
+29 persons.
+30 (6) “Health services” means organized program components for preventive, assessment,
+31 maintenance, diagnostic, treatment, and rehabilitative services provided in a healthcare facility.
+32 (7) “Health services council” means the advisory body to the Rhode Island state department
+33 of health established in accordance with chapter 17 of this title, appointed and empowered as
+34 provided to serve as the advisory body to the state agency in its review functions under this chapter.
+LC005384 - Page 2 of 15
+
+1 (8) “Institutional health services” means health services provided in or through healthcare
+2 facilities and includes the entities in or through that the services are provided.
+3 (9) “New healthcare equipment” means any single piece of medical equipment (and any
+4 components that constitute operational components of the piece of medical equipment) proposed
+5 to be utilized in conjunction with the provision of services to patients or the public, the capital costs
+6 of which would exceed two million two hundred fifty thousand dollars ($2,250,000); provided,
+7 however, that the state agency shall exempt from review any application that proposes one-for-one
+8 equipment replacement as defined in regulation. Further, beginning July 1, 2012, and each July
+9 thereafter, the amount shall be adjusted by the percentage of increase in the consumer price index
+10 for all urban consumers (CPI-U) as published by the United States Department of Labor Statistics
+11 as of September 30 of the prior calendar year.
+12 (10) “New institutional health services” means and includes:
+13 (i) Construction, development, or other establishment of a new healthcare facility.
+14 (ii) Any expenditure, except acquisitions of an existing healthcare facility, that will not
+15 result in a change in the services or bed capacity of the healthcare facility by, or on behalf of, an
+16 existing healthcare facility in excess of five million two hundred fifty thousand dollars ($5,250,000)
+17 which is a capital expenditure including expenditures for predevelopment activities; provided
+18 further, beginning July 1, 2012, and each July thereafter, the amount shall be adjusted by the
+19 percentage of increase in the consumer price index for all urban consumers (CPI-U) as published
+20 by the United States Department of Labor Statistics as of September 30 of the prior calendar year.
+21 (iii) Where a person makes an acquisition by, or on behalf of, a healthcare facility or health
+22 maintenance organization under lease or comparable arrangement or through donation, which
+23 would have required review if the acquisition had been by purchase, the acquisition shall be deemed
+24 a capital expenditure subject to review.
+25 (iv) Any capital expenditure that results in the addition of a health service or that changes
+26 the bed capacity of a healthcare facility with respect to which the expenditure is made, except that
+27 the state agency may exempt from review, by rules and regulations promulgated for this chapter,
+28 any bed reclassifications made to licensed nursing facilities and annual increases in licensed bed
+29 capacities of nursing facilities that do not exceed the greater of ten (10) beds or ten percent (10%)
+30 of facility licensed bed capacity and for which the related capital expenditure does not exceed two
+31 million dollars ($2,000,000).
+32 (v) Any health service proposed to be offered to patients or the public by a healthcare
+33 facility that was not offered on a regular basis in or through the facility within the twelve-month
+34 (12) period prior to the time the service would be offered, and that increases operating expenses by
+LC005384 - Page 3 of 15
+
+1 more than one million five hundred thousand dollars ($1,500,000), except that the state agency may
+2 exempt from review, by rules and regulations promulgated for this chapter, any health service
+3 involving reclassification of bed capacity made to licensed nursing facilities. Further, beginning
+4 July 1, 2012, and each July thereafter, the amount shall be adjusted by the percentage of increase
+5 in the consumer price index for all urban consumers (CPI-U) as published by the United States
+6 Department of Labor Statistics as of September 30 of the prior calendar year.
+7 (vi) Any new or expanded tertiary or specialty-care service, regardless of capital expense
+8 or operating expense, as defined by and listed in regulation, the list not to exceed a total of twelve
+9 (12) categories of services at any one time and shall include full-body magnetic resonance imaging
+10 and computerized axial tomography; provided, however, that the state agency shall exempt from
+11 review any application that proposes one-for-one equipment replacement as defined by and listed
+12 in regulation. Acquisition of full body magnetic resonance imaging and computerized axial
+13 tomography shall not require a certificate-of-need review and approval by the state agency if
+14 satisfactory evidence is provided to the state agency that it was acquired for under one million
+15 dollars ($1,000,000) on or before January 1, 2010, and was in operation on or before July 1, 2010.
+16 (11) “Person” means any individual, trust or estate, partnership, corporation (including
+17 associations, joint stock companies, and insurance companies), state or political subdivision, or
+18 instrumentality of a state.
+19 (12) “Predevelopment activities” means expenditures for architectural designs, plans,
+20 working drawings, and specifications, site acquisition, professional consultations, preliminary
+21 plans, studies, and surveys made in preparation for the offering of a new, institutional health
+22 service.
+23 (13) “State agency” means the Rhode Island state department of health.
+24 (14) “To develop” means to undertake those activities that, on their completion, will result
+25 in the offering of a new, institutional health service or new healthcare equipment or the incurring
+26 of a financial obligation, in relation to the offering of that service.
+27 (15) “To offer” means to hold oneself out as capable of providing, or as having the means
+28 for the provision of, specified health services or healthcare equipment.
+29 23-15-3. Purpose.
+30 The purpose of this chapter is to provide for the development, establishment, and
+31 enforcement of standards for the authorization and allocation of new institutional health services
+32 and new health care equipment.
+33 23-15-4. Review and approval of new health care equipment and new institutional
+34 health services.
+LC005384 - Page 4 of 15
+
+1 (a) No health care provider or health care facility shall develop or offer new health care
+2 equipment or new institutional health services in Rhode Island, the magnitude of which exceeds
+3 the limits defined by this chapter, without prior review by the health services council and approval
+4 by the state agency; except that review by the health services council may be waived in the case of
+5 expeditious reviews conducted in accordance with § 23-15-5, and except that health maintenance
+6 organizations which fulfill criteria to be established in rules and regulations promulgated by the
+7 state agency with the advice of the health services council shall be exempted from the review and
+8 approval requirement established in this section upon approval by the state agency of an application
+9 for exemption from the review and approval requirement established in this section which contain
+10 any information that the state agency may require to determine if the health maintenance
+11 organization meets the criteria.
+12 (b) No approval shall be made without an adequate demonstration of need by the applicant
+13 at the time and place and under the circumstances proposed, nor shall the approval be made without
+14 a determination that a proposal for which need has been demonstrated is also affordable by the
+15 people of the state.
+16 (c) No approval of new institutional health services for the provision of health services to
+17 inpatients shall be granted unless the written findings required in accordance with § 23-15-6(b)(6)
+18 are made.
+19 (d) Applications for determination of need shall be filed with the state agency on a date
+20 fixed by the state agency together with plans and specifications and any other appropriate data and
+21 information that the state agency shall require by regulation, and shall be considered in relation to
+22 each other no less than once a year. A duplicate copy of each application together with all
+23 supporting documentation shall be kept on file by the state agency as a public record.
+24 (e) The health services council shall consider, but shall not be limited to, the following in
+25 conducting reviews and determining need:
+26 (1) The relationship of the proposal to state health plans that may be formulated by the state
+27 agency;
+28 (2) The impact of approval or denial of the proposal on the future viability of the applicant
+29 and of the providers of health services to a significant proportion of the population served or
+30 proposed to be served by the applicant;
+31 (3) The need that the population to be served by the proposed equipment or services has
+32 for the equipment or services;
+33 (4) The availability of alternative, less costly, or more effective methods of providing
+34 services or equipment, including economies or improvements in service that could be derived from
+LC005384 - Page 5 of 15
+
+1 feasible cooperative or shared services;
+2 (5) The immediate and long term financial feasibility of the proposal, as well as the
+3 probable impact of the proposal on the cost of, and charges for, health services of the applicant;
+4 (6) The relationship of the services proposed to be provided to the existing health care
+5 system of the state;
+6 (7) The impact of the proposal on the quality of health care in the state and in the population
+7 area to be served by the applicant;
+8 (8) The availability of funds for capital and operating needs for the provision of the services
+9 or equipment proposed to be offered;
+10 (9) The cost of financing the proposal including the reasonableness of the interest rate, the
+11 period of borrowing, and the equity of the applicant in the proposed new institutional health service
+12 or new equipment;
+13 (10) The relationship, including the organizational relationship of the services or
+14 equipment proposed, to ancillary or support services;
+15 (11) Special needs and circumstances of those entities which provide a substantial portion
+16 of their services or resources, or both, to individuals not residing within the state;
+17 (12) Special needs of entities such as medical and other health professional schools,
+18 multidisciplinary clinics, and specialty centers; also, the special needs for and availability of
+19 osteopathic facilities and services within the state;
+20 (13) In the case of a construction project:
+21 (i) The costs and methods of the proposed construction,
+22 (ii) The probable impact of the construction project reviewed on the costs of providing
+23 health services by the person proposing the construction project; and
+24 (iii) The proposed availability and use of safe patient handling equipment in the new or
+25 renovated space to be constructed.
+26 (14) Those appropriate considerations that may be established in rules and regulations
+27 promulgated by the state agency with the advice of the health services council;
+28 (15) The potential of the proposal to demonstrate or provide one or more innovative
+29 approaches or methods for attaining a more cost effective and/or efficient health care system;
+30 (16) The relationship of the proposal to the need indicated in any requests for proposals
+31 issued by the state agency;
+32 (17) The input of the community to be served by the proposed equipment and services and
+33 the people of the neighborhoods close to the health care facility who are impacted by the proposal;
+34 (18) The relationship of the proposal to any long-range capital improvement plan of the
+LC005384 - Page 6 of 15
+
+1 health care facility applicant.
+2 (19) Cost impact statements forwarded pursuant to subsection 23-15-6(e).
+3 (f) In conducting its review, the health services council shall perform the following:
+4 (1) Within one hundred and fifteen (115) days after initiating its review, which must be
+5 commenced no later than thirty-one (31) days after the filing of an application, the health services
+6 council shall determine as to each proposal whether the applicant has demonstrated need at the time
+7 and place and under the circumstances proposed, and in doing so may apply the criteria and
+8 standards set forth in subsection (e) of this section; provided however, that a determination of need
+9 shall not alone be sufficient to warrant a recommendation to the state agency that a proposal should
+10 be approved. The director shall render his or her decision within five (5) days of the determination
+11 of the health services council.
+12 (2) Prior to the conclusion of its review in accordance with § 23-15-6(e), the health services
+13 council shall evaluate each proposal for which a determination of need has been established in
+14 relation to other proposals, comparing proposals with each other, whether similar or not,
+15 establishing priorities among the proposals for which need has been determined, and taking into
+16 consideration the criteria and standards relating to relative need and affordability as set forth in
+17 subsection (e) of this section and § 23-15-6(f).
+18 (3) At the conclusion of its review, the health services council shall make recommendations
+19 to the state agency relative to approval or denial of the new institutional health services or new
+20 health care equipment proposed; provided that:
+21 (i) The health services council shall recommend approval of only those proposals found to
+22 be affordable in accordance with the provisions of § 23-15-6(f); and
+23 (ii) If the state agency proposes to render a decision that is contrary to the recommendation
+24 of the health services council, the state agency must render its reasons for doing so in writing.
+25 (g) Approval of new institutional health services or new health care equipment by the state
+26 agency shall be subject to conditions that may be prescribed by rules and regulations developed by
+27 the state agency with the advice of the health services council, but those conditions must relate to
+28 the considerations enumerated in subsection (e) and to considerations that may be established in
+29 regulations in accordance with subsection (e)(14).
+30 (h) The offering or developing of new institutional health services or health care equipment
+31 by a health care facility without prior review by the health services council and approval by the
+32 state agency shall be grounds for the imposition of licensure sanctions on the facility, including
+33 denial, suspension, revocation, or curtailment or for imposition of any monetary fines that may be
+34 statutorily permitted by virtue of individual health care facility licensing statutes.
+LC005384 - Page 7 of 15
+
+1 (i) No government agency and no hospital or medical service corporation organized under
+2 the laws of the state shall reimburse any health care facility or health care provider for the costs
+3 associated with offering or developing new institutional health services or new health care
+4 equipment unless the health care facility or health care provider has received the approval of the
+5 state agency in accordance with this chapter. Government agencies and hospital and medical
+6 service corporations organized under the laws of the state shall, during budget negotiations, hold
+7 health care facilities and health care providers accountable to operating efficiencies claimed or
+8 projected in proposals which receive the approval of the state agency in accordance with this
+9 chapter.
+10 (j) In addition, the state agency shall not make grants to, enter into contracts with, or
+11 recommend approval of the use of federal or state funds by any health care facility or health care
+12 provider which proceeds with the offering or developing of new institutional health services or new
+13 health care equipment after disapproval by the state agency.
+14 23-15-4.1. Exemption for nonclinical capital expenditures.
+15 Notwithstanding the requirements of any other provisions of any general or public laws,
+16 capital expenditures by a health care facility that are not directly related to the provision of health
+17 services as defined in this chapter, including, but not limited to, capital expenditures for parking
+18 lots, billing computer systems, and telephone systems, shall not require a certificate of need review
+19 and approval by the state agency.
+20 23-15-4.2. Exemption for research.
+21 Notwithstanding the requirements of any other provisions of any general or public laws,
+22 capital expenditures by a health care facility related to research in basic biomedical or medical
+23 research areas that are not directly related to the provision of clinical or patient care services shall
+24 not require a certificate of need review and approval by the state agency.
+25 23-15-4.3. Repealed.
+26 23-15-4.4. Exemption for voter approved capital bond issues for health care facilities.
+27 Notwithstanding the requirements of any other provisions of any general law or public
+28 laws, voter approved state bond issues authorizing capital expenditures for state health care
+29 facilities shall not require a certificate of need review and approval by the state agency.
+30 23-15-5. Expeditious review.
+31 (a) Any person who proposes to offer or develop new institutional health services or new
+32 healthcare equipment for documented emergency needs; or for the purpose of eliminating or
+33 preventing documented fire or safety hazards affecting the lives and health of patients or staff; or
+34 for compliance with accreditation standards required for receipt of federal or state reimbursement;
+LC005384 - Page 8 of 15
+
+1 or for any other purpose that the state agency may specify in rules and regulations, may apply for
+2 an expeditious review. The state agency may exercise its discretion in recommending approvals
+3 through an expeditious review, except that no new institutional health service or new healthcare
+4 equipment may be approved through the expeditious review if provision of the new institutional
+5 health service or new healthcare equipment is contra-indicated by the state health plan as may be
+6 formulated by the state agency. Specific procedures for the conduct of expeditious reviews shall be
+7 promulgated in rules and regulations adopted by the state agency with the advice of the health
+8 services council.
+9 (b) The decision of the state agency not to conduct an expeditious review shall be
+10 reconsidered upon a written petition to the state agency, and the state agency shall be required to
+11 respond to the written petition within ten (10) days stating whether expeditious review is granted.
+12 If the request for reconsideration is denied, the state agency shall state the reasons in writing why
+13 the expeditious request had been denied.
+14 (c) The decision of the state agency in connection with an expeditious review shall be
+15 rendered within thirty (30) days after the commencement of said review.
+16 (d) Any healthcare facility that provides a service performed in another state and that is not
+17 performed in the state of Rhode Island, or such service is performed in the state on a very limited
+18 basis, shall be granted expeditious review upon request under this section, provided that such
+19 service, among other things, has a clear effect on the timeliness, access, or quality of care and is
+20 able to meet licensing standards.
+21 23-15-6. Procedures for review.
+22 (a) The state agency, with the advice of the health services council, and in accordance with
+23 the Administrative Procedures Act, chapter 35 of title 42, after public hearing pursuant to
+24 reasonable notice, which notice shall include affected persons, shall promulgate appropriate rules
+25 and regulations that may be designated to further the accomplishment of the purposes of this chapter
+26 including the formulation of procedures that may be particularly necessary for the conduct on
+27 reviews of particular types of new institutional health services or new health care equipment.
+28 (b) Review procedures promulgated in accordance with subsection (a) shall include at least
+29 the following, except that substitute procedures for the conduct of expeditious and accelerated
+30 reviews may be promulgated by the state agency in accordance with § 23-15-5:
+31 (1) Provision that the state agency established a process requiring potential applicants to
+32 file a detailed letter of intent to submit an application at least forty-five (45) days prior to the
+33 submission of an application and that the state agency shall undertake reviews in a timely fashion
+34 no less often than twice a year and give written notification to affected persons of the beginning of
+LC005384 - Page 9 of 15
+
+1 the review including the proposed schedule for the review, the period within which a public meeting
+2 may be held, and the manner by which notification will be provided of the time and place of any
+3 public meeting so held.
+4 (2) Provision that no more than one hundred and twenty (120) days shall elapse between
+5 initial notification of affected persons and the final decision of the state agency.
+6 (3) Provision that, if the state agency fails to act upon an application within the applicable
+7 period established in subsection (b)(2), the applicant may apply to the superior court of Providence
+8 County to require the state agency to act upon the application.
+9 (4) Provision for review and comment by the health services council and any affected
+10 person, including but not limited to those parties defined in § 23-15-2(1) and the department of
+11 business regulation, the department of behavioral healthcare, developmental disabilities and
+12 hospitals, the department of human services, health maintenance organizations, and the state
+13 professional standards review organization, on every application for the determination of need.
+14 (5) Provision that a public meeting may be held during the course of the state agency review
+15 at which any person may have the opportunity to present testimony. Procedures for the conduct of
+16 the public meeting shall be established in rules and regulations promulgated by the state agency
+17 with the advice of the health services council.
+18 (6)(i) Provision for issuance of a written decision by the state agency which shall be based
+19 upon the findings and recommendations of the health services council unless the state agency shall
+20 afford written justification for variance from that decision.
+21 (ii) In the case of any proposed new institutional health service for the provision of health
+22 services to inpatients, a state agency shall not make a finding that the proposed new institutional
+23 health service is needed, unless it makes written findings as to:
+24 (A) The efficiency and appropriateness of the use of existing inpatient facilities providing
+25 inpatient services similar to those proposed;
+26 (B) The capital and operating costs (and their potential impact on patient charges),
+27 efficiency, and appropriateness of the proposed new institutional health services; and
+28 (C) Makes each of the following findings in writing:
+29 (I) That superior alternatives to inpatient services in terms of cost, efficiency, and
+30 appropriateness do not exist and that the development of alternatives is not practicable;
+31 (II) That, in the case of new construction, alternatives to new construction (e.g.,
+32 modernization or sharing arrangements) have been considered and implemented to the maximum
+33 extent practicable;
+34 (III) That patients will experience serious problems in terms of costs, availability, or
+LC005384 - Page 10 of 15
+
+1 accessibility, or any other problems that may be identified by the state agency, in obtaining inpatient
+2 care of the type proposed in the absence of the proposed new service; and
+3 (IV) That, in the case of a proposal for the addition of beds for the provision of skilled
+4 nursing or intermediate care, the relationship of the addition to the plans of other agencies of the
+5 state responsible for providing and financing long-term care (including home health services) has
+6 been considered.
+7 (7) Provision for the distribution of the decision of the state agency, including its findings
+8 and recommendations, to the applicant and to affected persons.
+9 (8) Provision that the state agency may approve or disapprove in whole or in part any
+10 application as submitted, but that the parties may mutually agree to a modification of any element
+11 of an application as submitted, without requiring resubmission of the application.
+12 (9)(i) Provision that any person affected may request in writing reconsideration of a state
+13 agency decision if the person:
+14 (A) Presents significant relevant information not previously considered by the state agency;
+15 (B) Demonstrates that there have been significant changes in factors or circumstances
+16 relied upon by the state agency in reaching its decision;
+17 (C) Demonstrates that the state agency has materially failed to follow its adopted
+18 procedures in reaching its decision; or
+19 (D) Provides any other basis for reconsideration that the state agency may have determined
+20 by regulation to constitute good cause.
+21 (ii) Procedures for reconsideration shall be established in regulations promulgated by the
+22 state agency with the advice of the health services council.
+23 (10) Provision that upon the request of any affected person, the decision of the state agency
+24 to issue, deny, or withdraw a certificate of need or to grant or deny an exemption shall be
+25 administratively reviewed under an appeals mechanism provided for in the rules and regulations of
+26 the state agency, with the review to be conducted by a hearing officer appointed by the director of
+27 health. The procedures for judicial review shall be in accordance with the provisions of § 42-35-
+28 15.
+29 (c) The state agency shall publish at least annually a report of reviews of new institutional
+30 health services and new health care equipment conducted, together with the findings and decisions
+31 rendered in the course of the reviews. The reports shall be published on or about February 1 of each
+32 year and shall contain evaluations of the prior year’s statutory changes where feasible.
+33 (d) All applications reviewed by the state agency and all written materials pertinent to state
+34 agency review, including minutes of all health services council meetings, shall be accessible to the
+LC005384 - Page 11 of 15
+
+1 public upon request.
+2 (e) In the case or review of proposals by health care facilities who by contractual
+3 agreement, chapter 19 of title 27, or other statute are required to adhere to an annual schedule of
+4 budget or reimbursement determination to which the state is a party, the state budget office, the
+5 office of the health insurance commissioner, and hospital service corporations organized under
+6 chapter 19 of title 27 shall forward to the health services council within forty-five (45) days of the
+7 initiation of the review of the proposals by the health services council under § 23-15-4(f)(1):
+8 (1) A cost impact analysis of each proposal which analysis shall include, but not be limited
+9 to, consideration of increases in operating expenses, per diem rates, health care insurance
+10 premiums, and public expenditures; and
+11 (2) Comments on acceptable interest rates and minimum equity contributions and/or
+12 maximum debt to be incurred in financing needed proposals.
+13 (f) The health services council shall not make a recommendation to the state agency that a
+14 proposal be approved unless it is found that the proposal is affordable to the people of the state. In
+15 determining whether or not a proposal is affordable, the health service council shall consider the
+16 condition of the state’s economy, the statements of authorities and/or parties affected by the
+17 proposals, and any other factors that it may deem appropriate.
+18 23-15-6.1. Action subsequent to review.
+19 Development of any new institutional health services or new health care equipment
+20 approved by the state agency must be initiated within one year of the date of the approval and may
+21 not exceed the maximum amount of capital expenditures specified in the decision of the state
+22 agency without prior authorization of the state agency. The state agency, with the advice of the
+23 health services council, shall adopt procedures for the review of the applicant’s failure to develop
+24 new institutional health services or new health care equipment within the timeframe and capital
+25 limitation stipulated in this section, and for the withdrawal of approval in the absence of a good
+26 faith effort to meet the stipulated timeframe.
+27 23-15-7. Health services council.
+28 The health services council, established in accordance with chapter 17 of this title, shall
+29 function as the advisory body to the state agency in discharging the purpose of this chapter.
+30 23-15-8. Funds for administration.
+31 There is authorized to be appropriated from the state treasury those sums that may be
+32 necessary for the purposes of administering this chapter.
+33 23-15-9. Severability.
+34 If any provision of this chapter or the application of any provision of this chapter to any
+LC005384 - Page 12 of 15
+
+1 person or circumstances shall be held invalid, the invalidity shall not affect the provisions or
+2 application of this chapter which can be given effect without the invalid provision or application,
+3 and to this end the provisions of the chapter are declared to be severable.
+4 23-15-10. Application fees.
+5 The state agency shall require that any applicant for certificate of need submit an
+6 application fee prior to requesting any review of matters pursuant to the requirements of this
+7 chapter; except that health care facilities owned and operated by the state of Rhode Island shall be
+8 exempt from this application fee requirement. The application fee shall be paid by check made
+9 payable to the general treasurer. Except for applications that propose new or expanded tertiary or
+10 specialty care services as defined in subdivision 23-15-2(10)(vi), submission of any application
+11 filed in accordance with § 23-15-4(d) shall include an application fee of five hundred dollars ($500)
+12 per application plus an amount equal to one quarter of one percent (0.25%) of the total capital
+13 expenditure costs associated with the application. For an application filed in accordance with the
+14 requirements of § 23-15-5 (Expeditious review), the application shall include an application
+15 processing fee of seven hundred and fifty dollars ($750) per application plus an amount equal to
+16 one quarter of one percent (0.25%) of the total capital expenditure costs associated with the
+17 application. Applications that propose new or expanded tertiary or specialty care services as defined
+18 in subdivision 23-15-2(10)(vi), shall include an application fee of ten thousand dollars ($10,000)
+19 plus an amount equal to one quarter of one percent (0.25%) of the total capital expenditure costs
+20 associated with the application. Application fees shall be non-refundable. All fees received
+21 pursuant to this chapter shall be deposited in the general fund.
+22 23-15-11. Reports, use of experts, all costs and expenses.
+23 The state agency may in effectuating the purposes of this chapter engage experts or
+24 consultants including, but not limited to, actuaries, investment bankers, accountants, attorneys, or
+25 industry analysts. Except for privileged or confidential communications between the state agency
+26 and engaged attorneys, all copies of final reports prepared by experts and consultants, and all costs
+27 and expenses associated with the reports, shall be public. All costs and expenses incurred under
+28 this provision shall be the responsibility of the applicant in an amount to be determined by the
+29 director as he or she shall deem appropriate. No application made pursuant to the requirements of
+30 this chapter shall be considered complete unless an agreement has been executed with the director
+31 for the payment of all costs and expenses in accordance with this section. The maximum cost and
+32 expense to an applicant for experts and/or consultants that may be required by the state agency shall
+33 be twenty thousand dollars ($20,000); provided however, that the maximum amount shall be
+34 increased by regulations promulgated by the state agency on or after January 1, 2008 by the most
+LC005384 - Page 13 of 15
+
+1 recently available annual increase in the federal consumer price index as determined by the state
+2 agency.
+3 SECTION 2. This act shall take effect upon passage.
+========
+LC005384
+========
+LC005384 - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- DETERMINATION OF NEED FOR NEW
+HEALTHCARE EQUIPMENT AND NEW INSTITUTIONAL HEALTH SERVICES
+***
+1 This act would repeal the certificate of need process statutes which are used by the
+2 department of health to determine the need for new health care equipment and new institutional
+3 health services.
+4 This act would take effect upon passage.
+========
+LC005384
+========
+LC005384 - Page 15 of 15

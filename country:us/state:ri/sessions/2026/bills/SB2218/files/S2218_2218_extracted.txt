@@ -1,0 +1,302 @@
+Title: 
+Official Title: 
+Source: versions - 2218
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2218
+========
+LC004070
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- BUILDING PERFORMANCE STANDARDS
+ACT OF 2026
+Introduced By: Senators Kallman, Valverde, Lauria, DiMario, Euer, Vargas, Gu, Mack,
+and Britto
+Date Introduced: January 23, 2026
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Purpose.
+2 The purpose of this chapter is to reduce the greenhouse gas emissions of buildings in Rhode
+3 Island, consistent with chapter 6.2 of title 42 (“2021 act on climate”). Of the building stock in 2050,
+4 approximately seventy percent (70%) has already been built, and addressing these existing
+5 buildings is critical to achieving net-zero emissions by 2050. As significant retrofits to existing
+6 buildings will eventually be needed, this chapter establishes a standard for their energy
+7 performance. Further, the intent of the legislature is to ensure that the Office of Energy Resources
+8 (OER) has dedicated resources sufficient to administer its responsibilities under this chapter to
+9 enable swift and steady progress towards Rhode Island's net-zero mandate.
+10 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+11 amended by adding thereto the following chapter:
+12 CHAPTER 27.5
+13 BUILDING PERFORMANCE STANDARDS ACT OF 2026
+14 23-27.5-1. Definitions.
+15 As used in this chapter:
+16 (1) "BPS fund" means the building performance standard fund established in § 23-27.5-5.
+17 (2) "Building improvement tool" means an online tool to help building owners and
+18 operators improve building energy and water efficiency and reduce greenhouse gas emissions
+
+1 through identifying, tracking, and verifying improvements and their performance, including the
+2 capability to integrate with ENERGY STAR Portfolio Manager.
+3 (3) "Building performance standard" means an objectively verifiable numeric value of a
+4 defined building performance metric that covered properties are required to achieve by specified
+5 dates.
+6 (4) "Commercial building" means a building or multiple buildings on a property of which
+7 not less than fifty percent (50%) of the gross floor area, including hallways or other common space,
+8 but excluding parking, is used for commercial, retail, office, professional, educational or other
+9 nonresidential purposes, or any grouping of commercial buildings designated by the OER as an
+10 appropriate reporting unit for the purposes of this section; provided, however, that "commercial
+11 building" shall not include a public facility or a building owned or leased by the federal government,
+12 and shall not include a facility in which the majority of energy is consumed for manufacturing, for
+13 the generation of electric power or district thermal energy to be consumed off site, for
+14 communications infrastructure, or for other process loads as determined by the OER.
+15 (5) "Community impacted by poverty and environmental injustice" means census tracts
+16 that are highlighted as overburdened and underserved in the geospatial climate and economic
+17 justice screening tool (CEJST).
+18 (6) "Condominium" means a property that combines separate ownership of individual units
+19 with common ownership of other elements such as common areas.
+20 (7) "Covered property" means any of the following with at least twenty-five thousand
+21 square feet (25,000 sq. ft.) of gross floor area:
+22 (i) A single building;
+23 (ii) One or more buildings held in the condominium form of ownership, and governed by
+24 a single board of managers; or
+25 (iii) Two (2) or more buildings that are served by the same electric or gas meter or are
+26 served by the same heating or cooling system(s), which is not a district energy system. Provided
+27 that buildings, spaces, or groups of buildings and spaces, that are sub-metered or otherwise subject
+28 to easy determination of the resource consumption attributable to each individual building, space,
+29 or group of buildings or spaces, shall be treated as separate "covered properties" as determined by
+30 the OER.
+31 (8) “Department of environmental management” or “DEM” means the state government
+32 agency charged with supervising and controlling the protection, development, planning, and
+33 utilization of the natural resources of the state and of which the director is the chair of the executive
+34 climate change coordinating council.
+LC004070 - Page 2 of 9
+
+1 (9) "District energy system" means a system serving multiple covered properties and
+2 consisting of non-combusting thermal energy generation, transfer, and distribution equipment
+3 providing thermal energy in the form of heat and/or heat rejection.
+4 (10) "Executive climate change coordinating council" or "council" or "EC4" means the
+5 council established by § 42-6.2-1.
+6 (11) "Gross floor area" means the total area of a covered property, measured between the
+7 outside surface of the exterior walls of the covered property building(s). The OER shall promulgate
+8 rules and procedures governing the calculation of gross floor area, including areas that shall be
+9 excluded from the calculation.
+10 (12) “Office of energy resources” or “OER” means the state agency charged with leading
+11 Rhode Island towards a clean, affordable, reliable, and equitable energy future.
+12 (13) "Owner" means any of the following:
+13 (i) An individual or entity possessing title to a covered property;
+14 (ii) The board of the owners' association, in the case of a condominium;
+15 (iii) The master association, in the case of a condominium, where the powers of an owners'
+16 association are exercised by or delegated to a master association;
+17 (iv) The board of directors, in the case of a cooperative apartment corporation; or
+18 (v) An agent authorized to act on behalf of any of the above.
+19 (14) "Performance metrics" means each of the objectively verifiable numeric measures of
+20 building performance as established by § 23-27.5-4(d).
+21 (15) "Property type(s)" means a category of covered properties subject to the same interim
+22 and final building performance standards, as defined by the OER. Covered properties within each
+23 property type shall have shared characteristics that facilitate the implementation and enforcement
+24 of this law. The OER may define one or more property types to be identical to ENERGY STAR
+25 property types.
+26 (16) "Public facility" means any public institution, public facility, or any physical asset
+27 owned, including its public real-property site, leased or controlled in whole or in part by this state,
+28 a public agency, a municipality or a political subdivision, that is for public or government use and
+29 that consumes energy.
+30 (17) "Residential building" means a building or multiple buildings on a property of which
+31 not less than fifty percent (50%) of the gross floor area, including hallways and other common
+32 space serving residents, but excluding parking, is used for dwelling purposes, or any grouping of
+33 residential buildings designated by the OER as an appropriate reporting unit for the purposes of
+34 this chapter; provided, however, that "residential building" shall not include a public facility or a
+LC004070 - Page 3 of 9
+
+1 building owned or leased by the federal government.
+2 (18) "Tenant" means any tenant, tenant-stockholder of a cooperative apartment
+3 corporation, or condominium unit owner.
+4 (19) "Utility" means a company, cooperative, association, or government entity that
+5 distributes and sells electricity, natural gas, or district energy for use in buildings.
+6 23-27.5-2. Authority.
+7 The office of energy resources is hereby granted authority to administer this chapter, which
+8 shall include the authority to issue forms and guidance, promulgate rules and regulations, apply for
+9 and receive federal funds, assess and receive fees, and contract with third parties to effectuate the
+10 powers granted herein. The OER shall consult with the department of environmental management
+11 regarding the emissions-based enforcement and reporting requirements of this chapter, for which
+12 the DEM shall be responsible.
+13 23-27.5-3. Advisory board.
+14 (a) For purposes of this chapter, the green building advisory committee (GBAC)
+15 established pursuant to § 37-24-5(g) shall act as an advisory board to the OER concerning the
+16 implementation of this chapter including, but not limited to, the establishment of the building
+17 performance standards, technical assistance, owner needs, outreach and education, opportunities
+18 for funding related to the chapter, the implementation of state policies, programs, and statutes
+19 related to the chapter and recommendations for building performance standards.
+20 (b) No later than one hundred and twenty (120) days following the enactment of this
+21 chapter, the OER shall establish the environmental justice advisory board (EJAB) to advise the
+22 OER on climate change efforts with respect to potential impacts on, benefits to, and special
+23 considerations for individuals and communities impacted by poverty and environmental injustice.
+24 (1) The EJAB shall be comprised of no fewer than nine (9) and no more than fifteen (15)
+25 individuals who are representatives of communities impacted by poverty and environmental
+26 injustice, representatives of nonprofit and public agencies who work with such individuals or
+27 communities, including providers of affordable housing, small business owners or organizations,
+28 and experts in areas related to racial and social equity, as well as one representative from the Rhode
+29 Island AFL-CIO. The commissioner of the OER shall select individuals in consultation with the
+30 EC4 advisory board, to serve on the EJAB following an opportunity for the public to apply in
+31 consultation with the EC4 advisory board.
+32 (2) All appointments to the EJAB shall be for a term of three (3) years. Members whose
+33 appointed terms have expired shall be permitted to continue to serve for up to one year until
+34 reappointed or replaced by a new appointee.
+LC004070 - Page 4 of 9
+
+1 (3) The OER shall fairly compensate EJAB members and provide stipends to cover the
+2 cost of childcare and information technology needs as determined by the EJAB and EC4.
+3 (4) The EJAB shall advise the OER and DEM on the implementation of this chapter with
+4 respect to potential impacts on, benefits to, and special considerations for individuals and
+5 communities impacted by poverty and environmental injustice, and small business owners from
+6 such communities.
+7 (5) The EJAB may develop a plan to allocate funds available in the BPS fund, established
+8 under § 23-27.5-5(g), to improve the performance of covered buildings and ensure that those
+9 investments benefit such communities.
+10 (6) The EJAB may host, in partnership with the GBAC and the OER, public meetings to
+11 gather input regarding the benchmarking program as well as the design and implementation of the
+12 building performance standards and complementary programs. Equitable engagement shall be a
+13 priority.
+14 23-27.5-4. Building performance improvement.
+15 (a) On a regular basis, the OER shall evaluate data relevant to understanding the energy
+16 use and greenhouse gas emissions of buildings in Rhode Island. The OER and DEM shall jointly
+17 publish reports summarizing the data and the status of building emissions in Rhode Island
+18 biennially.
+19 (b) No later than December 31, 2027, the OER and DEM shall publish a report including
+20 a summary of its activities and progress under this chapter and detailing recommended measures,
+21 policies and programs to achieve building emission reductions aligned with Rhode Island's net zero
+22 goal. The OER and DEM shall issue supplemental reports biennially for a period of twenty (20)
+23 years.
+24 (c) Performance metrics shall include site energy use intensity and may also include
+25 greenhouse gas emissions or other metrics relevant to the purpose of this chapter.
+26 (d) No later than December 31, 2028, the OER and DEM shall select performance metrics
+27 and set a building performance standard for each property type or subcategory.
+28 (e) The OER shall set final building performance standards that shall collectively cause the
+29 aggregate greenhouse gas emissions attributable to all covered properties to be reduced in line with
+30 reaching net zero by 2050.
+31 (f) The OER and DEM shall set interim building performance standards for covered
+32 properties that are applicable at the end of each five (5) year period between adoption and 2050. In
+33 doing so a straight-line trajectory may be used, from the covered property's baseline performance
+34 for each performance metric to the final building performance standard for that performance metric
+LC004070 - Page 5 of 9
+
+1 such that each calculated performance metric shall improve in equal increments during each five
+2 (5) year period. The DEM may use other means to calculate interim building performance standards
+3 if it deems the straight-line trajectory approach ill-suited for a covered property type.
+4 (g) As of June 30, 2035, and at the end of every five (5) year period thereafter, the owner
+5 of a covered property shall demonstrate progress toward each applicable final building performance
+6 standard by achieving the interim building performance standard(s) set by the OER for the covered
+7 property.
+8 (h) If the owner of a covered property believes that the owner cannot reasonably meet one
+9 or more of the applicable interim or final building performance standards, then the owner may
+10 propose an alternative building performance action plan to the OER. If the OER approves an
+11 alternative building performance action plan for a covered property, then the owner shall be
+12 responsible only to comply with the provisions of the alternative building performance action plan
+13 until the next compliance date.
+14 (i) The OER shall issue forms, guidance and promulgate regulations necessary to
+15 implement this section including requirements for building performance action plans.
+16 (j) In consultation with the EJAB, the OER shall provide technical assistance for owners
+17 lacking the financial, operational, or technical capacity to meet interim or final building
+18 performance standards. To the extent possible, such assistance shall include information on
+19 potential loan, grant, and other financing options for owners.
+20 (k) The OER shall coordinate with utility companies, energy efficiency program
+21 administrators, the public utilities commission, state agencies, and local governments, as
+22 appropriate, to support the implementation of its recommendations pursuant to this section.
+23 (l) In the case of a municipality that has initiated a building energy performance
+24 requirement prior to the enactment of this law, the municipality may continue such program in lieu
+25 of the requirements to be established by the OER under this section. In such case, the municipality
+26 must notify the OER of such intent within one hundred eighty (180) days of the enactment of this
+27 chapter and must provide program and performance information to the OER and DEM annually
+28 thereafter for reporting compliance.
+29 23-27.5-5. Compliance assurance.
+30 (a) The OER shall establish a program to maximize owner compliance with this chapter.
+31 In coordination with the DEM, the OER shall issue forms, guidance and promulgate regulations as
+32 necessary to implement the compliance program, and shall revise such forms, guidance and
+33 regulations from time to time as needed.
+34 (b) The OER may grant an extension, adjustment or exemption to an interim or final
+LC004070 - Page 6 of 9
+
+1 building performance standards for a covered property whose owner submits a request, together
+2 with documentation, in a form and date prescribed by the OER, if the covered property meets any
+3 of the following criteria:
+4 (1) A demolition permit was issued, or demolition is planned, that will prevent achievement
+5 of the next interim building performance standard;
+6 (2) The covered building did not have a certificate of occupancy or temporary certificate
+7 of occupancy for all twelve (12) months of the baseline year prior to the interim building
+8 performance standard compliance schedule;
+9 (3) The covered property is in financial hardship, as defined guidance or regulations issued
+10 by the OER; or
+11 (4) The OER determines that strict compliance with the provisions of this law would cause
+12 financial hardship or would not be in the public interest. Any approved alternative, extension,
+13 adjustment or exemption shall apply only to the specific interim or final building performance
+14 standard and shall expire no later than the end of the relevant five (5) year period.
+15 (c) The OER shall establish penalties for violations of this chapter through promulgation
+16 of regulations issued pursuant to this chapter. In doing so, the OER shall endeavor to minimize
+17 disproportionate impacts on communities impacted by poverty and environmental injustice. The
+18 OER may coordinate with the DEM for enforcement of the building performance standards, and
+19 the standards and requirements herein.
+20 (d) Pursuant to each of the benchmarking requirements and the building performance
+21 standards established under this chapter, the OER shall establish in regulations the process and
+22 criteria for a building owner to apply for, and for the OER to grant or deny:
+23 (1) A deadline extension; and/or
+24 (2) A hardship waiver.
+25 (e) The OER shall establish penalties for covered properties for violation of benchmarking
+26 requirements and for violation of building performance standards. Such payment amounts or
+27 formula shall reflect:
+28 (1) The total number of annual benchmarking submissions which a covered property has
+29 failed to achieve;
+30 (2) The total number of interim and final building performance standards which a covered
+31 property has failed to achieve;
+32 (3) The assessed value of the covered property; and
+33 (4) The magnitude of non-compliance under each performance metric.
+34 (f) An owner whose covered property fails to comply with benchmarking requirements or
+LC004070 - Page 7 of 9
+
+1 meet an interim or final building performance standard by the applicable compliance date shall be
+2 required to make a penalty payment. Any owner who does not reside or conduct their business in
+3 the covered property, but leases the covered property to a tenant or multiple tenants, shall remain
+4 the party responsible for ensuring compliance with this section. Any penalty payments rendered as
+5 a result of non-compliance shall not be passed on to any tenant who may lease the covered property
+6 in order to offset the cost to the owner.
+7 (g) The BPS fund is hereby established as a permanent designated fund managed by the
+8 OER. The BPS fund shall be used to support the building benchmarking and performance
+9 improvement program established in this law.
+10 (1) All funds collected from payment of penalties assessed shall be deposited into the BPS
+11 fund.
+12 (2) All funds deposited into the BPS fund, and any interest earned on the funds, shall not
+13 revert to the unrestricted fund balance of the general fund at the end of a fiscal year, or at any other
+14 time, but shall be continually available for the uses and purposes set forth in this chapter without
+15 regard to fiscal year limitation.
+16 (3) Additional funds from other sources may also be deposited into the BPS fund.
+17 23-27.5-6. Rules and regulations.
+18 The OER shall promulgate rules and regulations to implement and enforce the provisions
+19 of this chapter.
+20 23-27.5-7. Appeals.
+21 An owner aggrieved by this chapter or compliance orders resulting therefrom may appeal
+22 pursuant to the provisions of chapter 35 of title 42 ("administrative procedures").
+23 SECTION 3. This act shall take effect upon passage.
+========
+LC004070
+========
+LC004070 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- BUILDING PERFORMANCE STANDARDS
+ACT OF 2026
+***
+1 The act would direct the office of energy resources to develop building performance
+2 standards for large buildings in Rhode Island that would cause greenhouse gas emissions to decline
+3 in line with the act on climate requirements.
+4 This act would take effect upon passage.
+========
+LC004070
+========
+LC004070 - Page 9 of 9

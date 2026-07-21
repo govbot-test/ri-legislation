@@ -1,0 +1,741 @@
+Title: 
+Official Title: 
+Source: versions - 2567
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2567
+========
+LC003687
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- UNIVERSAL AND UNIFIED HEALTHCARE SYSTEM
+ACT
+Introduced By: Senators Kallman, Murray, Lauria, DiMario, Mack, Valverde, Ujifusa,
+Zurier, and Acosta
+Date Introduced: February 13, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative Findings.
+2 The general assembly hereby finds and declares that:
+3 (1) Healthcare is a fundamental human right, not a commodity, necessitating government
+4 action to ensure universal access;
+5 (2) Many residents of this state remain uninsured or underinsured, leading to systemic
+6 inequities such as delayed care, worse health outcomes, and medical debt;
+7 (3) A multi-payer system is complex and costly, with significant funds spent on overhead
+8 rather than care, whereas single-payer systems allow significant savings and better cost control;
+9 (4) Universal coverage stabilizes healthcare spending by preventing costly emergency care,
+10 improving workforce productivity, and reducing the burden on businesses such as employer-
+11 sponsored insurance; and
+12 (5) Guaranteed access to primary and preventive care improves overall health for residents
+13 in this state, reduces chronic disease burdens, and lowers mortality rates.
+14 SECTION 2. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+15 adding thereto the following chapter:
+16 CHAPTER 84
+17 UNIVERSAL AND UNIFIED HEALTHCARE SYSTEM ACT
+18 27-84-1. Short title.
+
+1 This chapter shall be known and may be cited as the “Universal and Unified Healthcare
+2 System Act” or “RICare Act”.
+3 27-84-2. Legislative purpose.
+4 The purpose of this chapter is to improve overall health for residents in this state by
+5 guaranteeing access to primary and preventive care, and to stabilize healthcare spending by
+6 providing universal insurance coverage.
+7 27-84-3. Definitions.
+8 As used in this chapter, the following words and terms shall have the following meanings
+9 unless the context shall clearly indicate another or different meaning or intent:
+10 (1) "Ambulance" means a vehicle specially equipped for taking sick or injured people to
+11 and from the hospital, especially in emergencies pursuant to the terms set forth in chapter 4.1 of
+12 title 23.
+13 (2) "Autism spectrum disorders" means that term as defined in § 27-20.11-2.
+14 (3) "Board" means the RICare board created in § 27-84-10.
+15 (4) "Department" means the department of health.
+16 (5) "Director" means the director of the department of health or designee.
+17 (6) "Exchange" means the Rhode Island health benefits exchange established within the
+18 department of administration by § 42-157-1.
+19 (7) "Federal act" means the federal Patient Protection and Affordable Care Act, Public Law
+20 111-148, as amended by the federal Healthcare and Education Reconciliation Act of 2010, Public
+21 Law 111-152, and any regulations promulgated under those acts.
+22 (8) "Fund" means the RICare fund created in § 27-84-26.
+23 (9) "Gender affirming care" means the process of changing an individual's outward
+24 appearance, including physical sex characteristics, to accord with the individual's gender identity.
+25 (10) "Health carrier" means any of the following entities that are subject to the insurance
+26 laws and regulations of this state or otherwise subject to the jurisdiction of the superintendent of
+27 insurance and director of the Rhode Island department of business regulations:
+28 (i) A health insurer;
+29 (ii) A health maintenance organization;
+30 (iii) A healthcare corporation;
+31 (iv) A nonprofit dental care corporation; and
+32 (v) Any other entity providing a plan of health insurance, health benefits, or health services.
+33 (11) "Healthcare professional" means an individual, partnership, corporation, facility, or
+34 institution licensed, registered, certified, or otherwise authorized by state law to provide
+LC003687 - Page 2 of 21
+
+1 professional health services.
+2 (12) "Healthcare system" means the city or town, state, or national system of delivering
+3 health services, including administrative costs, capital expenditures, preventive care, and wellness
+4 services.
+5 (13) "Health service" means any treatment or procedure delivered by a healthcare
+6 professional to maintain an individual's physical or mental health or to diagnose or treat an
+7 individual's physical or mental health condition, including services ordered by a healthcare
+8 professional for chronic care management, preventive care, wellness services, and medically
+9 necessary services to assist in activities of daily living.
+10 (14) "Hospice" means a health care program that provides a coordinated set of services
+11 rendered at home or in outpatient or institutional settings for individuals suffering from a disease
+12 or condition with a terminal prognosis.
+13 (15) "Hospital" means any of the following:
+14 (i) That term as defined in §§ 23-17-2 and 40.1-5-2; and
+15 (ii) A hospital located outside of this state;
+16 (16) "Integrated delivery system" means a group of healthcare professionals, associated
+17 either through employment by a single entity or through a contractual arrangement, that provides
+18 health services for a defined population of patients.
+19 (17) "Manufacturers of prescribed products" means any of the following:
+20 (i) A manufacturer as defined in § 5-19.1-2;
+21 (ii) A primary caregiver as defined in § 21-28.6-3(24); and
+22 (iii) A marijuana establishment licensee as defined in § 21-28.6-3 to include growers,
+23 processors, medical marijuana cultivators, and cannabis testing laboratories;
+24 (18) “Rhode Island Medicaid program” or "Medicaid" means that term as defined in § 40-
+25 8.2-2.
+26 (19) “Medicare” means the “Health Insurance for the Aged Act,” 42 U.S.C. § 1395 et seq.,
+27 as defined in § 27-18.2-1.
+28 (20) "RICare" means the universal healthcare system established pursuant to the provisions
+29 of this chapter and designed to provide healthcare coverage through a simplified, public
+30 administrative system and single claims payment system.
+31 (21) "RIChild" means the “1993 Health Care Act for Children and Pregnant Women”
+32 pursuant to chapter 12.3 of title 42.
+33 27-84-4. Director’s responsibilities.
+34 (a) The director shall coordinate healthcare system reform efforts among executive branch
+LC003687 - Page 3 of 21
+
+1 agencies, departments, and offices and shall coordinate with the board.
+2 (b) The director shall ensure that executive branch agencies, departments, and offices
+3 responsible for the development, improvement, and implementation of this state's healthcare
+4 system reform do so in a manner that is coordinated, timely, equitable, patient-centered, and
+5 evidence-based and that seeks to inform and improve the quality of patient care and public health,
+6 contain costs, and attract and retain well-paying jobs in this state.
+7 (c) The director, when invited, shall provide information and testimony on the efforts under
+8 this chapter to the house and senate committees on health and human services.
+9 (d) The director shall supervise and oversee, as appropriate, the planning efforts, a
+10 continuation of the planning necessary to ensure an adequate, well-trained primary care workforce;
+11 necessary retraining for any employees dislocated from healthcare professionals or from health
+12 carriers because of the simplification in the administration of healthcare; consolidation of multiple
+13 payment sources into a single payment system; and unification of health system planning,
+14 regulation, and public health.
+15 27-84-5. Administrative process.
+16 (a) The healthcare reform efforts under this chapter shall include simplified administration
+17 processes and delivery reform in order to have a publicly financed and publicly administered
+18 program of universal and unified healthcare operational after the occurrence of specific events,
+19 including the receipt of a waiver from the federal health benefit exchange requirement from the
+20 United States Department of Health and Human Services.
+21 (b) In order to begin the planning efforts, the director shall establish a strategic plan that
+22 includes timelines and allocations of the responsibilities associated with healthcare system reform,
+23 to improve health outcomes, to further this state's existing healthcare system reform efforts, and to
+24 further all the requirements of this chapter.
+25 27-84-6. Eligibility.
+26 (a) As provided in this chapter, all residents of this state are eligible for RICare, a universal
+27 healthcare program that shall provide healthcare coverage through a single payment system. To the
+28 maximum extent allowable under federal law and through waivers from requirements of federal
+29 law, RICare includes healthcare coverage provided under Medicaid, under Medicare, under
+30 RIChild, by employers that choose to participate, and to town, city and state government
+31 employees.
+32 (b) If the federal act as defined in § 27-84-3, is modified by congressional, judicial, or
+33 federal administrative action that prohibits implementation of a health benefit exchange; eliminates
+34 federal funds available to individuals, employees, or employers; or eliminates the waiver under §
+LC003687 - Page 4 of 21
+
+1 1332 of the federal act, 42 USC 18052, the director shall continue, and adjust as appropriate, the
+2 planning and cost containment activities provided in this chapter related to RICare and to creation
+3 of a unified, simplified administration and payment system, including identifying the financing
+4 impacts of such a modification on this state and its effects on the activities provided for in this
+5 chapter.
+6 27-84-7. Waivers, exemptions, agreements and legislation.
+7 The director shall obtain waivers, exemptions, agreements, legislation, or a combination of
+8 these items to ensure that, to the extent possible under federal law, all federal payments provided
+9 within this state for health services are paid directly to RICare. RICare shall assume responsibility
+10 for the benefits and services previously paid for by the federal programs, including Medicaid,
+11 Medicare, RIChild and, after implementation, the exchange. In obtaining the waivers, exemptions,
+12 agreements, legislation, or combination of those items, the director shall negotiate with the federal
+13 government a federal contribution for healthcare services in this state that reflects medical inflation,
+14 the state gross domestic product, the size and age of the population, the number of residents of this
+15 state living below the poverty level, the number of Medicare-eligible individuals, and other factors
+16 that may be advantageous to this state and shall not decrease in relation to the federal contribution
+17 to other states as a result of the waivers, exemptions, agreements, or savings from implementation
+18 of RICare.
+19 27-84-8. Development of a work plan.
+20 The board, in collaboration with the director, shall develop a work plan for the board. The
+21 board may include in the work plan any necessary processes for implementation of the board's
+22 duties, a timeline for implementation of the board's duties, and a plan for ensuring sufficient staff
+23 to implement the board's duties. The board shall submit the work plan developed under this section
+24 to the house and senate committees on health and human services not later than January 1, 2027.
+25 27-84-9. Framework.
+26 As a framework for reforming healthcare in this state, the director shall utilize and ensure
+27 that the healthcare system in this state satisfies all of the following principles:
+28 (1) That universal access to and coverage for high-quality, medically necessary health
+29 services is ensured for all residents of this state;
+30 (2) That systemic barriers including, but not limited to, cost, inadequate information,
+31 transportation needs, and geographic distribution of providers, shall not prevent residents of this
+32 state from accessing necessary health services;
+33 (3) That all residents of this state receive affordable and appropriate health services at the
+34 appropriate time in the appropriate setting;
+LC003687 - Page 5 of 21
+
+1 (4) That overall costs for health services are contained and that growth in healthcare
+2 spending in this state balances the healthcare needs of the population with the ability to pay for
+3 necessary health services;
+4 (5) That the healthcare system in this state be transparent in design, efficient in operation,
+5 and accountable to the residents of this state. The director shall ensure public participation by
+6 residents of this state in the design, implementation, evaluation, and accountability mechanisms of
+7 the healthcare system;
+8 (6) That primary care be preserved and enhanced so that residents of this state have health
+9 services available to them, preferably within their own communities. Other aspects of this state's
+10 healthcare infrastructure including, but not limited to, the educational and research missions of the
+11 state's academic medical institution and other postsecondary educational institutions, the missions
+12 of hospitals, public health and population health missions of public and private community health
+13 organizations, and the critical access must be supported in such a way that all residents of this state
+14 have access to necessary health services and that these health services are sustainable;
+15 (7) That care for mental health and physical health is coordinated and integrated, that
+16 mental healthcare be covered at parity with physical healthcare, and that to the extent practical,
+17 patients can access mental health and physical healthcare in the same settings;
+18 (8) That every resident of this state is able to choose their healthcare professionals;
+19 (9) That residents of this state are aware of the costs of the health services they receive. For
+20 this purpose, the cost of health services should be transparent and easy to understand;
+21 (10) That the healthcare system recognizes the primacy of the relationship between a
+22 patient and the patient's healthcare professionals, respecting the professional judgment of
+23 healthcare professionals and the informed decisions of patients;
+24 (11) That this state's healthcare system seeks continuous improvement of healthcare quality
+25 and safety and of the health of the residents of this state and reduce morbidity and increase life
+26 expectancy. For this reason, the director shall ensure that the system is evaluated regularly for
+27 improvements in access, outcomes, and cost containment;
+28 (12) That appropriate rules and enforcement mechanisms are in place to ensure that
+29 healthcare provider work hours and staffing ratios support the health and safety of both providers
+30 and patients;
+31 (13) That this state's healthcare system includes mechanisms for containing all system costs
+32 and eliminating unnecessary expenditures, including by reducing administrative costs, by reducing
+33 costs that do not contribute to improved health outcomes, and by leveraging the unified payment
+34 system to negotiate prices. The director shall ensure that efforts to reduce overall healthcare costs
+LC003687 - Page 6 of 21
+
+1 identify sources of excess cost growth;
+2 (14) That the system shall enable healthcare professionals to provide, on a solvent basis,
+3 effective and efficient health services that are in the public interest; and
+4 (15) That this state's healthcare system operates as a partnership between patients,
+5 consumers, employers, healthcare professionals, hospitals, and the state and federal governments.
+6 27-84-10. Creation of the RICare board.
+7 (a) The RICare board is created as an independent entity within the department with the
+8 powers and duties as provided for under this chapter. The department shall provide suitable office
+9 space for the board and the employees of the board.
+10 (b) The board shall promote the general good of this state by doing all of the following:
+11 (1) Improving the health of the residents of this state as measured by rates of disability,
+12 disease, and life expectancy;
+13 (2) Reducing the per-capita rate of growth in expenditures for health services in this state
+14 across all payers while ensuring that access to health services and the quality of health services
+15 received by residents of this state are not compromised;
+16 (3) Enhancing the patient and healthcare professional experience during the delivery of
+17 health services;
+18 (4) Recruiting and retaining high-quality healthcare professionals;
+19 (5) Achieving administrative simplification in healthcare financing and delivery; and
+20 (6) Consolidating as many payment sources as feasible into a unified claims payment
+21 system.
+22 27-84-11. RICare board composition.
+23 (a) Within the department of health, there shall be an RICare board appointed by the
+24 director with the approval of the governor. Composition of board members: The board shall consist
+25 of sixteen (16) members who reside in the State of Rhode Island. The board shall include members
+26 with the following types of experience:
+27 (1) Two (2) members with experience or expertise in public health;
+28 (2) One member with experience or expertise in healthcare financing or healthcare
+29 economics;
+30 (3) Two (2) members with experience or expertise in healthcare benefit design;
+31 (4) One member with experience or expertise in healthcare administration;
+32 (5) One member who is a licensed healthcare professional with recent experience in
+33 primary care;
+34 (6) One member who is a licensed healthcare professional with recent experience in acute
+LC003687 - Page 7 of 21
+
+1 care;
+2 (7) One member who is a licensed healthcare professional with recent experience in mental
+3 healthcare or behavioral health;
+4 (8) One member who is a licensed healthcare professional with recent experience in dental
+5 care;
+6 (9) One member who is a licensed physician;
+7 (10) One member who is a registered nurse;
+8 (11) One member who is eligible for community mental health services at the time of initial
+9 nomination;
+10 (12) One member who is eligible for Medicare at the time of initial nomination;
+11 (13) One member who is eligible for employer health coverage at the time of initial
+12 nomination; and
+13 (14) One member who is eligible for Medicaid at the time of initial nomination.
+14 (b) Appointments for the initial term shall be for one year for every appointment for an odd
+15 number appointment designated pursuant to subsection (a) of this section, and the initial
+16 appointment for even number appointments shall be for a two (2) year term.
+17 (c) The board shall be appointed for staggered terms. After the initial appointment all terms
+18 shall be for two (2) years. No member shall serve more than three (3) consecutive terms. Upon the
+19 death, resignation, or removal of any member, the director, with the approval of the governor, shall
+20 appoint to fill vacancies, as they occur, a qualified person to serve on the board for the remainder
+21 of vacant member's term or until the vacant member's successor is appointed and qualified.
+22 (d) The board shall elect, at its first meeting of the calendar year, from its members a chair
+23 and other officers as it deems appropriate and necessary to conduct business. The chair shall preside
+24 at meetings of the board, be responsible for the performance of all duties and functions of the board
+25 and shall perform those duties customarily associated with the position in addition to other duties
+26 assigned by the board. The board shall designate a member to serve in the absence of the chair.
+27 (e) The chair and any other officer shall serve a term of one year commencing with the day
+28 of their election and ending upon the election of their successor.
+29 (f) The director may remove any member of the board for the neglect of any duty required
+30 by law or for any incompetent, unprofessional, or dishonorable conduct. Before beginning their
+31 term of office, each member shall take the oath prescribed by law, a record of which shall be filed
+32 with the secretary of state.
+33 (g) A board member may be suspended or removed by the director for unprofessional
+34 conduct; refusal or inability of a board member to perform their duties as a member of the board in
+LC003687 - Page 8 of 21
+
+1 an efficient, responsible, and professional manner; conviction of a felony or of a crime related to
+2 the practice of the healthcare profession; failure to meet the qualifications of this statute; or
+3 committing any act prohibited by this statute.
+4 (h) Members of the board shall not receive compensation for their attendance at official
+5 meetings of the board, or attendance at any meeting that would constitute official board business,
+6 including teleconference calls or other board responsibilities.
+7 (i) The board shall meet at least quarterly. The board may hold additional meetings at the
+8 call of the chair or at the written request of any three (3) members of the board. The chair of the
+9 board shall have the authority to call other meetings at chair's discretion.
+10 (j) A quorum shall be necessary to conduct official board business or any committee
+11 thereof. A majority of the members shall constitute a quorum. The board may enter into executive
+12 (closed) session according to relevant law.
+13 27-84-12. Advisory groups and subcommittees to the board.
+14 (a) The board may establish additional advisory groups and subcommittees as needed to
+15 carry out their duties. The board shall appoint diverse healthcare professionals and consumers
+16 demographically representative of the population of this state to the additional advisory groups and
+17 subcommittees as appropriate.
+18 (d) In carrying out its duties under this chapter, the board shall seek the advice of
+19 appropriate individuals and entities regarding the policies, procedures, and rules established under
+20 this chapter. Appropriate individuals and entities are those who represent the interests of residents
+21 of this state who are patients and consumers of health services and healthcare coverage and who
+22 may suggest policies, procedures, or rules to the board to protect those patients' and consumers'
+23 interests.
+24 27-84-13. RICare board’s powers and duties.
+25 (a) The board shall execute its powers and duties under this chapter consistent with the
+26 principles expressed in this chapter.
+27 (b) The board shall do all of the following:
+28 (1) Oversee the development and implementation, and evaluate the effectiveness of
+29 healthcare payment and delivery system reforms designed to control the rate of growth in the costs
+30 of health services and maintain healthcare quality in this state.
+31 (2) As provided in this subsection, promulgate rules to implement methodologies for
+32 achieving payment reform and containing costs and improving outcomes. Rules may relate to the
+33 creation of healthcare professional cost-containment or outcome targets, bundled payments, risk-
+34 adjusted capitated payments, or other uniform payment methods and amounts for integrated
+LC003687 - Page 9 of 21
+
+1 delivery systems, healthcare professionals, or other provider arrangements. Before promulgating
+2 rules under this subsection, the board shall report the board's proposed methodologies to the senate
+3 house and senate committees on health and human services. In developing methodologies under
+4 this subsection, the board shall engage residents of this state in seeking ways to equitably distribute
+5 health services while acknowledging the connection between fair and sustainable payment and
+6 access to healthcare.
+7 (3) Review this state's healthcare information infrastructure to ensure that the necessary
+8 standards, claims payment databases, electronic health records, and other infrastructure are in place
+9 to enable this state to achieve the principles expressed in this chapter.
+10 (4) Set rates for healthcare professionals, to be implemented over time, and make
+11 adjustments to the rules on reimbursement methodologies as needed.
+12 (5) Not later than March 1, 2027, and before promulgating rules, review the benefit package
+13 for qualified health plans under the exchange. The board shall report to the house and senate
+14 committees on health and human services not later than fifteen (15) days after its review of the
+15 initial benefit package and any subsequent substantive changes to the benefit package.
+16 (6) Develop and maintain a method for evaluating systemwide performance and quality,
+17 including identification of the appropriate process and outcome measures as follows:
+18 (i) For determining public and healthcare professional satisfaction with the healthcare
+19 system;
+20 (ii) For assessing the effectiveness of prevention and health promotion programs;
+21 (iii) For cost containment and limiting the growth in expenditures for health services;
+22 (iv) For determining the adequacy of the supply and distribution of healthcare resources in
+23 this state;
+24 (v) For determining and tracking rates of morbidity and premature mortality for relevant
+25 populations, and determining and tracking life expectancy and other quantifiable indicators of
+26 population health as appropriate;
+27 (vi) For assessing the frequency and severity of medical errors and preventable adverse
+28 outcomes;
+29 (vii) For assessing the care received by RICare beneficiaries in relation to evidence-based
+30 clinical practice guidelines;
+31 (viii) For assessing the adequacy of staffing ratios and health provider work hour rules and
+32 enforcement in protecting patients and providers;
+33 (ix) For assessing the contribution of healthcare costs to personal and business bankruptcies
+34 in this state before and after implementation of RICare;
+LC003687 - Page 10 of 21
+
+1 (x) For determining timeliness of healthcare service delivery;
+2 (xi) To address access to and quality of mental health and substance abuse services; and
+3 (xii) For other indicators as determined by the board.
+4 (7) Not later than January 1, 2028, study the feasibility of replacing health coverage for
+5 accidental bodily injury currently provided by motor vehicle insurers, with RICare coverage. The
+6 board shall report to the house and senate committees on health and human services not later than
+7 fifteen (15) days after completing its study on the differences in covered benefits, projected costs,
+8 projected reductions in motor vehicle insurance premiums, assets available to the catastrophic
+9 claims to pay motor vehicle health claims and proposed additional revenue sources.
+10 (8) Not later than March 1, 2028, study the feasibility of replacing health coverage
+11 currently provided under workers’ disability compensation with RICare coverage. The board shall
+12 report to the house and senate committees on health and human services not later than fifteen (15)
+13 days after completing its study on the differences in covered benefits, federal requirements for state
+14 workers’ compensation systems, projected costs, projected reductions in workers’ compensation
+15 insurance premiums to pay workers’ compensation health claims, and proposed additional revenue
+16 sources.
+17 (9) Not later than November 1, 2027, study the feasibility of including long-term care in
+18 the RICare benefits package. The board shall report to the house and senate committees on health
+19 and human services not later than fifteen (15) days after completing its study on the need for long-
+20 term care services in this state, the relative value of covering attendant and home care services to
+21 enable care in the least restrictive environment, the advisability of setting separate procedures to
+22 establish residency for long-term care coverage eligibility, projected costs, federal funding
+23 available to pay long-term care claims, and proposed additional revenue sources.
+24 (c) The board shall do all of the following with regard to RICare:
+25 (1) Before implementing RICare, consider recommendations from the department, and
+26 define the RICare benefit package within the parameters established in §§ 27-84-18 through 27-
+27 84-29.
+28 (2) When providing its recommendations for the benefit package under subsection (c)(1)
+29 of this section, present a report on the benefit package proposal to the house and senate committees
+30 on health and human services. The report shall describe the health services to be covered in the
+31 RICare benefit package. If the general assembly is not in session at the time that the board makes
+32 its recommendations, the board shall send its report electronically or by first-class mail to each
+33 member of the house and senate committees on health and human services.
+34 (3) Before implementing RICare and annually after implementation, recommend to the
+LC003687 - Page 11 of 21
+
+1 general assembly and the governor a three (3) year RICare budget pursuant to § 27-84-25, to be
+2 adjusted annually in response to realized revenues and expenditures, that reflects any modifications
+3 to the benefit package and includes recommended appropriations, revenue estimates, and necessary
+4 modifications to tax rates, fees, and other assessments, if any.
+5 (d) On or before January 15, 2027, and each January 15 thereafter, the board shall submit
+6 a report of its activities for the preceding state fiscal year to the house and senate committees on
+7 health and human services. The report shall include any changes to the payment rates for healthcare
+8 professionals under § 27-84-14, any new developments with respect to health information
+9 technology, the evaluation criteria adopted under subsection (b)(6) of this section and any related
+10 modifications, the results of the systemwide performance and quality evaluations required by
+11 subsection (b)(6) of this section and any resulting recommendations, the process and outcome
+12 measures used in the evaluation, any recommendations for modifications to state law, and any
+13 actual or anticipated impacts on the work of the board as a result of modifications to federal laws,
+14 regulations, or programs. The report shall identify how the work of the board comports with the
+15 principles expressed in this chapter.
+16 (e) All reports prepared by the board shall be available to the public on request and shall
+17 be posted on the board's internet website.
+18 27-84-14. Payment rates.
+19 (a) The board shall ensure payments to healthcare professionals that are consistent with
+20 efficiency, economy, and quality of care and that shall permit healthcare professionals to provide,
+21 on a solvent basis, effective and efficient health services that are in the public interest. The board
+22 shall ensure that the amount paid to healthcare professionals is sufficient to enlist enough healthcare
+23 professionals to ensure that health services are available to all residents of this state and are
+24 distributed equitably.
+25 (b) The board shall set reasonable rates for healthcare professionals, manufacturers and
+26 retailers of prescribed products, medical supply companies, and other companies providing health
+27 services or health supplies based on methodologies pursuant to § 27-84-13, in order to have a
+28 consistent reimbursement amount accepted by these persons. The board shall also set rates for
+29 covered benefits provided by persons who are not licensed healthcare professionals that provide
+30 services such as home services and transportation services. In establishing rates, the board may
+31 consider legitimate differences in costs among healthcare professionals, including the cost of
+32 providing a specific necessary service or services that may not be available in this state, and the
+33 need for healthcare professionals in particular areas of this state, particularly in underserved
+34 practice shortage areas. This subsection shall not limit the ability of a healthcare professional to
+LC003687 - Page 12 of 21
+
+1 accept less than the rate established in this subsection from a patient without health insurance or
+2 other coverage for the health service received.
+3 (c) The board shall approve payment methodologies that encourage cost containment;
+4 provision of high-quality, evidence-based health services in an integrated setting; patient self-
+5 management; access to primary care health services for underserved individuals, populations, and
+6 areas; and healthy lifestyles. The payment methodologies shall be consistent with evidence-based
+7 practices and may include fee-for-service payments if the board determines those payments to be
+8 appropriate.
+9 (d) To the extent required to avoid federal antitrust violations and in furtherance of the
+10 policy identified in subsection (a) of this section, the board shall facilitate and supervise the
+11 participation of healthcare professionals in the process described in subsection (b) of this section.
+12 (e) As a base rate for any benefit described in § 27-84-13 that is covered by Medicare Part
+13 A or B, the board shall set a rate that is fifty (50%) percent more than the rate provided by Medicare.
+14 The board may adjust the base rate to ensure access to services in specific geographic areas or types
+15 of care, or to improve outcomes or control costs in accordance with § 27-84-13.
+16 (f) As a base rate for coverage of a medical device or prescription drug that is covered by
+17 the Department of Veterans Affairs, the board shall set the rate equal to the rate provided by the
+18 Department of Veterans Affairs. The board may adjust the base rate to ensure access to medically
+19 necessary devices or drugs, or to improve outcomes or control costs in accordance with § 27-84-
+20 13.
+21 27-84-15. State and federal privacy laws.
+22 The director shall ensure that, in accordance with state and federal privacy laws, the board
+23 has access to data and analysis held by any executive branch agency, department, or office that is
+24 necessary to carry out the board's powers and duties as described in this chapter.
+25 27-84-16. Promulgation of rules.
+26 The board may promulgate rules under chapter 35 of title 42 (“administrative procedures”),
+27 as needed to carry out this chapter. If promulgating rules relating to the RICare benefit package,
+28 the director shall ensure that the rules are consistent with the benefit package defined by the board
+29 under this chapter.
+30 27-84-17. Adoption of procedures.
+31 (a) The board shall adopt procedures for administrative appeals of its actions, orders, or
+32 other determinations. The procedures shall provide for the issuance of a final order and the creation
+33 of a record sufficient to serve as the basis for judicial review under subsection (b) of this section.
+34 (b) A person aggrieved by a final action, order, or other determination of the board is
+LC003687 - Page 13 of 21
+
+1 entitled, on exhaustion of all administrative appeals available under subsection (a), to judicial
+2 review.
+3 27-84-18. Purpose of RICare.
+4 RICare is established to provide, as a public good, comprehensive, affordable, high-quality,
+5 publicly financed, and publicly administered healthcare coverage for all residents of this state in a
+6 seamless and equitable manner regardless of income, assets, health status, or availability of other
+7 health coverage. RICare must improve value in healthcare by doing all of the following:
+8 (1) Establishing innovative payment mechanisms to improve outcomes and contain costs;
+9 (2) Reducing unnecessary administrative expenditures through a publicly administered
+10 system; and
+11 (3) Negotiating lower prices with the leverage of a unified payment system.
+12 27-84-19. Implementation.
+13 (a) RICare shall be implemented ninety (90) days after the last of the following to occur:
+14 (1) Receipt of a waiver under § 1332 of the federal act, 42 USC 18052(b);
+15 (2) Enactment of a law establishing the financing for RICare;
+16 (3) Approval by the board of the initial RICare benefit package under § 27-84-13;
+17 (4) Enactment of the appropriations for the initial RICare benefit package proposed by the
+18 board under § 27-84-13; and
+19 (5) A determination by the board that each of the following conditions shall be met:
+20 (i) When implemented, RICare shall not have a negative aggregate impact on this state's
+21 economy;
+22 (ii) The financing for RICare is sustainable;
+23 (iii) Administrative expenses shall be reduced;
+24 (iv) Cost-containment efforts shall result in a reduction in the rate of growth in this state's
+25 per capita healthcare spending; and
+26 (v) Healthcare professionals shall be reimbursed at levels sufficient to allow this state to
+27 recruit and retain high-quality healthcare professionals.
+28 (b) As soon as allowed under federal law, the director shall seek a waiver to allow this state
+29 to suspend operation of the exchange and to enable this state to receive the appropriate federal fund
+30 contribution in lieu of the federal premium tax credits, cost-sharing subsidies, and small business
+31 tax credits provided in the federal act. The director may seek a waiver from other provisions of the
+32 federal act as necessary to ensure the operation of RICare.
+33 27-84-20. Ineligibility.
+34 (a) On implementation, a resident of this state is eligible for RICare, regardless of whether
+LC003687 - Page 14 of 21
+
+1 an employer offers health insurance for which the resident is eligible. The department shall
+2 promulgate rules under chapter 35 of title 42 (“administrative procedures”), as needed to carry out
+3 this chapter to establish standards for proof and verification that an individual is a resident of this
+4 state.
+5 (b) Except as otherwise provided in this subsection, if an individual is determined to be
+6 eligible for RICare based on information later found to be false, the department shall make
+7 reasonable efforts to recover from the individual the amounts expended through RICare for health
+8 services on the individual's behalf. In addition, if the individual knowingly provided the false
+9 information, the individual is subject to an administrative fine of not more than one thousand
+10 ($1,000) dollars. The department shall include information on the RICare application to provide
+11 notice to applicants of the penalty for knowingly providing false information as established in this
+12 subsection. An individual determined to be eligible for RICare whose health services are paid in
+13 whole or in part by Medicaid funds who commits fraud is subject to The State False Claim Act,
+14 chapter 1.1 of title 9 (“the state false claim act”), instead of the administrative penalty described in
+15 this subsection. This subsection does not limit or restrict prosecutions under any applicable
+16 provision of law.
+17 (c) Except as otherwise provided in this section, a person who is not a resident of this state
+18 is not eligible for RICare. Except as otherwise provided in this subsection, an individual covered
+19 under RICare shall inform the department not later than sixty (60) days after becoming a resident
+20 of another state. An individual who obtains or attempts to obtain health services through RICare
+21 more than sixty (60) days after becoming a resident of another state shall reimburse the department
+22 for the amounts expended for the individual's care and is subject to an administrative penalty of not
+23 more than five hundred dollars ($500) for a first violation and not more than one thousand dollars
+24 ($1,000) for any subsequent violation. An individual whose health services are paid in whole or in
+25 part by Medicaid funds who obtains or attempts to obtain health services through RICare more than
+26 sixty (60) days after becoming a resident of another state is subject to chapter 1.1 of title 9(“the
+27 state false claim act”), instead of the administrative penalty described in this subsection. This
+28 subsection does not limit or restrict prosecutions under any applicable provision of law.
+29 (d) Administrative penalties collected under this section must be transmitted to the state.
+30 27-84-21. Enrollment procedures established.
+31 (a) The department shall establish a procedure to enroll residents of this state in RICare.
+32 The department shall develop and implement a program to train department employees and
+33 community health workers to enroll residents in RICare.
+34 (b) The department shall promulgate rules set forth under chapter 35 of title 42
+LC003687 - Page 15 of 21
+
+1 (“administrative procedures”), to establish a process to allow healthcare professionals to presume
+2 an individual is eligible based on the information provided on a simplified application. After
+3 submission of the application, the department shall collect additional information as necessary to
+4 determine whether Medicaid, Medicare, RIChild, or other federal funds may be applied toward the
+5 cost of the health services provided but shall provide payment for any health services received by
+6 the individual from the time the application is submitted. If an individual presumed eligible for
+7 RICare under this subsection is later determined not to be eligible for the program, the department
+8 shall make reasonable efforts to recover from the individual the amounts expended through RICare
+9 for health services on the individual's behalf.
+10 (c) The department shall promulgate rules set forth in chapter 35 of title 42 (“administrative
+11 procedures”), to ensure that residents of this state who are temporarily out of the state and who
+12 intend to return and reside in this state remain eligible for RICare while outside this state.
+13 (d) A nonresident visiting this state, or the individual's health carrier, shall be billed for all
+14 health services received by that individual in this state. The department may enter into
+15 intergovernmental arrangements or contracts with other states and countries to provide reciprocal
+16 coverage for temporary visitors and shall promulgate rules under set forth in chapter 35 of title 42
+17 (“administrative procedures”), to carry out this subsection.
+18 27-84-22. Coverage for medical benefits.
+19 (a) RICare includes coverage for medically necessary benefits including, but not limited
+20 to, all of the following:
+21 (1) Primary care;
+22 (2) Preventive care;
+23 (3) Chronic care;
+24 (4) Acute episodic care;
+25 (5) Hospital services;
+26 (6) Behavioral health services;
+27 (7) Prescription drugs;
+28 (8) Medical devices;
+29 (9) Dental care;
+30 (10) Vision care;
+31 (11) Hearing care;
+32 (12) Care for substance use disorder;
+33 (13) Reproductive healthcare and obstetrical care;
+34 (14) Long-term care, including in-home care;
+LC003687 - Page 16 of 21
+
+1 (15) Laboratory services, including blood lead testing for a child who is not seven (7) years
+2 of age, in accordance with Centers for Disease Control guidelines;
+3 (16) Gender affirming care;
+4 (17) Organ donation and transplantation;
+5 (18) Treatment of autism spectrum disorders;
+6 (19) Ambulance services;
+7 (20) Hospice care; and
+8 (21) Telehealth services.
+9 (b) The benefits package for all RICare recipients shall, at a minimum, include any
+10 essential benefits for plans under the federal act defined in § 27-84-3.
+11 (c) RICare shall not include premiums or cost-sharing requirements. The board shall not
+12 impose deductibles, co-insurance, co-pays, or individual caps on coverage amounts. The board
+13 shall include all costs of covered benefits in the budget recommended to the general assembly under
+14 § 27-84-26. without assuming any revenue shall be derived from premiums or cost-sharing.
+15 (d) RICare shall not discriminate in the design and administration of benefits or in the
+16 payment of claims because of sexual orientation, gender identity, or disability.
+17 (e) RICare shall not limit coverage for preexisting conditions.
+18 (f) The board shall approve the benefit package and present it to the general assembly as
+19 part of its recommendations for the RICare budget.
+20 27-84-23. RICare benefit package.
+21 (a) For individuals eligible for Medicaid or RIChild, the RICare benefit package shall
+22 include the benefits required by federal law, as well as any additional benefits provided as part of
+23 the RICare benefit package.
+24 (b) On implementation of RICare, the benefit package for individuals eligible for Medicaid
+25 or RIChild shall also include any optional Medicaid benefits under 42 USC 1396d or health services
+26 covered under RIChild as provided in 42 USC 1397cc. Beginning with the second year of RICare
+27 and going forward, the board may, consistent with federal law, modify these optional benefits,
+28 while at all times the benefit package for these individuals includes at least the benefits described
+29 in subsection (a) of this section.
+30 (c) For children eligible for benefits paid for with Medicaid or RIChild funds, the RICare
+31 benefit package shall include early and periodic screening, diagnosis, and treatment services as
+32 defined under federal law.
+33 (d) For individuals eligible for Medicare, the RICare benefit package shall include the
+34 benefits provided to these individuals under federal law, and any additional benefits provided as
+LC003687 - Page 17 of 21
+
+1 part of the RICare benefit package.
+2 27-84-24. Administering RICare.
+3 (a) The department shall administer RICare. The department shall not enter into contracts
+4 with nongovernmental entities to administer claims or payments, design benefits, administer
+5 appeals, or provide customer service.
+6 (b) If the department receives a federal waiver to administer Medicaid or RIChild programs
+7 as part of RICare, the department shall not renew any contract with a managed care organization.
+8 (c) In hiring staff necessary to administer RICare, the department shall develop and
+9 implement procedures consistent with civil service rules to preferentially recruit individuals
+10 displaced from health carriers and health provider administration because of efficiency gains in the
+11 administration of healthcare.
+12 27-84-25. Individuals and supplemental insurance.
+13 (a) This chapter does not require an individual with health coverage other than RICare to
+14 terminate that coverage.
+15 (b) An individual enrolled in RICare may elect to maintain supplemental health insurance
+16 if the individual so chooses.
+17 (c) Residents of this state shall not be billed any additional amount for the receipt of health
+18 services covered by RICare.
+19 (d) The executive office of health and human services (EOHHS) shall administer Medicaid
+20 and, in conjunction with the office of the health insurance commissioner (OHIC), regulate Medicare
+21 supplement. RICare shall be the secondary payer with respect to any health service that may be
+22 covered in whole or in part by Medicare.
+23 (e) RICare shall be the secondary payer with respect to any health service that may be
+24 covered in whole or in part by any other health benefit plan including, but not limited to, private
+25 health insurance, retiree health benefits, or federal health benefit plans offered by the department
+26 of veterans affairs, by the military, or to federal employees.
+27 (f) The department may seek a waiver under 42 USC 1315 to include Medicaid and under
+28 42 USC 1397gg to include RIChild in RICare. If the department is unsuccessful in obtaining one
+29 or both of these waivers, RICare shall be the secondary payer with respect to any health service
+30 that may be covered in whole or in part by Medicaid or RIChild, as applicable.
+31 (g) Any prescription drug coverage offered by RICare shall be consistent with the standards
+32 and procedures applicable under §§ 27-18-33, 27-19-42, 27-20-23, 27-20.1-15, 27-41-51 and 27-
+33 55-2.
+34 (h) RICare shall maintain a robust and adequate network of healthcare professionals
+LC003687 - Page 18 of 21
+
+1 located in this state or regularly serving residents of this state, including mental health and
+2 substance abuse professionals. RICare may establish procedures and incentives to ensure sufficient
+3 healthcare providers. The department shall contract with outside entities as needed to allow for the
+4 appropriate portability of coverage under RICare for residents of this state who are temporarily out
+5 of this state.
+6 (i) The department shall make available the necessary information, forms, access to
+7 eligibility or enrollment systems, and billing procedures to healthcare professionals to ensure
+8 immediate enrollment for individuals in RICare at the point of service or treatment.
+9 (j) An individual aggrieved by an adverse decision of the department or board may appeal
+10 that final decision in the manner provided in §§ 27-19-42, 27-20.1-15 and 27-41-51.
+11 (k) The department, in collaboration with other relevant departments, shall monitor the
+12 extent to which residents of other states move to this state for the purpose of receiving health
+13 services and the impact, positive or negative, of any such migration on this state's healthcare system
+14 and on this state's economy, and make appropriate recommendations to the general assembly based
+15 on its findings.
+16 27-84-26. Funding.
+17 The board, in collaboration with the department, shall annually develop a three (3) year
+18 RICare budget for proposal to the general assembly and to the governor, to be adjusted annually in
+19 response to realized revenues and expenditures, that reflects any modifications to the benefit
+20 package and includes recommended appropriations, revenue estimates, and necessary
+21 modifications to tax rates and other assessments. The budget shall not include cost sharing or
+22 premiums.
+23 27-84-27. State treasury.
+24 (a) The RICare fund is created in the state treasury as the single source to finance healthcare
+25 coverage for RICare.
+26 (b) The general treasurer may receive money or other assets from any source for deposit
+27 into the fund. The general treasurer shall direct the investment of the fund. The general treasurer
+28 shall credit to the fund interest and earnings from fund investments. The general treasurer shall
+29 deposit all of the following into the fund:
+30 (1) Transfers or appropriations from the general fund, authorized by the general assembly.
+31 (2) If authorized by a waiver from federal law, federal funds for Medicaid, Medicare,
+32 RIChild, and the exchange.
+33 (3) The proceeds from grants, donations, contributions, taxes, and any other sources of
+34 revenue as may be provided by statute or by rule.
+LC003687 - Page 19 of 21
+
+1 (4) Administrative fines collected under this chapter.
+2 (c) Money in the fund at the close of the fiscal year shall remain in the fund and shall not
+3 lapse to the general fund. The department is the administrator of the fund for auditing purposes.
+4 (d) The department shall expend money from the fund, on appropriation, only for one or
+5 more of the following purposes:
+6 (1) The administration and delivery of and payment for health services covered by RICare
+7 as provided in this chapter.
+8 (2) Expenses related to the duties and operation of the board including, but not limited to,
+9 administrative and implementation staff.
+10 27-84-28. Collective bargaining.
+11 This chapter does not limit the ability of collective bargaining units to negotiate for
+12 healthcare coverage pursuant to law. This chapter does not supersede existing collective bargaining
+13 agreements.
+14 27-84-29. Public input.
+15 The department shall provide a process for soliciting public input on the RICare benefit
+16 package on an ongoing basis, including a mechanism by which members of the public may request
+17 inclusion of particular benefits or services. The process may include receiving written comments
+18 on proposed new or amended rules or holding public hearings, or both.
+19 27-84-30. Liberal construction.
+20 This chapter, being necessary for the welfare of the state and its inhabitants, shall be
+21 liberally construed so as to effectuate its purposes.
+22 27-84-31. Severability.
+23 If any clause, sentence, paragraph, section, or part of this chapter shall be adjudged by any
+24 court of competent jurisdiction to be unconstitutional or otherwise invalid, that judgment shall not
+25 affect, impair, or invalidate the remainder of this chapter but shall be confined in its operation to
+26 the clause, sentence, paragraph, section, or part directly involved in the controversy in which that
+27 judgment shall have been rendered.
+28 SECTION 3. This act shall take effect upon passage.
+========
+LC003687
+========
+LC003687 - Page 20 of 21
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- UNIVERSAL AND UNIFIED HEALTHCARE SYSTEM
+ACT
+***
+1 This act would establish a universal and unified healthcare system and reform the current
+2 payment system for healthcare coverage in this state by creating a board and prescribing its powers
+3 and duties; prescribing the powers and duties of state, city and town governmental officials and
+4 agencies; establishing a fund; providing for the promulgation of rules; and prescribing penalties
+5 and remedies.
+6 This act would take effect upon passage.
+========
+LC003687
+========
+LC003687 - Page 21 of 21

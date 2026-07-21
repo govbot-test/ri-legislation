@@ -1,0 +1,994 @@
+Title: 
+Official Title: 
+Source: versions - 7413
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7413
+========
+LC004333
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND ECONOMIC
+GROWTH BLOCKCHAIN ACT
+Introduced By: Representative David J. Place
+Date Introduced: January 30, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds and declares:
+3 (1) It is declared to be the policy of the state to promote a vigorous and growing economy,
+4 to prevent economic stagnation, and to encourage the creation of new job opportunities in order to
+5 ameliorate the hazards of unemployment and underemployment, reduce the level of public
+6 assistance, increase revenues to the state and its municipalities, and to achieve a stable diversified
+7 economy.
+8 (2) The State of Rhode Island understands that to compete in the twenty-first century
+9 economy, Rhode Island must offer one of the best business environments in the United States for
+10 blockchain and technology innovators, and should offer a comprehensive regulatory technology
+11 sandbox for these innovators to develop the next generation of digital products and services in
+12 Rhode Island.
+13 (3) Building a more robust public-private partnership framework is mandatory for
+14 economic success.
+15 (4) The State of Rhode Island understands that further developing technology industries
+16 within a robust public-private partnership brings better efficiency, trust, and accountability between
+17 Rhode Island state government, businesses, and residents.
+18 (5) The state understands a public-private partnership developing an immutable
+
+1 interagency-industry-operability blockchain filing system is vital and redevelopment investment in
+2 opportunity zones that shall install, maintain, and organize within the system of blockchain records
+3 throughout the state is advantageous.
+4 (6) Financial and health technology is undergoing a transformational period in which new
+5 technologies are providing greater automation, connectivity and transparency for provenance of
+6 products and services:
+7 (i) Existing legal frameworks are restricting technology innovation because these
+8 frameworks were largely established at a time when technology was not a fundamental component
+9 of products and services;
+10 (ii) Technology innovators require a supervised, flexible regulatory sandbox to test new
+11 products and services using waivers of specified statutes and rules under defined conditions;
+12 (iii) Jurisdictions which establish regulatory sandboxes are more likely to provide a
+13 welcoming business environment for technology innovators and may experience significant
+14 business growth;
+15 (iv) Other jurisdictions have enacted, or are considering, regulatory sandboxes for financial
+16 technology innovators in their jurisdictions;
+17 (7)(i) The rapid innovation of blockchain technology including the growing use of virtual
+18 currency and other digital assets has resulted in many blockchain innovators being unable to access
+19 secure and reliable banking services thereby hampering development of blockchain services and
+20 products in the marketplace;
+21 (ii) Federally insured financial institutions are not generally permitted to manage accounts
+22 in virtual currency or hold other digital assets;
+23 (iii) Blockchain innovators have greater compliance challenges with federal customer
+24 identification, anti-money laundering and beneficial ownership requirements because of the
+25 complex nature of these obligations and the unfamiliarity of regulators with blockchain innovators'
+26 businesses;
+27 (iv) These intricate obligations have resulted in many financial institutions in Rhode Island
+28 and across the United States refusing to provide banking services to blockchain innovators and also
+29 refusing to accept deposits in United States currency obtained from the sale of virtual currency or
+30 other digital assets;
+31 (v) Compliance with applicable federal and state laws is critical to ensuring the future
+32 growth and reputation of the blockchain and technology industries as a whole;
+33 (vi) Most financial institutions today do not have the requisite expertise or familiarity with
+34 the challenges facing blockchain innovators which is required to provide secure and reliable
+LC004333 - Page 2 of 28
+
+1 banking services to these innovators;
+2 (vii) A new type of Rhode Island financial payments and depository institution that has
+3 expertise with customer identification, anti-money laundering and beneficial ownership
+4 requirements could seamlessly integrate these requirements into its operating model; and
+5 (viii) Authorizing special purpose depository institutions to be chartered in Rhode Island
+6 will provide a necessary and valuable service to blockchain innovators, emphasize Rhode Island's
+7 partnership with the technology and financial industry and safely grow this state's developing
+8 financial sector.
+9 SECTION 2. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+10 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+11 CHAPTER 64.35
+12 RHODE ISLAND ECONOMIC GROWTH BLOCKCHAIN ACT
+13 42-64.35-1. Short title.
+14 This chapter shall be known and may be cited as the "Rhode Island Economic Growth
+15 Blockchain Act."
+16 42-64.35-2. Definitions.
+17 As used in this chapter, the following words and phrases shall have the following meanings,
+18 unless the context otherwise requires:
+19 (1) "Agency" or "public body" means any executive, legislative, judicial, regulatory,
+20 administrative body of the state, or any political subdivision thereof: including, but not limited to,
+21 any department, division, agency, commission, board, office, bureau, authority, any school, fire, or
+22 water district, or other agency or quasi-public agency of Rhode Island state or local government
+23 which exercises governmental functions or any other public or private agency, person, partnership,
+24 corporation, or business entity acting on behalf of any public agency.
+25 (2) "Bank" means any corporation, excluding national banks, having a place of business
+26 within this state which engages in banking business, and includes a special purpose depository
+27 institution, subject to the limitations set forth in § 42-64.35-5.
+28 (3) "Batch" means a specific quantity of real or digital product that is part of a regulated
+29 industry, such as hemp or vital records.
+30 (4) "Blockchain" means a digital ledger or database which is chronological, consensus-
+31 based, decentralized and mathematically verified in nature.
+32 (5) "Bureau" means an office or department in charge of administering any agency or bank
+33 regulated by the provisions of this chapter.
+34 (6) "Custodial services" means the safekeeping and management of customer currency and
+LC004333 - Page 3 of 28
+
+1 digital assets through the exercise of fiduciary and trust powers under this chapter as a custodian,
+2 and includes fund administration and the execution of customer instructions.
+3 (7) "Database" means a set of data held on a secured computer software program or
+4 encrypted electronic storage system providing an immutable distributed ledger of records.
+5 (8) "Department" means the department of business regulation, division of banking.
+6 (9) "Developer" means the person primarily responsible for creating an open blockchain
+7 token or otherwise designing the token, including by executing the technological processes
+8 necessary to create the token;
+9 (10) "Digital asset" means a representation of economic, proprietary or access rights that
+10 is stored in a computer readable format, and includes digital consumer assets, digital securities and
+11 virtual currency;
+12 (11) "Digital consumer asset" means a digital asset that is used or bought primarily for
+13 consumptive, personal or household purposes and includes:
+14 (i) An open blockchain token constituting intangible personal property as otherwise
+15 provided by law; and
+16 (ii) Any other digital asset which does not fall within the scope of this chapter.
+17 (12) "Exchange," used as a verb, means to assume control of virtual currency from or on
+18 behalf of a resident, at least momentarily, to sell, trade, or convert:
+19 (i) Virtual currency for legal tender, bank credit, or one or more forms of virtual currency;
+20 or
+21 (ii) Legal tender or bank credit for one or more forms of virtual currency.
+22 (13) "Facilitator" means a person who, as a business, makes open blockchain tokens under
+23 this chapter available for resale to the public after a token has been purchased by an initial buyer.
+24 (14) "Fees" means charge(s) imposed by the private entity of a qualifying project for use
+25 of all or a portion of such qualifying project pursuant to a comprehensive agreement;
+26 (15) "Financial investment" means a contract, transaction or arrangement where a person
+27 invests money in a common enterprise and is led to expect profits solely from the efforts of a
+28 promoter or a third party.
+29 (16) "Financial product or service" means a product or service related to finance, including
+30 banking, securities, consumer credit or money transmission, which is subject to statutory or rule
+31 requirements identified in title 19 and is under the jurisdiction of the superintendent.
+32 (17) "Financial technology sandbox" means the program created by this chapter which
+33 allows a person to make an innovative financial product or service available to consumers during a
+34 sandbox period through a waiver of existing statutory and rule requirements, or portions thereof,
+LC004333 - Page 4 of 28
+
+1 by the superintendent.
+2 (18) "Innovative" means new or emerging technology, or new uses of existing technology,
+3 that provides a product, service, business model or delivery mechanism to the public and has no
+4 substantially comparable, widely available analogue in Rhode Island including blockchain
+5 technology.
+6 (19) "Issuer" means a person that issues or proposes to issue a security
+7 (20) "Legal tender" means a medium of exchange or unit of value, including the coin or
+8 paper money of the United States, issued by the United States or by another government.
+9 (21) "License'' means a state license issued under this chapter, and includes both a
+10 cultivation license and a medicinal use license, as well as a testing laboratory license.
+11 (22) "Licensee" means any person holding a license under this chapter, regardless of the
+12 license held, and includes the holder of a testing laboratory license.
+13 (23) "Licensing authority" means the state agency responsible for the issuance, renewal, or
+14 reinstatement of the license, or the state agency authorized to take disciplinary action against the
+15 licensee.
+16 (24) "Local jurisdiction" means a city or town.
+17 (25) "Monetary value" means a medium of exchange, whether or not redeemable in money.
+18 (26) "Open blockchain token" means a digital unit which is:
+19 (i) Created in response to the verification or collection of a specified number of transactions
+20 relating to a digital ledger or database;
+21 (ii) Created by deploying computer code to a digital ledger or database, which may include
+22 a blockchain, that allows for the creation of digital tokens or other units;
+23 (iii) Created by using a combination of the methods specified in §§ 42-64.35-4 or 42-64.35-
+24 5;
+25 (iv) Recorded to a digital ledger or database, which may include a blockchain; or
+26 (v) Capable of being traded or transferred between persons without an intermediary or
+27 custodian of value.
+28 (27) "Opportunity zones" means designated areas included in the Tax Cuts and Jobs Act,
+29 Pub. L. No. 115-97 (2017). Rhode Island opportunity zones are located in twenty-five (25) census
+30 tracts spread across the following fifteen (15) municipalities: Bristol, Central Falls, Cranston,
+31 Cumberland, East Providence, Narragansett, Newport, North Providence, Pawtucket, Providence,
+32 South Kingstown. Warren, West Warwick, Westerly, and Woonsocket.
+33 (28) "Owner" means any of the following:
+34 (i) A person with an aggregate ownership interest of twenty percent (20%) or more in the
+LC004333 - Page 5 of 28
+
+1 person applying for a license or a licensee, unless the interest is solely a security, lien, or
+2 encumbrance;
+3 (ii) The chief executive officer of a nonprofit or other entity;
+4 (iii) A member of the board of directors of a nonprofit; or
+5 (iv) An individual who will be participating in the direction, control, or management of the
+6 person applying for a license.
+7 (29) "Person" means and includes any individual, firm, partnership, joint venture,
+8 association, corporation, limited-liability company, estate, trust, business trust, receiver, syndicate,
+9 or any other group or combination acting as a unit, and the plural as well as the singular.
+10 (30) "Private entity" means any natural person, corporation, general partnership, limited
+11 liability company, limited partnership, joint venture, business trust, public benefit corporation,
+12 nonprofit entity, or one other private business entity.
+13 (31) "Proposal" means a plan for a qualifying project with detail beyond a conceptual level
+14 for which terms such as fixing costs, payment schedules, financing, deliverables, and project
+15 schedules are defined.
+16 (32) "Qualifying project" means:
+17 (i) A facility or project that serves a public purpose, including, but not limited to, any ferry
+18 or mass transit facility, vehicle parking facility, airport or seaport facility, rail facility or project,
+19 transportation facilities, technology infrastructure, fuel supply facility, oil or gas pipeline, medical
+20 or nursing care facility, or educational facility or other building or facility that is used or will be
+21 used by a public educational institution, or any other public facility or infrastructure that is used or
+22 will be used by the public at large or in support of an accepted public purpose or activity;
+23 (ii) An improvement, including equipment, of a building that will be principally used by a
+24 public entity or the public at large or that supports a service delivery system in the public sector;
+25 (iii) A water, wastewater, or surface water management facility or other related
+26 infrastructure; or
+27 (iv) Notwithstanding any provision of this subsection, for projects that involve a facility
+28 owned or operated by the governing board of a city or town, district, or hospital or health care
+29 system, or projects that involve a facility owned or operated by an electric utility, only those
+30 projects that the governing board designates as qualifying projects pursuant to this subsection.
+31 (33) "Reciprocity agreement" means an arrangement between the department and the
+32 appropriate licensing agency of another state that permits a licensee operating under a license
+33 granted by the other state to engage in currency transmission business activity with or on behalf of
+34 a resident.
+LC004333 - Page 6 of 28
+
+1 (34) "Record" means information that is inscribed on a tangible medium or that is stored
+2 in an electronic or other medium and is retrievable in perceivable form.
+3 (35) "Registry" means the Nationwide Multistate Licensing System.
+4 (36) "Resident" means a person that:
+5 (i) Is domiciled in this state;
+6 (ii) Is physically located in this state for more than one hundred eighty-three (183) days of
+7 the previous three hundred sixty-five (365) days; or
+8 (iii) Has a place of business in this state and includes a legal representative of a person that
+9 satisfies subsection (36)(i) of this subsection.
+10 (37) "Responsible individual" means an individual who has managerial authority with
+11 respect to a licensee's currency transmission business activity with or on behalf of a resident.
+12 (38) "Revenue" means the income, earnings, user fees, lease payments, or other service
+13 payments relating to the development or operation of a qualifying project, including, but no limited
+14 to, money received as grants or otherwise from the federal government, a public entity, or an agency
+15 or instrumentality thereof in aid of the qualifying project.
+16 (39) "Sandbox period" means the period of time, initially not longer than twenty-four (24)
+17 months, in which the department's superintendent of banking has authorized an innovative financial
+18 product or service to be made available to consumers, which shall also encompass any extension
+19 granted under §§ 42-64.35-l through 42-64.35-5.
+20 (40) "Secretary" means the secretary of state;
+21 (41) "Seller" means a person who makes an open blockchain token available for purchase
+22 to an initial buyer.
+23 (42) "Service contract" means a contract between a public entity and the private entity
+24 which defines the terms of the services to be provided with respect to a qualifying project.
+25 (43) "Sign" means with present intent to authenticate or adopt a record, to execute or adopt
+26 a tangible symbol or to attach to or logically associate with the record an electronic symbol, sound,
+27 or process.
+28 (44) "Special purpose depository institution" means a corporation operating pursuant to §
+29 42-64.35-5;
+30 (45) "State" means a state of the United States, the District of Columbia, Puerto Rico, the
+31 United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the
+32 United States.
+33 (46) "Store," except in the phrase "store of value," means to maintain control of virtual
+34 currency on behalf of a resident by a person other than the resident. "Storage" and "storing" have
+LC004333 - Page 7 of 28
+
+1 corresponding meanings.
+2 (47) "Superintendent" means the deputy director designated by the department's director
+3 as superintendent of banking in the department.
+4 (48) "Supervisor of the regulatory body" means the chief or head of a section having
+5 enforcement responsibility for a particular statute or set of rules and regulations within a regulatory
+6 agency.
+7 (49) "System of vital records" means the registration, collection, preservation, amendment,
+8 and certification of vital statistics records, and activities related to them including the tabulation,
+9 analysis, and publication of statistical data derived from those records.
+10 (50) "Transfer" means to assume control of virtual currency from or on behalf of a resident
+11 and to:
+12 (i) Credit the virtual currency to the account of another person;
+13 (ii) Move the virtual currency from one account of a resident to another account of the
+14 same resident; or
+15 (iii) Relinquish control of virtual currency to another person.
+16 (51) "Unique identifier" means an alphanumeric code or designation used for reference to
+17 a specific plant on a licensed premises.
+18 (52) "U.S. Dollar equivalent of virtual currency" means the equivalent value of a particular
+19 virtual currency in United States dollars shown on a virtual currency exchange based in the United
+20 States for a particular date or period specified in this chapter. Virtual currency or a digital security,
+21 as defined in §§ 19-14-1 and 19-14.3-1.1, shall not constitute an open blockchain token as defined
+22 within §§ 42-64.35-4 and 42-64.35-5.
+23 42-64.35-3. Council established.
+24 There is hereby created a Rhode Island blockchain technology advisory council to consist
+25 of thirteen (13) members: three (3) of whom shall be appointed by the governor, with two (2) of
+26 those so appointed to be designated by the governor as co-chairs; six (6) of whom shall be directors
+27 from the Rhode Island commerce corporation, as established by chapter 64 of title 42; four (4)
+28 members shall be appointed by majority of the nine (9) members appointed by the governor and
+29 Rhode Island commerce corporation; two (2) of the four members shall be appointed from the
+30 private sector: with one holding expertise in complex financial services, and one with expertise in
+31 cybersecurity; two (2) of the four members shall be appointed from academia: with one holding
+32 expertise in financial systems, and one with expertise in computer engineering. The membership
+33 of said council shall receive no compensation for their services. The council shall support the state's
+34 research institutions, promote entrepreneurial development, enable all organizations to become
+LC004333 - Page 8 of 28
+
+1 more innovative, and perform any other advisory functions as the legislature may designate.
+2 42-64.35-4. Financial sandbox -- Financial technology sandbox waiver -- Applicability
+3 of criminal and consumer protection statutes -- Referral to investigatory agencies -- Civil
+4 liability.
+5 (a) Notwithstanding any other provision of law, a person who makes an innovative
+6 financial product or service available to consumers in the financial technology sandbox may be
+7 granted a waiver of specified requirements imposed by statute or rule, or portions thereof, if these
+8 statutes or rules do not currently permit the product or service to be made available to consumers.
+9 A waiver under this subsection shall be no broader than necessary to accomplish the purposes and
+10 standards set forth in this chapter, as determined by the superintendent.
+11 (b) A person who makes an innovative financial product or service available to consumers
+12 in the financial technology sandbox is:
+13 (1) Not immune from civil damages for acts and omissions relating to this chapter; and
+14 (2) Subject to all criminal and consumer protection laws, including, but not limited to,
+15 violations of any provisions of title 11, title 19, and title 21.
+16 (c) The superintendent may refer suspected violations of law relating to this chapter to
+17 appropriate state or federal agencies for investigation, prosecution, civil penalties and other
+18 appropriate enforcement actions, including, but not limited to, suspension or revocation of any
+19 license or authorization granted under this chapter.
+20 (d) If service of process, relative to any civil proceeding, on a person making an innovative
+21 financial product or service available to consumers in the financial technology sandbox is not
+22 feasible, service on the secretary of state shall be deemed service on the person.
+23 (e)(1) A person shall apply to the superintendent to make an innovative financial product
+24 or service available to consumers in the financial technology sandbox, based on the office that
+25 administers the statute, regulation, rule or portion thereof, for which a waiver is sought.
+26 (2) If the superintendent administers a statute or regulation or rule, or if the appropriate
+27 office is not known, an application may be filed with the superintendent.
+28 (3) If an application is filed with an office that does not administer the statute, regulation
+29 or rule for which a waiver is sought, the receiving office shall forward the application to the correct
+30 office.
+31 (4) The person shall specify in an application the statutory or rule requirements for which
+32 a waiver is sought and the reasons why these requirements prohibit the innovative financial product
+33 or service from being made available to consumers. The superintendent shall, by rule, prescribe a
+34 method of application.
+LC004333 - Page 9 of 28
+
+1 (f) A business entity making an application under this section shall be a domestic
+2 corporation or other organized domestic entity with a physical presence, other than that of a
+3 registered office or agent, in Rhode Island.
+4 (g) Before an employee applies on behalf of an institution, firm or other entity intending to
+5 make an innovative financial product or service available through the financial technology sandbox,
+6 the employee shall obtain the consent of the institution, firm or entity before filing an application
+7 under this section.
+8 (h) The individual filing an application under this section and the individuals who are
+9 substantially involved in the development, operation or management of the innovative financial
+10 product or service shall, as a condition of an application, submit to a criminal history background
+11 check with the department of attorney general.
+12 (i) An application made under this section shall be accompanied by a fee of five hundred
+13 dollars ($500). The fee shall be deposited into the financial technology innovation account as
+14 required by subsection (o) of this section.
+15 (j) The superintendent, as applicable, shall authorize or deny a financial technology
+16 sandbox application in writing within ninety (90) days of receiving the application. The
+17 superintendent and the person who has made an application may jointly agree to extend the time
+18 beyond ninety (90) days. The superintendent may impose conditions on any authorization,
+19 consistent with this chapter. In deciding to authorize or deny an application under this section, the
+20 superintendent shall consider each of the following:
+21 (1) The nature of the innovative financial product or service proposed to be made available
+22 to consumers in the sandbox, including all relevant technical details which may include whether
+23 the product or service utilizes blockchain technology;
+24 (2) The potential risk to consumers and methods which will be used to protect consumers
+25 and resolve complaints during the sandbox period;
+26 (3) A business plan proposed by the person, including proof of capital requirements;
+27 (4) Whether the person has the necessary personnel, adequate financial and technical
+28 expertise and a sufficient plan to test, monitor and assess the innovative financial product or service;
+29 (5) Whether any person substantially involved in the development, operation or
+30 management of the innovative financial product or service has been convicted of, or is currently
+31 under investigation for, fraud, state or federal securities violations or any property based offense;
+32 (6) A copy of the disclosures required under this chapter that will be provided to
+33 consumers; and
+34 (7) Any other factor that the superintendent determines to be relevant.
+LC004333 - Page 10 of 28
+
+1 (k) If an application is authorized under subsection (j) of this section, the superintendent
+2 shall specify the statutory or rule requirements, or portions thereof, for which a waiver is granted
+3 and the length of the initial sandbox period. The superintendent shall also post notice of the
+4 approval of a sandbox application under this section, a summary of the innovative financial product
+5 or service and the contact information of the person making the product or service available through
+6 the sandbox on the Internet website of the superintendent.
+7 (l) A person authorized under subsection (j) of this section to enter into the financial
+8 technology sandbox shall post a consumer protection bond with the superintendent as security for
+9 potential losses suffered by consumers. The bond amount shall be determined by the superintendent
+10 in an amount not less than ten thousand dollars ($10,000) and shall be commensurate with the risk
+11 profile of the innovative financial product or service. The superintendent may require that a bond
+12 under this subsection be increased or decreased at any time based on risk profile. Unless the bond
+13 is enforced, the superintendent shall cancel or allow the bond to expire two (2) years after the date
+14 of the conclusion of the sandbox period.
+15 (m) A person authorized under subsection (j) of this section to enter into the financial
+16 technology sandbox shall be deemed to possess an appropriate license for the purposes of federal
+17 law requiring state licensure or authorization.
+18 (n) Authorization under subsection (j) of this section shall not be construed to create a
+19 property right.
+20 (o)(1) There is hereby created the financial technology innovation account. Funds within
+21 the account shall only be expended by legislative appropriation. All funds within the account shall
+22 be invested by the state treasurer and all investment earnings from the account shall be credited to
+23 the general fund. The account shall be divided into two (2) sub-accounts controlled by the
+24 superintendent, respectively, for the purposes of administrative management. For the purposes of
+25 accounting and investing only, the subaccounts shall be treated as separate accounts.
+26 (2) Subject to legislative appropriation, application fees remitted to the account shall be
+27 deposited into the subaccount controlled by the superintendent, as applicable, based on the
+28 receiving official. These funds, and any additional funds appropriated by the legislature, shall be
+29 used only for the purposes of administering this chapter, including processing of sandbox
+30 applications and monitoring, examination and enforcement activities relating to this chapter.
+31 (p)(1) Except as otherwise provided under chapter 56 of title 6 ("uniform supplemental
+32 commercial law for the uniform regulation of virtual-currency businesses act"), chapter 14 of title
+33 19 ("licensed activities"), and chapter 14.3 of title 19 ("currency transmissions"), a person
+34 authorized under this chapter to enter into the financial technology sandbox may make an
+LC004333 - Page 11 of 28
+
+1 innovative financial product or service available to consumers during the sandbox period.
+2 (2) The superintendent may, on a case by case basis, specify the maximum number of
+3 consumers permitted to receive an innovative financial product or service, after consultation with
+4 the person authorized under this chapter to make the product or service available in the financial
+5 technology sandbox.
+6 (3) Before a consumer purchases or enters into an agreement to receive an innovative
+7 financial product or service through the financial technology sandbox, the person making the
+8 product or service available shall provide a written statement of the following to the consumer:
+9 (i) The name and contact information of the person making the product or service available
+10 to consumers;
+11 (ii) That the product or service has been authorized to be made available to consumers for
+12 a temporary period by the superintendent, as applicable, under the laws of Rhode Island;
+13 (iii) That the State of Rhode Island does not endorse the product or service and is not
+14 subject to liability for losses or damages caused by the product or service;
+15 (iv) That the product or service is undergoing testing, may not function as intended and
+16 may entail financial risk;
+17 (v) That the person making the product or service available to consumers is not immune
+18 from civil liability for any losses or damages caused by the product or service;
+19 (vi) The expected end date of the sandbox period;
+20 (vii) The name and contact information of the superintendent, as applicable, and
+21 notification that suspected legal violations, complaints or other comments related to the product or
+22 service may be submitted to the superintendent; and
+23 (viii) Any other statements or disclosures required by rule of the superintendent which are
+24 necessary to further the purposes of this chapter.
+25 (q) A person authorized to make an innovative financial product or service available to
+26 consumers in the financial technology sandbox shall maintain comprehensive records relating to
+27 the innovative financial product or service. The person shall keep these records for not less than
+28 five (5) years after the conclusion of the sandbox period. The superintendent may specify further
+29 records requirements under this subsection by rule.
+30 (r) The superintendent, as applicable, may examine the records maintained under or by any
+31 depository or financial technology innovation account opened pursuant to this chapter, with or
+32 without notice. All direct and indirect costs of an examination conducted under this subsection shall
+33 be paid by the person making the innovative financial product or service available in the financial
+34 technology sandbox. Records made available to the superintendent under this subsection shall be
+LC004333 - Page 12 of 28
+
+1 confidential and shall not be subject to disclosure under chapter 2 of title 38; provided, however,
+2 the records may be released to appropriate state and federal agencies for the purposes of
+3 investigation.
+4 (s) Unless granted an extension not less than thirty (30) days before the conclusion of the
+5 sandbox period, a person who makes an innovative financial product or service available in the
+6 financial technology sandbox shall provide written notification to consumers regarding the
+7 conclusion of the sandbox period and shall not make the product or service available to any new
+8 consumers after the conclusion of the sandbox period until legal authority outside of the sandbox
+9 exists to make the product or service available to consumers. The person shall wind down
+10 operations with existing consumers within sixty (60) days after the conclusion of the sandbox
+11 period, except that, after the sixtieth day, the person may:
+12 (1) Collect and receive money owed to the person and service loans made by the person,
+13 based on agreements with consumers made before the conclusion of the sandbox period;
+14 (2) Take necessary legal action; and
+15 (3) Take other actions authorized by the superintendent by rule which are not inconsistent
+16 with this subsection.
+17 (t) The superintendent may, enter into agreements with state, federal or foreign regulatory
+18 agencies to allow persons who make an innovative financial product or service available in Rhode
+19 Island through the financial technology sandbox to make their products or services available in
+20 other jurisdictions and to allow persons operating in similar financial technology sandboxes in other
+21 jurisdictions to make innovative financial products and services available in Rhode Island under
+22 the standards of this chapter.
+23 (u) The superintendent may, by order, revoke or suspend authorization granted to a person
+24 under this chapter if:
+25 (1) The person has violated or refused to comply with this chapter or any lawful rule, order
+26 or decision adopted by the superintendent;
+27 (2) A fact or condition exists that, if it had existed or become known at the time of the
+28 financial technology sandbox application, would have warranted denial of the application or the
+29 imposition of material conditions;
+30 (3) A material error, false statement, misrepresentation or material omission was made in
+31 the financial technology sandbox application; or
+32 (4) After consultation with the person, continued testing of the innovative financial product
+33 or service would:
+34 (i) Be likely to harm consumers; or
+LC004333 - Page 13 of 28
+
+1 (ii) No longer serve the purposes of this chapter because of the financial or operational
+2 failure of the product or service.
+3 (v) Written notification of a revocation or suspension order made under subsection (c) of
+4 this section shall be served using any means authorized by law, and if the notice relates to a
+5 suspension, include any conditions or remedial action which shall be completed before the
+6 suspension will be lifted by the superintendent.
+7 (w) A person granted authorization under subsection (j) of this section may apply for an
+8 extension of the initial sandbox period for not more than twelve (12) additional months. An
+9 application for an extension shall be made not later than sixty (60) days before the conclusion of
+10 the initial sandbox period specified by the superintendent. The superintendent shall approve or deny
+11 the application for extension in writing not later than thirty-five (35) days before the conclusion of
+12 the initial sandbox period. An application for extension by a person shall cite one of the following
+13 reasons as the basis for the application and provide all relevant supporting information that:
+14 (1) Statutory or rule amendments are necessary to conduct business in Rhode Island on a
+15 permanent basis; or
+16 (2) An application for a license or other authorization required to conduct business in
+17 Rhode Island on a permanent basis has been filed with the appropriate office and approval is
+18 currently pending.
+19 (x)(1) The superintendent shall adopt rules and regulations to implement this chapter. The
+20 rules and regulations adopted by the superintendent under this chapter shall be as consistent as
+21 reasonably possible, but shall account for differences in the statutes and programs administered by
+22 the superintendent.
+23 (2) The superintendent may issue:
+24 (i) All necessary orders to enforce this chapter, including, but not limited to, ordering the
+25 payment of restitution and enforcement of these orders in any court of competent jurisdiction; and
+26 (ii) An order under subsection (x)(2)(i) of this section to enforce the bond or portion of the
+27 bond posted under this chapter, and use proceeds from the bond to offset losses suffered by
+28 consumers as a result of an innovative financial product or service.
+29 (3) All actions of the superintendent under this chapter shall be subject to the rules and
+30 regulations under title 19 and chapter 14 of title 42.
+31 (y)(1) Criminal history record information shall be disseminated by criminal justice
+32 agencies in this state, whether directly or through any intermediary, only to the superintendent for
+33 purposes of obtaining background information on persons applying for financial technology
+34 sandbox authorization; provided, however, that all officers and directors subsequently hired or
+LC004333 - Page 14 of 28
+
+1 appointed, shall be required to submit to a criminal history background check.
+2 (z)(1) The following persons shall be required to submit to fingerprinting in order to obtain
+3 state and national criminal history record information:
+4 (i) Applicants for a financial technology sandbox authorization.
+5 (aa) The financial technology sandbox definitions shall apply to this chapter.
+6 (bb) This chapter modifies, limits, and supersedes the federal Electronic Signatures in
+7 Global and National Commerce Act, but does not modify, limit, or supersede section 101(c) of that
+8 act (15 U.S.C. § 7001 (c)) or authorize electronic delivery of any of the notices described in section
+9 103(b) of that act (15 U.S.C. § 7003(b)). This chapter authorizes the filing of records and signatures,
+10 when specified by provisions of this chapter or by a rule adopted or order issued under this chapter,
+11 in a manner consistent with section 104(a) of that act (15 U.S.C. § 7004(a)).
+12 42-64.35-5. Special depository institutions.
+13 (a) The legislature shall create special purpose depository institutions as a new financial
+14 institution, providing that the following rules shall apply to these institutions:
+15 (1) Special purpose depository institutions shall be corporations;
+16 (2) Require that depositors be business entities;
+17 (3) Specify compliance with applicable federal laws;
+18 (4) Establish procedures for the incorporation, chartering and operation of special purpose
+19 depository institutions;
+20 (5) Establish procedures for liquidation, conservatorship and voluntary dissolution;
+21 (6) Require a surety bond or pledged investments and specified private insurance;
+22 (7) Authorize special purpose depository institutions to obtain federal deposit insurance;
+23 (8) Make conforming amendments;
+24 (9) Authorize positions;
+25 (10) Provide an appropriation; and
+26 (11) Provide for effective dates.
+27 (b) Except as otherwise provided in this section, if any provision of law conflicts with this
+28 chapter, this chapter shall control, except as to those provisions set forth in §42-64.35-6.
+29 (1) Consistent with this chapter, special purpose depository institutions shall be organized
+30 as corporations under chapter 1.2 of title 7, (the "Rhode Island business corporation act"), to
+31 exercise the powers set forth in this section;
+32 (2) Each special purpose depository institution may:
+33 (i) Make contracts as a corporation under Rhode Island law;
+34 (ii) Sue and be sued;
+LC004333 - Page 15 of 28
+
+1 (iii) Receive notes and buy and sell gold and silver coins and bullion as permitted by federal
+2 law;
+3 (iv) Carry on a non-lending banking business for depositors, consistent with subsection (d)
+4 of this section;
+5 (v) Provide payment services upon the request of a depositor;
+6 (vi) Make an application to become a member bank of the Federal Reserve System;
+7 (vii) Engage in any other activity that is usual or incidental to the business of banking,
+8 subject to the prior written approval of the superintendent. The superintendent shall not approve a
+9 request to engage in an incidental activity if the superintendent finds that the requested activity will
+10 adversely affect the solvency or the safety and soundness of the special purpose depository
+11 institution or conflict with any provision of this chapter; and
+12 (viii) Exercise powers and rights otherwise authorized by law which are not inconsistent
+13 with this chapter.
+14 (d) Except as otherwise provided in this subsection, a special purpose depository institution
+15 shall not make loans, including the provision of temporary credit relating to overdrafts. A special
+16 purpose depository institution may purchase debt obligations consistent with provisions of title 19.
+17 (e) A special purpose depository institution shall maintain its principal operating
+18 headquarters and the primary office of its chief executive officer in Rhode Island.
+19 (f) As otherwise authorized by this section, the special purpose depository institution may
+20 conduct business with depositors outside this state.
+21 (g) Subject to the laws of Rhode Island, a special purpose depository institution may open
+22 a branch in another state upon obtaining a certificate of good standing from the superintendent, as
+23 long as any new branch located outside of this state is in compliance with state and federal
+24 regulations. A special purpose depository institution, including any branch of the institution, may
+25 only accept deposits or provide other services under this chapter to depositors engaged in a bona
+26 fide business which is lawful under the laws of Rhode Island, the laws of the host state and federal
+27 law.
+28 (h)(1) No depositor shall maintain an account with a special purpose depository institution
+29 or otherwise receive any services from the institution unless the depositor meets the criteria of this
+30 subsection. A depositor shall:
+31 (i) Be a legal entity other than a natural person;
+32 (ii) Be in good standing with the jurisdiction in the United States in which it is incorporated
+33 or organized;
+34 (iii) Maintain deposits with the institution totaling not less than five thousand dollars
+LC004333 - Page 16 of 28
+
+1 ($5,000);
+2 (iv) Be engaged in a lawful, bona fide business; and
+3 (v) Make sufficient evidence available to the special purpose depository institution to
+4 enable compliance with anti-money laundering practices, customer identification and beneficial
+5 ownership requirements, as determined by the institution.
+6 (2) A depositor which meets the criteria of this subsection (h) shall be issued a depository
+7 account and otherwise receive services from the special purpose depository institution contingent
+8 on the availability of sufficient insurance as required under § 19-4-10.
+9 (3) Consistent with this subsection (h) of this section and in addition to any requirements
+10 specified by federal law, a special purpose depository institution shall require that a potential
+11 depositor provide reasonable evidence that the person is engaged in a lawful, bona fide business or
+12 is likely to open a lawful, bona fide business within the next six (6) months. As used in this
+13 subsection, "reasonable evidence" includes business entity filings, articles of incorporation or
+14 organization, bylaws, operating agreements, business plans, promotional materials, financing
+15 agreements or other evidence.
+16 (i)(1) At all times, a special purpose depository institution shall maintain unencumbered
+17 liquid assets valued at not less than one hundred percent (100%) of its depository liabilities;
+18 (2) As used in this section, "liquid assets" means:
+19 (i) United States currency held on the premises of the special purpose depository
+20 institution;
+21 (ii) United States currency held for the special purpose depository institution by a federal
+22 reserve bank or a federally insured financial institution; and
+23 (iii) Investments which are highly liquid, and obligations of the United States treasury or
+24 other federal agency obligations consistent with rules adopted by the superintendent.
+25 (j)(1) A special purpose depository institution shall maintain a contingency account to
+26 account for unexpected losses and expenses. A special purpose depository institution may require
+27 the payment of contributions from depositors to fund a contingency account. Sufficient funding as
+28 determined and required by the superintendent for the initial capitalization shall constitute
+29 compliance with this subsection for the first three (3) years a special purpose depository institution
+30 is in operation. After the conclusion of the first three (3) years of operation, a special purpose
+31 depository institution shall maintain a contingency account totaling not less than two percent (2%)
+32 of the depository liabilities of the special purpose depository institution; provided, however, that
+33 the contingency account shall be adequate and reasonable in light of current and prospective
+34 business conditions. as determined by the superintendent;
+LC004333 - Page 17 of 28
+
+1 (2) A depositor shall obtain a refund of any contingency account contributions made under
+2 this subsection after closing an account with the special purpose depository institution.
+3 (k) A special purpose depository institution shall comply with all applicable federal laws,
+4 including, but not limited to, those relating to anti-money laundering practices, customer
+5 identification and beneficial ownership.
+6 (l)(1) A special purpose depository institution shall display on any Internet website it
+7 maintains, and at each window or place where it accepts deposits, a sign conspicuously stating that
+8 deposits are not insured by the federal deposit insurance corporation, if applicable.
+9 (2) Upon opening an account and if applicable, a special purpose depository institution
+10 shall require each depositor to execute a statement acknowledging that all deposits at the special
+11 purpose depository institution are not insured by the federal deposit insurance corporation. The
+12 special purpose depository institution shall permanently retain this acknowledgment.
+13 (3) A special purpose depository institution shall include in all advertising a disclosure that
+14 deposits are not insured by the federal deposit insurance corporation, if applicable.
+15 (m)(1) Except as otherwise provided, five (5) or more adult persons may form a special
+16 purpose depository institution. The incorporators shall subscribe the articles of incorporation and
+17 transmit them to the superintendent as part of an application for a charter under title 19.
+18 (2) The articles of incorporation shall include the following information:
+19 (i) The corporate name;
+20 (ii) The purpose for which the corporation is organized;
+21 (iii) The term of its existence, which may be perpetual;
+22 (iv) The place where its office shall be located and its operations conducted;
+23 (v) The amount of capital stock and the number of shares;
+24 (vi) The name and residence of each shareholder subscribing to more than ten percent
+25 (10%) of the stock and the number of shares owned by that shareholder;
+26 (vii) The number of directors and the names of those who shall manage the affairs of the
+27 corporation for the first year; and
+28 (viii) A statement that the articles of incorporation are made to enable the incorporators to
+29 avail themselves of the advantages of the laws of the state.
+30 (n) Copies of all amended articles of incorporation shall be filed in the same manner as the
+31 original articles of incorporation.
+32 (o) The incorporators shall raise sufficient capital prior to filing an application for a charter
+33 with the superintendent, consistent with § 19-2-2. In the event an application for a charter is not
+34 filed or is denied, all capital shall be promptly returned without loss, to each person or entity
+LC004333 - Page 18 of 28
+
+1 investing.
+2 (p) Subject to applicable federal and state law, a bank holding company may apply to hold
+3 a special purpose depository institution to raise required initial capital and surplus and additional
+4 capital.
+5 (q) The capital stock of each special purpose depository institution chartered under this
+6 chapter shall be subscribed for as fully paid stock. No special purpose depository institution shall
+7 be chartered with capital stock less than five million dollars ($5,000,000).
+8 (r) No special purpose depository institution shall commence business until the full amount
+9 of its authorized capital is subscribed and all capital stock is fully paid in. No special purpose
+10 depository institution may be chartered without a paid up surplus fund of not less than three (3)
+11 years of estimated operating expenses in an amount to be determined by the superintendent;
+12 (s) A special purpose depository institution may acquire additional capital prior to the
+13 granting of a charter and may report this capital in its charter application.
+14 (t)(1) No person shall act as a special purpose depository institution without first obtaining
+15 a charter and certificate of authority to operate from the superintendent under this chapter
+16 (2) The incorporators, pursuant to subsection (o) of this section, shall apply to the
+17 superintendent for a charter. The application shall contain the special purpose depository
+18 institution's articles of incorporation, a detailed business plan, a comprehensive estimate of
+19 operating expenses for the first three (3) years of operation, a complete proposal for compliance
+20 with the provisions of this chapter and evidence of the capital as required under subsection (s) of
+21 this section. The superintendent may prescribe the form of application by rule.
+22 (3) Each application for a charter shall be accompanied by an application fee established
+23 by the superintendent pursuant to rule, which shall be no greater than the costs incurred by the
+24 superintendent in reviewing the application. The application fee shall be credited to the special
+25 purpose depository institutions subaccount created by subsection (o) of this section
+26 (u) Funds in the subaccount shall be used by the superintendent to supervise special
+27 purpose depository institutions and to otherwise carry out the duties specified by this chapter. Funds
+28 in the subaccount are continuously appropriated to the subaccount and shall not lapse at the end of
+29 any fiscal period. For purposes of accounting and investing only the special purpose depository
+30 institutions subaccount shall be treated as a separate account from the financial institutions
+31 administration account.
+32 (v)(1) Upon receiving an application for a special purpose depository charter, the
+33 superintendent shall notify the applicants in writing within thirty (30) calendar days of any
+34 deficiency in the required information or that the application has been accepted for filing. When
+LC004333 - Page 19 of 28
+
+1 the superintendent is satisfied that all required information has been furnished, the superintendent
+2 shall establish a time and place for a public hearing which shall be conducted not less than sixty
+3 (60) days, nor more than one hundred twenty (120) days, after notice from the superintendent to
+4 the applicants that the application is in order.
+5 (2) Within thirty (30) days after receipt of notice of the time and place of the public hearing,
+6 the applicants shall cause notice of filing of the application and the hearing to be published at the
+7 applicant's expense in a newspaper of general circulation within the county where the proposed
+8 special purpose depository institution is to be located. Publication shall be made at least once a
+9 week for three (3) consecutive weeks before the hearing and shall state: the proposed location of
+10 the special purpose depository institution; the names of the applicants for a charter; the nature of
+11 the activities to be conducted by the proposed institution and other information required by rule.
+12 The applicants shall furnish proof of publication to the superintendent not more than ten (10) days
+13 prior to the hearing. The superintendent shall send notice of the hearing to state and national banks,
+14 federal savings and loan associations and other financial institutions in the state and federal
+15 agencies who have requested notice from the superintendent.
+16 (w) The hearing for a charter application shall be conducted as a contested case under
+17 chapter 35 of title 42 ("administrative procedures") and shall comply with the requirements of that
+18 chapter.
+19 (x)(1) Upon receiving the articles of incorporation, the application for a charter and other
+20 information required by the superintendent, the superintendent shall make a careful investigation
+21 and examination of the following:
+22 (i) The character, reputation, financial standing and ability of the incorporators;
+23 (ii) The character, financial responsibility, banking or other financial experience and
+24 business qualifications of those proposed as officers and directors; and
+25 (iii) The application for a charter, including the adequacy and plausibility of the business
+26 plan of the special purpose depository institution and whether the institution has offered a complete
+27 proposal for compliance with the provisions of this chapter.
+28 (2) The superintendent shall submit the results of the superintendent's investigation and
+29 examination at the public hearing on the charter application and shall be subject to cross
+30 examination by any interested party. No relevant information shall be excluded as hearsay.
+31 (y)(1) Within ninety (90) days after receipt of the transcript of the public hearing, the
+32 superintendent shall render a decision on the charter application based solely on the following
+33 criteria:
+34 (i) Whether the character, reputation, financial standing and ability of the incorporators is
+LC004333 - Page 20 of 28
+
+1 sufficient to afford reasonable promise of a successful operation;
+2 (ii) Whether the character, financial responsibility, banking or other financial experience
+3 and business qualifications of those proposed as officers and directors is sufficient to afford
+4 reasonable promise of a successful operation;
+5 (iii) The adequacy and plausibility of the business plan of the special purpose depository
+6 institution;
+7 (iv) Compliance with the capital and surplus requirements as set forth in this section;
+8 (v) The special purpose depository institution is being formed for no other purpose than
+9 legitimate objectives authorized by law;
+10 (vi) That the name of the proposed special purpose depository institution does not resemble
+11 so closely the name of any other financial institution transacting business in the state so as to cause
+12 confusion; and
+13 (vii) Whether the applicants have complied with all applicable provisions of state law.
+14 (2) The superintendent shall approve an application upon making favorable findings on the
+15 criteria set forth in this section. If necessary, the superintendent may either conditionally approve
+16 an application by specifying conditions relating to the criteria or may disapprove the application.
+17 The superintendent shall state findings of fact and conclusions of law as part of its decision. If the
+18 superintendent approves the application, the superintendent shall endorse upon the articles of
+19 incorporation the approval of the superintendent and shall transmit one copy to the secretary of
+20 state, retain one copy and return a copy to the applicants within twenty (20) days after the date of
+21 the decision of the superintendent approving the application. If the superintendent conditionally
+22 approves an application and upon compliance with necessary conditions required by the
+23 superintendent, the superintendent shall proceed as provided in the preceding sentence. If the
+24 superintendent disapproves the application, the superintendent shall mail notice of the disapproval
+25 to the applicants within twenty (20) days of the superintendent's disapproval.
+26 (z)(1) If an application is approved and a charter granted by the superintendent, the special
+27 purpose depository institution shall not commence business before receiving a certificate of
+28 authority to operate from the superintendent. The application for a certificate of authority shall be
+29 made to the superintendent and shall certify the address at which the special purpose depository
+30 institution will operate and that all adopted bylaws of the institution have been attached as an exhibit
+31 to the application. The application shall state the identities and contact information of officers and
+32 directors. The superintendent shall approve or deny an application for a certificate of authority to
+33 operate within thirty (30) days after a complete application has been filed. The authority of the
+34 superintendent to disapprove any application shall be restricted solely to noncompliance with this
+LC004333 - Page 21 of 28
+
+1 section; provided that, if the superintendent approves the application, the superintendent shall issue
+2 a certificate of authority to the applicants within twenty (20) days. If the superintendent denies the
+3 application, the superintendent shall mail a notice of denial to the applicants within twenty (20)
+4 days, stating the reasons for denying the application, and grant to the applicants a period of ninety
+5 (90) days to resubmit the application with the necessary corrections. If the applicants fail to comply
+6 with requirements of the notice of denial within ninety (90) days from the receipt of the notice, the
+7 charter of the special purpose depository institution shall be revoked by the superintendent. The
+8 failure of the superintendent to act upon an application for a certificate of authority within thirty
+9 (30) days shall be deemed an approval
+10 (2) If an approved special purpose depository institution fails to commence business in
+11 good faith within six (6) months after the issuance of a certificate of authority to operate by the
+12 superintendent, the charter and certificate of authority shall expire. The superintendent, for good
+13 cause and upon an application filed prior to the expiration of the six (6) month period, may extend
+14 the time within which the special purpose depository institution may open for business.
+15 (aa) Any decision of the superintendent in approving, conditionally approving or
+16 disapproving a charter for a special purpose depository institution or the issuance or denial of a
+17 certificate of authority to operate is appealable to the district court of the county in which the
+18 institution is to be located, in accordance with the provisions of chapter 35 of title 42
+19 ("administrative procedures"). In addition to the grounds for appeal contained in chapter 35 of title
+20 42 ("administrative procedures"), an appellant may appeal if the superintendent fails to make any
+21 of the required findings or otherwise take an action required by law.
+22 (bb)(1) Except as otherwise provided by this section, a special purpose depository
+23 institution shall, before transacting any business, pledge or furnish a surety bond to the
+24 superintendent to cover costs likely to be incurred by the superintendent in a liquidation or
+25 conservatorship of the special purpose depository institution. The amount of the surety bond or
+26 pledge of assets under this section shall be determined by the superintendent in an amount sufficient
+27 to defray the costs of a liquidation or conservatorship.
+28 (2) In lieu of a bond, a special purpose depository institution may irrevocably pledge
+29 specified capital equivalent to a bond to satisfy this subsection. Any capital pledged to the
+30 superintendent under this subsection shall be held in a state or nationally chartered bank or savings
+31 and loan association having a principal or branch office in this state. All costs associated with
+32 pledging and holding such capital are the responsibility of the special purpose depository
+33 institution.
+34 (3) Capital pledged to the superintendent shall be of the same nature and quality as those
+LC004333 - Page 22 of 28
+
+1 required for state financial institutions under title 19.
+2 (4) Surety bonds shall run to the State of Rhode Island, and shall be approved under the
+3 terms and conditions established by the superintendent pursuant to the superintendent's authority.
+4 (5) The superintendent may adopt rules to establish additional investment guidelines or
+5 investment options for purposes of the pledge or surety bond required by this subsection.
+6 (6) In the event of a liquidation or conservatorship of a special purpose depository
+7 institution pursuant to chapters 10, 11 or 12 of title 19, the superintendent may, without regard to
+8 priorities, preferences or adverse claims, reduce the surety bond or capital pledged under this
+9 section to cash as soon as practicable and utilize the cash to defray the costs associated with the
+10 liquidation or conservatorship.
+11 (7) Income from capital pledged under this subsection shall be paid to the special purpose
+12 depository institution, unless a liquidation or conservatorship takes place.
+13 (8) Upon evidence that the current surety bond or pledged capital is insufficient, the
+14 superintendent may require a special purpose depository institution to increase its surety bond or
+15 pledged capital by providing not less than thirty (30) days' written notice to the institution. The
+16 special purpose depository institution may request a hearing before the superintendent not more
+17 than thirty (30) days after receiving written notice from the superintendent under this subsection.
+18 Any hearing before the superintendent shall be held pursuant to chapter 35 of title 42
+19 ("administrative procedures").
+20 (cc)(1) The superintendent may call for reports verified under oath from a special purpose
+21 depository institution at any time as necessary to inform the superintendent of the condition of the
+22 institution.
+23 (2) All reports required of special purpose depository institutions by the superintendent and
+24 all materials relating to examinations of these institutions shall be subject to the provisions of
+25 chapter 4 of title 19.
+26 (3) Every special purpose depository institution is subject to the examination of the
+27 superintendent. The superintendent or a duly appointed examiner shall visit and examine special
+28 purpose depository institutions on a schedule established by rule. The superintendent or a duly
+29 appointed examiner shall make a complete and careful examination of the condition and resources
+30 of a special purpose depository institution, the mode of managing institution affairs and conducting
+31 business, the actions of officers and directors in the investment and disposition of funds, the safety
+32 and prudence of institution management, compliance with the requirements of this chapter and such
+33 other matters as the superintendent may require. After an examination, the special purpose
+34 depository institution shall remit to the superintendent an amount equal to the total cost of the
+LC004333 - Page 23 of 28
+
+1 examination. This amount shall be remitted to the state treasurer and deposited into the special
+2 purpose depository institutions subaccount established under this chapter.
+3 (4) On or before January 31 and July 31 of each year, a special purpose depository
+4 institution shall compute and pay supervisory fees to the superintendent based on the total assets of
+5 the special purpose depository institution as of the preceding December 31 and June 30,
+6 respectively. Supervisory fees under this section shall provide for the operating costs of the office
+7 of the superintendent and the administration of the laws governing special purpose depository
+8 institutions. Such fees shall be established by rule of the superintendent and shall be adjusted by
+9 the superintendent to ensure consistency with the cost of supervision. Supervisory fees shall be
+10 deposited by the superintendent with the state treasurer and credited to the special purpose
+11 depository institutions subaccount established under this chapter
+12 (5) A special purpose depository institution shall maintain appropriate insurance or a bond
+13 covering the operational risks of the institution, which shall include coverage for directors' and
+14 officers' liability, errors and omissions liability and information technology infrastructure and
+15 activities liability.
+16 (dd)(1) The superintendent may suspend or revoke the charter of a special purpose
+17 depository institution if, after notice and opportunity for a hearing, the superintendent determines
+18 that:
+19 (i) The special purpose depository institution has failed or refused to comply with an order
+20 issued by the superintendent or other regulatory body;
+21 (ii) The application for a charter contained a false statement or material misrepresentation
+22 or material omission; or
+23 (iii) An officer, director or agent of the special purpose depository institution, in connection
+24 with an application for a charter, examination, report or other document filed with the
+25 superintendent, knowingly made a false statement, material misrepresentation or material omission
+26 to the superintendent or the duly authorized agent of the superintendent.
+27 (ee) If the charter of a special purpose depository institution is surrendered, suspended or
+28 revoked, the institution shall continue to be subject to the provisions of this chapter during any
+29 liquidation or conservatorship.
+30 (ff)(1) If the superintendent finds that a special purpose depository institution has failed or
+31 is operating in an unsafe or unsound condition, as defined in this section, that has not been remedied
+32 within the time prescribed under chapter 4 of title 19 or an order of the superintendent, the
+33 superintendent shall conduct a liquidation or appoint a conservator pursuant to chapters 11 or 12 of
+34 title 19;
+LC004333 - Page 24 of 28
+
+1 (2) As used in this section:
+2 (i) "Failed" or "failure" means, consistent with rules adopted by the superintendent, a
+3 circumstance when a special purpose depository institution has not:
+4 (A) Complied with the requirements of this chapter;
+5 (B) Maintained a contingency account, as required by this section; or
+6 (C) Paid, in the manner commonly accepted by business practices, its legal obligations to
+7 depositors on demand or to discharge any certificates of deposit, promissory notes or other
+8 indebtedness when due.
+9 (ii) "Unsafe or unsound condition" means, consistent with rules adopted by the
+10 superintendent, a circumstance relating to a special purpose depository institution which is likely
+11 to:
+12 (A) Cause the failure of the institution as defined in this subsection;
+13 (B) Cause a substantial dissipation of assets or earnings:
+14 (C) Substantially disrupt the services provided by the institution to depositors; or
+15 (D) Otherwise substantially prejudice the depository interests of depositors.
+16 (gg)(1) A special purpose depository institution may voluntarily dissolve in accordance
+17 with the provisions of this section. Voluntary dissolution shall be accomplished by either
+18 liquidating the special purpose depository institution or reorganizing the institution into an
+19 appropriate business entity that does not engage in any activity authorized only for a special purpose
+20 depository institution. Upon complete liquidation or completion of the reorganization, the
+21 superintendent shall revoke the charter of the special purpose depository institution and afterward,
+22 the company shall not use the word "special purpose depository institution" or "bank" in its business
+23 name or in connection with its ongoing business.
+24 (2) The special purpose depository institution may dissolve its charter either by liquidation
+25 or reorganization. The board of directors shall file an application for dissolution with the
+26 superintendent, accompanied by a filing fee established by rule of the superintendent. The
+27 application shall include a comprehensive plan for dissolution setting forth the proposed disposition
+28 of all assets and liabilities, in reasonable detail to effect a liquidation or reorganization, and any
+29 other plans required by the superintendent. The plan of dissolution shall provide for the discharge
+30 or assumption of all of the known and unknown claims and liabilities of the special purpose
+31 depository institution. Additionally, the application for dissolution shall include other evidence,
+32 certifications, affidavits, documents or information as the superintendent may require, including a
+33 demonstration of how assets and liabilities will be disposed, the timetable for effecting disposition
+34 of the assets and liabilities and a proposal of the special purpose depository institution for
+LC004333 - Page 25 of 28
+
+1 addressing any claims that are asserted after dissolution has been completed. The superintendent
+2 shall examine the application for compliance with this section, the business entity laws applicable
+3 to the required type of dissolution and applicable rules. The superintendent may conduct a special
+4 examination of the special purpose depository institution consistent with chapter 4 of title 19 and
+5 the guidelines set forth in this chapter for purposes of evaluating the application.
+6 (3) If the superintendent finds that the application is incomplete, the superintendent shall
+7 return it for completion not later than sixty (60) days after it is filed. If the application is found to
+8 be complete by the superintendent, the superintendent shall approve or disapprove the application
+9 not later than thirty (30) days after it is filed. If the superintendent approves the application the
+10 special purpose depository institution may proceed with the dissolution pursuant to the plan
+11 outlined in the application subject to any further conditions the superintendent may prescribe. If
+12 the special purpose depository institution subsequently determines that the plan of dissolution needs
+13 to be amended to complete the dissolution, it shall file an amended plan with the superintendent
+14 and obtain approval to proceed under the amended plan. If the superintendent does not approve the
+15 application or amended plan, the special purpose depository institution may appeal the decision to
+16 the superintendent pursuant to chapter 35 of title 42 ("administrative procedures").
+17 (4) Upon completion of all actions required under the plan of dissolution and satisfaction
+18 of all conditions prescribed by the superintendent, the special purpose depository institution shall
+19 submit a written report of its actions to the superintendent. The report shall contain a certification
+20 made under oath that the report is true and correct. Following receipt of the report, the
+21 superintendent, no later than sixty (60) days after the filing of the report, shall examine the special
+22 purpose depository institution to determine whether the superintendent is satisfied that all required
+23 actions have been taken in accordance with the plan of dissolution and any conditions prescribed
+24 by the superintendent. If all requirements and conditions have been met, the superintendent shall,
+25 within thirty (30) days of the examination, notify the special purpose depository institution in
+26 writing that the dissolution has been completed and issue a certificate of dissolution.
+27 (5) Upon receiving a certificate of dissolution, the special purpose depository institution
+28 shall surrender its charter to the superintendent. The special purpose depository institution shall
+29 then file articles of dissolution and other documents required by § 7-1.2-1309. In the case of
+30 reorganization, the special purpose depository institution shall file the documents required by the
+31 secretary of state to finalize the reorganization.
+32 (6) If the superintendent determines that all required actions under the plan for dissolution,
+33 or as otherwise required by the superintendent, have not been completed the superintendent shall
+34 notify the special purpose depository institution not later than thirty (30) days after this
+LC004333 - Page 26 of 28
+
+1 determination, in writing what additional actions shall be taken in order for the institution to be
+2 eligible for a certificate of dissolution. The superintendent shall establish a reasonable deadline for
+3 the submission of evidence that additional actions have been taken and the superintendent may
+4 extend any deadline upon good cause. If the special purpose depository institution fails to file a
+5 supplemental report showing that the additional actions have been taken before the deadline, or
+6 submits a report that is found not to be satisfactory by the superintendent, the superintendent shall
+7 notify the special purpose depository institution in writing that its voluntary dissolution is not
+8 approved, and the institution may appeal the decision to the board pursuant to chapter 35 of title 42
+9 ("administrative procedures").
+10 (hh) If a special purpose depository institution fails to submit any report required by this
+11 chapter or by rule within the prescribed period, the superintendent may impose and collect a fee of
+12 up to one thousand dollars ($1,000) for each day the report is overdue, as established by rule.
+13 (ii) Each officer, director, employee or agent of a special purpose depository institution,
+14 following written notice from the superintendent is subject to removal upon order of the
+15 superintendent if they knowingly or willfully fail to perform any duty required by this chapter or
+16 other applicable law or conform to any rule or order of the superintendent.
+17 42-64.35-6. Severability in a pari material construction with other chapters.
+18 (a) Except as provided in subsection (b) of this section, if any provision of this chapter or
+19 the application of this chapter to any person or circumstances is held invalid or unconstitutional,
+20 the invalidity or unconstitutionality shall not affect other provisions or applications of this chapter
+21 that can be given effect without the invalid or unconstitutional provision or application, and to this
+22 end the provisions of this chapter are declared to be severable.
+23 (b) The provisions of this chapter 64.35 of title 42 ("this chapter") shall be interpreted to
+24 be in pari material with, consistent with, and harmonized with the provisions of chapter 56 of title
+25 6 ("uniform supplemental commercial law for the uniform regulation of virtual-currency businesses
+26 act"), chapter 14 of title 19 ("licensed activities"), and chapter 14.3 of title 19 ("currency
+27 transmissions"). To the extent any provision of this chapter 64.35 of title 42 is determined to be
+28 inconsistent with and cannot be harmonized with the provisions of any of the aforesaid chapters,
+29 the provisions of chapter 56 of title 6, chapter 14 of title 19, and chapter 14.3 of title 19 shall control
+30 and prevail over the provisions of this chapter.
+31 SECTION 3. This act shall take effect upon passage.
+========
+LC004333
+========
+LC004333 - Page 27 of 28
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND ECONOMIC
+GROWTH BLOCKCHAIN ACT
+***
+1 This act would establish an economic growth blockchain and would regulate virtual and
+2 digital assets, and establish depository banks for these purposes. This act would also establish a
+3 technology advisory council, and a "financial sandbox" where regulatory requirements may be
+4 waived.
+5 This act would take effect upon passage.
+========
+LC004333
+========
+LC004333 - Page 28 of 28

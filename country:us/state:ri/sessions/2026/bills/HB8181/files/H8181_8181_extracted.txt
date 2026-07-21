@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - 8181
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8181
+========
+LC005684
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND BRIDGE
+REPLACEMENT, RECONSTRUCTION, AND MAINTENANCE FUND -- EXEMPTIONS
+FROM TOLLING FOR WASTE MANAGEMENT VEHICLES
+Introduced By: Representatives Edwards, Voas, Casey, Place, Potter, Cotter, Kennedy,
+Cortvriend, and Handy
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 42-13.1-4 of the General Laws in Chapter 42-13.1 entitled "The
+2 Rhode Island Bridge Replacement, Reconstruction, and Maintenance Fund" is hereby amended to
+3 read as follows:
+4 42-13.1-4. Authority to collect tolls on large commercial trucks only.
+5 (a) The department is hereby authorized to fix, revise, charge, and collect tolls for the
+6 privilege of traveling on Rhode Island bridges to provide for replacement, reconstruction,
+7 maintenance, and operation of Rhode Island bridges. The tolls shall be fixed after conducting a
+8 cost-benefit analysis and providing an opportunity for public comment. The tolls shall be collected
+9 on large commercial trucks only and shall not be collected on any other vehicle; provided, however,
+10 no vehicle shall be tolled other than a tractor or truck tractor as defined in 23 C.F.R. 658.5, pulling
+11 a trailer or trailers. No act authorizing tolls on passenger vehicles pursuant to this chapter shall take
+12 effect until it has been approved by the majority of those electors voting in a statewide referendum.
+13 The secretary of state shall certify the results of the statewide referendum. Tolls on large
+14 commercial trucks may be implemented utilizing all-electric toll collection methodologies on a
+15 cash-less basis, or utilizing any other methodologies determined by the department.
+16 (b) Subject to § 42-13.1-14, the department will establish a program to limit the assessment
+17 of the tolls upon the same individual large commercial truck using a RFID to once per toll facility,
+18 per day in each direction, or an equivalent frequency use program based upon individual large
+
+1 commercial truck use.
+2 (c) Subject to § 42-13.1-14, the total amount of tolls imposed upon the same individual
+3 large commercial truck using a RFID for making a border-to-border through trip on Route 95
+4 Connecticut to Route 95 Massachusetts, or the reverse, shall not exceed twenty dollars ($20.00).
+5 (d) Subject to § 42-13.1-14, the daily maximum amount of the tolls collected upon the same
+6 individual large commercial truck using a RFID shall not exceed forty dollars ($40.00).
+7 (e) All large commercial trucks or accessory trailers, operating on a contract with any
+8 municipality in the state, and engaged in the business of waste management as defined in § 23-19-
+9 5, which is transporting solid waste to the central landfill facility, as defined in § 23-19-5, or
+10 returning from said facility to any other location, shall be exempt from any tolls established by this
+11 chapter except those tolls generated on the Pell Bridge in Newport. Said trucks shall be outfitted
+12 with a device similar to an RFID, exempting said trucks.
+13 (e)(f) Tolls shall not be subject to supervision or regulation by any commission, board,
+14 bureau, agency, or official of the state or any municipality or other political subdivision of the state
+15 except the department.
+16 SECTION 2. This act shall take effect upon passage.
+========
+LC005684
+========
+LC005684 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND BRIDGE
+REPLACEMENT, RECONSTRUCTION, AND MAINTENANCE FUND -- EXEMPTIONS
+FROM TOLLING FOR WASTE MANAGEMENT VEHICLES
+***
+1 This act would exempt trucks engaged in waste management collection at the central
+2 landfill from tolls operated by the R.I. Turnpike and Bridge authority.
+3 This act would take effect upon passage.
+========
+LC005684
+========
+LC005684 - Page 3 of 3

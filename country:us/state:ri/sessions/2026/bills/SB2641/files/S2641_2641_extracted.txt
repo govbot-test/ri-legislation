@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - 2641
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2641
+========
+LC005292
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- DUTIES OF UTILITIES AND
+CARRIERS
+Introduced By: Senator Samuel D. Zurier
+Date Introduced: February 27, 2026
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 39-2 of the General Laws entitled "Duties of Utilities and Carriers"
+2 is hereby amended by adding thereto the following section:
+3 39-2-1.5. Electric utility billing and metering standards.
+4 (a) The division of public utilities and carriers shall promulgate rules and regulations
+5 establishing minimum statewide standards governing electric utility meter reading and billing
+6 practices, which shall include, at a minimum, the following:
+7 (1) Regular meter reading. All electric service meters shall be read at regular intervals and,
+8 to the extent practicable, on approximately the same calendar day of each meter reading period.
+9 (2) Billing transparency. Bills shall be rendered at regular intervals and shall clearly state:
+10 (i) The date of the current meter reading; and
+11 (ii) The amount or quantity of electric service provided during the billing period.
+12 (3) Customer billing records. Each electric utility shall maintain accurate accounts of all
+13 charges billed to each customer and shall retain records sufficient to demonstrate how each bill
+14 rendered was calculated.
+15 (4) Limit on estimated billing. No electric utility shall render estimated bills for more than
+16 six (6) consecutive billing periods on any residential, commercial, or industrial account, except
+17 where access to the meter is unavailable due to customer action or safety concerns, as determined
+18 by the division pursuant to the provisions of subsection (a)(5) of this section.
+
+1 (5) Once the electric utility has used estimated bills for a six (6) month period, the company
+2 shall act to correct the problem within two (2) months. Absent a waiver the electric utility shall not
+3 be allowed to recover billing beyond two (2) months after the use of estimated bills for a six (6)
+4 month period. However, the division shall permit the electric utility to seek a waiver from the
+5 division with respect to the foregoing billing prohibition. The waiver request shall include details
+6 of the electric utility’s efforts and experienced difficulties in accessing the customer’s property in
+7 order to obtain an actual reading. The waiver shall be filed with the division prior to the expiration
+8 of the two (2) month billing deadline.
+9 (6) Billing issuance standards. The division shall establish reasonable standards governing
+10 the relationship between the billing date and the date of issuance or mailing of a bill, including
+11 allowances for electronic billing and circumstances beyond the control of the utility. In
+12 promulgating regulations pursuant to this section, the division shall consider:
+13 (i) Existing utility tariffs approved by the public utilities commission; and
+14 (ii) The deployment of advanced metering or automated meter reading technology.
+15 (b) Nothing in this section shall be construed to impair the authority of the public utilities
+16 commission to approve tariffs or rates, provided such tariffs and rates are consistent with the
+17 standards established pursuant to this section.
+18 (c) The provisions of this section shall, unless extended by the general assembly, sunset
+19 upon the adoption of rules and regulations promulgated by the division that satisfy the conditions
+20 of this section, or on January 30, 2028, whichever shall occur first.
+21 SECTION 2. This act shall take effect upon passage.
+========
+LC005292
+========
+LC005292 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- DUTIES OF UTILITIES AND
+CARRIERS
+***
+1 This act would establish statewide standards governing electric meter reading and billing
+2 practices.
+3 This act would take effect upon passage.
+========
+LC005292
+========
+LC005292 - Page 3 of 3

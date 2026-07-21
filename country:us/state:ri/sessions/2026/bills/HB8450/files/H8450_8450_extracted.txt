@@ -1,0 +1,917 @@
+Title: 
+Official Title: 
+Source: versions - 8450
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8450
+========
+LC006320
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CORPORATIONS, ASSOCIATIONS AND PARTNERSHIPS -- RHODE
+ISLAND BUSINESS CORPORATION ACT -- THE RHODE ISLAND BUSINESS CLIMATE
+REFORM ACT
+Introduced By: Representatives Newberry, Shekarchi, Finkelman, Chippendale,
+Marszalkowski, Slater, Phillips, J. Brien, Santucci, and Solomon
+Date Introduced: April 15, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. This act shall be known and may be cited as "The Rhode Island Business
+2 Climate Reform Act."
+3 SECTION 2. Sections 7-1.2-711 and 7-1.2-1408 of the General Laws in Chapter 7-1.2
+4 entitled "Rhode Island Business Corporation Act" are hereby amended to read as follows:
+5 7-1.2-711. Actions by shareholders.
+6 (a) Definitions. In this section:
+7 (1) “Derivative proceeding” means a civil suit in the right of a domestic corporation or, to
+8 the extent provided in subsection (h) of this section, in the right of a foreign corporation.
+9 (2) “Shareholder” includes a beneficial owner whose shares are held in a voting trust or
+10 held by a nominee on the beneficial owner's behalf.
+11 (b) Standing. A shareholder may not commence or maintain a derivative proceeding unless
+12 the shareholder:
+13 (i) Was a shareholder of the corporation at the time of the act or omission complained of
+14 or became a shareholder through transfer by operation of law from one who was a shareholder at
+15 that time; and
+16 (ii) Fairly and adequately represents the interests of the corporation in enforcing the right
+17 of the corporation.
+18 (c) Demand. No shareholder may commence a derivative proceeding until:
+
+1 (1) A written demand had been made upon the corporation to take suitable action; and
+2 (2) Ninety (90) days have expired from the date the demand was made unless the
+3 shareholder has earlier been notified that the demand has been rejected by the corporation or unless
+4 irreparable injury to the corporation would result by waiting for the expiration of the ninety (90)
+5 day period.
+6 (d) Stay of proceedings. If the corporation commences an inquiry into the allegations made
+7 in the demand or complaint, the court may stay any derivative proceeding for such period as the
+8 court deems appropriate.
+9 (e) Dismissal.
+10 (1) On motion by the corporation, the court shall dismiss a derivative proceeding if one of
+11 the groups specified in subsection (e)(2) or (e)(6) has determined in good faith after conducting a
+12 reasonable inquiry upon which its conclusions are based that the maintenance of the derivate
+13 proceedings is not in the best interests of the corporation.
+14 (2) Unless a panel is appointed pursuant to subsection (e)(6), the determination in
+15 subsection (e)(1) must be made by:
+16 (i) A majority vote of independent directors present at a meeting of the board of directors
+17 if the independent directors constitute a quorum; or
+18 (ii) A majority vote of a committee consisting of two (2) or more independent directors
+19 appointed by majority vote of independent directors present at a meeting of the board of directors,
+20 whether or not such independent directors constituted a quorum.
+21 (3) None of the following by itself causes a director to be considered not independent for
+22 purposes of this section:
+23 (i) The nomination or election of the directors or persons who are defendants in the
+24 derivative proceedings or against whom action is demanded;
+25 (ii) The naming of the director as a defendant in the derivative proceeding or as a person
+26 against whom action is demanded; or
+27 (iii) The approval by the director of the act being challenged in the derivative proceeding
+28 or demand if the act resulted in no personal benefit to the director.
+29 (4) If a derivative proceeding is commenced after a determination has been made rejecting
+30 a demand by a shareholder, the complaint must allege with particularity facts establishing either
+31 (A) that a majority of the board of directors did not consist of independent directors at the time the
+32 determination was made, or (B) that the requirements of subsection (e)(1) of this section have not
+33 been met.
+34 (5) If a majority of the board of directors does not consist of independent directors at the
+LC006320 - Page 2 of 26
+
+1 time the determination is made, the corporation has the burden of proving that the requirements of
+2 subsection (e)(1) have been met. If a majority of the board of directors consists of independent
+3 directors at the time the determination is made, the plaintiff has the burden of proving that the
+4 requirements of subsection (e)(1) have not been met.
+5 (6) The court may appoint a panel of one or more independent persons upon motion by the
+6 corporation to make a determination whether the maintenance of the derivative proceeding is in the
+7 best interests of the corporation. In such case, the plaintiff has the burden of proving that the
+8 requirements of subsection (e)(1) have not been met.
+9 (f) Discontinuance or settlement. A derivative proceeding may not be discontinued or
+10 settled without the court's approval. If the court determines that a proposed discontinuance or
+11 settlement will substantially affect the interests of the corporation's shareholders or a class of
+12 shareholders, the court shall direct that notice be given to the shareholders affected.
+13 (g) Payment of expenses. On termination of the derivative proceeding the court may:
+14 (1) Order the corporation to pay the plaintiff's reasonable expenses (including counsel fees)
+15 incurred in the proceeding if it finds that the proceeding has resulted in a substantial benefit to the
+16 corporation;
+17 (2) Order the plaintiff to pay any defendant's reasonable expenses (including counsel fees)
+18 incurred in defending the proceeding if it finds that the proceeding was commenced or maintained
+19 without reasonable cause or for an improper purpose; or
+20 (3) Order a party to pay an opposing party's reasonable expenses (including counsel fees)
+21 incurred because of the filing of a pleading, motion or other paper, if it finds that the pleading,
+22 motion or other paper was not well grounded in fact, after reasonable inquiry, or warranted by
+23 existing law or a good faith argument for the extension, modification or reversal of existing law
+24 and was interposed for an improper purpose, such as to harass or cause unnecessary delay or
+25 needless increase in the cost of litigation.
+26 (h) Applicability to foreign corporations. In any derivative proceeding in the right of a
+27 foreign corporation, the matters covered by this subchapter are governed by the laws of the
+28 jurisdiction of incorporation of the foreign corporation except for subsections (d), (f), and (g) of
+29 this section.
+30 (i) Imposition of minimum ownership requirements for initiating derivative actions. On
+31 and after July 1, 2026, the following requirements shall apply to any shareholder derivative action
+32 brought pursuant to the provisions of this section:
+33 (1) Publicly traded entities and for-profit private entities with five hundred (500) or more
+34 equity owners or shareholders, and that have elected the statutory business judgment rule may
+LC006320 - Page 3 of 26
+
+1 impose a minimum ownership threshold of up to five percent (5%) of the outstanding equity for
+2 owners to initiate derivative actions.
+3 (2) Attorneys' fees awarded in these derivative actions shall be limited by specifically
+4 disqualifying mere disclosure-only settlements as "substantial benefits" for the purpose of such
+5 awards, regardless of the materiality of the disclosures.
+6 7-1.2-1408. Registered office and registered agent of foreign corporation.
+7 (a) Each foreign corporation authorized to transact business in this state must shall have
+8 and continuously maintain in this state a registered agent, who is either:
+9 (1) An individual resident in this state; or
+10 (2) A corporation, limited partnership, limited liability partnership, limited liability
+11 company, and in each case either domestic or one authorized to transact business in this state.
+12 Provided, on and after July 1, 2026, the secretary of state may serve as a registered agent for a
+13 foreign corporation or a foreign limited liability company.
+14 (b) Foreign corporations who are the holders of mortgages on real estate located within this
+15 state which do not maintain the loan documentation and records within the state shall authorize the
+16 registered agent to accept mortgage discharge payment and to issue a discharge of the mortgages
+17 upon the payment.
+18 SECTION 3. Chapter 7-1.2 of the General Laws entitled "Rhode Island Business
+19 Corporation Act" is hereby amended by adding thereto the following sections:
+20 7-1.2-815. Business judgment rule.
+21 (a) Unless the corporate or controlling documents for an entity subject to the provisions of
+22 this chapter specify a different standard for the conduct of a director or manager of the entity, then
+23 it shall be conclusively presumed that the entity has elected for application of the business judgment
+24 rule to govern the conduct of decisions made by directors or managers as provided pursuant to the
+25 provisions of subsection (b) of this section.
+26 (b) A director or manager who makes a business judgment for an entity electing application
+27 of the business judgment rule pursuant to subsection (a) of this section shall be presumed to have
+28 satisfied the requirements of this chapter if all of the following conditions are satisfied:
+29 (1) The director or manager has acted in good faith;
+30 (2) The director or manager does not have an interest in the subject of the business
+31 judgment;
+32 (3) The director or manager was informed with respect to the subject of the business
+33 judgment to the extent the director or manager believes was appropriate, and that belief was
+34 reasonable, under the circumstances; and
+LC006320 - Page 4 of 26
+
+1 (4) The director or manager believes that the business judgment was in the best interests of
+2 the corporation or entity and its shareholders or equity owners, and that belief is rational.
+3 (c) A person challenging the conduct of a director or manager as a breach under this chapter
+4 has the burden of proving failure of the director or manager to satisfy the requirements of subsection
+5 (a) of this section and, if that burden is sustained, of proving the director's or manager's failure to
+6 satisfy the requirements under any provision of this chapter, and in a damage action under any
+7 section of this chapter, the burden of proving that the breach was the proximate cause of damage
+8 suffered by the corporation or its shareholders or equity owners.
+9 (d) For the purpose of this section, a director or manager has an interest in a transaction or
+10 conduct that is the subject of a business judgment only if any of the following conditions are
+11 satisfied:
+12 (1) The director, or manager or an associate of the director or manager, is a party to the
+13 transaction or conduct;
+14 (2) The director or manager or an associate of the director or manager has a material
+15 pecuniary interest in the transaction or conduct other than usual and customary directors' or
+16 managers' fees and benefits, of which the director or manager knows or should be aware, that would
+17 reasonably be expected to affect the director's or manager's judgment in a manner adverse to the
+18 corporation or entity or its shareholders or equity owners; or
+19 (3) The director or manager is subject to a controlling influence by a party to the transaction
+20 or conduct, other than the corporation or entity or by a person who has a material pecuniary interest
+21 in the transaction or conduct, and that controlling influence could reasonably be expected to affect
+22 the director's or manager's judgment with respect to the transaction or conduct in a manner adverse
+23 to the corporation or entity or its shareholders or equity owners.
+24 (e) As used in this section, "associate" means any of the following persons:
+25 (1) The spouse of the director; a child, grandchild, parent, sibling, uncle, aunt, nephew,
+26 niece, step-child, stepparent, or step-sibling of the director, including adoptive relationships, and
+27 the spouse of such a person; a mother-in-law, father-in law, brother-in-law, or sister-in-law of the
+28 director; a person, other than a domestic employee, having the same home as the director; and a
+29 trust or estate of which the director or a person designated in this subsection is a substantial
+30 beneficiary.
+31 (2) A trust, estate, incompetent, conservatee, or minor of which the director is a fiduciary.
+32 (3) A person with respect to whom the director or manager has a business or financial
+33 relationship other than a person described in subsection (d)(1) or (d)(2) of this section, but if and
+34 only if the relationship would reasonably be expected to affect the director's or manager's judgment
+LC006320 - Page 5 of 26
+
+1 with respect to the transaction or conduct in question in a manner adverse to the corporation or
+2 entity or its shareholders or equity owners. For the purpose of this subsection, the following
+3 presumptions affecting the burden of proof apply:
+4 (i) The director's or manager's judgment is presumed not to be adversely affected solely
+5 because the director or manager is a director or principal manager of the business organization.
+6 (ii) The director's or manager's judgment is presumed not to be adversely affected if the
+7 director or manager is the beneficial owner or record holder of not more than ten percent (10%) of
+8 any class of equity interest.
+9 (iii) The director's or manager's judgment is presumed to be adversely affected if the
+10 director or manager is the beneficial or record holder, other than in a custodial capacity, of more
+11 than ten percent (10%) of any class of equity interest.
+12 7-1.2-1806. Advanced determinations of director independence.
+13 Publicly traded corporations and for-profit corporations that elected the statutory business
+14 judgment rule may petition Rhode Island superior courts to hold an evidentiary hearing to
+15 determine the independence of a special committee of directors tasked with reviewing related party
+16 transactions, such as those involving the corporation and a controlling shareholder, director, or
+17 officer. Prior to the evidentiary hearing, the corporation shall notify each of its shareholders to
+18 provide them with the opportunity to participate in the proceeding. Once the superior court validates
+19 the independence of the committee, that decision shall be binding absent facts, which were not
+20 presented to the court, that prove one or more directors is not independent and disinterested with
+21 respect to the applicable transaction.
+22 7-1.2-1807. Waiver of class-by-class voting.
+23 A corporation organized under the provisions of this chapter may include language in its
+24 governing documents allowing the corporation to waive class-by-class share voting in certain
+25 circumstances, permitting all classes of its stock to vote as a single class.
+26 7-1.2-1808. Shielded communications.
+27 Shareholders, members, and partners of a corporation organized under the provisions of
+28 this chapter shall not be entitled to review certain communications, to include emails, text
+29 messages, social media posts, and similar electronic communication, unless the communication
+30 effectuates an official action of the entity. Publicly traded entities and corporate entities that elect
+31 the statutory business judgment rule may deny inspection demands if the entity is involved, or
+32 expects to be involved, in a derivative proceeding or other litigation proceeding involving the
+33 entity. Nothing in this section shall be construed as limiting a court of competent jurisdiction from
+34 ordering the production or disclosure of any document of communication.
+LC006320 - Page 6 of 26
+
+1 SECTION 4. Section 7-16-11 of the General Laws in Chapter 7-16 entitled "The Rhode
+2 Island Limited Liability Company Act" is hereby amended to read as follows:
+3 7-16-11. Resident agent.
+4 (a) Each domestic or foreign registered limited liability company shall have a resident agent
+5 for service of process on the limited liability company who shall be either:
+6 (1) An individual resident of this state; or
+7 (2) A corporation, limited partnership, or limited liability company, and in each case either
+8 domestic or one authorized to transact business in this state. Provided, on and after July 1, 2026,
+9 the secretary of state may serve as a resident agent for a foreign limited liability company. Provided
+10 further, that on and after July 1, 2026, an entity applying to be a foreign limited liability company
+11 in Rhode Island shall not be required to provide a certificate of good standing from their home or
+12 domestic jurisdiction as part of the application process.
+13 (b)(1) A domestic or foreign registered limited liability company may change its resident
+14 agent or the address of its resident agent by filing with the secretary of state a statement signed by
+15 any authorized person that authorizes the change.
+16 (2) A change of a resident agent or address of the resident agent for a domestic or foreign
+17 registered limited liability company under this subsection is effective when the secretary of state
+18 accepts the statement for filing.
+19 (c)(1) A resident agent that changes address in the state shall file with the secretary of state
+20 a statement of the change of address signed by the resident agent or on the resident agent's behalf.
+21 (2) The statement shall include:
+22 (i) The name of the limited liability company for which the change is effective;
+23 (ii) The old and new addresses of the resident agent; and
+24 (iii) The date on which the change is effective.
+25 (3) The change of address of the resident agent is effective when the secretary of state
+26 accepts the statement for filing.
+27 (d)(1) A resident agent may resign by filing with the secretary of state a counterpart or
+28 photocopy of the signed resignation, together with a statement that the resignation has been
+29 delivered or sent to the limited liability company.
+30 (2) Unless a later time is specified in the resignation, it is effective thirty (30) days after it
+31 is filed.
+32 (e) The secretary of state is appointed the agent of the domestic limited liability company
+33 for service of process if no resident agent has been appointed, if the resident agent's authority has
+34 been revoked, or if the resident agent cannot be found or served following the exercise of reasonable
+LC006320 - Page 7 of 26
+
+1 diligence.
+2 SECTION 5. Chapter 7-16 of the General Laws entitled "The Rhode Island Limited
+3 Liability Company Act" is hereby amended by adding thereto the following sections:
+4 7-16-78. Anonymous limited liability company filings.
+5 (a) On and after July 1, 2026, entities may be formed and filed as anonymous limited
+6 liability companies ("ALLC"). An ALLC filing will require the same filings as a traditional LLC,
+7 but the names of members and managers shall not be required to be placed on public filings;
+8 provided, however, the ALLC filing shall include the registered agent.
+9 (b) Equity owners' or members' names shall be listed with an internal operating agreement
+10 of the ALLC.
+11 7-16-79. Rhode Island protected series limited liability company.
+12 A limited liability company agreement may establish or provide for the establishment of
+13 one or more designated series of members, managers, limited liability company interests or assets.
+14 Any series may have separate rights, powers or duties with respect to specified property or
+15 obligations of the limited liability company or profits and losses associated with specified property
+16 or obligations, and any series may have a separate business purpose or investment objective. No
+17 provision of this chapter shall be construed to limit the application of the principle of freedom of
+18 contract to a series that is not a protected series or a registered series. Other than as specifically
+19 provided for otherwise in this chapter, a series may not merge, convert or consolidate.
+20 7-16-80. Limitation of liability.
+21 A limited liability company operating agreement may provide for the limitation or
+22 elimination of any and all liabilities for breach of contract and breach of duties, including fiduciary
+23 duties, of a member, manager or other person to a limited liability company or to another member
+24 or manager or to another person that is a party to or is otherwise bound by a limited liability
+25 company operating agreement; provided that, a limited liability company operating agreement may
+26 not limit or eliminate liability for any act or omission that constitutes a bad faith violation of the
+27 implied contractual covenant of good faith and fair dealing.
+28 SECTION 6. Chapter 8-2 of the General Laws entitled "Superior Court" is hereby amended
+29 by adding thereto the following sections:
+30 8-2-41. Complex commercial litigation calendar.
+31 (a) On and after July 1, 2027, there shall be a separate calendar for the administration and
+32 determination of complex commercial litigation matters.
+33 (b) Complex commercial litigation calendar. The presiding judge of the superior court shall
+34 create a complex commercial litigation calendar ("CCLC") which shall replace the business
+LC006320 - Page 8 of 26
+
+1 calendar in superior court and shall assign personnel to the extent warranted to exclusively hear
+2 and decide all eligible complex commercial litigation matters. The calendar shall be referred to as
+3 the "complex commercial litigation calendar." This calendar shall take the place of the business
+4 calendar in the superior court, and shall utilize the same judges and staff who are currently assigned
+5 to the business calendar.
+6 (c) Eligible cases.
+7 (1) Cases eligible for the this calendar shall include any case that includes a claim asserted
+8 by any party either directly or by declaratory judgment with an amount in controversy of one
+9 million dollars ($1,000,000) or more, designated in the pleadings for either jury or non-jury trials,
+10 or involves an exclusive choice of court agreement or a judgment resulting from an exclusive choice
+11 of court agreement, or is so designated by the presiding judge, qualifies for assignment to the
+12 CCLC.
+13 (2) Excluded cases include any case containing a claim for personal, physical or mental
+14 injury; mortgage foreclosure actions; mechanics' lien actions; condemnation proceedings; and any
+15 case involving an exclusive choice of court agreement where a party to the agreement is an
+16 individual acting primarily for personal, family, or household purposes or where the agreement
+17 relates to an individual or collective contract of employment.
+18 (3) Any party may request a judicial conference to seek assignment to the CCLC, and
+19 acceptance of any matter in addition to the sections listed in subsection (c)(1) of this section shall
+20 be at the discretion of the judge(s) assigned to the calendar.
+21 (d) Timing. All matters assigned to the CCLC shall be expedited. All memoranda from all
+22 interested parties in a matter assigned to the calendar shall be completed within sixty (60) days of
+23 the filing of the certified record. No continuances or postponements shall be granted except for
+24 good cause shown. Such continuances as are necessary shall be granted for the shortest practicable
+25 time.
+26 (e) Use of section. Under no circumstances shall any party be permitted to utilize this
+27 section as a basis for dismissal of an action, as this section is enacted for the benefit and
+28 convenience of the superior court.
+29 8-2-42. Court of chancery.
+30 (a) There is hereby established, within the superior court but acting as a separate court, the
+31 court of chancery. The court of chancery shall operate independently from the superior court. The
+32 courts shall have jurisdiction to hear and determine all matters and causes in equity only, except as
+33 otherwise agreed to by the parties or pursuant to the provisions of § 8-2-43(b).
+34 (b) The court of chancery shall consist of five (5) chancellors. One chancellor shall be the
+LC006320 - Page 9 of 26
+
+1 chief chancellor. Chancellors of the court of chancery shall be selected and appointed in the same
+2 manner as magistrates of the superior court. Each chancellor shall be appointed for a term of ten
+3 (10) years, with advice and consent of the senate.
+4 (c) The court of chancery shall not have jurisdiction to determine any matter wherein
+5 monetary compensation is the exclusive or sole claim for relief.
+6 (d) All jurisdiction and powers of the court of chancery may be exercised in chambers. The
+7 court of chancery shall sit without juries.
+8 (e) Upon a final determination of all equitable issues, the court of chancery shall transfer
+9 any remaining matters to the appropriate trial court for resolution.
+10 (f) The court of chancery is to be self-sustaining, funded through court fees generated by
+11 the court of chancery. Accordingly the court of chancery shall set fees commensurate with the
+12 requirement that the court shall be self-sustaining.
+13 8-2-43. Jurisdiction of courts of chancery.
+14 (a) Except as provided in subsection (b) of this section, the courts of chancery shall hear
+15 disputes in equity only. These may include matters involving fiduciary duty, mediation and
+16 arbitration, governance, appraisal, books-and-records inspection demands, and other equitable or
+17 statutorily assigned matters, business and technology disputes, and disputes involving deed
+18 covenants or restrictions.
+19 (b) Persons and entities may include provisions in their governing documents that designate
+20 the court of chancery as the exclusive venue for resolving internal disputes and waive the right to
+21 a jury trial for internal claims. Internal claims shall cover a broad scope of claims, including
+22 derivative claims and allegations of breaches of fiduciary duty. A jury trial waiver shall be
+23 enforceable even if the entity's members, owners, officers or governing persons did not individually
+24 sign such waiver.
+25 SECTION 7. Section 9-26-4.1 of the General Laws in Chapter 9-26 entitled "Levy and Sale
+26 on Execution" is hereby amended to read as follows:
+27 9-26-4.1. Homestead estate exemption.
+28 (a) In addition to the property exempt from attachment as set forth in § 9-26-4, an estate of
+29 homestead to the extent of five hundred thousand dollars ($500,000) in the land and buildings, or
+30 personal property that the owner uses as a residence, may be acquired pursuant to this section by
+31 an owner of a home or an individual who rightfully possesses the premises by lease, as a life tenant,
+32 as a beneficiary of a revocable or irrevocable trust or otherwise, and who occupies or intends to
+33 occupy the home as his or her principal residence. Provided, effective July 1, 2026, the estate of
+34 homestead for land, buildings, and personal property that the owner uses as a residence, shall be
+LC006320 - Page 10 of 26
+
+1 unlimited in value, and such land and buildings and personal property shall be exempt from
+2 attachment, levy on execution, and sale for payment of debts or legacies, except as provided for
+3 otherwise in this section. The estate of homestead provided pursuant to this section shall be
+4 automatic by operation of law, and without any requirement or necessity for the filing of a
+5 declaration, a statement in a deed, or any other documentation. The estate shall be exempt from the
+6 laws of attachment, levy on execution, and sale for payment of debts or legacies, except in the
+7 following cases:
+8 (1) Sale for taxes, sewer liens, water liens, lighting district assessments, and fire district
+9 assessments;
+10 (2) For a debt contracted prior to the acquisition of the estate of homestead;
+11 (3) For a debt contracted for the purchase of the home;
+12 (4) Upon an order issued by the family court to enforce its judgment that a spouse pay a
+13 certain amount weekly or otherwise for the support of a spouse or minor children;
+14 (5) Where a building or buildings are situated on land not owned by the owner of a
+15 homestead estate are attached, levied upon or sold for the ground rent of the lot upon which the
+16 building or buildings are situated;
+17 (6) For a debt due to, or a lien in favor of, the department of human services and/or the
+18 state of Rhode Island for reimbursement of medical assistance, as provided for in § 40-8-15;.
+19 (7) For a debt heretofore or hereafter owing to a federally insured deposit-taking institution
+20 or a person regulated or licensed under title 19.
+21 (b) For the purposes of this section, “owner of a home” includes a sole owner, lessee (but
+22 only a lessee who or that was the owner of a home prior to a transfer to the lessor), joint tenant,
+23 tenant by the entirety, or tenant in common; provided, that only one individual may acquire an
+24 estate of homestead in the home for the benefit of his or her family; and provided further, that an
+25 estate of homestead may be acquired on only one principal residence for the benefit of a family.
+26 For the purposes of this section, “family” includes either a parent and child or children, a husband
+27 and wife and their children, if any, or a sole owner. The provisions of this section shall not apply
+28 to any debt owing to a regulated institution, a debt secured by a mortgage or other voluntary lien
+29 on a home, or a mechanics' lien on the property comprising the estate as provided for under chapter
+30 28 of title 34. Notwithstanding any other provisions of law, it shall not be necessary to record a
+31 declaration of homestead in order to take advantage of the homestead estate exemption.
+32 (c) An estate of homestead shall be subordinate to a mortgage encumbering the home that
+33 was signed by all the owners of the home at the time of execution of said mortgage. A mortgage
+34 executed by fewer than all of the owners of a home that is subject to an estate of homestead shall
+LC006320 - Page 11 of 26
+
+1 be superior only to the homestead estate of the owners who are parties to the mortgage and their
+2 non-titled spouses and minor children, if any.
+3 (d) For purposes of this chapter, a mortgage shall include an instrument granting a security
+4 interest in a manufactured home or cooperative housing unit. The subordination shall not require
+5 the signature of a spouse who is not an owner. No statement that a homestead estate shall be
+6 subordinate to the mortgage shall be required in the mortgage instrument and nothing contained in
+7 a mortgage or any document executed in connection with the mortgage shall affect or be construed
+8 to create, modify, or terminate a homestead estate, other than to subordinate it to the mortgage as
+9 aforesaid. A mortgage lender shall not require or record a release of homestead in connection with
+10 the making and recording of a mortgage.
+11 SECTION 8. Title 9 of the General Laws entitled "COURTS AND CIVIL PROCEDURE
+12 — PROCEDURE GENERALLY" is hereby amended by adding thereto the following chapter:
+13 CHAPTER 36
+14 RHODE ISLAND RAPID ARBITRATION ACT
+15 9-36-1. Definitions.
+16 For purposes of this chapter only, unless the context requires otherwise:
+17 (1) "Agreement" means an agreement described in § 9-36-3.
+18 (2) "Arbitration" means an arbitration conducted pursuant to the provisions of this chapter.
+19 (3) "Arbitrator" means a person named in an agreement, selected under an agreement, or
+20 appointed by the parties to an agreement or the court of chancery, to preside over an arbitration and
+21 issue a final award. If an arbitration proceeds before more than one arbitrator:
+22 (i) References in this chapter to an arbitrator shall be deemed to be references to the
+23 arbitrators; and
+24 (ii) Unless otherwise provided in an agreement, references in this chapter to an act of an
+25 arbitrator shall be deemed to be references to an act of a majority of the arbitrators.
+26 (4) "Business entity" means any corporation, association, partnership, or limited liability
+27 company as organized under title 7.
+28 (5) "Consumer" means an individual who seeks or acquires, by purchase or lease, any
+29 goods or services for personal, family, or household purposes.
+30 (6) "Final award" means an award designated as final and issued in an arbitration by an
+31 arbitrator.
+32 (7) "Organization" means a civic association, neighborhood alliance, homeowners
+33 maintenance corporation, homeowners maintenance association, condominium association or other
+34 similar entity charged with or assuming the duties of maintaining the public areas, open space, or
+LC006320 - Page 12 of 26
+
+1 common facilities within a residential development or community.
+2 9-36-2. Purpose of the chapter.
+3 The purpose of this chapter is to provide Rhode Island business, corporate and nonprofit
+4 entities a method by which the entities may resolve disputes in a prompt, cost-effective, and
+5 efficient manner, through voluntary arbitration conducted by expert arbitrators, and to ensure rapid
+6 resolution of those business disputes. This chapter is intended to provide an additional option by
+7 which sophisticated entities may resolve their disputes. Therefore, nothing in this chapter is
+8 intended to impair the ability of entities to use other arbitral procedures of the entities choosing,
+9 including procedures that afford lengthier proceedings and allow for more extensive discovery.
+10 9-36-3. Effect of arbitration agreement.
+11 (a) A written agreement to submit to arbitration any controversy existing at or arising after
+12 the effective date of the agreement is valid, enforceable, and irrevocable, save upon grounds as
+13 exist at law or in equity for the revocation of any contract, without regard to the justiciable character
+14 of the controversy, as long as:
+15 (1) The agreement is signed by the parties to an arbitration;
+16 (2) At least one party to the agreement is an entity formed or organized under the laws of
+17 this state or having its principal place of business in this state;
+18 (3) No party to the agreement is a consumer;
+19 (4) The agreement provides that it shall be governed by or construed under the laws of this
+20 state, without regard to principles of conflict of laws, regardless of whether the laws of this state
+21 govern the parties' other rights, remedies, liabilities, powers and duties; and
+22 (5) The agreement includes an express reference to this chapter, the "Rhode Island rapid
+23 arbitration act;"
+24 (6) During the pendency of an arbitration, an agreement may be amended to alter the
+25 procedures of the arbitration only with the approval of an arbitrator, but the agreement may not be
+26 amended in order to alter the time set forth in § 9-36-8(b).
+27 (b) A party to an agreement is deemed to have waived objection and consented to:
+28 (1) The arbitration procedures set forth in this chapter;
+29 (2) The submission exclusively to an arbitrator of issues of substantive and procedural
+30 arbitrability;
+31 (3) The exclusive personal and subject matter jurisdiction of an arbitration, with venue
+32 waived as long as the hearing is conducted within this state;
+33 (4) The exclusive personal and subject matter jurisdiction of the courts of the state for the
+34 limited purposes set forth in § 9-36-4; and
+LC006320 - Page 13 of 26
+
+1 (5) Except as otherwise limited by the agreement, an arbitrator's power and authority to:
+2 (i) Determine in the first instance the scope of the arbitrator's remedial authority, subject
+3 to review solely pursuant to the provisions of § 9-36-9; and
+4 (ii) Grant relief, including to award any legal or equitable remedy appropriate in the sole
+5 judgment of the arbitrator.
+6 (c) A party to an agreement is deemed to have waived the right to:
+7 (1) Seek to enjoin an arbitration;
+8 (2) Remove any action subject to the provisions of this chapter to a federal court;
+9 (3) Appeal or challenge an interim ruling or order of an arbitrator;
+10 (4) Appeal or challenge a final award, except under § 9-36-9; and
+11 (5) Challenge whether an arbitration has been properly held, except pursuant to the
+12 provisions of § 9-36-9.
+13 9-36-4. Jurisdiction.
+14 (a) Jurisdiction of the supreme court. Except as otherwise provided in an arbitration
+15 agreement, the consummation of the arbitration agreement confers jurisdiction on the supreme
+16 court to hear only a challenge to a final award under § 9-36-9. The supreme court shall not have
+17 jurisdiction to hear appeals of:
+18 (1) The appointment of an arbitrator under § 9-36-5;
+19 (2) The determination of an arbitrator's fees under § 9-36-6(b);
+20 (3) The issuance or denial of an injunction in aid of arbitration under subsection (b)(5) of
+21 this section; and
+22 (4) The grant or denial of an order enforcing a subpoena issued under § 9-36-7(b).
+23 (b) A party to any agreement shall be deemed to have waived the right to such appeals. The
+24 supreme court, in consultation with the court of chancery, may publish rules for arbitration
+25 proceedings under this chapter and, unless an agreement provides for different rules, may specify
+26 that those rules govern arbitration proceedings under this chapter.
+27 (c) Jurisdiction of the court of chancery. The making of an agreement confers jurisdiction
+28 on the court of chancery only to:
+29 (1) Appoint an arbitrator under § 9-36-5;
+30 (2) Enter judgment under § 9-36-10(b);
+31 (3) Upon the request of an arbitrator, enforce a subpoena issued under § 9-36-7(b);
+32 (4) Determine an arbitrator's fees under § 9-36-6(b); and
+33 (5) Issue, only before an arbitrator accepts appointment, an injunction in aid of an
+34 arbitration; provided that, the injunction may not divest the arbitrator of jurisdiction or authority.
+LC006320 - Page 14 of 26
+
+1 Notwithstanding the foregoing, no court has jurisdiction to enjoin an arbitration under this chapter.
+2 The court of chancery may promulgate rules to govern proceedings under this chapter.
+3 (d) Jurisdiction of the superior court. The consummation of an arbitration agreement
+4 confers jurisdiction on the superior court only to enter judgment under § 9-36-10(c).
+5 9-36-5. Appointment of arbitrator by the court of chancery.
+6 (a) The court of chancery, on petition or on application of a party in an existing case, has
+7 exclusive jurisdiction to appoint one or more arbitrators upon:
+8 (1) The consent of all parties to an agreement;
+9 (2) The failure or inability of an arbitrator named in or selected under an agreement to serve
+10 as an arbitrator;
+11 (3) The failure of an arbitration agreement to name an arbitrator or to provide a method for
+12 selecting an arbitrator;
+13 (4) The inability of the parties to an agreement to appoint an arbitrator; or
+14 (5) The failure of a procedure set forth in an arbitration agreement for selecting an
+15 arbitrator.
+16 (b) Following the petition or application, each party shall propose to the court of chancery
+17 no more than three (3) persons that are qualified and willing to serve as an arbitrator.
+18 (c)(1) The court of chancery shall, within thirty (30) days of the service of the petition or
+19 application, appoint an arbitrator and, in so doing, may take into account:
+20 (i) The terms of an agreement;
+21 (ii) The persons proposed by the parties; and
+22 (iii) Reports made under § 9-36-6(d).
+23 (2) An arbitrator appointed by the court of chancery may only be:
+24 (i) A person named in or selected under the arbitration agreement;
+25 (ii) An expert in any nonlegal discipline described in the arbitration agreement; or
+26 (iii) A member in good standing of the bar of the supreme court for at least ten (10) years.
+27 (d) An arbitrator so appointed has all the powers of an arbitrator specifically named in an
+28 agreement. Unless otherwise provided in an agreement, the court of chancery shall appoint a single
+29 arbitrator.
+30 9-36-6. Arbitrator fees and expenses of arbitration.
+31 (a) A person accepting an appointment as an arbitrator shall:
+32 (1) Consent to the terms of this chapter; and
+33 (2)(i) Accept the consequences set forth in subsection (b) of this section for failing to
+34 comply with the provisions of § 9-36-8(b).
+LC006320 - Page 15 of 26
+
+1 (ii) An arbitrator is immune from civil liability for or resulting from any act or omission
+2 done or made in connection with an arbitration, unless the arbitrator's act or omission was made or
+3 done in bad faith, with malicious intent, or in a manner exhibiting a willful, wanton disregard of
+4 the rights, safety, or property of another.
+5 (b) Unless otherwise provided in an agreement, an arbitrator's fees and expenses, together
+6 with other expenses incurred in the conduct of an arbitration, but not including counsel fees of
+7 parties to the arbitration, shall be borne as provided in a final award. Notwithstanding the foregoing,
+8 an arbitrator that fails to issue a final award in compliance with § 9-36-8(b) is not entitled to full
+9 payment of the arbitrator's fees. The arbitrator's fees shall be reduced by twenty-five percent (25%)
+10 if the final award is less than thirty (30) days late; the arbitrator's fees shall be reduced by seventy-
+11 five percent (75%) if the final award is between thirty (30) and sixty (60) days late; and the
+12 arbitrator's fees shall be reduced by one hundred percent (100%) if the final award is more than
+13 sixty (60) days late; provided, however, upon petition by an arbitrator, the court of chancery may
+14 summarily determine, on clear and convincing evidence, that exceptional circumstances exist such
+15 that the reductions in fee provided in this subsection should be modified or eliminated.
+16 (c) An arbitrator may retain appropriate counsel, in consultation with the parties. The
+17 arbitrator's counsel may make rulings on issues of law, to the extent requested to do so by the
+18 arbitrator, which shall have the same effect as a ruling by the arbitrator, if the arbitrator so
+19 determines. The fees and expenses incurred by the arbitrator's counsel shall be included in the
+20 arbitrator's expenses described in subsection (b) of this section.
+21 (d) An arbitrator that fails to issue a final award in compliance with § 9-36-8(b) shall,
+22 within ninety (90) days of the failure, report that failure to the clerk of the court of chancery,
+23 indicating:
+24 (1) The date on which the arbitrator accepted appointment as an arbitrator; and
+25 (2) The date on which the final award was issued.
+26 9-36-7. Hearing -- Witnesses -- Prehearing evidence gathering -- Rulings before final
+27 award.
+28 (a) Unless otherwise provided in an arbitration agreement, an arbitrator shall appoint a time
+29 and place for a hearing or an adjourned hearing, either of which shall be held within the state unless
+30 otherwise provided in an agreement. A party to an arbitration is entitled to be heard, to present
+31 evidence relevant to the arbitration, and to cross-examine witnesses appearing at a hearing.
+32 Notwithstanding the foregoing, an arbitrator may make such interim rulings and issue such interim
+33 orders as the arbitrator deems necessary to determine what evidence and which witnesses may be
+34 presented at the hearing, including to limit the presentation of evidence and witnesses as necessary
+LC006320 - Page 16 of 26
+
+1 to satisfy § 9-36-8(b). An arbitrator may resolve an arbitration on the evidence produced at a
+2 hearing notwithstanding the failure of a party duly notified to appear or participate at the hearing.
+3 (b) Unless otherwise provided in an agreement, an arbitrator has the power to administer
+4 oaths and may order the attendance of witnesses and the production of books, records, contracts,
+5 papers, accounts, and all other documents and evidence under the control or in the possession of
+6 the parties to the arbitration. Only if provided in the arbitration agreement, shall an arbitrator have
+7 the power to issue subpoenas, and all provisions of law compelling a person under subpoena to
+8 testify are applicable. Only if provided in the arbitration agreement, shall an arbitrator award
+9 commissions to permit a deposition to be taken, in the manner and on the terms designated by the
+10 arbitrator, of a witness who cannot be subpoenaed to appeal for the arbitration hearing.
+11 (c) An arbitrator may make such rulings, including rulings of law, and issue such orders or
+12 impose such sanctions as the arbitrator deems proper to resolve an arbitration in a timely, efficient,
+13 and orderly manner.
+14 9-36-8. Awards.
+15 (a) A final award shall be in writing and signed by an arbitrator, shall be provided to each
+16 party to an arbitration, and shall include a form of judgment for entry under § 9-36-10. Unless
+17 otherwise provided in an agreement, an arbitrator may make any award, whether legal or equitable
+18 in nature, deemed appropriate by the arbitrator. Unless otherwise provided in an arbitration
+19 agreement, an arbitrator may make in a final award rulings on any issue of law that the arbitrator
+20 considers relevant to an arbitration.
+21 (b) Subject to subsection (c) of this section, an arbitrator shall issue a final award within
+22 the time fixed by an agreement or, if not so fixed, within one hundred twenty (120) days of the
+23 arbitrator's acceptance of the arbitrator's appointment.
+24 (c) Parties to an arbitration may extend the time for the final award by unanimous consent
+25 in writing either before or after the expiration of that time, but the extension may not exceed,
+26 whether singly or in the aggregate, sixty (60) days after the expiration of the period set by
+27 subsection (b) of this section.
+28 9-36-9. Challenges -- Court powers to vacate, modify, or correct a final award.
+29 (a) An appeal to a final award may be taken to the supreme court in the manner as appeals
+30 are taken from orders or judgments in a civil action.
+31 (b) An appeal to a final award shall be taken within fifteen (15) days of the issuance of the
+32 final award.
+33 (c) In an appeal of a final award, the supreme court may only vacate, modify, or correct the
+34 final award in conformity with the Federal Arbitration Act, 9 U.S.C. §§ 1-16; 9 U.S.C. §§ 201-208;
+LC006320 - Page 17 of 26
+
+1 9 U.S.C. §§ 301-307. The supreme court shall have the authority to order confirmation of a final
+2 award, which confirmation shall be deemed to be confirmation under § 9-36-10(a).
+3 (d) Notwithstanding any other provision of this section, an agreement may provide for:
+4 (1) No appellate review of a final award; or
+5 (2) Appellate review of a final award by one or more arbitrators, in which case appellate
+6 review shall proceed as provided in the agreement. An appellate arbitrator may be appointed by the
+7 court of chancery of the state under § 9-36-5. An appellate arbitrator shall have authority to order
+8 confirmation of a final award, which confirmation shall be deemed to be confirmation under § 9-
+9 36-10(a).
+10 9-36-10. Confirmation of a final award -- Judgment on final award.
+11 (a) Unless an appeal is taken under § 9-36-9 or unless an agreement provides for appellate
+12 review by one or more arbitrators, a final award, without further action by the court of chancery of
+13 the state, is deemed to have been confirmed by the court of chancery on the fifth business day
+14 following the period for appeal under § 9-36-9(b). If an agreement provides for no appellate review
+15 of a final award, the final award is deemed to have been so confirmed on the fifth business day
+16 following the award's issuance.
+17 (b) Except for a final award solely for money damages, upon application to the court of
+18 chancery by a party to an arbitration in which a final award has been confirmed under subsection
+19 (a) of this section, the court of chancery shall promptly enter a final judgment in conformity with
+20 that final award. A final judgment, so entered, has the same effect as if rendered in an action by the
+21 court of chancery.
+22 (c) If a final award is solely for money damages, upon application to the superior court by
+23 a party to an arbitration in which a final award has been confirmed under subsection (a) of this
+24 section, the clerk of the superior court shall promptly enter a judgment on the judgment docket in
+25 conformity with that final award. The clerk of the superior court shall enter in the judgment docket
+26 the names of the parties, the amount of the final award, the time from which interest, if any, runs,
+27 and the amount of the costs, with the true date of the filing and entry. A final judgment, so entered,
+28 has the same force and effect as if rendered in an action at law, and, from that date, and may be
+29 perfected as a lien on all the real estate of the debtor, in the same manner and as fully as judgments
+30 rendered in the superior court are perfected as liens, and may be executed and enforced in the same
+31 way as judgments of the superior court.
+32 9-36-11. Application of chapter.
+33 It is the policy of this chapter to give maximum effect to the principle of freedom of
+34 contract and to the enforceability of agreements.
+LC006320 - Page 18 of 26
+
+1 9-36-12. Short title.
+2 This chapter may be cited as the "Rhode Island Rapid Arbitration Act."
+3 SECTION 9. Chapter 18-1 of the General Laws entitled "Application of Laws to Trusts"
+4 is hereby amended by adding thereto the following section:
+5 18-1-6. Additional provisions governing trusts.
+6 (a) Notwithstanding any provisions to the contrary in this title 18 ("fiduciaries"), or this
+7 chapter 1 of title 18 (“application of law to trusts”), the following provisions shall apply to any
+8 trusts formed under the provisions of this chapter, effective July 1, 2026.
+9 (1) Trustees may allocate trustees' duties to different parties, in order to allow family
+10 members or trusted advisors to retain control of investment and distribution decisions.
+11 (2) Trusts may be established to last for up to one thousand (1,000) years for an initial
+12 period of the trust as so-called "dynasty trusts", and may be extended for additional one thousand
+13 (1,000) year periods an infinite number of times.
+14 (3) Individuals inside or outside of Rhode Island may serve as trust protectors and trust
+15 advisors through entities including LLCs, without any requirement to register with any Rhode
+16 Island government entity.
+17 (4) Private settlement of trust matters without court supervision is permitted.
+18 (5) Holders of general powers of appointment, parents/guardians, or persons with
+19 substantially similar interests may represent minor, unborn, or remainder beneficiaries.
+20 (6) Claims based on forced heirship, protecting beneficiaries whose families reside in
+21 forced heirship jurisdictions, are hereinafter prohibited.
+22 (7) Trusts shall not be required to register and shall not be required to make any trust
+23 documents publicly available, and there shall be automatically sealed any trust-related judicial
+24 proceedings unless specifically ordered otherwise by a court of competent jurisdiction.
+25 (8) No contest or in terrorem clauses shall be generally presumed valid, without common
+26 exceptions.
+27 (9) Self-settled or "domestic asset protection" trusts, as well as nominee trusts, are
+28 recognized as permissible; provided, the length of time for creditor lookback provisions in domestic
+29 asset protection trusts shall be two (2) years with a six (6) month period for known creditors.
+30 (10) Beneficiary notice requirements may be modified or eliminated by the trust document,
+31 creating so-called "silent" or "quiet" trusts.
+32 (11) Trusts may remain in effect for the forever or in perpetuity, and the rule of perpetuities,
+33 so called, shall not be applied to trusts.
+34 (12) Grantors of trusts may be beneficiaries.
+LC006320 - Page 19 of 26
+
+1 (13) Community property trusts are recognized.
+2 (14) The state formally recognizes and adopts the provisions of the Uniform Directed Trust
+3 Act.
+4 18-1-7. Nominee trusts established.
+5 (a) A nominee trust may be established in this state as follows:
+6 (1) The party seeking to establish a nominee trust must execute a certificate sworn to or
+7 stated to be executed under the penalties of perjury, and in either case signed by a person who from
+8 the records of the registry of deeds for the municipality in which real estate owned by a
+9 nontestamentary trust lies, and that person appears to be a trustee thereunder and which certifies as
+10 to the following:
+11 (i) The identity of the trustees or the beneficiaries thereunder;
+12 (ii) The authority of the trustees to act with respect to real estate owned by the trust; or
+13 (iii) The existence or nonexistence of a fact which constitutes a condition precedent to acts
+14 by the trustees or which are in any other manner germane to affairs of the trust.
+15 (b) A document executed in compliance with and meeting the requirements of subsection
+16 (a) of this section shall be binding on all trustees and the trust estate in favor of a purchaser or other
+17 person relying in good faith on the certificate. The certificate most recently recorded in the registry
+18 of deeds for the municipality in which the real estate lies shall control.
+19 SECTION 10. Section 44-11-2 of the General Laws in Chapter 44-11 entitled "Business
+20 Corporation Tax" is hereby amended to read as follows:
+21 44-11-2. Imposition of tax.
+22 (a) Each corporation shall annually pay to the state a tax equal to nine percent (9%) of net
+23 income, as defined in § 44-11-11, qualified in § 44-11-12, and apportioned to this state as provided
+24 in §§ 44-11-13 — 44-11-15, for the taxable year. For tax years beginning on or after January 1,
+25 2015, each corporation shall annually pay to the state a tax equal to seven percent (7.0%) of net
+26 income, as defined in § 44-11-13 — 44-11-15, for the taxable year.
+27 (b) A corporation shall pay the amount of any tax as computed in accordance with
+28 subsection (a) after deducting from “net income,” as used in this section, fifty percent (50%) of the
+29 excess of capital gains over capital losses realized during the taxable year, if for the taxable year:
+30 (1) The corporation is engaged in buying, selling, dealing in, or holding securities on its
+31 own behalf and not as a broker, underwriter, or distributor;
+32 (2) Its gross receipts derived from these activities during the taxable year amounted to at
+33 least ninety percent (90%) of its total gross receipts derived from all of its activities during the year.
+34 “Gross receipts” means all receipts, whether in the form of money, credits, or other valuable
+LC006320 - Page 20 of 26
+
+1 consideration, received during the taxable year in connection with the conduct of the taxpayer's
+2 activities.
+3 (c) A corporation shall not pay the amount of the tax computed on the basis of its net
+4 income under subsection (a), but shall annually pay to the state a tax equal to ten cents ($.10) for
+5 each one hundred dollars ($100) of gross income for the taxable year or a tax of one hundred dollars
+6 ($100), whichever tax shall be the greater, if for the taxable year the corporation is either a “personal
+7 holding company” registered under the federal Investment Company Act of 1940, 15 U.S.C. § 80a-
+8 1 et seq., “regulated investment company,” or a “real estate investment trust” as defined in the
+9 federal income tax law applicable to the taxable year. “Gross income” means gross income as
+10 defined in the federal income tax law applicable to the taxable year, plus:
+11 (1) Any interest not included in the federal gross income; minus
+12 (2) Interest on obligations of the United States or its possessions, and other interest exempt
+13 from taxation by this state; and minus
+14 (3) Fifty percent (50%) of the excess of capital gains over capital losses realized during the
+15 taxable year.
+16 (d)(1) A small business corporation having an election in effect under subchapter S, 26
+17 U.S.C. § 1361 et seq., shall not be subject to the Rhode Island income tax on corporations, except
+18 that the corporation shall be subject to the provisions of subsection (a), to the extent of the income
+19 that is subjected to federal tax under subchapter S. Effective for tax years beginning on or after
+20 January 1, 2015, a small business corporation having an election in effect under subchapter S, 26
+21 U.S.C. § 1361 et seq., shall be subject to the minimum tax under § 44-11-2(e).
+22 (2) The shareholders of the corporation who are residents of Rhode Island shall include in
+23 their income their proportionate share of the corporation's federal taxable income.
+24 (3) [Deleted by P.L. 2004, ch. 595, art. 29, § 1.]
+25 (4) [Deleted by P.L. 2004, ch. 595, art. 29, § 1.]
+26 (e) Minimum tax. The tax imposed upon any corporation under this section, including a
+27 small business corporation having an election in effect under subchapter S, 26 U.S.C. § 1361 et
+28 seq., shall not be less than four hundred fifty dollars ($450). For tax years beginning on or after
+29 January 1, 2017, the tax imposed shall not be less than four hundred dollars ($400). Provided, for
+30 tax years beginning after July 1, 2026, the minimum tax provided for under this subsection shall be
+31 eliminated.
+32 SECTION 11. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+33 adding thereto the following chapter:
+34 CHAPTER 12.1
+LC006320 - Page 21 of 26
+
+1 FRANCHISE TAX
+2 44-12.1-1. Fee imposed.
+3 (a) Every corporation, joint-stock company, limited liability company, partnership,
+4 statutory trusts or association incorporated in this state or qualified to do business in this state,
+5 whether or not doing business for profit, shall pay an annual franchise fee to the state.
+6 (b) The franchise fee established herein shall be a minimum of four hundred fifty dollars
+7 ($450) for all noncorporation entities to include limited liability companies, partnerships, and
+8 statutory trusts.
+9 (c) The franchise fee for corporations shall be based upon the number of shares issued, as
+10 follows:
+11 (1) For a corporation with five thousand (5,000) authorized shares or less, the franchise fee
+12 shall be four hundred fifty dollars ($450);
+13 (2) For a corporation with five thousand one (5,001) and up to ten thousand (10,000)
+14 authorized shares, the franchise fee shall be seven hundred fifty dollars ($750); and
+15 (3) For a corporation with ten thousand one (10,001) authorized shares or more, the
+16 franchise fee shall be one thousand dollars ($1,000).
+17 (d) The franchise fee as described in this section shall be deductible from and against the
+18 business corporation tax described in § 44-11-2, or a corresponding tax owed by entities identified
+19 in § 44-12.1-1(a).
+20 (e) As used in this chapter:
+21 (1) “Fee” means the franchise fee established pursuant to this section;
+22 (2) “Return” means the fee return describe in § 44-12.1-2; and
+23 (3) “Secretary” means the secretary of state.
+24 44-12.1-2. Filing of returns -- Contents.
+25 Every entity subject to the provisions of this chapter shall, on or before March 15, annually,
+26 file with the secretary of state as of the last day of its next preceding taxable year a fee return
+27 (hereinafter the “return”), under oath or affirmation, signed by its treasurer or by an authorized
+28 officer or agent of the entity, if organized, and if not organized, under oath of someone authorized
+29 to act by the entity, containing information as the secretary of state may require, including:
+30 (1) The name of the entity and the location of its principal office.
+31 (2) The amount of its capital stock authorized, and the par value thereof, if applicable.
+32 (3) The amount of its capital stock authorized, without par value, if applicable.
+33 44-12.1-3. Valuation of no-par stock.
+34 In the case of corporations having capital stock of no-par value, one hundred dollars ($100)
+LC006320 - Page 22 of 26
+
+1 per share shall be deemed to be the par value for the purposes of this chapter.
+2 44-12.1-4. Assessment of fee -- Notice of amount.
+3 The secretary of state, as soon as possible after the filing of the return, shall assess, as of
+4 the last day of its next preceding taxable year, a fee upon each entity as provided in this chapter
+5 and shall mail a notice of the amount of the fee to each entity, but failure to receive the notice shall
+6 not invalidate the fee or excuse the nonpayment of the fee.
+7 44-12.1-4.1. Hearing on application.
+8 Any entity aggrieved by the action of the secretary of state in determining the amount of
+9 any fee or penalty imposed under the provisions of this chapter may apply to the secretary of state
+10 in writing, within thirty (30) days after the notice of the action is mailed to it, for a hearing relative
+11 thereto. The secretary of state shall fix a time and place for the hearing and shall so notify the
+12 applicant. At the hearing, the secretary shall correct manifest errors, if any, disclosed at the hearing
+13 and assess and collect the lawfully due fee together with any penalty or interest on the fee.
+14 44-12.1-5. Payment of fee.
+15 The fee shall be payable at the earlier of March 15 or within fifteen (15) days after its
+16 assessment and, if not paid when due, shall bear interest from the date of its assessment at the
+17 annual rate provided by § 44-1-7 for interest on delinquent payment of state taxes, until paid.
+18 44-12.1-5.1. Claims for refund -- Hearing upon denial.
+19 (a) Any entity subject to the provisions of this chapter may file a claim for refund with the
+20 secretary at any time within two (2) years after the fee has been paid. If the secretary shall determine
+21 that the fee has been overpaid, the secretary shall make a refund with interest at the annual rate
+22 provided by § 44-1-7.1 from the date of overpayment.
+23 (b) Any entity whose claim for refund has been denied may, within thirty (30) days from
+24 the date of the mailing by the secretary of the notice of the decision, request a hearing, and the
+25 secretary shall, as soon as practicable, set a time and place for the hearing and shall notify the
+26 applicant.
+27 44-12.1-6. Penalty for failure to make return.
+28 If the fee and return that is required to be made by § 44-12.1-2 is not made within the time
+29 fixed by this chapter, the officer or agent neglecting or refusing to make the return shall be fined
+30 not exceeding five hundred dollars ($500).
+31 44-12.1-7. Lien on real estate.
+32 The fee shall from the date of assessment become a lien upon the real estate of the entity
+33 liable for the fee until the fee is collected.
+34 44-12.1-8. Forfeiture of charter or articles for nonpayment of fee.
+LC006320 - Page 23 of 26
+
+1 The secretary may, after July 15 of each year, make up a list of all entities which have
+2 failed to pay any franchise fee assessed for two (2) years after the fee became due and payable,
+3 shall certify to the correctness of the list, and shall file the list as a public record in the office of the
+4 secretary of state. Upon the filing of the certified list, the charter, articles of organization, or articles
+5 of association of each of the entities shall become forfeited by reason of the failure to pay the fee,
+6 and all the entities shall cease to be bodies corporate, except as provided in § 7-1.2-1324. The
+7 secretary of state shall mail a notice of the forfeiture of charter or articles to each entity at its last
+8 known address, but failure to receive the notice shall not invalidate the forfeiture. Any entity or any
+9 stockholder, officer, manager or agent of the entity, continuing to act thereafter under any forfeited
+10 charter or articles, except as provided in § 7-1.2-1324, or pending an appeal from the forfeiture as
+11 provided, shall be deemed guilty of a misdemeanor and upon conviction shall be fined not less than
+12 fifty dollars ($50.00) nor more than one thousand dollars ($1,000) for each offense.
+13 44-12.1-9. Publication of forfeitures -- Vacation on payment of fee.
+14 The secretary of state shall publish on the secretary of state's website the names of all
+15 entities whose charters or articles have been forfeited. The forfeiture shall be vacated as to any
+16 entity, which shall pay all fees and all interest then due to the secretary within sixty (60) days of
+17 the date of the publication.
+18 44-12.1-10. Appeal of forfeitures.
+19 Any entity, by any stockholder, equity owner, manager or officer of the entity, aggrieved
+20 by the forfeiture of the charter or articles of the entity may appeal from the forfeiture, within thirty
+21 (30) days from the date of the publication, to the sixth division of the district court, and the court
+22 shall proceed as soon as possible to hear the appeal after the manner of equitable causes. If the
+23 appellant shall show to the satisfaction of the court that the forfeiture of the charter or articles of
+24 the entity was erroneous under the provisions, or that the fee assessed was improper or erroneous
+25 in whole or in part, and in that case if the appellant shall pay all fees and all interest then due under
+26 this chapter, then the court shall sustain the appeal and shall vacate the forfeiture as to the appellant
+27 entity. Upon failure to show error in the forfeiture under the provisions, or to pay all fees and all
+28 interest due, the court shall dismiss the appeal and confirm the forfeiture. Upon the sustaining of
+29 the appeal of any entity, the clerk of the district court shall, within ten (10) days, file with the
+30 secretary of state an attested copy of the decree vacating the forfeiture as to the appellant entity. A
+31 party aggrieved by a final order of the court may seek review in the supreme court by writ of
+32 certiorari in accordance with the procedures contained in § 42-35-16.
+33 44-12.1-11. Corporations exempt.
+34 The provisions of this section shall not apply to the following entities: Roger Williams
+LC006320 - Page 24 of 26
+
+1 General Hospital, Women and Infants Hospital of Rhode Island, Rhode Island Hospital, St. Joseph's
+2 Hospital, Butler Hospital, Newport Hospital, South County Hospital, Lincoln School, St. George's
+3 School, the Mary C. Wheeler School, Incorporated, insurance or surety companies, corporations
+4 mentioned in §§ 7-6-4, 27-25-1, and 44-13-4, and all corporations exempt by charter or by the law
+5 of this state.
+6 44-12.1-12. Declarations under penalty of perjury.
+7 The oath or affirmation required by this chapter as to any report or written statement shall
+8 not be required if the report or statement to be sworn to contains or is verified by a written
+9 declaration that it is made under the penalties of perjury; and whoever signs or issues any report or
+10 statement containing or verified by a written declaration shall, if the report or statement is willfully
+11 false, be guilty of perjury.
+12 44-12.1-13. Appeals -- Interest on refunds.
+13 Appeals from administrative orders or decisions made pursuant to any provisions of this
+14 chapter shall be to the sixth division district court pursuant to chapter 8 of title 8. The right to appeal
+15 shall be expressly made conditional upon prepayment of all fees, interest, and penalties unless the
+16 entity moves for and is granted an exemption from the prepayment. If the court, after appeal, holds
+17 that the entity is entitled to a refund, the entity shall also be paid interest on the amount at the rate
+18 provided in § 44-1-7.1.
+19 SECTION 12. Section 6 of this act shall take effect July 1, 2027. Sections 10 and 11 of this
+20 act shall take effect January 1, 2027. The remaining sections of this act shall take effect upon
+21 passage.
+========
+LC006320
+========
+LC006320 - Page 25 of 26
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CORPORATIONS, ASSOCIATIONS AND PARTNERSHIPS -- RHODE
+ISLAND BUSINESS CORPORATION ACT -- THE RHODE ISLAND BUSINESS CLIMATE
+REFORM ACT
+***
+1 This act would adopt a number of concepts from other jurisdictions with the goal of
+2 promoting a stronger climate for business growth in Rhode Island. This act would impose a
+3 "Franchise Fee" on most corporations, LLCs and partnerships, in lieu of the corporation tax. This
+4 act would, further, create a court of chancery to handle actions in equity, establish numerous
+5 provisions to govern arbitrations, and eliminate the cap on the homestead estate exemption.
+6 Section 6 of this act would take effect July 1, 2027. Sections 10 and 11 of this act would
+7 take effect January 1, 2027. The remaining sections of this act would take effect upon passage.
+========
+LC006320
+========
+LC006320 - Page 26 of 26

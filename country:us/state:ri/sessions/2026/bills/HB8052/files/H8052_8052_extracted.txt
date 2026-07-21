@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - 8052
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8052
+========
+LC005548
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY--
+CAUSES OF ACTION
+Introduced By: Representatives Carson, Caldwell, Knight, and Cotter
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 9-1 of the General Laws entitled "Causes of Action" is hereby
+2 amended by adding thereto the following section:
+3 9-1-55. Artificial intelligence -- Liability for injuries.
+4 (a) When used in this section, the following words and phrases shall have the following
+5 meanings:
+6 (1) "Artificial intelligence system" means an engineered or machine-based system that
+7 varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input
+8 it receives how to generate outputs that can influence physical or virtual environments.
+9 (2) "Developer" means a person that performs the initial training of an artificial intelligence
+10 system either by training a model, or by fine-tuning an existing model.
+11 (3) "Fine-tuning" means adjusting the model weights of a trained covered model or covered
+12 model derivative by exposing it to additional data.
+13 (b) Artificial intelligence; liability for injuries. Except with respect to any causes of action
+14 for defamation, developers shall be liable, regardless of the degree of care they exercised, for all
+15 injuries that satisfy the following conditions:
+16 (1) Those injuries are factually and proximately caused by an artificial intelligence system
+17 that engages in conduct that, if undertaken by an adult human of sound mind, would satisfy the
+18 elements of negligence or any intentional tort or crime; and
+
+1 (2) That conduct was neither intended nor a consequence of negligence on the part of:
+2 (i) The user of the model; or
+3 (ii) Any intermediary that fine-tuned, scaffolded, or otherwise modified the artificial
+4 intelligence system.
+5 (c)(1) For the purposes of this section, for any torts for which the mental state of the alleged
+6 tortfeasor is relevant to the elements of the tort, there shall be a rebuttable presumption that the
+7 artificial intelligence system satisfies the relevant mental state if the finder of fact determines by a
+8 preponderance of the evidence that, if a natural person under similar circumstances to the artificial
+9 intelligence system took actions similar to those taken by the artificial intelligence system, that
+10 natural person would have acted with the relevant mental state.
+11 (2)(i) Unless the court determines that the presumption established in subsection (c)(1) of
+12 this section is not applicable, if the party against whom the presumption is invoked presents
+13 evidence tending to rebut the presumption established in subsection (c)(1) of this section, the judge
+14 in a jury trial shall instruct the jury to find that the presumed facts exist unless the jury is persuaded
+15 that the presumed facts do not exist.
+16 (ii) Unless the court determines that the presumption established in subsection (c)(1) of this
+17 section is not applicable, if the party against whom the presumption is invoked presents evidence
+18 tending to rebut the presumption established in subsection (c)(1) of this section, the judge in a bench
+19 trial shall find that the presumed facts exist unless the judge is persuaded that the presumed facts
+20 do not exist.
+21 (3) For the purposes of this section, it shall not be a defense that artificial intelligence
+22 systems are incapable of having mental states.
+23 (d)(1) It shall be an absolute defense to liability, including liability under the common law
+24 or existing statutes, if the developer establishes that the covered model or covered model derivative
+25 satisfied the standard of care applicable to humans who perform the same function that the covered
+26 model or covered model derivative was engaged in performing when its conduct allegedly caused
+27 the plaintiff's injury.
+28 (2) It shall be an absolute defense to liability, including liability under the common law or
+29 existing statutes, if the developer establishes that the injuries were a result of a capabilities failure,
+30 in which a covered model or covered model derivative falls short of performing the intended or
+31 reasonably anticipated performance of the user, but the conduct of the system would not satisfy the
+32 elements of negligence or any intentional tort or crime if engaged in by an adult human of sound
+33 mind.
+LC005548 - Page 2 of 4
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC005548
+========
+LC005548 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY--
+CAUSES OF ACTION
+***
+1 This act would provide a civil cause of action for individuals injured by artificial
+2 intelligence.
+3 This act would take effect upon passage.
+========
+LC005548
+========
+LC005548 - Page 4 of 4

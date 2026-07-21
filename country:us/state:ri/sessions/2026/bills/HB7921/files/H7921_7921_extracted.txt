@@ -1,0 +1,233 @@
+Title: 
+Official Title: 
+Source: versions - 7921
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7921
+========
+LC005314
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PHARMACISTS TEST-AND-TREAT
+AUTHORITY ACT
+Introduced By: Representatives McGaw, Donovan, Tanzi, Boylan, Cruz, Furtado, Potter,
+Giraldo, Kislak, and Cotter
+Date Introduced: February 27, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. The general assembly hereby finds that:
+2 (1) Timely access to testing and treatment for common, self-limiting, and communicable
+3 conditions is essential to protecting public health.
+4 (2) Licensed pharmacists are among the most accessible health care professionals and are
+5 trained in medication therapy management, clinical assessment, and patient counseling.
+6 (3) Expanding pharmacist authority to test for and treat certain conditions improves access
+7 to care, reduces unnecessary emergency department and urgent care utilization, and supports health
+8 system capacity.
+9 (4) Pharmacist-provided test-and-treat services have been demonstrated to be safe,
+10 effective, and acceptable to patients when conducted pursuant to evidence-based protocols.
+11 SECTION 2. Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS"
+12 is hereby amended by adding thereto the following chapter:
+13 CHAPTER 19.4
+14 PHARMACISTS TEST-AND-TREAT AUTHORITY ACT
+15 5-19.4-1. Short title.
+16 This chapter shall be known and may be cited as the “Pharmacists Test-and-Treat Authority
+17 Act”.
+18 5-19.4-2. Purpose.
+
+1 The purpose of this chapter is to authorize licensed pharmacists to independently test for
+2 and initiate treatment of certain conditions.
+3 5-19.4-3. Definitions.
+4 As used in this chapter, the following terms shall have the following meanings:
+5 (1) “Board” means the board of pharmacy established pursuant to §§ 5-19.1-3 through 5-
+6 19.1-6.
+7 (2) “CLIA-waived test” means a laboratory test categorized as waived under 42 CFR §
+8 493.15
+9 (3) “Department” means the department of health.
+10 (4) “Pharmacist” means an individual licensed under chapter 19.1 of title 5 ("pharmacies").
+11 (5) “Test-and-treat service” means the performance of a clinical assessment, the ordering
+12 or administration of a clinical laboratory improvement amendments (CLIA)-waived test, the
+13 interpretation of test results, and the initiation, modification, or discontinuation of drug therapy
+14 pursuant to a statewide protocol.
+15 5-19.4-4. Authority to provide test-and-treat services.
+16 (a) Notwithstanding any provision of law to the contrary, a pharmacist may independently
+17 provide test-and-treat services for conditions authorized by statewide protocol adopted by the board
+18 pursuant to §§ 5-19.4-5 and 5-19.4-10.
+19 (b) A pharmacist acting pursuant to this chapter may:
+20 (1) Order, perform, and interpret CLIA-waived tests;
+21 (2) Initiate, dispense, administer, or prescribe medications; and
+22 (3) Provide patient counseling, education, and referral as clinically indicated.
+23 (c) A pharmacist shall not provide test-and-treat services for any condition not expressly
+24 authorized by statewide protocol.
+25 5-19.4-5. Authorized conditions.
+26 (a) The board, in consultation with the department, shall adopt statewide protocols
+27 authorizing pharmacist test-and-treat services for conditions including, but not limited to:
+28 (1) Influenza;
+29 (2) COVID-19;
+30 (3) Group A streptococcal pharyngitis;
+31 (4) Post exposure prophylaxis (PEP) for sexually transmitted infections for which CLIA-
+32 waived testing is available, unless testing is not readily available and delay in treatment may
+33 increase risk of infection; and
+34 (5) Any additional condition determined by the board to be appropriate based on safety,
+LC005314 - Page 2 of 7
+
+1 evidence, and public health needs.
+2 (b) In adopting or amending protocols, the board shall consider:
+3 (1) Evidence-based clinical guidelines;
+4 (2) Diagnostic reliability of available tests;
+5 (3) Medication safety and appropriateness; and
+6 (4) Referral criteria and exclusion conditions.
+7 5-19.4-6. Training and competency.
+8 (a) Prior to providing test-and-treat services, a pharmacist shall complete education
+9 requirements established by the board, which may include:
+10 (1) Disease-specific education;
+11 (2) Use and interpretation of CLIA-waived tests;
+12 (3) Patient assessment and referral; and
+13 (4) Documentation and reporting requirements.
+14 (b) The board may require ongoing continuing education as a condition of continued
+15 authority for a pharmacist to provide test-and-treat services pursuant to the provisions of this
+16 chapter.
+17 5-19.4-7. Documentation and communication.
+18 (a) A pharmacist shall document each test-and-treat encounter in a patient record consistent
+19 with board rules and regulations adopted pursuant to § 5-19.4-10.
+20 (b) Upon patient consent, the pharmacist shall make reasonable efforts to notify the
+21 patient’s primary care provider, if one exists, of the service provided within seven (7) business
+22 days.
+23 (c) Pharmacists shall comply with all applicable public health reporting requirements.
+24 5-19.4-8. Liability and standard of care.
+25 (a) A pharmacist providing services pursuant to the provisions of this chapter shall be held
+26 to the standard of care applicable to pharmacists practicing within their scope of licensure.
+27 (b) Nothing in this chapter shall be construed to create a higher standard of care or to
+28 expand civil liability beyond existing law.
+29 5-19.4-9. Reimbursement.
+30 (a) Test-and-treat services provided pursuant to this chapter shall constitute covered health
+31 care services for purposes of reimbursement under state-regulated health insurance plans and
+32 Medicaid, subject to applicable billing requirements.
+33 (b) The office of the health insurance commissioner and the executive office of health and
+34 human services shall take actions necessary to implement this section.
+LC005314 - Page 3 of 7
+
+1 5-19.4-10. Rulemaking authority.
+2 The board of pharmacy, in consultation with the department of health, shall promulgate
+3 rules and regulations necessary to implement and enforce the provisions of this chapter. The rules
+4 and regulations shall be promulgated no later than six (6) months after the effective date of this
+5 chapter.
+6 5-19.4-11. Severability.
+7 If any provision of this chapter or its application is held invalid, the invalidity shall not
+8 affect other provisions or applications of the chapter that can be given effect without the invalid
+9 provision or application.
+10 SECTION 3. Chapter 27-18 of the General Laws entitled "Accident and Sickness Insurance
+11 Policies" is hereby amended by adding thereto the following section:
+12 27-18-96. Coverage for pharmacists’ services.
+13 (a) Every group health insurance contract, or every group hospital or medical expense
+14 insurance policy, plan, or group policy delivered, issued for delivery, or renewed in this state, by
+15 any health insurance carrier, on or after January 1, 2027, shall provide coverage for the services
+16 within the lawful scope of practice of pharmacists as defined in § 5-19.1-2 if the plan would have
+17 provided coverage if the service had been performed by a physician, advanced practice nurse, or
+18 physician assistant. No nonprofit medical service corporation may require supervision, signature,
+19 or referral by any other healthcare provider as a condition of reimbursement to a pharmacist;
+20 provided that, no nonprofit medical service corporation may be required to pay for duplicative
+21 services actually rendered by both a pharmacist and any other healthcare provider.
+22 (b) The health plan shall include an adequate number of pharmacists in its network of
+23 participating medical providers. The participation of pharmacies in the plan network’s drug benefit
+24 does not satisfy the requirement that plans include pharmacists in their networks of participating
+25 medical providers.
+26 (c) The healthcare benefits outlined in this section shall apply only to services delivered
+27 within the health insurer’s provider network; provided that, all health insurers shall be required to
+28 provide coverage for those benefits mandated by this section outside of the health insurer’s provider
+29 network where it can be established that the required services are not available from a provider in
+30 the health insurer’s network.
+31 SECTION 4. Chapter 27-19 of the General Laws entitled "Nonprofit Hospital Service
+32 Corporations" is hereby amended by adding thereto the following section:
+33 27-19-88. Coverage for pharmacists’ services.
+34 (a) Every group health insurance contract, or every group hospital or medical expense
+LC005314 - Page 4 of 7
+
+1 insurance policy, plan, or group policy delivered, issued for delivery, or renewed in this state, by
+2 any health insurance carrier, on or after January 1, 2027, shall provide coverage for the services
+3 within the lawful scope of practice of pharmacists as defined in § 5-19.1-2 if the plan would have
+4 provided coverage if the service had been performed by a physician, advanced practice nurse, or
+5 physician assistant. No nonprofit medical service corporation may require supervision, signature,
+6 or referral by any other healthcare provider as a condition of reimbursement to a pharmacist;
+7 provided that, no nonprofit medical service corporation may be required to pay for duplicative
+8 services actually rendered by both a pharmacist and any other healthcare provider.
+9 (b) The health plan shall include an adequate number of pharmacists in its network of
+10 participating medical providers. The participation of pharmacies in the plan network’s drug benefit
+11 does not satisfy the requirement that plans include pharmacists in their networks of participating
+12 medical providers.
+13 (c) The healthcare benefits outlined in this section shall apply only to services delivered
+14 within the health insurer’s provider network; provided that, all health insurers shall be required to
+15 provide coverage for those benefits mandated by this section outside of the health insurer’s provider
+16 network where it can be established that the required services are not available from a provider in
+17 the health insurer’s network.
+18 SECTION 5. Chapter 27-20 of the General Laws entitled "Nonprofit Medical Service
+19 Corporations" is hereby amended by adding thereto the following section:
+20 27-20-84. Coverage for pharmacists’ services.
+21 (a) Every group health insurance contract, or every group hospital or medical expense
+22 insurance policy, plan, or group policy delivered, issued for delivery, or renewed in this state, by
+23 any health insurance carrier, on or after January 1, 2027, shall provide coverage for the services
+24 within the lawful scope of practice of pharmacists as defined in § 5-19.1-2 if the plan would have
+25 provided coverage if the service had been performed by a physician, advanced practice nurse, or
+26 physician assistant. No nonprofit medical service corporation may require supervision, signature,
+27 or referral by any other healthcare provider as a condition of reimbursement to a pharmacist;
+28 provided that, no nonprofit medical service corporation may be required to pay for duplicative
+29 services actually rendered by both a pharmacist and any other healthcare provider.
+30 (b) The health plan shall include an adequate number of pharmacists in its network of
+31 participating medical providers. The participation of pharmacies in the plan network’s drug benefit
+32 does not satisfy the requirement that plans include pharmacists in their networks of participating
+33 medical providers.
+34 (c) The healthcare benefits outlined in this section shall apply only to services delivered
+LC005314 - Page 5 of 7
+
+1 within the health insurer’s provider network; provided that, all health insurers shall be required to
+2 provide coverage for those benefits mandated by this section outside of the health insurer’s provider
+3 network where it can be established that the required services are not available from a provider in
+4 the health insurer’s network.
+5 SECTION 6. Chapter 27-41 of the General Laws entitled "Health Maintenance
+6 Organizations" is hereby amended by adding thereto the following section:
+7 27-41-101. Coverage for pharmacists’ services.
+8 (a) Every group health insurance contract, or every group hospital or medical expense
+9 insurance policy, plan, or group policy delivered, issued for delivery, or renewed in this state, by
+10 any health insurance carrier, on or after January 1, 2027, shall provide coverage for the services
+11 within the lawful scope of practice of pharmacists as defined in § 5-19.1-2 if the plan would have
+12 provided coverage if the service had been performed by a physician, advanced practice nurse, or
+13 physician assistant. No nonprofit medical service corporation may require supervision, signature,
+14 or referral by any other healthcare provider as a condition of reimbursement to a pharmacist;
+15 provided that, no nonprofit medical service corporation may be required to pay for duplicative
+16 services actually rendered by both a pharmacist and any other healthcare provider.
+17 (b) The health plan shall include an adequate number of pharmacists in its network of
+18 participating medical providers. The participation of pharmacies in the plan network’s drug benefit
+19 does not satisfy the requirement that plans include pharmacists in their networks of participating
+20 medical providers.
+21 (c) The healthcare benefits outlined in this section shall apply only to services delivered
+22 within the health insurer’s provider network; provided that, all health insurers shall be required to
+23 provide coverage for those benefits mandated by this section outside of the health insurer’s provider
+24 network where it can be established that the required services are not available from a provider in
+25 the health insurer’s network.
+26 SECTION 7. This act shall take effect on January 1, 2027.
+========
+LC005314
+========
+LC005314 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PHARMACISTS TEST-AND-TREAT
+AUTHORITY ACT
+***
+1 This act would authorize pharmacists to order, perform and interpret CLIA-waived tests
+2 authorized by statewide protocol and prescribe medications. This act would further permit for such
+3 test-and-treat authority to be covered by all health insurance carriers.
+4 This act would take effect on January 1, 2027.
+========
+LC005314
+========
+LC005314 - Page 7 of 7

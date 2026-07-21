@@ -1,0 +1,323 @@
+Title: 
+Official Title: 
+Source: versions - 7889
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7889
+========
+LC005612
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+-- UTILITY OWNERSHIP OF ELECTRIC GENERATING FACILITIES
+Introduced By: Representatives Serpa, and Kennedy
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 39-1-27 of the General Laws in Chapter 39-1 entitled "Public Utilities
+2 Commission" is hereby amended to read as follows:
+3 39-1-27. Electric distribution companies required to file restructuring plans.
+4 (a) Each electric distribution company shall file with the commission a plan for transferring
+5 ownership of generation facilities into a separate affiliate of the electric distribution company. The
+6 transmission facilities owned by the electric distribution company also may be transferred to an
+7 affiliated electric transmission company at a price that shall equal the book value of the
+8 transmission facilities on the electric distribution company’s accounts net of depreciation and
+9 deferred taxes as the date of transfer, but such a transfer is not required. The generation plant,
+10 equipment, and facilities owned by an electric distribution company shall be transferred to an
+11 affiliate that is a nonregulated power producer at a price that shall equal the book value of the
+12 generation plant, equipment, and facilities on the electric distribution company’s accounts net of
+13 depreciation and deferred taxes as of the date of the transfer. Consistent with the schedule for
+14 implementing retail access in § 39-1-27.3, each electric transmission company shall file tariffs with
+15 the Federal Energy Regulatory Commission (FERC) and electric-distribution companies shall file
+16 tariffs with the commission. The tariffs will provide the terms, conditions, and rates for
+17 nondiscriminatory access to transmission and distribution facilities to wholesale and retail
+18 customers and to nonregulated power producers. The tariffs shall: (1) Conform to the standards,
+
+1 policies, and requirements of the Federal Energy Regulatory Commission or the commission as
+2 appropriate with respect to nondiscriminatory access to transmission and distribution services; (2)
+3 Fulfill such standards with respect to both transmission and distribution services for the benefit of
+4 both wholesale and retail customers and their suppliers; and (3) Provide retail access in accordance
+5 with the schedule set forth in § 39-1-27.3. For purposes of this section, “nondiscriminatory access”
+6 means access to transmission and distribution services on rates, terms, and conditions found to be
+7 reasonable by the FERC or the commission as appropriate and applied consistently to all customers
+8 in a rate class regardless of their supplier. When establishing terms and conditions for distribution
+9 service, the commission shall implement standards, policies, and requirements consistent with
+10 those established by the Federal Energy Regulatory Commission for transmission service unless it
+11 determines that alternative terms and conditions are in the public interest.
+12 (b) The commission shall review the plan within six (6) months of filing and if the plan is
+13 in compliance with chapter 3 of this title, shall authorize the property transfers, securities issuances,
+14 and affiliate transactions pursuant to this title and shall grant all necessary regulatory approvals.
+15 All existing state and local rights, authorizations, and approvals, including but not limited to,
+16 permits, licenses, locations, indentures, leases, orders, or similar rights associated with the
+17 ownership and operation of plant and equipment, shall be deemed transferred with the associated
+18 plant and equipment upon the commission’s authorization of the transfer effective as of the date of
+19 transfer. Notwithstanding any provisions of this section, if the electric distribution company’s
+20 wholesale power supplier chooses to transfer its generation assets to a nonaffiliate of the electric
+21 distribution company for purposes of carrying out the market valuation required by § 39-1-27.4(g),
+22 and such transfer to a nonaffiliate is specified in the electric distribution company’s restructuring
+23 plan filed with the commission pursuant to subsection (a) of this section, the transfer of the electric
+24 distribution company’s interest in the generation facilities may be made directly to the nonaffiliate.
+25 In the case of such a transfer directly to a nonaffiliate, all of the state and local rights, authorizations,
+26 and approvals, including those enumerated above, shall be deemed transferred with the associated
+27 plant and equipment upon the commission’s authorization of the transfer effective as of the date of
+28 the transfer.
+29 (c) The electric distribution company shall implement the corporate reorganizations and
+30 property transfers specified in such restructuring plan; terminate its all-requirements contract with
+31 its wholesale power supplier on the terms set forth in § 39-1-27.4; and provide retail access for all
+32 customers in Rhode Island with a standard offer, as set forth in § 39-1-27.3, no later than three (3)
+33 months after retail access is available to forty percent (40%) or more of the kilowatt-hour sales in
+34 New England. The commission may extend this time if it determines that additional time is
+LC005612 - Page 2 of 10
+
+1 necessary to implement the transactions on reasonable terms and in accordance with a reasonable
+2 schedule; provided, however, that nothing in this section shall be construed to limit the effect of §
+3 39-1-27.3 or permit the commission to unduly discriminate in providing retail access among or
+4 within rate classes.
+5 (d) Following the complete implementation of the restructuring plans and other than as
+6 authorized by § 39-20-3, electric distribution companies shall be prohibited from selling electricity
+7 at retail and from owning, operating, or controlling generating facilities, although such facilities
+8 may be owned by affiliates of electric distribution companies. For purposes of this subsection,
+9 providing the standard-offer service and last-resort power supply in accordance with subsections
+10 (d) and (f) of § 39-1-27.3 shall not be construed as selling electricity at retail; and provided that,
+11 owning, operating, and constructing generating facilities constructed or acquired after January 1,
+12 2025 shall not be a violation of this section.
+13 (e) Following the termination of the electric distribution company’s contracts with its
+14 wholesale power supplier, the wholesale power supplier shall become a nonregulated power
+15 producer, and shall be free, subject to the requirements of the standard offer set forth in § 39-1-
+16 27.3(e) and retail electric licensing commission plan requirements pursuant to § 39-1-27.1, to sell
+17 electricity generated from each of its facilities on either the wholesale or retail markets at market
+18 prices, either directly or through an affiliate, which shall also become a nonregulated power
+19 producer. The former wholesale power supplier and its affiliates shall be free to apply to become
+20 exempt wholesale generators pursuant to § 32 of the Public Utility Holding Company Act of 1935,
+21 15 U.S.C. § 79z-5a [repealed], and other federal law, rules, and regulations, and each and every
+22 generating facility of the former wholesale power supplier shall become an eligible facility pursuant
+23 to that statute. Accordingly, the legislature hereby finds and declares that the division has sufficient
+24 regulatory authority, resources, access to books and records to exercise its duties; and that the full
+25 participation of former wholesale power suppliers and affiliated nonregulated power producers in
+26 the market and the designation of each of the former wholesale power supplier’s facilities as eligible
+27 facilities will benefit consumers; is consistent with state law; will not provide any unfair
+28 competitive advantage by virtue of their status as a former wholesale power supplier or as affiliates
+29 of electric distribution companies; and is in the public interest.
+30 (f) Although reducing air emissions from power plants is a goal of electricity industry
+31 restructuring, power plants in Rhode Island already have low emissions relative to their
+32 counterparts in other states. For this reason, it is unnecessary for the restructuring plans required
+33 by this section to address in-state air emission reductions. However, to the extent a wholesale power
+34 supplier receiving contract termination fees pursuant to § 39-1-27.4(b)(4) owns and operates as of
+LC005612 - Page 3 of 10
+
+1 December 31, 1995, fossil-fired generation in another state that does not meet air emission
+2 standards applicable as of that date to new electric-generating facilities in that state, the wholesale
+3 power suppliers shall cooperate with the appropriate environmental officials in the state or states
+4 where the generating facilities are located to develop a plan for reducing the emissions of nitrogen
+5 oxides, sulfur dioxide, and particulate matter from the plants on an overall basis through
+6 retirements, replacements, controls, or offsets, or any combination of the above, toward the air
+7 emissions standards applicable to new electric-generating facilities in effect in the state or states
+8 where the plants are located as of January 1, 1996. The plans shall be implemented in connection
+9 with electric-industry restructuring in the state or states where the generating facilities are located.
+10 (g) An electric distribution company, whether public, quasi-municipal, or investor owned,
+11 that as of January 1, 1996, did not purchase power at wholesale from a wholesale power supplier
+12 under an all-requirements contract, shall include proposals for recovering transition costs consistent
+13 with the elements that would be comparable in nature to the elements included in termination fees
+14 pursuant to § 39-1-27.4(b) through (g) and for providing a standard offer consistent with
+15 requirements of § 39-1-27.3(d) in its plan filed with the commission pursuant to this section. The
+16 filing by an electric distribution company that is a quasi-municipal corporation shall also address
+17 any unique circumstances affecting the electric distribution company, including special contract
+18 requirements or charter restrictions and the conditions that the quasi-municipal corporation must
+19 satisfy in order to participate in retail competition. In reviewing the filing and determining the
+20 appropriate level of transition cost recovery, the commission shall apply standards consistent with
+21 those contained in § 39-1-27.4(b) through (g) and with this subsection. The commission shall be
+22 authorized to take any action or to grant any approval necessary to maintain hydroelectric power
+23 purchases from the Niagara and St. Lawrence power projects by quasi-municipal corporations.
+24 Notwithstanding any other provision of this section, quasi-municipal electric distribution
+25 companies that purchase hydroelectric power from the Niagara and St. Lawrence power projects
+26 shall be authorized to continue to resell that power to residential customers within their service
+27 territories. After notice and public hearing, the commission may exempt electric distribution
+28 companies subject to this subsection from: (1) The requirement to transfer ownership of generation
+29 and transmission facilities to affiliated companies pursuant to subsection (a) of this section; and (2)
+30 The prohibition against selling electricity at retail pursuant to subsection (d) of this section with
+31 respect to sales within the service territory of the electric distribution company, if it determines that
+32 the exemptions are in the public interest.
+33 (h) With the exception of the requirements of the standard offer set forth in § 39-1-27.3(e)
+34 and (f) and retail electric licensing commission plan requirements pursuant to § 39-1-27.1, nothing
+LC005612 - Page 4 of 10
+
+1 in this section shall be construed or interpreted to constrain the application of antitrust laws to
+2 nonregulated power producers, whether affiliated or not with an electric distribution company.
+3 SECTION 2. Section 39-1-27.3 of the General Laws in Chapter 39-1 entitled "Public
+4 Utilities Commission" is hereby amended to read as follows:
+5 39-1-27.3. Electric distribution companies required to provide retail access, standard
+6 offer and last-resort service.
+7 (a) To promote economic development and the creation and preservation of employment
+8 opportunities within the state, each electric distribution company, except Pascoag Utility District
+9 and the Block Island Utility District, a quasi-municipal corporation, district, and subdivision of the
+10 state (“electric distribution company”), shall offer retail access from nonregulated power producers
+11 to all customers.
+12 (b) Through year 2009, and effective July 1, 2007, through year 2020, each electric
+13 distribution company shall arrange for a standard power-supply offer (“standard offer”) to
+14 customers that have not elected to enter into power-supply arrangements with other nonregulated
+15 power suppliers. The rates that are charged by the electric distribution company to customers for
+16 standard-offer service shall be approved by the commission and shall be designed to recover the
+17 electric distribution company’s costs and no more than the electric distribution company’s costs;
+18 provided, that the commission may establish and/or implement a rate that averages the costs over
+19 periods of time. The electric distribution company shall not be entitled to recover any profit margin
+20 on the sale of standard-offer power, except with approval of the commission as may be necessary
+21 to implement, fairly and effectively, system reliability and least-cost procurement. The electric
+22 distribution company will be entitled to recover its costs incurred from providing the standard offer
+23 arising out of: (1) Wholesale standard-offer supply agreements with power suppliers in effect prior
+24 to January 1, 2002; (2) Power-supply arrangements that are approved by the commission after
+25 January 1, 2002; (3) Power-supply arrangements made pursuant to §§ 39-1-27.3.1 and 39-1-27.8;
+26 and (4) Any other power-supply-related arrangements prudently made after January 1, 2002, to
+27 provide standard-offer supply or to mitigate standard-offer supply costs, including costs for system
+28 reliability, procurement, and least-cost procurement, as provided for in § 39-1-27.7. Subject to
+29 commission approval, the electric distribution company may enter into financial contracts designed
+30 to hedge fuel-related or other variable costs associated with power-supply arrangements and the
+31 costs of any such financial contracts shall be recoverable in standard-offer rates. The electric
+32 distribution company’s standard-offer revenues and its standard-offer costs shall be accounted for
+33 and reconciled with interest at least annually. Except as otherwise may be directed by the
+34 commission in order to accomplish purposes established by law, any over recoveries shall be
+LC005612 - Page 5 of 10
+
+1 refunded to customers in a manner directed by the commission, and any under recoveries shall be
+2 recovered by the electric distribution company through a uniform adjustment factor approved by
+3 the commission. The commission shall have the discretion to apply such adjustment factor in any
+4 given instance to all customers or to such specific class of customers that the commission deems
+5 equitable under the circumstances provided that the distribution company recovers any under
+6 recovery in its entirety. Once a customer has elected to enter into a power-supply arrangement with
+7 a nonregulated power producer, the electric distribution company shall not be required to arrange
+8 for the standard offer to such customer except as provided in § 39-1-27.3.1. No customer who
+9 initially elects the standard offer and then chooses an alternative supplier shall be required to pay
+10 any withdrawal fee or penalty to the provider of the standard offer unless such a penalty or
+11 withdrawal fee was agreed to as part of a contract; however, no residential customer shall be
+12 required to pay a penalty or withdrawal fee for choosing an alternative supplier. Nothing in this
+13 subsection shall be construed to restrict the right of any nonregulated power producer to offer to
+14 sell power to customers at a price comparable to that of the standard offer specified pursuant to this
+15 subsection. The electric distribution company may not terminate an existing standard-offer
+16 wholesale supply agreement without the written consent of the division.
+17 (c) In recognition that electricity is an essential service, each electric distribution company
+18 shall arrange for a last-resort power supply for customers who have left the standard offer for any
+19 reason and are not otherwise receiving electric service from nonregulated power producers. The
+20 electric distribution company shall procure last-resort service supply from wholesale power
+21 suppliers or from itself if it owns an electric generating facility pursuant to chapter 20 of this title.
+22 Prior to acquiring last-resort supply, the electric distribution company will file with the commission
+23 a supply acquisition plan or plans that include the acquisition procedure, the pricing options being
+24 sought, and a proposed term of service for which last-resort service will be acquired, including
+25 from any electric generating facility owned or operated by the electric distribution company. The
+26 term of service may be short- or long-term and acquisitions may occur from time to time and for
+27 more than one supplier for segments of last-resort service load over different terms, if appropriate.
+28 All the components of the acquisition plans, however, shall be subject to commission review and
+29 approval. Once an acquisition plan is approved by the commission, the electric distribution
+30 company shall be authorized to acquire last-resort service supply consistent with the approved
+31 acquisition plan and recover its costs incurred from providing last-resort service pursuant to the
+32 approved acquisition plan. The commission may periodically review the acquisition plan to
+33 determine whether it should be prospectively modified due to changed market conditions. The
+34 commission shall have the authority and discretion to approve special tariff conditions and rates
+LC005612 - Page 6 of 10
+
+1 proposed by the electric distribution company that the commission finds are in the public interest,
+2 including without limitation: (1) Short- or long-term optional service at different rates; (2) Term
+3 commitments or notice provisions before individual customers leave last-resort service; (3) Last-
+4 resort service rates for residential or any other special class of customers that are different than the
+5 rates for other last-resort customers; and/or (4) Last-resort service rates that are designed to
+6 encourage any class of customers to return to the market. The electric distribution company’s last-
+7 resort service revenues and its last-resort service costs shall be accounted for and reconciled with
+8 interest at least annually. Any over recoveries shall be refunded and any under recoveries shall be
+9 recovered by the electric distribution company through a uniform adjustment factor approved by
+10 the commission. The commission shall have the discretion to apply such adjustment factor in any
+11 given instance to all customers or to such specific class of customers that the commission deems
+12 equitable under the circumstances provided that the distribution company recovers any under
+13 recovery in its entirety. Nothing in this section shall be construed to prohibit an electric distribution
+14 company from terminating service provided hereunder in accordance with commission rules and
+15 regulations in the event of nonpayment of this service. The commission may promulgate
+16 regulations to implement this section including the terms and conditions upon which last-resort
+17 service is offered and provided to customers.
+18 (d) If a customer being served by a nonregulated power producer pays any taxes assessed
+19 for electric service to the electric distribution company and the electric distribution company
+20 forwards such tax payment for the power portion of the bill to a nonregulated power producer for
+21 payment by the nonregulated power producer to the state, neither the customer nor the electric
+22 distribution company shall be liable for such taxes forwarded if the nonregulated power producer
+23 fails to remit such taxes to the state for any reason.
+24 SECTION 3. Sections 39-20-2 and 39-20-3 of the General Laws in Chapter 39-20 entitled
+25 "Ownership of Electric-Generating Facilities" are hereby amended to read as follows:
+26 39-20-2. Definitions.
+27 In this chapter, unless the context otherwise requires, the following words shall have the
+28 following meanings:
+29 (1) “Commission” means the public utilities commission.
+30 (2) “Division” means the division of public utilities and carriers.
+31 (3) “Domestic electric utility” means an electric utility organized under the laws of, or
+32 having its principal place of business in, this state.
+33 (4) “Electric-generating facilities” means electric-generating units that are owned or
+34 operated by a nonregulated power producer, or by a domestic electric utility or an affiliate thereof
+LC005612 - Page 7 of 10
+
+1 rated five hundred megawatts (500 MW) or above, and that are generating electricity on or after
+2 January 1, 2025 and generating stations in commercial generation on or before January 1, 1990,
+3 that are subsequently altered or modified to increase the rating of these stations by at least two
+4 hundred megawatts (200 MW), and related facilities including those for the transmission of the
+5 capacity and related energy from these units or stations.
+6 (5) “Electric utility” means any electric distribution company as defined in § 39-1-2(12) or
+7 any individual, partnership, corporation, association, or entity, or subdivision thereof, private,
+8 governmental, or other, wherever resident or organized, primarily engaged in the generation and
+9 sale or purchase and sale of electricity, or the transmission thereof, for ultimate consumption by
+10 the public.
+11 (6) “Foreign electric utility” means any electric utility other than a domestic electric utility.
+12 39-20-3. Powers of domestic electric utilities.
+13 Notwithstanding any contrary provisions of any general or special law relating to the
+14 powers and authorities of domestic electric utilities or any limitation imposed by their charters
+15 (which are hereby amended), but subject to the provisions of this title and this chapter, a domestic
+16 electric utility shall have the following additional powers:
+17 (1) Jointly or separately to plan, finance, construct, purchase, operate, maintain, use, share
+18 costs of, own, mortgage, lease, sell, provide services for, dispose of, or otherwise participate in
+19 electric-generating facilities, or portions thereof, within or without the state, or the product or
+20 service therefrom, or securities issued in connection with the financing of electric-generating
+21 facilities or portions thereof;
+22 (2) To enter into and perform contracts for joint or separate planning, financing,
+23 construction, purchase, operation, maintenance, use, sharing costs of, ownership, mortgaging,
+24 leasing, sale, providing services for, disposal of, or other participation in electric-generating
+25 facilities, or portions thereof, within or without the state, or the product or service therefrom, or
+26 securities issued in connection with the financing of electric-generating facilities or portions
+27 thereof, including, without limitation, contracts for the payment of obligations imposed without
+28 regard to the operational status of a facility or facilities and contracts with domestic or foreign
+29 electric utilities for the sale or purchase of electricity from an electric-generating facility or facilities
+30 for long or short periods of time or for the life of a specific electric-generating unit or units; and
+31 (3) To enter into and perform contracts for the transmission both within or without the state
+32 of the capacity and related energy from a specifically identified electric-generating facility,
+33 wherever located, to its own retail service territory, or to any purchaser of such capacity and related
+34 energy; provided, however, that nothing in this section shall be construed to authorize a domestic
+LC005612 - Page 8 of 10
+
+1 electric utility to sell electricity at wholesale or retail within or without this state unless:
+2 (i) The sale is authorized under its charter or the general or special laws of this state other
+3 than this chapter including, but not limited to, § 39-1-27.3; or
+4 (ii) The sale constitutes a sale of capacity and related energy from a specifically identified
+5 electric-generating facility or a sale of economy, backup, and other energy therefrom.; or
+6 (iii) The sale is made through a regional marketplace operated by a regional transmission
+7 organization.
+8 SECTION 4. This act shall take effect upon passage.
+========
+LC005612
+========
+LC005612 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+-- UTILITY OWNERSHIP OF ELECTRIC GENERATING FACILITIES
+***
+1 This act would apply to electric-generating facilities owned or operated by non-regulated
+2 power producers, a domestic electric utility or its affiliates generating electricity on or after January
+3 1, 2025 regarding the sale and transmission of electricity, restructuring of the facility, and
+4 provisions of last-resort service.
+5 This act would take effect upon passage.
+========
+LC005612
+========
+LC005612 - Page 10 of 10

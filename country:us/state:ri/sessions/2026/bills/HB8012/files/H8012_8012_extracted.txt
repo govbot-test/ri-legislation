@@ -1,0 +1,259 @@
+Title: 
+Official Title: 
+Source: versions - 8012
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8012
+========
+LC005406
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- RHODE ISLAND PEDESTRIAN
+SAFETY ACT
+Introduced By: Representatives Biah, Hull, Chippendale, Fascia, Baginski, DeSimone,
+Shallcross Smith, O'Brien, Slater, and Boylan
+Date Introduced: February 27, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 18.1
+4 RHODE ISLAND PEDESTRIAN SAFETY ACT
+5 31-18.1-1. Definitions.
+6 As used in this chapter the following words shall have the following meanings unless the
+7 context clearly requires otherwise:
+8 (1) “Automated road safety monitoring system” means an automated motor vehicle sensor
+9 device that produces digital photographs or video of a motor vehicle that commits a camera
+10 enforceable violation at the location where the automated motor vehicle sensor device is located.
+11 (2) “Camera enforceable violation” means any of the following violations of a traffic law
+12 or regulation:
+13 (i) Stopping at stop sign violations;
+14 (ii) Stopping at intersection or crosswalk violations; and
+15 (iii) Failure to yield to pedestrian violations.
+16 (3) “Department” means the department of transportation.
+17 (4) “Municipal agent” means the entity or person contracted by a city, town, or
+18 municipality to implement, administer, or otherwise conduct the issuance, processing, and
+
+1 collection of citations and fines of camera enforceable violations under this chapter.
+2 31-18.1-2. Authorization of use.
+3 (a) Any city, town, or municipality may adopt an ordinance authorizing the use of
+4 automated road safety monitoring systems as a means of promoting traffic safety.
+5 (b) Any city, town, or municipality that authorizes the use of automated road safety
+6 monitoring system under subsection (a) of this section may impose a fine for a camera enforceable
+7 violation on the registered owner of a motor vehicle pursuant to § 31-18.1-3.
+8 (c) Any city, town, or municipality that authorizes the use of automated road safety
+9 monitoring system under subsection (a) of this section may enter into a contract with an entity,
+10 including the manufacturer or vendor of automated road safety monitoring systems, or other person
+11 to implement, administer, operate, or otherwise conduct the issuance, processing, and collection of
+12 citations and fines of camera enforceable violations under this chapter.
+13 (d) Automated road safety monitoring systems may be used to detect camera enforceable
+14 violations only within the following locations:
+15 (1) School zones;
+16 (2) Hospital zones;
+17 (3) Work zones; and
+18 (4) City or town roads and intersections deemed by a city, town or municipality to be of
+19 high pedestrian safety concern.
+20 (e) Nothing in this chapter prohibits a law enforcement officer from issuing a notice of
+21 traffic violation to a person in control of a vehicle at the time a violation occurs.
+22 31-18.1-3. Citations and fines -- Amounts, required information, dispute procedures.
+23 (a) Fines imposed pursuant to this chapter shall be fifty dollars ($50.00) for a camera
+24 enforceable violation.
+25 (b) Except as provided in subsection (h) of this section, the registered owner of a motor
+26 vehicle shall be liable for any fine imposed for a camera enforceable violation.
+27 (c) Any city, town, or municipality that authorizes the use of automated road safety
+28 monitoring systems or its municipal agent may send a written warning to the registered owner of a
+29 motor vehicle for the purposes of education in lieu of enforcement through a fine, and for the period
+30 of thirty (30) days after the first automated road safety monitoring system becomes operational in
+31 the city, town, or municipality, its municipal agent shall issue only written warnings.
+32 (d) A certificate, or a facsimile thereof, based upon inspection of photographs, video, or
+33 data produced by an automated road safety monitoring system and sworn to or affirmed by the
+34 municipal agent shall be prima facie evidence of the facts contained therein.
+LC005406 - Page 2 of 8
+
+1 (e) A camera enforceable violation issued by a city, town, or municipality shall not be:
+2 (1) Made part of the operating record of the person upon whom such liability is imposed.
+3 (2) A conviction of a moving violation of the motor vehicle laws of this state.
+4 (f) The municipal agent may hire and designate personnel as necessary or contract for
+5 services to implement this chapter.
+6 (g)(1) Any city, town, or municipality that authorizes the use of automated road safety
+7 monitoring systems or its municipal agent shall provide a notice of violation to the registered owner
+8 of a motor vehicle that is identified in photographs or videos produced by an automated road safety
+9 monitoring system as evidence of a camera enforceable violation pursuant to this chapter.
+10 (2) A rebuttable presumption exists that the registered owner of a motor vehicle or the
+11 owner's agent was the driver of the vehicle when the citation for a camera enforceable violation
+12 was issued and notice delivered as provided in this section. The presumption may be rebutted by
+13 providing evidence establishing the facts provided in subsection (h)(3) of this section.
+14 (3) The notice of violation required under subsection (g) of this section shall include, but
+15 not be limited to:
+16 (i) A copy of the photographs or video produced by the automated road safety monitoring
+17 system and any other data showing the vehicle in the process of a camera enforceable violation;
+18 (ii) The registration number and state of issuance of the vehicle;
+19 (iii) The name and address of the registered owner of the vehicle;
+20 (iv) The date, time and location of the alleged camera enforceable violation;
+21 (v) The specific camera enforceable violation charged;
+22 (vi) Instructions for payment of the fine imposed pursuant to subsection (a) of this section;
+23 (vii) A signed statement by the municipal agent that, based on the inspection of the recorded
+24 image, the motor vehicle was being operated during the commission of a camera enforceable
+25 violation;
+26 (viii) A police officer or a duly authorized traffic enforcement agent who has reviewed the
+27 photograph or video signs the citation;
+28 (ix) Instructions on how to appeal the camera enforceable violation and to obtain a hearing;
+29 (x) A form approved by the municipal agent for the purposes of contesting the violation
+30 pursuant to subsection (g)(6) of this section.
+31 (4) In the case of a violation involving a motor vehicle registered in this state, the notice of
+32 violation shall be mailed within thirty (30) days of the violation to the address of the registered
+33 owner of the motor vehicle.
+34 (i) If a motor vehicle is registered under the laws of another state, the notice of violation
+LC005406 - Page 3 of 8
+
+1 shall be mailed within forty-five (45) days after obtaining the name and address of the registered
+2 owner of the motor vehicle. If the address is unavailable, it shall be sufficient for the municipal
+3 agent to mail a notice of violation to the official in the state or country that has charge of the
+4 registration of the motor vehicle.
+5 (ii) If the registered owner of a motor vehicle involved in a camera enforceable violation
+6 is engaged in the business of leasing or renting motor vehicles, the registered owner remains liable
+7 for payment of any fine imposed under this chapter even if the registered owner was not driving
+8 the motor vehicle, but may obtain payment from the lessee or renter of the motor vehicle driving
+9 the vehicle at the time the violation occurred and forward the payment to the state or municipality
+10 imposing the civil penalty.
+11 (5) The notice of violation shall be sent by first-class mail in accordance with this
+12 subsection. A manual or automatic record of mailing processed by or on behalf of the municipal
+13 agent in the ordinary course of business shall be prima facie evidence thereof and shall be admitted
+14 as evidence in any judicial or administrative proceeding as to the facts contained therein.
+15 (6) A registered owner of a motor vehicle involved in a camera enforceable violation may
+16 contest the violation as to matters of law and fact to the municipal court in the city or town where
+17 the alleged violation occurred or the Rhode Island traffic tribunal if there is no municipal court in
+18 the municipality where the alleged violation occurred. The request for a hearing shall be made not
+19 later than thirty (30) days after the date on which the notice of violation was mailed. The registered
+20 owner of the motor vehicle may assert in contesting the violation that a notice of violation served
+21 by first-class mail or other mail delivery service was not actually delivered. The hearing contesting
+22 the violation shall be a de novo hearing in the first instance. A registered owner may contest the
+23 decisions of the municipal court or traffic tribunal consistent with applicable law related to
+24 decisions of said court.
+25 (h) A registered owner of a motor vehicle shall not be liable for a camera enforceable
+26 violation if the:
+27 (1) Violation was necessary to allow the passage of an emergency vehicle;
+28 (2) Violation was incurred while participating in a funeral procession;
+29 (3) Violation was incurred during a period of time in which the motor vehicle was reported
+30 to the police department of any state, city, or town as having been stolen and had not been recovered
+31 before the time the violation occurred; or
+32 (4) Violation was necessary to comply with any other law or regulation governing the
+33 operation of a motor vehicle.
+34 (i) A registered owner of a motor vehicle to whom a notice of violation has been issued
+LC005406 - Page 4 of 8
+
+1 pursuant to this chapter may admit responsibility for the violation and pay the fine provided therein.
+2 Payment of the established fine shall operate as the final disposition of a camera enforceable
+3 violation.
+4 31-18.1-4. Required signage and community notice.
+5 (a) A municipality that authorizes the use of automated road safety monitoring systems
+6 shall install at each location of an automated road safety monitoring system an unobstructed sign
+7 notifying the public that an automated road safety monitoring system is in use.
+8 (b) A municipality that authorizes the use of automated road safety monitoring systems
+9 shall make a public announcement and conduct a public awareness campaign of its use of
+10 automated road safety monitoring systems beginning not less than thirty (30) days before the first
+11 such automated road safety monitoring system is put into use; provided, however, a municipality
+12 may install, but shall not activate automated road safety monitoring systems during the thirty (30)
+13 day time period.
+14 31-18.1-5. Reporting.
+15 (a) Annually, not later than December 1, a municipality that authorizes the use of
+16 automated road safety monitoring systems shall transmit a report to the police department of the
+17 municipality that details each automated road safety monitoring system located in the municipality.
+18 (b) The report required under subsection (a) of this section shall include, but not be limited
+19 to:
+20 (1) A list of the locations of each automated road safety monitoring system in the
+21 municipality;
+22 (2) An analysis of the nexus between public safety and each location’s automated road
+23 safety monitoring system;
+24 (3) The number of fines and warnings issued for camera enforceable violations;
+25 (4) The total amount of fines collected during the year;
+26 (5) Crash data, to the extent available, at each separate location of an automated road safety
+27 camera system; and
+28 (6) The total number of pedestrians and other road users present in the photographs or other
+29 recorded evidence for all camera enforceable violations for which fines and warnings were issued
+30 during the one year period.
+31 (c) The city, town, or municipality’s police department shall post all reports received
+32 pursuant to this section on its website.
+33 31-18.1-6. Compensation to manufacturer or vendor.
+34 The compensation paid to the manufacturer or vendor of an automated road safety
+LC005406 - Page 5 of 8
+
+1 monitoring system shall be based on the value of the equipment and services provided or rendered
+2 in support of the automated road safety monitoring system, and shall not be based on the number
+3 of camera enforceable violations issued or a portion or percentage of the fines generated by the
+4 citations.
+5 31-18.1-7. Limitations.
+6 (a) Photographs and other recorded evidence taken by an automated road safety monitoring
+7 system shall be destroyed not more than forty-eight (48) hours after the final disposition of a camera
+8 enforceable violation.
+9 (b) Photographs and other recorded evidence taken by an automated road safety monitoring
+10 system shall not be discoverable in any judicial or administrative proceeding, other than a
+11 proceeding held pursuant to this chapter, without a court order. A photograph or other recorded
+12 evidence taken pursuant to this chapter shall not be admissible in any judicial or administrative
+13 proceeding, other than in a proceeding to adjudicate liability for a violation of this chapter, without
+14 a court order.
+15 (c) Photographs and other recorded evidence taken by an automated road safety monitoring
+16 system shall only record camera enforceable violations and may not be used for any other
+17 surveillance purposes. The restrictions set forth in this subsection shall not be deemed to preclude
+18 a court of competent jurisdiction from issuing an order directing that the information be provided
+19 to law enforcement officials if the information is reasonably described and is requested solely in
+20 connection with a criminal law enforcement action.
+21 (1) An automated road safety monitoring system shall not be utilized to take a frontal view
+22 photograph of a motor vehicle committing a camera enforceable violation. A frontal view
+23 photograph of a motor vehicle committing a camera enforceable violation taken by an automated
+24 road safety monitoring system shall not be discoverable or admissible in any judicial or
+25 administrative proceeding and shall not be used as the basis for a camera enforceable violation
+26 under this chapter. To the extent practicable, additional efforts shall be made to ensure that
+27 photographs produced by an automated road safety monitoring system do not identify the vehicle
+28 operator, the passengers or the contents of the vehicle; provided, however, that no notice of
+29 violation issued pursuant to this chapter shall be dismissed solely because a photograph or
+30 photographs allow for the identification of the vehicle operator, the passengers or the contents of
+31 the vehicle; provided that, the municipality has made a reasonable effort to comply with the
+32 provisions of this section.
+33 (2) Photographs and other recorded evidence taken by an automated road safety monitoring
+34 system shall blur any facial image of a pedestrian or other road user captured by the automated road
+LC005406 - Page 6 of 8
+
+1 safety monitoring system prior to uploading or otherwise sending or transmitting the photograph
+2 or other recorded evidence to a municipality or its municipal agent.
+3 (d) A municipality or a manufacturer or vendor of an automated road safety monitoring
+4 system may not use, disclose, sell or permit access to data collected by an automated road safety
+5 monitoring system, except as necessary to process camera enforceable violations in accordance
+6 with this chapter.
+7 (e) Photographs and other personal identifying information collected by a city, town, or
+8 municipality pursuant to this chapter shall not be a public record.
+9 31-18.1-8. Use of revenues.
+10 Notwithstanding any other provision of law, a municipality that authorizes the use of
+11 automated road safety monitoring systems shall use the revenue generated by the systems to fund
+12 road safety projects with the highest potential to reduce vulnerable road user injuries and fatalities
+13 including, but not limited to, improvements to access and safety for road users with mobility, sight,
+14 or other disabilities.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC005406
+========
+LC005406 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- RHODE ISLAND PEDESTRIAN
+SAFETY ACT
+***
+1 This act would create the Rhode Island Pedestrian Safety Act which would authorize cities
+2 and towns to use automated road safety monitoring systems to enforce stop sign, crosswalk, and
+3 pedestrian right-of-way violations in school zones, hospital zones, and other designated safety
+4 zones. This act would impose a fifty dollar ($50.00) civil fine on the registered owner.
+5 This act would take effect upon passage.
+========
+LC005406
+========
+LC005406 - Page 8 of 8

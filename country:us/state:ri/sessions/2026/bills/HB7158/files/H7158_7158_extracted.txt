@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - 7158
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7158
+========
+LC004182
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC OFFICERS AND EMPLOYEES -- INSURANCE BENEFITS
+Introduced By: Representatives Hull, J. Lombardi, Speakman, Tanzi, Fogarty, Handy,
+Shallcross Smith, Alzate, Ackerman, and McNamara
+Date Introduced: January 16, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 36-12-1 and 36-12-2 of the General Laws in Chapter 36-12 entitled
+2 "Insurance Benefits" are hereby amended to read as follows:
+3 36-12-1. Definitions.
+4 The following words, as used in §§ 36-12-1 — 36-12-14, shall have the following
+5 meanings:
+6 (1) “Employer,” means the state of Rhode Island.
+7 (2) “Employee,” means all persons who are classified employees as the term “classified
+8 employee” is defined under § 36-3-3, and all persons in the unclassified and non-classified service
+9 of the state, including adjunct facility members at any state community college, state college or
+10 state university who teach at least fifty percent (50%) of the faculty load worked by regular full-
+11 time faculty in an academic semester; provided, however, that the following shall not be included
+12 as “employees” under §§ 36-12-1 — 36-12-14:
+13 (i) Part-time personnel whose work week is less than twenty (20) hours a week and limited
+14 period and seasonal personnel;
+15 (ii) Members of the general assembly, its clerks, doorkeepers, and pages.
+16 (3) “Dependents” means an employee’s spouse, domestic partner and unmarried children
+17 under nineteen (19) years of age. Domestic partners shall certify by affidavit to the benefits director
+18 of the division of personnel that the (i) partners are at least eighteen (18) years of age and are
+19 mentally competent to contract, (ii) partners are not married to anyone, (iii) partners are not related
+
+1 by blood to a degree which would prohibit marriage in the state of Rhode Island, (iv) partners reside
+2 together and have resided together for at least one year, (v) partners are financially interdependent
+3 as evidenced by at least two (2) of the following: (A) domestic partnership agreement or
+4 relationship contract; (B) joint mortgage or joint ownership of primary residence, (C) two (2) of:
+5 (I) joint ownership of motor vehicle; (II) joint checking account; (III) joint credit account; (IV)
+6 joint lease; and/or (D) the domestic partner has been designated as a beneficiary for the employee’s
+7 will, retirement contract or life insurance. Misrepresentation of information in the affidavit will
+8 result in an obligation to repay the benefits received, and a civil fine not to exceed one thousand
+9 dollars ($1,000) enforceable by the attorney general and payable to the general fund. The employee
+10 will notify the benefits director of the division of personnel by completion of a form prescribed by
+11 the benefits director when the domestic partnership ends.
+12 (4) “Retired employee,” means all persons retired from the active service of the state, who,
+13 immediately prior to retirement, were employees of the state as determined by the retirement board
+14 under § 36-8-1, and also all retired teachers who have elected to come under the employees’
+15 retirement system of the state of Rhode Island.
+16 (5) “State retiree,” means all persons retired from the active service of the state who,
+17 immediately prior to retirement, were employees of the state as determined by the retirement board
+18 under § 36-8-1.
+19 (6) “Teacher retiree,” means all retired teachers who have elected to come under the
+20 employees’ retirement system of the state of Rhode Island.
+21 (7) “Long-term healthcare insurance,” means any insurance policy or rider advertised,
+22 marketed, offered, or designed to provide coverage for not less than twelve (12) consecutive months
+23 for each covered person on an expense incurred, indemnity, prepaid, or other basis for one or more
+24 necessary or medically necessary diagnostic, preventive, therapeutic, rehabilitative, maintenance,
+25 or personal care services, provided in a setting other than an acute care unit of a hospital. The term
+26 includes: group and individual policies or riders whether issued by insurers, fraternal benefit
+27 societies, nonprofit health, hospital, and medical service corporations; prepaid health plans, health
+28 maintenance organizations; or any similar organization. Long-term healthcare insurance shall not
+29 include: any insurance policy which is offered primarily to provide basic medicare supplement
+30 coverage; basic hospital expense coverage; basic medical-surgical expense coverage; hospital
+31 confinement indemnity coverage; major medical expense coverage; disability income protection
+32 coverage; accident only coverage; specified disease or specified accident coverage; or limited
+33 benefit health coverage. This list of excluded coverages is illustrative and is not intended to be all
+34 inclusive.
+LC004182 - Page 2 of 5
+
+1 (8) “Non-Medicare-eligible retiree healthcare insurance,” means the health benefit
+2 employees who retire from active service of the state (subsequent to July 1, 1989), who immediately
+3 prior to retirement were employees of the state as determined by the retirement board pursuant to
+4 § 36-8-1, shall be entitled to receive until attaining Medicare eligibility. This healthcare insurance
+5 shall be equal to semi-private hospital care, surgical/medical care and major medical with a one
+6 hundred seventy-five dollar ($175) calendar year deductible. The aforementioned program will be
+7 provided on a shared basis in accordance with § 36-12-4.
+8 (9) “Medicare-eligible retiree healthcare insurance,” means the health benefit employees
+9 who retire from active service of the state (subsequent to July 1, 1989), who immediately prior to
+10 retirement were employees of the state as determined by the retirement board pursuant to § 36-8-
+11 1, shall have access to when eligible for Medicare. This healthcare insurance shall include plans
+12 providing hospital care, surgical/medical services, rights and benefits which, when taken together
+13 with their federal Medicare program benefits, 42 U.S.C. § 1305 et seq., shall be comparable to
+14 those provided for retirees prior to the attainment of Medicare eligibility.
+15 (10) “Health reimbursement arrangement,” or “HRA” means an account that:
+16 (i) Is paid for and funded solely by state contributions;
+17 (ii) Reimburses a Medicare-eligible state retiree for medical care expenses as defined in §
+18 213(d) of the Internal Revenue Code of 1986, as amended, which includes reimbursements for
+19 healthcare insurance premiums;
+20 (iii) Provides reimbursements up to a maximum dollar amount for a coverage period; and
+21 (iv) Provides that any unused portion of the maximum dollar amount at the end of a
+22 coverage period is carried forward to increase the maximum reimbursement amount in subsequent
+23 coverage periods.
+24 36-12-2. Hospital care and surgical-medical service benefits.
+25 (a) Employees of the state of Rhode Island shall receive, in addition to wages, salaries, and
+26 any other remuneration or benefits, hospital care and surgical-medical services, rights, and benefits
+27 purchased by the director of administration pursuant to § 36-12-6, with the specific condition that
+28 the benefits and services provided by the carrier(s) will be substantially equivalent to those set forth
+29 in any collective bargaining agreement(s) executed between the state of Rhode Island and
+30 authorized representatives of the unions representing state employees or the health care coverage
+31 presently being provided. Adjunct faculty members at any state community college, state college
+32 or state university, who teach at least fifty percent (50%) of the faculty load hours worked by regular
+33 full-time faculty in any academic semester, shall be eligible for benefits as provided for in this
+34 section.
+LC004182 - Page 3 of 5
+
+1 (b) The state will work diligently with leadership of organized labor in order to ensure
+2 competitive, cost effective health care services for all employees of the state who may be eligible
+3 for those benefits.
+4 (c) Any new plan must accept pre-existing conditions for those individuals who will be
+5 covered by the new policy.
+6 (d) Part-time employees whose work week is less than twenty (20) hours a week may
+7 purchase the benefits set forth above. The employees shall pay the same rate for the benefits as the
+8 group rate paid by the state for the benefits. Payments for the benefits may be deducted in
+9 accordance with the provisions of § 36-12-3.
+10 SECTION 2. This act shall take effect upon passage.
+========
+LC004182
+========
+LC004182 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC OFFICERS AND EMPLOYEES -- INSURANCE BENEFITS
+***
+1 This act would provide that adjunct faculty members at any state college or university who
+2 teach at least fifty percent (50%) of the hours regularly worked by full-time faculty in an academic
+3 semester would be eligible for the same state hospital care and surgical-medical service benefit as
+4 other state employees.
+5 This act would take effect upon passage.
+========
+LC004182
+========
+LC004182 - Page 5 of 5

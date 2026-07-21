@@ -1,0 +1,2093 @@
+Title: 
+Official Title: 
+Source: versions - 3012
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3012
+========
+LC006008
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- EXTENDED PRODUCER RESPONSIBILITY
+FOR PACKAGING AND PAPER ACT
+Introduced By: Senators McKenney, Valverde, LaMountain, Murray, Gu, Vargas, Urso,
+Euer, DiMario, and Kallman
+Date Introduced: March 05, 2026
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapters:
+3 CHAPTER 19.20
+4 EXTENDED PRODUCER RESPONSIBILITY FOR PACKAGING AND PAPER ACT
+5 23-19.20-1. Definitions.
+6 (a) As used in this chapter and in chapters 19.21 and 19.22 of title 23, the following words
+7 and phrases shall have the following meanings, unless another meaning is clearly intended by the
+8 context:
+9 (1) "Additive of high concern" means:
+10 (i) An intentionally added substance that is present beyond an incidental presence in
+11 covered materials; and
+12 (ii) Has been identified on the basis of credible scientific evidence and with a risk-based
+13 approach as being:
+14 (A) A carcinogen;
+15 (B) A reproductive or developmental toxicant;
+16 (C) An endocrine disruptor; or
+17 (D) Persistent, bioaccumulative, and toxic. Additives of high concern do not include
+18 materials regulated under the provisions of chapter 18.13 of title 23 ("toxic packaging reduction
+
+1 act").
+2 (2) "Applicable refund value" means the value established under § 23-19.20-11.
+3 (3) "Beverage" means a drinkable liquid intended for human oral consumption. Beverage
+4 does not include:
+5 (i) A drug regulated under the federal Food, Drug, and Cosmetic Act, 21 U.S.C. Ch. 9, §
+6 301 et seq.;
+7 (ii) One hundred percent (100%) fluid milk;
+8 (iii) Infant formula; or
+9 (iv) A meal replacement liquid.
+10 (4) "Beverage container" means any prepackaged container designed to hold beverages,
+11 including the label, cap, and any other material attached to the container at the time of distribution.
+12 (5) "Beverage container collection mechanism" means any manual or technological means
+13 by which empty covered beverage containers are properly identified as part of processing a
+14 consumer's refund.
+15 (6)(i) "Beverage producer" means:
+16 (A) The brand owner responsible for the brand visible on a covered beverage container and
+17 who is responsible for compliance with the requirements of this chapter for a covered beverage
+18 container that is introduced, either physically or via e-commerce, in this state;
+19 (B) If there is no person to which subsection (a)(6)(i)(A) of this section applies, the
+20 producer is the person who is the importer of record for the covered beverage container into the
+21 United States for use in a commercial enterprise that sells, offers for sale, or distributes the item in
+22 this state; or
+23 (C) If there is no person to which subsections (a)(6)(i)(A) or (a)(6)(i)(B) of this section
+24 applies, the producer is the person that first distributes the covered beverage container in or into
+25 this state.
+26 (ii) "Beverage producer" does not include:
+27 (A) Government entities; or
+28 (B) Registered 501(c)(3) charitable organizations and 501(c)(4) social welfare
+29 organizations.
+30 (7) "Brand" means a name, symbol, word, or mark that identifies a product and attributes
+31 the product and its components, including packaging, to the brand owner.
+32 (8) "Brand owner" means a person that owns or holds an exclusive license to a brand or
+33 that otherwise has rights to market a product under the brand, whether or not the brand's trademark
+34 is registered.
+LC006008 - Page 2 of 59
+
+1 (9) "Canner" means individuals who collect and redeem covered beverage containers for
+2 critical income.
+3 (10) "Centralized processing facility" means a facility that sorts and then bales or
+4 aggregates covered beverage containers and associated materials for the purpose of recycling.
+5 (11) "Collection rate" means the amount of a covered material by covered materials type
+6 collected by service providers and transported for recycling or composting divided by the total
+7 amount of the type of a covered material by covered materials type sold or distributed into the State
+8 of Rhode Island by the relevant unit of measurement in the approved program plan.
+9 (12) "Compostable material" means a covered material that:
+10 (i) Meets, and is labeled to reflect that it meets, the American Society for Testing and
+11 Materials Standard Specification for Labeling of Plastics Designed to be Aerobically Composted
+12 in Municipal or Industrial Facilities (D6400) or its successor;
+13 (ii) Meets, and is labeled to reflect that it meets, the American Society for Testing and
+14 Materials Standard Specification for Labeling of End Items that Incorporate Plastics and Polymers
+15 as Coatings or Additives with Paper and Other Substrates Designed to be Aerobically Composted
+16 in Municipal or Industrial Facilities (D6868) or its successor;
+17 (iii) Is comprised of only wood without any coatings or additives; or
+18 (iv) Is comprised of only paper without any coatings or additives.
+19 (13) "Composting" means the controlled microbial degradation of source-separated
+20 compostable materials to yield a humus-like product.
+21 (14) "Composting rate" means the amount of compostable covered material that is managed
+22 through composting, divided by the total amount of compostable covered material sold or
+23 distributed into the State of Rhode Island by the relevant unit of measurement in the approved
+24 program plan.
+25 (15) "Consumer" means an individual who purchases a beverage in the State of Rhode
+26 Island in a beverage container for consumption.
+27 (16) "Contamination" means:
+28 (i) The presence of materials that are not on the list of materials collected in that material
+29 stream; or
+30 (ii) The presence of materials that are not specified or accepted as a component of the
+31 feedstock or commodity.
+32 (17) "Coordination plan" means the joint plan developed by the packaging program
+33 producer responsibility organization and the recycling refund producer responsibility organization.
+34 (18) "Covered beverage container" means any of the following beverage containers subject
+LC006008 - Page 3 of 59
+
+1 to a recycling refund:
+2 (i) Except as provided in subsection (18)(ii) of this section, any glass, plastic, or metal can
+3 or bottle with a capacity of at least forty milliliters (40 ml) and no more than one gallon; and
+4 (ii) Beginning no earlier than the second recycling refund plan implementation period,
+5 other beverage containers proposed for inclusion in the recycling program by a recycling refund
+6 producer responsibility organization and approved by the department.
+7 (19) "Covered entity" means a person or location that receives covered services for covered
+8 materials in accordance with the requirements of this chapter, including:
+9 (i) A single-family residence;
+10 (ii) A multifamily residence;
+11 (iii) A school as defined in § 16-8-7;
+12 (iv) A nonprofit corporation with annual revenue of less than thirty-five million dollars
+13 ($35,000,000); and
+14 (v) A state agency, political subdivision, public area, public entity or other governmental
+15 unit.
+16 (20)(i) "Covered material" means packaging and paper products introduced in the State of
+17 Rhode Island.
+18 (ii) "Covered material" does not include covered beverage containers or exempt materials.
+19 (21) "Covered materials type" means a singular and specific type of covered material, such
+20 as paper, plastic, metal, or glass, that:
+21 (i) Can be categorized based on distinguishing chemical or physical properties, including
+22 properties that allow a covered materials type to be aggregated into a discrete commodity category
+23 for purposes of reuse, recycling, or composting; and
+24 (ii) Is based on similar uses in the form of a product or package.
+25 (22) "Covered services" means collecting, transferring, transporting, sorting, processing,
+26 recovering, preparing, or otherwise managing for purposes of source reduction, reuse, recycling, or
+27 composting.
+28 (23) "De minimis" means a sum of revenue earned by a person in the most recent fiscal
+29 year from global gross revenues, not including on-premises alcohol sales, for the prior fiscal year
+30 of:
+31 (i) Until January 1, 2030, less than two million dollars ($2,000,000); or
+32 (ii) Beginning January 1, 2030, less than two million dollars ($2,000,000), as adjusted for
+33 inflation by the department.
+34 (24) "Department" means the department of environmental management.
+LC006008 - Page 4 of 59
+
+1 (25) "Environmental impact" means the impact of a covered material on human health and
+2 the environment from extraction and processing of the raw materials composing the covered
+3 material through manufacturing, distribution, use, recovery for reuse, recycling, or composting;
+4 and final disposal.
+5 (26) "Environmental justice area" means a census block group with a low-income and/or
+6 minority population greater than twice the statewide average.
+7 (27) "Executive director" means the executive director of the packaging producer
+8 responsibility organization or recycling refund producer responsibility organization.
+9 (28) "Exempt materials" means materials, or any portion of materials, that:
+10 (i) Are packaging for infant formula, as defined in 21 U.S.C. § 321(z);
+11 (ii) Are packaging for medical food, as defined in 21 U.S.C. § 23 360ee(b)(3);
+12 (iii) Are packaging for a fortified oral nutritional supplement used by persons who require
+13 supplemental or sole source nutrition to meet nutritional needs due to special dietary needs directly
+14 related to cancer, chronic kidney disease, diabetes, malnutrition, or failure to thrive, as those terms
+15 are defined by the International Classification of Diseases, tenth revision;
+16 (iv) Are packaging for a product regulated as a drug or medical device by the United States
+17 Food and Drug Administration, including associated components and consumable medical
+18 equipment;
+19 (v) Are packaging for medical equipment or product used in medical settings that is
+20 regulated by the United States Food and Drug Administration, including associated components
+21 and consumable medical equipment;
+22 (vi) Are drugs, biological products, parasiticides, medical devices, or in vitro diagnostics
+23 that are used to treat, or that are administered to, animals and are regulated by the United States
+24 Food and Drug Administration under the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. § 301
+25 et seq., by the United States Department of Agriculture under the federal Virus-Serum-Toxin Act,
+26 21 U.S.C. § 151 et seq.;
+27 (vii) Are packaging for products regulated by the United States Environmental Protection
+28 Agency under the Federal Insecticide, Fungicide, and Rodenticide Act, 7 U.S.C. § 136 et seq.;
+29 (viii) Are packaging used to contain liquefied petroleum gas and are designed to be refilled;
+30 (ix) Are packaging used to contain hazardous or flammable products regulated by the 2012
+31 federal Occupational Safety and Health Administration Hazard Communication Standard, 29 CFR
+32 § 1910.1200, that prevent the packaging from being source reduced or made reusable, recyclable,
+33 or compostable, as determined by the department:
+34 (x) Are packaging that is being collected and properly managed through a paint producer
+LC006008 - Page 5 of 59
+
+1 responsibility program approved under chapter 24.12 of title 23 ("proper management of unused
+2 paint");
+3 (xi) Are exempt materials, as determined by the department; or
+4 (xii) Are covered materials that:
+5 (A) A producer distributes to another producer;
+6 (B) Are subsequently used to contain a product, and the product is distributed to a
+7 commercial or business entity for the production of another product; and
+8 (C) Are not introduced to a person other than the commercial or business entity that first
+9 received the product used for the production of another product.
+10 (29) "Express redemption site" means a designated return location that allows consumers
+11 to return covered beverage containers. These locations will not require cash handling on site; rather,
+12 upon return, if needed, beverage containers will be transported to centralized processing facilities,
+13 and refunds will be credited to the consumer's virtual account. This may include bag-drop systems,
+14 reverse vending machines, or other beverage container collection mechanisms to enhance
+15 convenience and accessibility for consumers.
+16 (30) "Fraudulent activity" means any of the following:
+17 (i) Redeeming a beverage container purchased outside the State of Rhode Island;
+18 (ii) Altering a beverage container not eligible for a refund in the State of Rhode Island
+19 recycling refund system to make it appear eligible for a refund;
+20 (iii) Altering a receipt to increase the payout beyond the amount from appropriately
+21 redeeming covered beverage containers;
+22 (iv) Tampering with beverage container collection mechanisms to enable redemption of a
+23 beverage container or knowingly attempting to redeem a beverage container that:
+24 (A) Was not purchased in the State of Rhode Island;
+25 (B) Is not in the State of Rhode Island recycling refund system;
+26 (C) Had no deposit paid on it in the State of Rhode Island; or
+27 (D) Has already been redeemed for a refund; and
+28 (v) Selling or offering for sale a covered beverage container that has not been reported to
+29 the recycling refunds producer responsibility organization.
+30 (31) "Full-service redemption site" means a return location or avenue where individuals
+31 may return covered beverage containers to receive immediate refunds for their returns.
+32 (32) "Government entity" means any:
+33 (i) City, town, or other local government, including any municipal corporation, quasi-
+34 municipal corporation, or special purpose district, or any office, department, division, bureau,
+LC006008 - Page 6 of 59
+
+1 board, commission, or agency thereof, or other local public agency;
+2 (ii) State office, department, division, bureau, board, commission, or other state agency;
+3 (iii) Federally-recognized Indian tribes whose traditional lands and territories include parts
+4 of the State of Rhode Island; or
+5 (iv) Federal office, department, division, bureau, board, commission, or other federal
+6 agency.
+7 (33) "Incidental presence" means the presence of an additive at a concentration that is less
+8 than one hundred parts per million (100 ppm) by weight or one hundredths percent (0.01%).
+9 (34) "Independent auditor" means an independent and actively licensed certified public
+10 accountant that is:
+11 (i) Retained by a producer responsibility organization;
+12 (ii) Not otherwise employed by or affiliated with a producer responsibility organization;
+13 and
+14 (iii) Qualified to conduct an audit under State of Rhode Island law.
+15 (35) "Individual plan" means a plan submitted by a producer or beverage producer that
+16 registers with the department as a packaging producer responsibility organization or as a recycling
+17 refunds producer responsibility organization to address the covered materials or covered beverage
+18 containers of the producer.
+19 (36) "Infrastructure investment" means an investment by a packaging producer
+20 responsibility organization that funds:
+21 (i) Equipment or facilities in which covered materials are prepared for reuse, recycling, or
+22 composting;
+23 (ii) Equipment or facilities used for source reduction, reuse, recycling, or composting of
+24 covered materials; or
+25 (iii) The expansion or strengthening of demand for and use of covered materials by
+26 responsible end markets in the State of Rhode Island or region.
+27 (37) "Intentionally added substance" means a substance that:
+28 (i) A manufacturer intentionally added to a material in the formation of a covered material;
+29 and
+30 (ii) Serves an intended function or technical effect in the final covered material.
+31 (iii) "Intentionally added substance" does not include the use of postconsumer recycled
+32 content, where some portion of the postconsumer recycled content may contain amounts of the
+33 substance but is neither desired nor deliberate.
+34 (38) "Introduce" means to sell, offer for sale, distribute, or use to ship a product within or
+LC006008 - Page 7 of 59
+
+1 into the State of Rhode Island.
+2 (39) "Labor organization" means any organization that exists and is constituted for the
+3 purpose, in whole or in part, of collective bargaining, or of dealing with employers concerning
+4 grievances, terms or conditions of employment, or of other mutual aid or protection.
+5 (40) "Living wage" means the minimum hourly wage necessary to allow a person working
+6 forty (40) hours per week to afford basic needs.
+7 (41) "Lobby" and "lobbying" means the practice of promoting, opposing, or in any manner
+8 influencing or attempting to influence the introduction, defeat, or enactment of legislation before
+9 any legislative body; opposing or in any manner influencing the executive approval, veto, or
+10 amendment of legislation; or the practice of promoting, opposing, or in any manner influencing or
+11 attempting to influence the enactment, promulgation, modification, or deletion of regulations
+12 before any regulatory body. The term does not include providing public testimony before a
+13 legislative body or regulatory body or any committee thereof.
+14 (42) "Material recovery facility" means a facility in the State of Rhode Island that collects,
+15 compacts, repackages, sorts, or processes for transport source separated material for the purpose of
+16 recycling.
+17 (43) "Municipality" means the individual cities and towns of the State of Rhode Island.
+18 (44) "Needs assessment" means an assessment conducted according to § 23-19.20-8.
+19 Except where specified otherwise, needs assessment means the most recently completed needs
+20 assessment.
+21 (45) "On-site consumption" means consumption of a beverage in a covered beverage
+22 container that is sold by an establishment and is intended to be consumed on the premises, and with
+23 the beverage container retained at the same establishment after consumption.
+24 (46) "Packaging" means a material, substance, or object that is used to protect, contain,
+25 transport, serve, or facilitate delivery of a product and is sold or supplied with the product to the
+26 consumer for personal, non-commercial use.
+27 (47) "Packaging producer responsibility organization" means a nonprofit corporation that
+28 is tax exempt under chapter 501(c)(3) of the federal Internal Revenue Code and that is created by
+29 a group of producers to implement the packaging producer program plan.
+30 (48) "Packaging producer program plan" means a program plan developed by the
+31 packaging producer responsibility organization pursuant to § 23-19.20-9 that is prepared and
+32 submitted to the department for review and approval.
+33 (49) "Packaging program advisory council" means the council established under this
+34 chapter for the packaging program.
+LC006008 - Page 8 of 59
+
+1 (50)(i) "Paper product" means paper sold or supplied to a consumer for personal,
+2 noncommercial use, including flyers, brochures, booklets, catalogs, magazines, printed paper, and
+3 all other paper materials.
+4 (ii) "Paper product" does not include:
+5 (A) Bound books;
+6 (B) Conservation-grade and archival-grade paper;
+7 (C) Newspapers, including supplements or enclosures;
+8 (D) Magazines that have a circulation of fewer than ninety-five thousand (95,000) and that
+9 includes content derived from primary sources related to news and current events;
+10 (E) Copy paper;
+11 (F) Paper for use in building construction; and
+12 (G) Paper that could reasonably be anticipated to become unsafe or unsanitary to handle.
+13 (51) "Postconsumer recycled content" means the amount of postconsumer material used
+14 by a producer in the production of a covered materials type, divided by the total amount of that
+15 covered materials type used for products sold or distributed by the producer in that same calendar
+16 year.
+17 (52)(i) "Producer" means the following person responsible for compliance with
+18 requirements under this chapter for a covered material introduced into the state:
+19 (A) For items sold in or with packaging at a physical retail location in the State of Rhode
+20 Island:
+21 (I) If the item is sold in or with packaging under the brand of the item manufacturer or is
+22 sold in packaging that lacks identification of a brand, the producer is the person or entity that
+23 manufactures that item;
+24 (II) If there is no person or entity described in subsection (a)(53)(i)(A)(I) of this section,
+25 the producer is the person or entity that is licensed to manufacture and sell or offer for sale to
+26 consumers in the State of Rhode Island an item with packaging under the brand or trademark of
+27 another manufacturer or person;
+28 (III) If there is no person to which subsections (a)(53)(i)(A)(I) or (a)(53)(i)(A)(II) of this
+29 section applies, the producer is the brand owner of the item;
+30 (IV) If there is no person described in subsections (a)(53)(i)(A)(I) through (a)(53)(i)(A)(III)
+31 of this section within the United States, the producer is the person who is the importer of record for
+32 the item into the United States for use in a commercial enterprise that sells, offers for sale, or
+33 distributes the item in the State of Rhode Island; or
+34 (V) If there is no person described in subsections (a)(53)(i)(A)(I) through (a)(53)(i)(A)(iv)
+LC006008 - Page 9 of 59
+
+1 of this section, the producer is the person that first distributes the item in or into the State of Rhode
+2 Island;
+3 (B) For items sold or distributed in or into the State of Rhode Island via e-commerce,
+4 remote sale, or remote distribution:
+5 (I) For packaging used to directly protect or contain the item, the producer of the packaging
+6 is the same as the producer identified under subsection (a)(53)(i)(A) of this section; and
+7 (II) For packaging used to ship the item to a consumer, the producer of the packaging is
+8 the person that packages the item to be shipped to the consumer;
+9 (C) For packaging that is an item and is not included in the prior subsections, the producer
+10 of the packaging is the person that first distributes the item in or into the State of Rhode Island;
+11 (D) For paper products that are magazines, catalogs, telephone directories, or similar
+12 publications, the producer is the publisher;
+13 (E) For paper products not described in subsection (a)(53)(i)(A) of this section:
+14 (I) If the paper product is sold under the manufacturer's own brand, the producer is the
+15 person or entity that manufactures the paper product;
+16 (II) If there is no person or entity to which subsection (a)(53)(i)(E)(I) of this section applies,
+17 the producer is the person or entity that is the owner or licensee of a brand or trademark under
+18 which the paper product is used in a commercial enterprise, sold, offered for sale, or distributed in
+19 or into the State of Rhode Island, whether or not the trademark is registered in the State of Rhode
+20 Island;
+21 (III) If there is no person or entity to which subsection (a)(53)(i)(E)(I) or (a)(53)(i)(E)(II)
+22 of this section applies, the producer is the brand owner of the paper product;
+23 (IV) If there is no person or entity to which subsection (a)(53)(i)(E)(I), (a)(53)(i)(E)(II), or
+24 (a)(53)(i)(E)(III) of this section within the United States, the producer is the person that imports the
+25 paper product into the United States for use in a commercial enterprise that sells, offers for sale, or
+26 distributes the paper product in the State of Rhode Island; or
+27 (V) If there is no person described in subsections (a)(53)(i)(E)(I) through (a)(53)(i)(E)(IV)
+28 of this subsection, the producer is the person that first distributes the paper product in or into the
+29 State of Rhode Island;
+30 (F) A person is the "producer" of a covered material sold, offered for sale, or distributed in
+31 or into the State of Rhode Island, as defined in subsections (a)(53)(i)(A) through (a)(53)(i)(E) of
+32 this subsection, except;
+33 (I) Where another person or entity has mutually signed an agreement with a producer as
+34 defined in (a)(53)(i)(A) through (a)(53)(i)(E) of this section that contractually assigns responsibility
+LC006008 - Page 10 of 59
+
+1 to the person or entity as the producer, and the person or entity has joined a registered packaging
+2 producer responsibility organization as the responsible producer for that covered material under
+3 this chapter. If another person or entity is assigned responsibility as the producer under this
+4 subsection, the producer under subsections (a)(53)(i)(A) through (a)(53)(i) (E) of this section must
+5 provide written certification of that contractual agreement to the packaging producer responsibility
+6 organization. The following persons or entities are not eligible to be the assigned recipient of
+7 responsibility as a producer under this subsection:
+8 (aa) A person or entity who produces an agricultural commodity introduced under the brand
+9 or trademark of another manufacturer or person;
+10 (bb) If the producer described in subsection (a)(53)(i)(A) through (a)(53)(i)(E) of this
+11 subsection is a business operated wholly or in part as a franchise, the producer is the franchisor, if
+12 that franchisor has franchisees that have a commercial presence within the State of Rhode Island.
+13 (ii) Producer does not include:
+14 (A) Government entities; or
+15 (B) Registered 501(c)(3) charitable organizations and 501(c)(4) social welfare
+16 organizations.
+17 (53) "Producer responsibility organization" means a nonprofit corporation that is tax
+18 exempt under chapter 501(c)(3) of the federal Internal Revenue Code and is set up to carry out the
+19 responsibilities of either the packaging program or the recycling refund program, or both programs.
+20 (54) "Recycling" means the series of activities by which material is collected, transported,
+21 sorted, and processed for use in industrial feedstocks in place of virgin materials to manufacture
+22 new products with minimal loss of material quality and quantity. "Recycling" does not include:
+23 (i) Landfill disposal;
+24 (ii) Use as alternative daily cover or any other beneficial use at a landfill; or
+25 (iii) Energy recovery, energy generation, or fuel production by any means including, but
+26 not limited to, combustion, incineration, pyrolysis, gasification, solvolysis, or waste-to-fuel.
+27 (55) "Recycling rate" means the amount of recyclable covered material, in aggregate or by
+28 individual covered materials type, delivered to responsible end markets for recycling in a calendar
+29 year divided by the total amount of covered materials introduced by the relevant unit of
+30 measurement and excluding covered materials that are reusable or compostable.
+31 (56) "Recycling refund program" means a covered beverage container redemption program
+32 that pays a per-unit refund value to consumers for covered beverage containers and collects and
+33 processes covered beverage containers as described in this chapter.
+34 (57) "Recycling refund advisory council" means the council established under this chapter
+LC006008 - Page 11 of 59
+
+1 for the recycling refunds program.
+2 (58) "Recycling refund processing facility" means a location that is designated by the
+3 recycling refund producer responsibility organization to receive, sort, and prepare beverage
+4 containers collected through the system for recycling or reuse.
+5 (59) "Recycling refund producer responsibility organization" means a nonprofit
+6 corporation that is tax exempt under chapter 501(c)(3) of the federal Internal Revenue Code created
+7 by a group of recycling refund covered beverage containers producers to implement activities under
+8 this chapter.
+9 (60) "Recycling refund program plan" means a program plan developed by the recycling
+10 refund producer responsibility organization that is prepared and submitted to the department for
+11 review and approval.
+12 (61) "Redemption rate" means the number of covered beverage containers redeemed for
+13 the recycling refund divided by the number of covered beverage containers sold in the State of
+14 Rhode Island in a calendar year.
+15 (62) "Redemption site" means a public or private place that provides, via any beverage
+16 container collection mechanism, the ability to redeem a covered beverage container for which a
+17 deposit was paid.
+18 (63) "Refillable" means capable of refill.
+19 (64) "Refill" means the continued use of a covered material by a consumer through a
+20 system that is:
+21 (i) Intentionally designed and marketed for repeated filling of a covered material to reduce
+22 demand for new production of the covered material;
+23 (ii) Supported by adequate logistics and infrastructure to provide convenient access for
+24 consumers; and
+25 (iii) Compliant with all applicable statutes, rules, ordinances, and other laws governing
+26 health and safety from any government entity.
+27 (65) "Responsible end market" means a materials market that:
+28 (i) First produces and sells, transfers, or uses recycled organic product or recycled content
+29 feedstock that meets the quality standards necessary to be used in the creation of new or
+30 reconstituted products in a manner that protects the environment and minimizes risks to public
+31 health and worker health and safety;
+32 (ii) Complies with all applicable statutes, rules, ordinances, and other laws governing
+33 environmental, health, safety, and financial responsibility from any government entity;
+34 (iii) Possesses all requisite licenses and permits required by a federal or state agency or
+LC006008 - Page 12 of 59
+
+1 political subdivision;
+2 (iv) If the market operates in a state, manages waste according to the waste management
+3 goal and priority order of waste management practices stated in statute;
+4 (v) Minimizes adverse impacts to environmental justice areas; and
+5 (vi) Meets the minimum operational standards adopted under a packaging producer
+6 program plan or recycling refunds program plan to protect the environment, public health, worker
+7 health and safety, and minimize adverse impacts to socially vulnerable populations.
+8 (66) "Retail establishment" means any person, corporation, partnership, business, facility,
+9 vendor, organization, or individual that sells or provides merchandise, goods, or materials directly
+10 to a consumer that engages in the sale of beverages that are covered beverage containers intended
+11 for consumption off site.
+12 (67) "Return rate" means the amount of reusable covered material or beverage containers,
+13 in aggregate or by individual covered materials or covered beverage container type, collected for
+14 reuse by a redemption site, producer responsibility organization, producer, or service provider in a
+15 calendar year, divided by the total amount of reusable covered material or covered beverage
+16 containers, in aggregate or by individual covered materials or covered beverage container type,
+17 sold or distributed into the State of Rhode Island by the relevant unit of measurement in the
+18 approved program plan.
+19 (68) "Reusable" means capable of reuse.
+20 (69) "Reuse" means the return of a covered material or covered beverage container to the
+21 marketplace and the continued use of the covered material or covered beverage container by a
+22 producer or service provider when the covered material or covered beverage container is:
+23 (i) Intentionally designed and marketed to be used multiple times for its original intended
+24 purpose without a change in form;
+25 (ii) Designed for durability and maintenance to extend its useful life and reduce demand
+26 for new production of the covered material or covered beverage container;
+27 (iii) Supported by adequate logistics and infrastructure at a redemption site, retail location,
+28 by a service provider, or on behalf of or by a producer, that provides convenient access for
+29 consumers; and
+30 (iv) Compliant with all applicable statutes, rules, ordinances, and other laws governing
+31 health and safety from any government entity.
+32 (70) "Reuse rate" means the share of units of a reusable covered material or covered
+33 beverage containers sold or distributed into the State of Rhode Island in a calendar year that are
+34 demonstrated and deemed reusable in accordance with an approved packaging producer program
+LC006008 - Page 13 of 59
+
+1 plan or recycling refund program plan, excluding:
+2 (i) A product protected by a recognized geographic indication, appellation of origin, or
+3 certification mark that legally requires the product to originate from a specific geographic region
+4 located more than one hundred fifty (150) miles from the State of Rhode Island; provided that, such
+5 requirement is supported by federal, state, or international law or treaty; or
+6 (ii) A product which, under national or state law, must be produced in a jurisdiction located
+7 more than one hundred fifty (150) miles from the State of Rhode Island and therefore cannot be
+8 practically sold in a reusable container;
+9 (71) "Service provider" means an entity that provides covered services for covered
+10 materials or covered beverage containers. A political subdivision that provides or that contracts or
+11 otherwise arranges with another party to provide covered services for covered materials within its
+12 jurisdiction may be a service provider regardless of whether it provided, contracted for, or
+13 otherwise arranged for similar services before the approval of the applicable producer program
+14 plan.
+15 (72) "Source reduction" means the design, manufacture, acquisition, purchase, or use of
+16 materials or products to reduce the amount of municipal waste before it enters the municipal trash.
+17 This may be accomplished through the redesign of manufacturing processes; redesign of products;
+18 changes in consumers' purchasing decisions, use, and disposal habits; and backyard composting.
+19 (73) "Third-party certification" means certification by an accredited independent
+20 organization that a standard or process required by this chapter, or by a packaging producer program
+21 plan or a recycling refund program plan approved under this chapter, has been achieved.
+22 (74) "Transfer station" means a specific area where individuals may bring household
+23 recyclable materials to be sorted into material-specific receptacles and is located in the State of
+24 Rhode Island.
+25 (75) "Unredeemed deposit" means a deposit paid by a consumer to a retailer upon purchase
+26 of a covered beverage container for which no person claimed the deposit by returning the beverage
+27 container to a redemption site.
+28 (b) References to "this chapter" contained in chapters 19.20, 19.21, and 19.22 of title 23,
+29 may and shall be applied jointly and severally, and a reference to one may be construed as a
+30 reference to any or all of the other chapters as the context indicates, except where the context clearly
+31 indicates otherwise.
+32 23-19.20-2. Registration of packaging producer responsibility organizations.
+33 (a) Pursuant to the provisions of chapter 19.19 of title 23 upon the completion of the
+34 statewide implementation analysis and final report, or January 1, 2027, whichever is earlier, the
+LC006008 - Page 14 of 59
+
+1 department shall accept applications from packaging producer responsibility organizations to
+2 represent packaging and paper product producers in fulfilling the requirements of this chapter.
+3 (b) The application from a packaging producer responsibility organization shall include, at
+4 a minimum, the following:
+5 (1) Contact information for a person responsible for implementing an approved packaging
+6 producer program plan;
+7 (2) A list of any member packaging and paper product producers that have entered into
+8 written agreements to operate under the packaging producer program plan;
+9 (3) A list of current board members and the executive director if different from the person
+10 responsible for implementing the approved packaging producer program plan; and
+11 (4) Documentation demonstrating adequate financial responsibility and financial controls
+12 to ensure proper management of funds and payment of the registration fee and packaging and paper
+13 product producer fees.
+14 (c) By March 1, 2027, the department may approve, for a period not to exceed five (5)
+15 years, a single packaging producer responsibility organization if the packaging producer
+16 responsibility organization demonstrates that it:
+17 (1) Is an independent nonprofit organization that qualifies for tax exemption under 26
+18 U.S.C. § 501(c)(3) of the federal Internal Revenue Code;
+19 (2) Has the ability to administer the requirements of a packaging producer program plan
+20 under this chapter;
+21 (3) Has a governing board consisting of packaging and paper product producers that
+22 represent the diversity of packaging in the market; and
+23 (4) Has adequate financial responsibility and financial controls to ensure proper
+24 management of funds and payment of the registration fee required under this section.
+25 (d) The department may revoke the approval of a packaging producer responsibility
+26 organization if the department determines that the packaging producer responsibility organization:
+27 (1) Failed to meet the collection rate or recycling rate performance targets four (4) years in
+28 a row; and
+29 (2) Has not made reasonable progress over this four (4) year period toward compliance.
+30 (e) If the department exercises its authority under this section, then:
+31 (1) The department shall set dates to restart the appointment process; and
+32 (2) The previously approved packaging producer responsibility organization shall continue
+33 operating until the department appoints a new recycling refund producer responsibility
+34 organization.
+LC006008 - Page 15 of 59
+
+1 (f) By January 1, 2027, an individual producer may notify the department of its intent to
+2 submit an individual plan for approval by the department, and comply individually with all relevant
+3 requirements of this chapter.
+4 (g)(1) By November 1, 2027, the packaging producer responsibility organization shall
+5 submit a one-time payment to the department, in lieu of a registration fee, in an amount determined
+6 by the department, to cover the previously incurred costs and future estimated costs of the
+7 department under this chapter from the effective date of this chapter until the date in subsection
+8 (g)(2) of this section. By August 1, 2027, the department shall provide written notice to the
+9 appointed packaging producer responsibility organization of the amount of the registration fee;
+10 (2) On July 1, 2028, and on each July 1 thereafter, the packaging producer responsibility
+11 organization shall submit to the department a registration fee, as determined by the department. By
+12 May 1, 2028, and on each May 1 thereafter, the department shall provide written notice to registered
+13 packaging producer responsibility organizations of the amount of the registration fee. The
+14 registration fee shall be set at an amount anticipated to meet, but not exceed the department's
+15 estimate of the costs required to perform the department's duties and to otherwise administer,
+16 implement, and enforce this chapter;
+17 (3) On July 1, 2028, and on each July 1 thereafter, a producer that notifies the department
+18 of its intent to submit an individual plan shall make payments in amounts determined by the
+19 department to cover the amount anticipated to meet, but not exceed the department's estimate of
+20 the costs required to perform the department's duties related to that producer's individual plan and
+21 to otherwise administer, implement, and enforce the individual plan;
+22 (4) The department shall annually reconcile the fees paid by a packaging producer
+23 responsibility organization under this section with the actual costs incurred by the department by
+24 means of credits or refunds to or additional payments required of a producer responsibility
+25 organization, as applicable.
+26 (h) After the first packaging producer program plan approved by the department expires,
+27 the department may allow registration of more than one packaging producer responsibility
+28 organization if:
+29 (1) Producers of a covered materials type or a specific covered material appoint a packaging
+30 producer responsibility organization; or
+31 (2) Producers organize under additional packaging producer responsibility organizations.
+32 (i) All fees received under this section shall be deposited in the State of Rhode Island
+33 treasury and credited to the product producer responsibility account.
+34 23-19.20-3. Packaging producer responsibility organization duties.
+LC006008 - Page 16 of 59
+
+1 A packaging producer responsibility organization or individual producer shall:
+2 (1) Register with the department, as required under this chapter;
+3 (2) Submit a packaging producer program plan, as required under this chapter;
+4 (3) Implement a packaging producer program plan approved by the department under this
+5 chapter;
+6 (4) Forward upon receipt from the department the lists established under § 23-19.20-7 to
+7 all service providers that participate in a packaging producer program plan administered by the
+8 packaging producer responsibility organization;
+9 (5) Establish by September 1, 2027, an initial producer fee structure to fund the initial
+10 implementation of the program, to be used until packaging producer responsibility organization has
+11 an approved program plan as required under this chapter;
+12 (6) Collect producer fees as required under § 23-19.20-11;
+13 (7) Submit the reports required under § 23-19.20-13;
+14 (8) Ensure that producers operating under a packaging producer program plan administered
+15 by the packaging producer responsibility organization comply with the requirements of the
+16 packaging producer program plan under § 23-19.20-9 and with this chapter;
+17 (9) Expel a producer from the packaging producer responsibility organization if efforts to
+18 return the producer to compliance with the plan or with the requirements of this chapter are
+19 unsuccessful;
+20 (10) Notify the department when a producer has been expelled;
+21 (11) Consider and respond in writing within ninety (90) days to comments received from
+22 the advisory council, including justifications for not incorporating advisory council
+23 recommendations;
+24 (12) Maintain a website with the information required under § 23-19.20-12;
+25 (13) Notify the department within thirty (30) days of a change made to the contact
+26 information for a person responsible for implementing the packaging producer program plan, to
+27 board membership, or to the executive director;
+28 (14) Assist service providers to identify, use, and expand responsible end markets;
+29 (15) Contract directly with service providers and provide payments in a timely manner;
+30 and
+31 (16) Comply with all other applicable requirements of this chapter.
+32 23-19.20-4. Packaging program advisory council.
+33 (a) The packaging program advisory council is established to review all activities
+34 conducted by packaging producer responsibility organizations or a producer submitting an
+LC006008 - Page 17 of 59
+
+1 individual plan under this chapter and to advise the department and packaging producer
+2 responsibility organizations regarding the implementation of this chapter.
+3 (b) The packaging program advisory council shall:
+4 (1) Convene its initial meeting by June 1, 2027;
+5 (2) Establish when, and a process by which, it will accept public comments;
+6 (3) Advise on the development of packaging producer program plans, individual plans, and
+7 needs assessments to help ensure they:
+8 (i) Align with best practices;
+9 (ii) Reflect the reality in the State of Rhode Island; and
+10 (ii) Consider the needs of the State of Rhode Island;
+11 (4) Submit comments to packaging producer responsibility organizations, producers
+12 submitting individual plans, and to the department on any matter relevant to the administration of
+13 this chapter;
+14 (5) Provide written comments to the department during any rulemaking process undertaken
+15 by the department; and
+16 (6) Comply with all other applicable requirements of this chapter.
+17 (c) By March 1, 2027, the department shall establish and appoint the initial membership of
+18 the packaging program advisory council. The membership of the packaging program advisory
+19 council shall consist of the following:
+20 (1) Two (2) members representing manufacturers of covered materials or the State of
+21 Rhode Island or national trade association representing those manufacturers;
+22 (2) One member representing recycling facilities that manage covered materials;
+23 (3) One member representing a waste hauler or a State of Rhode Island association
+24 representing waste haulers;
+25 (4) One member representing retailers of covered materials or a State of Rhode Island trade
+26 association representing those retailers;
+27 (5) Two (2) members representing State of Rhode Island nonprofit environmental
+28 organizations;
+29 (6) Two (2) members representing community-based nonprofit environmental justice
+30 organizations;
+31 (7) One member representing Rhode Island resource recovery corporation or another waste
+32 facility that receives, and sorts covered materials and transfers them to another facility for reuse,
+33 recycling, or composting;
+34 (8) One member representing a waste facility that receives compostable materials for
+LC006008 - Page 18 of 59
+
+1 composting or the State of Rhode Island trade association that represents such facilities;
+2 (9) One member representing a labor organization;
+3 (10) Two (2) members representing an entity that develops or offers for sale covered
+4 materials that are designed for reuse or refill and maintained through a reuse or refill system or
+5 infrastructure or the State of Rhode Island or national trade association that represents such entities;
+6 (11) Three (3) members representing local government entities;
+7 (12) Two (2) members representing other interested parties or additional members of
+8 interests represented, as determined by the department; and
+9 (13) One member representing the department.
+10 (d) Members shall serve for a term of four (4) years, except that the initial term for a
+11 majority of the initial appointees shall be two (2) years so that membership terms are staggered.
+12 Members may be reappointed, but may not serve more than eight (8) consecutive years. A member
+13 of the advisory council appointed under subsection (c)(12) of this section serves at the pleasure of
+14 the department.
+15 (e) A quorum is reached when:
+16 (1) A majority of packaging program advisory council member seats are filled; and
+17 (2) A majority of the non-vacant packaging program advisory council member seats is
+18 present.
+19 (f) Action by the packaging program advisory council requires a quorum and a majority of
+20 those present and voting. All members of the packaging program advisory council, except the
+21 members appointed under subsection (c)(12) of this section, are voting members of the council.
+22 (g) The packaging program advisory council shall meet at least two (2) times per year and
+23 may meet more frequently upon ten (10) days' written notice at the request of the chair or a majority
+24 of its members.
+25 (h)(1) The department shall provide administrative and operating support to the packaging
+26 program advisory council, and the department may contract with a third-party facilitator to assist
+27 in administering the activities of the packaging program advisory council, including establishing a
+28 website or landing page on the department website.
+29 (2) The department shall assist the advisory council in developing policies and procedures
+30 governing the disclosure or perceived conflict of interest.
+31 23-19.20-5. Producer responsibilities.
+32 (a) After September 1, 2027, a producer shall be a member of a packaging producer
+33 responsibility organization or notify the department of their intent to submit an individual program
+34 plan.
+LC006008 - Page 19 of 59
+
+1 (b) Unless submitting an individual program plan, a producer shall:
+2 (1) Register with the packaging producer responsibility organization,
+3 (2) Implement the requirements of the packaging producer program plan;
+4 (3) Pay producer fees under § 23-19.20-11;
+5 (4) Report covered material data to the packaging producer responsibility organization at
+6 a frequency and by a date to be determined by the packaging producer responsibility organization:
+7 (i) The total amount, by unit and weight, of each type of packaging material sold, offered
+8 for sale, or distributed for sale into the State of Rhode Island by the producer in the prior calendar
+9 year; and
+10 (ii) All other information necessary for the producer and the packaging producer
+11 responsibility organization to meet its obligations required under this chapter.
+12 (c) Comply with all other applicable requirements of this chapter.
+13 (d) If a producer's individual plan is approved by the department, the producer shall
+14 implement the individual plan in compliance with all applicable requirements of this chapter.
+15 23-19.20-6. Packaging sales restrictions.
+16 (a) After July 1, 2030, no producer may introduce covered materials, either separately or
+17 when used to package another product, unless the producer is a member of a packaging producer
+18 responsibility organization and in compliance with the organization's plan, or is operating under an
+19 approved individual plan.
+20 (b) After July 1, 2032, no producer may introduce in the State of Rhode Island covered
+21 materials unless covered services are provided for the covered materials through a packaging
+22 program or individual plan approved by the department and the covered materials are:
+23 (1) Reusable and capable of being managed through a reuse system that meets the reuse
+24 rate and return rate required under this chapter;
+25 (2) Capable of refill and supported by a refill system;
+26 (3) Included on the recyclable covered materials list established under § 23-19.20-7; or
+27 (4) Included on the compostable covered material list established under § 23-19.20-7.
+28 (c) A packaging producer responsibility organization or producer operating under an
+29 approved individual plan may petition the department for a two (2)-year extension to comply with
+30 the requirements of this section. The department may approve the extension if the petition
+31 demonstrates that market or technical issues prevent a specific covered material from being
+32 considered reusable or included on the lists established under § 23-19.20-7. The packaging
+33 producer responsibility organization may petition the department for additional annual extensions,
+34 if the packaging producer responsibility organization demonstrates that market or technical issues
+LC006008 - Page 20 of 59
+
+1 preventing compliance persist.
+2 23-19.20-7. Packaging program department responsibilities.
+3 The department shall:
+4 (1) Appoint the initial membership of the packaging program advisory council as required
+5 under this chapter;
+6 (2) Provide administrative and operating support to the packaging program advisory
+7 council;
+8 (3) Consult on the preliminary needs assessment and needs assessment updates that the
+9 packaging producer responsibility organization conducts, and modify requirements for needs
+10 assessments as it deems appropriate;
+11 (4) Review and determine whether to approve a needs assessment according to this chapter;
+12 (5) Review and determine whether to approve packaging producer program plans,
+13 individual plans, and amendments to plans according to § 23-19.20-9;
+14 (6) Establish requirements for a recycling rate, composting rate, reuse rate, return rate,
+15 source reduction, and postconsumer recycled content, according to the requirements of this chapter;
+16 (7) Generate, in consultation with the packaging producer responsibility organization, a list
+17 of covered materials determined to be recyclable or compostable in the State of Rhode Island, using
+18 the following criteria:
+19 (i) Current availability of recycling and composting collection services;
+20 (ii) Recycling and composting processing infrastructure;
+21 (iii) Capacity and technology for sorting covered materials;
+22 (iv) Whether a covered material is of a type and form that is regularly sorted and aggregated
+23 into defined streams for recycling processes or is included in a relevant Institute of Scrap Recycling
+24 Industries specification or its successors;
+25 (v) Availability of responsible end markets;
+26 (vi) Presence and amount of processing residuals, contamination, and additives of high
+27 concern;
+28 (vii) Quantity of covered material estimated to be available and recoverable; and
+29 (viii) Projected future conditions for the criteria in this subsection;
+30 (8) Establish a process by which the department will consider adding to the recyclable or
+31 compostable list in subsection (7) of this section new materials as proposed by the packaging
+32 producer responsibility organization in a program plan;
+33 (9) Establish a process by which a packaging and paper product producer may request the
+34 department classify one or more types of packaging or products as an exempt material if the
+LC006008 - Page 21 of 59
+
+1 department determines that a specific federal or State of Rhode Island health and safety requirement
+2 prevents the packaging from being made reusable, recyclable, or compostable, with each
+3 classification determination lasting no more than two (2) years with the ability to be renewed;
+4 (10) Post on the department's website:
+5 (i) The most recent registration materials submitted by the packaging producer
+6 responsibility organization;
+7 (ii) A list of registered service providers;
+8 (iii) The most recent packaging program needs assessments;
+9 (iv) Any packaging plan or amendment submitted by a packaging producer responsibility
+10 organization or producer that is in draft form during the public comment period;
+11 (v) The most recent recyclable or compostable covered lists established as required under
+12 this section.
+13 (vi) The list of exempt materials as defined in this chapter and covered materials exempt
+14 from performance targets as approved in the packaging producer program plan;
+15 (vii) Links to producer responsibility organization websites;
+16 (viii) Comments of the public, advisory council, and producer responsibility organizations
+17 on packaging producer plans and needs assessments, and, if any, the responses of the department
+18 to those comments; and
+19 (ix) Links to adopted rules implementing this chapter;
+20 (11) Review and determine whether to approve the selection of independent auditors to
+21 perform an annual financial audit of each producer responsibility organization; and
+22 (12) Adopt any regulations necessary to implement this chapter.
+23 23-19.20-8. Packaging program needs assessments.
+24 (a) By June 1, 2028, the packaging producer responsibility organization shall complete an
+25 initial needs assessment, and provide an updated needs assessment every five (5) years thereafter.
+26 (b)(1) An initial needs assessment, and all subsequent updates, shall include at least the
+27 following:
+28 (i) An evaluation of:
+29 (A) Existing source reduction, refill, reuse, recycling, and composting capacity and
+30 infrastructure, as applicable, for each covered materials type, including collection rates, recycling
+31 rates, composting rates, reuse rates, and return rates, as applicable, for each covered materials type;
+32 (B) Current recycling rates, composting rates, reuse rates, and return rates for covered
+33 materials; and
+34 (C) The extent to which postconsumer recycled content, by the best estimate, is or could
+LC006008 - Page 22 of 59
+
+1 be incorporated into each covered materials type, as applicable, including a review of market and
+2 technical barriers to incorporating postconsumer materials into covered materials and of whether
+3 for certain covered materials more recycled content has a net negative environmental impact, with
+4 the evaluation for plastics, including a separate evaluation of rigid plastics by resin type and an
+5 evaluation for film and flexible plastics;
+6 (2) An evaluation of covered materials in the disposal, recycling, and composting streams
+7 to determine the covered materials types and amounts within each stream, using new studies
+8 conducted by the department or publicly available and applicable studies;
+9 (3) An evaluation of potential reuse, return, recycling, and composting rates for each
+10 covered materials type that could reasonably be accomplished within a five (5) year time frame in
+11 multiple units of measurement including, but not limited to, unit-based, weight-based, and volume-
+12 based;
+13 (4) Recommended collection methods by covered materials type to maximize collection
+14 efficiency, maximize feedstock quality, and optimize service and convenience for collection of
+15 covered materials to be considered or that are included on lists established;
+16 (5) An evaluation of potential plans and metrics for how to measure progress in achieving
+17 performance targets;
+18 (6) An inventory of the current system, including:
+19 (i) Tons of collected covered materials;
+20 (ii) Capacity at recycling facilities, compost facilities, drop-off collection sites, and transfer
+21 stations;
+22 (iii) Infrastructure, capacity, and performance for the existing covered services for covered
+23 materials operating in the State of Rhode Island;
+24 (iv) Availability and cost of covered services for covered materials to covered entities and
+25 any other location where covered materials are introduced, including identification of disparities in
+26 the availability of these services in environmental justice areas compared with other areas and
+27 proposals for reducing or eliminating those disparities;
+28 (7) An evaluation of investments needed to increase source reduction, reuse, return,
+29 recycling, and composting rates of covered materials to meet the proposed performance targets in
+30 § 23-19.20-9;
+31 (8) An assessment of the viability and robustness of markets for recyclable covered
+32 materials and the degree to which these markets can be considered responsible end markets;
+33 (9) An assessment of the level and causes of contamination of source-separated recyclable
+34 materials, source-separated compostable materials and collected reusables, and the impacts of
+LC006008 - Page 23 of 59
+
+1 contamination on service providers, including the cost to manage this contamination; and
+2 (10) Recommendations for meeting the criteria for an alternative collection program as
+3 established in this chapter, and in every subsequent needs assessment after the initial needs
+4 assessment, a review of existing alternative collection programs for each covered material listed to
+5 determine if the program is meeting the criteria in this chapter.
+6 (11) The department may modify what the packaging producer responsibility organization
+7 is required to include in the initial needs assessment and the needs assessment updates.
+8 (c) In conducting a needs assessment, the packaging producer responsibility organization
+9 shall:
+10 (1) Initiate a consultation process to obtain recommendations from the packaging program
+11 advisory council, political subdivisions, service providers and other interested parties regarding the
+12 type and scope of information that should be collected and analyzed in the needs assessment
+13 required by § 23-19.20-8;
+14 (2) Contract with a third party who is not a producer, a packaging producer responsibility
+15 organization, or a member of the advisory council to conduct the needs assessment; and
+16 (3) Prior to finalizing the needs assessment, make the draft needs assessment available for
+17 comment by the advisory council, the department, and the public.
+18 (d)(1) A service provider or other person with data or information necessary to complete a
+19 needs assessment shall provide the data or information to the packaging producer responsibility
+20 organization contractor conducting the needs assessment upon request.
+21 (2) The packaging producer responsibility organization contractor conducting the needs
+22 assessment shall aggregate and anonymize the data or information, excluding location data
+23 necessary to assess needs, received from all parties under subsection (d)(1) of this section.
+24 (e)(1) Within one hundred twenty (120) days of the completion of any needs assessment,
+25 the department shall review the needs assessment and either approve, modify, or deny it.
+26 (2) In making a determination under subsection (a) of this section, the department shall
+27 confirm:
+28 (i) All requirements of this section are met; and
+29 (ii) The needs assessment was produced with sufficient rigor and using an appropriate,
+30 evidence-based methodology, ensuring accuracy, reliability, and alignment with established best
+31 practices.
+32 (3) If the department denies or requests additional information for a needs assessment, the
+33 department shall provide the packaging producer responsibility organization with the reasons, in
+34 writing, that the needs assessment does not meet the requirements of this section. The packaging
+LC006008 - Page 24 of 59
+
+1 producer responsibility organization has sixty (60) days from the date that the rejection or request
+2 for additional information is received to submit to the department any revisions or additional
+3 information necessary for the approval of the needs assessment. The department shall review and
+4 approve or disapprove the needs assessment no later than sixty (60) days after the date the
+5 department receives the revisions or additional information.
+6 (4) A packaging producer responsibility organization may resubmit a needs assessment to
+7 the department on not more than two (2) occasions. If after the second resubmission, the department
+8 determines that the needs assessment does not meet the plan requirements of this chapter, the
+9 packaging producer responsibility organization shall pay a service provider to complete work in
+10 accordance with a scope of work provided by the department that will bring the needs assessment
+11 into compliance with this section.
+12 23-19.20-9. Packaging producer program plan.
+13 (a)(1) By January 1, 2029, and every five (5) years thereafter, a packaging producer
+14 responsibility organization shall submit a packaging producer program plan to the department that
+15 describes the proposed operation by the organization of programs to fulfill the requirements of this
+16 chapter and that incorporates the findings and results of needs assessments. If there is more than
+17 one packaging producer responsibility organization, they shall coordinate to submit a single
+18 packaging producer program plan. Once approved, a packaging producer program plan remains in
+19 effect for five (5) years, as amended, or until a subsequent packaging producer program plan is
+20 approved.
+21 (2) By January 1, 2029, and every five (5) years thereafter, an individual producer that has
+22 notified the department of its intent to submit an individual plan shall submit an individual plan to
+23 the department that describes the proposed operation by the producer of a program to fulfill the
+24 requirements of this chapter and that incorporates the findings and results of needs assessments.
+25 Once approved, an individual plan remains in effect for five (5) years, as amended, or until a
+26 subsequent individual plan is approved.
+27 (3) By July 1, 2030, or within six (6) months of plan approval, whichever is later, a
+28 packaging producer responsibility organization or individual producer shall implement a packaging
+29 producer program plan or individual plan. Subsequent packaging producer program plans shall be
+30 implemented within six (6) months of approval by the department.
+31 (b) A packaging producer responsibility organization or individual producer shall submit a
+32 draft packaging producer program plan, individual plan, or draft amendment to the advisory council
+33 prior to submitting the draft plan or draft amendment to the department and shall, prior to
+34 submission of the draft plan or draft amendment to the department, respond to advisory council
+LC006008 - Page 25 of 59
+
+1 comments and recommendations received within sixty (60) days of providing the draft program
+2 plan or draft amendment to the advisory council and indicate whether those comments or
+3 recommendations were accepted or rejected.
+4 (c) A draft packaging producer program plan or individual plan shall include at a minimum:
+5 (1) Proposed collection rate and recycling rate performance targets as applicable to each
+6 covered materials type to be accomplished within a five (5) year period;
+7 (2) Proposed performance targets for composting, source reduction, reuse, and return that:
+8 (i) Meet the requirements set by the department in § 23-19.20-9(a);
+9 (ii) Are informed by the latest needs assessment and the most recent State of Rhode Island
+10 solid waste management plan;
+11 (3) Proposed performance targets for post-consumer recycled content for covered materials
+12 that do not have sufficient end-markets, as well as any other covered materials the packaging
+13 producer responsibility organization deems appropriate;
+14 (4) A description of the methods of collection, how collection service convenience metrics
+15 shall be met, and processing infrastructure and covered services to be used for each covered
+16 materials type at covered entities, at a minimum, and how these shall meet the performance targets
+17 established for covered materials:
+18 (i) Included on the recyclable list established in this chapter;
+19 (ii) Included on the compostable list established in this chapter;
+20 (iii) That are reusable covered materials managed through a reuse system; and
+21 (iv) That are capable of refill and managed through a refill system;
+22 (5) Proposals for exemptions from performance targets for covered materials that cannot
+23 be source reduced or made reusable, recyclable, or compostable due to federal or State of Rhode
+24 Island health and safety requirements, identifying the specific federal or State of Rhode Island
+25 requirements and their impact on the covered materials;
+26 (6) A description of how, for each covered materials type, the producer responsibility
+27 organization shall measure recycling rates, reuse rates, return rates, composting rates, and the
+28 inclusion of postconsumer recycled content, including the relevant unit of measurement;
+29 (7) Third-party certifications as required by the department or voluntarily undertaken;
+30 (8) A budget identifying funding needs for each of the plan's five (5) calendar years,
+31 producer fees, a description of the process used to calculate the fees, and an explanation of how the
+32 fees meet the requirements of this chapter;
+33 (9)(i) As part of the proposed budget, the producer responsibility organization shall propose
+34 a percentage of its overall budget sufficient to achieve the proposed performance targets for
+LC006008 - Page 26 of 59
+
+1 reusable and refillable packaging;
+2 (ii) For the first program plan, the percentage of the packaging producer responsibility
+3 organization's budget that must be dedicated to investment in and support for producer's use of
+4 reusable and refillable packaging may not be less than five percent (5%). Upon submission of a
+5 packaging producer responsibility organization's subsequent program plans the budget for reusable
+6 and refillable packaging may be less than three percent (3%) if the resulting expenditures will be
+7 sufficient to achieve the approved reuse and return rates for the program;
+8 (10) A description of infrastructure investments, including goals and outcomes and a
+9 description of how the process to offer and select opportunities will be conducted in an open,
+10 competitive, and fair manner; how it will address gaps in the system not met by service providers;
+11 and potential financial and legal instruments to be used;
+12 (11) An explanation of how the program will be paid for by the producer responsibility
+13 organization through fees from producers, without any new or additional consumer-facing charge
+14 to members of the public, businesses, service providers, the State of Rhode Island or any political
+15 subdivisions, or any other person who is not a producer, unless the charge is:
+16 (i) A deposit made in connection with a product's refill, reuse, or recycling that can be
+17 redeemed by a consumer; or
+18 (ii) A charge for service by a service provider, regardless of whether registered;
+19 (12) An explanation of how the packaging producer responsibility organization will
+20 coordinate with the Rhode Island resource recovery corporation on implementation;
+21 (13) A description of activities to be undertaken by the packaging producer responsibility
+22 organization during each year to:
+23 (i) Foster the improved design of covered materials in accordance with the design attributes
+24 identified in this chapter on packaging and producer fee setting to reduce environmental and human
+25 health impacts;
+26 (ii) Provide funding to expand and increase the convenience of source reduction, reuse,
+27 refill, collection, recycling, and composting services to covered entities;
+28 (iii) Provide for contract rates to service providers for State of Rhode Island coverage of
+29 covered services at an optimal level of convenience and service for covered materials on the list
+30 established, to covered entities, at a minimum;
+31 (iv) Monitor to ensure that postconsumer materials are delivered to responsible end
+32 markets; and
+33 (v) Expand responsible end markets and incentivize the purchase of recycled content from
+34 only responsible markets that are domestic or North American;
+LC006008 - Page 27 of 59
+
+1 (14) Include terms and conditions for service agreements with service providers and
+2 templates of the service agreements;
+3 (15) Operational standards for service providers as applicable to the service provided
+4 including, but not limited to:
+5 (i) Accepting all covered materials on the recyclable or compostable list required under
+6 this chapter;
+7 (ii) Labor standards and safety practices including, but not limited to, safety programs,
+8 health benefits, and living wages; and
+9 (iii) Meets operating standards, such as capture rates, residual rates, and bale quality;
+10 (16) A description of how the packaging producer responsibility organization shall treat
+11 and protect nonpublic data submitted by service providers;
+12 (17) A description of how the packaging producer responsibility organization shall provide
+13 technical assistance to service providers in order to assist them in delivering covered materials to
+14 responsible end markets;
+15 (18) Minimum operational standards to protect the environment, public health, worker
+16 health and safety, and minimize adverse impacts to socially vulnerable populations;
+17 (19) A description of how the packaging producer responsibility organization shall increase
+18 public awareness, educate, and complete outreach activities that include culturally responsive
+19 materials and methods and evaluate the efficacy of these efforts;
+20 (20) Proposed alternative collection programs;
+21 (21) A description of how producers can purchase postconsumer materials from service
+22 providers at market prices if the producer is interested in obtaining recycled feedstock to achieve
+23 minimum postconsumer recycled content performance targets;
+24 (22) A list of additives of high concern and the credible scientific evidence forming the
+25 basis for this list;
+26 (23) A discussion of technical assistance provided to producers regarding additives of high
+27 concern in covered materials and actions taken by producers to reduce additives of high concern in
+28 covered materials; and
+29 (24) A summary of consultations held with the advisory council and other interested parties
+30 to provide input to the packaging producer program plan, a list of recommendations that were
+31 incorporated into the packaging producer program plan as a result, and a list of rejected
+32 recommendations and the reasons for rejection;
+33 (25) In approving the performance targets in this section, the department shall consider:
+34 (i) The findings of the needs assessment;
+LC006008 - Page 28 of 59
+
+1 (ii) Goals of the most recent State of Rhode Island solid waste management plan;
+2 (iii) With source reduction, the aim of eliminating unnecessary use of material while not
+3 compromising health or safety;
+4 (iv) With postconsumer recycled content, the net environmental impact of using more
+5 postconsumer material and the ability of packaging to include recycled content given health
+6 considerations, safety considerations, or its unique properties; and
+7 (v) With reuse rate, whether reusable containers shall be reused enough times to have a
+8 lower environmental impact than the single-use alternatives.
+9 (d)(1) The department shall review and approve, deny, or request additional information
+10 for packaging producer program plans, individual plans, or draft plan amendments no later than
+11 one hundred twenty (120) days after the date the department receives it from a packaging producer
+12 responsibility organization. The department shall post a draft plan or draft amendment on the
+13 department's website and allow public comment for no less than forty-five (45) days before
+14 approving, denying, or requesting additional information on a draft plan or draft amendment.
+15 (2) In reviewing draft plans, the department shall consider, among other factors, the
+16 following:
+17 (i) Feasibility;
+18 (ii) Advisory council feedback;
+19 (iii) Cost;
+20 (iv) Goals and plans in the Rhode Island solid waste management plan;
+21 (v) Increasing reuse, including the proposed percentage of budget funds proposed by the
+22 PRO that must be dedicated to reuse and refill; and
+23 (vi) Reducing unnecessary use of materials.
+24 (3) If the department denies or requests additional information for a draft plan or draft
+25 amendment, the department shall provide the packaging producer responsibility organization or
+26 producer with the reasons, in writing, that the plan or plan amendment does not meet the plan
+27 requirements in this chapter. The packaging producer responsibility organization or producer has
+28 sixty (60) days from the date that the rejection or request for additional information is received to
+29 submit to the department any revisions or additional information necessary for the approval of the
+30 draft plan or draft amendment. The department shall review and approve or disapprove the draft
+31 plan or draft amendment no later than sixty (60) days after the date the department receives the
+32 revisions or additional information.
+33 (4) A packaging producer responsibility organization or producer may resubmit a draft plan
+34 or draft amendment to the department on not more than two (2) occasions. If after the second
+LC006008 - Page 29 of 59
+
+1 resubmission, the department determines that the draft plan or draft amendment does not meet the
+2 plan requirements of this chapter, the department shall modify the draft plan or draft amendment
+3 as necessary for it to meet the requirements of this chapter and approve it.
+4 23-19.20-10. Packaging performance target methodology.
+5 (a)(1) For purposes of determining whether recycling performance targets are being met,
+6 except as modified by the department, the packaging producer program plan or individual plan shall
+7 provide a methodology for measuring the amount of recycled material at the point at which material
+8 leaves a recycling facility and shall account for:
+9 (i) Levels of estimated contamination documented by the facility; and
+10 (ii) Any exclusions for fuel or energy capture.
+11 (2) For purposes of determining whether reuse and return performance targets are being
+12 met, a packaging producer program plan or individual plan shall provide a methodology for
+13 measuring the amount of reusable covered materials at the point at which reusable covered
+14 materials meet the following criteria as demonstrated by the producer and approved by the
+15 department:
+16 (i) Whether the average minimum number of cycles of reuses within a recognized reuse
+17 system has been met based on the number of times an item shall be reused for it to have lower
+18 environmental impacts than the single-use alternatives of those items; and
+19 (ii) Whether the demonstrated or research-based anticipated return rate of the covered
+20 material to the reuse system has been met.
+21 (3) For purposes of determining whether postconsumer recycled content performance
+22 targets are being met, a packaging producer program plan or individual plan shall provide a
+23 methodology for measuring postconsumer recycled content across all producers for a covered
+24 materials type where producers may determine their postconsumer recycled content based on their
+25 United States market territory if State of Rhode Island-specific postconsumer recycled content is
+26 impractical to determine.
+27 (4) For other performance targets, the producer responsibility organization or individual
+28 plan shall propose methodologies for review and approval as part of the packaging producer
+29 program plan and recycling refund producer program plan.
+30 (b)(1) A packaging producer responsibility organization shall implement an alternative
+31 collection program for covered materials included on an alternative collection list established under
+32 this chapter that:
+33 (i) Provides year-round, convenient, collection opportunities across the State of Rhode
+34 Island, including at least one drop-off collection site located in each municipality;
+LC006008 - Page 30 of 59
+
+1 (ii) Provides tiers of service for collection, convenience, number of drop-off collection
+2 sites, and additional collection systems based on:
+3 (A) Municipal population size;
+4 (B) Municipal population density;
+5 (iii) Ensures materials are sent to responsible end markets;
+6 (iv) Uses education and outreach strategies that can be expected to significantly increase
+7 consumer awareness of the program throughout the State of Rhode Island; and
+8 (v) Accurately measures the amount of each covered material collected and the applicable
+9 performance target.
+10 (c) The department, in consultation with an advisory council, may require that a packaging
+11 producer responsibility organization, recycling refund producer responsibility organization, or
+12 individual producer operating an individual plan obtain and pay for a third-party certification of
+13 any activity or achievement required by this chapter if a third-party certification is readily available,
+14 deemed applicable, and of reasonable cost. The department shall provide a producer responsibility
+15 organization or individual producer with notice of at least six (6) months prior to requiring use of
+16 third-party certification.
+17 23-19.20-11. Producer fees.
+18 (a) By September 1, 2028, each producer that is a member of the packaging producer
+19 responsibility organization shall submit an initial fee to the packaging producer responsibility
+20 organization, as determined by the initial fee schedule developed under § 23-19.19-3(5).
+21 (b)(1) Beginning January 1, 2030, a packaging producer responsibility organization shall
+22 annually collect a fee from each member producer that shall:
+23 (i) Vary based on the total amount of covered materials each producer introduces in the
+24 prior year calculated on a per-unit basis, such as per ton, per item, or another unit of measurement;
+25 (ii) Reflect the program costs for each covered materials type, net of commodity value for
+26 that covered materials type, as well as allocated fixed costs that do not vary based on covered
+27 materials type;
+28 (iii) Create incentives to reduce environmental impacts, which shall include:
+29 (A) Reducing the amount of:
+30 (I) Packaging per individual covered material that is necessary to efficiently deliver a
+31 product without damage or spoilage and without reducing its ability to be recycled;
+32 (II) Paper used to manufacture individual paper products; and
+33 (III) Additives of high concern;
+34 (B) Increasing:
+LC006008 - Page 31 of 59
+
+1 (I) The amount of covered materials managed in a reuse system that are reused the number
+2 of times needed to have lower environmental impacts than the single-use alternatives of those
+3 items; and
+4 (II) Increasing the proportion of postconsumer material in covered materials while
+5 considering technical limitations and net environmental impact of using more postconsumer
+6 material; and
+7 (C) Enhancing the recyclability or compostability of a covered material;
+8 (iv) Discourage using materials and design attributes in covered materials whose
+9 environmental impacts and human health impacts can be reduced by the methods listed within this
+10 section; and
+11 (v) Generate revenue sufficient to pay in full:
+12 (A) The required fees, including both one-time and annual registration fees required under
+13 § 23- 19.20-2(f);
+14 (B) Financial obligations to complete activities described in an approved packaging
+15 producer program plan, including payments to service providers;
+16 (C) The operating costs of the producer responsibility organization; and
+17 (D) For establishment and maintenance of a financial reserve that is sufficient to operate
+18 the program in a fiscally prudent and responsible manner.
+19 (2) A packaging producer responsibility organization shall not charge de minimis
+20 producers an annual fee.
+21 (3) Fees for reusable and refillable packaging:
+22 (i) Shall be lower than fees for single use packaging for the first two (2) program plan
+23 periods, after which time the producer responsibility organization may propose an alternative
+24 incentive for reusable and refillable packaging; and
+25 (ii) Shall incentivize producers to achieve maximum return rates for reusable and refillable
+26 packaging.
+27 (c) Revenue collected under this section that exceeds the amount needed to pay the costs
+28 described herein, shall be used to improve or enhance program outcomes or to reduce producer fees
+29 according to provisions of an approved packaging producer program plan.
+30 (d) Fees collected under this section may not be used for lobbying.
+31 23-19.20-12. Packaging producer responsibility organization website requirements.
+32 (a) A packaging producer responsibility organization shall maintain a website that uses best
+33 practices for accessibility.
+34 (b) The packaging producer responsibility organization website shall contain, at a
+LC006008 - Page 32 of 59
+
+1 minimum:
+2 (1) Information regarding a process that members of the public can use to contact the
+3 relevant producer responsibility organization with questions;
+4 (2) The draft and approved packaging producer program plans and any draft and approved
+5 amendments;
+6 (3) Annual reports submitted to the department;
+7 (4) A link to related administrative rules implementing this chapter;
+8 (5) The names of producers and brands that are not in compliance with this chapter; and
+9 (6) A list, updated at least monthly, of all member producers operating under the packaging
+10 producer program plan or recycling refund program plan.
+11 (c) In addition to the requirements in subsection (b) of this section, the packaging producer
+12 responsibility organization website shall have:
+13 (1) A directory of all service providers operating under the packaging producer program
+14 plan administered by the packaging producer responsibility organization, grouped by location or
+15 political subdivision, and information about how to request service;
+16 (2) Information for State of Rhode Island residents on what to do with materials on the
+17 recyclable and compostable lists as well as information on how to return reusable covered materials
+18 and covered beverage containers;
+19 (3) The list of exempt materials as defined in this chapter and covered materials exempt
+20 from performance targets as approved in the packaging producer program plan;
+21 (4) Current approved performance targets and past performance targets and a summary of
+22 whether these were met;
+23 (5) Current and all past needs assessments; and
+24 (6) Education materials on source reduction, reuse, recycling, and composting for
+25 producers and the general public.
+26 23-19.20-13. Packaging program reporting.
+27 (a)(1) By July 1, 2031, and annually thereafter, a packaging producer responsibility
+28 organization or producer operating under an approved individual plan shall submit a report to the
+29 department that contains, at a minimum, the following information for the previous calendar year:
+30 (i) The total amount of covered materials introduced, by each covered materials type, by
+31 both weight and number of units;
+32 (ii) Progress made toward the performance targets reported in the same units used to
+33 establish producer fees and reported for the State of Rhode Island, including:
+34 (A) The amount of covered materials successfully source reduced, reused, recycled, and
+LC006008 - Page 33 of 59
+
+1 composted by covered materials type and the strategies or collection method used; and
+2 (B) Information about third-party certifications obtained;
+3 (C) Where performance targets are not being met, an explanation of why the packaging
+4 producer responsibility organization believes the targets are not being met, and how the packaging
+5 producer responsibility organization intends to achieve performance targets;
+6 (iii) The total cost to implement the program and a detailed description of program
+7 expenditures by category, including:
+8 (A) The total amount of producer fees collected;
+9 (B) A description of infrastructure investments made; and
+10 (C) A breakdown of payments by covered services, covered entities, and regions of the
+11 State of Rhode Island;
+12 (iv) A copy of a financial audit of program operations conducted by an independent auditor
+13 approved by the department that meets the requirements of the Financial Accounting Standards
+14 Board's Accounting Standards Update 2016-14, Not-for-Profit Entities (Topic 958), as amended;
+15 (v) A description of program performance problems that emerged in specific locations and
+16 efforts taken or proposed by the producer responsibility organization to address them;
+17 (vi) A description of public awareness, education, and outreach activities undertaken,
+18 including any evaluations conducted of their efficacy;
+19 (vii) A summary of consultations held with the advisory council and how any feedback
+20 was incorporated into the report as a result, together with a list of rejected recommendations and
+21 the reasons for rejection;
+22 (viii) A list of producers found to be out of compliance with this chapter and actions taken
+23 by the producer responsibility organization to return producers to compliance, and notification of
+24 any producers that are no longer participating in the producer responsibility organization or have
+25 been expelled due to their lack of compliance;
+26 (ix) Proposed amendments to the packaging producer program plan to improve program
+27 performance or reduce costs, including changes to producer fees, infrastructure investments, or
+28 contract rates;
+29 (x) Recommendations for additions or removal of covered materials to or from the
+30 recyclable or compostable covered materials lists developed under this chapter; and
+31 (xi) Information requested by the department to evaluate the effectiveness of the program
+32 as it is described in the packaging producer program plan and to assist with determining compliance
+33 with this chapter.
+34 (2) If there is more than one packaging producer responsibility organization, they shall
+LC006008 - Page 34 of 59
+
+1 coordinate to submit a single annual report.
+2 (3) Every fourth year after a packaging producer program plan or individual plan is
+3 approved by the department, a performance audit of the program shall be completed by the
+4 packaging producer responsibility organization or individual producer operating an approved
+5 individual plan. The performance audit shall conform to audit standards established by the United
+6 States Government Accountability Office; the National Association of State Auditors,
+7 Comptrollers, and Treasurers; or another nationally recognized organization approved by the
+8 department.
+9 (b) A packaging producer responsibility organization or individual producer operating an
+10 individual plan that fails to meet a performance target required under this chapter or approved in a
+11 packaging producer program plan or individual plan shall, within ninety (90) days of filing an
+12 annual report under this section, file with the department an explanation of the factors contributing
+13 to the failure and propose an amendment to the packaging producer program plan or individual plan
+14 specifying changes in operations that the packaging producer responsibility organization, recycling
+15 refund producer responsibility organization, or individual producer will make that are designed to
+16 achieve the performance targets.
+17 (c) If the approved reuse or return rate targets have not been met, the packaging producer
+18 responsibility organization or individual producer shall increase the proportion of the overall
+19 program budget dedicated to reuse and refill for the following program year.
+20 23-19.20-14. Packaging producer responsibility program account.
+21 (a) The packaging producer responsibility account is established as a separate restricted
+22 receipt account in the State of Rhode Island treasury department established pursuant to the
+23 provisions of chapter 10 of title 42.
+24 (b) Appropriations and transfers to the account and fees collected shall be credited to the
+25 account. Earnings, such as interest, dividends, and any other earnings arising from assets of the
+26 account, shall be credited to the account. Money remaining in the account at the end of a fiscal year
+27 does not revert to the general fund but remains in the account until expended.
+28 (c) Money from the account is appropriated to the department to pay the reasonable costs
+29 of the department to administer this chapter.
+30 CHAPTER 19.21
+31 EXTENDED PRODUCER RESPONSIBILITY FOR PACKAGING AND PAPAER ACT
+32 23-19.21-1. Registration of recycling refund producer responsibility organization.
+33 (a)(1) By January 1, 2027, the department shall accept applications from recycling refund
+34 producer responsibility organizations to represent beverage producers in fulfilling the requirements
+LC006008 - Page 35 of 59
+
+1 of this chapter.
+2 (2) By March 1, 2027, the department may approve, for a period not to exceed five (5)
+3 years, a single recycling refund producer responsibility organization if the recycling refund
+4 producer responsibility organization demonstrates that it:
+5 (i) Is an independent nonprofit organization that qualifies for tax exemption under 26
+6 U.S.C. § 501(c)(3) of the federal Internal Revenue Code;
+7 (ii) Has the ability to administer the requirements of a recycling refund program plan under
+8 this chapter;
+9 (iii) Has a governing board consisting of beverage producers that represent the diversity of
+10 beverage containers in the market;
+11 (iv) Has adequate financial responsibility and financial controls to ensure proper
+12 management of funds and payment of the registration fee required under this section; and
+13 (v) Meets any other reasonable requirements set by the department.
+14 (b) By January 1, 2027, an individual beverage producer may notify the department of its
+15 intent to submit an individual plan for approval by the department, and comply individually with
+16 all relevant requirements of this chapter.
+17 (c)(1) By November 1, 2027, the recycling refund producer responsibility organization
+18 shall submit a one-time payment to the department, in lieu of a registration fee, in an amount
+19 determined by the department, to cover the previously incurred costs and future estimated costs of
+20 the department under this chapter from the effective date of this chapter through paying the annual
+21 registration fee required. By August 1, 2027, the department shall provide written notice to
+22 registered packaging producer responsibility organization of the amount of the registration fee.
+23 (2) On July 1, 2028, and on each July 1 thereafter, the recycling refund producer
+24 responsibility organization shall submit to the department a registration fee, as determined by the
+25 department. By May 1, 2028, and on each May 1 thereafter, the department shall provide written
+26 notice to the registered recycling refund producer responsibility organization of the amount of the
+27 registration fee. The registration fee shall be set at an amount anticipated to in the aggregate meet,
+28 but not exceed the department's estimate of the costs required to perform the department's duties
+29 and to otherwise administer, implement, and enforce this chapter for the twelve (12) months after
+30 the registration date. Enforcement activities by the department shall include measures to identify
+31 and enforce against fraudulent activity.
+32 (3) On July 1, 2028, and on each July 1 thereafter, a beverage producer that notifies the
+33 department of its intent to submit an individual plan shall make payments in amounts determined
+34 by the department to cover the amount anticipated to meet, but not exceed the department's estimate
+LC006008 - Page 36 of 59
+
+1 of the costs required to perform the department's duties related to that beverage producer's
+2 individual plan and to otherwise administer, implement, and enforce the individual plan;
+3 (4) The department shall annually reconcile the fees paid by a recycling refund producer
+4 responsibility organization under this subsection with the actual costs incurred by the department
+5 by means of credits or refunds to or additional payments required of a producer responsibility
+6 organization, as applicable.
+7 (d) All fees received under this section shall be deposited in the state treasury and credited
+8 to the recycling refund program account.
+9 (e)(1) The department may revoke the approval of the recycling refund producer
+10 responsibility organization if the department determines that the recycling refund producer
+11 responsibility organization:
+12 (i) Failed to meet the redemption rate targets four (4) years in a row; and
+13 (ii) Has not made reasonable progress over this four (4) year period toward compliance.
+14 (2) If the department exercises its authority under subsection (a) of this section, then:
+15 (i) The department shall set dates to restart the appointment process; and
+16 (ii) The previously approved recycling refund producer responsibility organization shall
+17 continue operating until the department appoints a new recycling refund producer responsibility
+18 organization.
+19 23-19.21-2. Recycling refund producer responsibility organization duties.
+20 A recycling refund producer responsibility organization shall:
+21 (1) Register with the department and pay the department fees, as required pursuant to § 23-
+22 19.20-1;
+23 (2) Submit a recycling refund producer plan to the department, as required under this
+24 chapter;
+25 (3) Implement recycling refund producer plans approved by the department under this
+26 section;
+27 (4) Establish by September 1, 2027, an initial beverage producer fee structure to fund the
+28 initial implementation of the program, to be used until the recycling refund producer responsibility
+29 organization has an approved program plan as required under this chapter;
+30 (5) Collect fees from registered beverage producers;
+31 (6) Submit the reports required under this chapter;
+32 (7) Ensure that beverage producers operating under a recycling refund program plan
+33 administered by the recycling refund producer responsibility organization comply with the
+34 requirements of the recycling refund program plan and with this chapter;
+LC006008 - Page 37 of 59
+
+1 (8) Expel a beverage producer from the recycling refund producer responsibility
+2 organization if efforts to return the beverage producer to compliance with the plan or with the
+3 requirements of this chapter are unsuccessful;
+4 (9) Notify the department when a beverage producer has been expelled;
+5 (10) Consider and respond in writing within ninety (90) days to comments received from
+6 the advisory council, including justifications for not incorporating advisory council
+7 recommendations;
+8 (11) Maintain a website with the information required under § 23-19.20-10;
+9 (12) Notify the department within thirty (30) days of a change made to the contact
+10 information for a person responsible for implementing the recycling refund program plan, to board
+11 membership, or to the executive director;
+12 (13) Contract directly with service providers and provide payments in a timely manner;
+13 and
+14 (14) Comply with all other applicable requirements of this chapter.
+15 23-19.21-3. Recycling refund advisory council.
+16 (a) The recycling refund advisory council is established to review all activities conducted
+17 by recycling refund producer responsibility organizations under this chapter and to advise the
+18 department and recycling refund producer responsibility organizations regarding the
+19 implementation of this chapter.
+20 (b) The recycling refund advisory council shall:
+21 (1) Convene its initial meeting by July 1, 2027;
+22 (2) Establish when and a process by which it will accept public comments;
+23 (3) Review the recycling refund program plan and provide comments to the recycling
+24 refund producer responsibility organization, prior to the draft being issued as an official draft for
+25 public comment, to ensure the recycling refund program plan:
+26 (i) Aligns with best practices;
+27 (ii) Reflects the reality in the State of Rhode Island; and
+28 (iii) Considers the needs of the State of Rhode Island;
+29 (4) Review program reports and audits and raise issues for recycling refund producer
+30 responsibility organization follow-up or department enforcement action;
+31 (5) Review annual reports and provide comments to the department;
+32 (6) Ensure that the recycling refund producer responsibility organization and department
+33 are considering a broad range of perspectives in developing recycling refund program plans and in
+34 implementing programs.
+LC006008 - Page 38 of 59
+
+1 (c)(1) By March 1, 2027, the department shall establish and appoint the initial membership
+2 of the recycling refund advisory council. The membership of the recycling refund advisory council
+3 shall consist of representatives of the following:
+4 (i) Two (2) members representing a local government entity;
+5 (ii) One member representing a retailer, with a preference for a retailer that hosts beverage
+6 container collection mechanisms;
+7 (iii) One member representing a packaging manufacturer that is not a beverage producer;
+8 (iv) One member representing Rhode Island resource recovery corporation or a recycling
+9 processor;
+10 (v) One member representing an environmental nonprofit organization;
+11 (vi) One member representing an environmental justice organization;
+12 (vii) One member who is a canner or represents a canner organization;
+13 (viii) One member representing a labor organization; and
+14 (ix) Two (2) members representing other interested parties or additional members of
+15 interests, as determined by the department;
+16 (2) In making appointments under subsection (c) of this section, the department:
+17 (i) Shall not appoint members who are state legislators;
+18 (ii) Shall not appoint members who are employees of a beverage producer required to be
+19 members of a producer responsibility organization in this state;
+20 (iii) Shall endeavor to appoint members from all regions of the state; and
+21 (iv) Shall endeavor to appoint at least one member that has experience with or expertise in
+22 reusable beverage container systems.
+23 (3) A chair is elected by majority vote of present members at the first meeting of each year
+24 at which a quorum is reached.
+25 (d) Members shall serve for a term of four (4) years, except that the initial term for a
+26 majority of the initial appointees shall be two (2) years so that membership terms are staggered.
+27 Members may be reappointed but may not serve more than eight (8) consecutive years. A member
+28 of the advisory council appointed under subsection (c)(1)(ix) of this section, serves at the pleasure
+29 of the department.
+30 (e) A quorum is reached when:
+31 (1) A majority of advisory council member seats are filled; and
+32 (2) A majority of the non-vacant advisory council member seats is present.
+33 (f) Action by an advisory council requires a quorum and a majority of those present and
+34 voting. All members of an advisory council, except the members appointed under subsection
+LC006008 - Page 39 of 59
+
+1 (c)(1)(ix) of this section, are voting members of the board.
+2 (g) Each advisory council shall meet at least two (2) times per year and may meet more
+3 frequently upon ten (10) days' written notice at the request of the chair or a majority of its members.
+4 (h)(1) The department shall provide administrative and operating support to each advisory
+5 council, and the department may contract with a third-party facilitator to assist in administering the
+6 activities of each advisory council, including establishing a website or landing page on the
+7 department website.
+8 (2) The department shall assist the advisory council in developing policies and procedures
+9 governing the disclosure or perceived conflict of interest.
+10 23-19.21-4. Beverage producer responsibilities.
+11 (a) After September 1, 2027, a beverage producer shall be a member of a recycling refund
+12 producer responsibility organization registered in this state or notify the department of their intent
+13 to submit an individual program plan.
+14 (b) Unless submitting an individual plan, a beverage producer shall:
+15 (1) Register with the recycling refund producer responsibility organization;
+16 (2) Implement the requirements of the recycling refund program plan under which the
+17 beverage producer operates;
+18 (3) Pay producer fees pursuant to § 23-19.21-9;
+19 (4) Provide necessary information for covered beverage containers to the recycling refund
+20 producer responsibility organization at a frequency and by a date to be determined by the recycling
+21 refund producer responsibility organization;
+22 (5) Register with the recycling refund producer responsibility organization by providing
+23 identifying information for all covered beverage containers introduced into the state as required by
+24 the recycling refund producer responsibility organization, which may include, but is not limited to,
+25 barcodes and Universal Product Codes; and
+26 (6) Comply with all other applicable requirements of this chapter.
+27 23-19.21-5. Beverage container sales restrictions.
+28 After July 1, 2030, no beverage producer may introduce in or into the state a covered
+29 beverage container of a beverage producer that is not participating in the recycling refund producer
+30 responsibility organization or operating under an approved individual plan, or that is not in
+31 compliance with the requirements of this chapter or rules adopted under this chapter.
+32 23-19.21-6. Recycling refund program department responsibilities.
+33 (a) The department shall:
+34 (1) Appoint the initial membership of the advisory council, as required;
+LC006008 - Page 40 of 59
+
+1 (2) Provide administrative and operating support to the advisory council;
+2 (3) Review and determine whether to approve recycling refund program plans or individual
+3 plans and amendments to recycling refund program plans or individual plans;
+4 (4) Post on the department's website:
+5 (i) The most recent registration materials submitted by the producer responsibility
+6 organizations;
+7 (ii) A list of registered service providers;
+8 (iii) Any plan or amendment submitted by a packaging producer responsibility organization
+9 or beverage producer that is in draft form during the public comment period;
+10 (iv) Comments of the public, advisory council, and recycling refund producer
+11 responsibility organization on plans and needs assessments, and, if any, the responses of the
+12 department to those comments;
+13 (v) Links to adopted rules implementing this chapter;
+14 (vi) Review the selection of independent auditors to perform an annual financial audit of
+15 the recycling refund producer responsibility organization or a beverage producer operating under
+16 an approved individual plan; and
+17 (vii) Conduct enforcement actions as permitted under this chapter.
+18 (b) The department may alter the performance targets of § 23-19.21-8 and reporting
+19 requirements of this chapter to accommodate a recycling refund producer responsibility
+20 organization that is operating regionally with the State of Rhode Island and one or more
+21 neighboring states.
+22 23-19.21-7. Recycling refund program plan.
+23 (a)(1) By January 1, 2029, and every five (5) years thereafter, a recycling refund producer
+24 responsibility organization shall submit a recycling refund program plan to the department that
+25 describes the proposed operation by the organization of the program to fulfill the requirements of
+26 this chapter. Once approved, a recycling refund program plan remains in effect for five (5) years,
+27 as amended, or until a subsequent recycling refund program plan is approved.
+28 (2) By July 1, 2030, or within six (6) months of plan approval, whichever is later,
+29 implement the plan approved by the department; subsequent recycling refund program plans shall
+30 be implemented within six (6) months of approval by the department.
+31 (3) By January 1, 2029, and every five (5) years thereafter, an individual beverage producer
+32 that has notified the department of its intent to submit an individual plan shall submit an individual
+33 plan to the department that describes the proposed operation by the beverage producer of a program
+34 to fulfill the requirements of this chapter and that incorporates the findings and results of needs
+LC006008 - Page 41 of 59
+
+1 assessments. Once approved, an individual plan remains in effect for five (5) years, as amended, or
+2 until a subsequent individual plan is approved.
+3 (b) A recycling refund producer responsibility organization or beverage producer shall
+4 submit a draft recycling refund producer program plan, individual plan, or draft amendment to the
+5 recycling refund advisory council prior to submitting the draft plan or draft amendment to the
+6 department and shall, prior to submission of the draft plan or draft amendment to the department,
+7 respond to recycling refund advisory council comments and recommendations received within
+8 sixty (60) days of providing the draft program plan or draft amendment to the recycling refund
+9 advisory council and indicate whether those comments or recommendations were accepted or
+10 rejected.
+11 (c) The recycling refund program plan or individual plan shall contain the following:
+12 (1) A list of the types of covered beverage containers that will be included in the recycling
+13 refund program,
+14 (2) Proposed reuse rate and return rate performance targets with deadlines;
+15 (3) How the recycling refund producer responsibility organization or beverage producer
+16 submitting an individual plan will meet performance targets for redemption rates, as described in
+17 this chapter and the proposed reuse rate performance targets in § 23-19.21-8;
+18 (4) How the performance targets shall be measured;
+19 (5) How the recycling refund producer responsibility organization shall encourage
+20 improvements in the design of beverage containers for recyclability;
+21 (6) How the proposed network of redemption sites:
+22 (i) Satisfies the convenience standards set in this chapter and addresses the evaluation
+23 criteria established in this chapter and chapters 19.20 and 19.22 of this title; and
+24 (ii) Provides sufficient opportunity for consumers of limited economic means to get their
+25 applicable refund value immediately upon redemption;
+26 (7) How deposits collected from consumers shall be remitted to the recycling refund
+27 producer responsibility organization;
+28 (8) What incentives the recycling refund producer responsibility organization shall provide
+29 to retail establishments so that they choose to host covered beverage container collection
+30 mechanisms;
+31 (9) How the program shall ensure that collection of covered beverage containers is
+32 provided from establishments with on-site consumption of covered beverage containers at no
+33 additional cost to those establishments;
+34 (10) How the program shall conduct outreach and provide convenient redemption:
+LC006008 - Page 42 of 59
+
+1 (i) Throughout the state;
+2 (ii) In rural, urban, and environmental justice areas; and
+3 (iii) To those that redeem relatively large amounts of covered beverage containers;
+4 (11) How beverage containers shall be marked or consumers otherwise made aware of the
+5 beverage containers eligible for the applicable refund value;
+6 (12) A description of how the recycling refund producer responsibility organization shall
+7 educate the public on the recycling refund program and the availability of redemption sites,
+8 including culturally responsive materials and methods to evaluate the efficacy of these efforts;
+9 (13) A description of how the recycling refunds producer responsibility organization shall
+10 monitor and report any suspected instances of fraudulent activity to the department;
+11 (14) A description of the producer fee structure established pursuant to § 23-19.21-9 and
+12 how those fees shall be used to support the proposed network of redemption sites and other costs
+13 of administrating the recycling refund producer responsibility organization and the recycling refund
+14 program plan;
+15 (15) An explanation of how the recycling refund producer responsibility organization shall
+16 coordinate with Rhode Island resource recovery corporation on implementation, including:
+17 (i) Quality standards for bales or equivalent units of commodities of covered beverage
+18 containers sorted by the Rhode Island resource recovery corporation, including a methodology for
+19 determining the number of covered beverage containers in bales or equivalent units of
+20 commodities;
+21 (ii) A methodology and schedule of incentive payments for bales or equivalent units of
+22 covered beverage containers that meet the quality standards in subsection (15)(i) of this section.
+23 The incentive payments under this subsection are a requirement separate from and in addition to
+24 the reciprocal compensation mechanism required under the coordination plan in § 23-19.21-2;
+25 (16) A description of how the recycling refunds producer responsibility organization shall
+26 provide beverage producers with the opportunity to purchase recycled content sourced from
+27 covered beverage containers managed through the recycling refunds program; and
+28 (17) Any other reasonable information requested by the department.
+29 (d)(1) The department shall review and approve, deny, or request additional information
+30 for draft recycling refund program plans and draft plan amendments no later than one hundred
+31 twenty (120) days after the date the department receives it from a packaging producer responsibility
+32 organization, recycling refund producer responsibility organization, or beverage producer. The
+33 department shall post a draft plan or draft amendment on the department's website and allow public
+34 comment for no less than forty-five (45) days before approving, denying, or requesting additional
+LC006008 - Page 43 of 59
+
+1 information on a draft plan or draft amendment.
+2 (2) In reviewing a draft plan, the department shall consider, among other factors, the
+3 following:
+4 (i) Feasibility;
+5 (ii) Advisory council feedback;
+6 (iii) Cost;
+7 (iv) Goals and plans in the Rhode Island solid waste management plan;
+8 (v) Increasing reuse;
+9 (vi) Adequacy of consumer-facing communications, including so consumers know which
+10 beverage containers are in the recycling refund system and their refund value;
+11 (vii) Reducing unnecessary use of materials; and
+12 (viii) Whether the plan adequately meets the convenience standard criteria described in §
+13 23- 19.21-12.
+14 (3) If the department denies or requests additional information for a draft plan or draft
+15 amendment, the department shall provide the recycling refund producer organization or beverage
+16 producer with the reasons, in writing, that the plan or plan amendment does not meet the plan
+17 requirements. The recycling refund producer organization or beverage producer has sixty (60) days
+18 from the date that the rejection or request for additional information is received to submit to the
+19 department any revisions or additional information necessary for the approval of the draft plan or
+20 draft amendment. The department shall review and approve or disapprove the draft plan or draft
+21 amendment no later than sixty (60) days after the date the department receives the revisions or
+22 additional information.
+23 (4) A recycling refund producer organization or beverage producer with an approved
+24 individual plan may resubmit a draft plan or draft amendment to the department on not more than
+25 two (2) occasions. If after the second resubmission, the department determines that the draft plan
+26 or draft amendment does not meet the plan requirements of this chapter, the department shall
+27 modify the draft plan or draft amendment as necessary for it to meet the requirements of this chapter
+28 and approve it.
+29 (e) If a recycling refund producer responsibility organization fails to register with the
+30 department and submit a program plan by the relevant dates in this chapter, the department may
+31 develop a program plan for covered beverage containers. Beverage producers that do not notify the
+32 department of their intent to submit an individual plan shall be subject to the program plan
+33 developed by the department.
+34 23-19.21-8. Recycling refund performance targets.
+LC006008 - Page 44 of 59
+
+1 (a) The recycling refund producer responsibility organization or beverage producer
+2 operating under an individual plan shall achieve the following performance targets:
+3 (1) Starting with calendar year 2033, and each year thereafter, the annual redemption rate
+4 aggregated for all covered beverage containers shall be greater than sixty-five percent (65%).
+5 (2) Starting with calendar year 2036, and each year thereafter, the annual redemption rate
+6 aggregated for all covered beverage containers shall be greater than eighty-five percent (85%).
+7 (b)(1) The recycling refund producer responsibility organization or beverage producer
+8 operating an individual plan shall achieve the reuse rate and return rate performance target in the
+9 approved recycling refund program plan.
+10 (2) The reuse rate and return rate performance targets in a program plan shall increase with
+11 each subsequent program plan for the first three (3) program plan periods.
+12 23-19.21-9. Recycling refund producer fees.
+13 (a) By September 1, 2028, each beverage producer that is a member of the recycling
+14 refunds producer responsibility organization shall submit an initial fee to the recycling refunds
+15 producer responsibility organization, as determined by the initial fee schedule developed under §
+16 23-19.21-2(a)(4).
+17 (b)(1) Beginning January 1, 2030, a recycling refunds producer responsibility organization
+18 shall set and collect fees on a frequency to be determined by the recycling refunds producer
+19 responsibility organization from each member producer that must:
+20 (i) Vary based on the total amount of covered beverage containers each producer introduces
+21 into the state;
+22 (ii) Reflect program costs for each covered beverage container type, net of commodity
+23 value for that material type when used as a recycled material, as well as allocated fixed costs that
+24 do not vary based on material type;
+25 (iii) After the first program plan, each recycling refunds producer responsibility
+26 organization will consider incentivizing using materials and design attributes that reduce the
+27 environmental impacts and human health impacts of covered beverage containers;
+28 (2) The recycling refund producer responsibility organization shall offer a flat fee structure
+29 for de minimis beverage producers.
+30 (c) Revenue collected under this section that exceeds the amount needed to pay the costs
+31 described in subsection (a) of this section, shall be used to improve or enhance program outcomes,
+32 or to reduce beverage producer fees according to provisions of an approved packaging producer
+33 program plan.
+34 (d) Fees collected under this section may not be used for lobbying.
+LC006008 - Page 45 of 59
+
+1 23-19.21-10. Recycling refund website requirements.
+2 (a) A recycling refund producer responsibility organization shall maintain a website that
+3 uses best practices for accessibility.
+4 (b) The recycling refund producer responsibility organization website shall contain, at a
+5 minimum:
+6 (1) Information regarding a process that members of the public can use to contact the
+7 recycling refund producer responsibility organization with questions;
+8 (2) The draft and approved recycling refund program plans and any draft and approved
+9 amendments;
+10 (3) Annual reports submitted to the department;
+11 (4) A link to related administrative rules implementing this chapter;
+12 (5) The names of beverage producers that are not in compliance with this chapter;
+13 (6) A list, updated at least monthly, of all member beverage producers operating under the
+14 recycling refund program plan;
+15 (7) The list of covered beverage containers that are redeemable for the applicable refund
+16 value under the provisions of § 23-19.20-11;
+17 (8) Education materials on how to redeem covered beverage containers and the importance
+18 of reusing and recycling covered beverage containers; and
+19 (9) A list and map of all redemption sites currently accepting covered beverage containers
+20 for a refund, including the hours each redemption site accepts covered beverage containers.
+21 23-19.21-11. Applicable refund value.
+22 (a)(1) Every covered beverage container sold or offered for sale in the state shall have a
+23 refund value of ten cents ($0.10) beginning July 1, 2030, or within six (6) months of plan approval,
+24 whichever is later, except that beverage producers of reusable and refillable beverage containers
+25 may elect to assign a higher refund value on these containers.
+26 (2) Containers sold for on-site consumption are exempt from the requirements of
+27 subsection (a)(1) of this section, provided the covered beverage containers are collected and
+28 recycled as described in the recycling refund producer responsibility organization's plan in § 23-
+29 19.21-7.
+30 (3) If a redemption rate performance target was not met in each of the two (2) previous
+31 calendar years, the department may adopt rules providing a higher refund value than the refund
+32 value provided under this section, so long as the modified refund value is not based on the type of
+33 beverage container, but no more than:
+34 (i) Once during any ten (10) year period in consultation with the recycling refund producer
+LC006008 - Page 46 of 59
+
+1 responsibility organization; and
+2 (ii) Once during any five (5) year period if there is a request from the recycling refund
+3 producer responsibility organization for a change in the refund amount.
+4 (4) The charge for the refund value of covered beverage containers shall be separately
+5 stated on a receipt, invoice, or similar billing document given to the consumer.
+6 (b)(1) The recycling refund producer responsibility organization or beverage producer is
+7 not required to pay refunds on:
+8 (i) A beverage container visibly containing or contaminated by a substance other than
+9 water, residue of the original contents, or ordinary dust;
+10 (ii) A beverage container that is broken or damaged to the extent that the brand appearing
+11 on the container cannot be identified;
+12 (iii) A beverage container that the recycling refund producer responsibility organization or
+13 beverage producer has reasonable grounds to believe was bought in another state; or
+14 (iv) A beverage container for which the recycling refund producer responsibility
+15 organization or beverage producer has reasonable grounds to believe a refund has already been
+16 given.
+17 (2) Notwithstanding an provision in this section to the contrary, the recycling refund
+18 producer responsibility organization or beverage producer may accept covered beverage containers
+19 described in subsection (b)(1)(i) and (b)(1)(ii) of this section from material recovery facilities and
+20 transfer stations, provided the covered beverage containers meet the quality standards developed
+21 by the recycling refunds producer responsibility organization as described in § 23-19.21-7(c)(14).
+22 23-19.21-12. Convenience standard for redemption of beverage containers.
+23 (a) The recycling refund producer responsibility organization or a beverage producer
+24 submitting an individual plan shall propose a quantitative convenience standard for redemption of
+25 containers in the recycling refund program plan that is based on the following:
+26 (1) Ensures all consumers who pay a deposit have reasonably convenient opportunities to
+27 redeem;
+28 (2) Ensures consumers who require refunds immediately have sufficient opportunity to
+29 receive refunds immediately;
+30 (3) Provides appropriately convenient and equitable access in urban, suburban, and rural
+31 areas; and
+32 (4) Accounts for total population, population density, sales of covered beverage containers
+33 in regions of the state, and proximity to centers of beverage sales business activity.
+34 (b)(1) The department shall evaluate the proposed convenience standard based on the
+LC006008 - Page 47 of 59
+
+1 following criteria:
+2 (i) Proximity to businesses that sell a high volume of covered beverage containers;
+3 (ii) Additional vehicle miles traveled;
+4 (iii) Car and public transportation access;
+5 (iv) Population density;
+6 (v) Environmental justice areas;
+7 (vi) Average family income; and
+8 (vii) Needs of people collecting large amounts of covered beverage containers for primary
+9 or important supplemental income.
+10 (2) At least once per year, the department may audit the redemption system to determine
+11 whether the recycling refund producer responsibility organization or beverage producer operating
+12 an approved individual plan is meeting the convenience standard in an approved recycling refund
+13 program plan and the redemption system requirements in this chapter, and the department shall
+14 conduct such an audit at least every five (5) years.
+15 (c) The recycling refund producer responsibility organization shall include in its program
+16 plan any relevant data to allow the department to verify whether the recycling refund producer
+17 responsibility organization's proposed convenience standards meet the requirements of this chapter.
+18 (d) In the event that the recycling refund producer responsibility organization or beverage
+19 producer operating an approved individual plan does not meet the convenience standards in an
+20 approved program plan for two (2) calendar years in a row, the department may initiate rulemaking
+21 to support the recycling refund producer responsibility organization or beverage producer's
+22 program plan amendment to achieve the convenience standards in this chapter.
+23 23-19.21-13. Redemption system.
+24 (a)(1) The recycling refund producer responsibility organization or beverage producer
+25 operating an approved individual plan shall, at its own cost, install, operate, and maintain a network
+26 of covered beverage container collection mechanisms for consumers to redeem covered beverage
+27 containers for the applicable refund value that satisfies:
+28 (i) The convenience standard in this chapter; and
+29 (ii) The redemption rate performance targets in this chapter.
+30 (b) The network of covered beverage container collection mechanisms shall include a mix
+31 of ways for consumers to redeem covered beverage containers, including express redemption sites
+32 and full-service redemption sites at locations convenient to consumers such as nearby or in the
+33 parking lots of retailers that sell covered beverage containers, nonprofit organization facilities, and
+34 government sites.
+LC006008 - Page 48 of 59
+
+1 (c) At a minimum, the network for collecting covered beverage containers shall:
+2 (1) In each municipality with a population density less than one thousand (1,000) residents
+3 per square mile, have:
+4 (i) At least one redemption site in the municipality; or
+5 (ii) At least one redemption site within one mile of a retail establishment greater than ten
+6 thousand square feet (10,000 sq. ft) that is within three (3) miles of the municipality's borders.
+7 (2) In each municipality with a population density more than one thousand (1,000)
+8 residents per square mile, have at least two (2) redemption sites;
+9 (3) In each municipality with greater than twenty-five thousand (25,000) residents but
+10 fewer than seventy-five thousand (75,000) residents, at least one redemption site in each zip code
+11 tabulation area.
+12 (d) The recycling refund producer responsibility organization or beverage producer
+13 operating an approved individual plan may establish and dissolve partnerships with any
+14 organization or individual to enhance redemption network operations and better serve consumers.
+15 (e)(1) All redemption sites in the redemption network shall:
+16 (i) Be clean, safe, and well-lighted;
+17 (ii) Be accessible to persons with disabilities, including those related to mobility, hearing,
+18 and sight;
+19 (iii) Be readily identifiable and clearly marked as being part of the recycling refund system;
+20 (iv) Appear on the recycling refund producer responsibility organization's website under §
+21 23-19.21-10;
+22 (v) Accept for redemption all covered beverage containers;
+23 (vi) Accept for redemption and handle reusable containers in a manner that allows for their
+24 reuse;
+25 (vii) Accept covered beverage containers for redemption for at least eight (8) hours on all
+26 weekdays and one weekend day, except on federal holidays;
+27 (viii) Post the hours of operation at a place that is clearly visible from outside; and
+28 (ix) Provide year-round access during open hours free of charge.
+29 (2) The department may approve a limited number of redemption sites to not comply with
+30 all the requirements in subsection (a) of this section to reduce costs or expand the number of
+31 redemption sites.
+32 (f) The recycling refund producer responsibility organization or producer operating under
+33 an approved individual plan shall fairly compensate all locations hosting redemption sites for the
+34 space occupied by the covered beverage container collection mechanisms.
+LC006008 - Page 49 of 59
+
+1 (g)(1) A retail establishment has no obligation under this chapter to host a covered beverage
+2 container collection mechanism.
+3 (2) A retail establishment that chooses to host a redemption site is eligible to have a self-
+4 serve kiosk, located at the retail establishment at no charge by the recycling refund producer
+5 responsibility organization or beverage producer, to facilitate the printing of redemption vouchers,
+6 and pay the value of redemption vouchers to consumers that can be used on the premises. The
+7 recycling refund producer responsibility organization or beverage producer operating an approved
+8 individual plan shall reimburse retailers for the value of valid vouchers redeemed by customers.
+9 (h)(1) A retail establishment larger than twenty thousand square feet (20,000 sq. ft) shall
+10 sell bags for the redemption program at the price established by the recycling refund producer
+11 responsibility organization or beverage producer operating an approved individual plan.
+12 (2) If the standard bags for the bag-drop program are made of plastic film, the recycling
+13 refund producer organization or beverage producer shall:
+14 (i) Ensure that the bags have a minimum of fifty percent (50%) postconsumer recycled
+15 content;
+16 (ii) Demonstrate, upon request of the department, that the waste film from the bags is being
+17 recycled at responsible end markets; and
+18 (iii) Include instructions on the bag how the bag should be utilized and recycled through a
+19 drop-off program.
+20 (3) The recycling refund producer organization or beverage producer shall credit the cost
+21 of any required bag purchased back to the consumer when the bag is returned and processed through
+22 the deposit return system.
+23 23-19.21-14. Use of unredeemed deposits.
+24 Any unredeemed deposits are to only be spent by the recycling refund producer
+25 organization or beverage producer and only on any of the following purposes:
+26 (1) Education and outreach activities to encourage redemption activity;
+27 (2) Increasing the number of redemption sites; and
+28 (3) Other activities that are described in the recycling refund program plan that directly
+29 contribute to achieving the performance requirements described in § 23-19.21-8 and other
+30 provisions of this chapter.
+31 23-19.21-15. Recycling refund program reporting.
+32 (a)(1) By July 1, 2031, and on each July 1 thereafter, the recycling refund producer
+33 responsibility organization or beverage producer operating under an approved individual plan shall
+34 submit a report to the department that contains, at a minimum, the following information for the
+LC006008 - Page 50 of 59
+
+1 previous calendar year:
+2 (i) Number of covered beverage containers included in the program sold in the state, by
+3 material type and whether reusable;
+4 (ii) Number of covered beverage containers redeemed and recycled through the program,
+5 by material type;
+6 (iii) Number of times reusable covered beverage containers were sold;
+7 (iv) Number of times reusable covered beverage containers were returned through the
+8 recycling refund program;
+9 (v) An analysis of whether the recycling refund producer responsibility organization or
+10 beverage producer is on track to reach the redemption rate performance targets specified in this
+11 chapter and the reuse rate and return rate performance targets specified in the recycling refund
+12 program plan, and what the recycling refund producer responsibility organization or beverage
+13 producer is doing to achieve the performance targets by the relevant deadlines;
+14 (vi) A list of redemption sites and processing facilities and their locations;
+15 (vii) Verification of materials handled at responsible end markets;
+16 (viii) Audited financial reports, including sources and uses of funds.
+17 (ix) An evaluation of convenience of the program with the same criteria the department
+18 shall use under this chapter; and
+19 (x) A description of public awareness, education, and outreach activities undertaken by the
+20 recycling refund producer responsibility organization or beverage producer, including analyses of
+21 their efficacy.
+22 (2) The recycling refund producer responsibility organization or beverage producer that
+23 submits information or records to the department under this section may request that a portion of
+24 the information or records be made available only for the confidential use of the department, the
+25 director, or the appropriate division of the department. The director of the department shall give
+26 consideration to the request, and if the director determines that this action is not detrimental to the
+27 public interest, the director shall grant the request for the information to remain confidential.
+28 (b) All data reported by a recycling refund producer responsibility organization or beverage
+29 producer operating under an approved individual plan under this section shall, at the request of the
+30 department no more than once annually, be audited by an independent third party. A recycling
+31 refund producer responsibility organization or beverage producer is responsible for all costs
+32 associated with the data audit. Auditable data shall only include data held by a recycling refund
+33 producer responsibility organization or beverage producer. Auditing of any data inputs to the
+34 recycling refund producer responsibility organization or beverage producer is the responsibility of
+LC006008 - Page 51 of 59
+
+1 the recycling refund producer responsibility organization or beverage producer.
+2 (c) A recycling refund producer responsibility organization or beverage producer that fails
+3 to meet a redemption rate performance target or convenience standard required under this chapter
+4 or approved in a recycling refund program plan shall, within ninety (90) days of filing an annual
+5 report under this section, file with the department an explanation of the factors contributing to the
+6 failure and propose an amendment to the recycling refund program plan or individual plan
+7 specifying changes, including in its operations that the recycling refund producer responsibility
+8 organization or beverage producer will make that are designed to achieve the redemption rate
+9 performance targets and convenience standards.
+10 (d) By January 1, 2032, and every two (2) years thereafter, the department shall submit a
+11 report to the governor and to the chairs and ranking minority members of the legislative committees
+12 with jurisdiction over solid waste. The report shall contain:
+13 (1) A summary of the operations of this act during the previous years, including the
+14 redemption rate performance targets versus actual performance;
+15 (2) A link to reports filed under this section;
+16 (3) Recommendations for policy, statutory, or regulatory changes to the program;
+17 (4) A list of efforts undertaken by the department to enforce and secure compliance with
+18 this act; and
+19 (5) Any other information the department deems to be relevant.
+20 23-19.21-16. Recycling refund program account.
+21 (a) The recycling refund program account is created in the custody of the State of Rhode
+22 Island treasurer. All receipts received by the department under this chapter shall be deposited in the
+23 account.
+24 (b) Expenditures from the account may be used by the department only for implementing,
+25 administering, and enforcing the requirements of this chapter related to the recycling refund
+26 program. Only the director of the department may authorize expenditures from the account. The
+27 account is subject to the allotment procedures under this chapter, but an appropriation is not
+28 required for expenditures.
+29 CHAPTER 19.22
+30 GENERAL PROVISIONS
+31 23-19.22-1. Single producer responsibility organization.
+32 (a) The department may appoint the same organization to be the packaging producer
+33 responsibility organization and the recycling refund producer responsibility organization.
+34 (b) If the department appoints the same organization under subsection (a) of this section,
+LC006008 - Page 52 of 59
+
+1 then that organization shall:
+2 (1) Comply with all the responsibilities under this chapter of the packaging producer
+3 responsibility organization and the recycling refund producer responsibility organization; and
+4 (2) Institute governance to separately implement the packaging producer program plan and
+5 the recycling refund program plan in a coordinated manner.
+6 23-19.22-2. Coordination plan.
+7 (a) If the same organization is not appointed as the packaging producer responsibility
+8 organization and the recycling refund producer responsibility organization according to the
+9 provisions of chapters 19.20 or 19.21 or 19.22 of title 23, then by January 1, 2029, the packaging
+10 producer responsibility organization and the recycling refund producer responsibility organization
+11 shall create a coordination plan to ensure that their respective programs are complementary, operate
+12 efficiently, and meet all targets.
+13 (b) The coordination plan shall:
+14 (1) Ensure consistent education and outreach messaging to consumers;
+15 (2) Ensure that a reciprocal compensation mechanism exists so that the recycling refund
+16 producer responsibility organization pays the packaging producer responsibility organization for
+17 covered beverage containers in material recovery facilities, and the packaging producer
+18 responsibility organization pays the recycling refund producer responsibility organization for
+19 covered materials in the recycling refund system;
+20 (3) Evaluate packages and formats managed by each program and consider opportunities
+21 for adding or moving packages from one program to the other;
+22 (4) Evaluate opportunities to coordinate identification of, and efficient access to,
+23 processing infrastructure and markets; and
+24 (5) Identify actions to jointly optimize infrastructure for recycling and reuse and refill
+25 programs.
+26 23-19.22-3. General department responsibilities.
+27 (a) The department shall notify each producer responsibility organization in writing of the
+28 amount of the fee for the following year to be paid with their annual registration, which may not
+29 exceed the department's estimate of the costs required to:
+30 (1) Administer, implement, and enforce this chapter, including staff costs;
+31 (2) Rulemaking to implement this chapter, if applicable;
+32 (3) Provide reimbursement for staffing for the advisory council; and
+33 (4) Fulfill the department's responsibilities under this chapter.
+34 (b) In setting the annual fee for each producer responsibility organization, the department
+LC006008 - Page 53 of 59
+
+1 shall develop and implement a process to allocate costs to each producer responsibility organization
+2 proportional to the costs associated with that producer responsibility organization, including costs
+3 for future needs assessments.
+4 (c) The department shall develop and implement a process to reconcile the fees paid by a
+5 producer responsibility organization under this section with the actual costs incurred by the
+6 department, by means of credits or refunds to or additional payments required of a producer
+7 responsibility organization, as applicable.
+8 (d) By January 1, 2032, and every two (2) years thereafter, the department shall submit a
+9 report to the governor and to the chairs and ranking minority members of the legislative committees
+10 with jurisdiction over solid waste. The report shall contain:
+11 (1) A summary of the operations of this chapter during the previous years, including the
+12 performance targets versus actual performance;
+13 (2) A summary of the needs assessment;
+14 (3) A link to reports filed under this section;
+15 (4) Recommendations for policy, statutory, or regulatory changes to the program;
+16 (5) An analysis of the impacts of exempting certain materials from the definition of covered
+17 materials and of exempting certain persons from the definition of producer;
+18 (6) A list of efforts undertaken by the department to enforce and secure compliance with
+19 this chapter; and
+20 (7) Any other information the department deems to be relevant.
+21 23-19.22-4. Service providers.
+22 (a) A packaging producer responsibility organization or a recycling refund producer
+23 responsibility organization shall require in any contract with a service provider that the service
+24 provider:
+25 (1) Meets operational standards established in an approved packaging producer program
+26 plan and the recycling refund program plan;
+27 (2) Ensures that covered materials or covered beverage containers are sent to responsible
+28 end markets; and
+29 (3) Provides documentation to the recycling refund producer responsibility organization
+30 and packaging producer responsibility organization on the amounts, materials types, and volumes
+31 of materials by covered service method.
+32 (b) The packaging producer responsibility organization shall directly contract to pay one
+33 hundred percent (100%) of covered services for covered materials, exclusive of exempt materials.
+34 The methodology for contract rates shall consider estimated revenue received by service providers
+LC006008 - Page 54 of 59
+
+1 from the sale of covered materials based upon relevant material indices and incorporate relevant
+2 cost information identified by the needs assessment. Contract rates shall be annually updated and
+3 reflect the net costs for covered services for covered materials from covered entities, at a minimum.
+4 (c) Contract rates shall be based on the following, as applicable by the service provided:
+5 (1) The cost to collect covered material or covered beverage containers for recycling, a
+6 proportional share of composting, or reuse adjusted to reflect conditions that affect those costs,
+7 varied by region or jurisdiction in which the covered services are provided including, but not
+8 limited to:
+9 (i) The number and type of covered entities;
+10 (ii) Population density;
+11 (iii) Collections methods employed;
+12 (iv) Distance traveled by collection vehicles to consolidation or transfer facilities; to reuse,
+13 recycling, or composting facilities; and to responsible end markets;
+14 (v) Other factors that may contribute to regional or jurisdictional cost differences;
+15 (vi) The proportion of covered compostable materials within all source-separated
+16 compostable materials collected or managed through composting; and
+17 (vii) The general quality of covered materials collected by service providers;
+18 (2) The cost to transfer collected covered materials from consolidation or transfer facilities
+19 to reuse, processing, recycling, or composting facilities or to responsible end markets;
+20 (3) The cost to:
+21 (i) Sort and process covered materials for sale or use and remove contamination from
+22 covered materials by a recycling or composting facility, less the average fair market value for that
+23 covered material based on market indices for the region; and
+24 (ii) Manage contamination removed from collected covered material;
+25 (4) Administrative costs of service providers, including education, public awareness
+26 campaigns, and outreach program costs as applicable; and
+27 (5) The costs of covered services for a refill system or covered services provided for
+28 reusable covered materials and management of contamination.
+29 (d) A service provider retains all revenue from the sale of covered materials. Nothing in
+30 this chapter shall restrict a service provider from charging a fee for covered services of covered
+31 materials to the extent that payment from a packaging producer responsibility organization does
+32 not cover all costs of services, including continued investment and innovation in operations,
+33 operating profits, and returns on investments required by a service provider to provide sustainability
+34 of the services.
+LC006008 - Page 55 of 59
+
+1 (e) Contract rates may be calculated per ton, by household, or by another unit of
+2 measurement under an approved packaging producer program plan or recycling refund program
+3 plan.
+4 (f) By January 1, 2028, and annually thereafter, a service provider seeking reimbursement
+5 for covered services provided under an approved program plan shall register with the department
+6 by submitting the following information:
+7 (1) The contact information for a person representing the service provider;
+8 (2) The address of the service provider; and
+9 (3) If applicable to services provided, a report of the total amount billed for collection for
+10 covered entities, processing services, and transfer station operations provided during the preceding
+11 calendar year and, when possible, values shall be separated for collection, transfer, and processing.
+12 (g) A producer responsibility organization or a recycling refund producer responsibility
+13 organization shall establish a dispute resolution process utilizing third-party mediators for disputes
+14 related to payments.
+15 23-19.22-5. Transfer station and material recovery facilities.
+16 By April 1, 2030, and each year thereafter, each material recovery facility and transfer
+17 station that receives covered materials are to report annually to the packaging producer
+18 responsibility organization, the recycling refund producer responsibility organization, and the
+19 department, including the following information:
+20 (1) Amount of material accepted by supplier and location of origin (municipality, service
+21 provider, or other);
+22 (2) Amount of material sold to market, by commodity type;
+23 (3) Amount of residue or waste generated; and
+24 (4) Verification that end-markets are responsible and compliant with program
+25 requirements.
+26 23-19.22-6. Enforcement.
+27 (a) The department may administratively impose a civil penalty of up to one thousand
+28 dollars ($1,000) per violation per day on any producer who violates this chapter and up to ten
+29 thousand dollars ($10,000) per violation per day for the second and each subsequent violation in
+30 any calendar year.
+31 (b) The department may administratively impose a civil penalty of up to one thousand
+32 dollars ($1,000) per violation per day on any packaging producer responsibility organization or
+33 recycling refund producer responsibility organization that violates this chapter and up to ten
+34 thousand dollars ($10,000) per violation per day for the second and each subsequent violation in
+LC006008 - Page 56 of 59
+
+1 any calendar year.
+2 (c) The department may, in addition to assessing the penalties provided in subsections (a)
+3 and (b) of this section, take any combination of the following actions:
+4 (1) Issue a corrective action order to a producer or a packaging producer responsibility
+5 organization or a recycling refund producer responsibility organization;
+6 (2) Issue an order to a packaging producer responsibility organization or a recycling refund
+7 producer responsibility organization to provide for the continued implementation of the program
+8 in the absence of an approved plan;
+9 (3) Revoke the producer responsibility organization's plan approval and require resubmittal
+10 of a producer responsibility organization's program plan;
+11 (4) Require a producer responsibility organization to revise or resubmit a plan within a
+12 specified time frame; or
+13 (5) Require additional reporting related to the area of noncompliance.
+14 (d) The department may assess a penalty on a person that engages in fraudulent activity.
+15 The amount of the penalty that the department may assess under this section is twice the amount of
+16 money the person received from the fraudulent activity in violation of this chapter or five hundred
+17 dollars ($500), whichever is greater.
+18 (e) The department may assess a penalty on a person that continues to sell or distribute
+19 covered beverage containers of a producer that has been assessed a penalty under subsection (a) of
+20 this section, sixty (60) days after the person receives a written warning from the department. The
+21 amount of the penalty that the department may assess under this subsection is twice the value of
+22 the covered beverage containers sold in violation of this chapter or five hundred dollars ($500),
+23 whichever is greater. The department shall waive the penalty upon verification that the person has
+24 discontinued distribution or sales of the covered beverage containers within thirty (30) days of the
+25 date the penalty is assessed.
+26 (f) For a producer, beverage producer or producer responsibility organization out of
+27 compliance with the requirements of this chapter, the department shall provide written notification
+28 and offer information. For the purposes of this section, written notification serves as notice of the
+29 violation. The department shall issue at least one notice of violation by certified mail prior to
+30 assessing a penalty and the department may only impose a penalty on a producer that has not met
+31 the requirements of this chapter sixty (60) days following the date the written notification of the
+32 violation was received.
+33 (g) Any person who incurs a penalty or receives an order may appeal the penalty or order
+34 pursuant to the chapter 35 of title 42 ("administrative procedures").
+LC006008 - Page 57 of 59
+
+1 (h) Penalties levied under this section shall be deposited in the recycling refund program
+2 account or packaging producer responsibility program account.
+3 23-19.22-7. Anti-competitive conduct.
+4 A packaging producer responsibility organization or a recycling refund producer
+5 responsibility organization that arranges collection, recycling, composting, source reduction, or
+6 reuse services under this chapter may engage in anticompetitive conduct to the extent necessary to
+7 plan and implement collection, recycling, composting, source reduction, or reuse systems to meet
+8 the obligations under this chapter, and is immune from liability under State of Rhode Island laws
+9 relating to antitrust, restraint of trade, and unfair trade practices.
+10 23-19.22-8. Rulemaking.
+11 The department may adopt rules to implement this chapter.
+12 SECTION 2. This act shall take effect upon passage.
+========
+LC006008
+========
+LC006008 - Page 58 of 59
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- EXTENDED PRODUCER RESPONSIBILITY
+FOR PACKAGING AND PAPER ACT
+***
+1 This act would create multiple chapters to provide and establish a comprehensive program
+2 for recycling of beverage containers and extended producer responsibility for packaging and paper,
+3 after the completion of an implementation analysis by the department of environmental
+4 management, which would be the lead department in overseeing, implementing, and enforcing the
+5 provisions of this act.
+6 This act would take effect upon passage.
+========
+LC006008
+========
+LC006008 - Page 59 of 59

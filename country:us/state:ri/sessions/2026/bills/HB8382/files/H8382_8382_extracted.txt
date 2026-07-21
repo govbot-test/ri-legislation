@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - 8382
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8382
+========
+LC006204
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PHARMACIES
+Introduced By: Representatives Kislak, McGaw, Donovan, Corvese, Cruz, Giraldo,
+Potter, Fogarty, and Stewart
+Date Introduced: April 01, 2026
+Referred To: House Health & Human Services
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 5-19.1-35 of the General Laws in Chapter 5-19.1 entitled
+2 "Pharmacies" is hereby amended to read as follows:
+3 5-19.1-35. Audits.
+4 (a) For the purposes of this section:
+5 (1) “Audit” means a systematic review of provider claims, documentation, and billing
+6 practices, whether conducted remotely or on site, for the purported purpose of ensuring payments
+7 are made for covered, reasonable, and necessary services, or to detect fraud, waste, and abuse, or
+8 to recover overpayments.
+9 (2) “Auditor” means a person or entity who conducts an audit as defined in subsection
+10 (a)(1) of this section.
+11 (b) When an on-site audit of the records of a pharmacy is conducted by a carrier or its
+12 intermediary, the audit must be conducted in accordance with the following criteria:
+13 (1) A finding of overpayment or underpayment must be based on the actual overpayment
+14 or underpayment, and not a projection based on the number of patients served having a similar
+15 diagnosis, or on the number of similar orders or refills for similar drugs, unless the projected
+16 overpayment or denial is a part of a settlement agreed to by the pharmacy or pharmacist;
+17 (2) The auditor may not use extrapolation in calculating recoupments or penalties unless
+18 required by state or federal laws or regulations;
+19 (3) Any audit that involves clinical judgment must be conducted by, or in consultation with,
+
+1 a pharmacist; and
+2 (4) Each entity conducting an audit shall establish an appeal process under which a
+3 pharmacy may appeal an unfavorable preliminary audit report to the entity.
+4 (b) This section does not apply to any audit, review, or investigation that is initiated based
+5 on or involving suspected or alleged fraud, willful misrepresentation, or abuse.
+6 (c) Prior to an audit, the entity conducting an audit shall give the pharmacy fourteen (14)
+7 days advance written notice of the audit and the range of prescription numbers involved in the audit.
+8 The carrier or its intermediary may mask the last two digits of the numbers. Additionally, the
+9 number of prescriptions shall not exceed one hundred fifty (150) prescription claims and their
+10 applicable refills. The time allotted must be adequate to collect all samples. The examination of
+11 signature logs shall not exceed twenty-five (25) signature logs in number.
+12 (d) A pharmacy has the right to execute the dispute resolution contained in their contract.
+13 (e)(1) A preliminary audit report must be delivered to the pharmacy or its corporate office
+14 within sixty (60) days after the conclusion of the audit. A pharmacy must be allowed at least thirty
+15 (30) days following receipt of the preliminary audit report to provide documentation to address any
+16 discrepancy found in the audit. A final audit report must be delivered to the pharmacy or its
+17 corporate office within ninety (90) days after receipt of the preliminary audit report or final appeal,
+18 whichever is later. A charge-back recoupment or other penalty may not be assessed until the appeal
+19 process provided by the pharmacy benefits manager has been exhausted and the final report issued.
+20 If the identified discrepancy for a single audit exceeds twenty-five thousand dollars ($25,000),
+21 future payments in excess of that amount may be withheld pending the adjudication of an appeal.
+22 Auditors shall only have access to previous audit reports on a particular pharmacy conducted for
+23 the same entity.
+24 (2) Auditors may initiate a desk audit prior to an on-site audit unless otherwise specified in
+25 the law.
+26 (3)(2) Contracted auditors cannot be paid based on the findings within an audit.
+27 (4)(3) Scanned images of all prescriptions including all scheduled controlled substances
+28 are allowed to be used by the pharmacist for an audit. Verbally received prescriptions must be
+29 accepted upon validation by the auditing entity and applicable for the initial desk or on-site audit.
+30 (5)(4) The period covered by an audit may not exceed two (2) years.
+31 (6)(5) Within five (5) business days of receiving the audit notification, pharmacies are
+32 allowed, at a minimum, one opportunity to reschedule with the auditor if the scheduled audit
+33 presents a scheduling conflict for the pharmacist.
+34 (f) Any clerical error, typographical error, scrivener’s error, or computer error regarding a
+LC006204 - Page 2 of 5
+
+1 document or record does not constitute a willful violation and is not subject to criminal penalties
+2 without proof of intent to commit fraud.
+3 (g) Limitations.
+4 (1) Exceptions. The Subject to subsection (g)(2) of this section, the provisions of this
+5 chapter do not apply to an investigative audit of pharmacy records when:
+6 (i) Fraud, waste, abuse, or other intentional misconduct is indicated by physical review or
+7 review of claims data or statements; or
+8 (ii) Other investigative methods indicate a pharmacy is or has been engaged in criminal
+9 wrongdoing, fraud, or other intentional or willful misrepresentation.
+10 (2) Scope of exceptions.
+11 (i) An audit for which an exception is applicable shall be strictly limited in scope to the
+12 issue(s) directly giving rise to the suspicions, allegations, or conduct indicated by other
+13 investigative methods. Before conducting an audit for which an exception is applicable, the auditor
+14 shall memorialize in writing the basis for any exception hereunder, which shall include a
+15 description of the specific issue(s) under review and facts giving rise to the audit, and shall make
+16 such writing available to the attorney general upon request.
+17 (ii) The auditor may not rely solely on a finding of common control or common ownership
+18 as a basis for conducting an audit to which an exception applies with respect to a pharmacy, unless
+19 the auditor first confirms the presence of an identified systemic error, fraud, abuse, willful
+20 misrepresentation, or criminal wrongdoing with respect to a pharmacy under common control or
+21 common ownership.
+22 (2)(3) Frequency of audits. A pharmacy shall not be subject to more than one on-site audit
+23 in connection with a carrier every twelve (12) months, unless there is an identified problem or
+24 substantial evidence of fraud, abuse, or misrepresentation is suspected, or other criminal
+25 wrongdoing.
+26 (3)(4) Federal law. This chapter does not supersede any audit requirements established by
+27 federal law.
+28 (5) Notice to the attorney general. Prior to initiating an audit pursuant to an exception under
+29 subsection (g)(1) of this section, the auditor shall provide written notice to the attorney general of
+30 their intent to conduct an audit pursuant to an applicable exception. Such notice shall be provided
+31 at least three (3) business days prior to the initiation of the audit.
+32 (h) Enforcement. The Rhode Island attorney general shall have the authority to enforce
+33 and ensure compliance with this section.
+34 (1) The attorney general may institute proceedings to prevent and restrain violations of this
+LC006204 - Page 3 of 5
+
+1 section. The superior court shall have jurisdiction to prevent and restrain violations of this section.
+2 (2) In addition to injunctive relief, any person or entity in violation of this section shall be
+3 liable for a civil penalty, in an action brought by the attorney general, of not more than ten thousand
+4 dollars ($10,000) for each violation.
+5 (3) The attorney general may promulgate rules and regulations to implement the provisions
+6 of this section.
+7 SECTION 2. This act shall take effect upon passage.
+========
+LC006204
+========
+LC006204 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PHARMACIES
+***
+1 This act would strengthen enforcement of the state's pharmacy audit law by clarifying and
+2 tightening audit procedures to ensure pharmacy audits are conducted fairly and transparently.
+3 This act would take effect upon passage.
+========
+LC006204
+========
+LC006204 - Page 5 of 5

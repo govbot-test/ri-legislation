@@ -1,0 +1,306 @@
+Title: 
+Official Title: 
+Source: versions - 2692  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2692 SUBSTITUTE A
+========
+LC005695/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- CONDOMINIUM LAW
+Introduced By: Senators Bissaillon, Burke, and McKenney
+Date Introduced: February 27, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 34-36.1-1.02 and 34-36.1-1.03 of the General Laws in Chapter 34-
+2 36.1 entitled "Condominium Law" are hereby amended to read as follows:
+3 34-36.1-1.02. Applicability.
+4 (a)(1) This chapter applies to all condominiums created within this state after July 1, 1982,
+5 except that any condominium created within this state prior to July 1, 1982, may voluntarily accept
+6 the provisions of this chapter in lieu of the provisions under which it was originally organized.
+7 Acceptance shall be evidenced by an agreement in writing executed by and in behalf of the
+8 condominium association and by all of the owners of all of the individual condominium units within
+9 the condominium, in which agreement it is clearly stated that they all accept the provisions of this
+10 chapter in lieu of those in the statute under which the condominium was organized and wish to be
+11 governed in the future by the provisions of this chapter. The agreement shall be recorded in the
+12 land evidence records of each and every town or city where all or any part of the land in the
+13 condominium concerned may be located and shall become effective when first so recorded. The
+14 acceptance shall only apply to the governance of the condominium concerned as to all matters
+15 which are prospective or executory in nature; and nothing herein shall be deemed to abrogate,
+16 amend, limit, effect, or impair the continued effectiveness, legality, or validity of all actions
+17 lawfully taken by or in behalf of the condominium prior to the effective date of the acceptance,
+18 including, but without limitation, the condominium declaration and all amendments thereto, the by-
+19 laws of the condominium and/or of its association, all deeds, mortgages, leases, and any further
+
+1 documents affecting the titles or rights of unit owners, or of the condominium or the prior lawful
+2 acts or deeds of any kind, of the condominium association, its officers, directors, or members.
+3 (2) Sections 34-36.1-1.05 (separate titles and taxation), 34-36.1-1.06 (applicability of local
+4 ordinances, regulations, and building codes), 34-36.1-1.07 (eminent domain), 34-36.1-2.03
+5 (construction and validity of declaration and bylaws), 34-36.1-2.04 (description of units), 34-36.1-
+6 2.19(b) (mortgage approval), 34-36.1-3.02(a)(1) — (6) and (11) — (17) (powers of unit owners’
+7 association), 34-36.1-3.06(c) — (d) (bylaws), 34-36.1-3.08 (meetings and notice), 34-36.1-3.11
+8 (tort and contract liability), 34-36.1-3.13(d) and (k) (unit owner responsibility for master policy
+9 deductibles), 34-36.1-3.16 (lien for assessments), 34-36.1-3.18 (association records), 34-36.1-4.09
+10 (resale of units), and 34-36.1-4.17 (effect of violation on rights of action; attorney’s fees), § 34-
+11 36.1-3.20 (enforcement of declaration, bylaws and rules), 34-36.1-3.22 (applicability of structural
+12 common element study requirement for condominium association), and 34-36.1-1.03 (definitions),
+13 to the extent necessary in construing any of those sections, apply to all condominiums created in
+14 this state before July 1, 1982; but those sections apply only with respect to events and circumstances
+15 occurring after July 1, 1982, and do not invalidate existing provisions of the declaration, bylaws,
+16 plats, or plans of those condominiums.
+17 (3) A condominium created as an additional phase by amendment of a condominium
+18 created prior to July 1, 1982, if the original declaration contemplated the amendment, shall be
+19 deemed to be a condominium created prior to July 1, 1982; provided, however, the provisions of
+20 subdivision (a)(2) shall apply as defined therein.
+21 (4) Section 34-36.1-3.21 (foreclosure of condominium lien) applies, with respect to all
+22 condominiums created in this state prior to June 19, 1991, only with respect to events and
+23 circumstances occurring after June 18, 1991, does not invalidate existing provisions of the
+24 declarations, bylaws, plats, or plans of those condominiums, and applies in all respects to all
+25 condominiums created in this state after June 18, 1991.
+26 (b) The provisions of the Condominium Ownership Act, chapter 36 of this title, do not
+27 apply to condominiums created after July 1, 1982, and do not invalidate any amendment to the
+28 declaration, bylaws, plats, and plans of any condominium created before July 1, 1982, if the
+29 amendment would be permitted by this chapter. The amendment must be adopted in conformity
+30 with the procedures and requirements specified by those instruments and by chapter 36 of this title.
+31 If the amendment grants to any person any rights, powers, or privileges permitted by this chapter,
+32 all correlative obligations, liabilities, and restrictions in this chapter also apply to that person.
+33 (c) This chapter does not apply to condominiums or units located outside this state, but the
+34 public offering statement provisions (§§ 34-36.1-4.02 — 34-36.1-4.07) apply to all contracts for
+LC005695/SUB A - Page 2 of 9
+
+1 the disposition thereof signed in this state by any party unless exempt under § 34-36.1-4.01(b).
+2 34-36.1-1.03. Definitions.
+3 In the declaration and bylaws, unless specifically provided otherwise or the context
+4 otherwise requires, and in this chapter:
+5 (1) “Affiliate of a declarant” means any person who controls, is controlled by, or is under
+6 common control with a declarant.
+7 (i) A person “controls” a declarant if the person:
+8 (A) Is a general partner, officer, director, or employer of the declarant,
+9 (B) Directly or indirectly or acting in concert with one or more other persons, or through
+10 one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing,
+11 more than twenty percent (20%) of the voting interest in the declarant,
+12 (C) Controls in any manner the election of a majority of the directors of the declarant, or
+13 (D) Has contributed more than twenty percent (20%) of the capital of the declarant.
+14 (ii) A person “is controlled by” a declarant if the declarant:
+15 (A) Is a general partner, officer, director, or employer of the person,
+16 (B) Directly or indirectly or acting in concert with one or more other persons, or through
+17 one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing,
+18 more than twenty percent (20%) of the voting interest in the person,
+19 (C) Controls in any manner the election of a majority of the directors of the person, or
+20 (D) Has contributed more than twenty percent (20%) of the capital of the person.
+21 (iii) Control does not exist if the powers described in this subdivision are held solely as
+22 security for an obligation and are not exercised.
+23 (2) “Allocated interests” means the undivided interest in the common elements, the
+24 common expense liability, and votes in the association allocated to each unit.
+25 (3) “Association” or “unit owners’ association” means the unit owners’ association
+26 organized under § 34-36.1-3.01.
+27 (4) “Common elements” means all portions of a condominium other than the units.
+28 (5) “Common expenses” means expenditures made by or financial liabilities of the
+29 association, together with any allocations to reserves.
+30 (6) “Common expense liability” means the liability for common expenses allocated to each
+31 unit pursuant to § 34-36.1-2.07.
+32 (7) "Conditions survey" means an assessment of a condominium’s common elements listed
+33 in GSA 1204 conducted by an engineer, architect, or building inspector licensed in the State of
+34 Rhode Island with documented experience in analyzing the structural components of residential
+LC005695/SUB A - Page 3 of 9
+
+1 communities for the purposes of identifying repairs or replacements needed to address potential
+2 safety hazards and to preserve structural integrity.
+3 (7)(8)(i) “Condominium” means real estate, portions of which are designated for separate
+4 ownership and the remainder of which is designated for common ownership solely by the owners
+5 of those portions. Real estate is not a condominium unless the undivided interests in the common
+6 elements are vested in the unit owners.
+7 (ii) Provided that each unit owner has a vested, undivided interest in the common elements
+8 greater that 0.0 percent, no minimum percentage interest in the common elements is otherwise
+9 required by this chapter.
+10 (8)(9) “Conversion building” means a building that at any time before creation of the
+11 condominium was occupied wholly or partially by persons other than purchasers and persons who
+12 occupy with the consent of purchasers.
+13 (9)(10) “Declarant” means any person or group of persons acting in concert who:
+14 (i) As part of a common promotional plan, offers to dispose of his, her or its interest in a
+15 unit not previously disposed of; or
+16 (ii) Reserves or succeeds to any special declarant right.
+17 (10)(11) “Declaration” means any instruments, however denominated, that create a
+18 condominium, and any amendments to those instruments.
+19 (11)(12) “Development rights” means any right or combination of rights reserved by a
+20 declarant in the declaration to:
+21 (A) Add real estate to a condominium,
+22 (B) Create units, common elements, or limited common elements within a condominium,
+23 (C) Subdivide units or convert units into common elements, or
+24 (D) Withdraw real estate from a condominium.
+25 (12)(13) “Person with a disability” means any person who is unable to engage in any
+26 substantial gainful activity by reason of any medically determinable physical or mental impairment
+27 which can be expected to result in death or has lasted or can be expected to last for a continuous
+28 period of not less than twelve (12) months or any person having an impairment of mobility or vision
+29 which is expected to be of at least twelve (12) months duration, and is a substantial impediment to
+30 his or her ability to live independently.
+31 (13)(14) “Dispose” or “disposition” means a voluntary transfer to a purchaser of any legal
+32 or equitable interest in a unit, but does not include the transfer or release of a security interest.
+33 (14)(15) “Executive board” means the body, regardless of name, designated in the
+34 declaration to act on behalf of the association.
+LC005695/SUB A - Page 4 of 9
+
+1 (15)(16) [Deleted by P.L. 1999, ch. 83, § 80, and P.L. 1999, ch. 130, § 80 which enacted
+2 identical amendments to this section.]
+3 (16)(17) “Identifying number” means a symbol or address that identifies only one unit in a
+4 condominium.
+5 (17)(18) “Land only units” shall mean units designated as land only units on the plats and
+6 plans which units may be comprised entirely or partially of unimproved real property and the air
+7 space above the real property. The boundaries of a land only unit are to be described pursuant to §
+8 34-36.1-2.05(a)(5). Land only units may, but need not, contain a physical structure. The declaration
+9 may provide for the conversion of land only units to other types of units and/or common elements
+10 provided the conversion shall be effective only upon the recording of an amendment to the
+11 declaration which amendment will include new plats and plans identifying any portion of the land
+12 only unit converted to another type of unit and/or common element.
+13 (18)(19) “Leasehold condominium” means a condominium in which all or a portion of the
+14 real estate is subject to a lease the expiration or termination of which will terminate the
+15 condominium or reduce its size.
+16 (19)(20) “Limited common element” means a portion of the common elements allocated
+17 by the declaration or by operation of § 34-36.1-2.02(2) or (4) for the exclusive use of one or more
+18 but fewer than all of the units.
+19 (20)(21) “Master association” means an organization described in § 34-36.1-2.20, whether
+20 or not it is also an association described in § 34-36.1-3.01.
+21 (21)(22) “Offering” means any advertisement, inducement, solicitation, or attempt to
+22 encourage any person to acquire any interest in a unit, other than as security for an obligation. An
+23 advertisement in a newspaper or other periodical of general circulation, or in any broadcast medium
+24 to the general public, of a condominium not located in this state, is not an offering if the
+25 advertisement states that an offering may be made only in compliance with the law of the
+26 jurisdiction in which the condominium is located.
+27 (22)(23) “Person” means a natural person, corporation, business trust, estate, trust,
+28 partnership, association, joint venture, government, governmental subdivision or agency, or other
+29 legal or commercial entity. (In the case of a land trust, however, “person” means the beneficiary of
+30 the trust rather than the trust or the trustee.)
+31 (23)(24) “Purchaser” means any person, other than a declarant or a person in the business
+32 of selling real estate for his or her own account, who by means of a voluntary transfer acquires a
+33 legal or equitable interest in a unit other than:
+34 (i) A leasehold interest including renewal options of less than twenty (20) years, or
+LC005695/SUB A - Page 5 of 9
+
+1 (ii) As security for an obligation.
+2 (24)(25) “Real estate” means any leasehold or other estate or interest in, over, or under
+3 land, including structures, fixtures, and other improvements and interests which by custom, usage,
+4 or law pass with a conveyance of land though not described in the contract of sale or instrument of
+5 conveyance. “Real estate” includes parcels with or without upper or lower boundaries, and spaces
+6 that may be filled with air or water.
+7 (26) "Reserves study" means an evaluation of the reserves required for future anticipated
+8 major repairs and replacements of the common elements of a condominium and states
+9 (i) The normal and estimated remaining useful life of each identified component;
+10 (ii) The estimated cost of repair or replacement of each identified component;
+11 (iii) The estimated annual reserve amount necessary to accomplish any identified future
+12 repair or replacement; and
+13 (iv) The quantity or size of each identified component using the appropriate measurement,
+14 such as unit amount, square footage, or cubic feet.
+15 (27) "Reserves study update" means, for the common elements since the prior reserve study
+16 was completed within the previous five (5) years, a study that:
+17 (i) Revises replacement costs, remaining life, and useful life estimates;
+18 (ii) Analyzes work performed and amounts spent; and
+19 (iii) Identifies whether any maintenance contracts are in place.
+20 (25)(28) “Residential purposes” means use for dwelling or recreational purposes, or both.
+21 (26)(29) “Special declarant rights” means rights reserved for the benefit of a declarant to:
+22 (i) Complete improvements indicated on plats and plans filed with the declaration, (§ 34-
+23 36.1-2.09),
+24 (ii) To exercise any development right, (§ 34-36.1-2.10),
+25 (iii) To maintain sales offices, management offices, signs advertising the condominium,
+26 and models, (§ 34-36.1-2.15),
+27 (iv) To use easements through the common elements for the purpose of making
+28 improvements within the condominium or within real estate which may be added to the
+29 condominium, (§ 34-36.1-2.16),
+30 (v) To make the condominium part of a larger condominium or a planned community, (§
+31 34-36.1-2.21),
+32 (vi) To make the condominium subject to a master association, (§ 34-36.1-2.20),
+33 (vii) Or to appoint or remove any officer of the association or any master association or
+34 any executive board member during any period of declarant control, (§ 34-36.1-3.03(d)).
+LC005695/SUB A - Page 6 of 9
+
+1 (27)(30) “Time share” means a right to occupy a unit or any of several units during five (5)
+2 or more separated time periods over a period of at least five (5) years, including renewal options,
+3 whether or not coupled with an estate or interest in a condominium or a specified portion thereof.
+4 (28)(31) “Unit” means a physical portion of the condominium designated for separate
+5 ownership or occupancy, the boundaries of which are described pursuant to § 34-36.1-2.05(a)(5).
+6 (29)(32) “Unit owner” means a declarant or other person who owns a unit, or a lessee of a
+7 unit in a leasehold condominium whose lease expires simultaneously with any lease, the expiration
+8 or termination of which will remove the unit from the condominium, but does not include a person
+9 having an interest in a unit solely as security for an obligation.
+10 SECTION 2. Chapter 34-36.1 of the General Laws entitled "Condominium Law" is hereby
+11 amended by adding thereto the following section:
+12 34-36.1-3.22. Applicability of structural common element study requirement for
+13 condominium associations.
+14 (a) Any condominium twenty (20) years old or older shall commission a conditions survey
+15 that includes a timeline by which such repairs and replacements should be completed and shall
+16 identify areas that should be physically designated as safety hazards with access prohibited. The
+17 conditions survey and a plan developed by the executive board to address needed repairs and
+18 replacements shall be shared with all unit owners upon its completion.
+19 (b) A declarant shall obtain and include a condition survey report, reserve study, and a
+20 reserve study update, if applicable, in the public offering statement pursuant to § 34-36.1-4.03 that
+21 references all common elements constructed prior to the declaration of units by the original
+22 declaration as well as any subsequent amendments that declare additional units. An association
+23 reserve financial account shall be established no later than twenty (20) days after the recording of
+24 the declaration in the land evidence records of the city or town where the condominium is located
+25 and information about such account shall be stated in the public offering statement.
+26 (c) An association that has not commissioned an initial reserves study or has not conducted
+27 one within five (5) years shall conduct a reserves study within twelve (12) months of the effective
+28 date of this legislation unless they are conducting a conditions survey. An association conducting
+29 a conditions survey that has not had a reserves study done within five (5) years shall conduct a
+30 reserves study at least at the time the repairs and replacements identified by the conditions survey
+31 are completed.
+32 (d) Every condominium association shall conduct a reserves study or a reserves study
+33 update with engineer review every five (5) years after its initial reserves study.
+34 (e) All reserve studies shall be conducted, certified, and dated by a reserves study specialist
+LC005695/SUB A - Page 7 of 9
+
+1 (RS ™) certified by the Community Associations Institute or a professional engineer (PE) licensed
+2 in the state. All reserve studies shall be prepared in conformance with the currently available
+3 Reserve Study Standards of the Community Associations Institute or similar standards by another
+4 recognized national organization.
+5 (f) The most recent reserve study shall be shared with all unit owners upon completion and
+6 shall be included in the sales certificate for new unit owners within sixty (60) days of its availability
+7 to unit owners.
+8 (g) The executive board shall oversee the development of a plan that addresses the short
+9 term recommendations of the reserve study with respect to the association’s priorities, funding, and
+10 timelines. Such plan shall be shared with all unit owners. The executive board shall subsequently
+11 engage in a strategic planning process that includes the reserve study’s recommendations in
+12 addition to its other goals and objectives. The strategic plan shall be shared with all unit owners
+13 when completed, the executive board shall report on its progress to all unit owners on an annual
+14 basis, and it shall be updated at least every five (5) years.
+15 (h) It is the responsibility of the association’s governing executive board to identify and
+16 obtain funds needed to address any immediate repairs and replacements identified by a conditions
+17 survey. Unless the association’s declaration or bylaws state otherwise, the unit owners of the
+18 association, by a majority vote of a quorum, may determine the source of these finances which
+19 could include reserves and/or assessments and/or loans, and/or amendment of budget through
+20 standard procedure.
+21 (i) The association must maintain a reserves account, separate from the operating account,
+22 in a regulated financial institution that is regulated to do business in the State of Rhode Island, that
+23 shall only be used to conduct necessary work as identified in the conditions survey, reserves studies,
+24 and unexpected needed structural repairs to common elements. The reserves account may also fund
+25 the required reserves studies. The reserves account shall be funded by at least fifteen percent (15%)
+26 of the monthly assessment fee by January 1, 2027 and may be supplemented by assessments as
+27 necessary to maintain the structural integrity of the association’s infrastructure.
+28 SECTION 3. This act shall take effect on January 1, 2028.
+========
+LC005695/SUB A
+========
+LC005695/SUB A - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- CONDOMINIUM LAW
+***
+1 This act would amend Rhode Island condominium act to require condominium associations
+2 to conduct periodic structural conditions surveys and reserve studies, share the results with unit
+3 owners, develop repair and funding plans, and maintain a separate reserve account funded by at
+4 least fifteen percent (15%) of monthly assessments.
+5 This act would take effect on January 1, 2028.
+========
+LC005695/SUB A
+========
+LC005695/SUB A - Page 9 of 9
