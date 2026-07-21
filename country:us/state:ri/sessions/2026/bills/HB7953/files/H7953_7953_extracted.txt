@@ -1,0 +1,266 @@
+Title: 
+Official Title: 
+Source: versions - 7953
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7953
+========
+LC005048
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+RHODE ISLAND SOCIAL MEDIA REGULATION ACT
+Introduced By: Representatives Spears, Boylan, Cortvriend, Tanzi, Casimiro, McEntee,
+Potter, McNamara, Read, and McGaw
+Date Introduced: February 27, 2026
+Referred To: House Innovation, Internet, & Technology
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 63
+4 RHODE ISLAND SOCIAL MEDIA REGULATION ACT
+5 6-63-1. Definitions.
+6 As used in this chapter:
+7 (1) "Account holder" means a person who has, or opens, an account or profile to use a
+8 social media company's platform.
+9 (2) "Director" means the director of the department of business regulation.
+10 (3) "Department" means the department of business regulation.
+11 (4) "Educational entity" means a public school, a local education agency (LEA), a charter
+12 school, a private school, a denominational school, a parochial school, a community college, a state
+13 college, a state university, or a nonprofit private postsecondary educational institution.
+14 (5) "Interactive computer service" means an information service, information system, or
+15 information access software provider that provides or enables computer access by multiple users to
+16 a computer server and provides access to the Internet. "Interactive computer service" includes:
+17 (i) A web service;
+18 (ii) A web system;
+
+1 (iii) A website;
+2 (iv) A web application; and
+3 (v) A web portal.
+4 (6) "Minor" means an individual who is under the age of eighteen (18) years.
+5 (7) "Post" means content that an account holder makes available on a social media platform
+6 for other account holders or users to view.
+7 (8) "Social media company" means a person or entity that:
+8 (i) Provides a social media platform that has at least five million (5,000,000) account
+9 holders worldwide; and
+10 (ii) Is an interactive computer service.
+11 (9)(i) "Social media platform" means an online forum that a social media company makes
+12 available for an account holder to:
+13 (A) Create a profile;
+14 (B) Upload posts;
+15 (C) View the posts of other account holders; and
+16 (D) Interact with other account holders or users.
+17 (ii) "Social media platform" does not include an online service, website, or application:
+18 (A) Where the predominant or exclusive function is:
+19 (I) Electronic mail;
+20 (II) Direct messaging consisting of text, photos, or videos that are sent between devices by
+21 electronic means where messages are shared between the sender and the recipient, only visible to
+22 the sender and the recipient, and are not posted publicly;
+23 (B) That provides a streaming service that:
+24 (I) Provides only licensed media in a continuous flow from the service, website, or
+25 application to the end user; and
+26 (II) Does not obtain a license to the media from a user or account holder by agreement to
+27 its terms of service;
+28 (C) That provides news, sports, entertainment, or other content that is preselected by the
+29 provider and not user generated, and any chat, comment, or interactive functionality that is provided
+30 incidental to, directly related to, or dependent upon provision of the content;
+31 (D) That provides online shopping or e-commerce, if the interaction with other users or
+32 account holders is generally limited to:
+33 (I) The ability to upload a post and comment on reviews; and
+34 (II) The ability to display lists or collections of goods for sale or wish lists; and other
+LC005048 - Page 2 of 8
+
+1 functions that are focused on online shopping or e-commerce rather than interaction between users
+2 or account holders;
+3 (E) That provides interactive gaming, virtual gaming, or an online service, that allows the
+4 creation and uploading of content for the purpose of interactive gaming, edutainment, or associated
+5 entertainment, and the communication related to that content;
+6 (F) That provides photo editing that has an associated photo hosting service, if the
+7 interaction with other users or account holders is generally limited to liking or commenting;
+8 (G) That provides a professional creative network for showcasing and discovering artistic
+9 content, if the content is required to be non-pornographic;
+10 (H) That provides single-purpose community groups for public safety if the interaction
+11 with other users or account holders is generally limited to that single purpose and the community
+12 group has guidelines or policies against illegal content;
+13 (I) Providing career development opportunities, including professional networking, job
+14 skills, learning certifications, and job posting and application services;
+15 (J) That provides business to business software;
+16 (K) That provides a teleconferencing or videoconferencing service that allows reception
+17 and transmission of audio and video signals for real time communication;
+18 (L) That provides cloud storage;
+19 (M) That provides shared document collaboration;
+20 (N) That provides cloud computing services, which may include cloud storage and shared
+21 document collaboration;
+22 (O) Providing access to or interacting with data visualization platforms, libraries, or hubs;
+23 (P) Permitting comments on a digital news website, if the news content is posted only by
+24 the provider of the digital news website;
+25 (Q) Providing or obtaining technical support for a platform, product, or service;
+26 (R) That provides academic or scholarly research;
+27 (S) That provides genealogical research where the majority of the content that is posted or
+28 created is posted or created by the provider of the online service, website, or application and the
+29 ability to chat, comment, or interact with other users is directly related to the provider's content;
+30 (T) That is a classified ad service that only permits the sale of goods and prohibits the
+31 solicitation of personal services; or
+32 (U) That is used by and under the direction of an educational entity, including a learning
+33 management system a student engagement program and a subject or skill-specific program.
+34 (10) "User" means a person who has access to view all or some of, the post on a social
+LC005048 - Page 3 of 8
+
+1 media platform, but is not an account holder.
+2 (11) “Rhode Island account holder” means a person who is a Rhode Island resident and an
+3 account holder.
+4 (12) "Rhode Island resident" means an individual who currently resides in Rhode Island.
+5 6-63-2. Age requirements for use of social media platform -- Parental consent --
+6 Rulemaking authority of decision.
+7 (a) Commencing January 1, 2027, a social media company shall not permit a Rhode Island
+8 resident who is a minor to be an account holder on the social media company's social media
+9 platform.
+10 (b) Commencing January 1, 2027, a social media company shall verify the age of an
+11 existing or new Rhode Island account holder as required under this chapter:
+12 (1) For a new account, at the time the Rhode Island resident opens the account; or
+13 (2) For a Rhode Island account holder who has not provided age verification as required
+14 under this section, within fourteen (14) calendar days of the Rhode Island account holder's attempt
+15 to access the account.
+16 (c) If a Rhode Island account holder fails to meet the verification requirements of this
+17 section within the required time period, the social media company shall deny access to the account:
+18 (1) Upon the expiration of the time period; and
+19 (2) Until all verification requirements are met.
+20 (d) The department shall promulgate rules and regulations to implement the provisions of
+21 this chapter to include, but not limited to:
+22 (1) Establish processes or means by which a social media company may meet the age
+23 verification requirements of this chapter;
+24 (2) Establish acceptable forms or methods of identification, specifically a valid
+25 government-issued identification stating the date of birth or age of the individual account holder;
+26 (3) Establish requirements for providing confirmation of the receipt of any information
+27 provided by a person seeking to verify age under this chapter;
+28 (4) Establish requirements for retaining, protecting, and securely disposing of any
+29 information obtained by a social media company or its agent as a result of compliance with the
+30 requirements of this chapter; and
+31 (5) Require that information obtained by a social media company or its agent in order to
+32 comply retained for the purpose of compliance and may not be used for any other purpose.
+33 (e) If the department permits an agent to process verification requirements required by this
+34 section, require that the agent have its principal place of business in the United States of America.
+LC005048 - Page 4 of 8
+
+1 (f) The department shall require other applicable state agencies to comply with any rules
+2 promulgated under the authority of this section.
+3 (g) The department shall ensure that the rules are consistent with state and federal law.
+4 6-63-3. Investigating powers of the department.
+5 (a) The department shall receive consumer complaints alleging a violation of this chapter.
+6 (b) A person may file a consumer complaint that alleges a violation under this chapter, with
+7 the department.
+8 (c) The department shall investigate a consumer complaint to determine whether a violation
+9 of § 6-63-2 has occurred.
+10 6-63-4. Enforcement powers of the department.
+11 (a) Except for a private right of action under § 6-63-6, the department has the exclusive
+12 authority to administer and concurrent authority with the attorney general to enforce the
+13 requirements of § 6-63-2.
+14 (b) The attorney general upon request, shall provide legal advice to, and act as counsel for,
+15 the department in the exercise of the department responsibilities under this chapter.
+16 (c) Subject to the ability to cure an alleged violation under this chapter:
+17 (1) The department director may impose an administrative fine of up to two thousand five
+18 hundred dollars ($2,500) for each violation of this chapter; and
+19 (2) The department may refer alleged violations to the attorney general to bring an action
+20 in a court of competent jurisdiction to enforce a provision of this chapter.
+21 (d) In a court action by the attorney general to enforce a provision of § 6-63-2, the court
+22 may:
+23 (1) Declare that the act or practice violates a provision of § 6-63-2;
+24 (2) Issue an injunction for a violation of § 6-63-2;
+25 (3) Order disgorgement of any money received in violation of § 6-63-2;
+26 (4) Order payment of disgorged money to an injured purchaser or consumer;
+27 (5) Award actual damages to an injured purchaser or consumer; and
+28 (6) Award any other relief that the court deems reasonable and necessary.
+29 (e) At least thirty (30) days before the day on which the department initiates an enforcement
+30 action against a person or entity or refer the matter to the attorney general, the department shall
+31 provide the person or entity with:
+32 (1) Written notice that identifies each alleged violation; and
+33 (2) An explanation of the basis for each allegation.
+34 (f) The department may not initiate an action if the person or entity:
+LC005048 - Page 5 of 8
+
+1 (1) Cures the noticed violation within thirty (30) days after the day on which the person or
+2 entity receives the notices; and
+3 (2) Provides the department with a written statement that:
+4 (i) The person or entity has cured the violation; and
+5 (ii) States no further violation shall occur.
+6 (g) The department shall refer a matter to the attorney general with a recommendation to
+7 initiate a civil action against a person or entity who:
+8 (1) Fails to cure a violation after receiving the notice described in this section; or
+9 (2) After curing a noticed violation and providing a written statement in accordance with
+10 the provisions of this chapter, commits another violation of the same provision.
+11 (h) If a court of competent jurisdiction grants judgment or injunctive relief to the attorney
+12 general the court shall award the department:
+13 (1) Reasonable attorneys' fees;
+14 (2) Court costs; and
+15 (3) Investigative fees.
+16 (i) A person who repeatedly violates an administrative or court order issued for a violation
+17 of this chapter, is subject to a civil penalty of no more than five thousand dollars ($5,000) for a
+18 second or subsequent violation.
+19 (j) A civil penalty authorized under this section may be imposed in any civil action brought
+20 or by the attorney general on behalf of the department.
+21 (k) Nothing in this chapter shall be construed as limiting or preventing the attorney general
+22 from initiating any investigation or enforcement action prior to or absent a referral from the
+23 department.
+24 6-63-5. Department report.
+25 (a) The department, in consultation with the attorney general, shall, by October 15, compile
+26 an annual report:
+27 (1) Evaluating the liability and enforcement provisions of this chapter, including:
+28 (i) The effectiveness of the department's efforts to enforce this chapter; and
+29 (ii) Any recommendations for changes to this chapter;
+30 (2) Summarizing the consumer interactions that are protected and not protected by this
+31 chapter, including a list of alleged violations the department has received; and
+32 (3) An accounting of all administrative fines and civil penalties assessed during the year.
+33 (b) A copy of the reports compiled pursuant to the provisions of subsection (a) of this
+34 section shall be provided to the governor, the speaker, and the senate president.
+LC005048 - Page 6 of 8
+
+1 6-63-6. Private rights of action.
+2 (a) Commencing January l, 2027, an aggrieved person or account holder may bring an
+3 action against a person that violates a requirement of § 6-63-2.
+4 (b) A suit filed under the authority of this section shall be filed in the superior court for the
+5 county in which a person bringing the action resides.
+6 (c) If a court finds that a person or entity has violated a provision of § 6-63-2, the person
+7 who brings an action under this section is entitled to:
+8 (1) An award of reasonable attorneys' fees and court costs; and
+9 (2) An amount equal to the greater of:
+10 (i) Two thousand five hundred dollars ($2,500) per each incident of violation; or
+11 (ii) Actual damages for financial, physical, and emotional harm incurred by the person
+12 bringing the action, if the court determines that the harm is a direct consequence of the violation or
+13 violations.
+14 6-63-7. Waiver prohibited.
+15 A waiver or limitation, or a purported waiver or limitation, of any of the provisions of this
+16 chapter is void as unlawful, is against public policy, and a court or arbitrator shall not enforce or
+17 give effect to the waiver, notwithstanding any contract or choice-of-law provision in a contract that
+18 violates a protection or requirement provided under this chapter.
+19 6-63-8. Severability.
+20 If any provision of this chapter or the application of any provision to any person or
+21 circumstance is held invalid by a final decision of a court of competent jurisdiction, the remainder
+22 of this chapter shall be given effect without the invalid provision or application. The provisions of
+23 this chapter are severable.
+24 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC005048
+========
+LC005048 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+RHODE ISLAND SOCIAL MEDIA REGULATION ACT
+***
+1 This act would create the Rhode Island Social Media Regulation act, which would not
+2 permit a Rhode Island resident who is a minor to be an account holder on a social media's platform.
+3 This act would take effect on January 1, 2027.
+========
+LC005048
+========
+LC005048 - Page 8 of 8

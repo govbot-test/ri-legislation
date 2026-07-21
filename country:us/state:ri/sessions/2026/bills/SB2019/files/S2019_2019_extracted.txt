@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - 2019
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2019
+========
+LC003310
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- ESTATE AND TRANSFER TAXES -- LIABILITY AND
+COMPUTATION
+Introduced By: Senators Paolino, E Morgan, Rogers, de la Cruz, Raptakis, Patalano,
+Dimitri, Pearson, Urso, and Thompson
+Date Introduced: January 09, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-22-1.1 of the General Laws in Chapter 44-22 entitled "Estate and
+2 Transfer Taxes — Liability and Computation" is hereby amended to read as follows:
+3 44-22-1.1. Tax on net estate of decedent.
+4 (a)(1) For decedents whose death occurs on or after January 1, 1992, but prior to January
+5 1, 2002, a tax is imposed upon the transfer of the net estate of every resident or nonresident decedent
+6 as a tax upon the right to transfer. The tax is a sum equal to the maximum credit for state death
+7 taxes allowed by 26 U.S.C. § 2011.
+8 (2) For decedents whose death occurs on or after January 1, 2002, but prior to January 1,
+9 2010, a tax is imposed upon the transfer of the net estate of every resident or nonresident decedent
+10 as a tax upon the right to transfer. The tax is a sum equal to the maximum credit for state death
+11 taxes allowed by 26 U.S.C. § 2011 as it was in effect as of January 1, 2001; provided, however,
+12 that the tax shall be imposed only if the net taxable estate shall exceed six hundred seventy-five
+13 thousand dollars ($675,000). Any scheduled increase in the unified credit provided in 26 U.S.C. §
+14 2010 in effect on January 1, 2001, or thereafter, shall not apply.
+15 (3) For decedents whose death occurs on or after January 1, 2010, and prior to January 1,
+16 2015, a tax is imposed upon the transfer of the net estate of every resident or nonresident decedent
+17 as a tax upon the right to transfer. The tax is a sum equal to the maximum credit for state death
+18 taxes allowed by 26 U.S.C. § 2011 as it was in effect as of January 1, 2001; provided, however,
+
+1 that the tax shall be imposed only if the net taxable estate shall exceed eight hundred and fifty
+2 thousand dollars ($850,000); provided, further, beginning on January 1, 2011, and each January 1
+3 thereafter until January 1, 2015, said amount shall be adjusted by the percentage of increase in the
+4 Consumer Price Index for all Urban Consumers (CPI-U) as published by the United States
+5 Department of Labor Statistics determined as of September 30 of the prior calendar year; said
+6 adjustment shall be compounded annually and shall be rounded up to the nearest five dollar ($5.00)
+7 increment. Any scheduled increase in the unified credit provided in 26 U.S.C. § 2010 in effect on
+8 January 1, 2003, or thereafter, shall not apply.
+9 (4) For decedents whose death occurs on or after January 1, 2015, a tax is imposed upon
+10 the transfer of the net estate of every resident or nonresident decedent as a tax upon the right to
+11 transfer. The tax is a sum equal to the maximum credit for state death taxes allowed by 26 U.S.C.
+12 § 2011, as it was in effect as of January 1, 2001; provided, however, that a Rhode Island credit shall
+13 be allowed against any tax so determined in the amount of sixty-four thousand four hundred
+14 ($64,400). Any scheduled increase in the unified credit provided in 26 U.S.C. § 2010 in effect on
+15 January 1, 2003, or thereafter, shall not apply; provided, further, beginning on January 1, 2016, and
+16 each January 1 thereafter, said Rhode Island credit amount under this section shall be adjusted by
+17 the percentage of increase in the Consumer Price Index for all Urban Consumers (CPI-U) as
+18 published by the United States Department of Labor Statistics determined as of September 30 of
+19 the prior calendar year; said adjustment shall be compounded annually and shall be rounded up to
+20 the nearest five dollar ($5.00) increment.
+21 (5)(i) For decedents whose death occurs on or after January 1, 2027 and prior to January 1,
+22 2028, a tax is imposed pursuant to the provisions of subsection (a)(4) of this section, upon the
+23 transfer of the net estate of every resident or nonresident decedent as a right of transfer, if the net
+24 taxable estate shall exceed three million six hundred thousand dollars ($3,600,00);
+25 (ii) For decedents whose death occurs on or after January 1, 2028 and prior to January 1,
+26 2029, a tax is imposed pursuant to the provisions of subsection (a)(4) of this section, upon the
+27 transfer of the net estate of every resident or nonresident decedent as a right of transfer, if the net
+28 taxable estate shall exceed four million six hundred thousand dollars ($4,600,00);
+29 (iii) For decedents whose death occurs on or after January 1, 2029 and prior to January 1,
+30 2030, a tax is imposed pursuant to the provisions of subsection (a)(4) of this section, upon the
+31 transfer of the net estate of every resident or nonresident decedent as a right of transfer, if the net
+32 taxable estate shall exceed five million six hundred thousand dollars ($5,600,00);
+33 (iv) For decedents whose death occurs on or after January 1, 2030 and prior to January 1,
+34 2031, a tax is imposed pursuant to the provisions of subsection (a)(4) of this section, upon the
+LC003310 - Page 2 of 5
+
+1 transfer of the net estate of every resident or nonresident decedent as a right of transfer, if the net
+2 taxable estate shall exceed six million six hundred thousand dollars ($6,600,00);
+3 (v) For decedents whose death occurs on or after January 1, 2031 and prior to January 1,
+4 2032, a tax is imposed pursuant to the provisions of subsection (a)(4) of this section, upon the
+5 transfer of the net estate of every resident or nonresident decedent as a right of transfer, if the net
+6 taxable estate shall exceed seven million six hundred thousand dollars ($7,600,00);
+7 (vi) For decedents whose death occurs on or after January 1, 2032 and prior to January 1,
+8 2033, a tax is imposed pursuant to the provisions of subsection (a)(4) of this section, upon the
+9 transfer of the net estate of every resident or nonresident decedent as a right of transfer, if the net
+10 taxable estate shall exceed eight million six hundred thousand dollars ($8,600,00);
+11 (vii) No tax on the transfer of the net estate shall be due for any transfer of a decedents
+12 estate for a decedent whose death occurs on or after January 1, 2033.
+13 (b) If the decedent’s estate contains property having a tax situs not within the state, then
+14 the tax determined by this section is reduced to an amount determined by multiplying the tax by a
+15 fraction whose numerator is the gross estate excluding all property having a tax situs not within the
+16 state at the decedent’s death and whose denominator is the gross estate. In determining the fraction,
+17 no deductions are considered and the gross estate is not reduced by a mortgage or other
+18 indebtedness for which the decedent’s estate is not liable.
+19 (c)(1) The terms “gross taxable estate,” “federal gross estate” or “net taxable estate” used
+20 in this chapter or chapter 23 of this title has the same meaning as when used in a comparable context
+21 in the laws of the United States, unless a different meaning is clearly required by the provisions of
+22 this chapter or chapter 23 of this title. Any reference in this chapter or chapter 23 of this title to the
+23 Internal Revenue Code or other laws of the United States means the Internal Revenue Code of
+24 1954, 26 U.S.C. § 1 et seq.
+25 (2) For decedents whose death occurs on or after January 1, 2002, the terms “gross taxable
+26 estate” “federal gross estate” or “net taxable estate” used in this chapter or chapter 23 of this title
+27 has the same meaning as when used in a comparable context in the laws of the United States, unless
+28 a different meaning is clearly required by the provisions of this chapter or chapter 23 of this title.
+29 Any reference in this chapter or chapter 23 of this title to the Internal Revenue Code or other laws
+30 of the United States means the Internal Revenue Code of 1954, 26 U.S.C. § 1 et seq., as they were
+31 in effect as of January 1, 2001, unless otherwise provided.
+32 (d) All values are as finally determined for federal estate tax purposes.
+33 (e) Property has a tax situs within the state of Rhode Island:
+34 (1) If it is real estate or tangible personal property and has actual situs within the state of
+LC003310 - Page 3 of 5
+
+1 Rhode Island; or
+2 (2) If it is intangible personal property and the decedent was a resident.
+3 (f) The provisions of this section shall sunset and expire on January 1, 2033.
+4 SECTION 2. This act shall take effect upon passage.
+========
+LC003310
+========
+LC003310 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- ESTATE AND TRANSFER TAXES -- LIABILITY AND
+COMPUTATION
+***
+1 This act would increase the net taxable estate exemption to three million six hundred
+2 thousand dollars ($3,600,000) on January 1, 2027. This act would also increase the exemption by
+3 one million dollars ($1,000,000) on January 1, 2028, and every year thereafter until this section and
+4 the tax would sunset and expire on January 1, 2033.
+5 This act would take effect upon passage.
+========
+LC003310
+========
+LC003310 - Page 5 of 5

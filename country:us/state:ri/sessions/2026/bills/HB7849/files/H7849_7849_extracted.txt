@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - 7849
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7849
+========
+LC005691
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+FILING OF TRADE NAME
+Introduced By: Representative Alex D. Marszalkowski
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 13.4
+4 SURVEILLANCE PRICING AND ONLINE RETAILING
+5 6-13.4-1. Definitions.
+6 As used in this chapter:
+7 (1) "Algorithmic price increase" means any act of charging a price for a good or service
+8 that is higher than the seller's baseline price where:
+9 (i) The seller uses an automated algorithm, artificial intelligence, or other data processing
+10 system; and
+11 (ii) The price is determined by, or materially influenced by, personal data tied to or
+12 reasonably identifiable to an individual consumer, including but not limited to geolocation, device
+13 identifiers, browsing or purchase history, demographics, or past purchases.
+14 (2) "Baseline price" means the price the seller would charge for the same good or service
+15 at the same point in time under a uniform pricing policy that does not incorporate individualized
+16 personal data analysis.
+17 (3) "Personal data" has the meaning given in § 6-48.1-2 and includes any information that
+18 identifies or could reasonably be linked to a specific consumer or device.
+
+1 (4) "Online retailer" means any person or entity selling goods or services through an
+2 internet website, mobile application, or other digital platform.
+3 (5) "Price decrease" means any reduction below the seller's baseline price, including
+4 discounts, promotions, volume pricing, loyalty rewards, or time-limited offers.
+5 6-13.4-2. Prohibition.
+6 (a) No online retailer operating or offering goods or services for sale in this state shall
+7 knowingly apply an algorithmic price increase in the sale of goods or services to consumers in
+8 Rhode Island.
+9 (b) This prohibition does not restrict:
+10 (1) Price decreases as defined in § 6-13.4-1;
+11 (2) Dynamic pricing based on general market conditions, inventory, time-of-day, or other
+12 factors not incorporating individualized personal data; or
+13 (3) Pricing practices otherwise permitted under federal law.
+14 6-13.4-3. Transparency notice.
+15 (a) When a price offered to a consumer is influenced by personal data in a manner not
+16 prohibited by § 16-13.4-2, the online retailer shall display a clear and conspicuous disclosure near
+17 the price stating:
+18 "THIS PRICE MAY BE INFLUENCED BY DYNAMIC PRICING FACTORS SUCH AS
+19 MARKET CONDITIONS, INVENTORY OR TIMING OF SALE."
+20 (b) This disclosure is not required when the price offered is a price decrease.
+21 6-13.4-4. Enforcement.
+22 (a) A violation of this chapter shall constitute a deceptive trade practice prohibited pursuant
+23 to § 6-13.1-2.
+24 (b) The attorney general may enforce this chapter pursuant to the provisions of chapter 13.1
+25 of title 6 (Rhode Island deceptive trade practices act), including by seeking injunctive relief and
+26 civil penalties.
+27 6-13.4-5. Civil penalties.
+28 (a) Violations of this chapter may result in civil penalties of up to one hundred dollars
+29 ($100) per violation.
+30 (b) Each instance of noncompliance shall constitute a separate violation.
+31 6-13.4-6. Severability.
+32 If any provision of this chapter is held invalid, the remainder shall remain in effect.
+33 SECTION 2. This act shall take effect upon passage.
+LC005691 - Page 2 of 4
+
+========
+LC005691
+========
+LC005691 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+FILING OF TRADE NAME
+***
+1 This chapter would create the surveillance pricing and online retailing act that would
+2 prohibit algorithmic price increases for online purchases.
+3 This act would take effect upon passage.
+========
+LC005691
+========
+LC005691 - Page 4 of 4

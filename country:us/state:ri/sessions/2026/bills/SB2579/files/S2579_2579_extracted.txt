@@ -1,0 +1,584 @@
+Title: 
+Official Title: 
+Source: versions - 2579
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2579
+========
+LC004825
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Introduced By: Senators Bissaillon, and Mack
+Date Introduced: February 13, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 34-18-37 of the General Laws in Chapter 34-18 entitled "Residential
+2 Landlord and Tenant Act" is hereby amended to read as follows:
+3 34-18-37. Termination of periodic tenancy.
+4 (a) The landlord or the tenant may terminate a week-to-week tenancy by a written notice,
+5 in a form substantially similar to that provided in § 34-18-56(c), delivered to the other at least ten
+6 (10) days before the termination date specified in the notice.
+7 (b) The landlord or the tenant may terminate a month-to-month tenancy or any periodic
+8 tenancy for more than a month or less than a year by a written notice, in a form substantially similar
+9 to that provided in § 34-18-56(c), delivered to the other at least thirty (30) sixty (60) days before
+10 the date specified in the notice, or at least one hundred twenty (120) days before the date specified
+11 in the notice for tenants aged sixty-two (62) years or older.
+12 (c) The landlord or tenant may terminate a year-to-year tenancy by written notice, in a form
+13 substantially similar to that provided in § 34-18-56(c), delivered to the other at least three (3)
+14 months prior to the expiration of the occupation year.
+15 SECTION 2. Section 34-18-56 of the General Laws in Chapter 34-18 entitled "Residential
+16 Landlord and Tenant Act" is hereby amended to read as follows:
+17 34-18-56. Notices and complaint forms.
+18 (a) A notice in substantially the following language shall suffice for the purpose of giving
+19 a tenant a five (5) day demand for payment of rent prior to commencement of an eviction pursuant
+
+1 to § 34-18-35:
+2 FIVE-DAY DEMAND NOTICE FOR NONPAYMENT OF RENT
+3 R.I.G.L. 34-18-35
+4 Date of Mailing: _____________________
+5 TO: __________________________
+6 (tenant)
+7 _____________________________
+8 _____________________________
+9 You are now more than fifteen days in arrears for some or all of the rent owed under your
+10 rental agreement. State law requires that you be sent this Notice of arrearage.
+11 Unless you make payment of all rent in arrears within five days of the date this notice was
+12 mailed to you, an eviction action may be instituted in court against you. You can prevent the
+13 eviction by paying all rent owing within five days of the mailing of this notice.
+14 If you believe you have a legal reason for not paying this rent, you will be able to present
+15 that defense at the eviction hearing. The rent in arrears as of the above date is $_____________.
+16 __________________________
+17 ________
+18 (signature)
+19 __________________________
+20 ________
+21 __________________________
+22 ________
+23 (name and address of land-
+24 lord/owner)
+25 I certify that I placed in regular U.S. mail, first class postage prepaid, a copy of this Notice,
+26 addressed to the tenant, on the ________ day of ________________________, 20______.
+27 __________________________
+28 ________
+29 (landlord or owner
+30 signature)
+31 (b) A notice in substantially the following language shall suffice for the purpose of giving
+32 a tenant a notice of noncompliance with the rental agreement pursuant to § 34-18-36:
+33 NOTICE OF NONCOMPLIANCE
+34 R.I.G.L. 34-18-36
+LC004825 - Page 2 of 17
+
+1 Date of Mailing: ____________________
+2 TO: __________________________
+3 (tenant)
+4 _____________________________
+5 _____________________________
+6 (address)
+7 You are in breach of your rental agreement, or of your legal duties under R.I.G.L. 34-18-
+8 24, because you:
+9 ______________________________________________________________________
+10 ______________________________________________________________________
+11 ______________________________________________________________________
+12 (provide details)
+13 To remedy this situation you must do the following within twenty days of the date of
+14 mailing of this Notice:
+15 ______________________________________________________________________
+16 ______________________________________________________________________
+17 ______________________________________________________________________
+18 If you do not remedy this situation within twenty days, your rental agreement will terminate
+19 without further notice on __________ (date, which must be not less than twenty-one days from the
+20 date of mailing of this Notice). (NOTE: Under the law you lose this right to remedy your
+21 noncompliance if this is the second notice on the same subject within the past six months.) After
+22 that date an eviction case may begin in court, and you may be served with a complaint. You will
+23 have the right to a hearing and to present any defenses you believe you have.
+24 __________________________
+25 ________
+26 (signature)
+27 __________________________
+28 ________
+29 __________________________
+30 ________
+31 (name and address of land-
+32 lord/owner)
+33 I certify that I placed in regular U.S. mail, first class postage prepaid, a copy of this Notice,
+34 addressed to the tenant, on the ________ day of ________________________, 20______.
+LC004825 - Page 3 of 17
+
+1 __________________________
+2 ________
+3 (landlord or owner
+4 signature)
+5 (c) A notice in substantially the following language shall suffice for the purpose of giving
+6 a tenant notice of termination of tenancy pursuant to § 34-18-37:
+7 NOTICE OF TERMINATION OF TENANCY
+8 R.I.G.L. 34-18-37
+9 Date of Mailing: _______________________
+10 TO: _________________________
+11 (tenant)
+12 _____________________________
+13 _____________________________
+14 (address)
+15 You are hereby directed to vacate and remove your property and personal possessions from
+16 the premises located at __________________________________ and deliver control of the
+17 premises to the
+18 (address of premises)
+19 landlord/owner on the first day after the end of your current rental period, namely
+20 ____________________, 20_____ rental period, namely __________________.
+21 (insert
+22 date)
+23 This notice is given for the purpose of terminating your tenancy. You must continue to pay
+24 rent as it becomes due until the date indicated above. If you fail to pay that rent, a nonpayment
+25 eviction action may be instituted against you.
+26 If you fail to vacate the premises by the date specified, an eviction may be instituted against
+27 you without further notice. If you believe you have a defense to this termination, you will be able
+28 to raise that defense at the court hearing.
+29 __________________________
+30 ________
+31 (signature)
+32 __________________________
+33 ________
+34 __________________________
+LC004825 - Page 4 of 17
+
+1 ________
+2 (name and address of land-
+3 lord/owner)
+4 I certify that I placed in regular U.S. mail, first class postage prepaid, a copy of this Notice,
+5 addressed to the tenant, on the ________ day of ________________________, 20______.
+6 __________________________
+7 ________
+8 (landlord or owner
+9 signature)
+10 (d) A complaint in substantially the following language shall suffice for the purpose of
+11 commencing an eviction action for nonpayment of rent pursuant to § 34-18-35:
+12 State of Rhode Island
+13 _______________________, Sc. DISTRICT
+14 COURT
+15 ____________________________ _____________
+16 DIVISION
+17 PLAINTIFF DEFENDANT
+18 ____________________________
+19 __________________________
+20 ________
+21 (Landlord's Name) (Tenant's Name)
+22 V
+23 __________________________________
+24 __________________________
+25 ________
+26 __________________________________
+27 __________________________
+28 ________
+29 __________________________________
+30 __________________________
+31 ________
+32 (address) (address of rental
+33 premises)
+34 COMPLAINT FOR EVICTION
+LC004825 - Page 5 of 17
+
+1 FOR NONPAYMENT OF RENT
+2 R.I.G.L. 34-18-35
+3 1. Plaintiff is the owner/landlord of the rental premises listed above, in which the Defendant
+4 Tenant currently resides.
+5 2. Defendant is more than fifteen days in arrears in rental payments due to the plaintiff from
+6 the defendant. The rent is $__________ per __________, and the amount in arrears is $________
+7 as of the __________ day of __________, 20____.
+8 (month)
+9 3. Plaintiff has served the five-day demand notice as required by law, and a copy of that
+10 notice is attached to this complaint. The notice was mailed to the defendant on the __________ day
+11 of ________, 20____.
+12 4. Defendant has not paid the rent in arrears or offered the full amount in arrears, either
+13 before or after the demand notice. Defendant remains in possession of the rental premises.
+14 WHEREFORE, Plaintiff requests that this Court grant a judgment for possession of the
+15 premises (eviction of the tenant) and for back rent in the amount of $______________, plus costs.
+16 __________________________
+17 ________
+18 (Name & address of
+19 landlord/owner
+20 or attorney for landlord)
+21 __________________________
+22 ________
+23 Date complaint filed with clerk __________________
+24 (e) A complaint in substantially the following language shall suffice for the purpose of
+25 commencing an eviction action for noncompliance with the rental agreement pursuant to § 34-18-
+26 36, or an eviction action for unlawfully holding over after expiration or termination of the tenancy
+27 pursuant to § 34-18-38:
+28 STATE OF RHODE ISLAND
+29 _______________________, Sc. DISTRICT
+30 COURT
+31 ____________________________ _____________
+32 DIVISION
+33 PLAINTIFF DEFENDANT
+34 ____________________________
+LC004825 - Page 6 of 17
+
+1 __________________________
+2 ________
+3 (Landlord's Name) (Tenant's Name)
+4 V
+5 __________________________________
+6 __________________________
+7 ________
+8 __________________________________
+9 __________________________
+10 ________
+11 (address) (address of rental
+12 premises)
+13 COMPLAINT FOR EVICTION
+14 FOR REASON OTHER THAN
+15 NONPAYMENT OF RENT
+16 R.I.G.L. 34-18-36
+17 R.I.G.L. 34-18-38
+18 1. Plaintiff Landlord(s) owns the rental premises listed above, in which the Defendant
+19 Tenant(s) resides.
+20 2. CHECK ONE:
+21 ____ Defendant breached the tenant's obligations under the rental agreement or § 34-18-
+22 24 as set forth in the attached copy of the notice of noncompliance which was mailed to the
+23 defendant. Defendant has not cured or remedied the breach. (Plaintiff must attach copy of required
+24 notice of noncompliance.)
+25 ____ Defendant has remained in possession of the rented premises following the period set
+26 forth in the attached notice of termination of tenancy which was mailed to defendant. (Plaintiff
+27 must attach copy of required termination notice.)
+28 ____ Defendant breached the tenants' obligations under § 34-18-24(8), (9) or (10).
+29 3. Plaintiff seeks judgment for possession of the premises plus judgment in the amount of
+30 _______________________________________________________________________
+31 for ____________________________________________________________________
+32 ______________________________________________________________________
+33 ______________________________________________________________________
+34 ______________________________________________________________________
+LC004825 - Page 7 of 17
+
+1 (explain basis for money claim)
+2 Plaintiff seeks costs and fees (if applicable).
+3 __________________________
+4 ________
+5 (Signature of Landlord/Owner or
+6 Attorney)
+7 __________________________
+8 ________
+9 Date complaint filed with clerk __________
+10 (f) A complaint in substantially the following language, or in similar language, shall be
+11 sufficient for use by landlords or by tenants to bring any claims or causes of action other than
+12 eviction actions:
+13 NOT FOR EVICTION
+14 State of Rhode Island
+15 _______________________, Sc. DISTRICT
+16 COURT
+17 ____________________________ _____________
+18 DIVISION
+19 PLAINTIFF DEFENDANT
+20 ____________________________
+21 __________________________
+22 ________
+23 (Name) (Name)
+24 V
+25 __________________________________
+26 __________________________
+27 ________
+28 __________________________________
+29 __________________________
+30 ________
+31 __________________________________
+32 __________________________
+33 ________
+34 (address) (address of rental
+LC004825 - Page 8 of 17
+
+1 premises)
+2 LANDLORD-TENANT COMPLAINT
+3 (NOT FOR USE IN EVICTIONS)
+4 1. Plaintiff is the ____ Tenant ____ Landlord/Owner of the rental premises
+5 at. _____________________________________________________________________
+6 (address of rental premises)
+7 2. Defendant is the ____ Tenant ____ Landlord/Owner.
+8 3. Plaintiff claims that defendant has breached the obligations of the rental agreement or
+9 law in relation to this landlord-tenant relationship, as follows:
+10 ______________________________________________________________________
+11 ______________________________________________________________________
+12 ______________________________________________________________________
+13 (brief description of claim, attach extra sheet, if necessary)
+14 4. Plaintiff seeks the following judgment or relief from the Court:
+15 ______________________________________________________________________
+16 ______________________________________________________________________
+17 ______________________________________________________________________
+18 Date Complaint Filed
+19 __________________________
+20 ________
+21 With Clerk: __________ (Signature of plaintiff or
+22 plaintiff's
+23 attorney)
+24 __________________________
+25 ________
+26 (address)
+27 (g) The summons in an action for eviction for nonpayment of rent pursuant to § 34-18-35
+28 shall be in substantially the following form:
+29 STATE OF RHODE ISLAND
+30 DISTRICT COURT
+31 SU
+32 MMONS
+33 EVICTION-NONPAYMENT OF RENT
+34 DIVISION COUNTY CIVIL ACTION-FILE NO.
+LC004825 - Page 9 of 17
+
+1 Address of Court:
+2 __________________________________
+3 __________________________
+4 ________
+5 __________________________________
+6 __________________________
+7 ________
+8 __________________________________
+9 __________________________
+10 ________
+11 (name & address of plaintiff landlord) (name & address of
+12 defendant-tenant)
+13 TO THE TENANT: You are served with an eviction complaint for nonpayment of rent. If
+14 you do nothing, you will lose by default and be evicted. If you claim any defense, you must
+15 complete the enclosed ANSWER and file it with the Court Clerk at or before the hearing date. You
+16 should also mail a copy to the landlord or the landlord's lawyer. Your hearing will be at 9:30 A.M.
+17 on the hearing date, at the court address listed above. You should go to the hearing or you may lose
+18 by default. If you think the case is "settled," you should still go to the hearing to make sure the
+19 settlement is in the court record.
+20 YOUR HEARING DATE IS: ________________________________.
+21 (Proof of Service on next page)
+22 ________________________________________
+23 PROOF OF SERVICE
+24 I hereby certify that I served a copy of the Complaint and Summons & Answer upon the
+25 defendant(s) by delivering or leaving said papers in the following manner:
+26 ______ to the defendant personally; or
+27 ______ at his or her dwelling unit or usual place of abode
+28 at the
+29 address listed below with a person of suitable age
+30 then
+31 residing therein; or
+32 ______ if none be found, by posting conspicuously on the
+33 door
+34 to the defendant's dwelling unit.
+LC004825 - Page 10 of 17
+
+1 ADDRESS OF DWELLING OR USUAL PLACE OF ABODE:
+2 _________________________________________________________
+3 NAME OF PERSON OF SUITABLE AGE:
+4
+5
+6 SERVICE DATE:
+7 ______________________________________________________________________
+8 DEPUTY SHERIFF/CONSTABLE:
+9 ______________________________________________________________________
+10 ______________________________________________________________________
+11 CERTIFICATE OF SERVICE
+12 I hereby certify that a copy of this Complaint and Summons was placed into regular U.S.
+13 Mail, postage prepaid, on the __________________ day of ________________, 20____, addressed
+14 to defendant at the following address:
+15 ________________________________________________.
+16 __________________________
+17 ________
+18 (Signature of ____________
+19 Clerk)
+20 (h) The summons in an action for eviction for noncompliance with the rental agreement
+21 pursuant to § 34-18-36, or for unlawfully holding over after termination or expiration of tenancy
+22 pursuant to § 34-18-38, shall be in substantially the following form:
+23 State of Rhode Island
+24 District Court
+25 Summons
+26 EVICTION FOR REASON OTHER THAN NONPAYMENT OF RENT
+27 DIVISION COUNTY CIVIL ACTION-
+28 FILE NO.
+29 Address of Court:
+30 __________________________________
+31 __________________________
+32 ________
+33 V
+34 __________________________________
+LC004825 - Page 11 of 17
+
+1 __________________________
+2 ________
+3 __________________________________
+4 __________________________
+5 ________
+6 (name & address of plaintiff landlord) (name & address of defendant-
+7 tenant)
+8 TO THE TENANT: You are served with an eviction complaint for noncompliance with
+9 rental agreement (R.I.G.L. 34-18-36), or for unlawfully holding over after termination or expiration
+10 of tenancy (R.I.G.L. 34-18-38). If you do nothing, you will lose by default and be evicted. If you
+11 claim any defense, you must complete the enclosed ANSWER and file it with the Court Clerk
+12 within TWENTY (20) days after you are served with this summons and complaint. You should also
+13 mail a copy of the ANSWER to the landlord or the landlord's lawyer. If you file the enclosed
+14 ANSWER, then you will receive another written notice telling you when the hearing will be. If you
+15 have any questions, you may consult a lawyer. If you think the case is "settled" you should still file
+16 the enclosed ANSWER or be sure that the written settlement is in the file at the Clerk's office.
+17 (Proof of Service on next page)
+18 ________________________________________
+19 PROOF OF SERVICE
+20 I hereby certify that I served a copy of the Complaint, Summons, and Answer form upon
+21 the defendant(s) by delivering or leaving said papers in the following manner:
+22 ____ to the defendant personally
+23 ____ at his/her dwelling unit or usual place of abode at the address listed below, with a
+24 person of suitable age then residing therein
+25 ____ to an agent named below authorized by appointment or by law to receive service of
+26 process
+27 ____ further notice as required by law was given as noted below
+28 Address of dwelling or usual place of abode:
+29 ______________________________________________________________________
+30 Name of person of suitable age or of agent:
+31 ______________________________________________________________________
+32 Service Date: ____________________
+33 Deputy Sheriff/Constable (circle one):
+34 __________________________
+LC004825 - Page 12 of 17
+
+1 ________
+2 (signature)
+3 (i) The summons in an action relating to any claims by tenants, or by landlords other than
+4 for eviction, shall be in substantially the following form:
+5 State of Rhode Island
+6 District Court
+7 Summons
+8 ____________ ____________
+9 _____________________________
+10 DIVISION COUNTY CIVIL ACTION-
+11 FILE NO.
+12 _____________________________
+13 _____________________
+14 ________
+15 PLAINTIFF PLAINTIFF'S
+16 ATTORNEY
+17 __________________________
+18 ________
+19 ADDRESS
+20 _________________ vs
+21 DEFENDANT
+22 __________________________
+23 ________
+24 DEFENDANT'S ADDRESS
+25 ______________________________
+26 __________________________
+27 ________
+28 TO THE ABOVE-NAMED DEFENDANT:
+29 You are hereby summoned and required to serve upon the plaintiff's attorney, whose name
+30 and address appears above, an answer to the complaint which is herewith served upon you. Your
+31 answer must be made within 20 days after service of this summons, excluding the date of service.
+32 The original must be filed in writing with this court. If you fail to do so, judgment by default will
+33 be taken against you for the relief demanded in the complaint.
+34 ______________________________
+LC004825 - Page 13 of 17
+
+1 __________________________
+2 ________
+3 DATE CLERK
+4 ______________________________
+5 __________________________
+6 ________
+7 SEAL OF THE DISTRICT COURT DATE
+8 RECEIVED
+9 ______________________________________________________________________
+10 PROOF OF SERVICE
+11 I hereby certify that on the date below I served a copy of this summons and a copy of the
+12 complaint received herewith upon the above-named defendant by delivering or leaving said papers
+13 in the following manner:
+14 □ to the defendant personally.
+15 □ at his dwelling house or usual place of abode at the address entered
+16 below, with a person of suitable age and discretion then residing therewith.
+17 □ to an agent named below authorized by appointment or by law to receive
+18 service of process.
+19 □ Further notice as required by statute was given as noted on the reverse
+20 side.
+21 ______________________________________________________________________
+22 Address of Dwelling or Usual Place of Abode
+23 ______________________________________________________________________
+24 Name of Authorized Agent or Person of Suitable Age
+25 ______________________________
+26 __________________________
+27 ________
+28 Date Deputy Sheriff/Constable
+29 ______________________________
+30 __________________________
+31 ________
+32 SERVICE FEE $________
+33 (j) The blank answer served in eviction actions shall be in substantially the following form:
+34 State of Rhode Island
+LC004825 - Page 14 of 17
+
+1 _______________________, Sc. DISTRICT
+2 COURT
+3 ____________________________ _____________
+4 DIVISION
+5 PLAINTIFF DEFENDANT
+6 ____________________________
+7 __________________________
+8 ________
+9 (Landlord's Name) (Tenant's Name)
+10 V
+11 __________________________________
+12 __________________________
+13 ________
+14 __________________________________
+15 __________________________
+16 ________
+17 (address) (address of rental
+18 premises)
+19 INSTRUCTIONS TO THE DEFENDANT
+20 Listed below are several possible defenses to the eviction action your landlord has filed
+21 against you. If one or more of these defenses apply to your case, check the appropriate box(es). If
+22 space is provided, write in facts in support of that defense. Use additional paper if necessary. Some
+23 of these defenses are technical, and there may be others not listed here. You may consult a lawyer
+24 and seek representation before filling out this Answer.
+25 TENANT'S ANSWER
+26 The complaint against me is untrue or fails to state the following facts:
+27 I offered rent, but my landlord refused it. I am still able and willing to pay the rent.
+28 I have a defense for nonpayment because the landlord has failed to maintain the premises
+29 in a fit and habitable condition.
+30 My rent has not been paid, but I have a legally justifiable defense for not paying:
+31 I have a written lease which does not expire until:
+32 I have not received the required notice from the landlord before this complaint was served
+33 on me.
+34 The landlord is trying to evict me because I have exercised my legal rights by calling code
+LC004825 - Page 15 of 17
+
+1 enforcement officials, or by taking the following protected action:
+2 I have other defenses as follow:
+3 WHEREFORE: Because of the defense(s) indicated above, I ask the court to grant a
+4 judgment in my favor and not order me to be evicted.
+5 COUNTERCLAIM
+6 Instructions: If you believe you are entitled to be awarded damages or money for any reason
+7 from your landlord, you may fill out the statement below:
+8 I hereby sue my landlord for the amount of $_____________.
+9 I believe I am entitled to receive an award of this amount because
+10 ______________________________________________________________________
+11 __________________________________
+12 __________________________
+13 ________
+14 Name of Defendant (or attorney) Signature of Defendant
+15 ___________________________________
+16 Address
+17 ___________________________________
+18 Telephone number
+19 ___________________________________
+20 SECTION 3. This act shall take effect upon passage.
+========
+LC004825
+========
+LC004825 - Page 16 of 17
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+***
+1 This act would increase the notification time about rent increases and termination of
+2 tenancy for month-to-month tenants.
+3 This act would take effect upon passage.
+========
+LC004825
+========
+LC004825 - Page 17 of 17

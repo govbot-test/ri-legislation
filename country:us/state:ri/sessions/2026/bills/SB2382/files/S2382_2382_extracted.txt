@@ -1,0 +1,517 @@
+Title: 
+Official Title: 
+Source: versions - 2382
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2382
+========
+LC004261
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Introduced By: Senators Urso, Murray, Quezada, Britto, Euer, Bissaillon, Mack, Bell,
+and Vargas
+Date Introduced: January 30, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 27-18-30 and 27-18-52 of the General Laws in Chapter 27-18
+2 entitled "Accident and Sickness Insurance Policies" are hereby amended to read as follows:
+3 27-18-30. Health insurance contracts — Infertility.
+4 (a) Any health insurance contract, plan, or policy delivered or issued for delivery or
+5 renewed in this state, except contracts providing supplemental coverage to Medicare or other
+6 governmental programs, that includes pregnancy-related benefits, shall provide coverage for
+7 medically necessary expenses of diagnosis and treatment of infertility for women between the ages
+8 of twenty-five (25) and forty-two (42) years, including preimplantation genetic diagnosis (PGD) in
+9 conjunction with in vitro fertilization (IVF) subject to the provision of subsection (i) of this section,
+10 and for standard fertility-preservation services when a medically necessary medical treatment may
+11 directly or indirectly cause iatrogenic infertility to a covered person. To the extent that a health
+12 insurance contract provides reimbursement for a test or procedure used in the diagnosis or treatment
+13 of conditions other than infertility, the tests and procedures shall not be excluded from
+14 reimbursement when provided attendant to the diagnosis and treatment of infertility for women
+15 between the ages of twenty-five (25) and forty-two (42) years; provided, that a subscriber
+16 copayment not to exceed twenty percent (20%) may be required for those programs and/or
+17 procedures the sole purpose of which is the treatment of infertility.
+18 (b) For purposes of this section, “infertility” means the condition of an otherwise
+19 presumably healthy individual who is unable to conceive or sustain a pregnancy during a period of
+
+1 one year.
+2 (c) For purposes of this section, “standard fertility-preservation services” means
+3 procedures consistent with established medical practices and professional guidelines published by
+4 the American Society for Reproductive Medicine, the American Society of Clinical Oncology, or
+5 other reputable professional medical organizations.
+6 (d) For purposes of this section, “iatrogenic infertility” means an impairment of fertility by
+7 surgery, radiation, chemotherapy, or other medical treatment affecting reproductive organs or
+8 processes.
+9 (e) For purposes of this section, “may directly or indirectly cause” means treatment with a
+10 likely side effect of infertility as established by the American Society for Reproductive Medicine,
+11 the American Society of Clinical Oncology, or other reputable professional organizations.
+12 (f) Notwithstanding the provisions of § 27-18-19 or any other provision to the contrary,
+13 this section shall apply to blanket or group policies of insurance.
+14 (g) The health insurance contract may limit coverage to a lifetime cap of one hundred
+15 thousand dollars ($100,000).
+16 (h) For purposes of this section, "preimplantation genetic diagnosis" or "PGD" means a
+17 technique used in conjunction with in vitro fertilization (IVF) to test embryos for specific genetic
+18 disorders prior to their transfer to the uterus.
+19 (i) Any health insurance contract, plan, or policy shall only be required to provide coverage,
+20 for preimplantation genetic diagnosis (PGD) upon the following conditions:
+21 (1) The PGD is recommended or ordered by a healthcare provider acting within the
+22 provider's scope of practice;
+23 (2) The PGD is recommended or ordered to address, treat, diagnosis a particular risk,
+24 specific health danger or specific genetic risk condition;
+25 (3) The condition or circumstances of the insured patient fulfill the specific criteria,
+26 requirements or stipulations recommended by nationally recognized clinical practice guidelines for
+27 preimplantation genetic diagnosis (PGD).
+28 (i) For the purpose of this subsection, "nationally recognized clinical practice guidelines"
+29 means evidence-based, peer reviewed clinical practice guidelines informed by a systematic review
+30 of evidence and an assessment of the benefits, and risks of alternative care options intended to
+31 optimize patient care developed by independent organization professional societies utilizing a
+32 transparent methodology and reporting structure and with a conflict-of-interest policy.
+33 (ii) Nothing in this subsection shall be construed to prevent medical management or
+34 utilization review of their services, including preauthorization, to ensure that such services are
+LC004261 - Page 2 of 15
+
+1 consistent with nationally recognized clinical practice guidelines for PGD.
+2 27-18-52. Genetic testing.
+3 (a) Except as provided in chapter 37.3 of title 5, insurance administrators, health plans, and
+4 providers shall be prohibited from releasing genetic information without prior written authorization
+5 of the individual. Written authorization shall be required for each disclosure and include to whom
+6 the disclosure is being made. An exception shall exist for those participating in research settings
+7 governed by the Federal Policy for the Protection of Human Research Subjects (also known as
+8 “The Common Rule”). Tests conducted purely for research are excluded from the definition, as are
+9 tests for somatic (as opposed to heritable) mutations, and testing for forensic purposes.
+10 (b) No individual or group health insurance contract, plan, or policy delivered, issued for
+11 delivery, or renewed in this state that provides health insurance medical coverage that includes
+12 coverage for physician services in a physician’s office, and every policy that provides major
+13 medical or similar comprehensive-type coverage excluding disability income, long-term care, and
+14 insurance supplemental policies that only provide coverage for specified diseases or other
+15 supplemental policies, shall:
+16 (1) Use a genetic test or request for genetic tests or the results of a genetic test to reject,
+17 deny, limit, cancel, refuse to renew, increase the rates of, affect the terms or conditions of, or affect
+18 a group or an individual health insurance policy, contract, or plan;
+19 (2) Request or require a genetic test for the purpose of determining whether or not to issue
+20 or renew an individual’s health benefits coverage, to set reimbursement/copay levels, or determine
+21 covered benefits and services;
+22 (3) Release the results of a genetic test without the prior written authorization of the
+23 individual from whom the test was obtained, except in a format whereby individual identifiers are
+24 removed, encrypted, or encoded so that the identity of the individual is not disclosed. A recipient
+25 of information pursuant to this section may use or disclose this information solely to carry out the
+26 purpose for which the information was disclosed. Authorization shall be required for each
+27 redisclosure; an exception shall exist for participating in research settings governed by the Federal
+28 Policy for the Protection of Human Research Subjects (also known as “The Common Rule”);
+29 (4) Request or require information as to whether an individual has ever had a genetic test,
+30 or participated in genetic testing of any kind, whether for clinical or research purposes.
+31 (c) For the purposes of this section, “genetic testing” is the analysis of an individual’s DNA,
+32 RNA, chromosomes, proteins, and certain metabolites in order to detect heritable disease-related
+33 genotypes, mutations, phenotypes, or karyotypes for clinical purposes. Those purposes include
+34 predicting risk of disease, identifying carriers, establishing prenatal and clinical diagnosis or
+LC004261 - Page 3 of 15
+
+1 prognosis. Prenatal, newborn, and carrier screening, as well as testing in high-risk families, may be
+2 included provided there is an approved release by a parent or guardian. Tests for metabolites are
+3 covered only when they are undertaken with high probability that an excess of deficiency of the
+4 metabolite indicates the presence of heritable mutations in single genes. “Genetic testing” does not
+5 mean routine physical measurement, a routine chemical, blood, or urine analysis, or a test for drugs
+6 or for HIV infections.
+7 (d) Any health insurance contract, plan, or policy delivered or issued for delivery or
+8 renewed in this state, except contracts providing supplemental coverage to Medicare or other
+9 governmental programs, that includes pregnancy-related benefits, shall provide coverage for the
+10 expenses of diagnosis and treatment of infertility for women between the ages of twenty-five (25)
+11 and forty-two (42) years, including preimplantation genetic diagnosis (PGD) in conjunction with
+12 in vitro fertilization (IVF). For purposes of this section:
+13 (1) "Preimplantation genetic diagnosis" or "PGD" means a technique used in conjunction
+14 with in vitro fertilization (IVF) to test embryos for specific genetic disorders prior to their transfer
+15 to the uterus;
+16 (2) "Infertility" means the condition of an otherwise presumably healthy individual who is
+17 unable to conceive or sustain a pregnancy during a period of one year.
+18 (3) Any health insurance contract, plan, or policy that provides coverage, for
+19 preimplantation genetic diagnosis (PGD) pursuant to subsection (a) of this section, shall do so only
+20 upon the recommendation of a healthcare provider acting within the provider's scope of practice,
+21 and as recommended by nationally recognized clinical practice guidelines for preimplantation
+22 genetic diagnosis (PGD).
+23 (i) For the purpose of this subsection, "nationally recognized clinical practice guidelines"
+24 means evidence-based, peer reviewed clinical practice guidelines informed by a systematic review
+25 of evidence and an assessment of the benefits, and risks of alternative care options intended to
+26 optimize patient care developed by independent organization professional societies utilizing a
+27 transparent methodology and reporting structure and with a conflict-of-interest policy.
+28 (ii) Nothing in this subsection shall be construed to prevent medical management or
+29 utilization review of their services, including preauthorization, to ensure that such services are
+30 consistent with nationally recognized clinical practice guidelines for the detection of lung cancer.
+31 SECTION 2. Sections 27-19-23 and 27-19-44 of the General Laws in Chapter 27-19
+32 entitled "Nonprofit Hospital Service Corporations" are hereby amended to read as follows:
+33 27-19-23. Coverage for infertility.
+34 (a) Any nonprofit hospital service contract, plan, or insurance policies delivered, issued for
+LC004261 - Page 4 of 15
+
+1 delivery, or renewed in this state, except contracts providing supplemental coverage to Medicare
+2 or other governmental programs, that includes pregnancy-related benefits, shall provide coverage
+3 for medically necessary expenses of diagnosis and treatment of infertility for women between the
+4 ages of twenty-five (25) and forty-two (42) years, including preimplantation genetic diagnosis
+5 (PGD) in conjunction with in vitro fertilization (IVF) subject to the provision of subsection (h) of
+6 this section, and for standard fertility-preservation services when a medically necessary medical
+7 treatment may directly or indirectly cause iatrogenic infertility to a covered person. To the extent
+8 that a nonprofit hospital service corporation provides reimbursement for a test or procedure used
+9 in the diagnosis or treatment of conditions other than infertility, those tests and procedures shall
+10 not be excluded from reimbursement when provided attendant to the diagnosis and treatment of
+11 infertility for women between the ages of twenty-five (25) and forty-two (42) years; provided, that
+12 a subscriber copayment, not to exceed twenty percent (20%), may be required for those programs
+13 and/or procedures the sole purpose of which is the treatment of infertility.
+14 (b) For purposes of this section, “infertility” means the condition of an otherwise
+15 presumably healthy individual who is unable to conceive or sustain a pregnancy during a period of
+16 one year.
+17 (c) For purposes of this section, “standard fertility-preservation services” means
+18 procedures consistent with established medical practices and professional guidelines published by
+19 the American Society for Reproductive Medicine, the American Society of Clinical Oncology, or
+20 other reputable professional medical organizations.
+21 (d) For purposes of this section, “iatrogenic infertility” means an impairment of fertility by
+22 surgery, radiation, chemotherapy, or other medical treatment affecting reproductive organs or
+23 processes.
+24 (e) For purposes of this section, “may directly or indirectly cause” means treatment with a
+25 likely side effect of infertility as established by the American Society for Reproductive Medicine,
+26 the American Society of Clinical Oncology, or other reputable professional organizations.
+27 (f) The health insurance contract may limit coverage to a lifetime cap of one hundred
+28 thousand dollars ($100,000).
+29 (g) For purposes of this section, "preimplantation genetic diagnosis" or "PGD" means a
+30 technique used in conjunction with in vitro fertilization (IVF) to test embryos for specific genetic
+31 disorders prior to their transfer to the uterus.
+32 (h) Any health insurance contract, plan, or policy shall only be required to provide
+33 coverage, for preimplantation genetic diagnosis (PGD) upon the following conditions:
+34 (1) The PGD is recommended or ordered by a healthcare provider acting within the
+LC004261 - Page 5 of 15
+
+1 provider's scope of practice;
+2 (2) The PGD is recommended or ordered to address, treat, diagnosis a particular risk,
+3 specific health danger or specific genetic risk condition;
+4 (3) The condition or circumstances of the insured patient fulfill the specific criteria,
+5 requirements or stipulations recommended by nationally recognized clinical practice guidelines for
+6 preimplantation genetic diagnosis (PGD).
+7 (i) For the purpose of this subsection, "nationally recognized clinical practice guidelines"
+8 means evidence-based, peer reviewed clinical practice guidelines informed by a systematic review
+9 of evidence and an assessment of the benefits, and risks of alternative care options intended to
+10 optimize patient care developed by independent organization professional societies utilizing a
+11 transparent methodology and reporting structure and with a conflict-of-interest policy.
+12 (ii) Nothing in this subsection shall be construed to prevent medical management or
+13 utilization review of their services, including preauthorization, to ensure that such services are
+14 consistent with nationally recognized clinical practice guidelines for PGD.
+15 27-19-44. Genetic testing.
+16 (a) Except as provided in chapter 37.3 of title 5, insurance administrators, health plans, and
+17 providers shall be prohibited from releasing genetic information without prior written authorization
+18 of the individual. Written authorization shall be required for each disclosure and include to whom
+19 the disclosure is being made. An exception shall exist for those participating in research settings
+20 governed by the federal policy for the protection of human research subjects (also known as “The
+21 Common Rule”). Tests conducted purely for research are excluded from the definition, as are tests
+22 for somatic (as opposed to heritable) mutations, and testing for forensic purposes.
+23 (b) No nonprofit health service corporation subject to the provisions of this chapter shall:
+24 (1) Use a genetic test or request for a genetic test or the results of a genetic test or other
+25 genetic information to reject, deny, limit, cancel, refuse to renew, increase the rates of, affect the
+26 terms or conditions of, or affect a group or an individual’s health insurance policy, contract, or
+27 plan;
+28 (2) Request or require a genetic test for the purpose of determining whether or not to issue
+29 or renew a group, individual health benefits coverage, to set reimbursement/copay levels, or
+30 determine covered benefits and services;
+31 (3) Release the results of a genetic test without the prior written authorization of the
+32 individual from whom the test was obtained, except in a format by which individual identifiers are
+33 removed, encrypted, or encoded so that the identity of the individual is not disclosed. A recipient
+34 of information pursuant to this section may use or disclose the information solely to carry out the
+LC004261 - Page 6 of 15
+
+1 purpose for which the information was disclosed. Authorization shall be required for each
+2 redisclosure. An exception shall exist for participation in research settings governed by the federal
+3 policy for the protection of human research subjects (also known as “The Common Rule”); or
+4 (4) Request or require information as to whether an individual has ever had a genetic test,
+5 or participated in genetic testing of any kind, whether for clinical or research purposes.
+6 (c) For the purposes of this section, “genetic testing” is the analysis of an individual’s DNA,
+7 RNA, chromosomes, proteins, and certain metabolites in order to detect heritable disease-related
+8 genotypes, mutations, phenotypes, or karyotypes for clinical purposes. These purposes include
+9 predicting risk of disease, identifying carriers, establishing prenatal and clinical diagnosis or
+10 prognosis. Prenatal, newborn, and carrier screening, as well as testing in high-risk families, may be
+11 included provided there is an approved release by a parent or guardian. Tests for metabolites are
+12 covered only when they are undertaken with high probability that an excess of deficiency of the
+13 metabolite indicates the presence of heritable mutations in single genes. “Genetic testing” does not
+14 mean routine physical measurement, a routine chemical, blood, or urine analysis, or a test for drugs
+15 or for HIV infection.
+16 (d) Any health insurance contract, plan, or policy delivered or issued for delivery or
+17 renewed in this state, except contracts providing supplemental coverage to Medicare or other
+18 governmental programs, that includes pregnancy-related benefits, shall provide coverage for the
+19 expenses of diagnosis and treatment of infertility for women between the ages of twenty-five (25)
+20 and forty-two (42) years, including preimplantation genetic diagnosis (PGD) in conjunction with
+21 in vitro fertilization (IVF). For purposes of this section:
+22 (1) "Preimplantation genetic diagnosis" or "PGD" means a technique used in conjunction
+23 with in vitro fertilization (IVF) to test embryos for specific genetic disorders prior to their transfer
+24 to the uterus;
+25 (2) "Infertility" means the condition of an otherwise presumably healthy individual who is
+26 unable to conceive or sustain a pregnancy during a period of one year.
+27 (3) Any health insurance contract, plan, or policy that provides coverage, for
+28 preimplantation genetic diagnosis (PGD) pursuant to subsection (a) of this section, shall do so only
+29 upon the recommendation of a healthcare provider acting within the provider's scope of practice,
+30 and as recommended by nationally recognized clinical practice guidelines for preimplantation
+31 genetic diagnosis (PGD).
+32 (i) For the purpose of this subsection, "nationally recognized clinical practice guidelines"
+33 means evidence-based, peer reviewed clinical practice guidelines informed by a systematic review
+34 of evidence and an assessment of the benefits, and risks of alternative care options intended to
+LC004261 - Page 7 of 15
+
+1 optimize patient care developed by independent organization professional societies utilizing a
+2 transparent methodology and reporting structure and with a conflict-of-interest policy.
+3 (ii) Nothing in this subsection shall be construed to prevent medical management or
+4 utilization review of their services, including preauthorization, to ensure that such services are
+5 consistent with nationally recognized clinical practice guidelines for PGD.
+6 SECTION 3. Sections 27-20-20 and 27-20-39 of the General Laws in Chapter 27-20
+7 entitled "Nonprofit Medical Service Corporations" are hereby amended to read as follows:
+8 27-20-20. Coverage for infertility.
+9 (a) Any nonprofit medical service contract, plan, or insurance policies delivered, issued for
+10 delivery, or renewed in this state, except contracts providing supplemental coverage to Medicare
+11 or other governmental programs, that includes pregnancy-related benefits, shall provide coverage
+12 for the medically necessary expenses of diagnosis and treatment of infertility for women between
+13 the ages of twenty-five (25) and forty-two (42) years, including preimplantation genetic diagnosis
+14 (PGD) in conjunction with in vitro fertilization (IVF) subject to the provision of subsection (i) of
+15 this section, and for standard fertility-preservation services when a medically necessary medical
+16 treatment may directly or indirectly cause iatrogenic infertility to a covered person. To the extent
+17 that a nonprofit medical service corporation provides reimbursement for a test or procedure used
+18 in the diagnosis or treatment of conditions other than infertility, those tests and procedures shall
+19 not be excluded from reimbursement when provided attendant to the diagnosis and treatment of
+20 infertility for women between the ages of twenty-five (25) and forty-two (42) years; provided, that
+21 subscriber copayment, not to exceed twenty percent (20%), may be required for those programs
+22 and/or procedures the sole purpose of which is the treatment of infertility.
+23 (b) For purposes of this section, “infertility” means the condition of an otherwise
+24 presumably healthy individual who is unable to conceive or sustain a pregnancy during a period of
+25 one year.
+26 (c) For purposes of this section, “standard fertility-preservation services” means
+27 procedures consistent with established medical practices and professional guidelines published by
+28 the American Society for Reproductive Medicine, the American Society of Clinical Oncology, or
+29 other reputable professional medical organizations.
+30 (d) For purposes of this section, “iatrogenic infertility” means an impairment of fertility by
+31 surgery, radiation, chemotherapy, or other medical treatment affecting reproductive organs or
+32 processes.
+33 (e) For purposes of this section, “may directly or indirectly cause” means treatment with a
+34 likely side effect of infertility as established by the American Society for Reproductive Medicine,
+LC004261 - Page 8 of 15
+
+1 the American Society of Clinical Oncology, or other reputable professional organizations.
+2 (f) The health insurance contract may limit coverage to a lifetime cap of one hundred
+3 thousand dollars ($100,000).
+4 (g) For purposes of this section, "preimplantation genetic diagnosis" or "PGD" means a
+5 technique used in conjunction with in vitro fertilization (IVF) to test embryos for specific genetic
+6 disorders prior to their transfer to the uterus.
+7 (h) Any health insurance contract, plan, or policy that provides coverage, for
+8 preimplantation genetic diagnosis (PGD) pursuant to subsection (a) of this section, shall do so only
+9 upon the recommendation of a healthcare provider acting within the provider's scope of practice,
+10 and as recommended by nationally recognized clinical practice guidelines for preimplantation
+11 genetic diagnosis (PGD).
+12 (i) Any health insurance contract, plan, or policy shall only be required to provide coverage,
+13 for preimplantation genetic diagnosis (PGD) upon the following conditions:
+14 (1) The PGD is recommended or ordered by a healthcare provider acting within the
+15 provider's scope of practice;
+16 (2) The PGD is recommended or ordered to address, treat, diagnosis a particular risk,
+17 specific health danger or specific genetic risk condition;
+18 (3) The condition or circumstances of the insured patient fulfill the specific criteria,
+19 requirements or stipulations recommended by nationally recognized clinical practice guidelines for
+20 preimplantation genetic diagnosis (PGD).
+21 (i) Nothing in this subsection shall be construed to prevent medical management or
+22 utilization review of their services, including preauthorization, to ensure that such services are
+23 consistent with nationally recognized clinical practice guidelines for PGD.
+24 27-20-39. Genetic testing.
+25 (a) Except as provided in chapter 37.3 of title 5, insurance administrators, health plans, and
+26 providers shall be prohibited from releasing genetic information without prior written authorization
+27 of the individual. Written authorization shall be required for each disclosure and include to whom
+28 the disclosure is being made. An exception shall exist for those participating in research settings
+29 governed by the federal policy for the protection of human research subjects (also known as “The
+30 Common Rule”). Tests conducted purely for research are excluded from the definition, as are tests
+31 for somatic (as opposed to heritable) mutations, and testing for forensic purposes.
+32 (b) No nonprofit health insurer subject to the provisions of this chapter shall:
+33 (1) Use a genetic test or request for a genetic test or the results of a genetic test to reject,
+34 deny, limit, cancel, refuse to renew, increase the rates of, affect the terms or conditions of, or affect
+LC004261 - Page 9 of 15
+
+1 a group or individual’s health insurance policy, contract, or plan;
+2 (2) Request or require a genetic test for the purpose of determining whether or not to issue
+3 or renew health benefits coverage, to set reimbursement/copay levels, or determine covered
+4 benefits and services;
+5 (3) Release the results of a genetic test without the prior written authorization of the
+6 individual from whom the test was obtained, except in a format by which individual identifiers are
+7 removed, encrypted, or encoded so that the identity of the individual is not disclosed. A recipient
+8 of information pursuant to this section may use or disclose the information solely to carry out the
+9 purpose for which the information was disclosed. Authorization shall be required for each
+10 redisclosure. An exception shall exist for participation in research settings governed by the federal
+11 policy for the protection of human research subjects (also known as “The Common Rule”); or
+12 (4) Request or require information as to whether an individual has ever had a genetic test,
+13 or participated in genetic testing of any kind, whether for clinical or research purposes.
+14 (c) For the purposes of this section, “genetic testing” is the analysis of an individual’s DNA,
+15 RNA, chromosomes, proteins, and certain metabolites in order to detect heritable disease-related
+16 genotypes, mutations, phenotypes, or karyotypes for clinical purposes. Those purposes include
+17 predicting risk of disease, identifying carriers, establishing prenatal and clinical diagnosis or
+18 prognosis. Prenatal, newborn, and carrier screening, as well as testing in high-risk families, may be
+19 included provided there is an approved release by a parent or guardian. Tests for metabolites are
+20 covered only when they are undertaken with high probability that an excess of deficiency of the
+21 metabolite indicates the presence of heritable mutations in single genes. “Genetic testing” does not
+22 mean routine physical measurement, a routine chemical, blood, or urine analysis, or a test for drugs
+23 or for HIV infections.
+24 (d) Any health insurance contract, plan, or policy delivered or issued for delivery or
+25 renewed in this state, except contracts providing supplemental coverage to Medicare or other
+26 governmental programs, that includes pregnancy-related benefits, shall provide coverage for the
+27 expenses of diagnosis and treatment of infertility for women between the ages of twenty-five (25)
+28 and forty-two (42) years, including preimplantation genetic diagnosis (PGD) in conjunction with
+29 in vitro fertilization (IVF). For purposes of this section:
+30 (1) "Preimplantation genetic diagnosis" or "PGD" means a technique used in conjunction
+31 with in vitro fertilization (IVF) to test embryos for specific genetic disorders prior to their transfer
+32 to the uterus;
+33 (2) "Infertility" means the condition of an otherwise presumably healthy individual who is
+34 unable to conceive or sustain a pregnancy during a period of one year.
+LC004261 - Page 10 of 15
+
+1 (3) Any health insurance contract, plan, or policy that provides coverage, for
+2 preimplantation genetic diagnosis (PGD) pursuant to subsection (a) of this section, shall do so only
+3 upon the recommendation of a healthcare provider acting within the provider's scope of practice,
+4 and as recommended by nationally recognized clinical practice guidelines for preimplantation
+5 genetic diagnosis (PGD).
+6 (i) For the purpose of this subsection, "nationally recognized clinical practice guidelines"
+7 means evidence-based, peer reviewed clinical practice guidelines informed by a systematic review
+8 of evidence and an assessment of the benefits, and risks of alternative care options intended to
+9 optimize patient care developed by independent organization professional societies utilizing a
+10 transparent methodology and reporting structure and with a conflict-of-interest policy.
+11 (ii) Nothing in this subsection shall be construed to prevent medical management or
+12 utilization review of their services, including preauthorization, to ensure that such services are
+13 consistent with nationally recognized clinical practice guidelines for PGD.
+14 SECTION 4. Sections 27-41-33 and 27-41-53 of the General Laws in Chapter 27-41
+15 entitled "Health Maintenance Organizations" are hereby amended to read as follows:
+16 27-41-33. Coverage for infertility.
+17 (a) Any health maintenance organization service contract plan or policy delivered, issued
+18 for delivery, or renewed in this state, except a contract providing supplemental coverage to
+19 Medicare or other governmental programs, that includes pregnancy-related benefits, shall provide
+20 coverage for medically necessary expenses of diagnosis and treatment of infertility for women
+21 between the ages of twenty-five (25) and forty-two (42) years, including preimplantation genetic
+22 diagnosis (PGD) in conjunction with in vitro fertilization (IVF) subject to the provision of
+23 subsection (i) of this section, and for standard fertility-preservation services when a medically
+24 necessary medical treatment may directly or indirectly cause iatrogenic infertility to a covered
+25 person. To the extent that a health maintenance organization provides reimbursement for a test or
+26 procedure used in the diagnosis or treatment of conditions other than infertility, those tests and
+27 procedures shall not be excluded from reimbursement when provided attendant to the diagnosis
+28 and treatment of infertility for women between the ages of twenty-five (25) and forty-two (42)
+29 years; provided, that subscriber copayment, not to exceed twenty percent (20%), may be required
+30 for those programs and/or procedures the sole purpose of which is the treatment of infertility.
+31 (b) For purposes of this section, “infertility” means the condition of an otherwise healthy
+32 individual who is unable to conceive or sustain a pregnancy during a period of one year.
+33 (c) For purposes of this section, “standard fertility-preservation services” means
+34 procedures consistent with established medical practices and professional guidelines published by
+LC004261 - Page 11 of 15
+
+1 the American Society for Reproductive Medicine, the American Society of Clinical Oncology, or
+2 other reputable professional medical organizations.
+3 (d) For purposes of this section, “iatrogenic infertility” means an impairment of fertility by
+4 surgery, radiation, chemotherapy, or other medical treatment affecting reproductive organs or
+5 processes.
+6 (e) For purposes of this section, “may directly or indirectly cause” means treatment with a
+7 likely side effect of infertility as established by the American Society for Reproductive Medicine,
+8 the American Society of Clinical Oncology, or other reputable professional organizations.
+9 (f) The health insurance contract may limit coverage to a lifetime cap of one hundred
+10 thousand dollars ($100,000).
+11 (g) For purposes of this section, "preimplantation genetic diagnosis" or "PGD" means a
+12 technique used in conjunction with in vitro fertilization (IVF) to test embryos for specific genetic
+13 disorders prior to their transfer to the uterus.
+14 (h) Any health insurance contract, plan, or policy that provides coverage, for
+15 preimplantation genetic diagnosis (PGD) pursuant to subsection (a) of this section, shall do so only
+16 upon the recommendation of a healthcare provider acting within the provider's scope of practice,
+17 and as recommended by nationally recognized clinical practice guidelines for preimplantation
+18 genetic diagnosis (PGD).
+19 (i) Any health insurance contract, plan, or policy shall only be required to provide coverage,
+20 for preimplantation genetic diagnosis (PGD) upon the following conditions:
+21 (1) The PGD is recommended or ordered by a healthcare provider acting within the
+22 provider's scope of practice;
+23 (2) The PGD is recommended or ordered to address, treat, diagnosis a particular risk,
+24 specific health danger or specific genetic risk condition;
+25 (3) The condition or circumstances of the insured patient fulfill the specific criteria,
+26 requirements or stipulations recommended by nationally recognized clinical practice guidelines for
+27 preimplantation genetic diagnosis (PGD).
+28 (i) Nothing in this subsection shall be construed to prevent medical management or
+29 utilization review of their services, including preauthorization, to ensure that such services are
+30 consistent with nationally recognized clinical practice guidelines for PGD.
+31 27-41-53. Genetic testing.
+32 (a) Except as provided in chapter 37.3 of title 5, insurance administrators, health plans, and
+33 providers shall be prohibited from releasing genetic information without prior written authorization
+34 of the individual. Written authorization shall be required for each disclosure and include to whom
+LC004261 - Page 12 of 15
+
+1 the disclosure is being made. An exception shall exist for those participating in research settings
+2 governed by the federal policy for the protection of human research subjects (also known as “The
+3 Common Rule”). Tests conducted purely for research are excluded from the definition, as are tests
+4 for somatic (as opposed to heritable) mutations, and testing for forensic purposes.
+5 (b) No health maintenance organization subject to the provisions of this chapter shall:
+6 (1) Use a genetic test or request for genetic test or the results of a genetic test to reject,
+7 deny, limit, cancel, refuse to renew, increase the rates of, affect the terms or conditions of, or affect
+8 a group or an individual’s health insurance policy contract, or plan;
+9 (2) Request or require a genetic test for the purpose of determining whether or not to issue
+10 or renew an individual’s health benefits coverage, to set reimbursement/copay levels, or determine
+11 covered benefits and services;
+12 (3) Release the results of a genetic test without the prior written authorization of the
+13 individual from whom the test was obtained, except in a format where individual identifiers are
+14 removed, encrypted, or encoded so that the identity of the individual is not disclosed. A recipient
+15 of information pursuant to this section may use or disclose the information solely to carry out the
+16 purpose for which the information was disclosed. Authorization shall be required for each re-
+17 disclosure. An exception shall exist for participation in research settings governed by the federal
+18 policy for the protection of human research subjects (also known as “The Common Rule”); or
+19 (4) Request or require information as to whether an individual has ever had a genetic test,
+20 or participated in genetic testing of any kind, whether for clinical or research purposes.
+21 (c) For the purposes of this section, “genetic testing” is the analysis of an individual’s DNA,
+22 RNA, chromosomes, protein, and certain metabolites in order to detect heritable inheritable
+23 disease-related genotypes, mutations, phenotypes, or karyotypes for clinical purposes. Those
+24 purposes include predicting risk of disease, identifying carriers, establishing prenatal and clinical
+25 diagnosis or prognosis. Prenatal, newborn, and carrier screening, and testing in high-risk families
+26 may be included provided there is an approved release by a parent or guardian. Tests for metabolites
+27 are covered only when they are undertaken with high probability that an excess or deficiency of the
+28 metabolite indicates the presence of heritable mutations in single genes. “Genetic testing” does not
+29 mean routine physical measurement, a routine chemical, blood, or urine analysis or a test for drugs
+30 or for HIV infections.
+31 (d) Any health insurance contract, plan, or policy delivered or issued for delivery or
+32 renewed in this state, except contracts providing supplemental coverage to Medicare or other
+33 governmental programs, that includes pregnancy-related benefits, shall provide coverage for the
+34 expenses of diagnosis and treatment of infertility for women between the ages of twenty-five (25)
+LC004261 - Page 13 of 15
+
+1 and forty-two (42) years, including preimplantation genetic diagnosis (PGD) in conjunction with
+2 in vitro fertilization (IVF). For purposes of this section:
+3 (1) "Preimplantation genetic diagnosis" or "PGD" means a technique used in conjunction
+4 with in vitro fertilization (IVF) to test embryos for specific genetic disorders prior to their transfer
+5 to the uterus;
+6 (2) "Infertility" means the condition of an otherwise presumably healthy individual who is
+7 unable to conceive or sustain a pregnancy during a period of one year.
+8 (3) Any health insurance contract, plan, or policy that provides coverage, for
+9 preimplantation genetic diagnosis (PGD) pursuant to subsection (a) of this section, shall do so only
+10 upon the recommendation of a healthcare provider acting within the provider's scope of practice,
+11 and as recommended by nationally recognized clinical practice guidelines for preimplantation
+12 genetic diagnosis (PGD).
+13 (i) For the purpose of this subsection, "nationally recognized clinical practice guidelines"
+14 means evidence-based, peer reviewed clinical practice guidelines informed by a systematic review
+15 of evidence and an assessment of the benefits, and risks of alternative care options intended to
+16 optimize patient care developed by independent organization professional societies utilizing a
+17 transparent methodology and reporting structure and with a conflict-of-interest policy.
+18 (ii) Nothing in this subsection shall be construed to prevent medical management or
+19 utilization review of their services, including preauthorization, to ensure that such services are
+20 consistent with nationally recognized clinical practice guidelines for PGD.
+21 SECTION 5. This act shall take effect on January 1, 2027.
+========
+LC004261
+========
+LC004261 - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+***
+1 This act would mandate all insurance contracts, plans or policies provide insurance
+2 coverage for the expense of diagnosing and treating infertility, for women between the ages of
+3 twenty-five (25) and forty-two (42) years including preimplantation genetic diagnosis (PGD) in
+4 conjunction with in vitro fertilization (IVF) only on the recommendation of a healthcare provider
+5 acting within the scope of their practice.
+6 This act would take effect on January 1, 2027.
+========
+LC004261
+========
+LC004261 - Page 15 of 15

@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - 2202
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2202
+========
+LC003828
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+Introduced By: Senators Gu, DiMario, Ciccone, Zurier, and Euer
+Date Introduced: January 23, 2026
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 39-1 of the General Laws entitled "Public Utilities Commission" is
+2 hereby amended by adding thereto the following section:
+3 39-1-27.14. Setting authorized common equity ratios and rates of return on equity.
+4 (a) Definitions. For purposes of this section:
+5 (1) “Actual common equity ratio” means the actual percentage of a regulated utility’s total
+6 capitalization that consists of common equity during a given rate period.
+7 (2) “Actual rate of return on equity” means net income divided by shareholders’ equity
+8 during a rate period.
+9 (3) “Authorized common equity ratio” means the percentage of a regulated utility’s total
+10 capitalization that consists of common equity, including retained earnings and capital surplus, as
+11 approved by the commission.
+12 (4) “Authorized rate of return on equity” or “ROE” means the return on the equity portion
+13 of a regulated utility’s rate base authorized by the commission for recovery through rates.
+14 (5) “Generic financing methodology” means a standardized methodology adopted by the
+15 commission for determining authorized common equity ratios and authorized rates of return on
+16 equity for regulated utilities.
+17 (6) “Publicly available data” means data accessible to the public through published sources,
+18 internet resources, or public libraries.
+19 (7) “Rate period” means the period during which rates approved by the commission are in
+
+1 effect.
+2 (8) “Regulated utility” means any electric distribution company, gas company, water
+3 utility, or other public utility subject to the jurisdiction of the public utilities commission pursuant
+4 to this title.
+5 (b) Adoption of generic financing methodology. On an annual basis, the commission shall,
+6 through rulemaking:
+7 (1) Update and maintain a generic financing methodology that relies, to the greatest extent
+8 practicable, on publicly available data;
+9 (2) Establish a fair and reasonable authorized common equity ratio for each regulated utility
+10 and a single authorized rate of return on equity applicable to all regulated utilities, unless otherwise
+11 justified; and
+12 (3) Reconcile the authorized rate of return on equity from the prior rate period with the
+13 actual average monthly rate of return on equity produced by the generic financing methodology,
+14 including the use of a true-up mechanism.
+15 (c) Surcredits and surcharges.
+16 (1) If a regulated utility’s actual rate of return on equity exceeds the authorized rate of
+17 return on equity, revenues attributable to such excess shall be returned to ratepayers through a
+18 surcredit applied during the subsequent rate period.
+19 (2) If a regulated utility’s actual rate of return on equity is less than the authorized rate of
+20 return on equity, the commission may authorize recovery of the shortfall through a surcharge
+21 applied during the subsequent rate period.
+22 (d) Transparency and public participation. All methodologies, ratios, rates of return, and
+23 reconciliation calculations adopted pursuant to this section shall:
+24 (1) Clearly explain the data sources, assumptions, and analytical methods used;
+25 (2) Be subject to notice and comment in accordance with chapter 35 of title 42
+26 (“administrative procedures”); and
+27 (3) Include opportunities for participation by ratepayers, consumer advocates, public
+28 interest organizations, utilities, and other interested parties.
+29 In adopting final determinations under this section, the commission shall give preference
+30 to the best interests of ratepayers.
+31 (e) Rebuttal by regulated utilities.
+32 (1) A regulated utility may rebut the authorized common equity ratio or authorized rate of
+33 return on equity by petitioning the commission for a public hearing.
+34 (2) The burden of proof shall rest exclusively with the regulated utility to demonstrate, by
+LC003828 - Page 2 of 4
+
+1 a preponderance of the evidence, that the authorized values are insufficient to:
+2 (i) Maintain financial integrity;
+3 (ii) Attract capital on reasonable terms; or
+4 (iii) Provide a fair and reasonable return.
+5 (3) Upon a successful rebuttal, the commission and the regulated utility may engage in
+6 settlement negotiations pursuant to this title.
+7 (f) Annual reporting. The commission shall annually submit a report to the governor, the
+8 president of the senate and speaker of the house of representatives summarizing:
+9 (1) Authorized common equity ratios and authorized rates of return on equity;
+10 (2) Any surcredits or surcharges applied; and
+11 (3) Any deviations from the generic financing methodology and the justification therefor.
+12 Such report shall be published on the commission’s website.
+13 SECTION 2. This act shall take effect on July 1, 2027.
+========
+LC003828
+========
+LC003828 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+***
+1 This act would direct the public utilities commission to establish a standardized framework
+2 for determining authorized common equity ratios and authorized rates of returns on equity for
+3 public utilities.
+4 This act would take effect on July 1, 2027.
+========
+LC003828
+========
+LC003828 - Page 4 of 4

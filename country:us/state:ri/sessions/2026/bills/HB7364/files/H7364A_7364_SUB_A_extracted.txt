@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - 7364  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7364 SUBSTITUTE A
+========
+LC004101/SUB A/2
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- WAREHOUSE WORKER
+PROTECTION ACT
+Introduced By: Representatives Shanley, Slater, Bennett, Craven, and Knight
+Date Introduced: January 28, 2026
+Referred To: House Labor
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 28 of the General Laws entitled "LABOR AND LABOR RELATIONS"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 61
+4 WAREHOUSE WORKER PROTECTION ACT
+5 28-61-1. Short title.
+6 This chapter shall be known and may be cited as the "Warehouse Worker Protection Act".
+7 28-61-2. Definitions.
+8 As used in this chapter:
+9 (1) "Defined time period" means any unit of time measurement equal to or less than the
+10 duration of an employee's shift, and includes hours, minutes, and seconds and any fraction thereof.
+11 (2) "Department" means the department of labor and training.
+12 (3) "Director" means director of the department of labor and training.
+13 (4) "Employee" means a nonexempt employee who works at a warehouse distribution
+14 center.
+15 (5)(i) "Employee work speed data" means information an employer collects, stores,
+16 analyzes, or interprets relating to an individual employee's performance of a quota, including, but
+17 not limited to, quantities of tasks performed, quantities of items or materials handled or produced,
+18 rates or speeds of tasks performed, measurements or metrics of employee performance in relation
+
+1 to a quota, and time categorized as performing tasks or not performing tasks.
+2 (ii) "Employee work speed data" does not include qualitative performance assessments,
+3 personnel records, or itemized wage statements, except for any content of those records that
+4 includes employee work speed data, as defined in this definition.
+5 (6) "Employer" means a person who directly or indirectly, or through an agent or any other
+6 person, including through the services of a third-party employer, temporary service, or staffing
+7 agency or similar entity, employs or exercises control over the wages, hours, or working conditions
+8 of one hundred (100) or more employees at a single warehouse distribution center or one thousand
+9 (1,000) or more employees at one or more warehouse distribution centers in the state.
+10 (7) "Person" means an individual, corporation, partnership, limited partnership, limited
+11 liability partnership, limited liability company, business trust, estate, trust, association, joint
+12 venture, agency, instrumentality, or any other legal or commercial entity, whether domestic or
+13 foreign.
+14 (8) "Quota" means a work standard under which an employee is assigned or required to
+15 perform at a specified productivity speed, or perform a quantified number of tasks, or to handle or
+16 produce a quantified amount of material, within a defined time period and under which the
+17 employee may suffer an adverse employment action, if the employee fails to complete the
+18 performance standard.
+19 (9)(i) "Warehouse distribution center" means an establishment as defined by any of the
+20 following North American Industry Classification System (NAICS) Codes, however that
+21 establishment is denominated:
+22 (A) 493110 for General Warehousing and Storage.
+23 (B) 423 for Merchant Wholesalers, Durable Goods.
+24 (C) 424 for Merchant Wholesalers, Nondurable Goods.
+25 (D) 454110 for Electronic Shopping and Mail-Order Houses.
+26 28-61-3. Disclosure of quotas.
+27 (a) Each employer shall provide to each employee, upon hire, a written description of each
+28 quota to which the employee is subject, including the quantified number of tasks to be performed
+29 or materials to be produced or handled, within the defined time period, and any potential adverse
+30 employment action that could result from the failure to meet the quota. The requirement to disclose
+31 also applies to any changes in the quota.
+32 (b) Nothing in this section requires an employer to use quotas or monitor work speed data.
+33 An employer that does not monitor this data, has no obligation to provide it.
+34 (c) New or modified quotas shall be disclosed in writing at least two (2) days in advance
+LC004101/SUB A/2 - Page 2 of 5
+
+1 or their implementation and include notice of the effective date. No disciplinary action which
+2 relates to an employee's compliance with a new or modified quota shall be taken until at least two
+3 (2) days following the required written disclosure.
+4 28-61-4. Meals and rest periods.
+5 An employee shall not be required to meet a quota that prevents compliance with meal or
+6 rest periods, use of bathroom facilities, including reasonable travel time to and from bathroom
+7 facilities, or occupational health and safety laws in the labor laws or department standards. An
+8 employer shall not take adverse employment action against an employee for failure to meet a quota
+9 that does not allow a worker to comply with meal and rest periods, use of bathroom facilities, or
+10 occupational health and safety laws, labor laws, or for failure to meet a quota that has not been
+11 disclosed to an employee.
+12 28-61-5. Employee information request.
+13 (a) Employees may request from the employer the written description of the quota, and a
+14 copy of the employee's own speed data as well as the aggregated work speed data for comparable
+15 employees working in the facility.
+16 (b) Upon request from an employee under subsection (a) of this section, the employer shall
+17 have twenty-one (21) days to provide information on the employee's own speed data as well as the
+18 aggregated work speed data for comparable employees working in the facility. Each employee can
+19 make no more than one request for data every ninety (90) days unless there is a pending disciplinary
+20 action or the request is made contemporaneous with an employee performance review. The
+21 employer shall include, on its written notice of new or modified quotas, the manner in which an
+22 employee can request this data.
+23 28-61-6. Unlawful retaliation.
+24 There shall be a rebuttable presumption of unlawful retaliation if an employer in any
+25 manner discriminates, retaliates, or takes any adverse action against any employee because an
+26 employee exercises their rights pursuant to this chapter. The rebuttable presumption of unlawful
+27 retaliation shall only be in place for ninety (90) days following the employee's exercise of rights
+28 under this chapter or the termination of their employment. Following that, the employee's burden
+29 of proof shall be a preponderance of evidence standard.
+30 28-61-7. Enforcement.
+31 (a) The department of labor and training shall adopt rules to implement and enforce this
+32 chapter. The director shall be authorized to enforce this chapter and to assess damages payable to
+33 the employee and civil penalties.
+34 (b) A current or former employee may bring an action for injunctive relief to obtain
+LC004101/SUB A/2 - Page 3 of 5
+
+1 compliance with this chapter and may, upon prevailing, recover costs and reasonable attorney's
+2 fees.
+3 28-61-8. Severability.
+4 The provisions of this chapter are severable. If any provision or its application is held
+5 invalid, that invalidity shall not affect other provisions or applications that can be given effect
+6 without the invalid provision or application.
+7 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC004101/SUB A/2
+========
+LC004101/SUB A/2 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- WAREHOUSE WORKER
+PROTECTION ACT
+***
+1 This act would require employers to provide each employee, defined as a nonexempt
+2 employee who works at a warehouse distribution center, upon hire, with a written description of
+3 each quota to which the employee is subject, including the quantified number of tasks to be
+4 performed or materials to be produced or handled, within the defined time period and any potential
+5 adverse employment action that could result from failure to meet the quota.
+6 This act would take effect on January 1, 2027.
+========
+LC004101/SUB A/2
+========
+LC004101/SUB A/2 - Page 5 of 5

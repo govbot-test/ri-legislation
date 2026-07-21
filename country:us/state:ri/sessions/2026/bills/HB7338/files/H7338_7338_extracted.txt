@@ -1,0 +1,334 @@
+Title: 
+Official Title: 
+Source: versions - 7338
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7338
+========
+LC003439
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CORPORATIONS, ASSOCIATIONS AND PARTNERSHIPS -- RHODE
+ISLAND NONPROFIT CORPORATION ACT
+Introduced By: Representative Lauren H. Carson
+Date Introduced: January 28, 2026
+Referred To: House Corporations
+(by request)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 7-6-5 of the General Laws in Chapter 7-6 entitled "Rhode Island
+2 Nonprofit Corporation Act" is hereby amended to read as follows:
+3 7-6-5. General powers.
+4 (a) Each corporation has power to:
+5 (1) Have perpetual succession by its corporate name unless a limited period of duration is
+6 stated in its articles of incorporation;
+7 (2) Sue and be sued, complain and defend, in its corporate name;
+8 (3) Have a corporate seal that may be altered at pleasure, and to use that seal by causing it,
+9 or a facsimile of it, to be impressed or affixed or in any other manner reproduced;
+10 (4) Purchase, take, receive, lease, take by gift, devise, or bequest, or otherwise acquire,
+11 own, hold, improve, use, and otherwise deal in and with real or personal property, or any interest
+12 in real or personal property, wherever situated, and without restriction as to amount;
+13 (5) Sell, convey, mortgage, pledge, lease, exchange, transfer, and otherwise dispose of all
+14 or any part of its property and assets;
+15 (6) Lend money to and use its credit to assist its employees (other than employees who are
+16 also directors) and otherwise assist its employees;
+17 (7) Purchase, take, receive, subscribe for, or otherwise acquire, own, hold, vote, use,
+18 employ, sell, mortgage, lend, pledge, or otherwise dispose of, and otherwise use and deal in and
+
+1 with, shares or other interests in, or obligations of, other domestic or foreign corporations, whether
+2 for profit or not for profit, associations, partnerships, or individuals, or direct or indirect obligations
+3 of the United States, or of any other government, state, territory, governmental district or
+4 municipality, or of any instrumentality of those entities;
+5 (8) Make contracts and guarantees and incur liabilities; borrow money at the rates of
+6 interest that the corporation determines; issue its notes, bonds, and other obligations; guarantee
+7 debts and secure any of its obligations by mortgage or pledge of all or any of its property, franchises,
+8 and income;
+9 (9) Lend money for its corporate purposes; invest and reinvest its funds; and take and hold
+10 real and personal property as security for the payments of funds loaned or invested in that manner;
+11 (10) Conduct its affairs, carry on its operations, have offices, and exercise the powers
+12 granted by this chapter within or without this state;
+13 (11) Elect or appoint officers and agents of the corporation, who may be directors or
+14 members, and define their duties and fix their compensation;
+15 (12) Make and alter bylaws, not inconsistent with its articles of incorporation or with the
+16 laws of this state, for the administration and regulation of the affairs of the corporation;
+17 (13) Unless otherwise provided in the articles of incorporation, make donations for the
+18 public welfare or for charitable, scientific, or educational purposes;
+19 (14) Pay pensions and establish pension plans or pension trusts for any or all of its directors,
+20 officers, and employees;
+21 (15) Have and exercise all powers necessary or convenient to effect any or all of the
+22 purposes for which the corporation is organized.
+23 (b) Notwithstanding the provisions of subsection (a) of this section, no corporation acting
+24 as a condominium association or homeowners association shall prohibit or ban the installation of
+25 electric vehicle (EV) charging stations; provided, however, the owner installing the EV charging
+26 station shall be solely responsible for all costs of:
+27 (1) Installation, maintenance, repair and replacement of the charging station;
+28 (2) Any required structural modifications to the property and necessary upgrades to utility
+29 or electrical service;
+30 (3) Electricity used to charge the vehicle to include installation of a separate meter, if
+31 necessary; and
+32 (4) Any damage to the common area resulting from the installation or removal.
+33 SECTION 2. Sections 34-36-10 and 34-36-16 of the General Laws in Chapter 34-36
+34 entitled "Condominium Ownership" are hereby amended to read as follows:
+LC003439 - Page 2 of 10
+
+1 34-36-10. Declaration — Recording.
+2 (a) The owner or developer of a condominium project shall, prior to the conveyance of any
+3 unit, record a declaration containing covenants, conditions, and restrictions relating to the project,
+4 which shall be enforceable equitable servitudes where reasonable, and shall run with the land. Such
+5 servitudes unless otherwise provided, may be enforced by any unit owner, and his or her successors
+6 in interest, and may contain, among other things, the following particulars:
+7 (1) A description of the land on which the building and improvements are or are to be
+8 located.
+9 (2) A description of the building, stating the number of stories and basements and the
+10 number of units and the principal materials of which it is or is to be constructed.
+11 (3) The unit number of each unit, and a statement of its location, approximate areas, number
+12 of rooms, and immediate common area to which it has access, and any other data necessary to its
+13 proper identification.
+14 (4) A description of the common areas and facilities.
+15 (5) A description of the limited common areas and facilities, if any, stating to which units
+16 such use is reserved.
+17 (6) The value of the property and of each unit, and the percentage of undivided interest in
+18 the common areas and facilities appurtenant to each unit and its owner for all purposes, including
+19 voting.
+20 (7) A statement of the purposes for which the building and each of its units are intended
+21 and restricted as to use.
+22 (8) The name of a person to receive service of process, in the cases described in this chapter,
+23 together with the residence or place of business of the person which shall be within the city or
+24 county in which the building is located.
+25 (9) Provisions, not inconsistent with this chapter, as to the percentage of votes by the unit
+26 owners which shall be determinative of whether to rebuild, repair, restore, or sell the property in
+27 the event of damage or destruction of all or part of the property, or of any other question.
+28 (10) The method by which the declaration may be amended consistent with the provisions
+29 of this chapter.
+30 (11) Any further matters in connection with the property which the person or persons
+31 executing the declaration may deem desirable to set forth consistent with this chapter.
+32 (b) Notwithstanding the provisions of subsection (a) of this section, no declaration shall
+33 prohibit or ban the installation of electric vehicle (EV) charging stations as provided pursuant to
+34 the provisions of § 7-6-5(b); provided, however, reasonable restrictions may be imposed on
+LC003439 - Page 3 of 10
+
+1 installation pursuant to the provisions of § 34-36-16(b).
+2 34-36-16. Bylaw provisions.
+3 (a) The bylaws may provide for the following:
+4 (1) The establishment of a management committee, the number of persons constituting the
+5 committee and the method of selecting the members of the committee; the powers and duties of the
+6 management committee; and whether or not the management committee may engage the services
+7 of a manager.
+8 (2) The method of calling meetings of the unit owners; what percentage of the unit owners
+9 shall constitute a quorum, and be authorized to transact business.
+10 (3) The maintenance, repair, and replacement of the common areas and facilities and
+11 payment therefor.
+12 (4) The manner of collecting from the unit owners their share of the common expenses.
+13 (5) The designation and removal of personnel necessary for the maintenance, repair, and
+14 replacement of the common areas and facilities.
+15 (6) The method of adopting and of amending administrative rules and regulations
+16 governing the details of the operation and use of the common areas and facilities.
+17 (7) Restrictions on and requirements respecting the use and maintenance of the units and
+18 the use of the common areas and facilities as are designed to prevent unreasonable interference
+19 with the use of their respective units and of the common areas and facilities by the several unit
+20 owners.
+21 (8) The percentage of votes required to amend the bylaws.
+22 (9) Other provisions as may be deemed necessary for the administration of the property
+23 consistent with this chapter.
+24 (b) Notwithstanding the provisions of subsection (a) of this section, no bylaw shall prohibit
+25 or ban the installation of electric vehicle (EV) charging stations as provided pursuant to the
+26 provisions of § 7-6-5(b); provided, however, the bylaws may provide for reasonable restrictions to
+27 include:
+28 (1) Charging equipment for an individual owner shall be:
+29 (i) Installed at the owner's expense;
+30 (ii) Installed by a licensed contractor or electrician;
+31 (iii) Conform to applicable national, state, and local health and safety standards; and
+32 (iv) Conform to applicable fire codes, zoning, land use, or other ordinances and land use
+33 permits.
+34 (2) An application process for individual owners to gain approval from the association for
+LC003439 - Page 4 of 10
+
+1 the charger. Provided, however;
+2 (i) The approval process shall be the same as the one adopted for applications for any
+3 architectural modification.
+4 (A) Fees shall be reasonable and not exceed any adopted architectural modification
+5 application fees.
+6 (B) The application for the charger cannot be denied if it complies with adopted
+7 architectural standards and the provisions of the law.
+8 (ii) The application shall be approved or denied in writing.
+9 (iii) The management committee cannot willfully avoid or delay the application process
+10 and approval.
+11 (iv) If the management committee or association does not issue a denial of the application
+12 in writing within sixty (60) days, the application shall be deemed approved, unless the delay has
+13 been for a reasonable request for more information.
+14 (3) After EV chargers are installed, individual owners are responsible for alerting
+15 prospective buyers of the residence about certain aspects of ownership related to the chargers,
+16 including:
+17 (i) The existence of the chargers and whether or not they will remain or be removed upon
+18 sale;
+19 (ii) The costs to maintain, repair, remove, or replace it; and
+20 (iii) The applicable laws, regulations and bylaws.
+21 (4) The installation and use shall comply with all applicable state and municipal safety and
+22 fire codes, regulations and ordinances.
+23 (c) Nothing in subsection (b) of this section shall be construed as a prohibition or restriction
+24 on the condominium association or the management committee, in accordance with the declaration
+25 and bylaws, from establishing and installing EV charging stations in common areas for general use
+26 by residents.
+27 SECTION 3. Sections 34-36.1-2.01, 34-36.1-3.02 and 34-36.1-3.06 of the General Laws
+28 in Chapter 34-36.1 entitled "Condominium Law" are hereby amended to read as follows:
+29 34-36.1-2.01. Creation of condominium.
+30 (a) A condominium may be created pursuant to this chapter only by recording a declaration
+31 in the municipal land evidence records. The declaration must be recorded in every municipality in
+32 which any portion of the condominium is located, and must be indexed in the grantee’s index in
+33 the name of the condominium and the association and in the grantor’s index in the name of each
+34 person executing the declaration.
+LC003439 - Page 5 of 10
+
+1 (b) A declaration or an amendment to a declaration adding units to a condominium, may
+2 not be recorded unless all structural components and mechanical systems of the building containing
+3 or comprising any units thereby created are substantially completed in accordance with the plans
+4 of that building, as evidenced by a certificate of completion executed by an independent registered
+5 engineer or architect which shall be recorded in the local land evidence records. No provision of
+6 this chapter shall be construed as prohibiting the recording of a declaration or amendment to a
+7 declaration which creates a condominium containing land only units or adds land only units to an
+8 existing condominium.
+9 (c) A declaration or an amendment to a declaration creating land only units shall set forth
+10 restrictions on the development of such land only units which address at a minimum the following
+11 items:
+12 (1) Floor area square footage,
+13 (2) Lot coverage,
+14 (3) Height,
+15 (4) Set backs from unit boundaries,
+16 (5) Use, and
+17 (6) Architectural and design standards.
+18 (d) Notwithstanding any other provisions of this section, no declaration shall prohibit or
+19 ban the installation of electric vehicle (EV) charging stations as provided pursuant to the provisions
+20 of § 7-6-5(b); provided, however, reasonable restrictions may be imposed on installation pursuant
+21 to the provisions of § 34-36.1-3.06(e).
+22 34-36.1-3.02. Powers of unit owners’ association.
+23 (a) Except as provided in subsection (b), and subject to the provisions of the declaration,
+24 the association, even if unincorporated, may:
+25 (1) Adopt and amend bylaws and rules and regulations;
+26 (2) Adopt and amend budgets for revenues, expenditures, and reserves and collect
+27 assessments for common expenses from unit owners;
+28 (3) Hire and discharge managing agents and other employees, agents and independent
+29 contractors;
+30 (4) Institute, defend, or intervene in litigation or administrative proceedings in its own
+31 name on behalf of itself or two (2) or more unit owners on matters affecting the condominium;
+32 (5) Make contracts and incur liabilities;
+33 (6) Regulate the use, maintenance, repair, replacement and modification of common
+34 elements;
+LC003439 - Page 6 of 10
+
+1 (7) Cause additional improvements to be made as a part of the common elements;
+2 (8) Acquire, hold, encumber, and convey in its own name any right, title or interest to real
+3 or personal property, but common elements may be conveyed or subjected to a security interest or
+4 mortgage only pursuant to § 34-36.1-3.12;
+5 (9) Grant easements, leases, licenses and concessions through or over the common
+6 elements;
+7 (10) Impose and receive any payments, fees, or charges for the use, rental, or operation of
+8 the common elements other than limited common elements described in § 34-36.1-2.02(2) and (4)
+9 and for services provided to unit owners;
+10 (11) Impose charges for late payment of assessments and, after notice and an opportunity
+11 to be heard, levy reasonable fines for violations of the declaration, bylaws, and rules and regulations
+12 of the association as provided in § 34-36.1-3.20;
+13 (12) Impose reasonable charges for the preparation and recordation of amendments to the
+14 declaration, resale certificates required by § 34-36.1-4.09 or statements of unpaid assessments;
+15 (13) Provide for the indemnification of its officers and executive board and maintain
+16 directors’ and officers’ liability insurance;
+17 (14) Borrow funds including the right to assign and/or pledge its right to future income,
+18 including the right to receive common expense assessments;
+19 (15) Exercise any other powers conferred by the declaration or bylaws;
+20 (16) Exercise all other powers that may be exercised in this state by legal entities of the
+21 same type as the association; and
+22 (17) Exercise any other powers necessary and proper for the governance and operation of
+23 the association.
+24 (b) The declaration may not impose limitations on the powers of the association to deal
+25 with the declarant that are more restrictive than the limitations imposed on the power of the
+26 association to deal with other persons.
+27 (c) Notwithstanding the provisions of subsection (a) of this section, no association shall
+28 prohibit or ban the installation of electric vehicle (EV) charging stations pursuant to the provisions
+29 of § 7-6-5(b); provided, however, reasonable restrictions may be imposed pursuant to the provisions
+30 of § 34-36.1-3.06(e).
+31 34-36.1-3.06. Bylaws.
+32 (a) The bylaws of the association must provide for:
+33 (1) The number of members of the executive board and the titles of the officers of the
+34 association;
+LC003439 - Page 7 of 10
+
+1 (2) Election by the executive board of a president, treasurer, secretary, and any other
+2 officers of the association the bylaws specify;
+3 (3) The qualifications, powers and duties, terms of office, and manner of electing and
+4 removing executive board members and officers and filling vacancies;
+5 (4) Which, if any, of its powers the executive board or officers may delegate to other
+6 persons or to a managing agent;
+7 (5) Which of its officers may prepare, execute, certify, and record amendments to the
+8 declaration on behalf of the association; and
+9 (6) The method of amending the bylaws.
+10 (b) Subject to the provisions of the declaration, the bylaws may provide for any other
+11 matters the association deems necessary and appropriate.
+12 (c) The bylaws of the association and rules referenced in the declaration or bylaws, and
+13 any amendments thereof, shall be recorded in the municipal land evidence records in every
+14 municipality in which any portion of the condominium is located.
+15 (d) Bylaws and rules recorded subsequent to the recording of the declaration shall be
+16 certified by two (2) members of the executive board, unless a greater certification is required by
+17 the declaration or bylaws.
+18 (e) Notwithstanding the other provisions of this section, no bylaw shall prohibit or ban the
+19 installation of electric vehicle (EV) charging stations as provided pursuant to the provisions of § 7-
+20 6-5(b); provided, however, the bylaws may provide for reasonable restrictions to include:
+21 (1) Charging equipment for an individual owner shall be:
+22 (i) Installed at the owner's expense;
+23 (ii) Installed by a licensed contractor or electrician;
+24 (iii) Conform to applicable national, state, and local health and safety standards; and
+25 (iv) Conform to applicable fire codes, zoning, land use, or other ordinances and land use
+26 permits.
+27 (2) An application process for individual owners to gain approval from the association for
+28 the charger. Provided, however;
+29 (i) The approval process shall be the same as the one adopted for applications for any
+30 architectural modification.
+31 (A) Fees shall be reasonable and not exceed any adopted architectural modification
+32 application fees.
+33 (B) The application for the charger cannot be denied if it complies with adopted
+34 architectural standards and the provisions of the law.
+LC003439 - Page 8 of 10
+
+1 (ii) The application shall be approved or denied in writing.
+2 (iii) The management committee cannot willfully avoid or delay the application process
+3 and approval.
+4 (iv) If the management committee or association does not issue a denial of the application
+5 in writing within sixty (60) days, the application shall be deemed approved, unless the delay has
+6 been for a reasonable request for more information.
+7 (3) After EV chargers are installed, individual owners are responsible for alerting
+8 prospective buyers of the residence about certain aspects of ownership related to the chargers,
+9 including:
+10 (i) The existence of the chargers and whether or not they will remain or be removed upon
+11 sale;
+12 (ii) The costs to maintain, repair, remove, or replace it; and
+13 (iii) The applicable laws, regulations and bylaws.
+14 (4) The installation and use shall comply with all applicable state and municipal safety and
+15 fire codes, regulations and ordinances.
+16 (f) Nothing contained in subsection (e) of this section shall be construed as a prohibition
+17 or restriction on the condominium association or the management committee, in accordance with
+18 the declaration and bylaws, from establishing and installing EV charging stations in common areas
+19 for general use by residents.
+20 SECTION 4. This act shall take effect upon passage.
+========
+LC003439
+========
+LC003439 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CORPORATIONS, ASSOCIATIONS AND PARTNERSHIPS -- RHODE
+ISLAND NONPROFIT CORPORATION ACT
+***
+1 This act would prevent condominium associations and home owner associations from
+2 prohibiting the installation of EV charging stations to be installed at the owner's expenses.
+3 This act would take effect upon passage.
+========
+LC003439
+========
+LC003439 - Page 10 of 10

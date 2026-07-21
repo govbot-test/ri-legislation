@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - 7278
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7278
+========
+LC003611
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- TELEMEDICINE COVERAGE ACT
+Introduced By: Representatives Hopkins, McNamara, Nardone, J. Brien, Casimiro,
+Shanley, Perez, Fascia, Read, and Tanzi
+Date Introduced: January 23, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-81-3 of the General Laws in Chapter 27-81 entitled "Telemedicine
+2 Coverage Act" is hereby amended to read as follows:
+3 27-81-3. Definitions.
+4 As used in this chapter:
+5 (1) “Clinically appropriate” means care that is delivered in the appropriate medical setting.
+6 (2) “Distant site” means a site at which a healthcare provider is located while providing
+7 healthcare services by means of telemedicine.
+8 (3) “Healthcare facility” means an institution providing healthcare services or a healthcare
+9 setting, including, but not limited to: hospitals and other licensed inpatient centers; ambulatory
+10 surgical or treatment centers; skilled nursing centers; residential treatment centers; diagnostic,
+11 laboratory and imaging centers; and rehabilitation and other therapeutic health settings.
+12 (4) “Healthcare professional” means a physician or other healthcare practitioner licensed,
+13 accredited, or certified to perform specified healthcare services consistent with state law.
+14 (5) “Healthcare provider” means a healthcare professional or a healthcare facility.
+15 (6) “Healthcare services” means any services included in the furnishing to any individual
+16 of medical, podiatric, or dental care, or hospitalization, or incident to the furnishing of that care or
+17 hospitalization, and the furnishing to any person of any and all other services for the purpose of
+18 preventing, alleviating, curing, or healing human illness, injury, or physical disability.
+19 (7) “Health insurer” means any person, firm, or corporation offering and/or insuring
+
+1 healthcare services on a prepaid basis, including, but not limited to, a nonprofit service corporation,
+2 a health maintenance organization, the Rhode Island Medicaid program, including its contracted
+3 managed care entities, or an entity offering a policy of accident and sickness insurance.
+4 (8) “Health maintenance organization” means a health maintenance organization as defined
+5 in chapter 41 of this title.
+6 (9) “Medically necessary” means medical, surgical, or other services required for the
+7 prevention, diagnosis, cure, or treatment of a health-related condition, including services necessary
+8 to prevent a decremental change in either medical or mental health status.
+9 (10) “Nonprofit service corporation” means a nonprofit hospital service corporation as
+10 defined in chapter 19 of this title, or a nonprofit medical service corporation as defined in chapter
+11 20 of this title.
+12 (11) “Originating site” means a site at which a patient is located at the time healthcare
+13 services are provided to them by means of telemedicine, which can include a patient’s home where
+14 medically necessary and clinically appropriate.
+15 (12) “Policy of accident and sickness insurance” means a policy of accident and sickness
+16 insurance as defined in chapter 18 of this title.
+17 (13) “Rhode Island Medicaid program” means a state-administered, medical assistance
+18 program that is funded by the state and federal governments under Title XIX and Title XXI of the
+19 U.S. Social Security Act and any general or public laws and administered by the executive office
+20 of health and human services.
+21 (14) “Store-and-forward technology” means the technology used to enable the transmission
+22 of a patient’s medical information from an originating site to the healthcare provider at the distant
+23 site without the patient being present.
+24 (15) “Telemedicine” means the delivery of clinical healthcare services consistent with the
+25 standard of care by use of store-and-forward technology; real time, two-way synchronous audio,
+26 video, telephone-audio-only communications; or electronic media or other telecommunications
+27 technology including, but not limited to: online adaptive interviews, remote patient monitoring
+28 devices, audiovisual communications, including the application of secure video conferencing or
+29 store-and-forward technology to provide or support healthcare delivery, which facilitate
+30 assessment, diagnosis, counseling and prescribing treatment, and care management of a patient’s
+31 health care while such patient is at an originating site and the healthcare provider is at a distant site,
+32 consistent with applicable federal laws and regulations. “Telemedicine” does not include an email
+33 message or facsimile transmission between the provider and patient, or an automated computer
+34 program used to diagnose and/or treat ocular or refractive conditions.
+LC003611 - Page 2 of 4
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC003611
+========
+LC003611 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- TELEMEDICINE COVERAGE ACT
+***
+1 This act would permit healthcare professionals to diagnose and treat patients remotely with
+2 store and forward technology when provision of services in such manner is consistent with the
+3 standard of care.
+4 This act would take effect upon passage.
+========
+LC003611
+========
+LC003611 - Page 4 of 4

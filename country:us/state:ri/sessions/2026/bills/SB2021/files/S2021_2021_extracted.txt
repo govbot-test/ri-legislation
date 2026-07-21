@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - 2021
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2021
+========
+LC003436
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+Introduced By: Senator Peter A. Appollonio
+Date Introduced: January 09, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 44-30 of the General Laws entitled "Personal Income Tax" is hereby
+2 amended by adding thereto the following section:
+3 44-30-12.1. Bitcoin exemption.
+4 (a) For the purposes of this section the following terms shall have the following meanings:
+5 (1) "Bitcoin" means a digital, decentralized currency based on blockchain technology,
+6 which is used for peer-to-peer transactions.
+7 (2) "Business" means and refers to any entity, corporation, partnership, sole proprietorship,
+8 or other organization that is based and operates primarily in the State of Rhode Island.
+9 (3) "Individual" means and refers to a natural person who resides in the State of Rhode
+10 Island.
+11 (4) "Market value" means and refers to the current price of Bitcoin in fiat currency as
+12 determined by a reputable, publicly available source or index at the time of the transaction.
+13 (5) "Sale of Bitcoin" means and refers to any transaction in which Bitcoin is sold or
+14 exchanged for another form of value, such as fiat currency or other digital or physical assets.
+15 (b) Any sale or exchange of Bitcoin by an individual or business based in Rhode Island
+16 shall be exempt from state taxation if the total value of such transactions does not exceed five
+17 thousand dollars ($5,000) per month, or twenty thousand dollars ($20,000), per taxable year.
+18 (c) Transactions exempt under this section shall not be included in the individual's or
+19 business's income for the purpose of calculating state income or capital gains tax.
+
+1 (d) Taxpayers may self-certify their eligibility for this exemption on their annual state
+2 income tax return.
+3 (e) Individuals and businesses claiming this exemption shall not be required to report such
+4 transactions individually but shall maintain reasonable records sufficient to verify that the total
+5 value of Bitcoin sales or exchanges within the taxable year does not exceed the annual exemption
+6 limit. Such records shall be made available to the department of revenue upon request for audit
+7 purposes.
+8 (f) The department of business regulation shall issue plain-language guidance for
+9 individuals and businesses regarding this exemption, including examples of acceptable
+10 recordkeeping and valuation methods.
+11 (g) This section shall remain in effect until January 1, 2028, unless extended or amended
+12 by the general assembly following review of its fiscal and economic impact.
+13 (h) If any provision of this section or its application to any person or circumstance is held
+14 invalid, the invalidity shall not affect other provisions or applications of the section which can be
+15 given effect without the invalid provision or application, and to this end, the provisions of this
+16 section are severable.
+17 SECTION 2. This act shall take effect on January 1, 2027, and sunset on January 1, 2028.
+========
+LC003436
+========
+LC003436 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+***
+1 This act would establish a simplified exemption from state income tax for small-scale
+2 Bitcoin transactions up to five thousand dollars ($5,000) per month, or twenty thousand dollars
+3 ($20,000) per taxable year.
+4 This act would take effect on January 1, 2027, and sunset on January 1, 2028.
+========
+LC003436
+========
+LC003436 - Page 3 of 3

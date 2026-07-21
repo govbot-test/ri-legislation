@@ -1,0 +1,269 @@
+Title: 
+Official Title: 
+Source: versions - 2743
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2743
+========
+LC005837
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC PROPERTY AND WORKS -- LABOR AND PAYMENT OF DEBTS
+BY CONTRACTORS
+Introduced By: Senators Ciccone, Thompson, and Gallo
+Date Introduced: February 27, 2026
+Referred To: Senate Labor & Gaming
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 37-13-3, 37-13-3.2, 37-13-7, 37-13-9 and 37-13-11 of the General
+2 Laws in Chapter 37-13 entitled "Labor and Payment of Debts by Contractors" are hereby amended
+3 to read as follows:
+4 37-13-3. Contractors subject to provisions — Weekly payment of employees.
+5 All contractors, who have been awarded contracts for public works by an awarding agency
+6 or authority of the state or of any city, town, committee, or by any person or persons therein, in
+7 which state or municipal funds are used and of which the contract price shall be in excess of one
+8 thousand dollars ($1,000) one hundred thousand dollars ($100,000) or more, whether payable at
+9 the time of the signing of the contract or at a later date, and their subcontractors, on those public
+10 works shall pay their employees at weekly intervals and shall comply with the provisions set forth
+11 in §§ 37-13-4 — 37-13-14 and § 37-13-16.
+12 37-13-3.2. Entities subject to provisions — Weekly payment of employees.
+13 All persons, firms, corporations, or other entities who or that have been awarded school
+14 transportation service contracts by an awarding agency or authority of the state or of any city, town,
+15 committee, or by any person or persons therein, in which state or municipal funds are used and of
+16 which the contract price shall be in excess of one thousand dollars ($1,000) one hundred thousand
+17 dollars ($100,000) or more, whether payable at the time of the signing of the contract or at a later
+18 date, and their subcontractors, engaged as part of the service contract, shall pay their employees at
+
+1 weekly intervals and shall comply with the provisions set forth in §§ 37-13-6 through 37-13-13.1,
+2 37-13-14.1, and 37-13-16.
+3 37-13-7. Specification in contract of amount and frequency of payment of wages.
+4 (a) Every call for bids for every contract in excess of one thousand dollars ($1,000) of one
+5 hundred thousand dollars ($100,000) or more, to which the state of Rhode Island or any political
+6 subdivision thereof or any public agency or quasi-public agency is a party, for the transportation of
+7 public and private school pupils pursuant to §§ 16-21-1 and 16-21.1-8, or for construction,
+8 alteration, and/or repair, including painting and decorating, of public buildings or public works of
+9 the state of Rhode Island or any political subdivision thereof, or any public agency or quasi-public
+10 agency and that requires or involves the employment of employees, shall contain a provision stating
+11 the minimum wages to be paid various types of employees which shall be based upon the wages
+12 that will be determined by the director of labor and training to be prevailing for the corresponding
+13 types of employees employed on projects of a character similar to the contract work in the city,
+14 town, village, or other appropriate political subdivision of the state of Rhode Island in which the
+15 work is to be performed. Every contract shall contain a stipulation that the contractor or his or her
+16 subcontractor shall pay all the employees employed directly upon the site of the work,
+17 unconditionally and not less often than once a week, and without subsequent deduction or rebate
+18 on any account, the full amounts accrued at time of payment computed at wage rates not less than
+19 those stated in the call for bids, regardless of any contractual relationships that may be alleged to
+20 exist between the contractor or subcontractor and the employees, and that the scale of wages to be
+21 paid shall be posted by the contractor in a prominent and easily accessible place at the site of the
+22 work; and the further stipulation that there may be withheld from the contractor so much of the
+23 accrued payments as may be considered necessary to pay to the employees employed by the
+24 contractor, or any subcontractor on the work, the difference between the rates of wages required by
+25 the contract to be paid the employees on the work and the rates of wages received by the employees
+26 and not refunded to the contractor, subcontractors, or their agents.
+27 (b) The terms “wages,” “scale of wages,” “wage rates,” “minimum wages,” and “prevailing
+28 wages” shall include:
+29 (1) The basic hourly rate of pay; and
+30 (2) The amount of:
+31 (i) The rate of contribution made by a contractor or subcontractor to a trustee or to a third
+32 person pursuant to a fund, plan, or program; and
+33 (ii) The rate of costs to the contractor, subcontractor, vendor, or provider that may be
+34 reasonably anticipated in providing benefits to employees pursuant to an enforceable commitment
+LC005837 - Page 2 of 8
+
+1 to carry out a financially responsible plan or program that was communicated in writing to the
+2 employees affected, for medical or hospital care, pensions on retirement or death, compensation
+3 for injuries or illness resulting from occupational activity, or insurance to provide any of the
+4 foregoing, for unemployment benefits, life insurance, disability and sickness insurance, or accident
+5 insurance, for vacation and holiday pay, for defraying costs of apprenticeship or other similar
+6 programs, or for other bona fide fringe benefits, but only where the contractor or subcontractor is
+7 not required by other federal, state, or local law to provide any of the benefits; provided, that the
+8 obligation of a contractor or subcontractor to make payment in accordance with the prevailing wage
+9 determinations of the director of labor and training insofar as this chapter of this title and other acts
+10 incorporating this chapter of this title by reference are concerned may be discharged by the making
+11 of payments in cash, by the making of contributions of a type referred to in subsection (b)(2), or by
+12 the assumption of an enforceable commitment to bear the costs of a plan or program of a type
+13 referred to in this subdivision, or any combination thereof, where the aggregate of any payments,
+14 contributions, and costs is not less than the rate of pay described in subsection (b)(1) plus the
+15 amount referred to in subsection (b)(2).
+16 (A) Notwithstanding any other law, rule, regulation, agreement, or practice to the contrary,
+17 commencing on July 1, 2024, a contractor or subcontractor is not permitted to make a payment of
+18 the cash equivalent of any applicable healthcare benefit, as predetermined per each classification
+19 by the director of labor and training, directly to the employee in lieu of actually purchasing the
+20 healthcare benefit for said employee for the applicable time period. The contractor or subcontractor
+21 shall actually purchase the healthcare benefit for the employee for the covered period of time from
+22 a licensed third-party healthcare provider. Provided, however, exempt from the provisions of this
+23 subsection (b)(2)(ii)(A) shall be:
+24 (I) Any employee currently receiving a healthcare benefit because of their relationship as
+25 a child, spouse, or domestic partner of a covered person or any employee who is the recipient of
+26 healthcare coverage in connection with active military service or through Veterans Affairs; and
+27 (II) Any employee who is employed on a “short-term basis,” which, for purposes of this
+28 section, shall mean a period of ninety (90) days or less.
+29 (B) The contractor or subcontractor shall provide a proof of purchase of the healthcare
+30 benefit to the employee and the employee’s bargaining agent, if applicable. “Proof of purchase”
+31 means documents substantially similar to declaration pages in an insurance policy indicating the
+32 entity providing the healthcare benefit coverage or insurance therefor; the identity of the individual
+33 covered; the type and amount of coverage; and the coverage period.
+34 (C) Notwithstanding any other law, rule, regulation, agreement, or practice to the contrary,
+LC005837 - Page 3 of 8
+
+1 commencing on July 1, 2025, unless employed ninety (90) days or less, a contractor or
+2 subcontractor shall not be permitted to make a payment of the cash equivalent of any applicable
+3 retirement or pension benefit, as predetermined per each classification by the director of the
+4 department of labor and training, directly to the employee in lieu of actually purchasing the
+5 retirement and/or pension benefit for said employee. The department of labor and training may
+6 require any contractor or subcontractor to provide proof that it is providing this benefit to its eligible
+7 employees.
+8 (D) Any contractor or subcontractor who or that fails to comply with the requirements of
+9 this section shall be required to pay a civil penalty to the director of labor and training in an amount
+10 of not less than one thousand dollars ($1,000) and not greater than three thousand dollars ($3,000)
+11 per violation. Penalties shall be recoverable in a civil action pursuant to this section by the director
+12 of labor and training.
+13 (E) The director of labor and training is authorized to obtain injunctive relief against
+14 continuing violations of the provisions of this section.
+15 (F) Any employee or bargaining agent who has been aggrieved by the failure of a contractor
+16 or subcontractor to actually purchase the healthcare benefit for employees and provide the
+17 employee and/or their bargaining agent with proof of purchase under this section may pursue a
+18 private right of action under the terms of § 37-13-17.
+19 (c) The term “employees,” as used in this section, shall include:
+20 (1) Employees of contractors or subcontractors performing jobs on various types of public
+21 works including mechanics, apprentices, teamsters, chauffeurs, and laborers engaged in the
+22 transportation of gravel or fill to the site of public works, the removal and/or delivery of gravel or
+23 fill or ready-mix concrete, sand, bituminous stone, or asphalt flowable fill from the site of public
+24 works, or the transportation or removal of gravel or fill from one location to another on the site of
+25 public works, and the employment of the employees shall be subject to the provisions of
+26 subsections (a) and (b); and
+27 (2) Persons employed by a provider contracted for the purpose of transporting public and
+28 private school pupils pursuant to §§ 16-21-1 and 16-21.1-8 shall be subject to the provisions of
+29 subsections (a) and (b) of this section. For the purposes of this subsection the term employee
+30 includes school bus drivers, aides, and monitors who are directly providing transportation services;
+31 the term employee does not include mechanics, dispatchers, or other personnel employed by the
+32 vendor whose duties are normally performed at a fixed location.
+33 (d) The terms “public agency” and “quasi-public agency” shall include, but not be limited
+34 to: the Rhode Island industrial recreational building authority, the Rhode Island commerce
+LC005837 - Page 4 of 8
+
+1 corporation, the Rhode Island airport corporation, the Rhode Island industrial facilities corporation,
+2 the Rhode Island refunding bond authority, the Rhode Island housing and mortgage finance
+3 corporation, the Rhode Island resource recovery corporation, the Rhode Island public transit
+4 authority, the Rhode Island student loan authority, the water resources board corporate, the Rhode
+5 Island health and education building corporation, the Rhode Island turnpike and bridge authority,
+6 the Narragansett Bay water quality management district commission, the Rhode Island
+7 telecommunications authority, the convention center authority, the council on postsecondary
+8 education, the council on elementary and secondary education, the capital center commission, the
+9 housing resources commission, the Quonset Point-Davisville management corporation, the Rhode
+10 Island children’s crusade for higher education, the Rhode Island depositors economic protection
+11 corporation, the Rhode Island lottery commission, the Rhode Island partnership for science and
+12 technology, the Rhode Island public building authority, and the Rhode Island underground storage
+13 tank board.
+14 (e) If any one or more subsections of this section shall for any reason be adjudged
+15 unconstitutional or otherwise invalid, the judgment shall not affect, impair, or invalidate the
+16 remaining subsections.
+17 37-13-9. Statutory provisions included in contracts.
+18 A copy of §§ 37-13-5, 37-13-6, and 37-13-7 shall be inserted in all contracts for public
+19 works or school transportation services awarded by the state, any city, town, committee, an
+20 authorized agency, or awarding authority thereof, or any person or persons in their behalf in which
+21 state or municipal funds are used if the contract price is in excess of one thousand dollars ($1,000)
+22 one hundred thousand dollars ($100,000) or more.
+23 37-13-11. Posting of prevailing wage rates.
+24 Each contractor or provider awarded a contract for public works or school transportation
+25 services with a contract price in excess of one thousand dollars ($1,000) of one hundred thousand
+26 dollars ($100,000) or more, and each subcontractor who performs work on those public works,
+27 shall post in conspicuous places on the project, where covered workers are employed, posters that
+28 contain the current, prevailing rate of wages and the current, prevailing rate of payments to the
+29 funds required to be paid for each craft or type of worker employed to execute the contract as set
+30 forth in §§ 37-13-6 and 37-13-7, and the rights and remedies of any employee described in § 37-
+31 13-17 for nonpayment of any wages earned pursuant to this chapter. Posters shall be furnished to
+32 contractors and subcontractors by the director of labor and training, who shall determine the size
+33 and context thereof from time to time, at the time a contract is awarded. A contractor or
+34 subcontractor who fails to comply with the provisions of this section shall be deemed guilty of a
+LC005837 - Page 5 of 8
+
+1 misdemeanor and shall pay to the director of labor and training one hundred dollars ($100) for each
+2 calendar day of noncompliance as determined by him or her. Contracts set forth in this section shall
+3 not be awarded by the state, any city, town, or any agency thereof until the director of labor and
+4 training has prepared and delivered the posters to the division of purchases, if the state or any
+5 agency thereof is the proper authority, or to the city, town, or an agency thereof, if it is the proper
+6 authority, and the contractor to whom the contract is to be awarded.
+7 SECTION 2. Chapter 37-13 of the General Laws entitled "Labor and Payment of Debts by
+8 Contractors" is hereby amended by adding thereto the following section:
+9 37-13-7.1. Municipal public works -- Prevailing wage enforcement, payroll, and
+10 penalties.
+11 (a) Scope and applicability. This section applies only to municipal contracts for
+12 construction, alteration, or repair of public works with a contract value of one hundred thousand
+13 dollars ($100,000) or more on behalf of any city or town in Rhode Island.
+14 (b) Prevailing wage requirement. Contractors and subcontractors shall pay wages and
+15 benefits, according to rates determined by the director of the department of labor and training
+16 (DLT). Wage definitions, payment frequency, and posting requirements remain governed by § 37-
+17 13-7.
+18 (c) Municipal oversight and compliance. Municipalities shall assist in enforcing prevailing
+19 wage requirements by:
+20 (1) Ensuring prevailing wage requirements are in bid specifications;
+21 (2) Receiving and reviewing certified payrolls on a monthly basis and in a timely manner
+22 from contractors and subcontractors;
+23 (3) Reporting suspected wage violations to the DLT as soon as possible;
+24 (4) Coordinating with the DLT on any required follow up. Enforcement authority including
+25 withholding payments and imposing penalties, rests exclusively with the DLT. Upon a finding of
+26 noncompliance, payment shall be withheld until the violation is resolved, consistent with applicable
+27 law.
+28 (5) Filing a claim against the contractor's payment or performance bond, if a contractor
+29 fails to pay prevailing wages; provided that, the municipality notifies the DLT and the contractor,
+30 within ten (10) days of identifying nonpayment.
+31 (6) Providing the DLT, in a form and manner prescribed by the DLT, a list of all projects
+32 subject to prevailing wage requirements under this section.
+33 (d) Certified payrolls. Weekly payrolls shall include the employee's name, classification,
+34 hours worked, wage, fringe benefits, and employer's name. Falsifying payrolls constitutes a
+LC005837 - Page 6 of 8
+
+1 violation, subject to penalties set forth in § 37-13-7.1(f).
+2 (e) Subcontractor accountability. General contractors are jointly and severally liable with
+3 subcontractors for compliance. Subcontractors shall comply with § 37-13-7.1 reporting and wage
+4 requirements.
+5 (f) Any violations of this section shall be subject to the following penalties:
+6 (1) Civil fines of one hundred dollars ($100) to five hundred dollars ($500) per day per
+7 violation.
+8 (2) Issuance of stop-work orders. Violation of a stop-work order shall constitute a separate
+9 violation. All project work shall immediately cease, until the original stop-work order has come
+10 into compliance.
+11 (3) Debarment for repeat offenders up to three (3) years.
+12 (4) The DLT may pursue additional remedies, including back wages.
+13 (g) Worker protections; anti-retaliation and nonpayment protections. Workers shall be
+14 protected from retaliation for filing complaints with the municipal compliance officer of the DLT,
+15 pursuant to chapter 14 of title 28 ("payment of wages").
+16 (h) Review and reporting. The director of the department of labor and training shall:
+17 (1) Monitor municipal projects for compliance, using payroll submissions and inspections.
+18 (2) Publish annual summary reports identifying the:
+19 (i) Number of municipal projects covered;
+20 (ii) Violations identified and penalties assessed; and
+21 (iii) Trends or recurring issues;
+22 (3) Use the data to inform enforcement policies and guidance for municipalities.
+23 (i) Rules and regulations. The DLT shall adopt rules and regulations to implement this
+24 section including, but not limited to, payroll verification, reporting procedures, and enforcement
+25 protocols.
+26 SECTION 3. This act shall take effect upon passage.
+========
+LC005837
+========
+LC005837 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC PROPERTY AND WORKS -- LABOR AND PAYMENT OF DEBTS
+BY CONTRACTORS
+***
+1 This act would raise the minimum threshold contract price before public works contractors
+2 are required to pay prevailing wages to their employees, from one thousand dollars ($1,000) to one
+3 hundred thousand dollars ($100,000). This act also would require municipal oversight, enforcement
+4 and compliance with the payment of prevailing wages regarding municipal contracts.
+5 This act would take effect upon passage.
+========
+LC005837
+========
+LC005837 - Page 8 of 8

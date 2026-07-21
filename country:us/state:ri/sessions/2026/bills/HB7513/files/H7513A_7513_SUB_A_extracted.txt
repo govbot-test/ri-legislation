@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - 7513  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7513 SUBSTITUTE A
+========
+LC004923/SUB A/2
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- REAL ESTATE SALES
+DISCLOSURES
+Introduced By: Representatives Corvese, J. Brien, DeSimone, Read, Azzinaro, Shanley,
+and Noret
+Date Introduced: February 06, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 5-20.8 of the General Laws entitled "Real Estate Sales Disclosures"
+2 is hereby amended by adding thereto the following section:
+3 5-20.8-14. Radon inspection and mitigation required.
+4 (a) As used in this section, the following words shall have the following meanings, unless
+5 the context indicates otherwise:
+6 (1) "Radon" means a radioactive gas found in the air that comes from the natural
+7 breakdown of uranium, thorium, or radium in soil, rock, and water.
+8 (2) "Radon test" means measuring the amount of radon in an indoor space:
+9 (i) With a device made for this purpose;
+10 (ii) Which is conducted by a certified or licensed individual in accordance with § 23-61-5;
+11 and
+12 (iii) In accordance with the protocols specified for the device used.
+13 (3) "Residential real estate transaction" means an agreement to sell real property for
+14 residential purposes including, but not limited to, single family homes, duplexes, multi-family
+15 homes, and apartment complexes. "Residential real estate transaction" does not include property
+16 sold for non-residential commercial property, or property used for tourist or transient residential
+17 purposes as defined in § 42-63.1-2.
+18 (4) "Unsafe radon levels" means radon levels that exceed the Environmental Protection
+
+1 Agency action level of 4.0 picocuries per liter (pCi/L).
+2 (b) Transactions that do not require radon testing.
+3 (1) The following transactions shall not be considered a residential real estate transaction,
+4 and shall not require a radon test if the transaction is:
+5 (i) By a lender or an affiliate or subsidiary lender that acquired the home by foreclosure or
+6 deed in lieu of foreclosure;
+7 (ii) A sheriff’s sale, tax sale, or sale by foreclosure, partition, or by court appointed trustee;
+8 (iii) A transfer of a home to be converted by the buyer into a use other than residential or
+9 to be demolished; or
+10 (iv) A devise pursuant to a will or an intestate inheritance.
+11 (2) A residential real estate transaction property that has an existing radon mitigation
+12 system installed by a licensed radon contractor within three (3) years of the execution of the
+13 purchase and sale agreement; or
+14 (3) A residential real estate transaction property that has an existing radon mitigation
+15 system installed by a licensed radon contractor mare than three (3) years prior to the execution of
+16 the purchase and sale agreement but has been tested for radon within three (3) years of the execution
+17 of the purchase and sales agreement.
+18 (c) Mandatory radon testing and disclosure.
+19 (1) Any purchase and sale agreement executed on June 1, 2027 and thereafter, as a
+20 prerequisite to a residential real estate transaction not covered in subsection (b) of this section, a
+21 radon test shall be performed no earlier than one year prior to the closing date of the residential real
+22 estate transaction.
+23 (2) The results of any radon test performed up to one year prior to the closing shall be made
+24 available to the selling and buying parties of the transaction, as well as any lender designated by
+25 the buying parties.
+26 (d) Unless otherwise agreed to by the parties, the buyer shall bear the burden of covering
+27 the cost of the radon test if it is completed after the execution of the purchase and sale agreement
+28 and the seller provided no certified test completed within one year prior to the execution of the
+29 purchase and sale agreement indication no unsafe radon level.
+30 (e) Mitigation required. In the event that a radon test conducted in accordance with this
+31 section yields a result indicating unsafe radon levels, a radon mitigation system shall be installed,
+32 by a certified or licensed individual in accordance with § 23-61-5, prior to the closing of the
+33 residential real estate transaction, if possible. In the event it is not possible to complete the work
+34 prior to the closing, the estimated amount of the cost of the mitigation system shall be held in
+LC004923/SUB A/2 - Page 2 of 4
+
+1 escrow until the work is completed at which time the amount in escrow shall be distributed in
+2 accordance with an agreement signed by the seller and buyer to the closing.
+3 SECTION 2. This act shall take effect on June 1, 2027.
+========
+LC004923/SUB A/2
+========
+LC004923/SUB A/2 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- REAL ESTATE SALES
+DISCLOSURES
+***
+1 This act would provide protocols for radon inspection relative to real estate transactions
+2 and provides time frames and conditions for testing and mitigation.
+3 This act would take effect on June 1, 2027.
+========
+LC004923/SUB A/2
+========
+LC004923/SUB A/2 - Page 4 of 4

@@ -1,0 +1,114 @@
+Title: 
+Official Title: 
+Source: versions - 7607
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7607
+========
+LC004939
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW--GENERAL REGULATORY PROVISIONS -- SWIPE
+FEES
+Introduced By: Representatives McEntee, Caldwell, Fogarty, Spears, Shallcross Smith,
+Phillips, Cortvriend, Costantino, Voas, and Casey
+Date Introduced: February 11, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 26.2
+4 SWIPE FEES
+5 6-26.2-1. Definitions.
+6 As used in this chapter, the following terms shall have the following meanings:
+7 (1) "Assessment fee" means a fee paid to the payment card network for allowing a merchant
+8 to use a payment card or other payment code or device in an electronic payment transaction.
+9 (2) "Electronic payment transaction" means a transaction in which a person uses a payment
+10 card or other payment code or device issued or approved through a payment card network to debit
+11 a deposit account or use a line of credit, whether authorization is based on a signature, personal
+12 identification number, or other means.
+13 (3) "Gratuity" means a voluntary monetary contribution to an agent of a merchant from a
+14 guest, patron, or customer in connection with services rendered.
+15 (4) "Interchange fee" means a fee charged to a merchant for the purpose of compensating
+16 the payment card issuer for the issuer’s involvement in an electronic payment transaction.
+17 (5) "Payment card" means a credit card, debit card, check card, or other card that is issued
+18 to an authorized user to purchase or obtain goods, services, money, or any other thing of value.
+
+1 (6) "Payment card issuer" means a lender, including a financial institution, or a merchant
+2 that receives applications and issues payment cards to individuals.
+3 (7) "Payment card network" means an entity that directly, or through a licensed member,
+4 processor, or agent, provides the proprietary services, infrastructure, and software that route
+5 information and data to conduct debit card or credit card transaction authorization, clearance, and
+6 settlement and that an entity uses in order to accept as a form of payment a brand of debit card,
+7 credit card, or other device that may be used to carry out debit or credit transactions.
+8 (8) "State or local tax" means any sales, use, occupancy, or excise tax imposed by the state
+9 or a political subdivision thereof.
+10 (9) "Swipe fee" means the interchange fee and, if applicable, the assessment fee.
+11 6-26.2-2. Exclusion of state or local taxes and gratuity from swipe fees -- Merchant
+12 deduction or rebate.
+13 (a) The amount of state or local tax that is calculated as a percentage of the amount of an
+14 electronic payment transaction made in this state and gratuity that is listed separately on a payment
+15 invoice or other demand for payment shall be excluded from the total amount on which a swipe fee
+16 is charged for that transaction.
+17 (b) A payment card network shall, with respect to each form or type of electronic payment
+18 transaction:
+19 (1) Deduct the amount of state or local tax imposed and gratuity from the calculation of
+20 swipe fees attributable to the transaction at the time of settlement; or
+21 (2) Rebate the merchant an amount equal to the amount of swipe fees attributable to the
+22 state or local tax imposed and gratuity on the transaction.
+23 (c) A deduction or rebate under this section shall occur at the time of settlement when the
+24 merchant is able to capture and transmit state or local tax or fee amounts and gratuity relevant to
+25 the sale at the time of sale as part of the transaction finalization. If a merchant is unable to capture
+26 and transmit tax or fee and gratuity amounts relevant to the sale at the time of sale, then the payment
+27 card network shall accept proof of tax or fee amounts and gratuity collected on sales subject to a
+28 swipe fee on the submission of sales data by the merchant and provide the rebate no later than one
+29 hundred eighty (180) days after the date of the electronic payment transaction, and, within thirty
+30 (30) days after the merchant submits the sales data.
+31 (d) This section shall not create liability for a payment card network regarding the accuracy
+32 of the tax or gratuity data reported by the merchant.
+33 (e) It shall be unlawful for a payment card issuer or a payment card network to alter or
+34 manipulate the computation and imposition of swipe fees by increasing the rate or amount of the
+LC004939 - Page 2 of 4
+
+1 fees applicable to or imposed upon the portion of an electronic payment transaction not attributable
+2 to taxes or gratuities to circumvent the effect of this section.
+3 6-26.2-3. Penalties.
+4 (a) A person who violates this chapter shall be subject to a civil penalty not to exceed one
+5 thousand dollars ($1,000) for each violation.
+6 (b) The attorney general:
+7 (1) May bring an action to recover the civil penalty imposed under this section;
+8 (2) May obtain a temporary or permanent injunction to restrain the violation; and
+9 (3) Shall deposit a civil penalty collected under this section in the state treasury to the credit
+10 of the general revenue fund.
+11 (c) A person who violates this chapter shall refund a merchant any swipe fees charged in
+12 violation of this chapter.
+13 6-26.2-4. Severability.
+14 If any of the provisions of this chapter are held invalid, the remainder shall not be affected
+15 as a result; nor shall the application of the provision held invalid to persons or circumstances other
+16 than those as to which it is held invalid be affected as a result.
+17 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC004939
+========
+LC004939 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW--GENERAL REGULATORY PROVISIONS -- SWIPE
+FEES
+***
+1 This act would prohibit the charging of swipe fees on taxes and gratuities.
+2 This act would take effect on January 1, 2027.
+========
+LC004939
+========
+LC004939 - Page 4 of 4

@@ -1,0 +1,189 @@
+Title: 
+Official Title: 
+Source: versions - 7990
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7990
+========
+LC005402
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- TIRE EFFICIENCY STANDARDS
+Introduced By: Representatives Handy, McGaw, Cortvriend, Kislak, Tanzi, Cruz, Potter,
+and McNamara
+Date Introduced: February 27, 2026
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 (a) The legislature finds that:
+3 (1) Replacement tires for passenger cars and light trucks are less energy efficient, on
+4 average, than tires installed as original equipment on new vehicles.
+5 (2) Independent testing of available tires has demonstrated that available technologies can
+6 cost-effectively improve replacement tire efficiency without compromising product longevity or
+7 safety.
+8 (3) Replacement tire efficiency standards will reduce gasoline and electricity waste, thus
+9 saving consumers and businesses money.
+10 (4) Such efficiency standards will reduce harmful air pollutant emissions that threaten
+11 public health, especially for overburdened communities near highways through reduced
+12 transportation-related air pollution.
+13 (5) Gasoline and electricity savings also reduce emissions that contribute to climate change.
+14 (6) Monetary savings resulting from more efficient replacement tires benefit all consumers,
+15 but are especially important to low-income families, who spend a disproportionate share of their
+16 income on fuel costs.
+17 (7) Efficiency standards also help the state and local economies because savings at the
+18 pump and on electric bills can be spent on local goods and services.
+19 (8) Electricity savings help reduce or delay the need for expensive investments in new
+
+1 power plants, transmission lines, and distribution system upgrades.
+2 SECTION 2. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+3 is hereby amended by adding thereto the following chapter:
+4 CHAPTER 23.4
+5 TIRE EFFICIENCY STANDARDS
+6 31-23.4-1. Purpose.
+7 This chapter provides for the adoption of minimum efficiency standards for new
+8 replacement tires sold or installed in the state.
+9 31-23.4-2. Definitions.
+10 As used in the chapter:
+11 (1) “Compensation” means money or any other valuable thing, regardless of form, received
+12 or to be received by a person for services rendered.
+13 (2) "Department" means the department of transportation, division of motor vehicles.
+14 (3) "Light-duty truck" means any motor vehicle other than a passenger car with a gross
+15 vehicle weight rating not exceeding ten thousand pounds (10,000 lbs.).
+16 (4) “Passenger car" means any motor vehicle designed primarily for transportation of
+17 persons, having a design capacity of twelve (12) persons or less, with a gross vehicle weight rating
+18 not exceeding ten thousand pounds (10,000 lbs.).
+19 (5) “Person” means:
+20 (i) Any individual
+21 (ii) Any corporation, company, association, firm, partnership, society, trust, joint venture,
+22 or joint stock company.
+23 (6) "Replacement tire" means a tire sold or offered for sale in the state, except a tire sold:
+24 (i) At wholesale for final retail sale outside the state; or
+25 (ii)With a new passenger car or light-duty truck.
+26 (iii) "Rolling resistance coefficient" means the ratio of the rolling resistance force, in
+27 newtons, to the load on the tire in kilonewtons.
+28 (7) "Tire brand name owner" means a person, other than a tire manufacturer, who owns or
+29 has the right to control the brand name of a tire or a person who licenses another to purchase tires
+30 from a tire manufacturer bearing the licensor's brand name.
+31 (8) “Wet grip" means the capacity of a tire to maintain adhesion and provide braking
+32 performance on a wet paved surface.
+33 (9) "Tire manufacturer" means a person manufacturing or importing replacement tires for
+34 sale in the state.
+LC005402 - Page 2 of 6
+
+1 31-23.4-3. Standards.
+2 (a) Not later than eighteen (18) months after enactment of this chapter, the department shall
+3 adopt regulations, in accordance with the provisions of the chapter 35 of title 42 ("administrative
+4 procedures"), establishing energy efficiency standards for new replacement tires for passenger cars
+5 and light-duty trucks at levels that serve to promote energy conservation in the state and will be
+6 cost effective for consumers who purchase and use such new replacement tires;
+7 (1) Tire efficiency shall be tested in accordance with Section 575.106 of Title 49 of the
+8 Code of Federal Regulations (Tire fuel efficiency consumer information program), as in effect on
+9 the date of enactment of this chapter;
+10 (2) The department shall also adopt minimum requirements for wet grip performance, as
+11 tested in accordance with ISO 23671(2021) (“Passenger Car Tires - Method for Measuring Relative
+12 Wet Grip Braking Performance - Loaded New Tires,”) to ensure that wet grip is maintained or
+13 enhanced as tire efficiency improves;
+14 (3) The standards adopted by the department under this section may not adversely affect
+15 tire safety or tire longevity; and
+16 (4) The department shall consider and adopt separate standards or exemptions for specialty
+17 tires, such as dedicated winter-type snow tires, spare use tires, tires manufactured specifically for
+18 use in vehicles with three (3) or fewer wheels, and tires manufactured specifically for use in offroad
+19 recreational or agricultural motor vehicles.
+20 (b) The department may also adopt a rating system for the energy efficiency and wet grip
+21 of new replacement tires, considering rating systems adopted by other states.
+22 31-23.4-4. Implementation.
+23 (a) Twelve (12) months after the department adopts standards under § 31-23.4-3, no new
+24 replacement tire may be sold or offered for sale in the state unless it meets the requirements
+25 established by the department.
+26 (b) One year after the date upon which the sale or offering for sale of new replacement tires
+27 becomes subject to the requirements of subsection (a) of this section, no new replacement tire may
+28 be installed for compensation in the state unless the tire meets the requirements established by the
+29 department.
+30 (c) New replacement tires sold or offered for sale to state residents present in the state must
+31 meet the requirements established by the department regardless of the seller’s physical location,
+32 including, without limitation, any sales or offers to sell made through means other than in-person
+33 transactions, such as internet, telephone, or mail order communications.
+34 31-23.4-5. Revisions and future standards.
+LC005402 - Page 3 of 6
+
+1 (a) The department may adopt regulations, in accordance with the chapter 35 of title 42, to
+2 establish increased efficiency standards for new replacement tires. In considering such amended
+3 standards, the department shall set efficiency standards upon a determination that increased
+4 efficiency standards would serve to promote energy conservation in the state and would be cost
+5 effective for consumers who purchase and use such new products; provided that, no new or
+6 increased efficiency standards shall become effective within one year following the adoption of
+7 any amended regulations establishing such increased efficiency standards.
+8 (b) The department may also adopt regulations to establish increased wet grip standards
+9 for new replacement tires to ensure that wet grip is maintained or enhanced as tire efficiency
+10 improves.
+11 31-23.4-6. Testing, certification, labeling, and enforcement.
+12 (a) Tire manufacturers and tire brand name owners of new replacement tires covered by
+13 this chapter shall test samples of their products in accordance with the test procedures adopted
+14 pursuant to this chapter. The department may adopt updated test methods by regulation when
+15 improved test methods become available or when an alternative test method has been adopted by
+16 another state or the federal government.
+17 (b) Tire manufacturers of new replacement tires covered by this chapter shall certify to the
+18 department, or to an approved third-party database as determined by the department, that such tires
+19 are in compliance with the provisions of this chapter. The department shall promulgate regulations
+20 governing the certification of such tires and shall coordinate with the certification programs of other
+21 states with similar standards.
+22 (c) The department may require that energy efficiency and wet grip ratings, if established
+23 under § 31-23.4-3, be displayed to consumers at the physical or online point of sale.
+24 (d) The department may test new replacement tires covered by this chapter. If tires tested
+25 are found not to be in compliance with the standards established under § 31-23.4-3, the department
+26 shall:
+27 (1) Charge the manufacturer of such tires for the cost of product purchase and testing; and
+28 (2) Make information available to the attorney general and the public on tires found not to
+29 be in compliance with the standards.
+30 (e) The department may cause periodic inspections to be made of distributors or retailers
+31 of new replacement tires covered by this chapter in order to determine compliance with the
+32 provisions of this chapter. The department shall investigate complaints received concerning
+33 violations of this chapter.
+34 (f) If the department finds that any person has committed a violation of any provision of
+LC005402 - Page 4 of 6
+
+1 this chapter, the department shall issue a warning to such person. Any person who commits a
+2 violation after the issuance of such warning shall be subject to a civil penalty, issued by the
+3 department, of up to one hundred dollars ($100) for each offense. Any further violations committed
+4 by such person after this second violation shall be subject to a civil penalty of not more than five
+5 hundred dollars ($500) for each offense. Each new replacement tire offered, sold, or distributed in
+6 violation of § 31-23.4-4, shall constitute a separate violation, each violation shall constitute a
+7 separate offense, and each day that such violation occurs shall constitute a separate offense.
+8 Penalties assessed under this subsection are in addition to costs assessed under subsection (d) of
+9 this section.
+10 (g) If the department finds repeated violations have occurred, they shall report the results
+11 of such violations to the attorney general. The attorney general may institute proceedings to seek
+12 an injunction in court to enforce the provisions of this chapter.
+13 (h) The department may adopt such further regulations as necessary to ensure the proper
+14 implementation and enforcement of the provisions of this chapter.
+15 31-23.4-7. Severability.
+16 The provisions of this chapter shall be severable, and if the application of any clause,
+17 sentence, paragraph, subdivision, section, or part of this chapter shall be adjudged by any court of
+18 competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the
+19 application of any other clause, sentence, paragraph, subdivision, section, or part of this chapter.
+20 SECTION 3. This act shall take effect upon passage.
+========
+LC005402
+========
+LC005402 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- TIRE EFFICIENCY STANDARDS
+***
+1 This act would establish efficiency standards for tires intended to increase efficiency and
+2 improve emissions standards.
+3 This act would take effect upon passage.
+========
+LC005402
+========
+LC005402 - Page 6 of 6

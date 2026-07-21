@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - 7646
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7646
+========
+LC003601
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE IN PARTICULAR
+ACTIONS -- RHODE ISLAND MEDICAL LIABILITY ACTIONS
+Introduced By: Representatives Nardone, Santucci, Chippendale, Roberts, Place, and
+Hopkins
+Date Introduced: February 11, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 10 of the General Laws entitled "COURTS AND CIVIL PROCEDURE
+2 — PROCEDURE IN PARTICULAR ACTIONS" is hereby amended by adding thereto the
+3 following chapter:
+4 CHAPTER 19.1
+5 RHODE ISLAND MEDICAL LIABILITY ACTIONS
+6 10-19.1-1. Definitions.
+7 (1) “Healthcare provider” means those persons defined in § 5-37.3-3.
+8 (2) “Tribunal” means the panel established by § 10-19.1-2.
+9 10-19.1-2. Medical malpractice tribunal.
+10 (a) Every action for malpractice, error, or mistake against a healthcare provider shall be
+11 heard by a tribunal consisting of a justice of the superior court, who shall preside; an attorney
+12 licensed to practice law in this state; and a healthcare provider licensed to practice medicine in this
+13 state. Each such action shall be heard by said tribunal within fifteen (15) days after the defendant’s
+14 answer has been filed.
+15 (b) The attorney and healthcare provider shall be appointed by the presiding justice. The
+16 healthcare provider shall, where feasible, be selected from the same or a substantially similar
+17 specialty as the defendant healthcare provider, as selected by the superior court justice in a manner
+18 the justice determines fair and equitable. Where there are codefendants representing more than one
+
+1 field of health care, the superior court justice shall determine in the justice's discretion who shall
+2 represent the healthcare field on the tribunal.
+3 10-19.1-3. Tribunal hearing and standard of review.
+4 (a) The tribunal shall conduct a hearing at which the plaintiff shall present an offer of proof.
+5 (b) The offer of proof shall consist of such evidence as would be admissible at trial.
+6 (c) The tribunal shall determine whether the evidence presented, if properly substantiated,
+7 is sufficient to raise a legitimate question of liability appropriate for judicial inquiry or whether the
+8 plaintiff’s case is merely an unfortunate medical result.
+9 (d) The tribunal shall not resolve disputed issues of fact, assess credibility, or determine
+10 damages.
+11 10-19.1-4. Tribunal finding for the plaintiff.
+12 If the tribunal determines that the plaintiff’s offer of proof is sufficient, the action shall
+13 proceed in the superior court in the normal course without further restriction.
+14 10-19.1-5. Tribunal finding for the defendant; Bond requirement.
+15 (a) If the tribunal determines that the plaintiff’s offer of proof is insufficient, the plaintiff
+16 may proceed with the action only upon filing a bond in the amount of six thousand dollars ($6,000),
+17 conditioned upon payment of the defendant’s taxable costs if the plaintiff does not prevail.
+18 (b) Upon a showing that the plaintiff is indigent or that the bond requirement would create
+19 an undue hardship, the court may reduce the amount of the bond but may not eliminate the
+20 requirement.
+21 (c) Failure to post the required bond within thirty (30) days of the tribunal’s finding shall
+22 result in dismissal of the action without prejudice.
+23 10-19.1-6. Effect of tribunal proceedings.
+24 The finding of the tribunal shall be admissible as evidence at trial.
+25 10-19.1-7. Costs and compensation.
+26 (a) Tribunal members other than the presiding justice shall be compensated at a rate
+27 established by the chief justice of the supreme court.
+28 (b) Costs associated with tribunal proceedings shall be taxed as costs in the action at the
+29 discretion of the court.
+30 10-19.1-8. Rules.
+31 The chief justice of the supreme court shall promulgate rules and fee schedules necessary
+32 to implement the provisions of this chapter.
+LC003601 - Page 2 of 4
+
+1 SECTION 2. This act shall take effect upon passage and shall apply to all medical
+2 malpractice actions filed on or after January 1, 2027.
+========
+LC003601
+========
+LC003601 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE IN PARTICULAR
+ACTIONS -- RHODE ISLAND MEDICAL LIABILITY ACTIONS
+***
+1 This act would create a medical malpractice tribunal that would screen medical malpractice
+2 actions before such actions may proceed in superior court.
+3 This act would take effect upon passage and shall apply to all medical malpractice actions
+4 filed on or after January 1, 2027.
+========
+LC003601
+========
+LC003601 - Page 4 of 4

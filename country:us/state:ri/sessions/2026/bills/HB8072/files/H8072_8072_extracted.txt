@@ -1,0 +1,202 @@
+Title: 
+Official Title: 
+Source: versions - 8072
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8072
+========
+LC005748
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- WEAPONS
+Introduced By: Representatives Casey, Chippendale, Hopkins, J. Brien, Costantino,
+Corvese, O'Brien, Dawson, Read, and Biah
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 11-47-2 of the General Laws in Chapter 11-47 entitled "Weapons" is
+2 hereby amended to read as follows:
+3 11-47-2. Definitions.
+4 When used in this chapter, the following words and phrases are construed as follows:
+5 (1) “3D printing process” means 3D printing or additive manufacturing which is a process
+6 of making three (3) dimensional solid objects from a computer file and shall include any of various
+7 processes in which material is joined or solidified under computer control to create a three (3)
+8 dimensional object, with material being added together including liquid molecules or powder
+9 grains.
+10 (2) “Antique firearm” is defined as that term is defined under the provisions of 18 U.S.C.
+11 § 921.
+12 (3) “Binary trigger” means a device that replaces a standard trigger on a semi-automatic
+13 weapon and is designed to fire one round on the pull of the trigger and another round upon release
+14 of the trigger.
+15 (4) “Bump-fire stock” means any device that replaces a semi-automatic weapon’s standard
+16 stock and is designed to slide back and forth rapidly, harnessing the weapon’s recoil to rapidly fire
+17 the weapon.
+18 (5) “Crime gun” means any firearm used in a crime or identified by law enforcement as
+19 suspected of having been used in a criminal offense.
+
+1 (6) “Electronic dart gun” means any handheld device that transmits an electric current from
+2 the device to a person by expelling steel or metal prongs, darts or projectiles to make contact with
+3 a person, and is activated by a trigger button.
+4 (6)(7) “Crime of violence” means and includes any of the following crimes or an attempt
+5 to commit any of them: murder, manslaughter, rape, first- or second-degree sexual assault, first- or
+6 second-degree child molestation, kidnapping, first- and second-degree arson, mayhem, robbery,
+7 burglary, breaking and entering, any felony violation involving the illegal manufacture, sale, or
+8 delivery of a controlled substance, or possession with intent to manufacture, sell, or deliver a
+9 controlled substance classified in schedule I or schedule II of § 21-28-2.08, any violation of § 21-
+10 28-4.01.1 or § 21-28-4.01.2 or conspiracy to commit any violation of these statutes, assault with a
+11 dangerous weapon, assault or battery involving grave bodily injury, or assault with intent to commit
+12 any offense punishable as a felony; upon any conviction of an offense punishable as a felony
+13 offense under § 12-29-5.
+14 (7)(8) “Firearm” includes any machine gun, pistol, rifle, air rifle, air pistol, “blank gun,”
+15 “BB gun,” or other instrument from which steel or metal projectiles are propelled, or that may
+16 readily be converted to expel a projectile, except crossbows, recurve, compound, or longbows, and
+17 except instruments propelling projectiles that are designed or normally used for a primary purpose
+18 other than as a weapon. The frame or receiver of the weapon shall be construed as a firearm under
+19 the provisions of this section.
+20 (8)(9) “Fugitive from justice” means any person who has fled from any state, territory, the
+21 District of Columbia, or possession of the United States to avoid prosecution for a crime of violence
+22 or to avoid giving testimony in any criminal proceeding.
+23 (9)(10) “Ghost gun” means a firearm, including a frame or receiver, that lacks a unique
+24 serial number engraved or cased in metal alloy on the frame or receiver by a licensed manufacturer,
+25 maker, or importer under federal law or markings in accordance with 27 C.F.R. § 479.102. It does
+26 not include a firearm that has been rendered permanently inoperable, or a firearm that is not
+27 required to have a serial number in accordance with the federal Gun Control Act of 1968.
+28 (10)(11) “Licensing authorities” means the board of police commissioners of a city or town
+29 where the board has been instituted, the chief of police or superintendent of police of other cities
+30 and towns having a regular organized police force, and, in towns where there is no chief of police
+31 or superintendent of police, it means the town clerk who may issue licenses upon the
+32 recommendation of the town sergeant, and it also means any other person or body duly authorized
+33 by the city or town charter or by state law.
+34 (11)(12) “Machine gun” means any weapon that shoots, is designed to shoot, or can be
+LC005748 - Page 2 of 6
+
+1 readily restored to shoot automatically more than one shot, without manual reloading, by a single
+2 function of the trigger. The term also includes the frame or receiver of the weapon, any combination
+3 of parts designed and intended for use in converting a weapon into a machine gun, and any
+4 combination of parts from which a machine gun can be assembled if the parts are in the possession
+5 or under the control of a person.
+6 (12)(13) “Major component” means, with respect to a firearm:
+7 (i) The slide or cylinder or the frame or receiver of the firearm; and
+8 (ii) In the case of a rifle or shotgun, includes the barrel of the firearm.
+9 (13)(14) “Person” includes an individual, partnership, firm, association, or corporation.
+10 (14)(15) “Pistol” includes any pistol or revolver, and any shotgun, rifle, or similar weapon
+11 with overall length less than twenty-six inches (26″), but does not include any pistol or revolver
+12 designed for the use of blank cartridges only.
+13 (15)(16) “Rifle” shall have the same meaning as in 26 U.S.C. § 5845(c), and by barrel
+14 length and overall length not be subject to registration pursuant to the National Firearms Act, 26
+15 U.S.C. ch. 53 (prior § 5801 et seq.).
+16 (16)(17) “Sawed-off rifle” means any rifle with overall length of less than twenty-six
+17 inches (26″) or barrel length of less than sixteen inches (16″).
+18 (17)(18) “Sawed-off shotgun” means any shotgun with overall length of less than twenty-
+19 six inches (26″) or barrel length of less than eighteen inches (18″).
+20 (18)(19) “Sell” includes let or hire, give, lend, and transfer, and “purchase” includes hire,
+21 accept, and borrow, and “purchasing” shall be construed accordingly.
+22 (19)(20) “Shotgun” shall have the same meaning as in 26 U.S.C. § 5845(d), and by barrel
+23 length and overall length not be subject to registration pursuant to the National Firearms Act, 26
+24 U.S.C. ch. 53 (prior § 5801 et seq.).
+25 (21) “Stun gun” means a battery powered handheld device that transmits an electric charge
+26 from the device to a person, while touching or applying the device to a person, and is activated by
+27 a trigger button.
+28 (20)(22) “Trigger crank” means a trigger actuator that attaches to the trigger of a semi-
+29 automatic weapon and causes the weapon to fire by turning the crank handle.
+30 (21)(23) “Undetectable firearm” means any firearm that:
+31 (i) After removal of all parts, other than a major component, is not as detectable by walk-
+32 through metal detectors commonly used at airports or other public buildings; or
+33 (ii) Any major component of which, if subjected to inspection by the types of detection
+34 devices commonly used at airports or other public buildings for security screening, would not
+LC005748 - Page 3 of 6
+
+1 generate an image that accurately depicts the shape of the component; or
+2 (iii) Is manufactured wholly of plastic, fiberglass, or through a 3D printing process; or
+3 (iv) Upon which the frame or receiver lacks a unique serial number engraved or cased into
+4 on the frame or receiver by a licensed manufacturer, maker, or importer under federal law, or
+5 markings in accordance with 27 C.F.R. § 479.102. Provided, however, this subsection shall not
+6 apply to any firearm rendered permanently inoperable or a firearm manufactured prior to 1968.
+7 SECTION 2. Section 11-47-42 of the General Laws in Chapter 11-47 entitled "Weapons"
+8 is hereby amended to read as follows:
+9 11-47-42. Weapons other than firearms prohibited.
+10 (a)(1) No person shall carry or possess or attempt to use against another any instrument or
+11 weapon of the kind commonly known as a blackjack, slingshot, billy, sandclub, sandbag, metal
+12 knuckles, slap glove, bludgeon, stun-gun, or the so called “Kung-Fu” weapons.
+13 (2) No person shall with intent to use unlawfully against another, carry or possess a
+14 crossbow, dagger, dirk, stiletto, sword-in-cane, bowie knife, or other similar weapon designed to
+15 cut and stab another.
+16 (3) No person shall wear or carry concealed upon his person, any of the above-mentioned
+17 instruments or weapons, or any razor, or knife of any description having a blade of more than three
+18 (3) inches in length measuring from the end of the handle where the blade is attached to the end of
+19 the blade, or other weapon of like kind or description.
+20 Any person violating the provisions of these subsections shall be punished by a fine of not
+21 more than one thousand dollars ($1,000) or by imprisonment for not more than one year, or both,
+22 and the weapon so found shall be confiscated.
+23 Any person violating the provisions of these subsections while he or she is incarcerated
+24 within the confines of the adult correctional institutions shall be punished by a fine of not less than
+25 one thousand dollars ($1,000) nor more than three thousand dollars ($3,000), or by imprisonment
+26 for not less than one year nor more than five (5) years, or both, and the weapon so found shall be
+27 confiscated.
+28 (b) No person shall sell to a person under eighteen (18) years of age, without the written
+29 authorization of the minor’s parent or legal guardian, any stink bomb, blackjack, slingshot, bill,
+30 sandclub, sandbag, metal knuckles, slap glove, bludgeon, stungun, paint ball gun, so called “kung-
+31 fu” weapons, dagger, dirk, stiletto, sword-in-cane, bowie knife, razor, or knife of any description
+32 having a blade of more than three inches (3″) in length as described in subsection (a) of this section,
+33 or any multi-pronged star with sharpened edges designed to be used as a weapon and commonly
+34 known as a Chinese throwing star, except that an individual who is actually engaged in the
+LC005748 - Page 4 of 6
+
+1 instruction of martial arts and licensed under § 5-43-1 [repealed] may carry and possess any multi-
+2 pronged star with sharpened edges for the sole purpose of instructional use. Any person violating
+3 the provisions of this subsection shall be punished by a fine of not less than one thousand dollars
+4 ($1,000) nor more than three thousand dollars ($3,000), or by imprisonment for not less than one
+5 year nor more than five (5) years, or both, and the weapons so found shall be confiscated.
+6 SECTION 3. Chapter 11-47 of the General Laws entitled "Weapons" is hereby amended
+7 by adding thereto the following section:
+8 11-47-8.2. Purchase, possession, sale or use of stun gun or electronic dart gun.
+9 (a) Except as otherwise prohibited by law or the provisions of §11-47-5, a person eighteen
+10 (18) years of age or over may purchase a stun gun or electronic dart gun.
+11 (b) No person shall sell or attempt to sell, transfer, deliver or furnish a stun gun or electronic
+12 dart gun to a person who is less than eighteen (18) years of age. Any person convicted of violating
+13 the provisions of this subsection shall be guilty of a felony and may be punished by imprisonment
+14 for not more than five (5) years.
+15 (c) No person shall use or attempt to use a stun gun or electronic dart gun in the commission
+16 of a crime. Any person convicted of violating the provisions of this subsection shall be guilty of a
+17 felony and may be punished by a fine of up to ten thousand dollars ($10,000), or by imprisonment
+18 for not more than ten (10) years, or both.
+19 (d) No person shall use or attempt to use a stun gun or electronic dart gun on a police officer
+20 who is engaged in the performance of their duty. Any person convicted of violating the provisions
+21 of this subsection shall be guilty of a felony and may be punished by a fine of up to ten thousand
+22 dollars ($10,000), or by imprisonment for not more than ten (10) years, or both. Any sentence
+23 imposed upon a person pursuant to this subsection shall be imposed consecutively to and not
+24 concurrently with any sentence imposed for the underlying crime or attempted crime, and the
+25 person shall not be afforded the benefit of suspension or deferment of sentence.
+26 (e) No person shall purchase, own, carry, transport, or have in their possession any stun
+27 gun or electronic dart gun if that person is prohibited from possessing a firearm pursuant to §11-
+28 47-5, or has, in this state or elsewhere, entered a plea of nolo contendere to or been convicted of a
+29 felony.
+30 SECTION 4. This act shall take effect upon passage.
+========
+LC005748
+========
+LC005748 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- WEAPONS
+***
+1 This act would provide that a person over the age of eighteen (18) years can purchase and
+2 possess a stun gun or electronic dart gun and also prohibits the sale of a stun gun or electronic dart
+3 gun to any person under the age of eighteen (18) years. It would also criminalize the use of a stun
+4 gun or electronic dart gun in any criminal offense or the use of a stun gun or electronic dart gun
+5 against any police officer engaged in the execution of their duty.
+6 This act would take effect upon passage.
+========
+LC005748
+========
+LC005748 - Page 6 of 6

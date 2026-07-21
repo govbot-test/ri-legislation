@@ -1,0 +1,155 @@
+Title: 
+Official Title: 
+Source: versions - 8169
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8169
+========
+LC005575
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- RESIDENTIAL AND COMMERCIAL
+PROPERTY ACQUISITION PROGRAM ACT
+Introduced By: Representatives Cortvriend, Spears, McGaw, Speakman, and Boylan
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 46 of the General Laws entitled "WATERS AND NAVIGATION" is
+2 hereby amended by adding thereto the following chapter:
+3 CHAPTER 34
+4 RESIDENTIAL AND COMMERCIAL PROPERTY ACQUISITION PROGRAM ACT
+5 46-34-1. Short title.
+6 This chapter shall be known and may be cited as the "Residential and Commercial Property
+7 Acquisition Program Act."
+8 46-34-2. Purpose.
+9 The purpose of this chapter is to implement a voluntary residential or commercial property
+10 acquisition program in high-hazard zones, paired with funding for relocation costs to safer areas
+11 within or proximate to the current community. This chapter seeks to restore the acquired land to its
+12 natural habitat and use it to enhance community resilience and enhance shoreline or riverine access
+13 and outdoor recreation.
+14 46-34-3. Definitions.
+15 As used in this chapter:
+16 (1) “Community vulnerability assessment” means a systematic evaluation that identifies
+17 and analyzes the exposure, sensitivity, and adaptive capacity of people, built and natural assets, and
+18 essential services within a defined community to current and projected climate related and natural
+
+1 hazards including, but not limited to, sea level rise, coastal and riverine flooding, storm surge,
+2 extreme precipitation, erosion, heat, and related secondary impacts. The assessment shall:
+3 (i) Use the best available, scientifically-backed, and up-to-date climate, hazard, and
+4 socioeconomic data and methods;
+5 (ii) Identify populations, facilities, infrastructure, and natural resources whose impairment
+6 would significantly affect public health, safety, welfare, economic activity, cultural resources, or
+7 environmental quality;
+8 (iii) Consider social vulnerability, including the disproportionate impacts on overburdened,
+9 low income, and historically marginalized communities; and
+10 (iv) Inform the future development, prioritization, and financing of adaptation and
+11 mitigation actions, capital investments, land use and zoning changes, and emergency preparedness
+12 measures to enhance coastal resilience and reduce future risk.
+13 (2) “Council” means the coastal resource management council.
+14 (3) “Department” means the department of environmental management.
+15 46-34-4. Amount of funding.
+16 The general assembly shall appropriate the sum of five hundred thousand dollars
+17 ($500,000) within its 2026-2027 fiscal year budget for technical assistance to municipalities within
+18 the Resilient Rhody Infrastructure Fund for the purpose of assisting municipalities in planning for
+19 managed retreat.
+20 46-34-5. Eligibility and planning process.
+21 (a) All municipalities are eligible for a first round of funding for technical assistance to
+22 undergo the planning process described in subsection (b) of the section.
+23 (b) No more than eight (8) months after the effective date of this chapter, the Rhode Island
+24 infrastructure bank, the department and council, shall create a managed retreat planning process for
+25 municipalities. The planning process shall align with and build on prior municipal resilience
+26 planning and community vulnerability assessments, where available. The Rhode Island
+27 infrastructure bank, department and council shall build upon the existing municipal resilience
+28 program and community resilience building reports, as well as inter-governmental collaboration
+29 and assistance provided by the department’s regional resilience coordinators, to structure and
+30 deliver this planning process. The process shall include, but not be limited to:
+31 (1) Creation by the municipality of a community vulnerability assessment if one does not
+32 already exist.
+33 (2) Creation by the municipality through a public process, a prioritized list of parcels and/or
+34 residential neighborhoods and/or mixed-use areas and a timeframe for voluntary buyouts. Instead
+LC005575 - Page 2 of 5
+
+1 of a timeframe, a municipality may condition a voluntary buyout on a storm event of a certain
+2 magnitude.
+3 (3) Calculation of cost estimates for the voluntary buyouts of the parcels, relocation
+4 assistance and incentives to relocate within the boundaries of the municipality or adjacent
+5 municipalities, debris cleanup, restoring each parcel to its natural habitat, and any maintenance
+6 thereafter.
+7 (4) Designate a staff member or regional coordinator under the department to work with
+8 homeowners and landowners to pre-file paperwork required for federal emergency management
+9 agency funding, state funding, and municipal funding, if applicable.
+10 (5) Take ownership of the parcel after a voluntary buyout and may form public-private
+11 partnerships to utilize the land, in ways benefitting outdoor recreation and uses that are open to the
+12 public; provided that, a state easement is procured for the parcel; and further, provided that,
+13 utilization of the land shall align with council special area management plans, if applicable, and
+14 provide public parking spaces where appropriate.
+15 (6) Prohibit the construction of permanent structures on the parcel after purchase.
+16 (c) Municipalities who complete the planning process described in subsection (b) of this
+17 section, shall become eligible for revolving loan funds, grant funds, and catastrophe bond funds
+18 established pursuant § 46-12.2-4.4, and the treasurer’s office.
+19 (d) After the first municipality completes the planning process described in subsection (b)
+20 of this section, and annually thereafter, the treasurer shall be authorized to issue, rescind, or re-
+21 issue catastrophe bonds in an amount appropriate to cover the cost-estimates provided by the
+22 municipalities for voluntary buyouts after a storm event.
+23 46-34-6. Prioritization.
+24 (a) No more than eight (8) months after the effective date of this chapter, the Rhode Island
+25 infrastructure bank, the department and council, shall create a funding prioritization process after a
+26 public hearing and stakeholder engagement process:
+27 (b) One factor in funding prioritization shall be a municipality’s planning and/or
+28 implementation of ongoing revenue streams dedicated to the Resilient Rhody Infrastructure Fund,
+29 including, but not limited to, commercial tax increment districts, stormwater districts, sewer
+30 districts, transfer of development rights funds, and developer impact fees.
+31 (c) No more than sixteen (16) months after the effective date of this chapter, and dependent
+32 on funding availability, the Rhode Island infrastructure bank, the department and council, shall
+33 award funding to eligible municipalities, and thereafter, on an annual basis, according to the
+34 established prioritization process.
+LC005575 - Page 3 of 5
+
+1 (d) In the event of a storm that triggers the catastrophe bond, the treasurer’s office, Rhode
+2 Island infrastructure bank, the department and council, shall award funding to eligible
+3 municipalities within one month of receiving the funds from the catastrophe bonds, according to
+4 the established prioritization process.
+5 46-34-7. Other authorizations to secure additional funding.
+6 The Rhode Island infrastructure bank, the department and council are authorized to apply
+7 for federal funding sources and use available funds in the Resilient Rhody Infrastructure Fund as
+8 matching funds for federal funding programs in order to fund voluntary buyouts.
+9 46-34-8. Insurance.
+10 The department of business regulation is authorized to negotiate insurance premium
+11 discounts for parcels whose owners opt into a voluntary buyout. The department of business
+12 regulation is also authorized to form an agreement with homeowners and landowners to collect a
+13 percentage or whole amount of these insurance premium discounts and put this amount into the
+14 Resilient Rhody Infrastructure Fund.
+15 46-34-9. Criteria of awards.
+16 The department of housing shall revise their criteria when awarding housing development
+17 funds to prioritize municipalities that undergo the planning process described in § 46-34-5(b) and
+18 have revised their zoning and development policies to accommodate new housing for residents who
+19 have opted into a voluntary buyout.
+20 SECTION 2. This act shall take effect upon passage.
+========
+LC005575
+========
+LC005575 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- RESIDENTIAL AND COMMERCIAL
+PROPERTY ACQUISITION PROGRAM ACT
+***
+1 This act would establish the Residential and Commercial Property Acquisition Program
+2 Act to implement residential or commercial property acquisitions, in high-hazard zones, paired with
+3 funding for relocation costs within or proximate to the current community and restore the acquired
+4 land to its natural habitat and use it to enhance shoreline or riverine access and outdoor recreation.
+5 This act would take effect upon passage.
+========
+LC005575
+========
+LC005575 - Page 5 of 5

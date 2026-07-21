@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - 2781
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2781
+========
+LC005398
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+THIRD-PARTY DELIVERY SYSTEMS
+Introduced By: Senators Dimitri, LaMountain, Thompson, Burke, Appollonio, and
+Quezada
+Date Introduced: March 04, 2026
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 6-58-1, 6-58-3 and 6-58-5 of the General Laws in Chapter 6-58
+2 entitled "Third-Party Delivery Systems" are hereby amended to read as follows:
+3 6-58-1. Definitions.
+4 As used in this title, unless the context otherwise requires:
+5 (1) "Advertising platform" means any digital, online, mobile, mapping, search, operating-
+6 system level, or voice-activated platform that displays merchant information, search results,
+7 sponsored listings, or provides order interfaces.
+8 (1)(2) “Agreement” means a written contractual agreement between the merchant and the
+9 third-party delivery service.
+10 (2)(3) “Customer” means the person, business, or other entity that places an order for
+11 merchant products through the marketplace.
+12 (3)(4) “Likeness” means identifiable symbols attributed and easily identified as belonging
+13 to a specific merchant or retailer.
+14 (4)(5) “Marketplace” means the third party’s proprietary online communication platform
+15 where customers can view and search the menus of merchants and place an order for merchant
+16 products via the third party’s website or mobile application for delivery or by the third-party
+17 delivery service, or an independent contractor of the third-party delivery service, to the customer.
+18 (5)(6) “Merchant” means a food service establishment as set forth in § 21-27-1 or other
+
+1 retail entity.
+2 (7) "Order interface" means any button, hyperlink, embedded feature, or interactive
+3 element that allows or invites a consumer to initiate, place or complete an order from a merchant
+4 on an advertising platform.
+5 (6)(8) “Third-party delivery service” means a company, organization, or entity, outside of
+6 the operation of the merchant’s business that facilitates delivery or online ordering services to
+7 customers.
+8 (9) "Unauthorized placement" means any appearance, promotion, advertisement, or order
+9 interface on an advertising platform by a third-party delivery service of a merchant without an
+10 agreement.
+11 6-58-3. Merchant consent.
+12 (a) A third-party delivery service may not take orders and arrange for the delivery of
+13 merchant products through the third-party delivery service’s marketplace without obtaining the
+14 written consent of the merchant.
+15 (b) No third-party delivery service shall purchase, bid on, display, allow or cause to be
+16 displayed any advertisement, sponsored result, or promoted listing, or other unauthorized
+17 placement including, but not limited to, using a merchant's name, trademark, service mark, logo,
+18 trade name, or likeness on any advertising platform unless expressly authorized by agreement with
+19 a merchant.
+20 6-58-5. Enforcement — Penalties.
+21 (a) Any merchant who is subject to an unauthorized placement or other violation of § 6-
+22 58-3, whose likeness was used by the third-party delivery service, or who appears on a third-party
+23 delivery service’s marketplace, in violation of this chapter, may bring an action in the superior court
+24 of the county in which the merchant or third-party delivery service is found, or in the superior court
+25 of the county as is otherwise provided by law, to recover actual damages or five thousand dollars
+26 ($5,000), whichever is greater. The court may, in its discretion, and where the conduct involves
+27 reckless or callous indifference to statutorily protected rights, award punitive damages and other
+28 equitable relief it deems appropriate.
+29 (b) Any third-party delivery service who or that violates this chapter shall pay to the state
+30 a civil penalty of not more than one thousand dollars ($1,000) per violation. Each day a violation
+31 occurs shall count as a separate violation.
+32 SECTION 2. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+33 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+34 CHAPTER 58.1
+LC005398 - Page 2 of 5
+
+1 RESTAURANT RESERVATION ANTI-PIRACY ACT
+2 6-58.1-1. Short title.
+3 This chapter shall be known and may be cited as the "Restaurant Reservation Anti-Piracy
+4 Act."
+5 6-58.1-2. Definitions.
+6 (a) As used in this chapter, the following words shall have the following meanings:
+7 (1) "Food service establishment" means any fixed or mobile restaurant, coffee shop,
+8 cafeteria, short-order café, luncheonette, grill, tearoom, sandwich shop, soda fountain, tavern, bar,
+9 cocktail lounge, night club, roadside stand, industrial feeding establishment, cultural heritage
+10 education facility, private, public or nonprofit organization or institution routinely serving food,
+11 catering kitchen, commissary or similar place in which food or drink is prepared for sale or for
+12 service on the premises or elsewhere, and any other eating or drinking establishment or operation
+13 where food is served or provided for the public with or without charge.
+14 (2) "Third-party restaurant reservation service" means a website, mobile application, or
+15 other Internet service that:
+16 (i) Offers or arranges for a reservation at a food service establishment for on-premises
+17 service;
+18 (ii) Is owned and operated by a person other than the person who owns the food service
+19 establishment, or is contractual;
+20 (iii) Does not have a contractual relationship or agreement with the public food service
+21 establishment, or its contractual designee, to offer or arrange for a reservation at the food service
+22 establishment for on-premises service. A third-party restaurant reservation service does not include
+23 a contractual designee of an individual customer which arrange for a personal and nontransferable
+24 reservation at a food service establishment at the request of the customer and at no cost to the
+25 customer; provided that, the designee shares the individual customer's contact information with the
+26 food service establishment, allows the food service establishment to confirm the reservation with
+27 the individual customer, and honors requests from the food service establishment to opt out of
+28 future reservations created by the designee.
+29 6-58.1-3. Prohibition of third-party restaurant reservation services.
+30 A third-party restaurant reservation service shall not list, advertise, promote, facilitate, sell,
+31 or otherwise enable a reservation at a food service establishment in this state.
+32 6-58.1-4. Enforcement -- Penalties.
+33 Any person who violates, or causes another person to violate, a provision of this chapter or
+34 any rules or regulations promulgated by the department of business regulation hereunder shall be
+LC005398 - Page 3 of 5
+
+1 subject to a civil penalty of up to one thousand dollars ($1,000) for each violation. Each day that a
+2 third-party restaurant reservation service violates this chapter with respect to a food service
+3 establishment constitutes a single violation of this chapter. A proceeding to recover any civil
+4 penalty or restitution under this chapter may also be brought by the attorney general. All penalties
+5 received for violations shall be deposited as general revenue.
+6 SECTION 3. This act shall take effect on January 1, 2027.
+========
+LC005398
+========
+LC005398 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+THIRD-PARTY DELIVERY SYSTEMS
+***
+1 This act would prohibit unauthorized placement of merchants on advertising platform order
+2 interfaces, and would prohibit third-party restaurant reservation services.
+3 This act would take effect on January 1, 2027
+========
+LC005398
+========
+LC005398 - Page 5 of 5

@@ -1,0 +1,213 @@
+Title: 
+Official Title: 
+Source: versions - 2713
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2713
+========
+LC005510
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- PROPERTY EQUITY PROTECTION ACT
+Introduced By: Senators de la Cruz, and Rogers
+Date Introduced: February 27, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 9.1
+4 PROPERTY EQUITY PROTECTION ACT
+5 44-9.1-1. Short title.
+6 This chapter shall be known and may be cited as the “Property Equity Protection Act."
+7 44-9.1-2. Purpose.
+8 The purpose of this chapter is to protect property owners from losing their equity when
+9 their property is seized to pay a debt to the government by allowing ample time to payoff the debt
+10 and adequate notice of due process.
+11 44-9.1-3. Redemption.
+12 (a) Any person may redeem a tax debt on behalf of the property owner of record within
+13 five (5) years after the tax debt becomes delinquent or after five (5) years but before the delivery
+14 of a treasurer’s deed to the purchaser or the purchaser’s heirs or assigns for property qualifying
+15 pursuant to the provisions of subsection (b) of this section.
+16 (b) No tax lien or deed may be foreclosed unless the amount of the outstanding tax debt
+17 against the parcel, plus reasonable penalties, interest, and appropriate fees, exceeds five percent
+18 (5%) of the fair market value of the parcel as shown by the tax assessor’s then-current valuation of
+19 the parcel, or fifty thousand dollars ($50,000), whichever is lower. If the amount of the amount of
+
+1 the outstanding tax debt against the parcel, plus reasonable penalties, interest, and appropriate fees,
+2 exceeds fifty thousand dollars ($50,000), then the tax lien or deed may be foreclosed pursuant to
+3 the provisions of chapter 9 of title 44.
+4 44-9.1-4. Competitive auctions.
+5 (a) After the expiration of the statutory redemption period, the holder of a tax lien may file
+6 a foreclosure action in state court forcing the sale of the property pursuant to chapter 9 of title 44.
+7 Statutory provisions governing tax sales are in addition to any other statutory provisions.
+8 (b) The sale shall include an online bidding process in which bids are received
+9 electronically over the internet in a real-time, competitive-bidding event.
+10 (c) The sale shall be advertised in a multiple listing service for at least thirty (30) days prior
+11 to the auction.
+12 (d) When a taxing jurisdiction sells the right to collect a tax debt, the winning bidder shall
+13 be the person who pays the whole amount of delinquent taxes, interest, penalties, and charges due
+14 on the property, and who in addition offers to accept the lowest rate of interest on the amount so
+15 paid to redeem the property.
+16 (e) When a taxing jurisdiction sells a property to satisfy a tax debt, the property shall be
+17 sold to the highest bidder.
+18 (f) A private party may be contracted to operate and advertise the auction and to advertise
+19 the property. The contract may provide that if the property sells for more than the amount of the
+20 taxes, penalties, interest, and costs charged against the property, the private party operating and
+21 advertising the auction and advertising the property may receive up to three percent (3%) of the
+22 amount of the sale price of a property that is more than the amount of the taxes, penalties, interest,
+23 and costs charged against the property.
+24 44-9.1-5. Notice requirements.
+25 (a) The tax collector shall certify that the following notices have been made at least sixty
+26 (60) days, but not more than one hundred twenty (120) days, prior to a tax sale.
+27 (b) The following persons shall be notified by certified mail with return receipt requested,
+28 or by registered mail if the notice is to be sent outside the continental United States, at least sixty
+29 (60) days prior to a tax sale, again at least thirty (30) days prior to sale, and again thirty (30) days
+30 before issuance of a treasurer’s deed following the sale:
+31 (1) Any property owner of record according to the records of the recorder in the
+32 municipality in which the property is located. If notice to any property owner is returned
+33 undeliverable, a diligent search must be undertaken to locate and provide notice to property owners
+34 of record.
+LC005510 - Page 2 of 7
+
+1 (2) Any lienholder of record who has recorded a lien against the property if an address
+2 appears on the recorded lien.
+3 (3) Any mortgagee of record if an address appears on the recorded mortgage.
+4 (4) Any vendee of a recorded contract for deed if an address appears on the recorded
+5 contract.
+6 (5) Any other lienholder who has applied to the tax collector to receive notice if an address
+7 is supplied to the collector.
+8 (6) Any person to whom the property was assessed on the tax roll for the year in which the
+9 property was last assessed.
+10 (7) Any lienholder of record who has recorded a lien against a mobile home located on the
+11 property if an address appears on the recorded lien.
+12 (8) Any legal titleholder of record of property that is contiguous to the property described
+13 in the tax certificate, if the property described is submerged land or common elements of a
+14 subdivision and if the address of the titleholder of contiguous property appears on the record of
+15 conveyance of the property to the legal titleholder. As used in this chapter, the term “contiguous”
+16 means touching, meeting, or joining at the surface or border, other than at a corner or a single point,
+17 and not separated by submerged lands. Submerged lands lying below the ordinary high-water mark
+18 which are sovereignty lands are not part of the upland contiguous property for purposes of
+19 notification.
+20 (9) Any person who has requested to receive notices of delinquent taxes.
+21 (c) For purposes of determining who shall be noticed, the tax collector shall contract with
+22 a title company or an abstract company to provide a property information report. The tax collector
+23 may select any title or abstract company, regardless of its location, as long as the fee is reasonable,
+24 the required information is submitted, and the title or abstract company is authorized to do business
+25 in this state. The tax collector may advertise and accept bids for the title or abstract company if the
+26 tax collector considers it appropriate to do so.
+27 (d) The tax collector shall enclose with every notice required by this section, and with each
+28 delinquent tax notice, a statement as follows, in the five (5) most common languages in the state:
+29 "WARNING: There are unpaid taxes on property at (address) which you may own, may
+30 have a legal interest in, or may be contiguous to your property. The property will be (or was) sold
+31 at public auction on (date) unless the back taxes are paid. To make payment, or to receive further
+32 information, contact (tax collector) immediately at (address), (telephone number). You may be
+33 eligible for free legal assistance if you reach out to (name of free legal services organization) at
+34 (address), (telephone number), for legal advice about how to respond to this notice."
+LC005510 - Page 3 of 7
+
+1 (e) The tax collector shall cause a printed copy of the notices to be published in a newspaper
+2 of general circulation in the county where the property is located, including the warning statement.
+3 (f) The tax collector shall cause a copy of the notices to be posted in a conspicuous place
+4 on the property by a constable certified pursuant to the provision of § 9-5-10.1, including the
+5 warning statement.
+6 (g) The tax collector shall post a copy of the notices in a conspicuous location on its website
+7 and at its physical offices.
+8 (h) The tax collector shall cause a copy of the notice to be recorded, including the warning
+9 statement. A person acquiring an interest in the property after the notice has been recorded is
+10 deemed to be on notice of the pending sale, and no additional notice is required. The sale of the
+11 property automatically releases any recorded notice of tax sale for that property. If the property is
+12 redeemed, the tax collector shall record a release of the notice upon payment of the recording fee.
+13 (i) Fees and costs incurred by the tax collector related to the notifications required in this
+14 section shall be paid from the proceeds of the tax sale or added to the opening bid for a tax lien.
+15 44-9.1-6. Surplus proceeds.
+16 (a) When any property is sold at a tax sale, proceeds shall be distributed in the following
+17 order of priority:
+18 (1) For payment of delinquent taxes and satisfaction of existing tax liens, plus reasonable
+19 penalties, interest, and fees;
+20 (2) To governmental units holding a lien of record against the payment, including any tax
+21 debts not giving rise to the tax sale;
+22 (3) Any surplus belongs to the owner of the property prior to the tax sale and shall be
+23 promptly returned to the owner, or the owner’s heirs or assigns. The tax collector shall notify the
+24 owner of the surplus. The owner of the surplus may claim it by contacting the tax collector and
+25 providing proof of ownership of the parcel.
+26 (4) If the owner or the owner’s heirs or assigns fail to claim the surplus or there are multiple
+27 claims for the surplus, within one hundred twenty (120) days after the sale, the tax collector shall
+28 file an interpleader action in superior court or pay the surplus funds according to the tax collector’s
+29 determination of the priority of claims. Fees and costs incurred by the tax collector related to the
+30 disbursement of the surplus, including fees and costs related to an interpleader action, shall be paid
+31 from the surplus funds. If the tax collector files an interpleader action, the court shall determine the
+32 distribution of funds based upon the priority of liens filed. The court shall award reasonable fees
+33 and costs from the interpleaded funds. An action to require payment of surplus funds is not ripe
+34 until the claim and review periods expire.
+LC005510 - Page 4 of 7
+
+1 (5) The failure of any person, other than the owner or the owner’s heirs or assigns, to file
+2 a claim for surplus funds within the one hundred twenty (120) days after the sale or the filing of an
+3 interpleader action, whichever is later, constitutes a waiver of interest in the surplus funds, and all
+4 claims thereto are forever barred.
+5 (6) Any surplus that remains unclaimed after one hundred twenty (120) days shall be
+6 administered by the state as pursuant to the provisions of chapter 9 of title 44.
+7 44-9.1-7. Limits on interest rates and penalties.
+8 (a) Except as otherwise expressly provided by law, taxes owed the state or any local taxing
+9 jurisdiction shall bear interest at an annual rate equal to the bank prime loan rate as posted by the
+10 board of governors of the federal reserve system in statistical release H. 15 or any publication that
+11 may supersede it, plus three percent (3%), to accrue monthly. Such annual interest rate shall be
+12 determined for each calendar year based on the first weekly posting of statistical release H. 15 on
+13 or after January 1 of each calendar year. Interest shall begin to accrue from the date the tax is past
+14 due until the date the tax is paid.
+15 (b) No other penalty shall apply to tax debts, except the reasonable costs of collection may
+16 be added to any tax debt.
+17 SECTION 2. Section 44-9-25 of the General Laws in Chapter 44-9 entitled "Tax Sales" is
+18 hereby amended to read as follows:
+19 44-9-25. Petition for foreclosure of redemption.
+20 (a) After one year from a sale of land for taxes, except as provided in §§ 44-9-19 — 44-9-
+21 22, whoever then holds the acquired title may bring a petition in the superior court for the
+22 foreclosure of all rights of redemption under the title. The petition shall set forth a description of
+23 the land to which it applies, with its assessed valuation, the petitioner’s source of title, giving a
+24 reference to the place, book, and page of record, and other facts as may be necessary for the
+25 information of the court. Two (2) or more parcels of land may be included in any petition brought
+26 by any purchaser of a title or titles, if the parcels are in the same record ownership at the time of
+27 bringing the petition (Form 5).
+28 (b) No more than one foreclosure petition may be filed for each tax deed regardless of the
+29 number of tax title holders having an interest under such deed. If more than one petition is filed,
+30 the petitions shall be consolidated for hearing by the court. The court shall not award more than
+31 one attorneys’ fee to the petitioners.
+32 (c) Notwithstanding the provisions of subsection (a) of this section, no petition for
+33 foreclosure of redemption shall be filed or entertained by any court with respect to any property or
+34 title acquired by the Rhode Island Housing and Mortgage Corporation pursuant to § 44-9-8.3 of the
+LC005510 - Page 5 of 7
+
+1 general laws until after five (5) years from the sale of said property or title for taxes.
+2 (d) Notwithstanding the provisions of subsection (a) of this section, no petition for
+3 foreclosure of redemption shall be filed or entertained by any court with respect to any property
+4 unless the amount of the outstanding tax debt against the parcel, plus reasonable penalties, interest,
+5 and appropriate fees, exceeds five percent (5%) of the fair market value of the parcel as shown by
+6 the tax assessor’s then-current valuation of the parcel, or fifty thousand dollars ($50,000),
+7 whichever is lower, pursuant to § 44-9.1-3.
+8 SECTION 3. This act shall take effect upon passage.
+========
+LC005510
+========
+LC005510 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- PROPERTY EQUITY PROTECTION ACT
+***
+1 This act would establish the property equity protection act to protect property owners from
+2 losing their equity when their property is seized to pay a debt to the government by allowing ample
+3 time to payoff the debt and adequate notice of due process.
+4 This act would take effect upon passage.
+========
+LC005510
+========
+LC005510 - Page 7 of 7

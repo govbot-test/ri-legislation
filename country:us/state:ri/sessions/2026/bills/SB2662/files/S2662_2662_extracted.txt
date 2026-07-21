@@ -1,0 +1,233 @@
+Title: 
+Official Title: 
+Source: versions - 2662
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2662
+========
+LC005859
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO EDUCATION -- STUDENT LOAN REPAYMENT PROGRAM
+Introduced By: Senators DiMario, Lauria, Gallo, Valverde, Mack, Murray, and Kallman
+Date Introduced: February 27, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 16 of the General Laws entitled "EDUCATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 117
+4 STUDENT LOAN REPAYMENT PROGRAM
+5 16-117-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Student Loan
+7 Repayment Program."
+8 16-117-2. Creation.
+9 (a) There is hereby established a restricted receipt account to be administered by the Rhode
+10 Island student loan authority (RISLA) for the benefit of employers and employees entitled the
+11 Rhode Island student loan repayment fund (“the fund”). The fund shall be used to provide eligible
+12 individuals, defined in § 16-117-4, with payment from the state to the individual’s employer to pay
+13 a portion of their student loan debt.
+14 (b) RISLA shall administer the fund.
+15 (c) RISLA shall promulgate rules and regulations necessary to implement this chapter,
+16 which shall include, but not be limited to, providing an easy-to-follow guide in a variety of
+17 languages regarding how to complete the request for student loan debt relief.
+18 (d) Operation of the program shall be subject to the availability of funds. The program may
+19 be funded through appropriations by the general assembly and through any other funds made
+
+1 available for this purpose including, but not limited to, federal funds, state funds, settlement funds,
+2 grants, gifts, donations, or any other public or private sources. RISLA is authorized to receive,
+3 accept, and expend such funds necessary to implement the program upon the availability of
+4 sufficient funding.
+5 16-117-3. Definitions.
+6 For the purposes of this chapter:
+7 (1) "Administering agency" means the department of labor and training.
+8 (2) “Debt relief recipients” means individuals receiving student debt relief under this
+9 chapter;
+10 (3) “Eligible individuals” means persons described in §§ 16-117-4 and 16-117-6;
+11 (4) “Request for student debt relief” means the process by which individuals submit the
+12 materials and documentation required by RISLA under this chapter;
+13 (5) “RISLA” means the Rhode Island student loan authority;
+14 (6) “Service requirements” means specific employment and work obligations set forth in
+15 this chapter that individuals shall meet to obtain student debt relief under this chapter; and
+16 (7) “Underserved community” means a federally designated health professional shortage
+17 area as identified by the federal Health Resources and Services Administration, an agency of the
+18 United States Department of Health and Human Services.
+19 16-117-4. Eligibility of individuals.
+20 (a) Individuals employed by a Rhode Island-based employer may be eligible for the Rhode
+21 Island student loan repayment program if they:
+22 (1) Have eligible, unpaid student loans;
+23 (2) Are employed in a high-need profession determined by the administering agency to
+24 address a workforce shortage or critical public need within the state. For purposes of this section,
+25 “high-need profession” means any occupation identified by the administering agency, as
+26 experiencing a workforce shortage or critical hiring need within the state. The administering agency
+27 may update such designations from time to time by rule or public notice;
+28 (3) Have committed to work full-time in such profession for two (2) consecutive years in
+29 this state; and
+30 (4) Have applied and are enrolled in an income driven repayment program with the federal
+31 student aid for any federal student loans.
+32 (b) Preference for student loan debt relief under this chapter may be given to individuals
+33 who work in an underserved community.
+34 16-117-5. Service requirements to receive student debt relief.
+LC005859 - Page 2 of 7
+
+1 (a) Eligible individuals who are approved for student debt relief under this chapter shall
+2 have their required monthly student loan payment paid directly to the debt relief recipient’s
+3 employer for up to two (2) consecutive years or twenty-four (24) consecutive months.
+4 (b) To receive student debt relief under this chapter, the eligible individual shall:
+5 (1) Meet the eligibility requirements set forth in §§ 16-117-4 and 16-117-6;
+6 (2) Complete and submit a request for student debt relief in a manner and form prescribed
+7 by RISLA;
+8 (3) Receive financial counseling from RISLA related to managing and repaying their
+9 student debt; and
+10 (4) Have their request for student debt relief approved by RISLA for future fund
+11 administration;
+12 (c) Except as provided below in this section, a debt relief recipient is no longer eligible to
+13 receive debt relief under this chapter when any of the following occurs:
+14 (1) The debt relief recipient no longer meets the eligibility requirements set forth in §§ 16-
+15 117-4 and 16-117-6;
+16 (2) The debt relief recipient receives twenty-four (24) consecutive months of debt relief
+17 under this chapter; and
+18 (3) The debt relief recipient no longer has an outstanding balance on their eligible student
+19 loans.
+20 (d) Notwithstanding the provisions of this chapter, debt relief recipients may request a
+21 leave of absence from their employer when the debt relief recipient or a member of their household
+22 experiences a serious illness or other natural cause, becomes pregnant, or is called to military
+23 service, which temporarily prevents the debt relief recipient from continuing to meet the
+24 requirements set forth in §§ 16-117-4 and 16-117-6.
+25 (1) If approved by the employer, leaves of absence will pause the monthly payments made
+26 on behalf of the debt relief recipient pursuant to this chapter. Payments shall resume once the leave
+27 of absence ends and the debt relief recipient returns to work in a high-need profession, as required
+28 by this chapter.
+29 (2) Except where otherwise provided, leaves of absence may not exceed more than one
+30 calendar year, or the individual may be withdrawn from consideration for student debt relief.
+31 (3) Leaves of absence due to military service of the debt relief recipient or their spouse
+32 may not exceed three (3) calendar years.
+33 (4) The debt relief recipient shall present documentation to RISLA showing that a leave of
+34 absence was granted.
+LC005859 - Page 3 of 7
+
+1 (5) The debt relief recipient shall present documentation to RISLA showing that the
+2 recipient has resumed working as a qualified individual in the state after the leave of absence has
+3 concluded.
+4 (e) A reduction in force shall not preclude a debt relief recipient from fulfilling the
+5 consecutive years of service obligation, if the following provisions are met:
+6 (1) Debt relief recipients shall provide to RISLA documentation of the reduction in force;
+7 (2) Debt relief recipients shall resume working as a qualified individual in the state no later
+8 than eighteen (18) months after the reduction in force;
+9 (3) If an eligible recipient fails to fulfill their two (2) year commitment as defined in § 16-
+10 117-4(c) all debt repayment will be paused unless a recipient requalifies no later than eighteen (18)
+11 months after the initial separation.
+12 (f) Upon the effective date of this chapter:
+13 (1) Any individual who has been employed in a high-need profession within the state for
+14 fewer than three (3) years may submit a request for student debt relief under this chapter; provided
+15 that they meet the eligibility requirements set forth in §§ 16-117-4 and 16-117-6.
+16 (2) Individuals who have been employed in a high-need profession within the state for three
+17 (3) or more years shall not be permitted to submit a request for student debt relief under this chapter.
+18 16-117-6. Eligibility of loans and lenders.
+19 (a) RISLA shall retain the right to determine the eligibility of employers and education
+20 loans to which student debt relief payments may be made under this chapter.
+21 (b) An eligible lender shall make or hold education loans to individuals for purposes of
+22 undergraduate or graduate education and shall not be any private individual.
+23 (c) An eligible lender may be, but is not limited to, a bank, savings and loan association,
+24 credit union, institution of higher education, secondary market, governmental agency, or private
+25 foundation.
+26 (d) Credit card, equity loans, and other similar personal loan products are not considered
+27 educational loans eligible for repayment under this chapter.
+28 (e) An education loan shall:
+29 (1) Be evidenced by a promissory note for loans to pay for the cost of attendance for the
+30 undergraduate or graduate education of the individual applying for repayment assistance;
+31 (2) Not have an existing obligation to provide service for loan relief through another
+32 program; and
+33 (3) If the loan was consolidated with other loans, the individual shall provide
+34 documentation of the portion of the consolidated debt that was originated to pay for the cost of
+LC005859 - Page 4 of 7
+
+1 attendance for individual's undergraduate or graduate education.
+2 16-117-7. Student loan repayment program limits.
+3 (a) The amount of student loan repayment provided monthly under this section shall be
+4 subject to the availability of funds. RISLA may establish and adjust a monthly repayment cap as
+5 necessary, based on available funding and in furtherance of the goal of addressing shortages in
+6 high-need professions.
+7 (b) The total amount of student loan repayments shall not exceed the outstanding balance.
+8 16-117-8. Administration of Rhode Island student loan repayment fund.
+9 (a) RISLA shall administer the fund to the debt relief recipient’s employer consistent with
+10 the terms and conditions of RISLA’s employer repayment program and the employer’s section 127
+11 educational assistance program.
+12 (b) Part of administering the fund shall include making provisions to minimize the impact
+13 that any student debt relief provided pursuant to this chapter has on a debt relief recipient’s taxable
+14 income.
+15 (c) As part of the rules and regulations promulgated, RISLA may design a process for
+16 obtaining informed consent from individuals to work directly with their student loan servicers to
+17 collect certain documentation required by this chapter, such as a loan’s promissory note and current
+18 balance.
+19 (d) The form of the request for student debt relief and the information required therein shall
+20 be set by RISLA.
+21 (e) RISLA shall make forms required by this chapter available to the public on its website
+22 in a variety of languages and, if requested, via hardcopy.
+23 16-117-9. Disbursement.
+24 (a) All funds distributed in accordance with this chapter shall be:
+25 (1) Paid directly to the employer on a monthly basis for proper disbursement consistent
+26 with the employer’s section 127 educational assistance program; and
+27 (2) Allocated only toward the eligible loans issued to pay for the fees, tuition, room, and
+28 board of the debt relief recipient in connection with their attendance at an institution of higher
+29 education.
+30 (b) Through the financial counseling required under this chapter, RISLA shall discuss
+31 different student loan repayment strategies with debt relief recipients, which shall include, but are
+32 not limited to:
+33 (1) How the debt relief payments made under this chapter may be allocated to various
+34 student loan servicers, if applicable;
+LC005859 - Page 5 of 7
+
+1 (2) The implications of different allocation options; and
+2 (3) The various loan repayment programs that may be available to the debt relief recipient.
+3 (c) If, in a given fiscal year, there are insufficient funds available for RISLA to make the
+4 student debt relief payments required under this chapter to the debt relief recipient’s employer,
+5 RISLA shall develop and implement an equitable and alternative priority process, which, at
+6 minimum, shall take the following into consideration:
+7 (1) The number of debt relief installments received to date by the individual’s employer
+8 pursuant to this chapter; and
+9 (2) An individual’s income-to-student debt ratio.
+10 16-117-10. Reporting.
+11 (a) In its annual report required by § 16-62-18, RISLA shall include an evaluation of the
+12 Rhode Island student loan repayment program. The evaluation shall include, but is not limited to,
+13 the following:
+14 (1) The number of individuals whose request for student debt relief under this chapter was
+15 approved;
+16 (2) The actual dollar amount paid from the fund for student debt relief under this chapter
+17 in the previous year;
+18 (3) The employers of the individuals who received student debt relief under this chapter;
+19 and
+20 (4) Whether the debt relief recipient attended an institution of higher education in Rhode
+21 Island or out of state.
+22 (b) Reporting required under this section shall take extreme care to maintain the privacy of
+23 the individuals requesting and/or receiving student debt relief under this chapter.
+24 (c) Annual reporting on the fund shall only continue as long as the fund exists.
+25 SECTION 2. This act shall take effect upon passage.
+========
+LC005859
+========
+LC005859 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- STUDENT LOAN REPAYMENT PROGRAM
+***
+1 This act would allow Rhode Island based employers to pay a portion of the employee’s
+2 student loan debt, if said employee is employed in a high-need profession to address a workforce
+3 shortage or critical public need, is committed to working full-time in such profession for two (2)
+4 consecutive years in this state, is enrolled in income driven repayment and working in underserved
+5 communities. This act would also require annual reporting to the Rhode Island student loan
+6 authority (“RISLA”).
+7 This act would take effect upon passage.
+========
+LC005859
+========
+LC005859 - Page 7 of 7

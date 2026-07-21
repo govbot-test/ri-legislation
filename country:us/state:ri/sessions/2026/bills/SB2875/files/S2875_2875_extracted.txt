@@ -1,0 +1,212 @@
+Title: 
+Official Title: 
+Source: versions - 2875
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2875
+========
+LC005562
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- ASSISTED LIVING RESIDENCE LICENSING
+ACT
+Introduced By: Senators Mack, Lauria, Valverde, and Ujifusa
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 23-17.4-2 and 23-17.4-16.3 of the General Laws in Chapter 23-17.4
+2 entitled "Assisted Living Residence Licensing Act" are hereby amended to read as follows:
+3 23-17.4-2. Definitions.
+4 As used in this chapter:
+5 (1) “Activities of daily living (ADLs)” means bathing, dressing, eating, toileting, mobility
+6 and transfer.
+7 (2) “Administrator” means any person who has responsibility for day to day administration
+8 or operation of an assisted living residence.
+9 (3) “Alzheimer’s dementia special care unit or program” means a distinct living
+10 environment within an assisted living residence that has been physically adapted to accommodate
+11 the particular needs and behaviors of those with dementia. The unit provides increased staffing,
+12 therapeutic activities designed specifically for those with dementia and trains its staff on an ongoing
+13 basis on the effective management of the physical and behavioral problems of those with dementia.
+14 The residents of the unit or program have had a standard medical diagnostic evaluation and have
+15 been determined to have a diagnosis of Alzheimer’s dementia or another dementia.
+16 (4) “Assisted living residence” means a publicly or privately operated residence that
+17 provides directly or indirectly by means of contracts or arrangements personal assistance and may
+18 include the delivery of limited health services, as defined under subsection (12), to meet the
+
+1 resident’s changing needs and preferences, lodging, and meals to six (6) or more adults who are
+2 unrelated to the licensee or administrator, excluding however, any privately operated establishment
+3 or facility licensed pursuant to chapter 17 of this title, and those facilities licensed by or under the
+4 jurisdiction of the department of behavioral healthcare, developmental disabilities and hospitals,
+5 the department of children, youth and families, or any other state agency. The department shall
+6 develop levels of licensure for assisted living residences within this definition as provided in § 23-
+7 17.4-6. Assisted living residences include sheltered care homes, and board and care residences or
+8 any other entity by any other name providing the services listed in this subdivision which meet the
+9 definition of assisted living residences.
+10 (5) “Capable of self-preservation” means the physical mobility and judgmental ability of
+11 the individual to take appropriate action in emergency situations. Residents not capable of self-
+12 preservation are limited to facilities that meet more stringent life safety code requirements as
+13 provided under § 23-17.4-6(b)(3).
+14 (6) “Director” means the director of the Rhode Island department of health.
+15 (7) “Family council” means an independent, self-determining group of family members
+16 and friends established pursuant to § 23-17.4-15.12 that:
+17 (i) Advocates for the needs and interests of the residents of an assisted living residence;
+18 and
+19 (ii) Facilitates open communication between the assisted living residence administration,
+20 the residents, and family and friends of the residents.
+21 (8) “Licensing agency” means the Rhode Island department of health.
+22 (8)(9) “Qualified licensed assisted living staff members” means a certified nursing assistant
+23 as provided under § 23-17.9-2(a)(3), a licensed practical nurse as provided under § 5-34-3(13)
+24 and/or a registered nurse as provided under § 5-34-3(14).
+25 (9)(10) “Personal assistance” means the provision of one or more of the following services,
+26 as required by the resident or as reasonably requested by the resident, on a scheduled or
+27 unscheduled basis, including:
+28 (i) Assisting the resident with personal needs including activities of daily living;
+29 (ii) Assisting the resident with self-administration of medication or administration of
+30 medications by appropriately licensed staff;
+31 (iii) Providing or assisting the resident in arranging for health and supportive services as
+32 may be reasonably required;
+33 (iv) Monitoring the activities of the resident while on the premises of the residence to
+34 ensure his or her health, safety, and well-being; and
+LC005562 - Page 2 of 7
+
+1 (v) Reasonable recreational, social and personal services.
+2 (10)(11) “Resident” means an individual not requiring medical or nursing care as provided
+3 in a healthcare facility but who as a result of choice and/or physical or mental limitation requires
+4 personal assistance, lodging and meals and may require the administration of medication and/or
+5 limited health services. A resident must be capable of self-preservation in emergency situations,
+6 unless the facility meets a more stringent life safety code as required under § 23-17.4-6(b)(3).
+7 Persons needing medical or skilled nursing care, including daily professional observation and
+8 evaluation, as provided in a healthcare facility, and/or persons who are bedbound or in need of the
+9 assistance of more than one person for ambulation, are not appropriate to reside in assisted living
+10 residences. However, an established resident may receive daily skilled nursing care or therapy from
+11 a licensed healthcare provider for a condition that results from a temporary illness or injury for up
+12 to forty-five (45) days subject to an extension of additional days as approved by the department, or
+13 if the resident is under the care of a Rhode Island licensed hospice agency provided the assisted
+14 living residence assumes responsibility for ensuring that the required care is received. Furthermore,
+15 a new resident may receive daily therapy services and/or limited skilled nursing care services, as
+16 defined through rules and regulations promulgated by the department of health, from a licensed
+17 healthcare provider for a condition that results from a temporary illness or injury for up to forty-
+18 five (45) days subject to an extension of additional days as approved by the department, or if the
+19 resident is under the care of a licensed hospice agency provided that assisted living residence
+20 assumes responsibility for ensuring that the care is received. For the purposes of this chapter,
+21 “resident” shall also mean the resident’s agent as designated in writing or legal guardian.
+22 Notwithstanding the aforementioned, residents who are bed bound or in need of assistance of more
+23 than one staff person for ambulation may reside in a residence if they are receiving hospice care in
+24 accordance with the rules and regulations promulgated by the department of health. For the
+25 purposes of this chapter, “resident” shall also mean the resident’s agent as designated in writing or
+26 legal guardian.
+27 (11)(12) “Resident council” means an independent, self-determining group of facility
+28 residents established pursuant to § 23-17.4-15.11 that:
+29 (i) Advocates for the needs and interests of the residents of an assisted living residence;
+30 and
+31 (ii) Facilitates open communication between the assisted living residence administration,
+32 the residents, and family and friends of the residents.
+33 (13) “Supervision” means the supervision requirements of qualified licensed assisted living
+34 staff delivering limited health services in accordance with this chapter, as defined through rules and
+LC005562 - Page 3 of 7
+
+1 regulations promulgated by the department of health.
+2 (12)(14) “Limited health services” means health services, as ordered by the resident’s
+3 physician, provided by qualified licensed assisted living staff members with supervision as required
+4 in rules and regulations promulgated by the department of health. Nothing in this definition shall
+5 be construed to limit the right of assisted living residents to access home nursing care or hospice
+6 provider services.
+7 23-17.4-16.3. Residency agreement or contract.
+8 (a) Prior to exchange of any funds and prior to admission, except as provided in subsections
+9 (c) and (d) herein, the residence shall execute a residency agreement or contract, signed by both the
+10 residence and the resident, that defines the services the residence will provide and the financial
+11 agreements between the residence and the resident or the residence’s resident's representative.
+12 (b) The department shall establish regulations specifying the minimum provisions of
+13 residency agreements or contracts and a minimum prior notification time for changes in rates, fees,
+14 service charges or any other payments required by the residence.
+15 (c) Any advanced deposit, application fee, or other pre-admission payment shall be subject
+16 to a signed document explaining fully the terms of the payment and the residence’s refund policy.
+17 (d) In cases of emergency placement, the residency agreement or contract shall be executed
+18 within five (5) working days of admissions.
+19 SECTION 2. Chapter 23-17.4 of the General Laws entitled "Assisted Living Residence
+20 Licensing Act" is hereby amended by adding thereto the following sections:
+21 23-17.4-15.10. Establishment of resident and family councils.
+22 On or before January 1, 2027, all assisted living residences shall allow for and support the
+23 establishment of resident and family councils pursuant to the provisions of §§ 23-17.4-15.11 and
+24 23-17.4-15.12.
+25 23-17.4-15.11. Resident councils.
+26 (a) For the purposes of this chapter, “resident council” shall have the same meaning set
+27 forth in § 23-17.4-2.
+28 (b) The role of the resident council shall be to serve in an advisory and collaborative
+29 capacity with the facility to address matters affecting residents generally and to seek mutually
+30 acceptable solutions. The resident council shall not address or resolve individual resident
+31 grievances. The resident council shall not be entitled to obtain information about individual
+32 residents or staff members, or any other information deemed confidential, or otherwise protected,
+33 under state or federal law.
+34 (c) The facility shall support and reasonably accommodate the formation and ongoing
+LC005562 - Page 4 of 7
+
+1 operation of a resident council, including by providing reasonable access to meeting space and by
+2 recognizing the resident council’s right to meet, gather, and communicate.
+3 (d) A facility shall provide its resident council with space in a prominent posting area for
+4 the display of information pertaining to the resident council.
+5 (e) It shall be the responsibility of the resident council to post a notice regarding the date,
+6 time and location of scheduled meetings.
+7 (f) Staff or visitors may attend resident council meetings at the council’s invitation.
+8 (g) When a resident council submits written requests, concerns, or recommendations to the
+9 administrator of an assisted living residence, the facility shall consider such submissions and,
+10 within thirty (30) business days, either respond in writing or meet in person with a representative
+11 of the resident council regarding any action taken or not taken in response. The facility’s response
+12 shall include the rationale for such action or inaction. Where additional information is needed by
+13 either party, the facility and the resident council shall work collaboratively and in good faith toward
+14 a mutually acceptable resolution.
+15 23-17.4-15.12. Family councils.
+16 (a) For the purposes of this chapter, “family council” shall have the meaning set forth in §
+17 23-17.4-2.
+18 (b) The role of the family council shall be to serve in an advisory and collaborative capacity
+19 with the facility to address matters affecting residents generally and to seek mutually acceptable
+20 solutions. The family council shall not address or resolve individual resident grievances. The family
+21 council shall not be entitled to obtain information about individual residents or staff members, or
+22 any other information deemed confidential, or otherwise protected, under state or federal law.
+23 (c) The facility shall support and reasonably accommodate the formation and ongoing
+24 operation of a family council, including by providing reasonable access to meeting space and by
+25 recognizing the family council’s right to meet, gather, and communicate.
+26 (d) The family council shall not allow a family member or friend of a resident to participate
+27 in the family council over the objection of the resident.
+28 (e) A facility shall provide its family council with space in a prominent posting area for the
+29 display of information pertaining to the family council.
+30 (f) Staff or visitors may attend family council meetings at the council’s invitation.
+31 (g) When a family council submits written requests, concerns, or recommendations to the
+32 administrator of an assisted living residence, the facility shall consider such submissions and,
+33 within thirty (30) business days, either respond in writing or meet in person with a representative
+34 of the resident council regarding any action taken or not taken in response. The facility’s response
+LC005562 - Page 5 of 7
+
+1 shall include the rationale for such action or inaction. Where additional information is needed by
+2 either party, the facility and the family council shall work collaboratively and in good faith toward
+3 a mutually acceptable resolution.
+4 SECTION 3. This act shall take effect upon passage.
+========
+LC005562
+========
+LC005562 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- ASSISTED LIVING RESIDENCE LICENSING
+ACT
+***
+1 This act would establish, encourage and support the establishment of family councils and
+2 resident councils in assisted living residences providing assisted living services. This act would
+3 further support the transparency of rates and fees to residents in managed residential communities
+4 providing assisted living services and set a minimum notice period for rate increases of one hundred
+5 twenty (120) days.
+6 This act would take effect upon passage.
+========
+LC005562
+========
+LC005562 - Page 7 of 7

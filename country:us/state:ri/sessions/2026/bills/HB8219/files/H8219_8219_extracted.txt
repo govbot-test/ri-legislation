@@ -1,0 +1,391 @@
+Title: 
+Official Title: 
+Source: versions - 8219
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8219
+========
+LC004953
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- RHODE ISLAND INSURANCE MARKET PROTECTION
+ACT
+Introduced By: Representatives Boylan, Speakman, Cortvriend, McGaw, Knight, Handy,
+Potter, Carson, Caldwell, and DeSimone
+Date Introduced: March 03, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings of fact.
+2 The general assembly finds and declares that:
+3 (1) This Act ensures that Rhode Island homeowners’ insurance premiums will not be
+4 invested in activities which damage or put at risk their financial, physical, or property interests, or
+5 the integrity of Rhode Island homes, businesses, municipalities, state agencies, or state lands.
+6 (2) Climate change, caused by the combustion of fossil fuels, is an immediate and grave
+7 threat to the people, buildings, infrastructure, environment, natural resources, and economy of the
+8 state.
+9 (3) Rising sea levels and temperatures, extreme weather events, flooding, heat waves,
+10 droughts, and other climate change effects have and, for the foreseeable future, will continue to
+11 damage and destroy homes, businesses, and public infrastructure nationally and within our state,
+12 and, additionally, cause homeowners, businesses, municipalities, and states to continuously take on
+13 additional expenses of remediation, preparation, and insurance against such effects.
+14 (4) In response to climate change impacts, many insurers have raised premiums and
+15 deductibles, reduced coverage, denied more claims, or withdrawn from high-risk areas, shifting
+16 climate risks onto homeowners, renters, and businesses. These changes particularly impact
+17 communities that are already vulnerable to economic instability and natural disasters.
+18 (5) Insurers continue to underwrite and invest in fossil fuel expansion that contributes to
+
+1 growing climate risks that are burdening consumers and threatening financial markets. Fossil fuel
+2 companies depend on insurance coverage to operate, and insurers remain key financial backers of
+3 new coal, oil, and gas infrastructure. Scientific research indicates that a significant portion of known
+4 fossil fuel reserves must remain unused to limit global warming, and groups like the International
+5 Energy Agency have warned that no new fossil fuel supply projects are compatible with limiting
+6 global warming below 2°C.
+7 (6) This Act will support the State’s goals by limiting the insurance industry’s participation
+8 in fossil fuel industries. The State has committed to reduce climate emissions to net-zero by 2050,
+9 as described in chapter 6.2 of title 42 ("2021 act on climate"). Additionally, this act will further the
+10 State’s goal to incentivize businesses, institutions, and industry to adapt to climate change, as
+11 described in the act on climate.
+12 (7) To make sure households are able to maintain affordable property insurance, insurers
+13 must align their investments and underwriting with science-based emissions targets—meaning they
+14 are in line with what the latest climate science deems necessary to meet the goals of the Paris
+15 Agreement and avoid the worst impacts of climate change.
+16 (8) Insurers should not profit from activities which put their insured at risk of substantial
+17 loss, or which undermine the physical and financial wellbeing of their insured, or otherwise create
+18 or transfer substantial risks or costs to residents, municipalities, state agencies, and state property.
+19 SECTION 2. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+20 adding thereto the following chapter:
+21 CHAPTER 84
+22 RHODE ISLAND INSURANCE MARKET PROTECTION ACT
+23 27-84-1. Short title.
+24 This chapter shall be known and may be cited as the “Rhode Island Insurance Market
+25 Protection Act”.
+26 27-84-2. Definitions.
+27 As used in this chapter:
+28 (1) “Covered Insurer” means an insurance company authorized to conduct the business of
+29 property and casualty insurance in the State of Rhode Island:
+30 (i) That reports over ten million dollars ($10,000,000) of direct property and casualty
+31 premiums written in the State of Rhode Island on its annual schedule “T” filing with the National
+32 Association of Insurance Commissioners;
+33 (ii) Whose activities or investments may expose such insurer to a heightened level of risk
+34 from the physical or transition effects of climate change; or
+LC004953 - Page 2 of 12
+
+1 (iii) The director otherwise determines that subjecting such an insurer to the requirements
+2 of §§ 27-84-3 and 27-84-4 would be in the public interest.
+3 (2) “Department” means the department of business regulation.
+4 (3) “Director” means the director of the department of business regulation.
+5 (4) “Financed emissions” means greenhouse gas emissions associated with insurer
+6 investments, as defined by the department in consultation with the department of environmental
+7 management. Insurer investments under this definition shall include, at a minimum, investments in
+8 fossil fuel companies and fossil fuel projects. The department may, by rule or guidance, designate
+9 additional asset classes, sectors, or investment types to be included for the purpose of calculating
+10 financed emissions including, but not limited to, high-emitting industries, emissions-intensive
+11 supply chains, and emissions-intensive utilities. In establishing a definition under this subsection,
+12 the department shall consider:
+13 (i) Internationally recognized standards for financed emissions accounting, including those
+14 issued by the Partnership for Carbon Accounting Financials (PCAF);
+15 (ii) The availability and quality of emissions data from subsidiary, joint venture, or
+16 portfolio companies and asset classes;
+17 (iii) The proportional contribution of investment activities to an insurer’s overall
+18 greenhouse gas footprint;
+19 (iv) The need to provide consistent, comparable, verifiable, and transparent emissions
+20 disclosures and disclosure standards across the insurance sector; and
+21 (v) Alignment with Rhode Island climate policy objectives, including emissions reduction
+22 targets, climate risk mitigation strategies, and sector-specific decarbonization targets.
+23 (5) “Fossil fuel” means a carbon-based energy source formed in the earth’s crust from
+24 decayed organic material including, but not limited to, petroleum, crude oil, natural gas, and coal.
+25 (6) “Fossil fuel company” means any entity including, but not limited to, corporations,
+26 limited liability companies, partnerships, joint ventures, trusts, special purpose vehicles, private
+27 equity funds, subsidiaries, associates, affiliates, or any other legal, financial, or organizational
+28 structure that derives ten percent (10%) or more of its revenue from any new or existing fossil fuel
+29 project.
+30 (7) “Fossil fuel project” means a project, undertaking, activity, or investment designed to
+31 facilitate any significant action with respect to fossil fuels or any byproduct thereof for commercial
+32 purposes including, but not limited to:
+33 (i) Upstream activities to include exploration, extraction, drilling, mining, production,
+34 collection, gathering, development, redevelopment, expansion, or construction of mines, fields,
+LC004953 - Page 3 of 12
+
+1 wells, rigs, platforms, or any other related infrastructure;
+2 (ii) Midstream activities to include refining, processing, exportation, transportation,
+3 storage, petrochemical manufacturing, or any other distribution infrastructure or logistics including
+4 construction of pipelines, terminals, power plants, or compressors; and
+5 (iii) Downstream activities to include power, heat, or cooling generation facilities and fossil
+6 fuel-powered manufacturing under North American Industry Classification System (NAICS)
+7 codes: 221112 (Fossil Fuel Electric Power Generation), 325110 (Petrochemical Manufacturing),
+8 and 324199 (All Other Petroleum and Coal Products Manufacturing).
+9 (8) “Insured emissions” means greenhouse gas emissions associated with insurer
+10 underwriting, as defined by the department, in consultation with the department of environmental
+11 management. Insurer underwriting under this definition shall include, at a minimum, underwriting
+12 fossil fuel companies and fossil fuel projects. The department may, by rule or guidance, designate
+13 additional asset classes, sectors, or investment types to be included for the purpose of calculating
+14 insured emissions including, but not limited to, high-emitting industries, emissions-intensive
+15 supply chains, and emissions-intensive utilities. In establishing a definition under this subsection,
+16 the department shall consider:
+17 (i) Methodologies for attributing greenhouse gas emissions to insurance underwriting
+18 activities, including the methodology issued by the Partnership for Carbon Accounting Financials
+19 (PCAF) for insurance-associated emissions, and guidance from international initiatives such as the
+20 Forum for Insurance Transition to Net Zero (FIT) and the Science Based Targets Initiative (SBTi);
+21 (ii) Distinctions among lines of business, including whether the underwriting pertains to
+22 high-emitting sectors such as fossil fuel exploration, extraction, processing, exporting, transporting,
+23 and any other significant action with respect to oil, natural gas, coal, or any byproduct thereof;
+24 (iii) The extent to which emissions attributable to underwriting can be reasonably
+25 measured, estimated, or modeled using available data;
+26 (iv) The need to provide consistent, comparable, verifiable, assured, and transparent
+27 emissions disclosures and disclosure standards across the insurance sector; and
+28 (v) Alignment with Rhode Island climate policy objectives, including emissions reduction
+29 targets, climate risk mitigation strategies, and sector-specific decarbonization targets.
+30 (9) “New fossil fuel project” means a fossil fuel project in excess of what is in or approved
+31 for development as of the effective date of this chapter, including projects designed to expand the
+32 use of or generate new infrastructure for production from existing reserves. A “new fossil fuel
+33 project” shall not include modifications made solely to increase safety or reduce carbon intensity
+34 including, but not limited to, reduce fugitive or vented emissions; provided that, such modifications
+LC004953 - Page 4 of 12
+
+1 do not expand the fossil fuel supply base.
+2 (10) “Science-based climate mitigation targets” means absolute emissions reduction targets
+3 that are in line with limiting global temperature rise to well below 2°C above pre-industrial levels,
+4 as defined by the department, in consultation with the department of environmental management.
+5 In establishing a definition under this subsection, the department shall:
+6 (i) Consider peer-reviewed, science-based methodologies and criteria developed by
+7 recognized and reputable standard-setting bodies, including the Science Based Targets Initiative
+8 (SBTi), the Intergovernmental Panel on Climate Change (IPCC), and relevant international
+9 agreements such as the 2015 Paris Climate Accords;
+10 (ii) Cover Scopes 1 (direct), 2 (indirect energy), and 3 (value chain) greenhouse gas
+11 emissions, as defined by the Greenhouse Gas Protocol and consistent with best available accounting
+12 and disclosure practices, to include, the accounting methodologies issued by the Partnership for
+13 Carbon Accounting Financials (PCAF) for financed emissions and insurance-associated emissions;
+14 (iii) Require that targets shall not rely on carbon offsets, avoided emissions claims, or
+15 unproven greenhouse gas removal technologies;
+16 (iv) Align with Rhode Island climate policy objectives, including the mandatory targets for
+17 emissions reduction laid out in chapter 6.2 of title 42 (“2021 act on climate”); and.
+18 (v) Provide for periodic review and updating of targets based on evolving climate science,
+19 sector-specific developments, and real-world performance data.
+20 (11) “State” or “the State” or “this State” means the State of Rhode Island.
+21 27-84-3. Implementing climate leadership targets for Insurers.
+22 (a) The department shall:
+23 (1) On or before July 1, 2027, submit a report to the governor, the speaker of the house and
+24 senate president on the budgetary impacts of this chapter.
+25 (2) On or before January 1, 2028, develop and implement a process for covered insurers to
+26 file reports pursuant to the provisions of subsection (b) of this section;
+27 (3) Align covered insurer investment and underwriting activities with science-based
+28 climate mitigation targets, including by:
+29 (i) Prohibiting covered insurers from underwriting any new fossil fuel projects on or after
+30 July 1, 2026;
+31 (ii) Directing covered insurers to unwind and terminate any outstanding or pending
+32 commitments or negotiations to underwrite new fossil fuel projects no later than July 1, 2028.
+33 (iii) Directing covered insurers to phase out all underwriting for any existing fossil fuel
+34 projects and fossil fuel companies by January 1, 2035 and establish short, medium, and long term
+LC004953 - Page 5 of 12
+
+1 benchmarks;
+2 (iv) Prohibiting covered insurers from investing in any new fossil fuel projects on or after
+3 July 1, 2026;
+4 (v) Directing covered insurers to unwind and terminate any outstanding or pending
+5 commitments or negotiations to invest in new fossil fuel projects on or before July 1, 2028;
+6 (vi) Directing covered insurers to phase out all investments from any existing fossil fuel
+7 projects and fossil fuel companies by January 1, 2035 and establish short, medium, and long term
+8 benchmarks; and
+9 (vii) Any other requirements deemed necessary by the department to align covered
+10 insurers’ investments and underwriting with science-based climate mitigation targets, including
+11 developing and implementing enterprise-wide transition plans
+12 (4) On or before January 1, 2028, develop and implement a process for covered insurers to
+13 certify pursuant to the provisions of subsection (c) of this section, as a condition of licensure in the
+14 State of Rhode Island, that covered insurers meet the requirements of this section, which may
+15 include mandatory transition plans and progress; and
+16 (5) Annually review the reports and certifications required under this section, and compile
+17 and post the information in such reports and certifications on the department’s website within three
+18 (3) months of receiving the same.
+19 (b) On or before July 1, 2028, and annually thereafter, covered insurers shall submit, within
+20 six (6) months of the end of each fiscal year, a report to the director disclosing:
+21 (1) The covered insurer’s investments in any fossil fuel company, fossil fuel project, or
+22 new fossil fuel project;
+23 (2) The financed emissions from all of the covered insurer’s investments in the previous
+24 fiscal year;
+25 (3) The covered insurer’s underwriting for any fossil fuel company, fossil fuel project, or
+26 new fossil fuel project, in terms of total gross premiums in dollars, disaggregated by company and
+27 project in a format determined by the director;
+28 (4) The insured emissions from all of the covered insurer’s underwriting in the previous
+29 reporting year;
+30 (5) The timelines, strategies, and methodologies the covered insurer has implemented to
+31 comply with the requirements of this chapter;
+32 (6) The progress the covered insurer has made towards achieving these requirements,
+33 including specific milestones; and
+34 (7) Any other information the department deems necessary to effectively implement and
+LC004953 - Page 6 of 12
+
+1 enforce any rule or regulation promulgated pursuant to this chapter, which the department shall
+2 publish in advance.
+3 (c) As part of the annual report required under subsection (b) of this section, the chief
+4 executive officer (CEO) or chief financial officer (CFO) of a covered insurer shall certify the
+5 accuracy of the information contained in such reports and that the covered insurer has:
+6 (1) Ceased or made progress towards cessation of underwriting and investment in any fossil
+7 fuel project;
+8 (2) Relinquished or made progress in relinquishing any direct or indirect stake in any fossil
+9 fuel company or fossil fuel project; and
+10 (3) Not invested in or underwritten any new fossil fuel project.
+11 (d) The director may engage the services of third-party attorneys, actuaries, accountants,
+12 and other experts not otherwise a part of the director’s staff, at the reporting covered insurer’s
+13 expense, as shall be reasonably necessary to assist in the review of such covered insurer’s filings
+14 under this section. All persons so engaged shall be under the direction and control of the director
+15 and shall act in a purely advisory capacity.
+16 27-84-4. Statewide withdrawal restrictions.
+17 (a) A covered insurer may surrender to the director its certificate of authority and thereafter
+18 cease to transact insurance in the State of Rhode Island, or discontinue the writing or renewal of
+19 one or more individual lines of insurance specified in the certificate of authority in the State of
+20 Rhode Island, only after the submission and approval of an informational filing submitted to the
+21 director, which filing shall be subject to the following provisions:
+22 (1) The covered insurer shall send a notice to policyholders of the proposed withdrawal no
+23 later than thirty (30) days following the submission of the informational filing to the director, which
+24 shall state that the covered insurer intends to withdraw and has filed its intention to withdraw with
+25 the director, the terms of the withdrawal, including the date of the proposed commencement of
+26 nonrenewal of policies, and the proposed duration of the withdrawal plan for the covered insurer’s
+27 book of business;
+28 (2) Nonrenewals shall not commence prior to one calendar year and ninety (90) days
+29 following the submission of the informational filing;
+30 (3) The company shall send a notice of nonrenewal to every policyholder:
+31 (i) No later than one calendar year preceding the date of nonrenewal; and
+32 (ii) A subsequent notice of nonrenewal ninety (90) days preceding the date of nonrenewal;
+33 and
+34 (4) Nonrenewals shall take place in a manner in order to be applicable to all insureds on an
+LC004953 - Page 7 of 12
+
+1 equitable basis with respect to risk classification and territorial or other form of rating factor, and
+2 shall be effectuated at a uniform rate over a period of not less than three (3) calendar years
+3 commencing with the date established in subsection (a)(2) of this section.
+4 (b) Upon receiving the informational filing provided for in subsection (a) of this section,
+5 the director shall:
+6 (1) Within seven (7) days, publish the informational filing on the department’s website;
+7 and
+8 (2) Within thirty (30) days, hold a public hearing, at which the covered insurer and any
+9 members of the public may present testimony to determine if the withdrawal is justifiably required
+10 to protect the solvency of the covered insurer and would not be contrary to the public interest by
+11 disrupting the market or markets for said insurance.
+12 (c) Within sixty (60) days of receiving the informational filing provided for in subsection
+13 (a) of this section, the director shall notify the covered insurer in writing whether the withdrawal
+14 plan has been approved, any conditions of approval, and any requested modifications. If the director
+15 concludes that the withdrawal is not justified to protect the solvency of the covered insurer or would
+16 be contrary to the public interest by disrupting the market or markets for said insurance, the director
+17 shall prohibit the withdrawal unless the covered insurer surrenders all certificates of authority held
+18 by the covered insurer or other companies within the same holding company system as the covered
+19 insurer.
+20 (d) Notwithstanding the provisions of subsections (a), (b), and (c) of this section, if the
+21 covered insurer finds a replacement carrier for the business that will not be renewed as the result
+22 of the withdrawal either prior to or after the date of the informational filing, the covered insurer
+23 may apply to the director for approval to transfer the business to a replacement carrier or carriers.
+24 If the director approves the replacement carrier or carriers, notwithstanding the provisions of
+25 subsection (a) of this section, the notice of nonrenewal shall be in compliance with the time limits
+26 provided by law for that line of insurance, and the covered insurer shall offer every insured
+27 coverage with the replacement carrier prior to the effective date of the nonrenewal. The director
+28 shall not withhold approval of a replacement carrier or carriers if that covered insurer is authorized
+29 to do business in the same line of business in Rhode Island and has the financial and business
+30 capability to write and service the business being transferred to it by the withdrawing covered
+31 insurer. The director shall approve or disapprove the replacement carrier or carriers within sixty
+32 (60) days of:
+33 (1) The date of the filing by the withdrawing covered insurer requesting approval of a
+34 replacement carrier or carriers; or
+LC004953 - Page 8 of 12
+
+1 (2) The filing by the replacement carrier or carriers requesting to be a replacement carrier,
+2 whichever is later.
+3 (e) The director may waive the requirements of subsection (a)(2) of this section, and the
+4 one-year nonrenewal notice of subsection (a)(3) of this section, as well as the three (3) year
+5 minimum withdrawal period in subsection (a)(4) of this section if the director deems a waiver to
+6 be necessary to protect the solvency of the covered insurer making the informational filing or if the
+7 director deems the withdrawal to have a limited impact on the market.
+8 27-84-5. Compliance and penalties.
+9 (a) Any covered insurer that fails to comply with the reporting requirements, divestment
+10 obligations or investment and underwriting prohibitions, or withdrawal restrictions under this
+11 chapter shall be subject to, at the discretion of the director, one or more of the following:
+12 (1) Administrative penalties:
+13 (i) Pursuant to § 42-14-16(a); and
+14 (ii) Equivalent to the covered insurer’s fractional share of the property and casualty
+15 insurance market in Rhode Island based on total premiums received multiplied by the insurer’s net
+16 profits generated from the covered insurer’s enterprise-wide operations within Rhode Island in the
+17 violation year, and
+18 (iii) Up to an additional one-tenth of one percent (0.01%) of the violation year’s net profits
+19 generated from the covered insurer’s enterprise-wide operations within Rhode Island per day of a
+20 continuing violation; and
+21 (2) Restriction, suspension, or revocation of the insurer’s certificate of authority to do
+22 business in Rhode Island.
+23 (b) Any covered insurer that fails to comply with the reporting requirements, divestment
+24 obligations or investment and underwriting prohibitions under this chapter shall be required to
+25 report semiannually to the director and submit a compliance plan until the director determines the
+26 covered insurer is in compliance with this chapter.
+27 (c) Any covered insurer that fails to comply with the provisions of this chapter three (3)
+28 times within five (5) years may be subject to additional penalties available to and at the discretion
+29 of the director under Rhode Island insurance laws.
+30 (d) The director may transfer fees collected under this section to other departments or state-
+31 administered funds for the purpose of financing projects and initiatives designed to avoid, limit, or
+32 adapt to negative impacts caused by climate change, including for the benefit of households
+33 residing in and businesses located in low- and moderate- income communities or disadvantaged
+34 communities.
+LC004953 - Page 9 of 12
+
+1 27-84-6. Reporting.
+2 (a) On or before July 1, 2028, and once every two (2) years thereafter, the director shall
+3 submit a report to the governor, speaker of the house and senate president. The report shall also be
+4 made available to the public and posted on the department’s website. The report shall disclose, for
+5 the preceding two (2) calendar years, the department’s:
+6 (1) Efforts to implement the provisions of § 27-84-3, including anonymized and aggregated
+7 data on insurer investments in and underwriting of fossil fuel companies and fossil fuel projects,
+8 financed emissions, and insured emissions;
+9 (2) Regulatory and supervisory actions taken, if any, to bolster the resilience of insurers to
+10 the physical impacts of climate change;
+11 (3) Regulatory and supervisory actions planned, if any, to bolster the resilience of insurers
+12 to the physical impacts of climate change;
+13 (4) Violations of § 27-84-3, and any penalties assessed as a result, anonymized and
+14 aggregated;
+15 (5) Violations of §27-84-4, and any penalties assessed as a result, anonymized and
+16 aggregated; and
+17 (6) The effects, if any, that insurers’ efforts to address climate risk have had on the
+18 affordability and availability of insurance for low income communities, communities of color and
+19 other traditionally underserved communities in the state.
+20 (b) Such report shall also summarize available information regarding:
+21 (1) Insurer and insurance market readiness for climate change and the energy transition;
+22 (2) Major sources of climate risk faced by the insurers;
+23 (3) Any gaps related to climate risk that the department intends to address; and
+24 (4) Any legislative action that must be taken in order to allow the department to address
+25 climate risk.
+26 27-84-7. Rules and regulations.
+27 The department shall adopt such regulations as the director deems necessary to implement
+28 and carry out the purposes of this chapter.
+29 27-84-8. Severability.
+30 If any provision of this chapter, or the application of it to any person or circumstance, is
+31 held invalid, that determination shall not affect the provisions or applications of this chapter which
+32 can be given effect without the invalid provision or application, and to that end the provisions of
+33 this chapter are severable.
+LC004953 - Page 10 of 12
+
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC004953
+========
+LC004953 - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- RHODE ISLAND INSURANCE MARKET PROTECTION
+ACT
+***
+1 With limited exception, this act would create and impose penalties for covered insurers that
+2 fail to comply with its reporting requirements, divestment obligations, and withdrawal restrictions,
+3 such as administrative penalties proportional to their statewide market share and profit, restrictions
+4 on the insurer's ability to do business within the state, and escalating penalties for repeated
+5 noncompliance. This act would also create a structured withdrawal process by which covered
+6 insurers would cease doing business within the state upon proper notice to their insureds, public
+7 comment, and approval by the director of the department of business regulation (DBR).
+8 This act would take effect upon passage.
+========
+LC004953
+========
+LC004953 - Page 12 of 12

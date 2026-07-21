@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - 2880
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2880
+========
+LC005531
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+Introduced By: Senator Louis P. DiPalma
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 40-8-19 of the General Laws in Chapter 40-8 entitled "Medical
+2 Assistance" is hereby amended to read as follows:
+3 40-8-19. Rates of payment to nursing facilities.
+4 (a) Rate reform.
+5 (1) The rates to be paid by the state to nursing facilities licensed pursuant to chapter 17 of
+6 title 23, and certified to participate in Title XIX of the Social Security Act for services rendered to
+7 Medicaid-eligible residents, shall be reasonable and adequate to meet the costs that must be
+8 incurred by efficiently and economically operated facilities in accordance with 42 U.S.C. §
+9 1396a(a)(13). The executive office of health and human services (“executive office”) shall
+10 promulgate or modify the principles of reimbursement for nursing facilities in effect as of July 1,
+11 2011, to be consistent with the provisions of this section and Title XIX, 42 U.S.C. § 1396 et seq.,
+12 of the Social Security Act.
+13 (2) The executive office shall review the current methodology for providing Medicaid
+14 payments to nursing facilities, including other long-term care services providers, and is authorized
+15 to modify the principles of reimbursement to replace the current cost-based methodology rates with
+16 rates based on a price-based methodology to be paid to all facilities with recognition of the acuity
+17 of patients and the relative Medicaid occupancy, and to include the following elements to be
+18 developed by the executive office:
+19 (i) A direct-care rate adjusted for resident acuity;
+
+1 (ii) An indirect-care and other direct-care rate comprised of a base per diem for all facilities;
+2 (iii) Revision of rates as necessary, based on increases in direct and indirect costs beginning
+3 October 2027 utilizing data from the most recent finalized year of the facility's cost report. The per
+4 diem rate components referred in subsections (a)(2)(i) and (a)(2)(ii) of this section shall be adjusted
+5 accordingly to reflect changes in direct and indirect care costs since the previous rate review;
+6 (iii)(iv) Revision of rates as necessary based on increases in direct and indirect costs
+7 beginning October 2024 utilizing data from the most recent finalized year of facility cost report.
+8 The per diem rate components deferred in subsections (a)(2)(i) and (a)(2)(ii) of this section shall
+9 be adjusted accordingly to reflect changes in direct and indirect care costs since the previous rate
+10 review;
+11 (iv)(v) Application of a fair-rental value system;
+12 (v)(vi) Application of a pass-through system; and
+13 (vi)(vii) Adjustment of rates by the change in a recognized national nursing home inflation
+14 index to be applied on October 1 of each year, beginning October 1, 2012. This adjustment will not
+15 occur on October 1, 2013, October 1, 2014, or October 1, 2015, but will occur on April 1, 2015.
+16 The adjustment of rates will also not occur on October 1, 2017, October 1, 2018, October 1, 2019,
+17 and October 2022. Effective July 1, 2018, rates paid to nursing facilities from the rates approved
+18 by the Centers for Medicare and Medicaid Services and in effect on October 1, 2017, both fee-for-
+19 service and managed care, will be increased by one and one-half percent (1.5%) and further
+20 increased by one percent (1%) on October 1, 2018, and further increased by one percent (1%) on
+21 October 1, 2019. Effective October 1, 2022, rates paid to nursing facilities from the rates approved
+22 by the Centers for Medicare and Medicaid Services and in effect on October 1, 2021, both fee-for-
+23 service and managed care, will be increased by three percent (3%). In addition to the annual nursing
+24 home inflation index adjustment, there shall be a base rate staffing adjustment of one-half percent
+25 (0.5%) on October 1, 2021, one percent (1.0%) on October 1, 2022, and one and one-half percent
+26 (1.5%) on October 1, 2023. For the twelve-month (12) period beginning October 1, 2025, rates paid
+27 to nursing facilities from the rates approved by the Centers for Medicare and Medicaid Services
+28 and in effect on October 1, 2024, both fee-for-service and managed care, will be increased by two
+29 and three-tenths percent (2.3%). There shall also be a base rate staffing adjustment of three percent
+30 (3%) effective October 1, 2025. Not less than one hundred percent (100%) of this base-rate staffing
+31 adjustment shall be expended by each nursing facility to increase compensation, wages, benefits,
+32 and related employer costs, for eligible direct-care staff, including the cost of hiring additional
+33 eligible direct-care positions, as defined in this subsection (a)(2)(vi). The inflation index shall be
+34 applied without regard for the transition factors in subsections (b)(1) and (b)(2). For purposes of
+LC005531 - Page 2 of 6
+
+1 October 1, 2016, adjustment only, any rate increase that results from application of the inflation
+2 index to subsections (a)(2)(i) and (a)(2)(ii) shall be dedicated to increase compensation for direct-
+3 care workers in the following manner: Not less than eighty-five percent (85%) of this aggregate
+4 amount shall be expended to fund an increase in wages, benefits, or related employer costs of direct-
+5 care staff of nursing homes. For purposes of this section, direct-care staff shall include registered
+6 nurses (RNs), licensed practical nurses (LPNs), certified nursing assistants (CNAs), certified
+7 medical technicians, housekeeping staff, laundry staff, dietary staff, or other similar employees
+8 providing direct-care services; provided, however, that this definition of direct-care staff shall not
+9 include: (i) RNs and LPNs who are classified as “exempt employees” under the federal Fair Labor
+10 Standards Act (29 U.S.C. § 201 et seq.); or (ii) CNAs, certified medical technicians, RNs, or LPNs
+11 who are contracted, or subcontracted, through a third-party vendor or staffing agency. By July 31,
+12 2017, nursing facilities shall submit to the secretary, or designee, a certification that they have
+13 complied with the provisions of this subsection (a)(2)(vi) with respect to the inflation index applied
+14 on October 1, 2016. Any facility that does not comply with the terms of such certification shall be
+15 subjected to a clawback, paid by the nursing facility to the state, in the amount of increased
+16 reimbursement subject to this provision that was not expended in compliance with that certification.
+17 (3) Commencing on October 1, 2021, eighty percent (80%) of any rate increase that results
+18 from application of the inflation index to subsections (a)(2)(i) and (a)(2)(ii) of this section shall be
+19 dedicated to increase compensation for all eligible direct-care workers in the following manner on
+20 October 1, of each year.
+21 (i) For purposes of this subsection, compensation increases shall include base salary or
+22 hourly wage increases, benefits, other compensation, and associated payroll tax increases for
+23 eligible direct-care workers. This application of the inflation index shall apply for Medicaid
+24 reimbursement in nursing facilities for both managed care and fee-for-service. For purposes of this
+25 subsection, direct-care staff shall include registered nurses (RNs), licensed practical nurses (LPNs),
+26 certified nursing assistants (CNAs), certified medication technicians, licensed physical therapists,
+27 licensed occupational therapists, licensed speech-language pathologists, mental health workers
+28 who are also certified nurse assistants, physical therapist assistants, social workers, or any nurse
+29 aides with a valid license, even if it is probationary, housekeeping staff, laundry staff, dietary staff,
+30 or other similar employees providing direct-care services; provided, however that this definition of
+31 direct-care staff shall not include:
+32 (A) RNs and LPNs who are classified as “exempt employees” under the federal Fair Labor
+33 Standards Act (29 U.S.C. § 201 et seq.); or
+34 (B) CNAs, certified medication technicians, RNs, or LPNs who are contracted or
+LC005531 - Page 3 of 6
+
+1 subcontracted through a third-party vendor or staffing agency.
+2 (4)(i) By July 31, 2021, and July 31 of each year thereafter, nursing facilities shall submit
+3 to the secretary or designee a certification that they have complied with the provisions of subsection
+4 (a)(3) of this section with respect to the inflation index applied on October 1. The executive office
+5 of health and human services (EOHHS) shall create the certification form nursing facilities must
+6 complete with information on how each individual eligible employee’s compensation increased,
+7 including information regarding hourly wages prior to the increase and after the compensation
+8 increase, hours paid after the compensation increase, and associated increased payroll taxes. A
+9 collective bargaining agreement can be used in lieu of the certification form for represented
+10 employees. All data reported on the compliance form is subject to review and audit by EOHHS.
+11 The audits may include field or desk audits, and facilities may be required to provide additional
+12 supporting documents including, but not limited to, payroll records.
+13 (ii) Any facility that does not comply with the terms of certification shall be subjected to a
+14 clawback and twenty-five percent (25%) penalty of the unspent or impermissibly spent funds, paid
+15 by the nursing facility to the state, in the amount of increased reimbursement subject to this
+16 provision that was not expended in compliance with that certification.
+17 (iii) In any calendar year where no inflationary index is applied, eighty percent (80%) of
+18 the base rate staffing adjustment in that calendar year pursuant to subsection (a)(2)(vi) of this
+19 section shall be dedicated to increase compensation for all eligible direct-care workers in the
+20 manner referenced in subsections (a)(3)(i), (a)(3)(i)(A), and (a)(3)(i)(B) of this section.
+21 (b) Transition to full implementation of rate reform. For no less than four (4) years after
+22 the initial application of the price-based methodology described in subsection (a)(2) to payment
+23 rates, the executive office of health and human services shall implement a transition plan to
+24 moderate the impact of the rate reform on individual nursing facilities. The transition shall include
+25 the following components:
+26 (1) No nursing facility shall receive reimbursement for direct-care costs that is less than
+27 the rate of reimbursement for direct-care costs received under the methodology in effect at the time
+28 of passage of this act; for the year beginning October 1, 2017, the reimbursement for direct-care
+29 costs under this provision will be phased out in twenty-five-percent (25%) increments each year
+30 until October 1, 2021, when the reimbursement will no longer be in effect; and
+31 (2) No facility shall lose or gain more than five dollars ($5.00) in its total, per diem rate the
+32 first year of the transition. An adjustment to the per diem loss or gain may be phased out by twenty-
+33 five percent (25%) each year; except, however, for the years beginning October 1, 2015, there shall
+34 be no adjustment to the per diem gain or loss, but the phase out shall resume thereafter; and
+LC005531 - Page 4 of 6
+
+1 (3) The transition plan and/or period may be modified upon full implementation of facility
+2 per diem rate increases for quality of care-related measures. Said modifications shall be submitted
+3 in a report to the general assembly at least six (6) months prior to implementation.
+4 (4) Notwithstanding any law to the contrary, for the twelve-month (12) period beginning
+5 July 1, 2015, Medicaid payment rates for nursing facilities established pursuant to this section shall
+6 not exceed ninety-eight percent (98%) of the rates in effect on April 1, 2015. Consistent with the
+7 other provisions of this chapter, nothing in this provision shall require the executive office to restore
+8 the rates to those in effect on April 1, 2015, at the end of this twelve-month (12) period.
+9 SECTION 2. This act shall take effect upon passage.
+========
+LC005531
+========
+LC005531 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE
+***
+1 This act would require the executive office of health and human services to consider a new
+2 element when reviewing the appropriate Medicaid payments to be paid to nursing facilities. The
+3 act would require the executive office to specifically review the increases in direct and indirect
+4 costs beginning October of 2027 to reflect changes using data from the most recent finalized year
+5 of a facility's costs.
+6 This act would take effect upon passage.
+========
+LC005531
+========
+LC005531 - Page 6 of 6

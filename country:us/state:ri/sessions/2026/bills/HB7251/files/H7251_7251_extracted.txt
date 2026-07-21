@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - 7251
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7251
+========
+LC003654
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC FINANCE -- STATE BUDGET
+Introduced By: Representatives Chippendale, Nardone, Place, Santucci, Paplauskas, J.
+Brien, Quattrocchi, Hopkins, and Fascia
+Date Introduced: January 21, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 35-3 of the General Laws entitled "State Budget" is hereby amended
+2 by adding thereto the following section:
+3 35-3-28. State spending growth limit.
+4 (a) Definitions. For purposes of this section:
+5 (1) "State spending" means the total amount of appropriations authorized by the general
+6 assembly from all sources of revenue in the annual state budget.
+7 (2) "Inflation rate" means the percentage change in the Consumer Price Index for All Urban
+8 Consumers (CPI-U) for the most recent calendar year, as published by the U.S. Bureau of Labor
+9 Statistics.
+10 (3) "Personal income growth rate" means the percentage change in Rhode Island personal
+11 income for the most recent calendar year, as published by the U.S. Bureau of Economic Analysis
+12 or other reliable source designated by the director of administration.
+13 (b) Spending growth limit. The total state spending authorized by the general assembly for
+14 any fiscal year shall not exceed the total state spending authorized for the previous fiscal year
+15 increased by the greater of:
+16 (1) The inflation rate for the most recent calendar year; or
+17 (2) The personal income growth rate for the most recent calendar year.
+18 (c) Exceptions. The spending limit set forth in subsection (b) of this section shall not apply
+19 to:
+
+1 (1) Expenditures for debt service payments or retirement of principal on bonds;
+2 (2) Federal funds received by the state and required to be spent under federal law;
+3 (3) Emergency expenditures declared by the governor and approved by a two-thirds (2/3)
+4 vote of the general assembly; and
+5 (4) Any other exceptions as the general assembly may prescribe by law.
+6 (d) Reporting. The director of administration shall annually publish a report comparing
+7 actual state spending growth with the limits set forth in this section and submit it to the governor
+8 and the general assembly.
+9 (e) Enforcement. If the general assembly authorizes spending that exceeds the limits in
+10 subsection (b) of this section, the governor shall provide a plan to reduce expenditures in the
+11 following fiscal year to comply with the limits.
+12 SECTION 2. This act shall take effect upon passage.
+========
+LC003654
+========
+LC003654 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC FINANCE -- STATE BUDGET
+***
+1 This act would limit growth in state spending from exceeding the amount of growth in
+2 inflation or personal income growth, whichever is greater.
+3 This act would take effect upon passage.
+========
+LC003654
+========
+LC003654 - Page 3 of 3

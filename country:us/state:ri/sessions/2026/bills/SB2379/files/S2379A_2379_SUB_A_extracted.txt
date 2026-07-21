@@ -1,0 +1,251 @@
+Title: 
+Official Title: 
+Source: versions - 2379  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2379 SUBSTITUTE A
+========
+LC003650/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- DEPARTMENT OF HEALTH
+Introduced By: Senators Ujifusa, Lawson, Ciccone, Tikoian, Appollonio, DiMario,
+Lauria, Valverde, Zurier, and Acosta
+Date Introduced: January 30, 2026
+Referred To: Senate Health & Human Services
+(Dept. of Health)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 23-1-44 of the General Laws in Chapter 23-1 entitled "Department
+2 of Health" is hereby amended to read as follows:
+3 23-1-44. Routine childhood and adult immunization vaccines.
+4 (a) The department of health shall include in the department’s immunization program those
+5 vaccines for routine childhood immunization as recommended by the Advisory Committee for
+6 Immunization Practices (ACIP) and the Academy of Pediatrics (AAP) or as determined by the
+7 director of the department of health to be necessary to protect the public health, and for routine
+8 adult immunization as recommended by the ACIP, or as determined by the director of the
+9 department of health to be necessary to protect the public health to the extent permitted by available
+10 funds. The immunization program includes administrative and quality assurance services and the
+11 Rhode Island Child and Adult Immunization Registry (RICAIR), a confidential, computerized
+12 information system that is used to manage statewide immunizations, for all persons in Rhode
+13 Island.
+14 (b) The director of the department of health shall appoint an advisory committee that will
+15 be convened after the ACIP makes a recommendation regarding immunization at the discretion of
+16 the director. The committee will review the ACIP recommendations for the state and director-
+17 initiated proposals for the state; assess the vaccine cost and feasibility; and advise the director of
+18 health and the office of the health insurance commissioner regarding insurers and providers acting
+19 on the ACIP immunization recommendation immunization recommendations or proposals. All
+
+1 recommendations will be posted on the department of health website. The advisory committee
+2 membership shall include, but not be limited to, a primary care provider, an epidemiologist, a
+3 pharmacist, major insurers, and at the discretion of the director, representatives of the nursing home
+4 industry, and the home healthcare industry and major insurers.
+5 (c) For the purpose of protecting patients’ information, all personally-identifiable
+6 information obtained pursuant to this section shall be subject to the privacy protections of chapter
+7 37.3 of title 5 and the Health Insurance Portability and Accountability Act of 1996, Pub. L. No.
+8 104-191 (HIPAA), as amended.
+9 SECTION 2. Section 23-101-2 of the General Laws in Chapter 23-101 entitled "Healthcare
+10 Provider Shield" is hereby amended to read as follows:
+11 23-101-2. Definitions.
+12 As used in this chapter, the followings words shall have the following meanings unless the
+13 context clearly indicates otherwise:
+14 (1) “Aggrieved person” means:
+15 (i) A person against whom hostile litigation is filed or prosecuted or the legal representative
+16 of a person against whom hostile litigation is filed or prosecuted; or
+17 (ii) The employer of a person against whom hostile litigation is filed or prosecuted if the
+18 legally protected healthcare activity or aiding and assisting legally protected healthcare activity of
+19 the person that forms the basis of the hostile litigation was performed within the scope of the
+20 person’s employment.
+21 (2) “Aid and assist legally protected healthcare activity” and “aiding and assisting legally
+22 protected healthcare activity” mean:
+23 (i) Any act or omission of a person aiding or effectuating or attempting to aid or effectuate
+24 any other person in legally protected healthcare activity; or
+25 (ii) The provision or administration of, or attempted provision or administration of,
+26 insurance coverage for gender-affirming healthcare services or reproductive healthcare services to
+27 a beneficiary or a dependent of a beneficiary by any insurer, payor, or employer.; or
+28 (iii) The prescription or administration, dispensing, or provision of, or attempted
+29 administration, dispensing, or provision of, a vaccination pursuant to the routine childhood and
+30 adult immunization vaccine recommendations that are developed under § 23-1-44; or
+31 (iii)(iv) “Aiding and assisting legally protected healthcare activity” does not include any
+32 conduct that violates Rhode Island law or deviates from the applicable standard of care or that could
+33 form the basis of a civil, criminal, or administrative action under the laws of this state had the
+34 course of conduct that forms the basis for liability occurred entirely within this state.
+LC003650/SUB A - Page 2 of 8
+
+1 (3) “Foreign judgment” means any judgment or decree of a court of another state.
+2 (4) “Gender-affirming healthcare services” means all supplies, care, and services of a
+3 medical, behavioral health, mental health, surgical, psychiatric, therapeutic, diagnostic, preventive,
+4 rehabilitative, or supportive nature, including medication, relating to the treatment of gender
+5 dysphoria and gender incongruence in accordance with the accepted standard of care as defined by
+6 major medical professional organizations and agencies with expertise in the field of gender-
+7 affirming health care, including the Standards of Care for the Health of Transgender and Gender
+8 Diverse People, Version 8, or subsequent version, published by the World Professional Association
+9 for Transgender Health. “Gender-affirming healthcare services” does not include conversion
+10 therapy as defined by § 23-94-2.
+11 (5) “Healthcare provider” means and shall apply to the following:
+12 (i) A qualified physician licensed pursuant to chapters 37 and 37.3 of title 5;
+13 (ii) A qualified osteopathic physician licensed pursuant to chapter 37 of title 5;
+14 (iii) A qualified physician assistant licensed pursuant to chapter 54 of title 5;
+15 (iv) A genetic counselor licensed pursuant to chapter 92 of title 5;
+16 (v) A qualified psychologist licensed pursuant to chapter 44 of title 5;
+17 (vi) A qualified social worker licensed pursuant to chapter 39.1 of title 5;
+18 (vii) An advanced practice registered nurse, and a certified nurse practitioner, licensed
+19 pursuant to chapter 34 of title 5, and a certified registered nurse anesthetist licensed pursuant to
+20 chapters 34 and 34.2 of title 5;
+21 (viii) A certified nurse midwife licensed pursuant to chapter 13 of this title;
+22 (ix) A licensed clinical mental health counselor or associate, and a licensed marriage and
+23 family therapist or associate, licensed pursuant to chapter 63.2 of title 5;
+24 (x) An electrologist licensed pursuant to chapter 32 of title 5;
+25 (xi) A speech-language pathologist licensed pursuant to chapter 48 of title 5;
+26 (xii) An occupational therapist licensed pursuant to chapter 40.1 of title 5;
+27 (xiii) A chiropractic physician licensed pursuant to chapter 30 of title 5; and
+28 (xiv) A pharmacist engaging in the practice of pharmacy and licensed pursuant to chapter
+29 19.1 of title 5.
+30 (6) “Hostile litigation” means any litigation or other legal action, including civil, criminal,
+31 or administrative action, to deter, prevent, sanction, or punish any person engaging in legally
+32 protected healthcare activity or aiding and assisting legally protected healthcare activity by:
+33 (i) Filing or prosecuting any litigation or other legal action in any other state where liability
+34 is based on legally protected healthcare activity or aiding and assisting legally protected healthcare
+LC003650/SUB A - Page 3 of 8
+
+1 activity that occurred in this state, including any action in which liability is based on any theory of
+2 vicarious, joint, or several liability; or
+3 (ii) Attempting to enforce any order or judgment issued in connection with any litigation
+4 or other legal action under subsection (6)(i) of this section by any party to the action or by any
+5 person acting on behalf of any party to the action.
+6 (iii) For purposes of this chapter, litigation or other legal action is based on legally protected
+7 healthcare activity or aiding and assisting legally protected healthcare activity that occurred in this
+8 state if any part of any act or omission involved in the course of conduct that forms the basis for
+9 liability in the action occurs or is initiated in this state, whether or not the act or omission is alleged
+10 or included in any pleading or other filing in the lawsuit.
+11 (7) “Law enforcement agency” means any police department in any city or town or the
+12 state police as defined in the general laws. For purposes of this act, a law enforcement agency may
+13 include any other non-federal entity in the state charged with the enforcement of laws relating to
+14 the custody of detained persons.
+15 (8) “Legally protected healthcare activity” means:
+16 (i) The exercise and enjoyment or attempted exercise and enjoyment by any person of the
+17 right secured by this state to gender-affirming healthcare services or reproductive healthcare
+18 services; and
+19 (ii) The provision or attempted provision of gender-affirming healthcare services or
+20 reproductive healthcare services that are permitted under the laws and regulations of this state and
+21 that are provided in accordance with the applicable standard of care by a person properly licensed
+22 under the laws of this state and physically present in this state, regardless of whether the patient is
+23 located in this state or whether the person is licensed in the state where the patient is located at the
+24 time the services are rendered.; and
+25 (iii) The provision or attempted provision of a routine childhood or adult immunization
+26 vaccine under § 23-1-44.
+27 (iii)(iv) “Legally protected healthcare activity” does not include any conduct that could
+28 form the basis of a civil, criminal, or administrative action under the laws of this state had the
+29 course of conduct that forms the basis for liability occurred entirely within this state and/or in
+30 violation of Rhode Island law.
+31 (9) “Reproductive healthcare services” means all supplies, care, and services of a medical,
+32 behavioral health, mental health, surgical, psychiatric, therapeutic, diagnostic, preventive,
+33 rehabilitative, or supportive nature, including medication, relating to pregnancy, contraception,
+34 assisted reproduction, pregnancy loss management, or the termination of a pregnancy in accordance
+LC003650/SUB A - Page 4 of 8
+
+1 with the applicable standard of care as defined by major medical professional organizations and
+2 agencies with expertise in the field of reproductive health care.
+3 (10) "Routine childhood and adult immunization vaccine recommendations" means
+4 vaccine recommendations as determined by the director of the department of health to be necessary
+5 to protect the public health under § 23-1-44.
+6 (10)(11) “State” means a state of the United States, the District of Columbia, Puerto Rico,
+7 the United States Virgin Islands or any territory or insular possession subject to the jurisdiction of
+8 the United States. The term “this state” refers to the state of Rhode Island.
+9 SECTION 3. Chapter 27-18 of the General Laws entitled "Accident and Sickness Insurance
+10 Policies" is hereby amended by adding thereto the following section:
+11 27-18-96. Coverage for vaccinations.
+12 Every individual or group medical service contract or every individual or group hospital or
+13 medical expense insurance policy, plan or group policy delivered, issued, or renewed in this state
+14 on or after January 1, 2027, shall provide coverage, without cost-sharing, for vaccinations
+15 recommended by the Rhode Island department of health (RIDOH).
+16 SECTION 4. Chapter 27-19 of the General Laws entitled "Nonprofit Hospital Service
+17 Corporations" is hereby amended by adding thereto the following section:
+18 27-19-88. Coverage for vaccinations.
+19 Every individual or group medical service contract or every individual or group hospital or
+20 medical expense insurance policy, plan or group policy delivered, issued, or renewed in this state
+21 on or after January 1, 2027, shall provide coverage, without cost-sharing, for vaccinations
+22 recommended by the Rhode Island department of health (RIDOH).
+23 SECTION 5. Chapter 27-20 of the General Laws entitled "Nonprofit Medical Service
+24 Corporations" is hereby amended by adding thereto the following section:
+25 27-20-84. Coverage for vaccinations.
+26 Every individual or group medical service contract or every individual or group hospital or
+27 medical expense insurance policy, plan or group policy delivered, issued, or renewed in this state
+28 on or after January 1, 2027, shall provide coverage, without cost-sharing, for vaccinations
+29 recommended by the Rhode Island department of health (RIDOH).
+30 SECTION 6. Chapter 27-41 of the General Laws entitled "Health Maintenance
+31 Organizations" is hereby amended by adding thereto the following section:
+32 27-41-101. Coverage for vaccinations.
+33 Every individual or group medical service contract or every individual or group hospital or
+34 medical expense insurance policy, plan or group policy delivered, issued, or renewed in this state
+LC003650/SUB A - Page 5 of 8
+
+1 on or after January 1, 2027, shall provide coverage, without cost-sharing, for vaccinations
+2 recommended by the Rhode Island department of health (RIDOH).
+3 SECTION 7. Chapter 40-8 of the General Laws entitled "Medical Assistance" is hereby
+4 amended by adding thereto the following section:
+5 40-8-33. Coverage for vaccinations.
+6 Commencing January 1, 2027, the medical assistance program shall provide coverage,
+7 without cost-sharing, for all vaccinations recommended by the Rhode Island department of health
+8 (RIDOH). This recommendation shall apply to all Medicaid beneficiaries, whether enrolled in fee-
+9 for-service or managed care, to the extent permitted under federal law.
+10 SECTION 8. Chapter 40-8.5 of the General Laws entitled "Health Care for Elderly and
+11 Disabled Residents Act" is hereby amended by adding thereto the following section:
+12 40-8.5-1.2. Coverage for vaccinations.
+13 (a) As used herein, "managed care systems" is defined as systems that: integrate an efficient
+14 financing mechanism with quality service delivery; provide a “medical home” to ensure appropriate
+15 care and deter unnecessary services; and place emphasis on preventive and primary care. For
+16 purposes of this section, managed care systems may also be defined to include a primary care case-
+17 management model, community health teams, and/or other such arrangements that meet standards
+18 established by the executive office and serve the purposes of this section. Managed care systems
+19 may also include services and supports that optimize the health and independence of beneficiaries
+20 who are determined to need Medicaid-funded long-term care under chapter 8.10 of this title (“long-
+21 term care service reform for Medicaid eligible individuals”) or to be at risk for the care under the
+22 applicable federal state plan or waiver authorities and the rules and regulations promulgated by the
+23 executive office. Any Medicaid beneficiaries who have third-party medical coverage or insurance
+24 may be provided such services through an entity certified by, or in a contractual arrangement with,
+25 the executive office or, as deemed appropriate, exempt from mandatory managed care in
+26 accordance with rules and regulations promulgated by the executive office.
+27 (b) Commencing January 1, 2027, any Medicaid managed care organizations under
+28 contract with the executive office of health and human services shall provide coverage, without
+29 cost-sharing, for vaccinations recommended by the Rhode Island department of health (RIDOH),
+30 to the extent permitted under federal law.
+31 SECTION 9. Chapter 36-12 of the General Laws entitled "Insurance Benefits" is hereby
+32 amended by adding thereto the following section:
+33 36-12-2.1.1. Coverage for vaccinations.
+34 Commencing January 1, 2027, the director of administration shall administer health benefit
+LC003650/SUB A - Page 6 of 8
+
+1 programs for state employees and retirees, and shall ensure that coverage is provided, without cost-
+2 sharing, for vaccinations recommended by the Rhode Island department of health (RIDOH).
+3 SECTION 10. Severability.
+4 If any section of this act or its application to any person or circumstance is held invalid, the
+5 invalidity shall not affect other sections or applications of the act that can be given effect without
+6 the invalid section or application, and to this end the sections of this act are declared severable.
+7 SECTION 11. This act shall take effect upon passage.
+========
+LC003650/SUB A
+========
+LC003650/SUB A - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- DEPARTMENT OF HEALTH
+***
+1 Commencing January 1, 2027, this act would mandate insurers provide health insurance
+2 coverage without cost-share requirements for vaccinations recommended by the state department
+3 of health and would mandate the coverage for the medical assistance program and managed care
+4 organizations.
+5 This act would take effect upon passage.
+========
+LC003650/SUB A
+========
+LC003650/SUB A - Page 8 of 8

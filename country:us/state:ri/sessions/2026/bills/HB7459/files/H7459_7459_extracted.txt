@@ -1,0 +1,405 @@
+Title: 
+Official Title: 
+Source: versions - 7459
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7459
+========
+LC003277
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO EDUCATION -- TEACHERS' RETIREMENT
+Introduced By: Representatives Paplauskas, Hopkins, McNamara, Nardone, Fascia,
+Place, Newberry, Read, Chippendale, and Roberts
+Date Introduced: January 30, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 16-16-12 of the General Laws in Chapter 16-16 entitled "Teachers’
+2 Retirement [See Title 16 Chapter 97 — The Rhode Island Board of Education Act]" is hereby
+3 amended to read as follows:
+4 16-16-12. Procedure for service retirement.
+5 Retirement of a member on a service retirement allowance shall be made by the retirement
+6 board as follows:
+7 (a)(i) Any member may retire upon his or her written application to the retirement board
+8 as of the first day of the calendar month in which the application was filed, provided the member
+9 was separated from service prior to filing the application, and further provided however, that if
+10 separation from service occurs during the month in which the application is filed, the effective date
+11 shall be the first day following the separation from service, and provided further that the member
+12 on retirement date has attained the age of sixty (60) years and has completed at least ten (10) years
+13 of contributory service on or before July 1, 2005, or regardless of age has completed twenty-eight
+14 (28) years of total service and has completed at least ten (10) years of contributory service on or
+15 before July 1, 2005, and who retire before October 1, 2009, or are eligible to retire as of September
+16 30, 2009.
+17 (ii) For teachers who become eligible to retire on or after October 1, 2009, and prior to July
+18 1, 2012, benefits are available to teachers who have attained the age of sixty-two (62) and
+19 completed at least ten (10) years of contributory service. For teachers in service as of October 1,
+
+1 2009, who were not eligible to retire as of September 30, 2009, but became eligible to retire prior
+2 to July 1, 2012, the minimum retirement age of sixty-two (62) will be adjusted downward in
+3 proportion to the amount of service the member has earned as of September 30, 2009. The
+4 proportional formula shall work as follows:
+5 (A) The formula shall determine the first age of retirement eligibility under the laws in
+6 effect on September 30, 2009, which shall then be subtracted from the minimum retirement age of
+7 sixty-two (62).
+8 (B) The formula shall then take the teacher’s total service credit as of September 30, 2009,
+9 as the numerator and the years of service credit determined under (A) as the denominator.
+10 (C) The fraction determined in (B) shall then be multiplied by the age difference in (1) to
+11 apply a reduction in years from age sixty-two (62).
+12 (b)(i) Any member, who has not completed at least ten (10) years of contributory service
+13 on or before July 1, 2005, may retire upon his or her written application to the retirement board as
+14 of the first day of the calendar month in which the application was filed; provided, the member was
+15 separated from service prior thereto; and further provided, however, that if separation from service
+16 occurs during the month in which application is filed, the effective date shall be the first day
+17 following that separation from service; provided, the member on his or her retirement date had
+18 attained the age of fifty-nine (59) and had completed at least twenty-nine (29) years of total service;
+19 or provided, that the member on his or her retirement date had attained the age of sixty-five (65)
+20 and had completed at least ten (10) years of contributory service; or provided, that the member on
+21 his or her retirement date had attained the age of fifty-five (55) and had completed twenty (20)
+22 years of total service and provided, that the retirement allowance, as determined according to the
+23 formula in § 16-16-13 is reduced actuarially for each month that the age of the member is less than
+24 sixty-five (65) years and who retire before October 1, 2009, or are eligible to retire as of September
+25 30, 2009.
+26 (ii) For teachers who become eligible to retire on or after October 1, 2009, and prior to July
+27 1, 2012, benefits are available to teachers who have attained the age of sixty-two (62) and have
+28 completed at least twenty-nine (29) years of total service or have attained the age of sixty-five (65)
+29 and completed at least ten (10) years of contributory service. For teachers in service as of October
+30 1, 2009, who were not eligible to retire as of September 30, 2009, but become eligible to retire prior
+31 to July 1, 2012, who have a minimum retirement age of sixty-two (62), the retirement age will be
+32 adjusted downward in proportion to the amount of service the member has earned as of September
+33 30, 2009. The proportional formula shall work as follows:
+34 (A) The formula shall determine the first age of retirement eligibility under the laws in
+LC003277 - Page 2 of 12
+
+1 effect on September 30, 2009, which shall then be subtracted from the minimum retirement age of
+2 sixty-two (62).
+3 (B) The formula shall then take the teacher’s total service credit as of September 30, 2009,
+4 as the numerator and the years of service credit determined under (A) as the denominator.
+5 (C) The fraction determined in (B) shall then be multiplied by the age difference
+6 determined in (A) to apply a reduction in years from age sixty-two (62).
+7 (c) Effective July 1, 2012, the following shall apply to all teachers not eligible to retire
+8 prior to July 1, 2012:
+9 (i) A teacher with contributory service on or after July 1, 2012, shall be eligible to retire
+10 upon the completion of at least five (5) years of contributory service and attainment of the teacher’s
+11 Social Security retirement age.
+12 (ii) For teachers with five (5) or more years of contributory service as of June 30, 2012,
+13 with contributory service on and after July 1, 2012, who have a retirement age of Social Security
+14 Retirement Age, the retirement age will be adjusted downward in proportion to the amount of
+15 service the teacher has earned as of June 30, 2012, but in no event shall a teacher’s retirement age
+16 under this subparagraph (ii) be prior to the attainment of age fifty-nine (59) or prior to the teacher’s
+17 retirement age determined under the laws in effect on June 30, 2012. The proportional formula shall
+18 work as follows:
+19 (1) The formula shall determine the first age of retirement eligibility under the laws in
+20 effect on June 30, 2012, which shall then be subtracted from Social Security retirement age;
+21 (2) The formula shall then take the teacher’s total service credit as of June 30, 2012, as the
+22 numerator and the projected service at retirement age in effect on June 30, 2012, as the
+23 denominator;
+24 (3) The fraction determined in (2) shall then be multiplied by the age difference determined
+25 in (1) to apply a reduction in years from Social Security retirement age.
+26 (iii) Effective July 1, 2015, a teacher who has completed twenty (20) or more years of total
+27 service and who has attained an age within five (5) years of the eligible retirement age under
+28 subdivisions (c)(i) or (c)(ii) above or subsection (d) below, may elect to retire provided that the
+29 retirement allowance shall be reduced actuarially for each month that the age of the teacher is less
+30 than the eligible retirement age under subdivisions (c)(i) or (c)(ii) above or subsection (d) below in
+31 accordance with the following table:
+32 Year Preceding Retirement Cumulative Annual Reduction Cumulative Monthly
+33 Reduction
+34 For Year 1 9% .75%
+LC003277 - Page 3 of 12
+
+1 For Year 2 8% .667%
+2 For Year 3 7% .583%
+3 For Year 4 7% .583%
+4 For Year 5 7% .583%
+5 (iv) Notwithstanding any other provisions of section § 16-16-12(c), a teacher who has
+6 completed ten (10) or more years of contributory service as of June 30, 2012, may elect to retire at
+7 his or her eligible retirement date as determined under subsections (a) and (b) above provided that
+8 a teacher making an election under this paragraph shall receive the teacher’s retirement benefit
+9 determined and calculated based on the teacher’s service and average compensation as of June 30,
+10 2012. This provision shall be interpreted and administered in a manner to protect a teacher’s
+11 accrued benefit on June 30, 2012.
+12 (d)(i) Notwithstanding any other provisions of subsection (c) above, effective July 1, 2015,
+13 teachers in active service shall be eligible to retire upon the earlier of:
+14 (A) The attainment of at least age sixty-five (65) and the completion of at least thirty (30)
+15 years of total service, or the attainment of at least age sixty-four (64) and the completion of at least
+16 thirty-one (31) years of total service, or the attainment of at least age sixty-three (63) and the
+17 completion of at least thirty-two (32) years of total service, or the attainment of at least age sixty-
+18 two (62) and the completion of at least thirty-three (33) years of total service; or
+19 (B) The teacher’s retirement eligibility date under subsections (c)(i) or (c)(ii) above.
+20 (ii) Notwithstanding any other provisions of subsection (c) or subsection (d)(i) of this
+21 section, commencing July 1, 2026, teachers in active service shall be eligible to retire upon the
+22 earlier of:
+23 (A) The attainment of at least age sixty-five (65) and the completion of at least twenty-
+24 eight (28) years of total service, or the attainment of at least age sixty-four (64) and the completion
+25 of at least twenty-nine (29) years of total service, or the attainment of at least age sixty-three (63)
+26 and the completion of at least thirty (30) years of total service, or the attainment of at least age
+27 sixty-two (62) and the completion of at least thirty-one (31) years of total service; or
+28 (B) The teacher's retirement eligibility date under subsections (c)(i) or (c)(ii) of this section.
+29 (e) Except as specifically provided in §§ 36-10-9.1, 36-10-12 through 36-10-15, and 45-
+30 21-19 through 45-21-22, no member shall be eligible for pension benefits under this chapter unless
+31 (i) The member shall have been a contributing member of the employees’ retirement
+32 system for at least ten (10) years; or
+33 (ii) For teachers in active contributory service on or after July 1, 2012, the teacher shall
+34 have been a contributing member of the employees’ retirement system for at least five (5) years.
+LC003277 - Page 4 of 12
+
+1 (2) Provided, however, a person who has ten (10) years service credit shall be vested;
+2 provided that for teachers in active contributory service on or after July 1, 2012, a teacher who has
+3 five (5) years of contributory service shall be vested.
+4 (3) Furthermore, any past service credits purchased in accordance with § 36-9-38 shall be
+5 counted towards vesting.
+6 (4) Any person who becomes a member of the employees’ retirement system pursuant to
+7 § 45-21-8 shall be considered a contributing member for the purpose of chapter 21 of title 45 and
+8 this chapter.
+9 (5) Notwithstanding any other provision of law, no more than five (5) years of service
+10 credit may be purchased by a member of the system. The five (5) year limit shall not apply to any
+11 purchases made prior to January 1, 1995. A member who has purchased more than five (5) years
+12 of service credit before January 1, 1995, shall be permitted to apply the purchases towards the
+13 member’s service retirement. However, no further purchase will be permitted.
+14 (6) Notwithstanding any other provision of law, effective July 1, 2012, except for purchases
+15 under §§ 16-16-7.1, 36-5-3, 36-9-31, 36-10-10.4, and 45-21-53:
+16 (i) For service purchases for time periods prior to a teacher’s initial date of hire, the
+17 purchase must be made within three (3) years of the teacher’s initial date of hire; and
+18 (ii) For service purchases for time periods for official periods of leave as authorized by
+19 law, the purchase must be made within three (3) years of the time the official leave was concluded
+20 by the teacher. Notwithstanding paragraphs (i) and (ii) above, service purchases from time periods
+21 prior to June 30, 2012, may be made on or prior to June 30, 2015.
+22 (f) No member of the teachers’ retirement system shall be permitted to purchase service
+23 credits for casual or seasonal employment, for employment as a temporary or emergency employee,
+24 a page in the general assembly, or for employment at any state college or university while the
+25 employee is a student or graduate of the college or university.
+26 (g) Except as specifically provided in §§ 16-16-6.2 and 16-16-6.4, a member shall not
+27 receive service credit in this retirement system for any year or portion of a year which counts as
+28 service credit in any other retirement system in which the member is vested or from which the
+29 member is receiving a pension and/or any annual payment for life. This subsection shall not apply
+30 to any payments received pursuant to the federal Social Security Act, 42 U.S.C. § 301 et seq.
+31 (h) A member who seeks to purchase or receive service credit in this retirement system
+32 shall have the affirmative duty to disclose to the retirement board whether or not he or she is a
+33 vested member in any other retirement system and/or is receiving a pension, retirement allowance,
+34 or any annual payment for life. The retirement board shall have the right to investigate as to whether
+LC003277 - Page 5 of 12
+
+1 or not the member has utilized the same time of service for credit in any other retirement system.
+2 The member has an affirmative duty to cooperate with the retirement board including, by way of
+3 illustration and not by way of limitation, the duty to furnish or have furnished to the retirement
+4 board any relevant information that is protected by any privacy act.
+5 (i) A member who fails to cooperate with the retirement board shall not have the time of
+6 service credit counted toward total service credit until the time the member cooperates with the
+7 retirement board and until the time the retirement board determines the validity of the service credit.
+8 (j) A member who knowingly makes a false statement to the retirement board regarding
+9 service time or credit shall not be entitled to a retirement allowance and is entitled only to the return
+10 of his or her contributions without interest.
+11 SECTION 2. Section 36-10-9 of the General Laws in Chapter 36-10 entitled "Retirement
+12 System — Contributions and Benefits" is hereby amended to read as follows:
+13 36-10-9. Retirement on service allowance — In general.
+14 Retirement of a member on a service retirement allowance shall be made by the retirement
+15 board as follows:
+16 (1)(a)(i) Any member may retire upon his or her written application to the retirement board
+17 as of the first day of the calendar month in which the application was filed; provided, the member
+18 was separated from service prior thereto; and further provided, however, that if separation from
+19 service occurs during the month in which application is filed, the effective date shall be the first
+20 day following that separation from service; and provided further that the member on his or her
+21 retirement date attained the age of sixty (60) and completed at least ten (10) years of contributory
+22 service on or before July 1, 2005, or who, regardless of age, has completed twenty-eight (28) years
+23 of total service and has completed at least ten (10) years of contributory service on or before July
+24 1, 2005, and who retire before October 1, 2009, or are eligible to retire as of September 30, 2009.
+25 (ii) For members who become eligible to retire on or after October 1, 2009, and prior to
+26 July 1, 2012, benefits are available to members who have attained the age of sixty-two (62) and
+27 completed at least ten (10) years of contributory service. For members in service as of October 1,
+28 2009, who were not eligible to retire as of September 30, 2009, but become eligible to retire prior
+29 to July 1, 2012, the minimum retirement age of sixty-two (62) will be adjusted downward in
+30 proportion to the amount of service the member has earned as of September 30, 2009. The
+31 proportional formula shall work as follows:
+32 (1) The formula shall determine the first age of retirement eligibility under the laws in
+33 effect on September 30, 2009, which shall then be subtracted from the minimum retirement age of
+34 sixty-two (62).
+LC003277 - Page 6 of 12
+
+1 (2) The formula shall then take the member’s total service credit as of September 30, 2009,
+2 as the numerator and the years of service credit determined under (1) as the denominator.
+3 (3) The fraction determined in (2) shall then be multiplied by the age difference determined
+4 in (1) to apply a reduction in years from age sixty-two (62).
+5 (b)(i) Any member, who has not completed at least ten (10) years of contributory service
+6 on or before July 1, 2005, may retire upon his or her written application to the retirement board as
+7 of the first day of the calendar month in which the application was filed; provided, the member was
+8 separated from service prior thereto; and further provided, however, that if separation from service
+9 occurs during the month in which application is filed, the effective date shall be the first day
+10 following that separation from service; provided, the member or his or her retirement date had
+11 attained the age of fifty-nine (59) and had completed at least twenty-nine (29) years of total service
+12 or provided that the member on his or her retirement date had attained the age of sixty-five (65)
+13 and had completed at least ten (10) years of contributory service; or provided, that the member on
+14 his or her retirement date had attained the age of fifty-five (55) and had completed twenty (20)
+15 years of total service provided, that the retirement allowance, as determined according to the
+16 formula in § 36-10-10 is reduced actuarially for each month that the age of the member is less than
+17 sixty-five (65) years, and who retire before October 1, 2009, or are eligible to retire as of September
+18 30, 2009.
+19 (ii) For members who become eligible to retire on or after October 1, 2009 and prior to
+20 July 1, 2012, benefits are available to members who have attained the age of sixty-two (62) and
+21 completed at least twenty-nine (29) years of total service or have attained the age of sixty-five (65)
+22 and completed at least ten (10) years of contributory service. For members in service as of October
+23 1, 2009, who were not eligible to retire as of September 30, 2009, but become eligible to retire prior
+24 to July 1, 2012, who have a minimum retirement age of sixty-two (62), the retirement age will be
+25 adjusted downward in proportion to the amount of service the member has earned as of September
+26 30, 2009. The proportional formula shall work as follows:
+27 (1) The formula shall determine the first age of retirement eligibility under the laws in
+28 effect on September 30, 2009, which shall then be subtracted from the minimum retirement age of
+29 sixty-two (62).
+30 (2) The formula shall then take the member’s total service credit as of September 30, 2009,
+31 as the numerator and the years of service credit determined under (1) as the denominator.
+32 (3) The fraction determined in (2) above shall then be multiplied by the age difference
+33 determined in (1) to apply a reduction in years from age sixty-two (62).
+34 (c) Effective July 1, 2012, the following shall apply to all members not eligible to retire
+LC003277 - Page 7 of 12
+
+1 prior to July 1, 2012:
+2 (i) A member with contributory service on or after July 1, 2012, shall be eligible to retire
+3 upon the completion of at least five (5) years of contributory service and attainment of the member’s
+4 Social Security retirement age.
+5 (ii) For members with five (5) or more years of contributory service as of June 30, 2012,
+6 with contributory service on and after July 1, 2012, who have a retirement age of Social Security
+7 Retirement Age, the retirement age will be adjusted downward in proportion to the amount of
+8 service the member has earned as of June 30, 2012, but in no event shall a member’s retirement
+9 age under this subparagraph (ii) be prior to the attainment of age fifty-nine (59) or prior to the
+10 member’s retirement age determined under the laws in effect on June 30, 2012. The proportional
+11 formula shall work as follows:
+12 (1) The formula shall determine the first age of retirement eligibility under the laws in
+13 effect on June 30, 2012, which shall then be subtracted from Social Security retirement age;
+14 (2) The formula shall then take the member’s total service credit as of June 30, 2012, as
+15 the numerator and the projected service at retirement age in effect on June 30, 2012, as the
+16 denominator;
+17 (3) The fraction determined in (2) shall then be multiplied by the age difference determined
+18 in (1) to apply a reduction in years from Social Security retirement age.
+19 (iii) Effective July 1, 2015, a member who has completed twenty (20) or more years of
+20 total service and who has attained an age within five (5) years of the eligible retirement age under
+21 subparagraphs (c)(i) or (c)(ii) above or subsection (d) below, may elect to retire provided that the
+22 retirement allowance shall be reduced actuarially for each month that the age of the member is less
+23 than the eligible retirement age under subparagraphs (c)(i) or (c)(ii) above or subsection (d) below
+24 in accordance with the following table:
+25 Year Preceding Retirement Cumulative Annual Reduction Cumulative Monthly
+26 Reduction
+27 For Year 1 9% .75%
+28 For Year 2 8% .667%
+29 For Year 3 7% .583%
+30 For Year 4 7% .583%
+31 For Year 5 7% .583%
+32 (iv) Notwithstanding any other provisions of section 36-10-9(c), a member who has
+33 completed ten (10) or more years of contributory service as of June 30, 2012, may elect to retire at
+34 his or her eligible retirement date as determined under paragraphs (1)(a) and (1)(b) above provided
+LC003277 - Page 8 of 12
+
+1 that a member making an election under this paragraph shall receive the member’s retirement
+2 benefit determined and calculated based on the member’s service and average compensation as of
+3 June 30, 2012. This provision shall be interpreted and administered in a manner to protect a
+4 member’s accrued benefit on June 30, 2012.
+5 (d)(i) Notwithstanding any other provisions of subsection (c) above, effective July 1, 2015,
+6 members in active service shall be eligible to retire upon the earlier of: (A) The attainment of at
+7 least age sixty-five (65) and the completion of at least thirty (30) years of total service, or the
+8 attainment of at least age sixty-four (64) and the completion of at least thirty-one (31) years of total
+9 service, or the attainment of at least age sixty-three (63) and the completion of at least thirty-two
+10 (32) years of total service, or the attainment of at least age sixty-two (62) and the completion of at
+11 least thirty-three (33) years of total service; or (B) The member’s retirement eligibility date under
+12 subsections (c)(i) or (c)(ii) above.
+13 (ii) Notwithstanding any other provisions of subsection (c) or subsection (d)(i) of this
+14 section, commencing July 1, 2026, teachers in active service shall be eligible to retire upon the
+15 earlier of:
+16 (A) The attainment of at least age sixty-five (65) and the completion of at least twenty-
+17 eight (28) years of total service, or the attainment of at least age sixty-four (64) and the completion
+18 of at least twenty-nine (29) years of total service, or the attainment of at least age sixty-three (63)
+19 and the completion of at least thirty (30) years of total service, or the attainment of at least age
+20 sixty-two (62) and the completion of at least thirty-one (31) years of total service; or
+21 (B) The teacher's retirement eligibility date under subsections (c)(i) or (c)(ii) of this
+22 section.
+23 (2) Any faculty employee at a public institution of higher education under the jurisdiction
+24 of the council on postsecondary education shall not be involuntarily retired upon attaining the age
+25 of seventy (70) years.
+26 (3)(i) Except as specifically provided in § 36-10-9.1, §§ 36-10-12 — 36-10-15, and §§ 45-
+27 21-19 — 45-21-22, (I) On or prior to June 30, 2012 no member shall be eligible for pension benefits
+28 under this chapter unless the member shall have been a contributing member of the employee’s
+29 retirement system for at least ten (10) years, or (II) For members in active contributory service on
+30 or after July 1, 2012, the member shall have been a contributing member of the retirement system
+31 for at least five (5) years.
+32 (ii) Provided, however, a person who has ten (10) years service credit on or before June 16,
+33 1991, shall be vested.
+34 (iii) Furthermore, any past service credits purchased in accordance with § 36-9-38 shall be
+LC003277 - Page 9 of 12
+
+1 counted towards vesting.
+2 (iv) Any person who becomes a member of the employees’ retirement system pursuant to
+3 § 45-21-4 shall be considered a contributing member for the purpose of chapter 21 of title 45 and
+4 this chapter.
+5 (v) Notwithstanding any other provision of law, no more than five (5) years of service
+6 credit may be purchased by a member of the system. The five (5) year limit shall not apply to any
+7 purchases made prior to January 1, 1995. A member who has purchased more than five (5) years
+8 of service credits before January 1, 1995, shall be permitted to apply those purchases towards the
+9 member’s service retirement. However, no further purchase will be permitted. Repayment in
+10 accordance with applicable law and regulation of any contribution previously withdrawn from the
+11 system shall not be deemed a purchase of service credit.
+12 (vi) Notwithstanding any other provision of law, effective July 1, 2012, except for
+13 purchases under §§ 16-16-7.1, 36-5-3, 36-9-31, 36-10-10.4, and 45-21-53, (A) For service
+14 purchases for time periods prior to a member’s initial date of hire, the purchase must be made
+15 within three (3) years of the member’s initial date of hire, (B) For service purchases for time periods
+16 for official periods of leave as authorized by law, the purchase must be made within three (3) years
+17 of the time the official leave was concluded by the member. Notwithstanding the preceding
+18 sentence, service purchases from time periods prior to June 30, 2012, may be made on or prior to
+19 June 30, 2015.
+20 (4) No member of the employees’ retirement system shall be permitted to purchase service
+21 credits for casual, seasonal, or temporary employment, or emergency appointment, for employment
+22 as a page in the general assembly, or for employment at any state college or university while the
+23 employee is a student or graduate assistant of the college or university.
+24 (5) Except as specifically provided in §§ 16-16-6.2 and 16-16-6.4, a member shall not
+25 receive service credit in this retirement system for any year or portion of it, which counts as service
+26 credit in any other retirement system in which the member is vested or from which the member is
+27 receiving a pension and/or any annual payment for life. This subsection shall not apply to any
+28 payments received pursuant to the federal Social Security Act or to payments from a military
+29 pension earned prior to participation in state or municipal employment, or to military service credits
+30 earned prior to participation in state or municipal employment.
+31 (6) A member who seeks to purchase or receive service credit in this retirement system
+32 shall have the affirmative duty to disclose to the retirement board whether or not he or she is a
+33 vested member in any other retirement system and/or is receiving a pension, retirement allowance,
+34 or any annual payment for life. The retirement board shall have the right to investigate as to whether
+LC003277 - Page 10 of 12
+
+1 or not the member has utilized the same time of service for credit in any other retirement system.
+2 The member has an affirmative duty to cooperate with the retirement board including, by way of
+3 illustration and not by way of limitations the duty to furnish or have furnished to the retirement
+4 board any relevant information which is protected by any privacy act.
+5 (7) A member who fails to cooperate with the retirement board shall not have the time of
+6 service counted toward total service credit until such time as the member cooperates with the
+7 retirement board and until such time as the retirement board determines the validity of the service
+8 credit.
+9 (8) A member who knowingly makes a false statement to the retirement board regarding
+10 service time or credit shall not be entitled to a retirement allowance and is entitled only to the return
+11 of his or her contributions without interest.
+12 SECTION 3. This act shall take effect upon passage.
+========
+LC003277
+========
+LC003277 - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- TEACHERS' RETIREMENT
+***
+1 This act would allow teachers to retire earlier upon what would be referred to as a Rule of
+2 93, rather than the existing Rule of 95 under present state statutes under the following formula:
+3 • Upon reaching the age of at least sixty-five (65) and completing at least twenty-eight (28)
+4 years of total service; or
+5 • Upon reaching the age of at least sixty-four (64) and completing at least twenty-nine (29)
+6 years of total service; or
+7 • Upon reaching the age of at least sixty-three (63) and completing at least thirty (30) years of
+8 total service; or
+9 • Upon reaching the age of at least sixty-two (62) and completing at least thirty-one (31) years
+10 of total service.
+11 This act would take effect upon passage.
+========
+LC003277
+========
+LC003277 - Page 12 of 12
