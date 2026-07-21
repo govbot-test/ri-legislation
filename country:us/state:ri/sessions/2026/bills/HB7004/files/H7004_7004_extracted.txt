@@ -1,0 +1,245 @@
+Title: 
+Official Title: 
+Source: versions - 7004
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7004
+========
+LC003571
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND CLIMATE
+SUPERFUND ACT OF 2026
+Introduced By: Representatives Boylan, Handy, Knight, McGaw, Bennett, Potter,
+Fogarty, Spears, and Speakman
+Date Introduced: January 07, 2026
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and purpose.
+2 The general assembly hereby finds and declares the following:
+3 (1) Climate change caused by the combustion of fossil fuels is an immediate and grave
+4 threat to the people, environment, natural resources, and economy of the state.
+5 (2) Rising sea levels and temperatures, extreme weather events, flooding, heat waves,
+6 droughts, and other climate change effects have harmed or killed countless humans and other living
+7 organisms.
+8 (3) Beginning decades ago, major fossil fuel producers engaged in conduct they knew or
+9 reasonably should have known would cause or contribute to climate-change-related damages,
+10 including sea level rise, storm intensification, and heat impacts.
+11 (4) As a state with over four hundred (400) miles of coastline and an economy dependent
+12 on tourism and marine trades, Rhode Island is especially vulnerable to economic and social harms
+13 caused by climate change.
+14 (5) All Rhode Islanders are adversely affected by climate change, but harms fall
+15 disproportionately on seniors, children, low-income, and minority communities.
+16 (6) The state and municipalities have developed and implemented plans to counteract,
+17 mitigate, and prevent the adverse effects of climate change and must continue to do so to protect
+18 the health and safety of Rhode Islanders.
+
+1 (7) The costs of such plans and implementation have fallen and will continue to fall almost
+2 exclusively on taxpayers.
+3 (8) The fossil fuel companies whose products caused or contributed to climate-change-
+4 related damages should bear a fair and proportionate share of the costs necessary to respond to
+5 those harms, consistent with the well-established “polluter pays” and Superfund principles.
+6 (9) This Act is a remedial cost-recovery measure that compensates public entities for
+7 expenditures made necessary by the conduct of responsible fossil fuel companies.
+8 (10) Fair shares from these corporations can be accurately determined by analyzing the
+9 amounts of “greenhouse gas emissions,” including, but not limited to, carbon dioxide and methane,
+10 attributable to their extraction or refining of fossil fuels.
+11 (11) Chapter 6.3 of title 42 shall assist the state and municipalities in making polluters pay
+12 and support other private and public efforts to hold them responsible.
+13 (12) More than seventy percent (70%) of the increase in atmospheric greenhouse gas
+14 concentrations since the Industrial Revolution has occurred since 1950, with a significant
+15 acceleration in emissions after the year 2000. By that time, the scientific consensus regarding the
+16 causes and impacts of climate change was well established, and the data necessary to attribute
+17 proportional responsibility for greenhouse gas emissions during the covered period is scientifically
+18 robust.
+19 SECTION 2. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+20 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+21 CHAPTER 6.3
+22 RHODE ISLAND CLIMATE SUPERFUND ACT OF 2026
+23 42-6.3.-1. Short title.
+24 This chapter shall be known and may be cited as the “Rhode Island Climate Superfund Act
+25 of 2026”.
+26 42-6.3-2. Definitions.
+27 For purposes of this chapter, the following terms shall have the following meanings unless
+28 the context clearly requires otherwise:
+29 (1) "Account" means the climate superfund account established pursuant to § 42-6.3-3(e).
+30 (2) “Accepted attribution methodology” means a transparent, scientific approach used to
+31 quantify a responsible party’s share of greenhouse gas emissions, that is consistent with
+32 methodologies recognized by the Intergovernmental Panel on Climate Change ("IPCC") of the
+33 United Nations including using the U.S. Environmental Protection Agency’s Emissions Factors for
+34 Greenhouse Gas Inventories as applied to the fossil fuel volume data for the purpose of determining
+LC003571 - Page 2 of 8
+
+1 the amount of covered greenhouse gas emissions attributable to any entity from the fossil fuel
+2 production of that entity.
+3 (3) "Climate change response work" means the planning, design, construction, operation,
+4 maintenance, repair, or improvement of projects necessary to protect people, property, natural
+5 resources, public health, and the state’s economy from the impacts of climate change, including sea
+6 level rise, flooding, storm surge, extreme heat, drought, erosion, and other climate-driven hazards.
+7 Climate change response work includes, but is not limited to:
+8 (i) Coastal and flood protection and resilience projects;
+9 (ii) Stormwater management, drainage, and water infrastructure upgrades;
+10 (iii) Heat mitigation, air quality improvement, emergency preparedness, and other hazard-
+11 protection measures that safeguard public health;
+12 (iv) Resilient transportation, housing, and community infrastructure;
+13 (v) Energy system resilience, including grid modernization and distributed energy
+14 resources;
+15 (vi) Ecosystem, agricultural, forest, watershed, and fisheries restoration or protection
+16 projects; and
+17 (vii) Hazard mitigation planning, modeling, monitoring, and early warning systems.
+18 (4) "Cost recovery demand” means a charge asserted against a responsible party for cost
+19 recovery payments under the program for payment to the fund.
+20 (5) "Covered greenhouse gas emissions" means the total quantity of greenhouse gasses
+21 attributable to a responsible party’s extraction or refining of fossil fuels during the covered period,
+22 expressed in metric tons of carbon dioxide equivalent.
+23 (6) "Covered period" means the period that began January 1, 2000, to December 31, 2025.
+24 (7) "Department" or “DEM” means the department of environmental management.
+25 (8) "Director" means director of the department of environmental management (DEM).
+26 (9) "Fossil fuel” means coal, petroleum products, bitumen, oil sands, heavy oil,
+27 conventional and unconventional oil, shale oil, natural gas liquids, condensates, and related fossil
+28 fuels and fuel gasses, including methane, natural gas, liquefied natural gas, and manufactured fuel
+29 gasses.
+30 (10) "Greenhouse gas" means any substance that causes or contributes to climate change
+31 including, but not limited to, carbon dioxide, methane, nitrous oxide, hydrofluorocarbons,
+32 perfluorocarbons and sulfur hexafluoride.
+33 (11) "Program" means the climate superfund cost recovery program established by this
+34 chapter.
+LC003571 - Page 3 of 8
+
+1 (12) "Qualifying expenditure" means funds authorized by the DEM to be used to pay for
+2 climate change response work.
+3 (13) "Responsible party" means any entity (or successor in interest to such entity described
+4 in this subsection), which, during any part of the covered period, engaged in the trade or business
+5 of extracting or refining fossil fuel or refining crude oil and is determined by the department to be
+6 responsible for more than one billion (1,000,000,000) tons of covered greenhouse gas emissions.
+7 The term responsible party shall not include any person who lacks sufficient connection with the
+8 state to satisfy the nexus requirements of the United States Constitution.
+9 42-6.3-3. Implementation.
+10 (a) Administrative authority.
+11 To implement, enforce, and administer the provisions of this chapter, the department may:
+12 (1) Appoint or engage necessary staff, including full-time equivalent positions and
+13 contracted services, consistent with applicable state personnel and procurement laws; and
+14 (2) Adopt rules and regulations pursuant to chapter 35 of title 42 (“administrative
+15 procedures”) to implement, enforce, and administer the provisions of this chapter.
+16 (b) Expenditure inventory and report.
+17 Within twelve (12) months of the effective date of this chapter, the department shall
+18 identify climate change response work eligible for cost recovery under this chapter undertaken by
+19 the state and municipalities or needed in the future and their corresponding expenditures, and
+20 provide its report to the public on the department's website.
+21 (c) Proportional liability calculations and demands.
+22 (1) Within eighteen (18) months of the effective date of this chapter, the department shall
+23 determine proportional amounts owed by responsible parties for climate change response work
+24 during the covered period using accepted attribution methodology and issue cost recovery demands
+25 to responsible parties.
+26 (2) The department may adjust the cost recovery demand amount of a responsible party
+27 who refined petroleum products or who is a successor in interest to an entity that refines petroleum
+28 products if the responsible party establishes to the satisfaction of the department that:
+29 (i) A portion of the cost recovery demand amount was attributable to the refining of crude
+30 oil extracted by another responsible party; and
+31 (ii) The crude oil extracted by the other entity was accounted for when the department
+32 determined the cost recovery demand amount for the other entity or a successor in interest of the
+33 other entity
+34 (d) Information requests.
+LC003571 - Page 4 of 8
+
+1 (1) The department may require from any responsible party any information or records
+2 needed to administer or enforce this chapter, and responsible parties shall produce all requested
+3 materials in a timely manner.
+4 (2) Information may be withheld only if protected by law. The responsible party bears the
+5 full burden of proving such protection and shall, at the time of response, identify each withheld
+6 portion, cite the legal basis, and briefly explain the claim. Unsubstantiated claims shall require full
+7 production.
+8 (e) Climate superfund account.
+9 A climate superfund account shall be established within the office of the general treasurer.
+10 The department shall accept and collect payments from responsible parties and deposit them into
+11 the established account and shall ensure that funds only be used for qualified expenditures under
+12 this program.
+13 (f) Reimbursements
+14 The DEM shall distribute funds to municipalities, tribal governments, and community
+15 organizations to reimburse eligible climate change response costs under a transparent and equitable
+16 allocation system.
+17 (g) Coordination.
+18 The DEM shall coordinate with the attorney general, department of health, and the office
+19 of energy resources to ensure equitable implementation and enforcement.
+20 (h) Other remedies preserved.
+21 Nothing in this chapter shall be construed to supersede or diminish any other remedies
+22 available to any person or government entity under common law or statute.
+23 (i) Emergency regulations.
+24 The department may prescribe, adopt, and enforce emergency regulations as necessary to
+25 implement, administer, and enforce its duties under this chapter.
+26 42-6.3-4. Liability of responsible parties.
+27 (a) Aggregated entities.
+28 When two (2) or more entities may be treated as a single entity under 26 U.S.C. §§ 52(a),
+29 52(b), 414(m), 414(o), or 1563 (without regard to 26 U.S.C. § 52(c)), they shall share joint and
+30 several liability and be treated as a single entity for the purposes of identifying responsible parties.
+31 (b) Payment deadline.
+32 Except as provided in subsection (c)(1), a responsible party shall pay the amount demanded
+33 in full within six (6) months after issuance of the cost recovery demand.
+34 (c) Installment payments.
+LC003571 - Page 5 of 8
+
+1 (1) The director may implement an installment plan, but no adjustments shall be allowed
+2 if the amount demanded is less than one-tenth of one percent (0.1%) of the average total profits of
+3 a responsible party over the past five (5) years.
+4 (2) Reasonable interest shall be charged on delayed payments.
+5 (3) The unpaid balance of all installments becomes immediately due if:
+6 (i) A responsible party fails to pay an installment on time;
+7 (ii) A responsible party ceases to do business; or
+8 (iii) Substantially all assets are sold, in which case the buyer assumes liability.
+9 (d) Administrative hearings and appeals.
+10 A responsible party may request reconsideration within thirty (30) days and may appeal a
+11 final decision to the superior court within twenty (20) days.
+12 42-6.3-5. Enforcement.
+13 (a) Authority.
+14 The department and the office of the attorney general shall have concurrent authority to
+15 enforce this chapter, pursue violations, and recover all costs, penalties, and other relief as provided
+16 by law.
+17 (b) Penalties for late payment.
+18 The department may collect penalties for late payment. The late penalty shall accrue daily
+19 at ten percent (10%) per annum on the unpaid amount.
+20 (c) Preservation of rights.
+21 This chapter does not preempt any rights or remedies of the state, units of local government,
+22 tribal governments, or individuals or groups under common law or any federal or state law.
+23 (d) No preemption of other climate laws.
+24 This chapter does not preempt or supersede any state law or local ordinance regarding
+25 greenhouse gasses that:
+26 (1) Limits or enforces emissions standards;
+27 (2) Monitors, reports, or keeps records of emissions;
+28 (3) Collects revenue through fees or levies; or
+29 (4) Conducts or supports investigations.
+30 42-6.3-6. Severability.
+31 If any part of this chapter is adjudged invalid, such judgment shall not affect the remainder
+32 of the provisions of this chapter, which shall continue in full force and effect.
+LC003571 - Page 6 of 8
+
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC003571
+========
+LC003571 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND CLIMATE
+SUPERFUND ACT OF 2026
+***
+1 This act would create a Rhode Island Climate Superfund and direct the department of
+2 environmental management (DEM) to assess, pursue cost recovery demands, and charge a
+3 responsible party for climate change response work. This charge would include, but would not be
+4 limited to, maintenance, repair, or improvement of projects necessary to protect people, property,
+5 natural resources, public health, and the State’s economy from the impacts of climate change. This
+6 act would also authorize the creation of a climate superfund account.
+7 This act would take effect upon passage.
+========
+LC003571
+========
+LC003571 - Page 8 of 8

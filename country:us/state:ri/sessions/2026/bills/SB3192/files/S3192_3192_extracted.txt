@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - 3192
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3192
+========
+LC005223
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- ABUSE IN HEALTHCARE FACILITIES
+Introduced By: Senators Famiglietti, LaMountain, Dimitri, Bissaillon, Patalano, and
+McKenney
+Date Introduced: April 03, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 23-17.8-1 of the General Laws in Chapter 23-17.8 entitled "Abuse in
+2 Healthcare Facilities" is hereby amended to read as follows:
+3 23-17.8-1. Definitions.
+4 (a)(1) “Abuse” means:
+5 (i) Any assault as defined in chapter 5 of title 11, including, but not limited to, hitting,
+6 kicking, pinching, slapping, or the pulling of hair; provided, however, unless it is required as an
+7 element of the offense charged, it shall not be necessary to prove that the patient or resident was
+8 injured by the assault;
+9 (ii) Any assault as defined in chapter 37 of title 11;
+10 (iii) Any offense under chapter 10 of title 11;
+11 (iv) Any conduct that harms or is likely to physically harm the patient or resident except
+12 where the conduct is a part of the care and treatment, and in furtherance of the health and safety of
+13 the patient or resident; or
+14 (v) Intentionally engaging Engaging in a pattern of harassing conduct that causes or is
+15 likely to cause emotional or psychological harm to the patient or resident, including but not limited
+16 to: ridiculing or demeaning a patient or resident; making derogatory remarks to a patient or resident
+17 or cursing directed towards a patient or resident; or threatening to inflict physical or emotional harm
+18 on a patient or resident.
+19 (2) Nothing in this section shall be construed to prohibit the prosecution of any violator of
+
+1 this section under any other chapter.
+2 (b) “Department” means the department of health when the incident occurs in a healthcare
+3 facility, and the department of behavioral healthcare, developmental disabilities and hospitals when
+4 the incident occurs in a community residence for persons with intellectual or developmental
+5 disabilities.
+6 (c) “Facility” means any healthcare facility or community residence for persons with
+7 intellectual or developmental disabilities as those terms are defined in this section. “Healthcare
+8 facility” means any hospital or facility that provides long-term health care required to be licensed
+9 under chapter 17 of this title, and any assisted living residence required to be licensed under chapter
+10 17.4 of this title, and any community residence whether privately or publicly owned. “Community
+11 residence” for persons with intellectual or developmental disabilities means any residential
+12 program licensed by the department of behavioral healthcare, developmental disabilities and
+13 hospitals that meets the definition of a community residence as defined in § 40.1-24-1 and provides
+14 services to persons with intellectual or developmental disabilities.
+15 (d) “High managerial agent” means an officer of a facility, the administrator and assistant
+16 administrator of the facility, the director and assistant director of nursing services, or any other
+17 agent in a position of comparable authority with respect to the formulation of the policies of the
+18 facility or the supervision in a managerial capacity of subordinate employees.
+19 (e) “Immediate jeopardy” means a situation in which the nursing facility’s alleged
+20 noncompliance with one or more state or federal requirements or conditions has caused, or is likely
+21 to cause serious injury, harm, impairment, or death to a resident; or shall be defined in accordance
+22 with 42 C.F.R Part 489 or any subsequent applicable federal regulations.
+23 (f) “Mistreatment” means the inappropriate use of medications, isolation, or use of physical
+24 or chemical restraints:
+25 (1) As punishment;
+26 (2) For staff convenience;
+27 (3) As a substitute for treatment or care;
+28 (4) In conflict with a physician’s order; or
+29 (5) In quantities that inhibit effective care or treatment, or that harms or are likely to harm
+30 the patient or resident.
+31 (g) “Neglect” means the intentional failure to provide treatment, care, goods, and services
+32 necessary to maintain the health and safety of the patient or resident; or the intentional failure to
+33 carry out a plan of treatment or care prescribed by the physician of the patient or resident; or the
+34 intentional failure to report patient or resident health problems or changes in health problems or
+LC005223 - Page 2 of 5
+
+1 changes in health conditions to an immediate supervisor or nurse; or the intentional lack of attention
+2 to the physical needs of a patient or resident including, but not limited to toileting, bathing, meals,
+3 and safety. No person shall be considered to be neglected for the sole reason that the person relies
+4 on or is being furnished treatment in accordance with the tenets and teachings of a well-recognized
+5 church or denomination by a duly-accredited practitioner of a well-recognized church or
+6 denomination.
+7 (h) “Non-immediate jeopardy — high potential for harm” means a situation in which a
+8 nursing facility’s alleged noncompliance with one or more state or federal requirements or
+9 conditions may have caused harm that negatively impacts the individual’s mental, physical, and/or
+10 psychosocial status; or shall be defined in accordance with 42 C.F.R Part 489 or any subsequent
+11 applicable federal regulations.
+12 (i) “Non-immediate jeopardy — low potential for harm” means a situation in which a
+13 nursing facility’s alleged noncompliance with one or more state or federal requirements or
+14 conditions may have caused mental, physical, and/or psychosocial discomfort that does not
+15 constitute injury or damage; or shall be defined in accordance with 42 C.F.R Part 489 or any
+16 subsequent applicable federal regulations.
+17 (j) “Non-immediate jeopardy — medium potential for harm” means a situation in which a
+18 nursing facility’s alleged noncompliance with one or more state or federal requirements or
+19 conditions has caused or may have caused harm that is of limited consequence and does not
+20 significantly impair the individual’s mental, physical, and/or psychosocial status to function; or
+21 shall be defined in accordance with 42 C.F.R Part 489 or any subsequent applicable federal
+22 regulations.
+23 (k) “Patient” means any person who is admitted to a facility for treatment or care, while
+24 “resident” means any person who maintains their residence or domicile, on either a temporary or
+25 permanent basis, in a facility.
+26 (l) “Person” means any natural person, corporation, partnership, unincorporated
+27 association, or other business entity.
+28 SECTION 2. Section 42-66-4.1 of the General Laws in Chapter 42-66 entitled "Office of
+29 Healthy Aging" is hereby amended to read as follows:
+30 42-66-4.1. Definitions.
+31 As used in this chapter:
+32 (1) “Abuse” means physical abuse, sexual abuse, and/or emotional abuse of an elderly
+33 person by a caregiver as defined in subsection (2).
+34 (i) “Emotional abuse” means a pattern of willful infliction of mental or emotional harm
+LC005223 - Page 3 of 5
+
+1 upon an elderly person by threat, intimidation, isolation, or other abusive conduct.
+2 (ii) “Physical abuse” means the willful infliction of physical pain or injury (e.g., slapping,
+3 bruising, or restraining) upon an elderly person.
+4 (iii) “Sexual abuse” means the infliction of non-consensual sexual contact of any kind upon
+5 an elderly person. Sexual abuse includes, but is not limited to, sexual assault, rape, sexual misuse
+6 or exploitation of an elderly person, as well as threats of sexual abuse where the perpetrator has the
+7 intent and the capacity to carry out the threatened abuse.
+8 (2) “Caregiver” means a person who has assumed the responsibility for the care of the
+9 elderly person voluntarily, by contract, or by order of a court of competent jurisdiction, or who is
+10 otherwise legally responsible for the care of the elderly person.
+11 (3) “Elderly person” or “elder” means any person sixty (60) years of age or older.
+12 (4) “Exploitation” means the fraudulent or otherwise illegal, unauthorized, or improper act
+13 or process of an individual, including, but not limited to, a caregiver or fiduciary, who uses the
+14 resources of an elderly person for monetary or personal benefit, profit, gain, or that results in
+15 depriving an elderly person of rightful access to, or use of, benefits, resources, belongings, or assets
+16 by use of undue influence, harassment, duress, deception, false representation, or false pretenses.
+17 (5) “Neglect” means the willful failure by a caregiver or other person with a duty of care
+18 to provide goods or services necessary to avoid physical harm, mental harm, or mental illness to an
+19 elderly person, including, but not limited to, “abandonment” (withdrawal of necessary assistance)
+20 and denial of food or health-related services.
+21 (6) “Protective services” means services and/or action intended to prevent and/or alleviate
+22 the abuse, neglect, exploitation, or self-neglect of elderly persons. Protective services may include
+23 supervision, counseling, and assistance in securing health and supportive services, safe living
+24 accommodations, and legal intervention.
+25 (7) “Self-neglect” means a pattern of behavior in an elderly person that directly,
+26 imminently, and significantly threatens his/her own health and/or safety. Self-neglect includes, but
+27 is not limited to, an inability or an incapacity to provide self with food, water, shelter, or safety to
+28 the point of establishing imminent risk of any of the harm(s) described in the immediately preceding
+29 sentence.
+30 (8) “Willful” means intentional, conscious, and directed toward achieving a purpose.
+31 SECTION 3. This act shall take effect upon passage.
+========
+LC005223
+========
+LC005223 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- ABUSE IN HEALTHCARE FACILITIES
+***
+1 This act would remove the intent requirement relative to the definitions of "abuse" within
+2 the chapter on "abuse in healthcare facilities" and would amend the definitions of "abuse" and
+3 "neglect" with regard to elderly affairs by deleting the element of willful conduct. This act would
+4 also delete the definition of willful.
+5 This act would take effect upon passage.
+========
+LC005223
+========
+LC005223 - Page 5 of 5

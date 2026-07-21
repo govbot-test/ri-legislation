@@ -1,0 +1,213 @@
+Title: 
+Official Title: 
+Source: versions - 3005  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3005 SUBSTITUTE A
+========
+LC004717/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- CIGARETTE, OTHER TOBACCO PRODUCTS, AND
+ELECTRONIC NICOTINE-DELIVERY SYSTEM PRODUCTS
+Introduced By: Senators Ciccone, DiPalma, and Raptakis
+Date Introduced: March 04, 2026
+Referred To: Senate Special Legislation and Veterans Affairs
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 44-20-1, 44-20-4.1 and 44-20-8.2 of the General Laws in Chapter
+2 44-20 entitled "Cigarette, Other Tobacco Products, and Electronic Nicotine-Delivery System
+3 Products" are hereby amended to read as follows:
+4 44-20-1. Definitions.
+5 Whenever used in this chapter, unless the context requires otherwise:
+6 (1) “Administrator” means the tax administrator.
+7 (2) “Cigarettes” means and includes any cigarettes suitable for smoking in cigarette form,
+8 “heat not burn products,” and each sheet of cigarette rolling paper, including but not limited to,
+9 paper made into a hollow cylinder or cone, made with paper or any other material, with or without
+10 a filter suitable for use in making cigarettes.
+11 (3) “Dealer” means any person whether located within or outside of this state, who sells or
+12 distributes cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+13 products to a consumer in this state.
+14 (4) “Distributor” means any person:
+15 (i) Whether located within or outside of this state, other than a dealer, who sells or
+16 distributes cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+17 products within or into this state. Such term shall not include any cigarette or other tobacco product
+18 manufacturer, export warehouse proprietor, or importer with a valid permit under 26 U.S.C. § 5712,
+
+1 if such person sells or distributes cigarettes and/or other tobacco products and/or electronic
+2 nicotine-delivery system products in this state only to licensed distributors, or to an export
+3 warehouse proprietor or another manufacturer with a valid permit under 26 U.S.C. § 5712;
+4 (ii) Selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery
+5 system products directly to purchasers in this state by means of at least twenty-five (25) vending
+6 machines;
+7 (iii) Engaged in this state in the business of manufacturing cigarettes and/or other tobacco
+8 products and/or electronic nicotine-delivery system products or any person engaged in the business
+9 of selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+10 products to dealers, or to other persons, for the purpose of resale only; provided, that seventy-five
+11 percent (75%) of all cigarettes and/or other tobacco products and/or electronic nicotine-delivery
+12 system products sold by that person in this state are sold to dealers or other persons for resale and
+13 selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery system products
+14 directly to at least forty (40) dealers or other persons for resale; or
+15 (iv) Maintaining one or more regular places of business in this state for that purpose;
+16 provided, that seventy-five percent (75%) of the sold cigarettes and/or other tobacco products
+17 and/or electronic nicotine-delivery system products are purchased directly from the manufacturer
+18 and selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+19 products directly to at least forty (40) dealers or other persons for resale; or
+20 (v) Engaged in this state as a dealer and whose annual business sales of cigars are greater
+21 than fifty percent (50%) of their sales.
+22 (5) “Electronic nicotine-delivery system” means an electronic device that may be used to
+23 simulate smoking in the delivery of nicotine or other substance to a person inhaling from the device,
+24 and includes, but is not limited to, an electronic cigarette, electronic cigar, electronic cigarillo,
+25 electronic little cigars, electronic pipe, electronic hookah, e-liquids, e-liquid products, or any related
+26 device and any cartridge or other component of such device.
+27 (6) “Electronic nicotine-delivery system products” means any combination of electronic
+28 nicotine-delivery system and/or e-liquid and/or any derivative thereof, and/or any e-liquid
+29 container. Electronic nicotine-delivery system products shall include hemp-derived consumable
+30 CBD products as defined in § 2-26-3.
+31 (7) “E-liquid” and “e-liquid products” mean any liquid or substance placed in or sold for
+32 use in an electronic nicotine-delivery system that generally utilizes a heating element that
+33 aerosolizes, vaporizes, or combusts a liquid or other substance containing nicotine or nicotine
+34 derivative:
+LC004717/SUB A - Page 2 of 7
+
+1 (i) Whether the liquid or substance contains nicotine or a nicotine derivative; or
+2 (ii) Whether sold separately or sold in combination with a personal vaporizer, electronic
+3 nicotine-delivery system, or an electronic inhaler.
+4 (8) “Importer” means any person who imports into the United States, either directly or
+5 indirectly, a finished cigarette or other tobacco product and/or electronic nicotine-delivery system
+6 product for sale or distribution.
+7 (9) “Licensed,” when used with reference to a manufacturer, importer, distributor, or
+8 dealer, means only those persons who hold a valid and current license issued under § 44-20-2 for
+9 the type of business being engaged in. When the term “licensed” is used before a list of entities,
+10 such as “licensed manufacturer, importer, wholesale dealer, or retailer dealer,” such term shall be
+11 deemed to apply to each entity in such list.
+12 (10) “Manufacturer” means any person who manufactures, fabricates, assembles,
+13 processes, or labels a finished cigarette and/or other tobacco products and/or electronic nicotine-
+14 delivery system products.
+15 (11) “Other tobacco products” (OTP) means any products that are made from or derived
+16 from tobacco or that contain nicotine, whether natural or artificial, including, but not limited to,
+17 cigars (excluding Little Cigars, as defined in § 44-20.2-1, which are subject to cigarette tax),
+18 cheroots, stogies, smoking tobacco (including granulated, plug cut, crimp cut, ready rubbed and
+19 any other kinds and forms of tobacco suitable for smoking in a pipe or otherwise), chewing tobacco
+20 (including Cavendish, twist, plug, scrap and any other kinds and forms of tobacco suitable for
+21 chewing), any and all forms of hookah, shisha and “mu’assel” tobacco, snuff, and shall include any
+22 other articles or products made of, derived from, or containing tobacco or nicotine, in whole or in
+23 part, or any tobacco or nicotine substitute, except cigarettes and electronic nicotine-delivery system
+24 products. Other tobacco products shall not mean any product that has been approved by the United
+25 States Food and Drug Administration for the sale of or use as a tobacco or nicotine cessation
+26 product or for other medical purposes and is marketed and sold or prescribed exclusively for that
+27 approved purpose.
+28 (12) “Person” means any individual, including an employee or agent, firm, fiduciary,
+29 partnership, corporation, trust, or association, however formed.
+30 (13) “Pipe” means an apparatus made of any material used to burn or vaporize products so
+31 that the smoke or vapors can be inhaled or ingested by the user.
+32 (14) “Place of business” means any location where cigarettes and/or other tobacco products
+33 and/or electronic nicotine-delivery system products are sold, stored, or kept, including, but not
+34 limited to; any storage room, attic, basement, garage or other facility immediately adjacent to the
+LC004717/SUB A - Page 3 of 7
+
+1 location. It also includes any receptacle, hide, vessel, vehicle, airplane, train, or vending machine.
+2 (15) “Sale” or “sell” means gifts, exchanges, and barter of cigarettes and/or other tobacco
+3 products and/or electronic nicotine-delivery system products. The act of holding, storing, or
+4 keeping cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+5 products at a place of business for any purpose shall be presumed to be holding the cigarettes and/or
+6 other tobacco products and/or electronic nicotine-delivery system products for sale. Furthermore,
+7 any sale of cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+8 products by the servants, employees, or agents of the licensed dealer during business hours at the
+9 place of business shall be presumed to be a sale by the licensee.
+10 (16) “Stamp” means the impression, device, stamp, label, or print manufactured, printed,
+11 or made as prescribed by the administrator to be affixed to packages of cigarettes, as evidence of
+12 the payment of the tax provided by this chapter or to indicate that the cigarettes are intended for a
+13 sale or distribution in this state that is exempt from state tax under the provisions of state law; and
+14 also includes impressions made by metering machines authorized to be used under the provisions
+15 of this chapter.
+16 44-20-8.2. Transactions only with licensed manufacturers, importers, distributors,
+17 and dealers.
+18 A manufacturer or importer may sell or distribute cigarettes and/or other tobacco products
+19 and/or electronic nicotine-delivery system products to a person located or doing business within
+20 this state, only if such person is a licensed importer or distributor. An importer may obtain cigarettes
+21 and/or other tobacco products and/or electronic nicotine-delivery system products only from a
+22 licensed manufacturer. A distributor may sell or distribute cigarettes and/or other tobacco products
+23 and/or electronic nicotine-delivery system products to a person located or doing business within
+24 this state, only if such person is a licensed distributor or dealer. A distributor may obtain cigarettes
+25 and/or other tobacco products and/or electronic nicotine-delivery system products only from a
+26 licensed manufacturer, importer, or distributor. A dealer may obtain cigarettes and/or other tobacco
+27 products and/or electronic nicotine-delivery system products only from a licensed distributor.
+28 Provided, however, this section shall not apply to cigars. Provided, further, a distributor
+29 who qualifies for a license under § 44-20-1(4)(v) may also obtain pipe tobacco products from an
+30 unlicensed manufacturer, importer, or distributor.
+31 44-20-4.1. License availability.
+32 (a) No license under this chapter may be granted, maintained, or renewed if the applicant,
+33 or any combination of persons owning directly or indirectly any interests in the applicant:
+34 (1) Owes five hundred dollars ($500) or more in delinquent taxes;
+LC004717/SUB A - Page 4 of 7
+
+1 (2) Is delinquent in any tax filings for one month or more;
+2 (3) Had a license under this chapter revoked by the administrator within the past two (2)
+3 years;
+4 (4) Has been convicted of a crime relating to cigarettes and/or other tobacco products
+5 and/or any electronic nicotine-delivery system products;
+6 (5) Is a cigarette manufacturer or importer that is neither: (i) A participating manufacturer
+7 as defined in subsection II (jj) of the “Master Settlement Agreement” as defined in § 23-71-2; nor
+8 (ii) In full compliance with chapter 20.2 of this title and § 23-71-3;
+9 (6) Has imported, or caused to be imported, into the United States any cigarette and/or
+10 other tobacco product and/or electronic nicotine-delivery system products in violation of 19 U.S.C.
+11 § 1681a or any other state or federal law; or
+12 (7) Has imported, or caused to be imported into the United States, or manufactured for sale
+13 or distribution in the United States any cigarette that does not fully comply with the Federal
+14 Cigarette Labeling and Advertising Act (15 U.S.C. § 1331 et seq.).
+15 (b)(1) No person shall apply for a new license or permit (as defined in § 44-19-1) or renewal
+16 of a license or permit, and no license or permit shall be issued or renewed for any applicant, or any
+17 combination of persons owning directly or indirectly any interests in the applicant, unless all
+18 outstanding fines, fees, or other charges relating to any license or permit held by the applicant, or
+19 any combination of persons owning directly or indirectly any interests in the applicant, as well as
+20 any other tax obligations of the applicant, or any combination of persons owning directly or
+21 indirectly any interests in the applicant have been paid.
+22 (2) No license or permit shall be issued relating to a business until all prior licenses or
+23 permits relating to that business or to that location have been officially terminated and all fines,
+24 fees, or charges relating to the prior license or permit have been paid or otherwise resolved or the
+25 administrator has found that the person applying for the new license or permit is not acting as an
+26 agent for the prior licensee or permit holder who is subject to any such related fines, fees, or charges
+27 that are still due. Evidence of such agency status includes, but is not limited to, a direct familial
+28 relationship and/or an employment, contractual, or other formal financial or business relationship
+29 with the prior licensee or permit holder.
+30 (3) No person shall apply for a new license or permit pertaining to a specific location in
+31 order to evade payment of any fines, fees, or other charges relating to a prior license or permit.
+32 (4) No new license or permit shall be issued for a business at a specific location for which
+33 a license or permit already has been issued unless there is a bona fide, good-faith change in
+34 ownership of the business at that location. A distributor who qualifies for a license under § 44-20-
+LC004717/SUB A - Page 5 of 7
+
+1 1(4)(v) may hold said license at the same location as its dealer's license.
+2 (5) No license or permit shall be issued, renewed, or maintained for any person, including
+3 the owners of the business being licensed or having applied and received a permit, that has been
+4 convicted of violating any criminal law relating to tobacco products, the payment of taxes, or fraud
+5 or has been ordered to pay civil fines of more than twenty-five thousand dollars ($25,000) for
+6 violations of any civil law relating to tobacco products, the payment of taxes, or fraud.
+7 SECTION 2. This act shall take effect upon passage.
+========
+LC004717/SUB A
+========
+LC004717/SUB A - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- CIGARETTE, OTHER TOBACCO PRODUCTS, AND
+ELECTRONIC NICOTINE-DELIVERY SYSTEM PRODUCTS
+***
+1 This act would amend the definition of "distributor" under the chapter relating to taxation-
+2 -cigarette, other tobacco products, and electronic nicotine-delivery system products, to include
+3 dealers whose annual business sales of cigars are greater than fifty percent (50%) of their sales.
+4 This act would take effect upon passage.
+========
+LC004717/SUB A
+========
+LC004717/SUB A - Page 7 of 7

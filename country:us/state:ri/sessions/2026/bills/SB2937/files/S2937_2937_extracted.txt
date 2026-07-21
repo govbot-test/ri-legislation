@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - 2937
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2937
+========
+LC005282
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE--COURTS -- COURT
+ADMINISTRATION
+Introduced By: Senators Tikoian, LaMountain, Quezada, Dimitri, Famiglietti, Raptakis,
+McKenney, Burke, and Patalano
+Date Introduced: March 04, 2026
+Referred To: Senate Judiciary
+(Judiciary)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 8-15-12 of the General Laws in Chapter 8-15 entitled "Court
+2 Administration" is hereby amended to read as follows:
+3 8-15-12. Rhode Island judicial security act. [Effective January 1, 2026.]
+4 (a) As used in this chapter, the following words shall, unless the context clearly requires
+5 otherwise, have the following meanings:
+6 (1) “Data aggregator” means a commercial entity that collects, assembles, or maintains
+7 personal information concerning an individual or an employee of that entity in order to sell the
+8 information or provide third-party access to the information.
+9 (2) “Immediate family” means the spouse, domestic partner, child, step-child, parent, or
+10 any other blood relative who lives in the same residence as a protected individual, as defined herein.
+11 (3) “Personal information” means the Social Security number, residence addresses, home
+12 phone numbers, mobile phone numbers, or personal email addresses of, and identifiable to, the
+13 protected individual or immediate family member.
+14 (4) “Protected individual” means a retired, recalled, or current justice, judge, or magistrate
+15 of the Rhode Island unified judicial system, as defined in § 8-15-1, and retired, recalled, or current
+16 justices, judges, and magistrates of the United States Supreme Court, United States Courts of
+17 Appeal, United States District Courts and United States Bankruptcy Courts who reside in the State
+18 of Rhode Island.
+
+1 (b)(1) No state agency, county agency, or municipal agency shall publicly post or display
+2 the personal information of any protected individual or immediate family member following receipt
+3 of notice provided for in subsection (b)(2) of this section without first obtaining the written
+4 permission of that individual.
+5 (2) Each protected individual may file a written notice of their status as a protected
+6 individual, for themselves and immediate family with any state, county, or municipal agency
+7 requesting each state, county, or municipal agency to mark as confidential the protected
+8 individual’s or immediate family member’s personal information.
+9 (3) Upon receipt of a written request in accordance with this section submitted by a
+10 protected individual, either directly or through an agent, the state, county, or municipal agency shall
+11 remove the protected individual’s or immediate family member’s personal information from
+12 publicly available content within seventy-two (72) hours; and further, shall not publicly post or
+13 display the personal information of any protected individual or immediate family member without
+14 first obtaining written permission from the protected individual.
+15 (4) A state, county, or municipal agency shall comply with a written request received from
+16 a protected individual's authorized agent if the request is submitted with a notarized affidavit signed
+17 by the protected individual identifying their agent as being authorized to act on the protected
+18 individual's behalf in accordance with this section.
+19 (4)(5) This subsection (b) shall not prohibit the list of delinquent taxpayers published
+20 pursuant to § 44-1-34 from containing the name of any protected individual or immediate family
+21 member, the type of tax levied, and the amount of the delinquency, including interest and penalty.
+22 Addresses, including the city or town and zip code, of any protected individual or immediate family
+23 member shall not be disclosed on such list once the division of taxation receives a written notice
+24 filed in accordance with subsection (b)(2) of this section.
+25 (c)(1) In accordance with this section, it shall be unlawful for a data aggregator to sell,
+26 license, trade, purchase, or otherwise provide or make available for consideration a protected
+27 individual’s or immediate family member’s personal information following receipt of notice
+28 provided for in subsection (b)(2) of this section.
+29 (2) Each protected individual may file a written notice of their status as a protected
+30 individual, for themselves and immediate family, to any person, data aggregator, business, or
+31 association, requesting the person, data aggregator, business, or association mark as confidential
+32 the protected individual’s or immediate family member’s personal information.
+33 (3) In accordance with this section, upon receipt of a written request submitted by the
+34 protected individual, either directly or through an agent, to the person, data aggregator, business,
+LC005282 - Page 2 of 4
+
+1 or association, the person, data aggregator, business, or association shall remove the protected
+2 individual’s or immediate family member’s personal information from publicly available content
+3 within ten (10) business days; and further, shall not in the future publicly post or display the
+4 personal information of any protected individual or immediate family member without first
+5 obtaining written permission from the protected individual.
+6 (4) Within ten (10) business days after receiving a protected individual’s written request, a
+7 person, data aggregator, business, or association shall ensure that the protected individual’s or the
+8 immediate family member’s personal information is not made available on any website or
+9 subsidiary website controlled by the person, data aggregator, business, or association, except for
+10 disclosures to governmental agencies, law enforcement, healthcare organizations, insurance
+11 organizations, financial institutions, or in connection with fraud prevention services or legal
+12 process.
+13 (5) A person, data aggregator, business, or association shall comply with a written request
+14 received from a protected individual’s authorized agent if the request is submitted with a notarized
+15 affidavit signed by the protected individual identifying their agent as being authorized to act on the
+16 protected individual’s behalf in accordance with this section.
+17 (6) After receiving a protected individual’s written request, either directly or through an
+18 agent, no person, data aggregator, business, or association shall transfer the protected individual’s
+19 or an immediate family member’s personally identifiable information to any other person, business,
+20 or association through any medium except as provided herein. This section shall not apply to a
+21 transfer made at the request of the protected individual or that is necessary to effectuate the request
+22 to the data aggregator, business, or association from the protected individual.
+23 (7) A protected individual, or their immediate family member, whose personally
+24 identifiable information is made public as a result of a violation of this section may bring an action
+25 seeking injunctive or declaratory relief in any court of competent jurisdiction within the State of
+26 Rhode Island. If the court grants injunctive or declaratory relief, the person, business, or association
+27 responsible for the violation shall be required to pay the individual’s costs and reasonable attorneys’
+28 fees.
+29 SECTION 2. This act shall take effect upon passage.
+========
+LC005282
+========
+LC005282 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE--COURTS -- COURT
+ADMINISTRATION
+***
+1 This act would for purposes of the judicial security act permit an authorized agent to file a
+2 written notice with a state, county, or municipal agency on behalf of a protected individual.
+3 This act would take effect upon passage.
+========
+LC005282
+========
+LC005282 - Page 4 of 4

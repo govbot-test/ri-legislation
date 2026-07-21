@@ -1,0 +1,451 @@
+Title: 
+Official Title: 
+Source: versions - 7842
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7842
+========
+LC005617
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- STATE OF RHODE ISLAND
+INTERIOR DESIGN PRACTICE ACT
+Introduced By: Representatives Carson, Potter, Caldwell, and Ajello
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+(by request)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 97
+4 STATE OF RHODE ISLAND INTERIOR DESIGN PRACTICE ACT
+5 5-97-101. Short title.
+6 This chapter shall be known and may be cited as “State of Rhode Island Interior Design
+7 Practice Act”.
+8 5-97-102. Legislative declaration of purpose.
+9 (a) The practice of registered interior design in the State of Rhode Island is declared a
+10 professional practice affecting the public health, safety, and welfare, and is subject to regulation
+11 and control in the public interest. It is a matter of public interest and concern that the practice of
+12 registered interior design, as defined under this chapter, merits and receives the confidence of the
+13 public and shall be limited to those persons determined by the board to be qualified under this
+14 chapter. This chapter shall be liberally construed to carry out these objectives and purposes.
+15 (b) It is the purpose of this chapter to promote, preserve, and protect the public health,
+16 safety, and welfare by and through the registration and regulation of persons, whether within or
+17 outside of state of Rhode Island who engage in the practice of registered interior design within the
+18 State of Rhode Island. In furtherance of this purpose, this chapter, the board of examination and
+
+1 registration of interior designer in the State of Rhode Island, whose members, functions, and
+2 procedures shall be established in accordance with the provisions of this chapter.
+3 5-97-103. Definitions.
+4 As used in this chapter, the following terms shall have the following meanings:
+5 (1) “Applicant” means an individual who seeks a registration in accordance with the
+6 requirements and processes set forth in this chapter and as may be established by the board.
+7 (2) “Approved educational program” means an educational program as approved by the
+8 board.
+9 (3) “Board” means the board of examination and registration of interior designers
+10 established pursuant to § 5-97-106.
+11 (4) “CIDQ” means the council for interior design qualification or its successor.
+12 (5) "Continuing education hour" or "CEH" means one continuous instructional hour, fifty
+13 (50) to sixty (60) minutes of contact, intended to increase or update the interior designer’s
+14 knowledge and competence in health, safety, and welfare subjects.
+15 (6) “Department” means the Rhode Island department of business regulation.
+16 (7) “Direct control and personal supervision” means the supervision of, knowledge of and
+17 acceptance of responsibility for another’s interior design work by a registered interior designer, in
+18 which the supervisor is directly involved in all practice-related judgements affecting public health,
+19 safety and welfare.
+20 (8) “Experience” and “training” are interchangeable and mean satisfactory related
+21 employment as required by NCIDQ.
+22 (9) “NCIDQ certification” means the certification issued by CIDQ for successful
+23 completion of the NCIDQ examination.
+24 (10) “Nonstructural element” means an element of a building or structure which does not
+25 require structural bracing and does not contribute to the structural integrity of the building.
+26 Nonstructural elements are primarily concerned with the interior aspects of design and do not
+27 include any load-bearing components. This definition encompasses both non-seismic and non-
+28 structural elements.
+29 (11) “Practice of registered interior design” means the analysis, planning, design,
+30 documentation, and management of interior nonstructural construction and alteration projects in
+31 compliance with applicable building design and construction, fire, life safety, and energy codes,
+32 standards, regulations, and guidelines. The “practice of registered interior design” includes all the
+33 following:
+34 (i) Programming, space planning, pre-design analysis, and conceptual design of interior
+LC005617 - Page 2 of 13
+
+1 nonstructural elements;
+2 (ii) Preparation of documents and technical submissions related to interior construction,
+3 finish materials, furnishings, fixtures, and equipment;
+4 (iii) Rendering of designs, plans, drawings, specifications, contract documents, and other
+5 interior technical submissions;
+6 (iv) Administration of interior nonstructural element construction and contracts relating to
+7 nonstructural elements in interior alteration or construction of a proposed or existing building or
+8 structure;
+9 (v) Alteration or construction of interior nonstructural elements;
+10 (vi) Preparation of a physical plan of space within a proposed or existing building or
+11 structure including any or all of the following:
+12 (A) Determinations of circulation systems or patterns;
+13 (B) Determinations of egress requirements based on occupancy loads;
+14 (C) Assessment and analysis of interior safety factors to comply with building codes related
+15 to interior nonstructural elements;
+16 (D) Design of the exit access and exit components of the means of egress system within a
+17 building based on the calculated occupant load;
+18 (E) Interior material selection and application for all portions of an interior construction
+19 project, including means of egress system; or
+20 (F) Compliance with applicable building design and construction, accessibility standards,
+21 fire, life-safety, and energy codes, standards, regulations and guidelines.
+22 (12) “Registration” means the approval issued to an individual by the board indicating that
+23 the individual is a registered interior designer and is authorized to engage in the practice of
+24 registered interior design in Rhode Island.
+25 (13) “Registered interior designer” means an individual who holds a certificate of
+26 registration or license issued by the board pursuant to §§ 5-97-115, 5-97-116, and 5-97-117.
+27 (14) “Responsible control” means the direct personal supervision over, and detailed
+28 knowledge of, the content of all technical submissions that are ordinarily exercised by a registered
+29 interior designer when applying the requisite standard of care.
+30 (15) “Seal” means the symbol meeting the specifications set forth herein that evidences
+31 registration as an interior designer pursuant to §§ 5-97-115, 5-97-116, and 5-97-117.
+32 (16) “Stamp” means the instrument to manually apply a seal evidencing registration of an
+33 interior designer pursuant to §§ 5-97-115, 5-97-116, and 5-97-117.
+34 (17) “State” means any jurisdiction recognized by NCIDQ, including any foreign
+LC005617 - Page 3 of 13
+
+1 jurisdictions in which Rhode Island is a signatory to a mutual recognition agreement or similar
+2 agreement with NCIDQ.
+3 (18) “Technical submissions” means the documents covering the practice of registered
+4 interior design necessary to demonstrate compliance with applicable regulatory requirements
+5 and/or to fabricate or construct a project including, but not limited to, drawings, digital models,
+6 specifications, performance criteria, and installation requirements.
+7 5-97-104. Exempt or excluded persons and activities.
+8 (a) Nothing in this chapter shall be construed to authorize a registered interior designer to
+9 engage in the practice of professional engineering or architecture in this jurisdiction or provide
+10 services that constitute the practice of professional engineering or architecture, except as otherwise
+11 provided in this chapter.
+12 (b) The practice of registered interior design does not include modifications or additions to
+13 any of the following:
+14 (1) Changes of building use to occupancies not already allowed by the current building or
+15 structure or changes of building use to occupancies of a greater hazard;
+16 (2) The construction classification of the building or structure according to the international
+17 building code;
+18 (3) The structural system of a building, including changing the building's dead load on the
+19 structural system;
+20 (4) The building envelope, including exterior walls, exterior wall claddings, exterior wall
+21 openings, exterior windows and doors, balconies and similar projections, roof assemblies and
+22 rooftop structures, and glass and glazing for exterior use in both vertical and sloped applications in
+23 buildings and structures;
+24 (5) Mechanical, plumbing, heating, air conditioning, ventilation, electrical, low voltage
+25 systems, elevators and conveying systems, fire protection systems, or fire alarm systems;
+26 (6) Design of or modifications to an exit stair or exit discharge portion of a means of egress
+27 system; or
+28 (7) Construction that materially affects life safety systems pertaining to fire safety of
+29 structural elements or the fire protection of structural elements, smoke evacuation and
+30 compartmentalization systems, or fire-rated vertical shafts in multi-story structures.
+31 (c) The following individuals are not required to obtain a registration pursuant to this
+32 chapter:
+33 (1) A person engaging in work as an employee of an architect or registered interior
+34 designer, if the work does not include responsible control, or a consultant retained by an architect,
+LC005617 - Page 4 of 13
+
+1 or registered interior designer or engineer;
+2 (2) An individual who prepares plans, drawings, or specifications for buildings for their
+3 personal private residential use, including single family or dual family homes;
+4 (3) A person who prepares drawings of the layout of materials or furnishings or in the
+5 selection of materials or furnishings used in interior design, including:
+6 (i) Decorative accessories;
+7 (ii) Wallcoverings, wall finishes or paint;
+8 (iii) Floor coverings, tile, wood, stone or concrete;
+9 (iv) Window coverings;
+10 (v) Lighting fixtures which do not disrupt structural elements;
+11 (vi) Plumbing fixtures which do not disrupt structural elements;
+12 (vii) Professional services limited to the design of kitchen and bath spaces or the
+13 specification of products for kitchen and bath areas in noncommercial settings; and
+14 (viii) Furniture, equipment, cabinetry or millwork, if the preparation or implementation of
+15 those drawings or the installation of those materials or furnishings is not regulated by any building
+16 code or other law, ordinance, rule or regulation governing the alteration or construction of a
+17 structure.
+18 5-97-105. Delegation of authority.
+19 The responsibility to enforce the provisions of this chapter is hereby delegated to the State
+20 of Rhode Island board of interior designers established pursuant to § 5-97-106. The board
+21 established pursuant to § 5-97-106, shall have all the duties, powers, and authority specifically
+22 granted by, or otherwise necessary to enforce this chapter, as well as such other duties, powers, and
+23 authority as it may be granted from time to time by law.
+24 5-97-106. Board of interior designers.
+25 The board shall consist of seven (7) members, at least three (3) of whom shall be a
+26 representative(s) of the public, and the remainder of whom shall be registered interior designers
+27 who possess the qualifications specified in § 5-97-107. Members of the board shall have the
+28 expertise necessary for the effective and efficient regulation of the practice of registered interior
+29 design.
+30 5-97-107. Qualification for board membership.
+31 (a) Each registered interior designer member of the board shall:
+32 (1) Be a resident of the State of Rhode Island;
+33 (2) Be a registered interior designer;
+34 (3) Maintain any other professional license or registration issued in this or any other
+LC005617 - Page 5 of 13
+
+1 jurisdiction, and
+2 (4) Have had at least five (5) years of experience as a practicing registered interior designer.
+3 (b) Each public member of the board shall be a resident of the State of Rhode Island. Each
+4 public member of the board shall not be, nor shall ever have been:
+5 (1) A registered interior designer;
+6 (2) The spouse of a current or former registered interior designer; or
+7 (3) An individual who has ever had any material financial interest in the provision of
+8 registered interior design services or engaged in any activity directly related to the practice of
+9 registered interior design.
+10 5-97-108. Board member appointment and oversight.
+11 In accordance with the principle of separation of powers and to provide for sufficient
+12 oversight by the respective branches of government, the governor shall appoint the members of the
+13 board in accordance with the provisions of this chapter and the constitution of the State of Rhode
+14 Island. In addition, the governor shall have the authority to remove members of the board with or
+15 without cause.
+16 5-97-109. Terms.
+17 (a) Except as provided in subsection (b) of this section, members of the board shall be
+18 appointed for a term of three (3) years, except that members of the board who are appointed to fill
+19 vacancies that occur prior to the expiration of a former member’s full term shall serve the remaining
+20 portion of such unexpired term.
+21 (b) The terms of the members of the board shall be staggered so that the terms of no more
+22 than two (2) members shall expire in any year. Each member shall serve until a qualified successor
+23 is appointed unless such member cannot serve by reason of such member’s resignation or removal
+24 from membership on the board pursuant to § 5-97-110.
+25 (c) Board members are eligible to serve for up to two (2) consecutive full terms. The
+26 completion of the remaining portion of an unexpired term shall not constitute a full term for
+27 purposes of this section.
+28 (d) Any vacancy that occurs in the membership of the board for any reason, including
+29 expiration of term, removal, resignation, death, disability, or disqualification, shall be filled as
+30 prescribed in § 5-97-108 as soon as practicable in order to ensure the efficient administration of
+31 this act.
+32 5-97-110. Removal of board member.
+33 A member of the board may be recommended for removal upon an affirmative vote of
+34 three-quarters (3/4) of members of the board otherwise eligible to vote upon one or more of the
+LC005617 - Page 6 of 13
+
+1 following grounds:
+2 (1) The refusal or inability for any reason of a member of the board to perform the duties
+3 required of a board member in an efficient, responsible, and professional manner;
+4 (2) The misuse of a board member position to obtain, or attempt to obtain, any financial or
+5 material gain, or any advantage personally or for another, through such office;
+6 (3) A final adjudication by a recognized body, including any court, that a board member
+7 violated this chapter or any other jurisdiction’s law governing the practice of registered interior
+8 design; or
+9 (4) Conviction of a crime other than a minor traffic offense.
+10 5-97-111. Organization of the board.
+11 (a) The board shall elect from its members a chairperson, and such other officers as it deems
+12 appropriate and necessary, to the conduct of its business. The chairperson shall preside at all
+13 meetings of the board and shall perform those duties customarily associated with the position and
+14 such other duties assigned from time to time by the board. The chairperson may establish board
+15 committees as appropriate and necessary to the furtherance of board business and may designate
+16 board members as committee members.
+17 (b) Officers elected by majority vote of the board shall serve terms as defined by the board
+18 commencing with the day of their election and ending upon election of their successors or removal
+19 by affirmative majority vote of the board members otherwise eligible to vote.
+20 5-97-112. Executive director.
+21 (a) Under the oversight of the board, the executive director shall be responsible for the
+22 proper performance of the board’s duties.
+23 (b) The board may delegate authority to the executive director as necessary to properly
+24 fulfill the board’s duties.
+25 5-97-113. Meetings of board.
+26 The board shall hold regular meetings to transact business in compliance with all applicable
+27 state laws and as otherwise may be established by regulations of the board.
+28 5-97-114. Power and duties of the board.
+29 (a) The board shall have the power and responsibility to administer the provisions of this
+30 act consistent with chapter 35 or title 42 ("administrative procedures").
+31 (b) The board shall have the power to make, adopt, amend, and repeal regulations as may
+32 be necessary to carry out the purposes of this chapter including, but not limited to, regulations
+33 concerning:
+34 (1) The meetings and proceedings of the board;
+LC005617 - Page 7 of 13
+
+1 (2) The requirements for the issuance of registration and the registration of firms, the
+2 renewals thereof, and the fees associated with these;
+3 (3) Mandatory standards of professional conduct concerning misrepresentations, conflicts
+4 of interest, incompetence, disability, violations of law, dishonest conduct, or other unprofessional
+5 conduct for those individuals or organizations regulated by this chapter, which standards shall be
+6 enforceable under the disciplinary procedures of the board;
+7 (4) Requirements for renewal of registration designed to promote the continued
+8 professional development and competence of registered interior designers. Such requirements shall
+9 be designed solely to improve the professional knowledge and skills of a registered interior designer
+10 directly related to the current and emerging bodies of knowledge and skills of registered interior
+11 designers; and
+12 (5) When necessary to protect the public health, safety, and welfare, the board shall require
+13 such evidence as it deems necessary to establish the continuing competency of registered interior
+14 designers as a condition of renewal of registration.
+15 (c) The adoption, amendment, or revocation of regulations and the publication and
+16 distribution of the regulations shall be subject to the provisions of chapter 35 of title 42
+17 ("administrative procedures").
+18 (d) The board shall keep an official registry of all registered interior designers. The roster
+19 shall be properly indexed and open for public inspection and information.
+20 (e) The board shall have the power to carry out the purposes of this chapter and enforce
+21 any provision of this chapter or any regulations promulgated hereunder, together with all other
+22 powers and duties delegated to the board pursuant to this chapter.
+23 5-97-115. Qualifications for an initial registration.
+24 (a) To obtain a registration to engage in the practice of registered interior design in Rhode
+25 Island, an applicant must submit to the board:
+26 (1) A complete and signed written application in the form prescribed by the board;
+27 (2) Evidence of graduation and receipt of a degree from an approved educational program;
+28 (3) Evidence indicating the successful completion of the experience deemed necessary by
+29 the board;
+30 (4) Evidence of the successful completion of the NCIDQ examination administered by
+31 CIDQ;
+32 (5) Payment of all applicable fees specified by the board; and
+33 (6) Documentation satisfactory to the board of United States citizenship or other lawful
+34 immigration status as required under Rhode Island, law or, in the absence of Rhode Island, law,
+LC005617 - Page 8 of 13
+
+1 under applicable federal law.
+2 (7) The applicant’s social security number, or individual taxpayer identification number,
+3 recognizing that the applicant’s social security number or individual taxpayer identification number
+4 furnished to the board shall not be deemed a public record under Rhode Island law and shall not be
+5 open to public inspection.
+6 (b) In lieu of furnishing evidence supporting subsections (a)(2), (3) and (4) of this section,
+7 an applicant may provide a copy of the applicant's NCIDQ certification.
+8 (c) A registration shall be effective upon issuance by the board. A person issued a
+9 registration may practice as a registered interior designer in this state, subject to the provisions of
+10 this chapter and the board regulations.
+11 5-97-116. Qualifications for reciprocal registration.
+12 To obtain a registration through reciprocity in Rhode Island, an applicant shall:
+13 (1) Provide documentation satisfactory to the board that such applicant:
+14 (i) Holds a current and valid registration or license to practice registered interior design
+15 issued by another jurisdiction or a licensing authority recognized by the board; and
+16 (ii) Holds an NCIDQ certification.
+17 (2) Submit to the board a completed and signed application and pay the required fee.
+18 (3) Provide to the board a social security number, individual taxpayer identification
+19 number, or an affidavit attesting that the applicant has no such number, for the board to establish
+20 the applicant’s identity. Any such information provided to the board shall be released by the board
+21 to identify applicants, including verifying an applicant’s identity and certification status with the
+22 council for interior design qualification, and as may be required by law.
+23 5-97-117. Continuing education; Requirements for registration renewal.
+24 (a) The board may, by regulation, establish the processes and requirements for a registered
+25 interior designer to demonstrate their continuing competence to practice registered interior design
+26 through continuing education. The board shall have the authority to make the determination of
+27 acceptable program content for such continuing education.
+28 (b) The board shall, by regulation, establish requirements and procedures for the renewal
+29 of registration, including the continuing education requirements.
+30 (c) Each registration shall be renewed on or before April 30 of each year. The completed
+31 application for renewal together with the required renewal fee shall be submitted to the board on
+32 or before the renewal date. Upon demonstration that a registered interior designer has satisfied the
+33 continuing education requirements established by regulation of the board, the board shall issue a
+34 renewal of the registration.
+LC005617 - Page 9 of 13
+
+1 (d) Upon failure to renew within thirty (30) days after the date set for expiration, the
+2 registration shall become automatically inactive. Such registration may be renewed at any time
+3 within one year following the expiration date upon proof of continuing competency and payment
+4 of the renewal fee plus a late renewal fee.
+5 5-97-118. Expired and inactive registrations.
+6 (a) Failure to renew a registration within thirty (30) days of the designated renewal date
+7 shall result in the expiration of the registration and the extinguishment of authority to practice
+8 registered interior design in the State of Rhode Island. Each applicant for reinstatement of an
+9 expired registration shall bear the burden of substantiating by documentation satisfactory to the
+10 board that such applicant has met continuing education requirements as set forth by the board and
+11 has submitted an application for reinstatement and renewal fee.
+12 (b) In connection with any application for reinstatement of a registration, the board may
+13 impose any additional reasonable requirements it deems necessary to fulfill its public protection
+14 mission.
+15 (c) The board may, in its discretion, consider any relevant extenuating circumstances duly
+16 submitted in conjunction with any petition and application for the reinstatement of a registration
+17 where the applicant can demonstrate hardship, so long as the board maintains its public protection
+18 mission in considering any such petition and application. The board shall set forth rules and
+19 regulations pursuant to the reinstatement of a registered interior designer’s registration.
+20 (d) The board shall, by regulation, set forth procedures for the issuance of an inactive
+21 registration to a registrant whereby such individual shall be exempt from registration renewal
+22 requirements. During the period in which a registration is in inactive status, the registered interior
+23 designer shall not engage in the practice of registered interior design in Rhode Island, or use the
+24 title “registered interior designer”.
+25 (5) The board shall by regulation set forth procedures and requirements for the
+26 reinstatement of a registered interior designer’s registration.
+27 5-97-119. Firm registration.
+28 To perform registered interior design services in Rhode Island, as a firm or other legally
+29 formed business entity, such firm must first meet the requirements set forth by the board. The board
+30 shall promulgate rules and regulations regarding firm registration.
+31 5-97-120. Source of data.
+32 The board may use documentation and verified data stored by CIDQ in the same way that
+33 it may use data stored by the board to establish an applicant’s qualifications for a registration.
+34 Notwithstanding any other provision of law to the contrary, the board shall share such information
+LC005617 - Page 10 of 13
+
+1 with CIDQ as may be reasonably requested from time to time; provided that, CIDQ agrees to
+2 maintain the confidentiality of such information.
+3 5-97-121. Unlawful practice.
+4 (a) Except as otherwise provided under this chapter, it shall be unlawful for any person to
+5 engage in the practice of registered interior design or use the designation “registered interior
+6 designer” or any other designation, words, or letters indicating registration as a registered interior
+7 designer, including abbreviations, or hold himself or herself out as a registered interior designer
+8 unless duly registered as such by the board. This section does not prohibit a person who is exempt,
+9 pursuant to the chapter, from holding themselves out to the public or soliciting business as an
+10 interior designer.
+11 (b) It is unlawful for a person to seal any technical submission, specification, report or other
+12 document with the seal after the registration of the registered interior designer named therein has
+13 expired or has been suspended or revoked, unless the registration has been renewed or reissued.
+14 5-97-122. Seal.
+15 (a) Upon being issued a registration, each registered interior designer shall obtain a seal
+16 authorized by the board, which shall include the registered interior designer’s name, the number of
+17 their registration, and the title “registered interior designer”.
+18 (b) A registered interior designer may sign and seal a technical submission covering the
+19 scope of registered interior design and shall have the authority to submit such technical submission
+20 to a state or local governmental entity for the purpose of obtaining any requisite permit for an
+21 interior alteration or construction project.
+22 (c) All technical submissions issued for permitting by a registered interior designer shall
+23 be signed, sealed, and dated only by the registered interior designer in responsible control. A
+24 registered interior designer shall not sign and seal a technical submission that was not prepared by
+25 the registered interior designer or under the direct supervision and responsible control of the
+26 registered interior designer.
+27 (d) The board may adopt rules and regulations specifying the manner in which registered
+28 interior designers may electronically transmit any technical submission, specification, report or
+29 other document to a state or local government entity for purposes of obtaining a building permit.
+30 5-97-123. Record keeping.
+31 A registered interior designer shall maintain documentation of technical submissions for a
+32 minimum of five (5) years and make records available to the board upon request. Records shall be
+33 adequate to demonstrate the registered interior designer’s responsible control over the technical
+34 submissions.
+LC005617 - Page 11 of 13
+
+1 5-97-124. Prohibited acts.
+2 A person may not knowingly:
+3 (1) Advertise or put out any sign, card or other device which indicates to the public that the
+4 person is a registered interior designer or that the person is otherwise qualified to practice as a
+5 registered interior designer, without having a registration pursuant to this chapter.
+6 (2) Use or attempt to use the registration of another registered interior designer.
+7 (3) Use or attempt to use a registration that has been suspended, revoked, or placed on
+8 inactive or delinquent status.
+9 (4) Obtain or attempt to obtain registration from the board by fraud.
+10 (5) Make any willfully false oath or affirmation to the board.
+11 (6) As a registered interior designer, accept compensation in connection with a registered
+12 interior design project, except as payment for the provision of registered interior design services,
+13 which would reasonably appear to compromise the registered interior designer's professional
+14 judgment in serving the best interests of the client or public.
+15 5-97-125. Discipline.
+16 All disciplinary matters shall be handled in accordance with the department’s rules of
+17 procedure for administrative hearings, 230-RICR-10-00-2.
+18 5-97-126. Complaint procedures.
+19 The board shall establish comprehensive procedures for reporting and receiving complaints
+20 of a violation of this chapter.
+21 5-97-127. Duty to report misconduct.
+22 Any registered interior designer, applicant, or registered firm who has knowledge of any
+23 conduct by any individual, business entity, or any other group or combination of persons that may
+24 constitute grounds for disciplinary action under any provision of this chapter or any regulation duly
+25 promulgated hereunder shall report such conduct to the board.
+26 SECTION 2. This act shall take effect on July 1, 2026.
+========
+LC005617
+========
+LC005617 - Page 12 of 13
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- STATE OF RHODE ISLAND
+INTERIOR DESIGN PRACTICE ACT
+***
+1 This act would enact the State of Rhode Island interior design practice act to control and
+2 regulate the professional practice of interior designers. This act would establish a board existing of
+3 seven (7) members, four (4) of whom would be registered interior designers. The board would have
+4 the authority to promulgate rules and regulations to register interior designers, regulate the unlawful
+5 practice of interior design, and enforcement of such rules and regulations.
+6 This act would take effect on July 1, 2026.
+========
+LC005617
+========
+LC005617 - Page 13 of 13

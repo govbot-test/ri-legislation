@@ -1,0 +1,234 @@
+Title: 
+Official Title: 
+Source: versions - 2107  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2107 SUBSTITUTE A
+========
+LC003846/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- HEALTHCARE WORKER PLATFORM ACT
+Introduced By: Senators Bissaillon, Murray, McKenney, DiMario, and Famiglietti
+Date Introduced: January 16, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 106
+4 HEALTHCARE WORKER PLATFORM ACT
+5 23-106-1. Title.
+6 This chapter shall be known and may be cited as the "Healthcare Worker Platform Act."
+7 23-106-2. Definitions.
+8 For the purposes of this chapter, the following words and terms have the following
+9 meanings:
+10 (a) “Healthcare worker platform" means any person, corporation, partnership, or
+11 association that operates or offers a platform. A “healthcare worker platform” is not considered a
+12 “nursing service agency” as defined in § 23-17.7.1-2.
+13 (b) “Platform” means an electronic platform, system, or application through which
+14 healthcare workers can accept one or more shifts to perform healthcare related services at a
+15 healthcare facility.
+16 (1) Notwithstanding any other provisions to the contrary, a healthcare worker platform
+17 shall be excluded from the definition of a “nursing service agency, as defined by § 23-17.1-2. To
+18 meet the definition of a platform, a healthcare worker platform shall not:
+19 (i) Require a healthcare worker to work any specific shifts or specific number of shifts at a
+
+1 healthcare facility;
+2 (ii) Restrict a healthcare worker from engaging in any other occupation or business or from
+3 working at a healthcare facility, with any nursing service agency, or through any other healthcare
+4 worker platform; or
+5 (iii) Allow healthcare workers to accept any shifts to perform healthcare related services
+6 from home nursing care providers, home care providers, or hospices licensed in this state.
+7 23-106-3. Licensure of healthcare worker platforms.
+8 (a) No person shall establish, conduct, or maintain a healthcare worker platform in this
+9 state without a license issued pursuant to this chapter in accordance with § 23-106-4(c).
+10 (b) Any person establishing, conducting, managing, or operating a healthcare worker
+11 platform without a license under this chapter shall be fined not more than five thousand dollars
+12 ($5,000) or imprisoned not more than one year or both, in the discretion of the court, for each
+13 offense in accordance with § 23-106-4(c).
+14 23-106-4. Rules and regulations.
+15 (a) The director of the department of health shall promulgate rules and regulations to carry
+16 out the intent of this chapter.
+17 (b) The department of health may assess an annual licensure fee of one thousand dollars
+18 ($1,000) per license.
+19 (c) After September 1, 2027, or by the date the department of health has set for licensure
+20 of healthcare worker platforms pursuant to subsection (b) of this section, whichever is later, no
+21 healthcare worker platform shall operate a platform in this state, unless it is licensed pursuant to
+22 this section.
+23 23-106-5. Minimum worker and patient protections.
+24 (a) Every healthcare worker platform licensed pursuant to this chapter shall ensure that all
+25 healthcare workers utilizing the platform meet the following standards:
+26 (1) Criminal background checks. Completion of a national fingerprint-based criminal
+27 background check, including disqualifying offenses, in accordance with § 23-106-10 of this
+28 chapter. A healthcare worker who books shifts through a healthcare worker platform shall be able
+29 to receive a background check in accordance with chapter 17.7.1 of title 23, and a healthcare worker
+30 platform shall be able to apply to the bureau of criminal identification of the department of attorney
+31 general for a national criminal records check as specified in chapter 17.7.1 of title 23, even if the
+32 healthcare worker platform is not the employer of the healthcare worker.
+33 (2) Credential and competency verification.
+34 (i) Every individual who provides healthcare services shall be required to hold an active
+LC003846/SUB A - Page 2 of 7
+
+1 registration of license in good standing issued by the department of health as required by chapter
+2 17.9 of this title ("registration of nursing assistants") or by chapters 19.1 ("pharmacies"), 29
+3 ("podiatrists"), 30 ("chiropractic physicians"), 31.1 ("dentists and dental hygienists"), 34 ("nurses"),
+4 34.2 ("nurse anesthetists"), 35.1 ("optometrists"), 37 ("board of medical licensure and discipline"),
+5 40 (physical therapists), 54 "(physician assistants"), 96 ("occupational therapy licensure compact")
+6 of title 5.
+7 (iii) No certified nursing assistant shall be allowed to book a shift on a healthcare worker
+8 platform until the requisite training in subsection (a)(3)(ii) of this section has been certified as
+9 completed.
+10 (3) Training and/or competency evaluation program for nursing assistants.
+11 (i) An educational program for nursing assistants who book shifts through a healthcare
+12 worker platform shall be required, which the healthcare worker platform must certify has been
+13 completed for each nursing assistant who books shifts though the healthcare worker platform. The
+14 educational program shall include orientation and periodic programs at least quarterly for a
+15 minimum of three (3) hours for the continued improvement and development of skills of nursing
+16 assistants, including competency training and required training based on licensure.
+17 (4) Health and vaccination standards. Compliance with all applicable department of health
+18 requirements for healthcare personnel, including immunizations, tuberculosis screening, and
+19 infection control standards.
+20 (5) Insurance coverage. Maintenance of occupational accident insurance coverage or
+21 verification that healthcare workers are covered by worker’s compensation insurance applicable to
+22 any work performed during a shift the healthcare worker schedules through the platform and
+23 maintenance of general and professional liability insurance, in amounts determined by the
+24 department of business regulation in accordance with § 42-14.1-2.
+25 (b) A healthcare worker platform shall be deemed the responsible entity for ensuring
+26 compliance with this section, regardless of any contractual or employment classification of the
+27 healthcare worker.
+28 23-106-6. Requirements and prohibitions.
+29 (a) A healthcare worker platform shall never require the payment of liquidated damages,
+30 employment fees, or other compensation by a healthcare worker or healthcare facility that posts
+31 shift on the healthcare worker platform if a healthcare facility that posts shifts on the healthcare
+32 worker platform hires a healthcare worker who books shifts through the healthcare worker platform
+33 as a permanent employee of a healthcare facility.
+34 (b) A healthcare worker platform shall not actively recruit potential contractors from a
+LC003846/SUB A - Page 3 of 7
+
+1 healthcare facility to which it has an active contract.
+2 (c) A healthcare worker platform shall maintain compliance with maximum allowable rates
+3 or markups established by the department of health at the rates indicated in § 23-17.7.1-10(b).
+4 23-106-7. Inspections and investigations.
+5 (a) The department of health shall make or cause to be made any inspections and
+6 investigations that it deems necessary, including service records. Those service records shall
+7 include, but are not limited to, the following:
+8 (1) Records of required health examination which shall be kept confidential as well as all
+9 required medical records, including COVID-19 testing results and all required vaccinations
+10 required by the department of health; and
+11 (2) Documents for each healthcare worker who books shifts on the healthcare worker
+12 platform, including documented evidence of credentials and other appropriate data, including,
+13 records of completion of required training and educational programs, medical records, and criminal
+14 background checks.
+15 (b) Records of violations of public health code by all healthcare workers who book shifts
+16 on healthcare worker platforms shall be tracked and made a public record. A healthcare worker
+17 platform shall maintain records of violations of public health code when the violations occurred
+18 during the shifts booked by healthcare workers through the healthcare worker platform.
+19 (c) The long-term care coordinating council (LTCC) shall develop standards for healthcare
+20 worker platforms and a ranking formula to track all healthcare worker platforms for public
+21 accountability.
+22 23-106-8. Annual reporting requirements.
+23 (a) Each healthcare worker platform shall submit an annual statistical report to the
+24 department of health including, but not limited to, the following:
+25 (1) Mean, median, and average pay rates by the healthcare worker platform of healthcare
+26 workers, by profession, in the state;
+27 (2) Number of healthcare workers who booked shifts through the healthcare worker
+28 platform in the state;
+29 (3) Number of healthcare workers who have booked shifts through the healthcare worker
+30 platform in the state who have been deactivated;
+31 (4) Number of healthcare workers who have booked shifts through the healthcare worker
+32 platform in the state reported to the office of the attorney general;
+33 (5) Number of healthcare workers who have booked shifts through the healthcare worker
+34 platform in the state reported to the department of health for abuse, neglect, misappropriation, and
+LC003846/SUB A - Page 4 of 7
+
+1 job abandonment;
+2 (6) The amounts charged to healthcare facilities for shifts worked by a healthcare worker
+3 in the state without facility identifying information; and
+4 (7) Any other information that the department of health determines relevant to determine
+5 how much healthcare facilities who participate in Medicare and Medicaid are charged by healthcare
+6 worker platforms.
+7 23-106-9. Anti-evasion.
+8 No healthcare worker platform shall structure its operations, contracts, or worker
+9 classifications for the purpose of avoiding the requirements of chapter 17.7.1 of title 23.
+10 23-106-10. Criminal records review.
+11 (a) Any healthcare worker seeking to register with a platform shall undergo a national
+12 criminal records check that shall include fingerprints submitted to the Federal Bureau of
+13 Investigation (FBI) by the bureau of criminal identification of the department of attorney general.
+14 The national criminal records check shall be initiated prior to accepting any shift.
+15 (b) The director of the department of health may, by rule, identify those positions requiring
+16 national criminal records checks. The healthcare worker, through the platform, shall apply to the
+17 bureau of criminal identification of the department of attorney general for a national criminal
+18 records check. Upon the discovery of any disqualifying information as defined in § 23-17.7.1-20,
+19 and in accordance with the rule promulgated by the director of the department of health, the bureau
+20 of criminal identification of the department of attorney general will inform the applicant, in writing,
+21 of the nature of the disqualifying information; and, without disclosing the nature of the
+22 disqualifying information, will notify the platform, in writing, that disqualifying information has
+23 been discovered.
+24 (c) A healthcare worker against whom disqualifying information under § 23-17.7.1-20(b)
+25 has been found may provide a copy of the national criminal records check to the platform who shall
+26 make a judgment regarding the registration of the healthcare worker with the platform.
+27 (d) In those situations, in which no disqualifying information has been found, the bureau
+28 of criminal identification of department of attorney general shall inform the healthcare worker and
+29 the platform, in writing, of this fact.
+30 (e) The platform shall maintain on file, subject to inspection by the department of health,
+31 evidence that national criminal records checks have been initiated on all healthcare workers seeking
+32 to register with the platform, and the results of those checks. Failure to maintain that evidence
+33 would be grounds to revoke the license of the platform.
+34 (f) The healthcare worker or the platform shall be responsible for the cost of conducting
+LC003846/SUB A - Page 5 of 7
+
+1 the national criminal records check through the bureau of criminal identification of the department
+2 of attorney general.
+3 23-106-11. Judicial review of license action.
+4 Any person who has exhausted all administrative remedies available to him or her within
+5 the department of health, and who is aggrieved by a final decision of the department of health, is
+6 entitled to judicial review in accordance with the provisions of §§ 42-35-15 and 42-35-16.
+7 23-106-12. Power of enforcement.
+8 The director of the department of health shall have power to enforce the provisions of this
+9 chapter.
+10 23-106-13. Severability.
+11 If any provision of this chapter or the application of any provision of this chapter to any
+12 person or circumstance shall be held invalid, the invalidity shall not affect the provisions or
+13 application of this chapter which can be given effect without the invalid provisions or application,
+14 and to this end the provisions of the chapter are declared to be severable.
+15 SECTION 2. Section 23-17.7.1-13 of the General Laws in Chapter 23-17.7.1 entitled
+16 "Licensing of Nursing Service Agencies" is hereby amended to read as follows:
+17 23-17.7.1-13. Agencies to which chapter inapplicable.
+18 (a) The provisions of this chapter shall not be construed to apply to hospices, home nursing
+19 care providers and homecare providers licensed in accordance with chapter 17 of this title; however,
+20 the agencies shall be subject to the same training requirements for nursing assistants and the duties
+21 of the individuals shall be the same as those prescribed by regulations.
+22 (b) Training Thru Placement, Inc., and the respite care services provided to the
+23 developmentally disabled by Training Thru Placement, Inc., shall be exempted from the provisions
+24 of this chapter.
+25 (c) The provisions of this chapter shall not be construed to apply to healthcare worker
+26 platforms licensed in accordance with chapter 106 of this title; however, the platforms shall be
+27 subject to the same training requirements for nursing assistants and the duties of the individuals
+28 shall be the same as those prescribed by regulations.
+29 SECTION 3. This act shall take effect upon passage.
+========
+LC003846/SUB A
+========
+LC003846/SUB A - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- HEALTHCARE WORKER PLATFORM ACT
+***
+1 This act would establish the healthcare worker platform and would require platforms
+2 offering healthcare shifts to register with the department of health by June 1, 2027, while,
+3 specifically, exempting them from being classified as nursing service agencies.
+4 This act would take effect upon passage.
+========
+LC003846/SUB A
+========
+LC003846/SUB A - Page 7 of 7

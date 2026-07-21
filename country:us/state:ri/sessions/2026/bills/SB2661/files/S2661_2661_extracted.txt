@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - 2661
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2661
+========
+LC005288
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- OFFSHORE WIND
+PROCUREMENT POLICY COMMISSION
+Introduced By: Senators Zurier, DiMario, and Euer
+Date Introduced: February 27, 2026
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 39 of the General Laws entitled "PUBLIC UTILITIES AND
+2 CARRIERS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 36
+4 OFFSHORE WIND PROCUREMENT POLICY COMMISSION
+5 39-36-1. Purpose.
+6 The purpose of this chapter is to establish a study commission to evaluate policies and
+7 procurement structures necessary to support the long-term development of offshore wind in Rhode
+8 Island, with the goal of procuring one thousand two hundred megawatts (1,200 MW) of offshore
+9 wind capacity by 2030 in a manner that is cost-effective, reliable, and consistent with the state’s
+10 climate and economic development goals, including high-quality job creation and workforce
+11 standards.
+12 39-36-2. Establishment of commission.
+13 (a) There is hereby established the offshore wind study commission (“the commission”).
+14 (b) The commission shall meet at least bi-monthly and shall sunset on December 31, 2030,
+15 unless extended by the general assembly.
+16 39-36-3. Membership.
+17 (a) The fifteen (15) member commission shall consist of the following members:
+18 (1) One member of the Rhode Island house of representatives, appointed by the speaker of
+
+1 the house;
+2 (2) One member of the Rhode Island senate, appointed by the president of the senate;
+3 (3) The commissioner of the Rhode Island office of energy resources, or designee;
+4 (4) The chair of the public utilities commission, or designee;
+5 (5) The director of the department of environmental management, or designee;
+6 (6) One representative of Rhode Island Energy, appointed by Rhode Island Energy;
+7 (7) Two (2) representatives of an environmental or climate advocacy organization,
+8 appointed by the environment council of Rhode Island;
+9 (8) Two (2) representatives from organized labor having relevant experience in
+10 construction and workforce standard implementation, appointed by the president of the Rhode
+11 Island AFL-CIO;
+12 (9) One representative of a ratepayers or consumer advocacy organization, appointed by
+13 the governor;
+14 (10) One expert in offshore wind development, finance, or supply chain activities,
+15 appointed by the governor;
+16 (11) One academic professional in offshore wind energy, appointed by the governor;
+17 (12) One expert in electric grid planning or electric transmission, appointed by the
+18 governor;
+19 (13) One representative of a community-based environmental justice organization,
+20 appointed by the governor.
+21 39-36-4. Duties of the commission.
+22 The commission shall study and make recommendations on:
+23 (1) Offshore wind procurement authority, including whether procurement should remain
+24 with Rhode Island Energy or be transferred to the Rhode Island office of energy resources or
+25 another state entity;
+26 (2) Procurement evaluation criteria, including price stability, cost containment, reliability,
+27 high-quality job creation, workforce development, and environmental and economic benefits;
+28 (3) Multi-state or regional procurement structures and coordination with ISO-NE states;
+29 (4) Contract pricing and flexibility mechanisms that respond to changing market conditions
+30 while protecting ratepayers and ensuring project viability;
+31 (5) Identifying onshore infrastructure and workforce development needs, including ports,
+32 transmission, and manufacturing capacity, and make recommendations to ensure Rhode Island has
+33 the grid capacity to support offshore wind energy procurements;
+34 (6) Identifying workforce development needs and opportunities, including registered
+LC005288 - Page 2 of 5
+
+1 apprenticeship utilization, local hire pathways, and supply-chain workforce needs, and make
+2 recommendations to ensure Rhode Island has a strong workforce pipeline to support offshore wind
+3 projects and related economic development, while promoting family-sustaining careers in the
+4 offshore wind industry;
+5 (7) A strategic pathway for Rhode Island to procure one thousand two hundred megawatts
+6 (1,200 MW) of offshore wind by 2030.
+7 39-36-5. Reporting.
+8 The commission shall submit an annual report to the governor and the general assembly
+9 detailing findings, recommendations, and progress toward offshore wind procurement goals. The
+10 first report shall be due by October 30, 2027.
+11 39-36-6. Organization and decision-making.
+12 (a) The commission shall elect a chair and vice chair from among its members at its first
+13 meeting.
+14 (b) A majority of the members of the commission shall constitute a quorum for the
+15 transaction of business.
+16 (c) The commission may take official action, adopt findings, or approve recommendations
+17 only when a quorum is present, and only by an affirmative vote of a majority of the members
+18 present and voting.
+19 (d) The commission may establish subcommittees or working groups to support its work;
+20 provided that, any findings or recommendations of any subcommittee or working group shall be
+21 advisory only unless adopted by the commission pursuant to subsection (c) of this section.
+22 39-36-7. Rulemaking and regulations based on commission findings.
+23 (a) Within one hundred eighty (180) days of the submission of the commission’s first
+24 annual report pursuant to § 39-36-5, the Rhode Island office of energy resources (“OER”) shall
+25 initiate a rulemaking and regulation process to implement any recommendations of the commission
+26 that require regulatory action.
+27 (b) The rulemaking and regulations shall include, at a minimum, the development of
+28 regulations establishing any necessary procurement structures, evaluation criteria, labor and
+29 workforce standards, and contract pricing mechanisms identified by the commission to support the
+30 state’s strategic pathway to procure one thousand two hundred megawatts (1,200 MW) of offshore
+31 wind by 2030.
+32 (c) If the office of energy resources determines that one or more commission
+33 recommendations cannot be implemented through rulemaking, regulation or are not in the public
+34 interest, OER shall submit a written explanation to the governor and the general assembly detailing
+LC005288 - Page 3 of 5
+
+1 the reasons for such determination.
+2 39-36-8. Effective date of chapter.
+3 Upon the effective date of this chapter, the commission seats shall be appointed by
+4 September 30, 2026, and the first meeting of this commission shall take place by October 30, 2026.
+5 SECTION 2. This act shall take effect upon passage.
+========
+LC005288
+========
+LC005288 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- OFFSHORE WIND
+PROCUREMENT POLICY COMMISSION
+***
+1 This act would create a fifteen (15) member Offshore Wind Procurement Policy
+2 Commission to evaluate policies and procurement structures necessary to support the long-term
+3 development of offshore wind in Rhode Island, with the goal of procuring one thousand two
+4 hundred megawatts (1,200 MW) of offshore wind capacity by 2030.
+5 This act would take effect upon passage.
+========
+LC005288
+========
+LC005288 - Page 5 of 5

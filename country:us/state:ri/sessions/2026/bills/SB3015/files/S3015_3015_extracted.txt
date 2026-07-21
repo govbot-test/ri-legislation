@@ -1,0 +1,426 @@
+Title: 
+Official Title: 
+Source: versions - 3015
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3015
+========
+LC005921
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO EDUCATION -- THE RHODE ISLAND EDUCATION FUNDING AND
+ACCOUNTABILITY ACT
+Introduced By: Senators Gallo, DiPalma, Tikoian, Ciccone, Burke, LaMountain,
+Raptakis, Pearson, Urso, and Zurier
+Date Introduced: March 05, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds that:
+3 (1) A high-quality public education system is essential to the prosperity and civic health of
+4 the State of Rhode Island;
+5 (2) Access to sufficient, equitable, and predictable education funding is a legal and moral
+6 obligation of the state;
+7 (3) The state's economic vitality depends upon an educated workforce equipped with
+8 twenty-first century skills including critical thinking, collaboration, and communication;
+9 (4) Inequities in local fiscal capacity and outdated funding mechanisms have produced
+10 inconsistent educational opportunities among municipalities and undermined public confidence;
+11 (5) All Rhode Island residents have a stake in the success of our state's public schools and
+12 students, and there is widespread support among stakeholders for modernizing the state's education
+13 funding system to emphasize sufficiency, student-centered equity, and shared fiscal responsibility;
+14 and
+15 (6) Implementing this framework in statute is necessary to ensure transparency,
+16 accountability, and long-term stability in education finance.
+17 SECTION 2. Title 16 of the General Laws entitled "EDUCATION" is hereby amended by
+18 adding thereto the following chapter:
+
+1 CHAPTER 7.3
+2 THE RHODE ISLAND EDUCATION FUNDING AND ACCOUNTABILITY ACT
+3 16-7.3-1. Short title.
+4 This chapter shall be known and may be cited as "The Rhode Island Education Funding
+5 and Accountability Act."
+6 16-7.3-2. Purpose.
+7 (a) The purposes of this chapter are to:
+8 (1) Establish a comprehensive transparent, and student-centered funding formula for all
+9 Rhode Island public schools;
+10 (2) Distribute state and local resources equitably according to instructional need;
+11 (3) Ensure that municipalities contribute in proportion to their fiscal capacity; and
+12 (4) Require fiscal responsibility and strategic management of education funds to improve
+13 student outcomes statewide.
+14 (b) Design a system for funding public schools established under this chapter to be:
+15 (1) Sufficient. Ensuring adequate funding for effective public education for all students;
+16 (2) Student-centered. Allocating funds based on the needs of each student;
+17 (3) Comprehensive. Encompassing all significant educational costs borne by state and local
+18 governments;
+19 (4) Predictable yet flexible. Providing stability while allowing response to unforeseen
+20 changes in enrollment or costs;
+21 (5) Transparent. Requiring public disclosure of all calculations and data used;
+22 (6) Equitable. Calculating municipal contributions based on capacity to pay; and
+23 (7) Accountable. Linking expenditures to student outcomes.
+24 16-7.3-3. Definitions.
+25 (a) As used in this chapter:
+26 (1) "Average daily membership" or "ADM" means the number of resident students enrolled
+27 in public education programs, including resident students receiving preschool special education
+28 services in a community setting, a Rhode Island pre-k classroom, or an out-of-district placement;
+29 and resident students enrolled in LEAs, as defined in § 16-7-22 and calculated by the department
+30 of elementary and secondary education.
+31 (2) "Core education amount" or "CEA" means the regional average of current per pupil
+32 educational expenditures among Rhode Island, Massachusetts, Connecticut, and New Hampshire,
+33 adjusted annually for inflation using the Consumer Price Index for Urban Consumers (CPI-U). The
+34 CEA is calculated using expenditure data in the following categories, as such categories are defined
+LC005921 - Page 2 of 13
+
+1 by the National Center for Education Statistics ("NCES") in/for its annual National Public
+2 Education Financial Survey: instruction and instruction-related expenditures, support services,
+3 food services and other educational expenditures. Data from the National Public Education
+4 Financial Survey, as published annually by NCES, and enrollment data from the Common Core of
+5 Data, also published annually by NCES, shall be used when determining the CEA. The CEA shall
+6 be updated annually.
+7 (i) "Instruction and instruction-related expenditures" consist of expenditures for activities
+8 directly related to the interaction between teachers and students, and for activities that assist with
+9 classroom instruction including, but not limited to, salaries and benefits for teachers, teaching
+10 assistants, librarians and library aides, in-service teacher trainers, curriculum development, student
+11 assessment, technology for students outside the classroom, and supplies (such as textbooks) and
+12 purchased instructional services. These expenditures also include expenditures relating to career
+13 and technical education, extracurricular, cocurricular activities and other programs providing
+14 instruction, or assisting in providing instruction, for students in prekindergarten, kindergarten,
+15 grades one through twelve (grades 1 through 12), and ungraded programs.
+16 (ii) "Support services expenditures" consist of expenditures for student support services,
+17 instructional staff support, general administration, school administration, operations and
+18 maintenance, in-district student transportation, school safety and other support services.
+19 (iii) "Food services" consist of activities that provide food to students and staff in a LEA.
+20 These services include preparing and serving regular and incidental meals or snacks in connection
+21 with school activities as well as delivery of food to schools.
+22 (3) "Department" means the Rhode Island department of elementary and secondary
+23 education ("RIDE").
+24 (4) "Economically disadvantaged student" means a student from a household with income
+25 at or below one hundred eighty-five percent (185%) of the federal poverty level or otherwise
+26 identified through state administrative data.
+27 (i) In identifying economically disadvantaged students for purposes of this chapter, the
+28 department shall, to the maximum extent practicable, utilize linked administrative data systems to
+29 ensure accurate, timely, and comprehensive identification. The department shall use direct
+30 certification through participation in state or federal public benefit programs, income data obtained
+31 from the state's income tax system through lawful interagency data-sharing agreements, or other
+32 administrative data sources, consistent with state and federal privacy laws. If/when a student does
+33 not match to state income tax records, such students shall be considered economically
+34 disadvantaged students. The department shall also permit districts to submit supplemental
+LC005921 - Page 3 of 13
+
+1 documentation to identify additional eligible students not captured through administrative data
+2 systems.
+3 (5) "Instructional program factors" means additive cost adjustments that reflect additional
+4 per-pupil expenses associated with multilingual learners, students with disabilities, and students
+5 enrolled in high-cost career and technical education programs.
+6 (6) "Local education agency" or "LEA" means and includes all of the following within the
+7 State of Rhode Island:
+8 (i) Public school districts;
+9 (ii) Regional school districts;
+10 (iii) State-operated schools;
+11 (iv) Regional collaborative schools; and
+12 (v) Charter schools and mayoral academies.
+13 (7) "Municipal ability to pay" means each municipality's capacity to fund its resident
+14 students enrolled in public education programs. Each municipality's ability to pay shall be
+15 determined by the application of a uniform local share determination rate to the aggregate equalized
+16 assessed valuation of taxable real and commercial property within each municipality as certified
+17 annually by the Rhode Island division of municipal finance.
+18 (8) "Normal costs" means the actuarially determined annual employer contribution
+19 necessary to fund pension and retirement benefits earned by active teachers during the current fiscal
+20 year.
+21 (9) "Reference year" means the year prior to the school year in which the aid is to be paid.
+22 For the purposes of calculating state and municipal educational funding pursuant to this chapter,
+23 the reference date shall be one year prior to the year in which aid is paid.
+24 (10) "Unfunded actuarially accrued liability for teacher pension benefits" means the
+25 unfunded actuarially accrued liability that accrued prior to July 1, 2025, for all teachers, as defined
+26 by § 16-16-1, who retired on or before July 1, 2025.
+27 16-7.3-4. Determination of the core education amount.
+28 (a) The CEA shall represent the baseline annual cost per student of a regular public
+29 education.
+30 (b) RIDE shall calculate the CEA annually using the most recent available federal school
+31 finance data for current educational expenditures from NCES, excluding capital outlay and debt
+32 service, to arrive at an average regional per pupil cost in Connecticut, Massachusetts, New
+33 Hampshire, and Rhode Island. This average regional per pupil cost shall be the CEA.
+34 (c) The CEA shall be adjusted annually for inflation using the CPI-U.
+LC005921 - Page 4 of 13
+
+1 16-7.3-5. Student weights and instructional program factors.
+2 (a) The cost of educating an individual student (the "individual foundation cost") shall be
+3 determined as:
+4 CEA x (1 + student success factor + instructional program factors) x adjustment factor.
+5 (b) The following weights shall apply:
+6 (1) Student success factor (SSF). Fifty percent (50%) for each economically disadvantaged
+7 student;
+8 (2) Instructional program factors:
+9 (i) Multilingual learner. Tiered weights based on WIDA ACCESS proficiency:
+10 Level 1–2 = sixty percent (60%); Level 3 = forty percent (40%); Level 4+ (while still
+11 identified) = twenty percent (20%); Former MLL (two (2) years post-exit) = ten percent (10%);
+12 (ii) Students with disabilities: Tiered weights established by RIDE based on level of
+13 service(s) identified in students' individualized education programs (IEP);
+14 (iii) Career and technical education (CTE): Additional weight equal to the amount by which
+15 a CTE program's verified average per-pupil cost exceeds the CEA as determined annually by the
+16 Rhode Island board of trustees on career and technical education; and
+17 (3) Adjustment factor. A normalization coefficient ensuring that actual total statewide per-
+18 pupil spending reflects the CEA per-pupil amount each year. The adjustment factor shall be
+19 determined each year as follows: the statewide total foundation cost shall be divided by the
+20 statewide ADM to yield an unadjusted statewide average per-pupil funding amount; the actual CEA
+21 per-pupil amount shall then be divided by the unadjusted statewide average per-pupil funding
+22 amount. The resulting percentage shall be the adjustment factor for the year (see equation below):
+23 (i) (Total statewide foundation cost) divided by (statewide ADM) = unadjusted statewide
+24 per pupil amount.
+25 (ii) (CEA per pupil amount) divided by (unadjusted statewide per pupil amount) =
+26 adjustment factor.
+27 (c) All weights are additive.
+28 (d) The department shall annually publish, not later than March 1, the methodology and
+29 calculation used to determine the adjustment factor described in subsection (b)(3) of this section,
+30 including the data sources, assumptions, and normalization procedure used to ensure statewide per-
+31 pupil spending reflects the CEA. The publication shall be made available on the department's
+32 website and transmitted to the chairpersons of the house and senate finance committees.
+33 16-7.3-6. Shared fiscal responsibility.
+34 (a) The total cost of public education in Rhode Island shall be jointly borne by the state and
+LC005921 - Page 5 of 13
+
+1 municipalities. The total statewide foundation cost is determined by multiplying the individual
+2 foundation cost by the total state ADM.
+3 (b) Expenditures shall be categorized as follows:
+4 (1) State-funded costs:
+5 (i) High-cost special education exceeding four (4) times the statewide average per-pupil
+6 expenditure which the state shall pay directly to the service provider or reimburse to the LEA on a
+7 current-year basis, without delay, in the following fiscal year;
+8 (ii) Out-of-district transportation, including for homeless students, wards of the state,
+9 students with disabilities and CTE placements;
+10 (iii) Early childhood screening mandated under federal law; and
+11 (iv) Unfunded actuarially accrued liability for teacher pension benefits that accrued prior
+12 to July 1, 2025, for all teachers, as defined by § 16-16-1, who retired on or before July 1, 2025.
+13 (2) Shared costs. All current educational expenditures comprising the CEA.
+14 (3) Municipal costs. Any expenditures authorized by a municipality that exceed that
+15 municipality's minimum local contributions, as defined in § 16-7.3-8.
+16 (c) The costs associated with retirement benefits for current teachers ("normal costs") shall
+17 be included within the core educational amount under § 16-7.3-4 as a component of the baseline
+18 annual cost per student of a regular public education. The costs associated with unfunded actuarially
+19 accrued liability for teacher pension benefits shall be borne fully by the state.
+20 16-7.3-7. Determination of state share.
+21 (a) The general assembly shall determine annually the total state share, expressed as a
+22 percentage of the total statewide foundation cost.
+23 (b) The total state share is applied exclusively to the total statewide foundation cost and
+24 does not apply to the state-funded costs enumerated in § 16-7.3-6(b)(1).
+25 (c) The department shall calculate each LEA's state aid by subtracting the required
+26 minimum local contribution under § 16-7.3-8 from the LEA's total foundation cost.
+27 (d) The department shall annually publish, not later than September 1, a report
+28 summarizing the total state and municipal shares of educational expenditures for the preceding
+29 fiscal year, including each municipality's required minimum local contribution and actual
+30 contribution. The report shall be submitted to the governor and the chairpersons of the house and
+31 senate finance committees and posted publicly on the department's website.
+32 16-7.3-8. Municipal contribution based on ability to pay.
+33 (a) Each municipality shall contribute at least its minimum local contribution toward the
+34 education of all resident students.
+LC005921 - Page 6 of 13
+
+1 (b) The department shall calculate a local share determination rate annually. The aggregate
+2 local contribution necessary to meet the total statewide foundation cost shall be determined by
+3 subtracting the total state share from the total statewide foundation cost. The local share
+4 determination rate shall be calculated by dividing the aggregate local contribution by the aggregate
+5 equalized assessed valuation of taxable real and commercial property in the state, and shall be
+6 expressed as a percentage. The department shall utilize the equalized assessed valuation of taxable
+7 real and commercial property within each municipality as certified annually by the Rhode Island
+8 division of municipal finance in its calculation of the local share determination rate.
+9 (c) The minimum local contribution for each municipality shall be determined by applying
+10 the local share determination rate to each municipality's respective equalized assessed valuation of
+11 taxable real and commercial property.
+12 (d) Municipalities may exceed their respective minimum local contributions. A
+13 municipality shall have full discretion over the allocation of any local funding it may appropriate
+14 beyond its minimum local contribution.
+15 (e) Municipalities that fail to meet their minimum local contribution shall have their state
+16 aid reduced by double the shortfall, subject to hardship appeal under § 16-7.3-9.
+17 (f) A municipality's annual per-pupil minimum local contribution shall be determined by
+18 dividing its minimum local contribution by the municipality's ADM (the number of resident
+19 students enrolled in public education programs as defined in § 16-7.3-3(a)(1)).
+20 (g) The department shall ensure that municipalities make quarterly payments in July,
+21 October, January and April, directly and in a timely manner to all LEAs serving their respective
+22 resident students.
+23 (h) No municipality, department or municipal or regional school district shall impose,
+24 retain, or apply a holdback, deduction, or offset against state or local aid allocated for students
+25 enrolled in public charter schools and state schools. Funds shall follow each student in full to each
+26 receiving public charter school or state school consistent with each student's calculated individual
+27 foundation cost.
+28 16-7.3-9. Hardship appeals and strategic reserve.
+29 (a) A strategic education reserve fund is hereby established. The general assembly shall
+30 appropriate and direct funding in an amount equivalent to one percent (1%) of the total statewide
+31 foundation cost to the strategic education reserve fund annually. The fiscal responsibility advisory
+32 board established under § 16-7.3-12 shall oversee and administer the strategic education reserve
+33 fund. The fiscal responsibility advisory board shall, among other powers and responsibilities
+34 described in § 16-7.3-12, hear and decide hardship appeals for:
+LC005921 - Page 7 of 13
+
+1 (1) Municipal hardship adjustments resulting from unforeseen revenue shortfalls; and
+2 (2) LEA relief for unanticipated mid-year enrollment or cost increases.
+3 (b) Appeals shall be granted only for unforeseeable and extraordinary circumstances, as
+4 determined by the fiscal responsibility advisory board.
+5 (c) Approved relief shall not extend beyond one fiscal year without reapplication.
+6 16-7.3-10. Timing and predictability of payments.
+7 (a) The department shall issue preliminary state aid estimates by March 1 of each year and
+8 final allocations by July 1 following the effective date of the state budget.
+9 (b) Payments of annual state aid shall be made quarterly, in July, October, January and
+10 April.
+11 (c) The general assembly may authorize multi-year state aid commitments to promote fiscal
+12 stability.
+13 16-7.3-11. Fiscal responsibility and reporting.
+14 (a) Each LEA shall annually:
+15 (1) Adopt a public plan linking spending to student outcome goals;
+16 (2) Present that plan to the LEA's governing body and appropriating authority, if
+17 applicable;
+18 (3) Report revenues and expenditures through the universal chart of accounts (UCOA)
+19 system; and
+20 (4) Undergo an independent fiscal audit.
+21 (b) The department shall maintain a public online dashboard reporting LEA expenditures,
+22 weights applied, and student outcome data. The dashboard shall permit LEA-by-LEA and school-
+23 by-school comparisons of spending patterns, student demographics, and academic outcomes, and
+24 shall display trend data linking expenditures to student performance indicators.
+25 (c) There is hereby established a universal chart of accounts (UCOA) transition fund to
+26 provide LEAs with technical assistance and financial support necessary to achieve full compliance
+27 with subsection (a)(3) of this section. The fund shall be administered by the department from state
+28 appropriations or grants, and may be used for software alignment, staff training, or other
+29 implementation costs.
+30 16-7.3-12. Fiscal responsibility advisory board.
+31 (a) The general assembly finds and declares that there is a need to establish a fiscal
+32 responsibility advisory board within the office of the auditor general. The fiscal responsibility
+33 advisory board shall consist of eleven (11) members.
+34 (b) Membership shall include one representative of:
+LC005921 - Page 8 of 13
+
+1 (1) The Rhode Island School Superintendents Association;
+2 (2) The Rhode Island Association of School Committees;
+3 (3) The Rhode Island League of Cities and Towns;
+4 (4) The Rhode Island federation of Teachers and Health Professionals;
+5 (5) The National Education Association Rhode Island;
+6 (6) The Rhode Island Association of School Principals;
+7 (7) The Rhode Island League of Charter Public Schools; and
+8 (8) Four (4) public members with expertise in education finance, law, and public
+9 management, appointed by the governor with the advice and consent of the senate.
+10 (c) Members shall serve staggered three (3) year terms and may be reappointed for no more
+11 than two (2) consecutive terms.
+12 (d) The fiscal responsibility advisory board shall:
+13 (1) Monitor fiscal responsibility, transparency, and compliance;
+14 (2) Adjudicate hardship appeals under § 16-7.3-9;
+15 (3) Provide technical assistance and oversight to LEAs; and
+16 (4) Submit an annual report to the governor and general assembly summarizing fiscal and
+17 performance outcomes statewide.
+18 16-7.3-13. Tiered system of support and intervention.
+19 (a) The fiscal responsibility advisory board shall classify LEAs based on fiscal
+20 management and student outcomes by the following tiers:
+21 (1) Tier 1. LEAs receive technical assistance and planning support.
+22 (2) Tier 2. LEAs shall submit corrective action plans jointly approved by RIDE and the
+23 fiscal responsibility advisory board.
+24 (3) Tier 3. LEAs may be subject to directed fiscal management or conditional spending
+25 authority.
+26 (b) Persistent noncompliance may trigger state intervention and support pursuant to § 16-
+27 7.1-5.
+28 (c) For each LEA placed in Tier 1, 2, or 3, the fiscal responsibility advisory board shall:
+29 (1) Publish on the department's website any corrective-action or improvement plan
+30 developed under this section;
+31 (2) Convene quarterly meetings with the LEA and the department to review progress; and
+32 (3) Require co-planning between LEA officials and the department for Tier 2 and Tier 3
+33 interventions.
+34 16-7.3-14. Early childhood education integration.
+LC005921 - Page 9 of 13
+
+1 (a) The state shall fund early childhood screening and special education services for
+2 children ages three (3) to five (5) years as part of the CEA.
+3 (1) The department shall design, implement, and administer a statewide early childhood
+4 screening system to ensure universal developmental screening for all children ages three (3)
+5 through five (5) years.
+6 (2) The department shall select or approve a uniform screening tool, coordinate data
+7 reporting with early-intervention programs, and fund all associated costs directly from state
+8 appropriations.
+9 (b) The general assembly shall appropriate funds annually to support the Rhode Island pre-
+10 k program. LEAs may apply for Rhode Island pre-k funds through a competitive grant application
+11 process administered by the department.
+12 (c) The governor shall establish a separate commission to design a unified early childhood
+13 education and care system for children from birth through age five (5) years.
+14 16-7.3-15. School housing and facilities alignment.
+15 (a) The department shall ensure equitable access to housing aid for all LEAs. School
+16 housing aid shall be available to charter schools, mayoral academies and state-operated schools at
+17 a rate that is proportionally equivalent to the housing aid rate(s) available to the municipalities in
+18 which their students reside. A charter school, mayoral academy or state-operated school that enrolls
+19 students from a single municipality shall be eligible to access school housing aid at the same rate
+20 as that particular municipality. A charter school, mayoral academy or state-operated school that
+21 enrolls students from more than one municipality shall be eligible to access school housing aid at
+22 a proportionally blended rate that reflects each "sending" municipality's respective reimbursement
+23 rate and the percentage of students enrolled in the charter school, mayoral academy or state-
+24 operated school from each sending municipality in the year in which an application for housing aid
+25 is submitted.
+26 (b) The state shall not reallocate existing housing aid funds in a manner that reduces the
+27 current level of support for any LEA.
+28 16-7.3-16. Rulemaking and regulation authority.
+29 (a) The department, in consultation with the fiscal responsibility advisory board, shall
+30 promulgate rules and regulations necessary to implement this chapter and achieve a unified,
+31 transparent, and student-centered funding formula and ensure transparency, accountability, and
+32 long-term stability in education finance for all Rhode Island public schools.
+33 (b) Among other considerations, the department's rulemaking and regulatory process shall
+34 include:
+LC005921 - Page 10 of 13
+
+1 (1) A comprehensive review of Rhode Island's basic education program (200-RICR-20-
+2 10-1, the "BEP") to inform any revisions necessary to ensure alignment with the provisions of this
+3 chapter.
+4 (2) Establishing clear, efficient and reliable methods to facilitate the accurate identification
+5 and certification of economically disadvantaged students consistent with § 16-7.3-3(a)(4).
+6 (3) Defining methodologies for determining the weights, adjustment factors and reporting
+7 standards introduced in this chapter.
+8 16-7.3-17. Transition and phase-in.
+9 (a) The provisions of this chapter shall be phased in over a period not to exceed three (3)
+10 fiscal years from the effective date of this chapter; provided, however, the department may
+11 implement any component earlier if adequate administrative readiness and appropriations exist.
+12 (b) The department shall develop a transition plan specifying annual adjustments to state
+13 and municipal shares to achieve full implementation.
+14 (c) During the transition period, existing aid programs shall continue to the extent
+15 necessary to prevent funding shortfalls.
+16 16-7.3-18. Severability.
+17 If any provision of this chapter or its application to any person or circumstance is held
+18 invalid, the remainder of the chapter and its application shall not be affected.
+19 16-7.3-19. Cost analysis for new education mandates.
+20 (a) Any law, regulation, or rule enacted or promulgated after the effective date of this
+21 chapter that imposes a new requirement on LEAs or municipalities relating to education shall
+22 include a fiscal impact statement estimating the cost of compliance.
+23 (b) The fiscal impact statement shall be prepared by the department of elementary and
+24 secondary education in consultation with the department of administration prior to legislative or
+25 regulatory adoption.
+26 (c) No law, regulation, or rule enacted or promulgated after the effective date of this chapter
+27 that imposes a new requirement on LEAs or municipalities relating to education shall take effect
+28 or remain in effect without a specific state appropriation sufficient to cover the estimated cost of
+29 implementation.
+30 16-7.3-20. Inconsistent provisions in other laws superseded.
+31 Insofar as the provisions of this chapter are inconsistent with the provisions of any other
+32 law, general, special or local including, but not limited to, §§ 16-7.2-2 through 16-7.2-10 and
+33 associated provisions of §§ 16-7-15 through 16-7-47 the provisions of this chapter shall be
+34 controlling.
+LC005921 - Page 11 of 13
+
+1 SECTION 3. This act shall take effect upon passage, with full implementation no later than
+2 fiscal year 2030.
+========
+LC005921
+========
+LC005921 - Page 12 of 13
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- THE RHODE ISLAND EDUCATION FUNDING AND
+ACCOUNTABILITY ACT
+***
+1 This act would establish the Rhode Island education funding and accountability act, which
+2 would include a totally revised and revamped formula for funding all levels of public education in
+3 Rhode Island.
+4 This act would take effect upon passage, with full implementation no later than fiscal year
+5 2030.
+========
+LC005921
+========
+LC005921 - Page 13 of 13

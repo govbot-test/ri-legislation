@@ -1,0 +1,332 @@
+Title: 
+Official Title: 
+Source: versions - 8519
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8519
+========
+LC006419
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- RENEWABLE ENERGY
+STANDARD
+Introduced By: Representatives Carson, and Shekarchi
+Date Introduced: May 06, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 39-26-1, 39-26-2, 39-26-4 and 39-26-6 of the General Laws in
+2 Chapter 39-26 entitled "Renewable Energy Standard" are hereby amended to read as follows:
+3 39-26-1. Legislative findings.
+4 The General Assembly finds that:
+5 (1) The people and energy users of Rhode Island have an interest in having electricity
+6 supplied in the state come from a diversity of energy sources including renewable and other zero-
+7 emission resources;
+8 (2) Increased use of renewable energy and other zero-emission resources may have the
+9 potential to lower and stabilize future energy costs;
+10 (3) Increased use of renewable energy and other zero-emission resources can reduce air
+11 pollutants, including carbon dioxide emissions, that adversely affect public health and contribute
+12 to global warming;
+13 (4) Massachusetts, Connecticut, and other states have established renewable energy
+14 standard programs to encourage the development of renewable energy sources;
+15 (5) It is in the interest of the people, in order to protect public health and the environment
+16 and to promote the general welfare, to establish a renewable energy standard program to increase
+17 levels of electrical energy supplied in the state from renewable and other zero-emission resources.
+18 39-26-2. Definitions.
+
+1 (a) When used in this chapter:
+2 (1) “Alternative compliance payment” means a payment to the renewable energy
+3 development fund of fifty dollars ($50.00) per megawatt-hour of renewable energy obligation, in
+4 2003 dollars, adjusted annually up or down by the consumer price index, which may be made in
+5 lieu of standard means of compliance with this statute.
+6 (2) “Commission” means the Rhode Island public utilities commission.
+7 (3) “Compliance year” means a calendar year beginning January 1 and ending December
+8 31, for which an obligated entity must demonstrate that it has met the requirements of this statute.
+9 (4) “Customer-sited generation facility” means a generation unit that is interconnected on
+10 the end-use customer’s side of the retail electricity meter in such a manner that it displaces all or
+11 part of the metered consumption of the end-use customer.
+12 (5) “Electrical energy product” means an electrical energy offering, including, but not
+13 limited to, last-resort and standard-offer service, that can be distinguished by its generation
+14 attributes or other characteristics, and that is offered for sale by an obligated entity to end-use
+15 customers.
+16 (6) “Eligible biomass fuel” means fuel sources including brush, stumps, lumber ends and
+17 trimmings, wood pallets, bark, wood chips, shavings, slash, and other clean wood that is not mixed
+18 with other solid wastes; agricultural waste, food, and vegetative material; energy crops; landfill
+19 methane; biogas; or neat biodiesel and other neat liquid fuels that are derived from such fuel
+20 sources.
+21 (7) “Eligible renewable energy resource” means resources as defined in § 39-26-5.
+22 (8) “End-use customer” means a person or entity in Rhode Island that purchases electrical
+23 energy at retail from an obligated entity.
+24 (9) “Existing renewable energy resources” means generation units using eligible renewable
+25 energy resources and first going into commercial operation before December 31, 1997.
+26 (10) “Generation attributes” means the nonprice characteristics of the electrical energy
+27 output of a generation unit including, but not limited to, the unit’s fuel type, emissions, vintage,
+28 and policy eligibility.
+29 (11) “Generation unit” means a facility that converts a fuel or an energy resource into
+30 electrical energy.
+31 (12) “High-heat medical waste processing facility” means a facility that:
+32 (i) Generates electricity from the combustion, gasification, or pyrolysis of regulated
+33 medical waste;
+34 (ii) Generates electricity from the combustion of fuel derived from the gasification or
+LC006419 - Page 2 of 10
+
+1 pyrolysis of regulated medical waste; or
+2 (iii) Disposes of, processes, or treats regulated medical waste through combustion,
+3 gasification, pyrolysis, or any process that exposes waste to temperatures above four hundred
+4 degrees Fahrenheit (400ºF).
+5 (13) “NE-GIS” means the generation information system operated by NEPOOL, its
+6 designee or successor entity, that includes a generation information database and certificate system,
+7 and that accounts for the generation attributes of electrical energy consumed within NEPOOL.
+8 (14) “NE-GIS certificate” means an electronic record produced by the NE-GIS that
+9 identifies the relevant generation attributes of each megawatt-hour accounted for in the NE-GIS.
+10 (15) “NEPOOL” means the New England Power Pool or its successor.
+11 (16) “New renewable energy resources” means generation units using eligible renewable
+12 energy resources and first going into commercial operation after December 31, 1997; or the
+13 incremental output of generation units using eligible renewable energy resources that have
+14 demonstrably increased generation in excess of ten percent (10%) using eligible renewable energy
+15 resources through capital investments made after December 31, 1997; but in no case involve any
+16 new impoundment or diversion of water with an average salinity of twenty (20) parts per thousand
+17 or less.
+18 (17) “Obligated entity” means a person or entity who or that sells electrical energy to end-
+19 use customers in Rhode Island, including, but not limited to: nonregulated power producers and
+20 electric utility distribution companies, as defined in § 39-1-2, supplying standard-offer service, last-
+21 resort service, or any successor service to end-use customers, including Narragansett Electric, but
+22 not to include Block Island Power Company as described in § 39-26-7 or Pascoag Utility District.
+23 (18) “Off-grid generation facility” means a generation unit that is not connected to a utility
+24 transmission or distribution system.
+25 (19) “Renewable energy resource” means any one or more of the renewable energy
+26 resources described in § 39-26-5(a).
+27 (20) “Reserved certificate” means a NE-GIS certificate sold independent of a transaction
+28 involving electrical energy, pursuant to Rule 3.4 or a successor rule of the operating rules of the
+29 NE-GIS.
+30 (21) “Reserved certificate account” means a specially designated account established by
+31 an obligated entity, pursuant to Rule 3.4 or a successor rule of the operating rules of the NE-GIS,
+32 for transfer and retirement of reserved certificates from the NE-GIS.
+33 (22) “Self-generator” means an end-use customer in Rhode Island that displaces all or part
+34 of its retail electricity consumption, as metered by the distribution utility to which it interconnects,
+LC006419 - Page 3 of 10
+
+1 through the use of a customer-sited generation facility, and the ownership of any such facility shall
+2 not be considered an obligated entity as a result of any such ownership arrangement.
+3 (23) “Small hydro facility” means a facility employing one or more hydroelectric turbine
+4 generators and with an aggregate capacity not exceeding thirty megawatts (30 MW). For purposes
+5 of this definition, “facility” shall be defined in a manner consistent with Title 18 of the Code of
+6 Federal Regulations, section 292.204; provided, however, that the size of the facility is limited to
+7 thirty megawatts (30 MW), rather than eighty megawatts (80 MW).
+8 (24) Zero-emission resource means:
+9 (i) Nuclear energy resources, meaning electricity generated by a nuclear fission or nuclear
+10 fusion facility that is licensed by the United States Nuclear Regulatory Commission or its successor,
+11 and that produces no direct emissions of greenhouse gases or criteria air pollutants at the point of
+12 generation.
+13 (ii) Large-scale hydroelectric facilities, meaning hydroelectric generation units that are not
+14 “small hydro facilities” as defined in § 39-26-2, that generate electricity through the conversion of
+15 the energy of flowing or falling water and that produce no direct emissions of greenhouse gases or
+16 criteria air pollutants at the point of generation.
+17 (b) For the purposes of the regulations promulgated under this chapter, eligible zero-
+18 emission energy resources are generation units in the NEPOOL control area using zero-emission
+19 energy resources as defined in this section that may be used to meet a separate clean energy
+20 compliance requirement, but shall not count towards the renewable energy standard unless
+21 expressly authorized.
+22 (c) A generation unit located in an adjacent control area outside of the NEPOOL may
+23 qualify as an eligible zero-emission energy resource, but the associated generation attributes shall
+24 be applied to any zero-emission standard established under this chapter only to the extent that the
+25 energy produced by the generation unit is actually delivered into NEPOOL for consumption by
+26 New England customers. The delivery of the energy from the generation unit into NEPOOL must
+27 be demonstrated by:
+28 (1) A unit-specific bilateral contract for the sale and delivery of such energy into NEPOOL;
+29 (2) Confirmation from ISO-New England that the zero-emission energy was actually
+30 settled in the NEPOOL system; and
+31 (3) Confirmation through the North American Electric Reliability Corporation tagging
+32 system, or its successor, that the import of the energy into NEPOOL actually occurred; or
+33 (4) Any such other requirements as the commission deems appropriate.
+34 (d) NE-GIS certificates associated with energy production from off-grid generation and
+LC006419 - Page 4 of 10
+
+1 customer-sited generation facilities certified by the commission as eligible zero-emission energy
+2 resources may also be used to demonstrate compliance with any zero-emission standard.
+3 39-26-4. Renewable energy standard.
+4 (a) Starting in compliance year 2007, all obligated entities shall obtain at least three percent
+5 (3%) of the electricity they sell at retail to Rhode Island end-use customers, adjusted for electric
+6 line losses, from eligible renewable energy resources, and zero-emission resources escalating,
+7 according to the following schedule:
+8 (1) At least three percent (3%) of retail electricity sales in compliance year 2007;
+9 (2) An additional one-half of one percent (0.5%) of retail electricity sales in each of the
+10 following compliance years 2008, 2009, 2010;
+11 (3) An additional one percent (1%) of retail electricity sales in each of the following
+12 compliance years 2011, 2012, 2013, 2014, provided that the commission has determined the
+13 adequacy, or potential adequacy, of renewable energy supplies to meet these percentage
+14 requirements;
+15 (4) An additional one and one-half percent (1.5%) of retail electricity sales in each of the
+16 following compliance years 2015, 2016, 2017, 2018, 2019, 2020, 2021, and 2022;
+17 (5) [Deleted by P.L. 2016, ch. 144, § 1 and P.L. 2016, ch. 155, § 1.]
+18 (6) An additional four percent (4%) of retail electricity sales in 2023;
+19 (7) An additional five percent (5%) of retail electricity sales in 2024;
+20 (8) An additional six percent (6%) of retail electricity sales in 2025;
+21 (9) An additional seven percent (7%) of retail electricity sales in 2026 and 2027;
+22 (10) An additional seven and one-half percent (7.5%) of retail electricity sales in 2028;
+23 (11) An additional eight percent (8%) of retail electricity sales in 2029;
+24 (12) An additional eight and one-half percent (8.5%) of retail electricity sales in 2030;
+25 (13) An additional nine percent (9%) of retail electricity sales in 2031; and
+26 (14) An additional nine and one-half percent (9.5%) of retail electricity sales in 2032 and
+27 2033 to achieve the goal that one hundred percent (100%) of Rhode Island’s electricity demand is
+28 from renewable energy by 2033 and each year thereafter.
+29 (b) For each obligated entity and in each compliance year, the amount of retail electricity
+30 sales used to meet obligations under this statute that are derived from existing renewable energy
+31 resources shall not exceed two percent (2%) of total retail electricity sales. Starting in compliance
+32 year 2027, for each obligated entity and in each compliance year following, eighty percent (80%)
+33 of the amount of retail electricity sales used to meet obligations under this statute shall be derived
+34 from new renewable energy resources and up to twenty percent (20%) may be derived from existing
+LC006419 - Page 5 of 10
+
+1 renewable energy resources and/or zero-emission resources.
+2 (c) The minimum renewable energy percentages set forth in subsection (a) shall be met for
+3 each electrical energy product offered to end-use customers, in a manner that ensures that the
+4 amount of renewable energy of end-use customers voluntarily purchasing renewable energy is not
+5 counted toward meeting such percentages. Notwithstanding the foregoing, municipalities engaged
+6 in aggregation pursuant to § 39-3-1.2 may include in their aggregation plan terms that would allow
+7 voluntary renewable energy products to be counted toward meeting such percentages. In 2024, the
+8 commission, with input from the office of energy resources, division of public utilities and carriers,
+9 obligated entities, other market participants, and the public, shall assess the impact of allowing
+10 voluntary renewable energy purchases to be counted toward meeting the annual percentages. The
+11 commission shall submit a report of its findings and recommendations to the governor, speaker of
+12 the house, and senate president no later than September 1, 2024.
+13 (d) To the extent consistent with the requirements of this chapter, compliance with the
+14 renewable energy standard may be demonstrated through procurement of NE-GIS certificates
+15 relating to generating units certified by the commission as using eligible renewable energy sources
+16 or zero-emission resources, as evidenced by reports issued by the NE-GIS administrator.
+17 Procurement of NE-GIS certificates from off-grid and customer-sited generation facilities, verified
+18 by the commission as eligible renewable energy resources, may also be used to demonstrate
+19 compliance. With the exception of contracts for generation supply entered into prior to 2002, initial
+20 title to NE-GIS certificates from off-grid and customer-sited generation facilities and from all other
+21 eligible renewable energy resources, shall accrue to the owner of such a generation facility, unless
+22 such title has been explicitly deemed transferred pursuant to contract or regulatory order.
+23 (e) In lieu of providing NE-GIS certificates pursuant to subsection (d) of this section, an
+24 obligated entity may also discharge all or any portion of its compliance obligations by making an
+25 alternative compliance payment to the renewable energy development fund established pursuant to
+26 § 39-26-7.
+27 (f) Retail electricity sales pursuant to a nonregulated power producer’s supply contract that
+28 was executed prior to July 1, 2022, shall be required to obtain an additional one and one-half percent
+29 (1.5%) of retail electricity sales each year and are exempted from the requirements of subsections
+30 (a)(6) through (a)(14) of this section until the end date of the term of the nonregulated power
+31 producer’s supply contract.
+32 (g) Nothing in this section shall be construed to reduce or delay the annual procurement of
+33 renewable energy resources required under this chapter. Provided, further, zero-emission resources
+34 shall supplement, but not supplant, renewable energy procurement necessary to meet the
+LC006419 - Page 6 of 10
+
+1 requirements of this chapter.
+2 39-26-6. Duties of the commission.
+3 (a) The commission shall:
+4 (1) Develop and adopt regulations on or before December 31, 2005, for implementing a
+5 renewable energy standard, which regulations shall include, but be limited to, provisions for:
+6 (i) Verifying the eligibility of renewable energy generators and the production of energy
+7 from such generators, including requirements to notify the commission in the event of a change in
+8 a generator’s eligibility status;
+9 (ii) Standards for contracts and procurement plans for renewable energy resources to
+10 achieve the purposes of this chapter;
+11 (iii) Flexibility mechanisms for the purposes of easing compliance burdens; facilitating
+12 bringing new renewable resources on-line; and avoiding and/or mitigating conflicts with state-level
+13 source disclosure requirements and green marketing claims throughout the region; which flexibility
+14 mechanisms shall allow obligated entities to: (A) Demonstrate compliance over a compliance year;
+15 and (B) Bank excess compliance for two (2) subsequent compliance years, capped at thirty percent
+16 (30%) of up to three (3) subsequent compliance years, without limitation on the percentage of the
+17 current year’s obligation; and
+18 (iv) Annual compliance filings to be made by all obligated entities within one month after
+19 NE-GIS reports are available for the fourth (4th) quarter of each calendar year. All electric-utility-
+20 distribution companies shall cooperate with the commission in providing data necessary to assess
+21 the magnitude of obligation and verify the compliance of all obligated entities.
+22 (2) Authorize rate recovery by electric-utility-distribution companies of all prudent
+23 incremental costs arising from the implementation of this chapter, including, without limitation:
+24 the purchase of NE-GIS certificates; including certificates from zero-emission resources; the
+25 payment of alternative compliance payments; required payments to support the NE-GIS;
+26 assessments made pursuant to § 39-26-7(c); and the incremental costs of complying with energy
+27 source disclosure requirements.
+28 (3) Certify eligible renewable energy resources and zero-emission resources by issuing
+29 statements of qualification within ninety (90) days of application. The commission shall provide
+30 prospective reviews for applicants seeking to determine whether a facility would be eligible.
+31 (4) [Deleted by P.L. 2022, ch. 218, § 1 and P.L. 2022, ch. 226, § 1.]
+32 (5) Establish sanctions for those obligated entities that, after investigation, have been found
+33 to fail to reasonably comply with the commission’s regulations. No sanction or penalty shall relieve
+34 or diminish an obligated entity from liability for fulfilling any shortfall in its compliance obligation;
+LC006419 - Page 7 of 10
+
+1 provided, however, that no sanction shall be imposed if compliance is achieved through alternative
+2 compliance payments. The commission may suspend or revoke the certification of generation units,
+3 certified in accordance with subsection (a)(3) of this section, that are found to provide false
+4 information or that fail to notify the commission in the event of a change in eligibility status or
+5 otherwise comply with its rules. Financial penalties resulting from sanctions from obligated entities
+6 shall not be recoverable in rates.
+7 (6) Report, by February 15, 2006, and by February 15 each year thereafter, to the governor,
+8 the speaker of the house, and the president of the senate on the status of the implementation of the
+9 renewable energy standards in Rhode Island and other states, and which report shall include in
+10 2009, and each year thereafter, the level of use of renewable energy certificates by eligible
+11 renewable energy resources and zero-emission resources, and the portion of renewable energy
+12 standards met through alternative compliance payments, and the amount of rate increases
+13 authorized pursuant to subsection (a)(2) of this section.
+14 (b) Consistent with the public policy objective of developing renewable generation as an
+15 option in Rhode Island, and subject to the review and approval of the commission, the electric
+16 distribution company is authorized to propose and implement pilot programs to own and operate
+17 no more than fifteen megawatts (15 MW) of renewable-generation demonstration projects in Rhode
+18 Island and may include the costs and benefits in rates to distribution customers. At least two (2)
+19 demonstration projects shall include renewable generation installed at, or in the vicinity of
+20 nonprofit, affordable-housing projects where energy savings benefits are provided to reduce
+21 electric bills of the customers at the nonprofit, affordable-housing projects. Any renewable-
+22 generation proposals shall be subject to the review and approval of the commission. The
+23 commission shall annually make an adjustment to the minimum amounts required under the
+24 renewable energy standard under this chapter in an amount equal to the kilowatt hours generated
+25 by such units owned by the electric distribution company. The electric and gas distribution
+26 company shall also be authorized to propose and implement smart-metering and smart-grid
+27 demonstration projects in Rhode Island, subject to the review and approval of the commission, in
+28 order to determine the effectiveness of such new technologies for reducing and managing energy
+29 consumption, and may include the costs of such demonstration projects in distribution rates to
+30 electric customers to the extent the project pertains to electricity usage and in distribution rates to
+31 gas customers to the extent the project pertains to gas usage.
+32 SECTION 2. Chapter 39-26 of the General Laws entitled "Renewable Energy Standard" is
+33 hereby amended by adding thereto the following section:
+34 39-26-4.1. Legislative reporting.
+LC006419 - Page 8 of 10
+
+1 (a) On or before January 1, 2030, the Rhode Island office of energy resources and the public
+2 utilities commission shall conduct a comprehensive review of:
+3 (1) The status of the state’s progress toward meeting the renewable energy standard;
+4 (2) The status of the state’s progress toward meeting the greenhouse gas emissions
+5 reduction requirements; and
+6 (3) The extent to which renewable energy procurement and development within the state
+7 is sufficient to ensure long-term compliance with such requirements.
+8 (b) On or before December 31, 2030, the office of energy resources and the public utilities
+9 commission shall submit a report of their findings, and recommendation of actions required
+10 pursuant to this section, to the governor, the speaker of the house, the president of the senate, and
+11 the chairs of the house and senate committees on environment and natural resources, finance, and
+12 commerce. The report shall detail the following:
+13 (1) Renewable and other clean energy resources used for compliance;
+14 (2) Emissions impacts; and
+15 (3) Any statutory changes needed to reach the 2033 targets established pursuant to this
+16 chapter.
+17 SECTION 3. This act shall take effect on July 1, 2026.
+========
+LC006419
+========
+LC006419 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- RENEWABLE ENERGY
+STANDARD
+***
+1 This act would freeze obligated entities’ annual requirements regarding percentages of
+2 retail sales of electricity obtained from renewable energy sources for the years 2027, 2028, and
+3 2029. This act would further permit the use of nuclear energy obtained outside the state for use
+4 within the state to achieve the state’s renewable energy standard.
+5 This act would take effect on July 1, 2026.
+========
+LC006419
+========
+LC006419 - Page 10 of 10

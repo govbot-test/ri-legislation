@@ -1,0 +1,271 @@
+Title: 
+Official Title: 
+Source: versions - 2735  SUB A as amended
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2735 SUBSTITUTE A AS AMENDED
+========
+LC005116/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC PROPERTY AND WORKS -- STATE PURCHASES
+Introduced By: Senators Burke, Bissaillon, Thompson, Famiglietti, Patalano, Raptakis,
+and Tikoian
+Date Introduced: February 27, 2026
+Referred To: Senate Labor & Gaming
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly recognizes and finds that:
+3 (1) The Rhode Island Supreme Court has held that before any public entity includes a
+4 project labor agreement ("PLA") in a bid specification for a public contract, the public entity must
+5 first complete an objective, reasoned study using reviewable criteria to determine that the adoption
+6 of a PLA helps achieve the goals of the state purchases act. Associated Builders & Contractors of
+7 RI, et al. v. Depart. of Administration, 787 A.2d 1179, 1189 (R.I. 2002). Since that decision was
+8 rendered, there have been sixty (60) independent, objective reasoned studies for large-scale public
+9 works projects that have concluded that including a PLA in a bid specification will achieve the
+10 goals and objectives of the state purchases act.
+11 (2) PLAs have been used extensively in Rhode Island and throughout the country to
+12 facilitate the construction of large-scale construction projects because they ensure that craft labor
+13 used on projects is supported by proper skill training through high quality, registered apprenticeship
+14 training programs; and reliable project staffing through well-established hiring hall systems:
+15 advantages that promote economy and efficiency in capital project delivery. In addition, PLAs
+16 provide uniform project terms and conditions of employment for all workers and contractors,
+17 contain no-strike/no lockout provisions, and various other contract features that facilitate effective
+18 and timely project delivery.
+19 (3) These outcomes have been proven by the sixty (60) independent studies completed by
+
+1 Rhode Island public contracting agencies on more than sixty (60) large-scale construction projects
+2 in Rhode Island over the last twenty-five (25) years, and are mirrored by top Federal procurement
+3 authorities, which stress that PLAs provide the leading market strategy in the construction industry
+4 for securing a reliable craft labor supply for large-scale capital projects. See e.g., Dept. of Defense,
+5 Gen. Serv. Admin., Nat'l Aeronautics and Space Admin., Federal Acquisition Regulation: Use of
+6 Project Labor Agreements for Federal Construction Projects, 88 Fed. Reg. 88708, 88711-88712.
+7 (Dec. 22, 2023) (codified at 48 C.F.R. 1, 7, 22, 36, 52).
+8 SECTION 2. Title 37 of the General Laws entitled "PUBLIC PROPERTY AND WORKS"
+9 is hereby amended by adding thereto the following chapter:
+10 CHAPTER 2.7
+11 PROJECT LABOR AGREEMENTS
+12 37-2.7-1. Definitions.
+13 As used in this chapter:
+14 (1) "Apprenticeable trade" means a craft or trade that will necessarily be employed
+15 pursuant to a project labor agreement and meets the criteria for apprenticeable occupations set forth
+16 in 29 C.F.R. § 29.4.
+17 (2) "Apprenticeship agreement" means a written agreement complying with 29 C.F.R. §
+18 29.7 between an apprentice and either the apprenticeship program sponsor, or an apprenticeship
+19 committee acting as an agent for the program sponsor(s), that contains the terms and conditions of
+20 the employment and training of the apprentice.
+21 (3) "Apprenticeship program" means a structured, systematic, on-the-job, supervised
+22 learning that is clearly identified and commonly recognized throughout an industry and involves
+23 the progressive attainment of manual, mechanical, or technical skills and knowledge in accordance
+24 with a written plan containing all terms and conditions for the qualification, recruitment, selection,
+25 employment, and training of apprentices in accordance with 29 C.F.R. § 29.2 and 30 et seq.
+26 (4) "Construction labor organization" means a labor organization in the construction
+27 industry that:
+28 (i) Operates a bona fide apprenticeship program in the trade or craft in which the union
+29 provides construction services that is registered with and approved by the U.S. Department of Labor
+30 or a state apprenticeship agency pursuant to 29 C.F.R. § 29.3; and
+31 (ii) Operates a hiring hall or other job referral system in the trade or craft in which the
+32 union provides construction services to deploy craft labor in accordance with project staffing needs.
+33 (5) "Contractor" shall have the same meaning as in § 37-13-2.
+34 (6) "Craft labor" means workers employed on a public works project subject to this section
+LC005116/SUB A - Page 2 of 8
+
+1 in all trades or crafts that must be paid state prevailing wages pursuant to the provisions of chapter
+2 13 of this title ("labor and payment of debts by contractors").
+3 (7) "Large-scale state public works project" shall have the same meaning as in § 37-13-1
+4 for a contract valued at twenty-five million dollars ($25,000,000) or more.
+5 (8) "Project labor agreement" or "PLA" means a pre-hire collective bargaining agreement
+6 with one or more labor organizations that establishes the terms and conditions of employment for
+7 a specific construction project, as may be described in 29 U.S.C. § 158(f).
+8 (9) "State contracting agency" means a state agency, quasi-state agency or public agency
+9 as such terms are defined in § 37-2-7, or a public university or college undertaking construction
+10 contracts in the State of Rhode Island but excludes the Rhode Island department of transportation.
+11 37-2.7-2. Use of project labor agreements by state agencies.
+12 (a) There shall be a presumption to use project labor agreements on large-scale state public
+13 works projects to promote the reliable and adequate supply of qualified labor, to protect capital
+14 investments, and to offset performance risks. Incorporation of a PLA in a bid or proposal
+15 specification shall be administered in compliance with the requirements of this chapter.
+16 (b) Notwithstanding the presumption that project labor agreements will substantially
+17 benefit large-scale state public works projects, certain projects may be exempted in accordance
+18 with the following:
+19 (1) Any determination not to use a PLA on a large-scale state public works project shall be
+20 made by the chief procurement officer or an equivalent senior official of the state contracting
+21 agency and include a detailed explanation of the reasons supporting the determination which shall
+22 be reviewed by the agency's highest ranking official, who shall confirm or reverse the determination
+23 in a written review decision.
+24 (2) If a PLA is not used, the state contracting agency responsible for the project shall issue
+25 a written determination at least thirty (30) days prior to the invitation for bids or request for
+26 proposals providing the grounds for the determination that a PLA will not promote an adequate
+27 supply of qualified craft labor required for the project.
+28 (3) For any large-scale state public works project for which a PLA is not used, the state
+29 contracting agency shall require bidders or offerors to submit a certified craft labor staffing plan,
+30 which shall be a material term of the construction contract, that provides information demonstrating
+31 the staffing capabilities of the lead contractor and all other project contractors used on the project,
+32 including:
+33 (i) The specific apprenticeship programs or other training programs used to ensure
+34 adequate and verifiable skills for all craft labor classifications needed for the project; and
+LC005116/SUB A - Page 3 of 8
+
+1 (ii) The sources that will be relied upon to recruit and deploy qualified craft labor in
+2 accordance with project scheduling requirements.
+3 (4) The craft labor staffing plan, which shall constitute a mandatory condition of contractor
+4 responsibility, shall be reviewed and approved by the state contracting agency to ensure it provides
+5 reasonably strong assurances that the project contractors will ensure a reliable and adequate supply
+6 of qualified craft labor required for the project.
+7 (c) For non-large-scale public works projects, a state contracting agency may, in its
+8 discretion, require a project labor agreement to be incorporated into the contract specifications;
+9 provided that, such agreements are used in compliance with this section and that the PLA includes
+10 the mandatory provisions specified herein.
+11 37-2.7-3. Mandatory provisions to be included in any public works project labor
+12 agreement.
+13 (a) Any project labor agreement utilized pursuant to this chapter shall:
+14 (1) Bind all contractors and subcontractors working on the public works project through
+15 the inclusion of appropriate specifications in all relevant solicitation provisions and contract
+16 documents and requiring execution of the project labor agreement as a contractual requirement and
+17 material term of construction contracts applicable to the project;
+18 (2) Allow all contractors and subcontractors on the construction project to compete for
+19 contracts and subcontractors without regard to whether they are otherwise parties to collective
+20 bargaining agreements;
+21 (3) Contain guarantees against strikes, lockouts and similar job disruptions and set forth
+22 effective, prompt, and binding procedures for resolving labor disputes arising during the term of
+23 the project labor agreement;
+24 (4) Require that no less than fifteen percent (15%) of the total labor hours worked on the
+25 project be performed by apprentices in registered apprentice programs; and
+26 (5) Permit the inclusion of additional mechanisms for labor management cooperation on
+27 matters of mutual interest and concern, including the health and safety of the workforce and
+28 compliance with applicable state statutes and regulations.
+29 37-2.7-4. Severability.
+30 Nothing in this chapter shall contravene federal law or jeopardize the state's entitlement to
+31 federal funding. If any provision of this chapter or its application is held invalid by any court of
+32 competent jurisdiction, the invalidity shall not affect any other provision or application of this
+33 chapter that can be given effect without the invalid provision. The provisions of this chapter are
+34 declared to be severable.
+LC005116/SUB A - Page 4 of 8
+
+1 SECTION 3. Title 45 of the General Laws entitled "TOWNS AND CITIES" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 71
+4 PROJECT LABOR AGREEMENTS -- TOWNS AND CITIES
+5 45-71-1. Definitions.
+6 As used in this chapter:
+7 (1) "Apprenticeable trade" means a craft or trade that will necessarily be employed
+8 pursuant to a project labor agreement and meets the criteria for apprenticeable occupations set forth
+9 in 29 C.F.R. § 29.4.
+10 (2) "Apprenticeship agreement" means a written agreement complying with 29 C.F.R. §
+11 29.7 between an apprentice and either the apprenticeship program sponsor, or an apprenticeship
+12 committee acting as an agent for the program sponsor(s), that contains the terms and conditions of
+13 the employment and training of the apprentice.
+14 (3) "Apprenticeship program" means a structured, systematic, on-the-job, supervised
+15 learning that is clearly identified and commonly recognized throughout an industry and involves
+16 the progressive attainment of manual, mechanical, or technical skills and knowledge in accordance
+17 with a written plan containing all terms and conditions for the qualification, recruitment, selection,
+18 employment, and training of apprentices in accordance with 29 C.F.R. § 29.2.
+19 (4) "Construction labor organization" means a labor organization in the construction
+20 industry that:
+21 (i) Operates a bona fide apprenticeship program in the trade or craft in which the union
+22 provides construction services that is registered with and approved by the U.S. Department of Labor
+23 or a state apprenticeship agency pursuant to 29 C.F.R. § 29.3; and
+24 (ii) Operates a hiring hall or other job referral system in the trade or craft in which the
+25 union provides construction services to deploy craft labor in accordance with project staffing needs.
+26 (5) "Contractor" shall have the same meaning as in § 37-13-2.
+27 (6) "Craft labor" means workers employed on a public works project subject to this section
+28 in all trades or crafts that must be paid state prevailing wages pursuant to the provisions of chapter
+29 13 of this title ("labor and payment of debts by contractors").
+30 (7) "Large scale municipal public works project" shall have the same meaning as in § 37-
+31 13-1 for a contract valued at twenty-five million dollars ($25,000,000) or more in actual
+32 construction costs, for which the state provides thirty-five percent (35%) or more of the
+33 construction budget for the project, excluding design, engineering, or other non-construction costs.
+34 (8) "Municipal contracting agency" means any city or town government, or local education
+LC005116/SUB A - Page 5 of 8
+
+1 agency, undertaking construction contracts in the State of Rhode Island.
+2 (9) "Project labor agreement" or "PLA" means a pre-hire collective bargaining agreement
+3 with one or more labor organizations that establishes the terms and conditions of employment for
+4 a specific construction project, as may be described in 29 U.S.C. § 158(f).
+5 45-71-2. Use of project labor agreements by municipal agencies.
+6 (a) There shall be a presumption to use project labor agreements on large-scale municipal
+7 public works projects to promote the reliable and adequate supply of qualified labor, to protect
+8 capital investments, and to offset performance risks. Incorporation of a PLA in a bid or proposal
+9 specification shall be administered in compliance with the requirements of this chapter.
+10 (b) Notwithstanding the presumption that project labor agreements will substantially
+11 benefit large-scale municipal public works projects, certain projects may be exempted in
+12 accordance with the following:
+13 (1) Any determination not to use a PLA on a large-scale municipal public works project
+14 shall be made by the chief procurement officer or an equivalent senior official of the municipal
+15 contracting agency and include a detailed explanation of the reasons supporting the determination
+16 which shall be reviewed by the agency's highest ranking official, who shall confirm or reverse the
+17 determination in a written review decision.
+18 (2) If a PLA is not used, the municipal contracting agency responsible for the project shall
+19 issue a written determination at least thirty (30) days prior to the invitation for bids or request for
+20 proposals providing the grounds for the determination that a PLA will not promote an adequate
+21 supply of qualified labor required for the project.
+22 (3) For any large-scale municipal public works project for which a PLA is not used, the
+23 municipal contracting agency shall require bidders or offerors to submit a certified project labor
+24 staffing plan, which shall be a material term of the construction contract, that provides information
+25 demonstrating the staffing capabilities of the lead contractor and all other project contractors used
+26 on the project, including:
+27 (i) The specific apprenticeship programs or other training programs used to ensure
+28 adequate and verifiable skills for all labor classifications needed for the project; and
+29 (ii) The sources that will be relied upon to recruit and deploy qualified labor in accordance
+30 with project scheduling requirements.
+31 (4) The craft labor staffing plan, which shall constitute a mandatory condition of contractor
+32 responsibility, shall be reviewed and approved by the state contracting agency to ensure it provides
+33 reasonably strong assurances that the project contractors will ensure a reliable and adequate supply
+34 of qualified craft labor required for the project.
+LC005116/SUB A - Page 6 of 8
+
+1 (c) For non-large-scale public works projects, a municipal contracting agency may, in its
+2 discretion, require a project labor agreement to be incorporated into the contract specifications;
+3 provided that, such agreements are used in compliance with this section and that the PLA includes
+4 the mandatory provisions specified herein.
+5 45-71-3. Mandatory provisions to be included in any public works project labor
+6 agreement.
+7 (a) Any project labor agreement utilized pursuant to this chapter shall:
+8 (1) Bind all contractors and subcontractors working on the public works project through
+9 the inclusion of appropriate specifications in all relevant solicitation provisions and contract
+10 documents and requiring execution of the project labor agreement as a contractual requirement and
+11 material term of construction contracts applicable to the project;
+12 (2) Allow all contractors and subcontractors on the construction project to compete for
+13 contracts and subcontractors without regard to whether they are otherwise parties to collective
+14 bargaining agreements;
+15 (3) Contain guarantees against strikes, lockouts and similar job disruptions and set forth
+16 effective, prompt, and binding procedures for resolving labor disputes arising during the term of
+17 the project labor agreement;
+18 (4) Require that no less than fifteen percent (15%) of the total labor hours worked on the
+19 project be performed by apprentices in registered apprentice programs; and
+20 (5) Permit the inclusion of additional mechanisms for labor management cooperation on
+21 matters of mutual interest and concern, including the health and safety of the workforce and
+22 compliance with applicable state statutes and regulations.
+23 45-71-4. Severability.
+24 Nothing in this chapter shall contravene federal law or jeopardize the state's entitlement to
+25 federal funding. If any provision of this chapter or its application is held invalid by any court of
+26 competent jurisdiction, the invalidity shall not affect any other provision or application of this
+27 chapter that can be given effect without the invalid provision. The provisions of this chapter are
+28 declared to be severable.
+29 SECTION 4. This act shall take effect upon passage.
+========
+LC005116/SUB A
+========
+LC005116/SUB A - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC PROPERTY AND WORKS -- STATE PURCHASES
+***
+1 This act would create multiple chapters relating to project labor agreements to promote the
+2 use of project labor agreements on large-scale state public works projects to promote the supply of
+3 reliable and adequate qualified labor.
+4 This act would take effect upon passage.
+========
+LC005116/SUB A
+========
+LC005116/SUB A - Page 8 of 8

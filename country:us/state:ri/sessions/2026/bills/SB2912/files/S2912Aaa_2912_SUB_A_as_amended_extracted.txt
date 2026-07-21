@@ -1,0 +1,230 @@
+Title: 
+Official Title: 
+Source: versions - 2912  SUB A as amended
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2912 SUBSTITUTE A AS AMENDED
+========
+LC005851/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- ABANDONED PROPERTY
+Introduced By: Senators Bissaillon, and LaMountain
+Date Introduced: March 04, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 34-44-1.1, 34-44-2, 34-44-3 and 34-44-4 of the General Laws in
+2 Chapter 34-44 entitled "Abandoned Property" are hereby amended to read as follows:
+3 34-44-1.1. Inventory of abandoned properties.
+4 (a) On or before April 2, 2025, each town and city shall publish a list of all properties
+5 located in each respective town or city which, based on inspection and records, may qualify as
+6 abandoned property under this chapter. After April 2, 2025, the list shall be published and updated
+7 annually and made available in the town or city clerk’s office and on the municipal website. Notice
+8 of the inclusion of a property on the abandoned properties list shall be provided to the last known
+9 record owner or owners and lienholder, as available from the tax assessor and the land evidence
+10 records by first class mail, postage pre-paid. The exclusion of any property from a city or town list
+11 shall not disqualify any property from the provisions of this chapter, so long as the court makes the
+12 requisite findings as set forth herein.
+13 (b) The publication of a list under this section shall not constitute grounds for legal claims
+14 against a municipality by the record owner or any interested party.
+15 (c) A property owner or lienholder shall have the right, but not the obligation, to cure or
+16 cause to be cured the conditions giving rise to inclusion on the abandoned properties list within a
+17 reasonable time, before the property may be alleged to be abandoned in any judicial proceeding
+18 under this chapter.
+19 34-44-2. Definitions.
+
+1 As used in this chapter:
+2 (1) "Abandon" or "abandonment" means a situation where the owner of a building has
+3 intended to abandon the building and has manifested the intent with some act or failure to act. In
+4 determining whether an owner has abandoned his or her building, a court shall infer the intent of
+5 the owner from the existence of serious code violations that pose a health and/or safety hazard to
+6 the community and that have gone unrepaired for an unreasonable amount of time and from any of
+7 the surrounding facts and circumstances including, but not limited to the following:
+8 (i) Whether or not the building is vacant;
+9 (ii) Whether or not the grounds are maintained;
+10 (iii) Whether or not the building's interior is sound;
+11 (iv) Whether or not any vandalism on the building has gone unrepaired;
+12 (v) Whether or not rents have been collected from the building's tenants by the owner;
+13 (vi) The length of time any of the above conditions have existed;
+14 (vii) Notwithstanding the criteria in this section, a property shall not be considered
+15 abandoned if, upon a reasonable search of publicly available records, the property is known to be
+16 part of a documented plan of redevelopment or community revitalization strategy, and is to be
+17 financed in whole or in part with public funds, or is pending sale pursuant to a valid purchase and
+18 sale agreement;
+19 (viii) Notwithstanding the criteria in this section, a property shall not be considered
+20 abandoned solely due to it being vacant and if it is otherwise being maintained and the owner has
+21 been responsive to addressing any health or safety issues that may arise.
+22 (2) "Abate" or "abatement" in connection with any property means the removal or
+23 correction of any hazardous conditions deemed to constitute a public nuisance and the making of
+24 such other improvements as are needed to affect a rehabilitation of the property that is consistent
+25 with maintaining safe and habitable conditions over the remaining useful life of the property.
+26 However, the closing or boarding up of any building that is found to be a public nuisance is not an
+27 abatement of the nuisance.
+28 (3) "Building" means any building or structure used for residential purposes or used for
+29 retail stores, shops, salesrooms, markets, or similar commercial uses, or for offices, banks, civic
+30 administration activities, professional services, or similar business or civic uses.
+31 (4) "Eligible nonprofit corporation" ("ENC") means a nonprofit corporation registered to
+32 do business in the State of Rhode Island which has as one of its primary purposes the production,
+33 preservation or repair of dwelling units in the State of Rhode Island.
+34 (4)(5) "Interested party" means any owner, mortgagee, lienholder, or other entity or person
+LC005851/SUB A - Page 2 of 7
+
+1 who or that possesses an interest of record in any property that becomes subject to the jurisdiction
+2 of the court pursuant to this chapter and any applicant for the appointment of a receiver pursuant to
+3 this chapter.
+4 (5)(6) "Neighboring landowner" means any owner of property, including any entity or
+5 person who or that is purchasing property by land installment contract or under a duly executed
+6 purchase contract, that is located within two hundred feet (200′) of any property that becomes
+7 subject to the jurisdiction of the court pursuant to this chapter.
+8 (6)(7) "Public nuisance" means a building that is a menace to the public health, welfare, or
+9 safety; or that is structurally unsafe, unsanitary; or not provided with adequate safe egress; or that
+10 constitutes a fire hazard; or is otherwise dangerous to human life; or is otherwise no longer fit and
+11 habitable; or that, in relation to existing use, constitutes a hazard to the public health, welfare, or
+12 safety by reason of inadequate maintenance, dilapidation, obsolescence, or abandonment. Such
+13 condition shall be documented by:
+14 (i) Violations of local ordinances, state building codes or minimum housing standards
+15 where a municipality, court officers, or the state or municipal entity issuing the notice has notified
+16 the building owner of the violations and the owner has failed to address violations in the timeframes
+17 set forth in the notice of violation or court order;
+18 (ii) The condemnation of the property for reasons of health or safety;
+19 (iii) Written notice by public health and safety personnel, code inspectors or state or
+20 municipal building officials identifying the nature of the public health or safety risk posed and the
+21 failure of the property owner to address these conditions; or
+22 (iv) Law enforcement reports indicating the nature of the hazard to the public health,
+23 welfare or safety.
+24 34-44-3. Injunctive relief and other relief.
+25 (a) In any proceeding:
+26 (1) Brought under chapter 27.3 of title 23 entitled the Rhode Island state building code, and
+27 any violation of the provisions of those regulations promulgated by the state building code
+28 standards committee entitled SBC-1 Rhode Island state building code, SBC-2 Rhode Island state
+29 one- and two-family dwelling code, SBC-3 Rhode Island state plumbing code, SBC-4 Rhode Island
+30 state mechanical code, SBC-5 Rhode Island state electrical code, SBC-6 state property maintenance
+31 code, SBC-19 state fuel gas code or any municipal ordinance or regulation concerning minimum
+32 housing standards, that is before a state court, municipal court, housing division of a state or
+33 municipal court; or
+34 (2) Brought upon a verified petition for abatement filed in the state court by the municipal
+LC005851/SUB A - Page 3 of 7
+
+1 corporation in which the property involved is located, by any neighboring landowner, or by a
+2 nonprofit corporation, registered to do business in the state, that is duly organized and has as one
+3 of its goals the improvement of housing conditions for low- and moderate-income persons in the
+4 municipality in which the property in question is located, if a an ENC where:
+5 (i) A building is alleged to be abandoned; and
+6 (ii) A building is alleged to be either to be in a dangerous or unsafe condition or to be
+7 otherwise in violation of chapter 27.3 of title 23 entitled the Rhode Island state building code, and
+8 any violation of the provisions of those regulations promulgated by the state building code
+9 standards committee entitled SBC-1 Rhode Island state building code, SBC-2 Rhode Island state
+10 one and two family dwelling code, SBC-3 Rhode Island state plumbing code, SBC-4 Rhode Island
+11 state mechanical code, SBC-5 Rhode Island state electrical code, SBC-6 state property maintenance
+12 code, SBC-19 state fuel gas code or any municipal ordinance or regulation concerning building or
+13 housing; then the municipal corporation, neighboring landowner, or nonprofit corporation ENC
+14 may apply for an injunction requiring the owner of the building to correct the condition or to
+15 eliminate the violation which request shall include evidence of the condition(s) alleged satisfactory
+16 to the court, in its discretion.
+17 (b) Such application for injunction shall include the following, as applicable:
+18 (1) Documentation of the violation of state or municipal laws, regulations or ordinances
+19 associated with the property; and
+20 (2) Documentation that the conditions for "abandon" or "abandonment" set forth in § 34-
+21 44-2(1) have been met; and
+22 (3) If applicable, evidence that the property owner has received notice of the violations or
+23 orders from the applicable governmental entity and the property owner has failed to address the
+24 violations in the timeframe set forth in the notice or order; or
+25 (4) In circumstances of vandalism at the property which present documented conditions
+26 from the applicable governmental entity that such conditions pose a health and safety hazard and
+27 the property owner, after receiving notice of the same, has failed to address the violations in the
+28 timeframe set forth in the notice.
+29 (b)(c) The provisions of this chapter shall not apply to properties owned by the Rhode
+30 Island housing and mortgage finance corporation established under chapter 55 of title 42 ("Rhode
+31 Island housing and mortgage finance corporation") or any of its subsidiary organizations.
+32 (d) Unless the court finds an immediate need, due to public safety, for a shortened period,
+33 there There shall be a hearing at least on the requested injunctive relief which shall be scheduled
+34 no sooner than twenty (20) days after a summons for an injunction notice, indicating the date and
+LC005851/SUB A - Page 4 of 7
+
+1 time of the hearing is served upon the owner of the building. The summons property and all
+2 mortgagees of record and lienholders of record. The notice shall be served, by personal service,
+3 residence service, or service by certified mail pursuant to R.I. Super. Ct. R. Civ. P. 4. If service
+4 cannot be made in one of these ways, the notice shall be served by posting it in a conspicuous place
+5 on the building and by publication in a newspaper of general circulation in the municipality in
+6 which the building is located. If the court finds at the hearing that the building is abandoned and
+7 either is in a dangerous or unsafe condition or is otherwise in violation of any ordinance or
+8 regulation concerning minimum housing standards, it shall issue an injunction requiring the owner
+9 to correct the condition or to eliminate the violation, or any other order that it considers necessary
+10 or appropriate to correct the condition or to eliminate the violation.
+11 (e) The court may schedule a hearing earlier than the time frame set forth in subsection (c)
+12 of this section, if needed, to address an immediate threat to public health or safety as documented
+13 by the condemnation of the property or in writing by applicable governmental official, entity or
+14 agency identifying the nature of the public health or safety risk posed and the failure of the property
+15 owner to address these conditions.
+16 34-44-4. Public nuisance determination — Show cause hearing — Appointment of
+17 receiver.
+18 (a) In any proceeding described in § 34-44-3, after the court makes the finding described
+19 in that section and additionally finds that the building in question constitutes a public nuisance as
+20 set forth in § 34-44-3 and that the owner of the building has been afforded reasonable opportunity
+21 to begin correcting the dangerous or unsafe condition found or to begin eliminating the violation
+22 found and has refused or failed to do so, the court shall cause notice of its findings to be served
+23 upon the owner, each mortgagee or other lienholder of record, and any other interested party, and
+24 shall order the parties to show cause why a receiver should not be appointed to perform, or cause
+25 to be performed, any work and to furnish any material that reasonably may be required to abate the
+26 public nuisance. The notice shall be served in the same manner as described in § 34-44-3.
+27 (b) Before appointing a receiver to perform, or cause to be performed, any work to abate a
+28 public nuisance under this chapter, the court shall conduct a hearing at which any mortgagee of
+29 record or lienholder of record, or other interested party in the order of their priority of interest in
+30 title shall be offered the opportunity to undertake the work and to furnish the materials as are
+31 necessary to abate the public nuisance.
+32 (c) The court shall require the party selected to demonstrate the ability promptly to
+33 undertake the work required, to provide the judge with a viable financial and construction plan for
+34 the rehabilitation of the building, and to post security for the performance of the work.
+LC005851/SUB A - Page 5 of 7
+
+1 (d) All amounts expended by the party toward abating the public nuisance shall be a lien
+2 on the property if the expenditures were approved in advance by the court and if the party desires
+3 such a lien. The lien shall bear the interest, and shall be payable upon the terms approved by the
+4 court. The lien shall have the same priority as the mortgage of a receiver, as set forth in § 34-44-6,
+5 if a certified copy of the court order that approved the expenses, the interest, and the terms of
+6 payment of the lien, and a description of the property in question are filed for record, within thirty
+7 (30) days of the date of issuance of the order, in the office of the recorder of deeds of the
+8 municipality in which the property is located.
+9 (e) If the court determines at the hearing that no party can undertake the work and furnish
+10 the materials required to abate the public nuisance, or if the court determines at any time after the
+11 hearing that any party who is undertaking corrective work pursuant to this chapter cannot or will
+12 not proceed, or has not proceeded with due diligence, the judge may appoint a receiver to take
+13 possession and control of the property. The receiver shall be appointed in the manner provided in
+14 subsection (f).
+15 (f) No person shall be appointed a receiver unless the person first has provided the court
+16 with a viable financial and construction plan for the rehabilitation of the property in question and
+17 has demonstrated the capacity and expertise to perform, or cause to be performed, the required
+18 work in a satisfactory manner.
+19 (g) Prior to the appointment of a receiver the court may grant access to the property in
+20 question to any person who applies to be appointed the receiver of the property, for the limited
+21 purpose of developing a viable financial and construction plan for the rehabilitation of the property
+22 which shall include the items set forth in § 34-44-4.1.
+23 (h) The appointed receiver shall be a lawyer appointed by the court who is certified by the
+24 court to act as such.
+25 SECTION 2. This act shall take effect upon passage.
+========
+LC005851/SUB A
+========
+LC005851/SUB A - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- ABANDONED PROPERTY
+***
+1 This act would amend several definitions to the general law chapter relating to abandoned
+2 property, would add a definition for "eligible nonprofit corporation", and would provide criteria for
+3 when properties are considered abandoned or a public nuisance.
+4 This act would take effect upon passage.
+========
+LC005851/SUB A
+========
+LC005851/SUB A - Page 7 of 7

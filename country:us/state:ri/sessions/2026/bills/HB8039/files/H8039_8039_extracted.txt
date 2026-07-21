@@ -1,0 +1,337 @@
+Title: 
+Official Title: 
+Source: versions - 8039
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8039
+========
+LC005671
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TOWNS AND CITIES -- ZONING ORDINANCES
+Introduced By: Representative June Speakman
+Date Introduced: February 27, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 45-24-33, 45-24-38 and 45-24-73 of the General Laws in Chapter
+2 45-24 entitled "Zoning Ordinances" are hereby amended to read as follows:
+3 45-24-33. Standard provisions. [Effective January 1, 2026.]
+4 (a) A zoning ordinance shall address each of the purposes stated in § 45-24-30 and shall
+5 address, through reasonable objective standards and criteria, the following general provisions
+6 which are numbered for reference purposes only except as prohibited by § 45-24-30(b), § 45-24-
+7 30(c), or § 45-24-30(d):
+8 (1) Permitting, prohibiting, limiting, and restricting the development of land and structures
+9 in zoning districts, and regulating those land and structures according to their type and the nature
+10 and extent of their use;
+11 (2) Regulating the nature and extent of the use of land for residential, commercial,
+12 industrial, institutional, recreational, agricultural, open space, or other use or combination of uses,
+13 as the need for land for those purposes is determined by the city or town’s comprehensive plan;
+14 (3) Permitting, prohibiting, limiting, and restricting buildings, structures, land uses, and
+15 other development by performance standards, or other requirements, related to air and water and
+16 groundwater quality, noise and glare, energy consumption, soil erosion and sedimentation, and/or
+17 the availability and capacity of existing and planned public or private services;
+18 (4) Regulating within each district and designating requirements for:
+19 (i) The height, number of stories, and size of buildings;
+
+1 (ii) The dimensions, size, lot coverage, layout of lots or development areas and floor area
+2 ratios provided that zoning ordinances must exclude any portion of a basement as defined in § 45-
+3 24.3-5 from the calculation of floor area ratio;
+4 (iii) The density and intensity of use;
+5 (iv) Access to air and light, views, and solar access;
+6 (v) Open space, yards, courts, and buffers;
+7 (vi) Parking areas, road design, and, where appropriate, pedestrian, bicycle, and other
+8 circulator systems;
+9 (vii) Landscaping, fencing, and lighting;
+10 (viii) Appropriate drainage requirements and methods to manage stormwater runoff;
+11 (ix) Public access to waterbodies, rivers, and streams; and
+12 (x) Other requirements in connection with any use of land or structure;
+13 (5) Permitting, prohibiting, limiting, and restricting development in flood plains or flood
+14 hazard areas and designated significant natural areas;
+15 (6) Promoting the conservation of energy and promoting energy-efficient patterns of
+16 development;
+17 (7) Providing for the protection of existing and planned public drinking water supplies,
+18 their tributaries and watersheds, and the protection of Narragansett Bay, its tributaries and
+19 watershed;
+20 (8) Providing for adequate, safe, and efficient transportation systems; and avoiding
+21 congestion by relating types and levels of development to the capacity of the circulation system,
+22 and maintaining a safe level of service of the system;
+23 (9) Providing for the preservation and enhancement of the recreational resources of the city
+24 or town;
+25 (10) Promoting an economic climate that increases quality job opportunities and the overall
+26 economic well-being of the city or town and the state;
+27 (11) Providing for pedestrian access to and between public and private facilities, including,
+28 but not limited to, schools, employment centers, shopping areas, recreation areas, and residences;
+29 (12) Providing standards for, and requiring the provision of, adequate and properly
+30 designed physical improvements, including plantings, and the proper maintenance of property;
+31 (13) Permitting, prohibiting, limiting, and restricting land use in areas where development
+32 is deemed to create a hazard to the public health or safety;
+33 (14) Permitting, prohibiting, limiting, and restricting extractive industries and earth
+34 removal and requiring restoration of land after these activities;
+LC005671 - Page 2 of 10
+
+1 (15) Regulating sanitary landfill, except as otherwise provided by state statute;
+2 (16) Permitting, prohibiting, limiting, and restricting signs and billboards and other outdoor
+3 advertising devices;
+4 (17) Designating airport hazard areas under the provisions of chapter 3 of title 1, and
+5 enforcement of airport hazard area zoning regulations under the provisions established in that
+6 chapter;
+7 (18) Designating areas of historic, cultural, and/or archaeological value and regulating
+8 development in those areas under the provisions of chapter 24.1 of this title;
+9 (19) Providing standards and requirements for the regulation, review, and approval of any
+10 proposed development in connection with those uses of land, buildings, or structures specifically
+11 designated as subject to development plan review in a zoning ordinance;
+12 (20) Designating special protection areas for water supply and limiting or prohibiting
+13 development in these areas, except as otherwise provided by state statute;
+14 (21) Specifying requirements for safe road access to developments from existing streets,
+15 including limiting the number, design, and location of curb cuts, and provisions for internal
+16 circulation systems for new developments, and provisions for pedestrian and bicycle ways;
+17 (22) Reducing unnecessary delay in approving or disapproving development applications
+18 through provisions for preapplication conferences and other means;
+19 (23) Providing for the application of the Rhode Island Fair Housing Practices Act, chapter
+20 37 of title 34, the United States Fair Housing Amendments Act of 1988 (FHAA); the Rhode Island
+21 Civil Rights of People with Disabilities Act, chapter 87 of title 42; and the Americans with
+22 Disabilities Act of 1990 (ADA), 42 U.S.C. § 12101 et seq.;
+23 (24) Regulating drive-through windows of varied intensity of use when associated with
+24 land-use activities and providing standards and requirements for the regulation, review, and
+25 approval of the drive-through windows, including, but not limited to:
+26 (i) Identifying within which zoning districts drive-through windows may be permitted,
+27 prohibited, or permitted by special-use permit;
+28 (ii) Specifying requirements for adequate traffic circulation; and
+29 (iii) Providing for adequate pedestrian safety and access, including issues concerning safety
+30 and access for those with disabilities;
+31 (25) Providing for residential development in all or some of the areas encompassing
+32 commercial district(s) in a city or town; provided that, such objective standards and criteria address
+33 the following:
+34 (i) Standards to ensure that residential uses are allowed and integrated with commercial
+LC005671 - Page 3 of 10
+
+1 uses in a mixed use or village development;
+2 (ii) Provisions that allow residential units above commercial uses on the ground floor or
+3 first floor of a structure(s);
+4 (iii) Provisions to permit medium to high density residential development in the
+5 commercial zones allowing residential use;
+6 (iv) Flexible and reasonable dimensional standards that promote and allow for the mixed
+7 use or village development; and
+8 (v) Municipalities with a population in excess of forty thousand (40,000) shall provide for
+9 residential development as set forth in this section in at least thirty percent (30%) of the area in the
+10 commercial zoning use districts;
+11 (26) Allowing the construction of attached single-family dwellings in designated zoning
+12 districts. For purposes of this chapter, “attached single-family dwelling” means a dwelling unit
+13 constructed side by side or horizontally and separated by a party wall (as defined in the state
+14 building and fire codes) and lot line. Such units shall be allowed in zoning districts of the city or
+15 town, as set forth in § 45-24-37(j), provided that:
+16 (i) The unit(s) have access to public water and sewer, or have adequate access to private
+17 water and/or wastewater systems approved by the relevant state agency; and
+18 (ii) The zoning ordinance shall allow each attached single-family dwelling unit to be
+19 located on its own lot through the subdivision of an existing property, at permitted levels of density,
+20 and without increased specific requirements for maximum building lot coverage or minimum lot
+21 size, lot width, lot frontage, or lot depth and for the individual lots, resulting from subdivision.
+22 Other local regulations adopted pursuant to § 45-23-26, shall remain applicable to the development.
+23 The zoning ordinance shall further allow for a zero-lot line setback along the common property line
+24 between attached single-family dwelling units to accommodate the subdivision for these units;
+25 provided that, the unit(s) comply with requirements for building and fire codes; and
+26 (iii) Other dimensional requirements of the base zoning district shall apply to the outside
+27 perimeter property lines of the end-units of the development, however, there shall not be increased
+28 dimensional requirements solely applicable to attached single-family structures and not applicable
+29 to other residential structures containing the same density in the same zoning district; and
+30 (iv) Cities and towns may establish additional standards for such units; provided that, such
+31 standards do not restrict a dwelling unit’s floor area ratio to less than one, limit the bedrooms to
+32 less than three (3), or require more than one off-street parking space for up to two (2) bedrooms,
+33 and two (2) off-street parking spaces for up to three (3) bedrooms; and
+34 (27) Providing for residential use options that are not limited to single-family detached
+LC005671 - Page 4 of 10
+
+1 structures, in areas which have available public water and sewer capacity in municipalities in which
+2 at least part of the area is located within the urban services boundary which is identified on Rhode
+3 Island statewide planning program’s future land use map tools and on the Rhode Island geographic
+4 information system.
+5 (b) A zoning ordinance may include special provisions for any or all of the following:
+6 (1) Authorizing development incentives, including, but not limited to, additional permitted
+7 uses, increased development and density, or additional design or dimensional flexibility in
+8 exchange for:
+9 (i) Increased open space;
+10 (ii) Increased housing choices;
+11 (iii) Traffic and pedestrian improvements;
+12 (iv) Public and/or private facilities; and/or
+13 (v) Other amenities as desired by the city or town and consistent with its comprehensive
+14 plan. The provisions in the ordinance shall include maximum allowable densities of population
+15 and/or intensities of use and shall indicate the type of improvements, amenities, and/or conditions.
+16 Conditions may be made for donation in lieu of direct provisions for improvements or amenities;
+17 (2) Establishing a system for transfer of development rights within or between zoning
+18 districts designated in the zoning ordinance;
+19 (3) Regulating the development adjacent to designated scenic highways, scenic waterways,
+20 major thoroughfares, public greenspaces, or other areas of special public investment or valuable
+21 natural resources; and
+22 (4) Authorizing community living options such as co-living housing in areas serviced by
+23 transit and other services.
+24 (c) Slope of land shall not be excluded from the calculation of the buildable lot area or the
+25 minimum lot size, or in the calculation of the number of buildable lots or units.
+26 (d) Nothing in this section shall be construed to restrict a municipality’s right, within state
+27 and local regulations, to establish its own minimum lot size per zoning district in its town or city.
+28 45-24-38. General provisions — Substandard lots of record.
+29 (a) Any city or town adopting or amending a zoning ordinance under this chapter shall
+30 regulate the development of any single substandard lot of record or contiguous lots of record at the
+31 effective date of adoption or amendment of the zoning ordinance.
+32 (b) Notwithstanding the failure of that lot or those lots to meet the dimensional and/or
+33 quantitative requirements, and/or road frontage or other access requirements, applicable in the
+34 district as stated in the ordinance, a substandard lot of record shall not be required to seek any
+LC005671 - Page 5 of 10
+
+1 zoning relief based solely on the failure to meet minimum requirements for lot size, lot frontage,
+2 lot width, or lot depth of the district in which such lot is located. For any structure proposed under
+3 this section on a substandard lot of record, the following dimensional regulations shall apply:
+4 (1) Minimum building setbacks, lot frontage, and lot width requirements for a lot that is
+5 nonconforming in area shall be reduced by the same proportion that the area of such substandard
+6 lot meets the minimum lot area of the district in which the lot is located. By way of example, if the
+7 lot area of a substandard lot only meets forty percent (40%) of the minimum lot area required in
+8 the district in which it is located, the setbacks, lot frontage, and lot width shall each be reduced to
+9 forty percent (40%) of the requirements for those dimensional standards in the same district.
+10 However, to the extent the city or town has a zoning district in which the lot would be conforming
+11 as to size, the city or town may require compliance with the building setback, lot frontage, and lot
+12 width requirements for said zoning district if such requirement is in the local zoning ordinance.
+13 (2) Maximum lot building coverage for lots that are nonconforming in area shall be
+14 increased by the inverse proportion that the area of such substandard lot meets the minimum area
+15 requirements in the district in which the lot is located. By way of example, if the lot area of a
+16 substandard lot only meets forty percent (40%) of the required minimum lot area, the maximum lot
+17 building coverage is allowed to increase by sixty percent (60%) over the maximum permitted lot
+18 building coverage in that district.
+19 All proposals exceeding such reduced requirement shall proceed with a modification
+20 request under § 45-24-46 or a dimensional variance request under § 45-24-41, whichever is
+21 applicable.
+22 (c) Except as set forth otherwise in this chapter and in chapter 23 of this title, provisions
+23 may be made for the merger of contiguous unimproved, or improved and unimproved, substandard
+24 lots of record in the same ownership to create dimensionally conforming lots or to reduce the extent
+25 of dimensional nonconformance. The ordinance shall specify the standards, on a district by district
+26 basis, which determine the mergers. The standards shall include, but are not to be limited to, the
+27 availability of infrastructure, the character of the neighborhood, and the consistency with the
+28 comprehensive plan. The merger of lots shall not be required when the substandard lot of record
+29 has an area equal to or greater than the area of fifty percent (50%) of the lots within two hundred
+30 feet (200′) of the subject lot, as confirmed by a compilation plan signed by a professional land
+31 surveyor as such term is defined by the rules and regulations for professional land surveying.
+32 (d) Any single substandard lot of record with more than one principal dwelling building
+33 shall, at the request of the property owner, be a minor subdivision under § 45-23-38, such that as
+34 much as each principal dwelling building stands as its own lot. No affirmative findings, beyond the
+LC005671 - Page 6 of 10
+
+1 requirements of this section shall be required. Whenever such a subdivision is proposed, the
+2 resulting dimensions shall be considered a reduction in nonconformity and shall not require zoning
+3 relief. The municipality's administrative officer may require the subdivision to occur in a manner
+4 to minimize nonconformance, but shall not otherwise condition the subdivision. The zoning
+5 ordinance shall provide for the continuation of any use or structure lawfully existing at the time of
+6 the subdivision; however, no additional zoning rights shall vest, by virtue of the approval and
+7 recording of the administrative subdivision.
+8 45-24-73. Design standards required for accessory dwelling units — Consistent
+9 statewide treatment of accessory dwelling units required.
+10 (a) Pursuant to § 45-24-37, one accessory dwelling unit (ADU) per lot shall be allowed by
+11 right under the following circumstances:
+12 (1) On an owner-occupied property as a reasonable accommodation for family members
+13 with disabilities; or
+14 (2) On a lot with a total lot area of twenty thousand square feet (20,000 sq. ft.) ten thousand
+15 square feet (10,000 sq. ft.) or more for which the primary use is residential; or
+16 (3) Where the proposed ADU is located within the existing footprint of the primary
+17 structure or the existing footprint of an accessory attached or detached structure that has lawfully
+18 existed at least three (3) years prior to the submission of the ADU application, and that the proposed
+19 ADU does not expand the footprint of the existing structure.
+20 (b) Uniform standards.
+21 (1) A municipality may establish a maximum unit size regulations for an ADU ADUs but
+22 such limitation must allow,; provided that, such regulations shall allow an ADU permitted, pursuant
+23 to subsection (a) of this section to be sized as follows, subject to applicable dimensional
+24 requirements:
+25 (i) A For a studio or one bedroom ADU of at least, up to nine hundred square feet (900 sq.
+26 ft), or sixty percent (60%) of the gross floor area of the principal dwelling, whichever is less; and
+27 (ii) A two-bedroom (2) ADU, of at least For an ADU with two (2) bedrooms or more, up
+28 to twelve hundred square feet (1,200 sq. ft.), or sixty percent (60%) of the gross floor area of the
+29 principal dwelling, whichever is less. For the purposes of this section, “gross floor area” has the
+30 same meaning as set forth in chapter 27.3 of title 23 ("state building code").
+31 (2) For all ADU applications, a municipality shall not:
+32 (i) Restrict tenants based on familial relationships or age unless such restriction is necessary
+33 to comply with the terms of the federal subsidy related to affordability;
+34 (ii) Charge application or permitting fees for the creation of an ADU that exceed those that
+LC005671 - Page 7 of 10
+
+1 would be charged for a new single-family dwelling;
+2 (iii) Require infrastructure improvements in connection with the ADU, including, but not
+3 limited to, separate water or sewer service lines or expanded septic system capacity unless such
+4 improvements and/or modifications are required by an applicable state agency for compliance
+5 under state law or regulation, or to comply with building code requirements, or to address capacity
+6 or upgrades necessary to accommodate the ADU;
+7 (iv) Discriminate against populations protected under state and federal fair housing laws;
+8 (v) Impose dimensional requirements or other development standards on ADUs that in any
+9 instance exceed the requirements for an accessory structure in the same zoning district;
+10 (vi) Require additional lot area, lot frontage, or lot width for conforming lots or legal
+11 nonconforming lots of record solely to accommodate an ADU;
+12 (vii) Require zoning relief for ADU applications proposed within an existing footprint of
+13 the primary or accessory structure which is a legal nonconforming structure in order to address the
+14 existing dimensional nonconformity;
+15 (viii) Require more than one off-street parking space per bedroom of the ADU;
+16 (ix) Limit ADUs to lots with preexisting dwellings, or otherwise prohibit ADUs as part of
+17 applications for new primary dwelling units or subdivisions;
+18 (x) Prohibit an ADU that otherwise complies with this chapter and applicable dimensional
+19 regulations from having up to two (2) bedrooms;
+20 (xi) Require an ADU to be exclusively occupied by a household that is low- or moderate-
+21 income or less as defined by § 42-128-8.1, unless such ADU is part of an inclusionary zoning or
+22 comprehensive permit application; or
+23 (xii) Revoke the permitted status or otherwise require the disassembly of a legally
+24 established ADU upon transfer of title or occupancy.
+25 (3) An application for an ADU that is not allowed by right under this section, shall not, by
+26 itself, be reviewed as a minor land development or major land development project.
+27 (4) A municipality shall allow ADUs as part of applications for new primary dwelling units
+28 or subdivisions. For proposed ADUs that are part of a larger development proposal, a municipality
+29 shall not count such ADUs toward density of the proposal for purposes of limiting the number of
+30 dwelling units allowed in such development proposal.
+31 (i) Municipalities may utilize a unified development review process for any application
+32 that includes ADUs, regardless of whether a city or town has opted into the current unified
+33 development review statute.
+34 (5) As part of the approval process, municipalities may exempt ADUs from all or part of
+LC005671 - Page 8 of 10
+
+1 utility assessment and/or tie in fees.
+2 (6) Private restrictions on ADUs imposed by condominium associations, homeowner
+3 associations, or similar residential property governing bodies, which conflict with the provisions
+4 of this section or the definition of an ADU as set forth in § 45-24-31, shall be void as against public
+5 policy. Provided, however, if ADUs are allowed by condominium association covenants,
+6 homeowner association covenants, or similar residential property governing bodies, they shall be
+7 deemed in compliance with this subsection.
+8 (7) The development of ADUs shall not be restricted by any locally adopted ordinance or
+9 policy that places a limit or moratorium on the development of residential units in land zoned for
+10 residential use.
+11 (8) ADUs shall not be offered or rented for tourist or transient use or through a hosting
+12 platform, as such terms are defined in § 42-63.1-2.
+13 (c) Nothing in this section shall be construed to restrict a municipality’s right, within state
+14 and local regulations, to require a year-round occupancy restriction in connection with an ADU,
+15 offered for rental occupancy. Such a restriction shall not be subject to the thirty (30) year limitation
+16 on restricted covenants provided for in § 34-4-21 and shall be enforceable in the same manner, that
+17 a housing restriction is enforceable under § 34-39.1-4.
+18 SECTION 2. This act shall take effect upon passage.
+========
+LC005671
+========
+LC005671 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- ZONING ORDINANCES
+***
+1 This act would clarify the means by which attached single-family dwelling units may be
+2 created, recorded, and regulated as subdivisions of an existing lot under current zoning ordinance
+3 law. This act would allow owners of a substandard lot of record with more than one dwelling, to
+4 subdivide the lot such that each dwelling is treated as on its own lot. This act would also expand
+5 the circumstances in which an accessory dwelling is treated as its own lot. This act would further
+6 expand the circumstances in which an accessory dwelling unit (ADU) may be allowed by right,
+7 clarify the extent to which local authorities can set the maximum size of ADUs, in relation to the
+8 gross area of the principal dwelling, and ensure the right of municipalities to require year-round
+9 occupancy for such units.
+10 This act would take effect upon passage.
+========
+LC005671
+========
+LC005671 - Page 10 of 10

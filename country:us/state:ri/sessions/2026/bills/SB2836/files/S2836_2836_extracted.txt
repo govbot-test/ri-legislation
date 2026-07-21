@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - 2836
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2836
+========
+LC005182
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC PROPERTY AND WORKS -- STATE PURCHASES
+Introduced By: Senators Valverde, Gu, Acosta, DiMario, Britto, Lauria, Ujifusa, and
+DiPalma
+Date Introduced: March 04, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 37-2-7 of the General Laws in Chapter 37-2 entitled "State
+2 Purchases" is hereby amended to read as follows:
+3 37-2-7. Definitions.
+4 The words defined in this section have the meanings set forth below whenever they appear
+5 in this chapter, unless the context in which they are used clearly requires a different meaning or a
+6 different definition is prescribed for a particular section, group of sections, or provision:
+7 (1) “Business” means any corporation, partnership, individual, sole proprietorship, joint
+8 stock company, joint venture, or any other legal entity through which business is conducted.
+9 (2) “Change order” means a written authorization signed by the purchasing agent directing
+10 or allowing the contractor to proceed with changes, alterations, or modifications to the terms,
+11 conditions, or scope of work on a previously awarded contract.
+12 (3) “Chief purchasing officer” shall mean: (i) For a state agency, the director of the
+13 department of administration, and (ii) For a public agency, the executive director or the chief
+14 operational officer of the agency.
+15 (4) “Construction” means the process of building, altering, repairing, improving, or
+16 demolishing any public structures or building, or other public improvements of any kind to any
+17 public real property. It does not include the routine maintenance or repair of existing structures,
+18 buildings, or real property performed by salaried employees of the state of Rhode Island in the
+19 usual course of their jobs.
+
+1 (5) “Contract” means all types of agreements, including grants and orders, for the purchase
+2 or disposal of supplies, services, construction, or any other item. It includes awards; contracts of a
+3 fixed-price, cost, cost-plus-a-fixed-fee, or incentive type; contracts providing for the issuance of
+4 job or task orders; leases; letter contracts; purchase orders; and construction management contracts.
+5 It also includes supplemental agreements with respect to any of the foregoing. “Contract” does not
+6 include labor contracts with employees of state agencies.
+7 (6) “Contract amendment” means any written alteration in the specifications, delivery
+8 point, rate of delivery, contract period, price, quantity, or other contract provisions of any existing
+9 contract, whether accomplished by unilateral action in accordance with a contract provision, or by
+10 mutual action of the parties to the contract. It includes bilateral actions, such as supplemental
+11 agreements, and unilateral actions, such as change orders, administrative changes, notices of
+12 termination, and notices of the exercise of a contract option.
+13 (7) “Contractor” means any person having a contract with a governmental body.
+14 (8) “Data” means recorded information, regardless of form or characteristic.
+15 (9) “Designee” means a duly authorized representative of a person holding a superior
+16 position.
+17 (10) “Employee” means an individual drawing a salary from a state governmental entity.
+18 (11) “State governmental entity” means any entity created as a legislative body or a public
+19 or state agency by the general assembly or constitution of this state, except for municipal, regional,
+20 or county governmental entities.
+21 (12) “May” means permissive.
+22 (13) “Negotiation” means contracting by either the method set forth in § 37-2-19, 37-2-20,
+23 or 37-2-21.
+24 (14) “Person” means any business, individual, organization, or group of individuals.
+25 (15) “Procurement” means the purchasing, buying, renting, leasing, or otherwise obtaining
+26 of any supplies, services, or construction. It also includes all functions that pertain to the obtaining
+27 of any supply, service, or construction item, including a description of requirements, selection and
+28 solicitation of sources, preparation, and award of contract, and all phases of contract administration.
+29 (16) “Public agency” shall mean the Rhode Island industrial recreational building
+30 authority, the Rhode Island commerce corporation, the Rhode Island industrial facilities
+31 corporation, the Rhode Island refunding bond authority, the Rhode Island housing and mortgage
+32 finance corporation, the Rhode Island resource recovery corporation, the Rhode Island public
+33 transit authority, the Rhode Island student loan authority, the Howard development corporation,
+34 the water resources board corporate, the Rhode Island health and education building corporation,
+LC005182 - Page 2 of 7
+
+1 the Rhode Island turnpike and bridge authority, the Blackstone Valley district commission, the
+2 Narragansett Bay water quality management district commission, the Rhode Island
+3 telecommunications authority, the convention center authority, the Channel 36 foundation, the
+4 Rhode Island lottery commission their successors and assigns, any other body corporate and politic
+5 which has been or will be created or established within this state excepting cities and towns, the
+6 university of Rhode Island board of trustees for all purchases that are funded by restricted,
+7 sponsored, or auxiliary monies, and the council on postsecondary education for all purchases that
+8 are funded by restricted, sponsored, or auxiliary monies.
+9 (17) “Purchase request” or “purchase requisition” means that document whereby a using
+10 agency requests that a contract be entered into to obtain goods and/or services for a specified need,
+11 and may include, but is not limited to, the technical description of the requested item, delivery
+12 requirements, transportation mode request, criteria for evaluation of proposals, and/or preparation
+13 of suggested sources of supply, and information supplied for the making of any written
+14 determination and finding required by § 37-2-6.
+15 (18) “Purchasing agency” means any state governmental entity which is authorized by this
+16 chapter, its implementing regulations, or by way of delegation from the chief purchasing officer to
+17 contract on its own behalf rather than through the central contracting authority of the chief
+18 purchasing officer.
+19 (19) “Purchasing agent” means any person authorized by a governmental entity in
+20 accordance with procedures prescribed by regulations, to enter into and administer contracts and
+21 make written determinations and findings with respect to contracts. The term also includes an
+22 authorized representative acting within the limits of authority. “Purchasing agent” also means the
+23 person appointed in accordance with § 37-2-1.
+24 (20) “Services” means the rendering, by a contractor, of its time and effort rather than the
+25 furnishing of a specific end product, other than reports that are merely incidental to the required
+26 performance of services. “Services” does not include labor contracts with employees of state
+27 agencies.
+28 (21) “Shall” means imperative.
+29 (22) “State” means the state of Rhode Island and any of its departments or agencies and
+30 public agencies.
+31 (23) “Supplemental agreement” means any contract modification which is accomplished
+32 by the mutual action of the parties.
+33 (24) “Supplies” means all property, including, but not limited to, leases of real property,
+34 printing, and insurance, except land or permanent interest in land.
+LC005182 - Page 3 of 7
+
+1 (25) “Using agency” means any state governmental entity which utilizes any supplies,
+2 services, or construction purchased under this chapter.
+3 (26) As used in § 37-2-59, “architect” or “engineer” services means those professional
+4 services within the scope of practice of architecture, professional engineering, or registered land
+5 surveying pertaining to construction, as defined by the laws of this state. “Consultant” means any
+6 person with whom the state and/or a public agency has a contract which contract provides for the
+7 person to give direction or information as regards a particular area of knowledge in which the
+8 person is a specialist and/or has expertise.
+9 (27) For purposes of §§ 37-2-62 — 37-2-70, “directors” means those members of a public
+10 agency appointed pursuant to a statute who comprise the governing authority of the board,
+11 commission, authority, and/or corporation.
+12 (28) “State agency” means any department, commission, council, board, bureau,
+13 committee, institution, or other governmental entity of the executive or judicial branch of this state
+14 not otherwise established as a body corporate and politic, and includes, without limitation, the
+15 council on postsecondary education except for purchases which are funded by restricted, sponsored,
+16 or auxiliary moneys, the university of Rhode Island board of trustees except for all purchases which
+17 are funded by restricted, sponsored, or auxiliary monies, and the council on elementary and
+18 secondary education.
+19 (29) “Governmental entity” means any department, commission, council, board, bureau,
+20 committee, institution, legislative body, agency, or government corporation of the executive,
+21 legislative, or judicial branches of state, federal, and/or local governments.
+22 (30) “Construction management at-risk” or “construction management at-risk services” or
+23 “construction management at-risk delivery method” is a construction method wherein a
+24 construction manager at-risk provides a range of preconstruction services and construction
+25 management services which may include cost estimation and consultation regarding the design of
+26 the building project, the preparation and coordination of bid packages, scheduling, cost control, and
+27 value engineering, acting as the general contractor during the construction, detailing the trade
+28 contractor scope of work, holding the trade contracts and other contracts, evaluating trade
+29 contractors and subcontractors, and providing management and construction services, all at a
+30 guaranteed maximum price, which shall represent the maximum amount to be paid by the using
+31 agency for the building project, including the cost of work, the general conditions, and the fee
+32 payable to the construction management at-risk firm.
+33 (31) “Construction manager at-risk” or “construction management at-risk firm” is a person
+34 or business experienced in construction that has the ability to evaluate and to implement drawings
+LC005182 - Page 4 of 7
+
+1 and specifications as they affect time, cost and quality of construction and the ability to coordinate
+2 and deliver the construction of the project within a guaranteed maximum price, which shall
+3 represent the maximum amount to be paid by the using agency for the building project, including
+4 the cost of the work, the general conditions, and the fee payable to the construction management
+5 at-risk firm. The construction manager at-risk provides consultation services during the
+6 preconstruction and construction phases of the project. The project engineer, architect, or owner’s
+7 program manager may not serve as the construction manager at-risk.
+8 (32) “Owner’s program manager” shall be an entity engaged to provide project
+9 management services on behalf of a state agency for the construction and supervision of the
+10 construction of a building project. The owner’s program manager acts as the owner’s agent in all
+11 aspects of the construction project, including, but not limited to, architectural programming,
+12 planning, design, construction, and the selection and procurement of an appropriate construction
+13 delivery method. The owner’s program manager shall have at least seven (7) years’ experience in
+14 the construction and supervision of construction of buildings of similar size and complexity. The
+15 owner’s program manager shall not have been employed during the preceding year by the design
+16 firm, the construction firm, and/or the subcontractors associated with the project.
+17 (33) “Food” means:
+18 (i) Articles used for food or drink for people or other animals;
+19 (ii) Chewing gum; and
+20 (iii) Articles used for components of any food or drink article.
+21 (34) “Food supplies” means non-durable, consumable items used to store, handle, serve,
+22 package, or present food to include, but not be limited to, disposable paper goods, single-use
+23 serviceware: napkins, cups, lids, plates, bowls, cutlery, trays, deli paper, foil, film wrap, and takeout
+24 containers. "Food supplies" shall not include equipment, appliances, furnishings, and capital items.
+25 SECTION 2. Section 37-2-22 of the General Laws in Chapter 37-2 entitled "State
+26 Purchases" is hereby amended to read as follows:
+27 37-2-22. Small purchases.
+28 Procurements, not to exceed an aggregate amount of twenty-five thousand dollars
+29 ($25,000) for construction and food and food supplies, and ten thousand dollars ($10,000) for all
+30 other purchases may be made in accordance with small purchase regulations promulgated by the
+31 chief purchasing officer. Procurement requirements shall not be artificially divided so as to
+32 constitute a small purchase under this section.
+LC005182 - Page 5 of 7
+
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC005182
+========
+LC005182 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC PROPERTY AND WORKS -- STATE PURCHASES
+***
+1 This act would define food and food supplies for the purposes of Rhode Island general laws
+2 title 37 public property and works chapter 2 state purchases.
+3 This act would further allow for the procurement of food and food supplies not exceeding
+4 an aggregate amount of twenty-five thousand dollars ($25,000) to be made in accordance with
+5 small purchase regulations promulgated by the chief purchasing officer.
+6 This act would take effect upon passage.
+========
+LC005182
+========
+LC005182 - Page 7 of 7

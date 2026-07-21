@@ -1,0 +1,570 @@
+Title: 
+Official Title: 
+Source: versions - 2696
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2696
+========
+LC004946
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TOWNS AND CITIES -- LOW AND MODERATE INCOME HOUSING
+Introduced By: Senator Linda L. Ujifusa
+Date Introduced: February 27, 2026
+Referred To: Senate Housing & Municipal Government
+(By Request)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 45-53-3 and 45-53-4 of the General Laws in Chapter 45-53 entitled
+2 "Low and Moderate Income Housing" are hereby amended to read as follows:
+3 45-53-3. Definitions. [Effective January 1, 2026, inclusive of existing language in § 45-
+4 53-3.]
+5 The following words, wherever used in this chapter, unless a different meaning clearly
+6 appears from the context, have the following meanings:
+7 (1) “Adjustment(s)” means a request or requests by the applicant to seek relief from the
+8 literal use and dimensional requirements of the municipal zoning ordinance and/or the design
+9 standards or requirements of the municipal land development and subdivision regulations. The
+10 standard for the local review board’s consideration of adjustments is set forth in § 45-53-
+11 4(e)(3)(iii)(E)(II).
+12 (2) “Affordable housing plan” means a component of a housing element, as defined in §
+13 45-22.2-4(1), that addresses low- and moderate-income housing needs in a city or town that is
+14 prepared in accordance with guidelines adopted by the state planning council, and/or to meet the
+15 provisions of § 45-53-4(f)(1) and (g).
+16 (3) “Approved affordable housing plan” means an affordable housing plan that is part of
+17 an approved and unexpired local comprehensive plan as provided for in § 45-22.2-8, § 45-22.2-9,
+18 or § 45-22.2-12.
+19 (4) “Comprehensive plan” means a comprehensive plan adopted and approved by a city or
+
+1 town pursuant to chapter 22.2 of this title.
+2 (5) “Consistent with local needs” means reasonable in view of the state and local need for
+3 low- and moderate-income housing, considered with the number of low-income persons in the city
+4 or town affected and the need to protect the health and safety of the occupants of the proposed
+5 housing or of the residents of the city or town, to promote better site and building design in relation
+6 to the surroundings, or to preserve open spaces, and if the local zoning or land use ordinances,
+7 requirements, and regulations are applied as equally as possible to both subsidized and
+8 unsubsidized housing.
+9 (6) “Infeasible” means any condition brought about by any single factor or combination of
+10 factors, as a result of limitations imposed on the development by conditions attached to the approval
+11 of the comprehensive permit, to the extent that it makes it financially or logistically impracticable
+12 for any applicant to proceed in building or operating low- or moderate-income housing within the
+13 limitations set by the subsidizing agency of government or local review board, on the size or
+14 character of the development, on the amount or nature of the subsidy, or on the tenants, rentals, and
+15 income permissible, and without substantially changing the rent levels and unit sizes proposed by
+16 the applicant.
+17 (7) “Letter of eligibility” means a letter issued by the Rhode Island housing and mortgage
+18 finance corporation in accordance with § 42-55-5.3(a).
+19 (8) “Local review board” means the local planning board or commission as defined by §
+20 45-22.2-4.
+21 (9) “Low- or moderate-income housing” shall be synonymous with “affordable housing”
+22 as defined in § 42-128-8.1, and further means any type of housing whether built or operated by any
+23 public agency or any nonprofit organization or by any limited equity housing cooperative or any
+24 private developer, that is subsidized by a federal, state, or municipal government subsidy under any
+25 program to assist the construction or rehabilitation of affordable housing and that will remain
+26 affordable through a land lease and/or deed restriction for ninety-nine (99) years or such other
+27 period that is either agreed to by the applicant and town or prescribed by the federal, state, or
+28 municipal government subsidy program but that is not less than thirty (30) years from initial
+29 occupancy.
+30 (i) Any housing unit that qualifies under this subsection (9) and under § 42-128-8.1 shall
+31 be counted as one whole unit toward the municipality’s requirement for low- or moderate-income
+32 housing.
+33 (ii) Any mobile or manufactured home(s) that meet the requirements of § 42-128-
+34 8.1(d)(1)(ii) but are not subsidized by a federal, state, or municipal government subsidy and/or do
+LC004946 - Page 2 of 17
+
+1 not have a deed restriction or land lease as described in this subsection (9), shall count as one-half
+2 (½) of one unit for the purpose of the calculation of the total of low- or moderate-income year-
+3 round housing within a city or town, as long as a municipality contracts with a monitoring agent to
+4 verify that the requirements of § 42-128-8.1(d)(1)(ii) are met for these units. Such units shall not
+5 be required to meet the income verification requirements of § 42-128-8.1. The monitoring agent
+6 shall provide a listing of the eligible units to Rhode Island Housing, who shall provide a report as
+7 to the qualifying mobile or manufactured homes under this subsection (9) to the governor, speaker
+8 of the house of representatives, senate president, and secretary of housing on an annual basis,
+9 beginning on or before December 31, 2025.
+10 (iii) Low- or moderate-income housing also includes rental property located within a
+11 municipality that is secured with a federal government rental assistance voucher.
+12 (iv) For the period beginning on or after July 1, 2024, any housing unit that qualifies as
+13 low- or moderate-income housing under this subsection (9) and under § 42-128-8.1 and any rental
+14 property secured with a federal government rental assistance voucher that does not otherwise meet
+15 the other requirements to qualify as low- or moderate-income housing under this section shall be
+16 counted as one whole unit toward the municipality’s requirement for low- or moderate-income
+17 housing, as long as a municipality confirms with the issuing authority that the voucher is in good
+18 standing and active.
+19 (v) Provided, in calculating a municipality's progress towards meeting applicable low- and
+20 moderate-income housing threshold under this chapter, affordable housing units shall be counted
+21 at and upon the issuance of a building permit for that unit.
+22 (10) “Monitoring agents” means those monitoring agents appointed by the executive office
+23 of housing pursuant to § 45-53-3.2 and to provide the monitoring and oversight set forth in this
+24 chapter, including, but not limited to, §§ 45-53-3.2 and 45-53-4.
+25 (11) “Municipal government subsidy” means assistance that is made available through a
+26 city or town program sufficient to make housing affordable, as affordable housing is defined in §
+27 42-128-8.1(d)(1); such assistance shall include a combination of, but is not limited to, direct
+28 financial support, abatement of taxes, waiver of fees and charges, and density bonuses and/or
+29 internal subsidies, zoning incentives, and adjustments as defined in this section and any
+30 combination of forms of assistance.
+31 SECTION 2. Section of the General Laws in Chapter 45-53 entitled "Low and Moderate
+32 Income Housing" is hereby amended to read as follows:
+33 45-53-4. Procedure for approval of construction of low- or moderate-income housing.
+34 [Effective January 1, 2026, inclusive of existing language in § 45-53-4.]
+LC004946 - Page 3 of 17
+
+1 (a) Any applicant proposing to build low- or moderate-income housing may submit to the
+2 local review board a single application for a comprehensive permit to build that housing in lieu of
+3 separate applications to the applicable local boards. This procedure is only available for proposals
+4 in which at least twenty-five percent (25%) of the housing is low- or moderate-income housing.
+5 This procedure is not available in cities and towns that have low- or moderate-income housing in
+6 excess of ten percent (10%) of its year-round housing units which also have an inclusionary zoning
+7 ordinance which complies with § 45-24-46.1.
+8 (b) Cities and towns that have low- or moderate-income housing in excess of ten percent
+9 (10%) of its year-round housing units:
+10 (1) May provide an applicant with more dwelling units than allowed by right under its
+11 zoning ordinance in the form of a density bonus to allow an increase in the allowed dwelling units
+12 per acre (DU/A), as well as other incentives and municipal government subsidies as defined in §
+13 45-53-3;
+14 (2) May, by council action, limit the annual total number of dwelling units in
+15 comprehensive permit applications from for-profit developers to an aggregate of one percent (1%)
+16 of the total number of year-round housing units in the town, and notwithstanding the timetables set
+17 forth elsewhere in this section, the local review board shall have the authority to consider
+18 comprehensive permit applications from for-profit developers, which are made pursuant to this
+19 subsection, sequentially in the order in which they are submitted.
+20 (c) Cities and towns that do not have low- or moderate-income housing in excess of ten
+21 percent (10%) of its year-round housing units:
+22 (1) Shall make available to applications under this chapter municipal government
+23 subsidies, including adjustments and zoning incentives, to offset the differential costs of the low-
+24 or moderate-incoming housing units. At a minimum, the following zoning incentives shall be
+25 allowed for in these cities or towns for projects submitted under this chapter:
+26 (A) Density bonuses. These cities and towns shall provide an applicant with more dwelling
+27 units than allowed by right under its zoning ordinances in the form of a density bonus to allow an
+28 increase in the allowed dwelling units per acre (DU/A). At a minimum, the following density
+29 bonuses for projects submitted under this chapter, provided that the total land utilized in the density
+30 calculation shall exclude wetlands; area devoted to roadway infrastructure necessary for
+31 development; and easements or rights of way of record:
+32 (i) For properties connected to public sewer and water, or eligible to be connected to public
+33 sewer and water based on written confirmation from each respective service provider, the density
+34 bonus for a project that provides at least twenty-five percent (25%) low- and moderate-income
+LC004946 - Page 4 of 17
+
+1 housing shall be at least five (5) units per acre;
+2 (ii) For properties connected to public sewer and water, or eligible to be connected to public
+3 sewer and water based on written confirmation from each respective service provider, the density
+4 bonus for a project that provides at least fifty percent (50%) low- and moderate-income housing
+5 shall be at least nine (9) units per acre;
+6 (iii) For properties connected to public sewer and water, or eligible to be connected to
+7 public sewer and water based on written confirmation from each respective service provider, the
+8 density bonus for a project that provides one hundred percent (100%) low- and moderate-income
+9 housing shall be at least twelve (12) units per acre;
+10 (iv) For properties not connected to either public water or sewer or both, but which provide
+11 competent evidence as to the availability of water to service the development and/or a permit for
+12 on-site wastewater treatment facilities to service the dwelling units from the applicable state
+13 agency, the density bonus for a project that provides at least twenty-five percent (25%) low- and
+14 moderate-income housing shall be at least three (3) units per acre;
+15 (v) For properties not connected to either public water or sewer or both, but which provide
+16 competent evidence as to the availability of water to service the development and/or a permit for
+17 on-site wastewater treatment facilities to service the dwelling units from the applicable state
+18 agency, the density bonus for a project that provides at least fifty percent (50%) low- and moderate-
+19 income housing shall be at least five (5) units per acre;
+20 (vi) For properties not connected to either public water or sewer or both, but which provide
+21 competent evidence as to the availability of water to service the development and/or a permit for
+22 on-site wastewater treatment facilities to service the dwelling units from the applicable state
+23 agency, the density bonus for a project that provides one hundred percent (100%) low- and
+24 moderate-income housing shall be at least eight (8) units per acre;
+25 (B) Parking. A municipality shall not require more than one off-street parking space per
+26 dwelling unit for units up to and including two (2) bedrooms in applications submitted under this
+27 chapter;
+28 (C) Bedrooms. A municipality shall not limit the number of bedrooms for applications
+29 submitted under this chapter to anything less than three (3) bedrooms per dwelling unit for single-
+30 family dwelling units;
+31 (D) Floor area. A municipality shall not utilize floor area requirements to limit any
+32 application, except as provided by § 45-24.3-11.
+33 (d) A municipality shall not restrict comprehensive permit applications and permits by any
+34 locally adopted ordinance or policy that places a limit or moratorium on the development of
+LC004946 - Page 5 of 17
+
+1 residential units.
+2 (e) The application and review process for a comprehensive permit shall be as follows:
+3 (1) Pre-application conference. A municipality may require an applicant proposing a
+4 project under this chapter, who is not electing to have master plan review, to complete, or the
+5 applicant proposing a project under this chapter may request a pre-application conference with the
+6 local review board, the technical review committee established pursuant to § 45-23-56, or with the
+7 administrative officer for the local review board as appropriate. In advance of a pre-application
+8 conference, the applicant shall be required to submit only a short description of the project in
+9 writing including the number of units, type of housing, density analysis, preliminary list of
+10 adjustments needed, as well as a location map, and conceptual site plan. The purpose of the pre-
+11 application conference shall be to review a concept plan of the proposed development and to elicit
+12 feedback from the reviewing person or board. Upon receipt of a request by an applicant for a pre-
+13 application conference, the municipality shall have thirty (30) days to schedule and hold the pre-
+14 application conference, unless a different timeframe is agreed to by the applicant in writing. If thirty
+15 (30) days has elapsed from the filing of the pre-application submission and no pre-application
+16 conference has taken place, nothing shall be deemed to preclude an applicant from thereafter filing
+17 and proceeding with an application for preliminary plan review for a comprehensive permit.
+18 (2) Optional master plan. An applicant may elect to apply for and be heard on master plan
+19 review prior to preliminary plan submission. If a master plan review is elected by the applicant the
+20 following shall apply:
+21 (i) Submission requirements. Submission requirements for master plan review shall be
+22 limited to the following:
+23 (A) An application form and fee;
+24 (B) A short description of the project in writing including the number of units, type of
+25 housing, density analysis, list of adjustments needed, as well as a location map, and preliminary
+26 determinations as to site constraints;
+27 (C) Conceptual site plans showing infrastructure locations for roadways, preliminary
+28 locations and design of conceptual stormwater facilities, location of sewer and water lines and/or
+29 wells and on-site wastewater treatment systems, locations of housing units, estimated locations of
+30 site constraints and wetlands;
+31 (D) A preliminary traffic opinion for projects of over thirty (30) dwelling units;
+32 (E) A letter of eligibility issued by the Rhode Island housing and mortgage finance
+33 corporation, or in the case of projects primarily funded by the U.S. Department of Housing and
+34 Urban Development or other state or federal agencies, an award letter indicating the subsidy, or
+LC004946 - Page 6 of 17
+
+1 application in such form as may be prescribed for a municipal government subsidy;
+2 (F) If the applicant submits any requests for adjustments at master plan, a public hearing
+3 shall be held in the same manner as during preliminary plan review as set forth in this section and
+4 the applicant shall be responsible for providing the list of abutters and all advertising costs.
+5 (ii) Certification of completeness. The master plan application must be certified complete
+6 or incomplete by the administrative officer according to the provisions of § 45-23-36; provided,
+7 however, that the certificate shall be granted within twenty-five (25) days of submission of the
+8 application. The running of the time period set forth herein will be deemed stopped upon the
+9 issuance of a written certificate of incompleteness of the application by the administrative officer
+10 and will recommence upon the resubmission of a corrected application by the applicant. However,
+11 in no event will the administrative officer be required to certify a corrected submission as complete
+12 or incomplete less than ten (10) days after its resubmission. If the administrative officer certifies
+13 the application as incomplete, the officer shall set forth in writing with specificity the missing or
+14 incomplete items.
+15 (iii) Review of applications. A master plan application filed in accordance with this chapter
+16 shall be reviewed in accordance with the following provisions:
+17 (A) Timeframe for review. The local review board shall render a decision on the master
+18 plan application within sixty (60) days of the date the application is certified complete, or within a
+19 further amount of time that may be consented to by the applicant through the submission of a
+20 written consent.
+21 (B) Failure to act. Failure of the local review board to act within the prescribed period
+22 constitutes approval of the master plan, and a certificate of the administrative officer as to the failure
+23 of the local review board to act within the required time and the resulting approval shall be issued
+24 on request of the applicant.
+25 (C) Required findings. In voting on an application, the local review board shall make
+26 findings, supported by legally competent evidence on the record that discloses the nature and
+27 character of the observations upon which the fact finders acted, on the standards required for
+28 preliminary plan review in this section, to the extent applicable at the master plan. The failure to
+29 provide information which is required later at preliminary plan review shall not form a basis for
+30 denial. If the board votes to defer a finding to preliminary plan it shall do so on the record during
+31 the proceedings and in the written decision and specify what items are necessary for review at the
+32 preliminary plan stage in order to address that finding.
+33 (iv) Vesting. The approved master plan is vested for a period of two (2) years with the
+34 right to extend for two (2), one-year extensions upon written request by the applicant, who must
+LC004946 - Page 7 of 17
+
+1 appear before the planning board for each annual review. Thereafter, vesting may be extended for
+2 a longer period, for good cause shown, if requested, in writing by the applicant, and approved by
+3 the local review board. The vesting for the master plan approval includes all ordinance provisions
+4 and regulations at the time of the approval, general and specific conditions shown on the approved
+5 master plan drawings and supporting material.
+6 (3) Preliminary plan review.
+7 (i) Submission requirements. Applications for preliminary plan review under this chapter
+8 shall include:
+9 (A) Unless already submitted at a master plan stage, a letter of eligibility issued by the
+10 Rhode Island housing and mortgage finance corporation, or in the case of projects primarily funded
+11 by the U.S. Department of Housing and Urban Development or other state or federal agencies, an
+12 award letter indicating the subsidy, or application in such form as may be prescribed for a municipal
+13 government subsidy; and
+14 (B) A letter signed by the authorized representative of the applicant, setting forth the
+15 specific sections and provisions of applicable local ordinances and regulations from which the
+16 applicant is seeking adjustments; and
+17 (C) A proposed timetable for the commencement of construction and completion of the
+18 project; and
+19 (D) Those items required by local regulations promulgated pursuant to applicable state law,
+20 with the exception of evidence of state or federal permits; and for comprehensive permit
+21 applications included in the checklist for the preliminary plan review in the local regulations
+22 promulgated pursuant to chapter 23 of this title; and
+23 (E) Notwithstanding the submission requirements set forth above, the local review board
+24 may request additional, reasonable documentation throughout the public hearing, including, but not
+25 limited to, opinions of experts, credible evidence of application for necessary federal and/or state
+26 permits, statements and advice from other local boards and officials.
+27 (ii) Certification of completeness. The preliminary plan application must be certified
+28 complete or incomplete by the administrative officer according to the provisions of § 45-23-36;
+29 provided, however, that the certificate shall be granted within twenty-five (25) days of submission
+30 of the application. The running of the time period set forth herein will be deemed stopped upon the
+31 issuance of a written certificate of incompleteness of the application by the administrative officer
+32 and will recommence upon the resubmission of a corrected application by the applicant. However,
+33 in no event will the administrative officer be required to certify a corrected submission as complete
+34 or incomplete less than ten (10) days after its resubmission. If the administrative officer certifies
+LC004946 - Page 8 of 17
+
+1 the application as incomplete, the officer shall set forth in writing with specificity the missing or
+2 incomplete items.
+3 (iii) Review of applications. An application filed in accordance with this chapter shall be
+4 reviewed in accordance with the following provisions:
+5 (A) Public hearing. A public hearing shall be noticed and held as soon as practicable after
+6 the issuance of a certificate of completeness.
+7 (B) Notice. Public notice for the public hearing will be the same notice required under local
+8 regulations for a public hearing for a preliminary plan promulgated in accordance with § 45-23-42.
+9 The cost of notice shall be paid by the applicant.
+10 (C) Timeframe for review. The local review board shall render a decision on the
+11 preliminary plan application within ninety (90) days of the date the application is certified
+12 complete, or within a further amount of time that may be consented to by the applicant through the
+13 submission of a written consent.
+14 (D) Failure to act. Failure of the local review board to act within the prescribed period
+15 constitutes approval of the preliminary plan, and a certificate of the administrative officer as to the
+16 failure of the local review board to act within the required time and the resulting approval shall be
+17 issued on request of the applicant. Further, if the public hearing is not convened or a decision is not
+18 rendered within the time allowed in subsections (e)(3)(iii)(A) and (e)(3)(iii)(C) of this section, the
+19 application is deemed to have been allowed and the preliminary plan approval shall be issued
+20 immediately.
+21 (E) Required findings. In voting on an application, the local review board shall make
+22 findings, supported by legally competent evidence on the record that discloses the nature and
+23 character of the observations upon which the fact finders acted, on each of the following standards,
+24 where applicable:
+25 (I) Whether the proposed development is consistent with local needs as identified in the
+26 community’s affordable housing plan and/or has satisfactorily addressed the issues where there
+27 may be inconsistencies. If the local board finds that the proposed development is inconsistent with
+28 the community’s affordable housing plan, it must also find that the municipality has made
+29 significant progress in implementing its housing plan.
+30 (II) Whether the proposed development is in compliance with the standards and provisions
+31 of the municipality’s zoning ordinance and subdivision regulations, and/or where adjustments are
+32 requested by the applicant, whether local concerns that have been affected by the relief granted do
+33 not outweigh the state and local need for low- and moderate-income housing. For cities and towns
+34 that have low- or moderate-income housing in excess of ten percent (10%) of its year-round housing
+LC004946 - Page 9 of 17
+
+1 units, where adjustments are requested, in addition to the above-showing, the proposed
+2 development must show it has mitigated any impact of the proposed development on the general
+3 character of the surrounding area.
+4 (III) Whether the low- and moderate-income housing units proposed are integrated
+5 throughout the development; are compatible in scale, meaning that: (1) The size of the low- and
+6 moderate-income units shall not be less than seventy-five percent (75%) of the size of the market
+7 rate units, unless otherwise allowed by the local board; (2) The affordable units are of similar
+8 architectural style to the market rate units within the project so that the exterior of the units look
+9 like an integrated neighborhood with similar rooflines, window patterns, materials and colors; and
+10 (3) The affordable units will be built and occupied in a proportional manner with the construction
+11 and occupancy of the market rate units. Except that for housing units that are intended to be
+12 occupied by persons fifty-five (55) years of age or older, or sixty-two (62) years of age or older, as
+13 permitted by the federal Fair Housing Act pursuant to 42 U.S.C. § 3607(b) and 24 C.F.R. §§
+14 100.300-308 and the Rhode Island fair housing practices act pursuant to § 34-37-4.1, such units
+15 need not be integrated in any building or phase within the development that contains housing units
+16 that are not age-restricted, and neither age-restricted housing units nor any building or phase
+17 containing age-restricted housing units must be compatible in scale and architectural style to other
+18 housing unit types to the extent the age-restricted housing units are designed to meet the physical
+19 or social needs of older persons or necessary to provide housing opportunities for older persons.
+20 (IV) Whether there will be significant negative impacts on the health and safety of current
+21 or future residents of the community, in areas including, but not limited to, safe circulation of
+22 pedestrian and vehicular traffic, provision of emergency services, sewerage disposal, availability
+23 of potable water, adequate surface water run-off, and the preservation of natural, historical, or
+24 cultural features.
+25 (V) Whether the proposed land developments or subdivisions lots will have adequate and
+26 permanent physical access to a public street in accordance with the requirements of § 45-23-
+27 60(a)(5), or the local review board has approved other access, such as a private road.
+28 (VI) Whether the proposed development will result in the creation of individual lots with
+29 any physical constraints to development that building on those lots according to pertinent
+30 regulations and building standards would be impracticable, unless created only as permanent open
+31 space or permanently reserved for a public purpose on the approved, recorded plans.
+32 (F) [Deleted by P.L. 2025, ch. 363, § 1 and P.L. 2025, ch. 364, § 1.]
+33 (G) Required findings for denial. A local review board may deny an application for a
+34 comprehensive permit only upon making written findings, supported by legally competent evidence
+LC004946 - Page 10 of 17
+
+1 on the record, that one or more of the following conditions exist:
+2 (I) The municipality has an approved affordable housing plan, the proposal is inconsistent
+3 with that plan, and the municipality has made significant progress in implementing the plan;
+4 (II) The proposal is not consistent with local needs including, but not limited to, needs
+5 identified in the comprehensive plan or local zoning ordinances adopted in conformance with the
+6 comprehensive plan;
+7 (III) The proposal is not in conformance with the comprehensive plan;
+8 (IV) The municipality has met, or has made significant progress toward meeting the
+9 applicable low- and moderate-income housing threshold under this chapter; or
+10 (V) The proposal would result in significant negative impacts on the health or safety of
+11 current or future residents that cannot be adequately mitigated.
+12 (iv) Vesting. The approved preliminary plan is vested for a period of two (2) years with the
+13 right to extend for two (2), one-year extensions upon written request by the applicant, who must
+14 appear before the planning board for each annual review and provide proof of valid state or federal
+15 permits as applicable. Thereafter, vesting may be extended for a longer period, for good cause
+16 shown, if requested, in writing by the applicant, and approved by the local review board. The
+17 vesting for the preliminary plan approval includes all ordinance provisions and regulations at the
+18 time of the approval, general and specific conditions shown on the approved preliminary plan
+19 drawings and supporting material.
+20 (4) Final plan review. The second and final stage of review for the comprehensive permit
+21 project shall be done administratively, unless an applicant has requested and been granted any
+22 waivers from the submission of checklist items for preliminary plan review, and then, at the local
+23 review board’s discretion, it may vote to require the applicant to return for final plan review and
+24 approval.
+25 (i) Submission requirements. Applications for final plan review under this chapter shall
+26 include:
+27 (A) All required state and federal permits must be obtained prior to the final plan approval
+28 or the issuance of a building permit; and
+29 (B) A draft monitoring agreement which identifies an approved entity that will monitor the
+30 long-term affordability of the low- and moderate-income units pursuant to § 45-53-3.2; and
+31 (C) A sample land lease or deed restriction with affordability liens that will restrict use as
+32 low- and moderate-income housing in conformance with the guidelines of the agency providing
+33 the subsidy for the low- and moderate-income housing, but for a period of not less than thirty (30)
+34 years; and
+LC004946 - Page 11 of 17
+
+1 (D) Those items required by local regulations promulgated pursuant to applicable state law
+2 included in the checklist for final plan review in the local regulations promulgated pursuant to
+3 chapter 23 of this title, including, but not limited to:
+4 (I) Arrangements for completion of the required public improvements, including
+5 construction schedule and/or financial guarantees; and
+6 (II) Certification by the tax collector that all property taxes are current; and
+7 (III) For phased projects, the final plan for phases following the first phase, shall be
+8 accompanied by copies of as-built drawings not previously submitted of all existing public
+9 improvements for prior phases.
+10 (ii) Certification of completeness. The final plan application must be certified complete or
+11 incomplete by the administrative officer according to the provisions of § 45-23-36; provided
+12 however, that the certificate shall be granted within twenty-five (25) days of submission of the
+13 application. The running of the time period set forth herein will be deemed stopped upon the
+14 issuance of a written certificate of incompleteness of the application by the administrative officer
+15 and will recommence upon the resubmission of a corrected application by the applicant. However,
+16 in no event will the administrative officer be required to certify a corrected submission as complete
+17 or incomplete less than ten (10) days after its resubmission. If the administrative officer certifies
+18 the application as incomplete, the officer shall set forth in writing with specificity the missing or
+19 incomplete items.
+20 (iii) Review of applications.
+21 (A) Timeframe for review. The reviewing authority shall render a decision on the final plan
+22 application within forty-five (45) days of the date the application is certified complete.
+23 (B) Modifications and changes to plans:
+24 (I) Minor changes, as defined in the local regulations, to the approved plans may be
+25 approved administratively, by the administrative officer. The changes may be authorized without
+26 additional public hearings, at the discretion of the administrative officer. All changes shall be made
+27 part of the permanent record of the project application. This provision does not prohibit the
+28 administrative officer from requesting a recommendation from either the technical review
+29 committee or the local review board. Denial of the proposed change(s) shall be referred to the local
+30 review board for review as a major change.
+31 (II) Major changes, as defined in the local regulations, to the plans may be approved only
+32 by the local review board and must follow the same review and public hearing process required for
+33 approval of preliminary plans as described in subsection (e)(3)(iii) of this section.
+34 (III) The administrative officer shall notify the applicant in writing within fourteen (14)
+LC004946 - Page 12 of 17
+
+1 days of submission of the final plan application if the administrative officer is referring the
+2 application to the local review board under this subsection.
+3 (C) Decision on final plan. An application filed in accordance with this chapter shall be
+4 approved by the administrative officer unless such application does not satisfy conditions set forth
+5 in the preliminary plan approval decision or such application does not have the requisite state and/or
+6 federal approvals or other required submissions, does not post the required improvement bonds, or
+7 such application is a major modification of the plans approved at preliminary plan.
+8 (D) Failure to act. Failure of the reviewing authority to act within the prescribed period
+9 constitutes approval of the final plan, and a certificate of the administrative officer as to the failure
+10 to act within the required time and the resulting approval shall be issued on request of the applicant.
+11 (iv) Vesting. The approved final plan decision is vested for a period of two (2) years with
+12 the right to extend for one one-year extension upon written request by the applicant, who must
+13 appear before the planning board for the extension request, unless, within that period, the plat or
+14 plan has been submitted for signature and recording as specified in § 45-23-64. Thereafter, vesting
+15 may be extended for a longer period, for good cause shown, if requested, in writing by the applicant,
+16 and approved by the local review board.
+17 (5) Infeasibility of conditions of approval. The burden is on the applicant to show, by
+18 competent evidence before the local review board, that proposed conditions of approval are
+19 infeasible, as defined in § 45-53-3. Upon request, the applicant shall be provided a reasonable
+20 opportunity to respond to such proposed conditions prior to a final vote on the application.
+21 (6) Fees. Municipalities may impose fees on comprehensive permit applications that are
+22 consistent with but do not exceed fees that would otherwise be assessed for a project of the same
+23 scope and type, but not proceeding under this chapter; provided, however, the imposition of such
+24 fees shall not preclude a showing by an applicant that the fees make the project financially
+25 infeasible.
+26 (7) Recording of written decisions. All written decisions on applications under this chapter
+27 shall be recorded in the land evidence records within twenty (20) days after the local review board’s
+28 vote or the administrative officer’s decision, as applicable. A copy of the recorded decision shall
+29 be mailed within one business day of recording, by any method that provides confirmation of
+30 receipt, to the applicant and to any objector who has filed a written request for notice with the
+31 administrative officer.
+32 (8) Local review board powers. The local review board has the same power to issue permits
+33 or approvals that any local board or official who would otherwise act with respect to the application,
+34 including, but not limited to, the power to attach to the permit or approval, conditions, and
+LC004946 - Page 13 of 17
+
+1 requirements with respect to height, site plan, size or shape, or building materials, as are consistent
+2 with the terms of this section.
+3 (9) Majority vote required. All local review board decisions on comprehensive permits
+4 shall be by majority vote of the members present at the proceeding.
+5 (10) Construction timetable. A comprehensive permit shall expire unless construction is
+6 started within twelve (12) months and completed within sixty (60) months of the recording of the
+7 final plan unless a longer and/or phased period for development is agreed to by the local review
+8 board and the applicant. Low- and moderate-income housing units shall be built and occupied prior
+9 to, or simultaneous with the construction and occupancy of market rate units.
+10 (11) [Deleted by P.L. 2025, ch. 363, § 2 and P.L. 2025, ch. 364, § 2.]
+11 (12) Report. The local review board of a town with an approved affordable housing plan
+12 shall report the status of implementation to the housing resources commission, including the
+13 disposition of any applications made under the plan, as of June 30, 2006, by September 1, 2006,
+14 and for each June 30 thereafter by September 1 through 2010. The housing resources commission
+15 shall prepare by October 15 and adopt by December 31, a report on the status of implementation,
+16 which shall be submitted to the governor, the speaker and the president of the senate, and shall find
+17 which towns are not in compliance with implementation requirements.
+18 (13) Remanded applications. Notwithstanding the provisions of § 45-53-4 in effect on
+19 February 13, 2004, a local review board shall commence hearings within thirty (30) days of
+20 receiving an application remanded pursuant to § 45-53-5 or, effective January 1, 2024, § 45-53-
+21 5.1. In any town with more than one remanded application, applications may be scheduled for
+22 hearing in the order in which they were received, and may be taken up sequentially, with the thirty-
+23 day (30) requirement for the initiation of hearings, commencing upon the decision of the earlier
+24 filed application.
+25 (f)(1) The general assembly finds and declares that in January 2004 towns throughout
+26 Rhode Island have been confronted by an unprecedented volume and complexity of development
+27 applications as a result of private for-profit developers using the provisions of this chapter and that
+28 in order to protect the public health and welfare in communities and to provide sufficient time to
+29 establish a reasonable and orderly process for the consideration of applications made under the
+30 provisions of this chapter, and to have communities prepare plans to meet low- and moderate-
+31 income housing goals, that it is necessary to impose a moratorium on the use of comprehensive
+32 permit applications as herein provided by private for-profit developers; a moratorium is hereby
+33 imposed on the use of the provisions of this chapter by private for-profit developers, which
+34 moratorium shall be effective on passage and shall expire on January 31, 2005, and may be revisited
+LC004946 - Page 14 of 17
+
+1 prior to expiration and extended to such other date as may be established by law. Notwithstanding
+2 the provisions of subsection (a) of this section, private for-profit developers may not utilize the
+3 procedure of this chapter until the expiration of the moratorium.
+4 (2) No for-profit developer shall submit a new application for comprehensive permits until
+5 July 1, 2005, except by mutual agreement with the local review board.
+6 (3) Notwithstanding the provisions of subsection (f)(2) of this section, a local review board
+7 in a town which has submitted a plan in accordance with subsection (g) of this section, shall not be
+8 required to accept an application for a new comprehensive permit from a for-profit developer until
+9 October 1, 2005.
+10 (g) Towns and cities that are not in conformity with the provisions of § 45-53-3(5)(i) shall
+11 prepare by December 31, 2004, a comprehensive plan housing element for low- and moderate-
+12 income housing as specified by § 45-53-3(5)(ii), consistent with applicable law and regulation.
+13 That the secretary of the planning board or commission of each city or town subject to the
+14 requirements of this paragraph shall report in writing the status of the preparation of the housing
+15 element for low- and moderate-income housing on or before June 30, 2004, and on or before
+16 December 31, 2004, to the secretary of the state planning council, to the chair of the house
+17 committee on corporations and to the chair of the senate committee on commerce, housing and
+18 municipal government.
+19 (h) If any provision of this section or the application thereof shall for any reason be judged
+20 invalid, the judgment shall not affect, impair, or invalidate the remainder of this section or of any
+21 other provision of this chapter, but shall be confined in its effect to the provision or application
+22 directly involved in the controversy giving rise to the judgment, and a moratorium on the
+23 applications of for-profit developers pursuant to this chapter shall remain and continue to be in
+24 effect for the period commencing on the day this section becomes law [February 13, 2004] and
+25 continue until it shall expire on January 31, 2005, or until amended further.
+26 (i) In planning for, awarding, and otherwise administering programs and funds for housing
+27 and for community development, state departments, agencies, boards and commissions, and public
+28 corporations, as defined in chapter 18 of title 35, shall among the towns subject to the provision of
+29 § 45-53-3(5)(ii), give priority to the maximum extent allowable by law to towns with an approved
+30 affordable housing plan. The director of administration shall adopt not later than January 31, 2005,
+31 regulations to implement the provisions of this section.
+32 (j) Multi-family rental units built under a comprehensive permit may be calculated towards
+33 meeting the requirements of a municipality’s low- or moderate-income housing inventory, as long
+34 as the units meet and are in compliance with the provisions of § 45-53-3.1.
+LC004946 - Page 15 of 17
+
+1 SECTION 3. Construction. For purposes of this act, any reference in this act to a
+2 municipality's low- and moderate-income housing threshold shall mean the applicable threshold
+3 established under current law.
+4 SECTION 4. This act shall take effect on July 1, 2026.
+========
+LC004946
+========
+LC004946 - Page 16 of 17
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- LOW AND MODERATE INCOME HOUSING
+***
+1 This act would amend the low and moderate income housing act to restore provisions
+2 relating to the timing for counting affordable housing units and the required findings for denial of
+3 comprehensive permit applications that were repealed in 2025.
+4 This act would take effect on July 1, 2026.
+========
+LC004946
+========
+LC004946 - Page 17 of 17

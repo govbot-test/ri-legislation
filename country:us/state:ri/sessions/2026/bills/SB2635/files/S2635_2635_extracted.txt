@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - 2635
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2635
+========
+LC004915
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO EDUCATION -- FEDERAL AID
+Introduced By: Senators Lawson, Gallo, Ciccone, Tikoian, LaMountain, Bissaillon,
+Murray, Urso, Britto, and Thompson
+Date Introduced: February 13, 2026
+Referred To: Senate Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 16-8 of the General Laws entitled "Federal Aid [See Title 16 Chapter
+2 97 — The Rhode Island Board of Education Act]" is hereby amended by adding thereto the
+3 following section:
+4 16-8-9.1. School lunch program -- Fees, transparency, and payment protections.
+5 (a) Prohibition and permitted fees by meal service collection providers.
+6 (1) Meal service collection providers shall only impose fees that directly correspond to the
+7 actual costs of collecting or processing payments for school meals and shall not generate profit or
+8 revenue beyond those costs.
+9 (2) Fees for any other purpose, including profit, convenience, or administrative gain, are
+10 prohibited.
+11 (3) Any fee permitted under this subsection shall be capped at a percentage of the
+12 transaction amount, which shall not exceed two percent (2%) of the amount deposited into a student
+13 meal account, or a lower percentage as may be established by the Rhode Island department of
+14 education by regulation.
+15 (4) All funds collected from families or provided by public agencies for school meals shall
+16 be applied primarily to the cost of meal service and the limited allowable collection costs under
+17 this subsection.
+18 (5) For purposes of this section, “meal service collection provider” means any vendor,
+19 contractor, payment processor, or entity engaged by a school, school district, or the Rhode Island
+
+1 department of education to collect, process, or manage school meal payments.
+2 (b) No-Fee payment options.
+3 (1) The Rhode Island department of education (RIDE) shall ensure that all public schools
+4 and school districts provide at least one no-fee payment method for parents, guardians, or students
+5 to make payments for school meals and any other school-related fees managed through a payment
+6 platform.
+7 (2) No-fee options may include, but are not limited to, in-person payments, mailed
+8 payments, electronic transfers without vendor-imposed fees, or any other method approved by
+9 RIDE.
+10 (3) RIDE shall promulgate rules and regulations establishing uniform statewide standards
+11 for no-fee payment access.
+12 (4) Local education agencies, under the guidance of RIDE, shall notify parents and
+13 guardians of the available no-fee payment options and the procedures to use them. Notifications
+14 shall be clear, timely, and accessible through multiple channels including, but not limited to, email,
+15 school websites, and written communications.
+16 (c) Fee disclosure requirements for payment platforms.
+17 (1) Any payment processing platform, online portal, or digital collection system used by a
+18 school or school district shall clearly and conspicuously disclose to users:
+19 (i) Whether any user fees will be charged;
+20 (ii) The amount and type of each fee; and
+21 (iii) Whether a no-fee payment option is available and how to access it.
+22 (2) Disclosure shall occur prior to the completion of any transaction and shall not be
+23 obscured, minimized, or pre-checked.
+24 (3) Districts shall ensure that contracts with vendors comply with these disclosure
+25 requirements. Any contract entered into after the effective date of this section that fails to comply
+26 shall be voidable at the option of the district.
+27 (d) Rulemaking. RIDE shall promulgate rules and regulations necessary to implement and
+28 enforce the provisions of this section, including vendor compliance, accessibility standards, and
+29 uniform disclosure requirements.
+30 SECTION 2. This act shall take effect upon passage.
+========
+LC004915
+========
+LC004915 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- FEDERAL AID
+***
+1 This act would provide an end to transaction fees for school lunches in all districts. The
+2 department would ensure there is at least one no-fee payment method for school lunches. This act
+3 would also require that any payment processing platform used by the district clearly discloses
+4 whether fees will be charged.
+5 This act would take effect upon passage.
+========
+LC004915
+========
+LC004915 - Page 3 of 3

@@ -1,0 +1,257 @@
+Title: 
+Official Title: 
+Source: versions - 8036
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8036
+========
+LC005110
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TOWNS AND CITIES -- RESTORING OPTIONS IN OCCUPANCY
+MODELS (ROOM) ACT
+Introduced By: Representatives Speakman, Diaz, Giraldo, and Cruz
+Date Introduced: February 27, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds and declares:
+3 (1) Rhode Island is currently experiencing a housing availability and affordability crisis.
+4 (2) Co-living, also known as Single Room Occupancy (SRO), is a residential property with
+5 sleeping units that are independently rented and provide living and sleeping space, in which
+6 residents share kitchen and/or bathroom facilities with residents of other units.
+7 (3) Because of their smaller size and limited amenities, SROs historically have offered
+8 rental housing at the lowest per-unit cost typically available on the private housing market.
+9 (4) Starting in the early 20th century, local governments began adopting restrictive zoning
+10 and other land use and building regulations that prohibited or made it impractical to build or operate
+11 SROs, causing the numbers of such units to dramatically decrease.
+12 (5) Today, many cities and counties either exclude co-living from most residential zones
+13 or impose zoning and regulatory requirements that render the development or conversion of co-
+14 living properties economically or physically infeasible.
+15 (6) Co-living provides additional options for people who:
+16 (i) Wish to lower their housing expenses by paying less for a smaller home;
+17 (ii) Value shared community spaces that facilitate social connections;
+18 (iii) Wish to trade space for location and the ability to live in a high-opportunity
+
+1 neighborhood that would otherwise be out of reach; or
+2 (iv) Want a more private alternative to having a roommate in a traditional rental.
+3 (7) Recent studies show that in cities where co-living remains legal, monthly rents for co-
+4 living average 40 percent lower than rents for studio apartments.
+5 (8) While co-living is often associated with single-person households, adding smaller,
+6 affordable units increases overall housing supply and triggers the economic process known as
+7 filtering, in which additional supply reduces competition for larger family-sized homes and eases
+8 pressure on rents across the market.
+9 (9) Co-living is well suited for the conversion of office buildings, hotels and other
+10 underutilized commercial properties to housing, because such conversions typically require less
+11 plumbing and fixtures for kitchens and bathrooms, thus enabling the adaptive reuse of buildings
+12 which would not be economically feasible to convert to standard apartments.
+13 (10) Co-living may provide income-earning opportunities for property owners, furthering
+14 housing affordability and economic mobility.
+15 (11) Enabling the creation of co-living near downtowns, transit hubs, employment centers,
+16 commercial areas and public amenities can increase walkability, shorten commutes, curtail sprawl,
+17 limit growth of traffic and reduce the pressure to develop farmland and the natural environment.
+18 SECTION 2. Title 45 of the General Laws entitled "TOWNS AND CITIES" is hereby
+19 amended by adding thereto the following chapter:
+20 CHAPTER 24.8
+21 RESTORING OPTIONS IN OCCUPANCY MODELS (ROOM) ACT
+22 45-24.8-1. Short title.
+23 This chapter shall be known and may be cited as, the “Restoring Options in Occupancy
+24 Models (ROOM) Act”.
+25 45-24.8-2. Definitions.
+26 For the purposes of this chapter:
+27 (1) “Co-living conversion” means the alteration of an existing building, or portion of a
+28 building, for the purpose of creating two (2) or more sleeping units that have access to shared
+29 kitchen and/or bathroom facilities, whether by reconfiguring interior space, changing the use or
+30 occupancy classification, or adding sleeping units to a structure previously used for another
+31 purpose.
+32 (2) “Co-living occupancy agreement” means a written residential agreement that grants an
+33 individual the exclusive right to occupy a sleeping unit in a co-living property and the shared right
+34 to use common amenities and facilities in exchange for payment of rent. A co-living occupancy
+LC005110 - Page 2 of 8
+
+1 agreement is a residential tenancy for purposes of chapter 18 of title 34, except to the extent that
+2 this chapter provides different rules.
+3 (3) “Co-living property” means a residential property that includes one or more sleeping
+4 units that are independently rented and lockable, with residents sharing separate kitchen and/or
+5 bathroom facilities with other sleeping units in the building. Municipalities may use other terms to
+6 refer to co-living including, but not limited to, boarding house, congregate living facilities, group
+7 home, lodging house, micro units, or single room occupancy. The term does not include a unit in a
+8 hotel, motel, or other establishment in which more than half of the units are intended to be used for
+9 transient accommodations.
+10 (4) “Housing organization” means a trade or industry group consisting of local members
+11 primarily engaged in the construction or management of housing units, a nonprofit organization
+12 that provides or advocates for increased access or reduced barriers to housing, or a nonprofit
+13 organization that is engaged in public policy research, education, litigation or outreach that includes
+14 housing policy-related issues and advocacy.
+15 (5) “Mixed use” means a type of development that combines residential uses with
+16 commercial, entertainment, institutional, office, or other uses within a single building, parcel, or
+17 development area.
+18 (6) “Sleeping unit” means a room within a co-living property that is identified and intended
+19 for sleeping purposes by a single occupant or two (2) occupants living as a household, whether or
+20 not the room is currently occupied, leased, or in active use. A sleeping unit may include limited
+21 food preparation or sanitation facilities, but typically does not contain both a full kitchen and a full
+22 bathroom.
+23 (7) “Transit station” means a stop on a municipal, tribal, intrastate, or interstate public
+24 transportation system providing fixed route services.
+25 45-24.8-3. Co-living allowed by right.
+26 (a) Notwithstanding any provision to the contrary, a municipality shall allow co-living
+27 properties as a permitted use by right on each parcel that is zoned for single family, multifamily,
+28 commercial, or mixed use, or in any area where residential use is permitted.
+29 (b) Approval of co-living properties shall not be subject to discretionary review, special
+30 use permits, conditional use permits, planned unit developments, public hearing processes, or
+31 variance requirements.
+32 (c) A municipality shall allow as a permitted use co-living property with the number of
+33 sleeping units consistent with the prescribed density standards of a lot zoned for multifamily,
+34 commercial, or mixed use.
+LC005110 - Page 3 of 8
+
+1 (d) A municipality shall not treat a sleeping unit within a co-living property as more than
+2 one quarter (1/4) of a dwelling unit for purposes of calculating dwelling unit density.
+3 (e) A municipality shall subject a co-living property to the least restrictive bulk, lot, and
+4 height requirements applicable to any residential use within the same zoning district.
+5 (f) A municipality shall not require any design or code standards for co-living properties
+6 that are more restrictive than those required for other residential uses in the same zone.
+7 (g) A municipality shall not require co-living properties to incorporate any aesthetic,
+8 functional, or recreation facilities other than those required for other residential uses in the same
+9 zone.
+10 (h) An ordinance under this section shall not require co-living properties to:
+11 (i) Adhere to room dimensional standards larger than those established by 24 CFR §
+12 982.605, including dwelling unit size, sleeping unit size, and habitable space;
+13 (ii) Provide a mix of unit sizes or number of bedrooms;
+14 (iii) Provide off-street parking if the property is located within one-half (1/2) mile of a
+15 transit station;
+16 (iv) Provide more than one-quarter (1/4) off-street parking spaces per sleeping unit if
+17 located beyond one-half (1/2) mile of a transit station; or
+18 (v) Include other uses.
+19 (i) A municipality shall not limit the people who may occupy a co-living property or
+20 sleeping unit based on:
+21 (i) Age;
+22 (ii) Familial status;
+23 (iii) Occupation;
+24 (iv) Income or source of income;
+25 (v) Disability status;
+26 (vi) Relationship status; or
+27 (vii) Whether the occupants are related to each other by a certain degree of affinity or
+28 consanguinity.
+29 (j) A municipality shall maintain and make publicly available, on at least an annual basis,
+30 a record of new co-living properties and conversions, including:
+31 (i) Each application for a permit to construct, convert, or operate a co-living property; and
+32 (ii) The disposition of each application, including approval, denial, withdrawal, or pending
+33 status, and the stated reason for any denial.
+34 (k) This section supersedes and preempts any ordinance, resolution, regulation, policy, or
+LC005110 - Page 4 of 8
+
+1 other local action that conflicts with or frustrates the purposes of this chapter. A municipality shall
+2 not enforce any zoning or land-use restriction that is inconsistent with this section.
+3 45-24.8-4. Building code adjustments for single room occupancy.
+4 (a) A municipality shall not require a co-living property to include a commercial-grade
+5 kitchen, notwithstanding the requirements of the state building code or the minimum standards for
+6 basic equipment in the housing maintenance and occupancy code contained in § 45-24.3-7.
+7 (b) A municipality shall not require a co-living property, or sleeping unit, to adhere to
+8 standards beyond those contained within 24 CFR § 982.605.2 (minimum housing quality standard).
+9 (c) A municipality shall not require a co-living conversion of more than eight (8) sleeping
+10 units to incorporate operable windows in the sleeping units.
+11 (d) This section supersedes and preempts any municipal or state building code requirement
+12 that conflicts with or frustrates the purposes of this chapter. A municipality shall not adopt or
+13 enforce any building code restriction that is inconsistent with this section.
+14 45-24.8-5. Application of exiting residential landlord and tenant laws.
+15 Occupants under co-living occupancy agreements are tenants for purposes of chapter 18 of
+16 title 34.
+17 45-24.8-6. Co-living property usage.
+18 (a) A municipality shall not require any co-living property, regardless of number of
+19 sleeping units, to construct, employ, operate or incorporate:
+20 (i) Requirements for communal living space beyond the required bathroom and kitchen
+21 facilities;
+22 (ii) A specified ratio of sleeping units to kitchens or bathrooms;
+23 (iii) Rules governing tenant conduct, communal behavior, quiet hours, or use of shared
+24 spaces not applicable to any other residential tenancy;
+25 (iv) Guest registration logs or visitor screening procedures not required of other residential
+26 uses;
+27 (v) Restrictions on the hours of ingress and egress for tenants or guests; or
+28 (vi) The provision, coordination, or funding of social services, supportive services,
+29 counseling, or case management.
+30 (b) A municipality shall not require a co-living property containing eight (8) or fewer
+31 sleeping units to employ, operate, or incorporate:
+32 (i) A building manager who resides on the premises;
+33 (ii) A video surveillance or monitoring system; or
+34 (iii) A property management or maintenance plan beyond documentation required of any
+LC005110 - Page 5 of 8
+
+1 other residential rental property of similar size.
+2 (c) A municipality shall not impose any management, operational, or tenancy requirement
+3 on a co-living property that is based on the presumed social, economic, or behavioral characteristics
+4 of its residents, or that has the purpose or effect of discouraging the construction or operation of
+5 co-living properties.
+6 (d) A municipality shall not require a co-living property to participate in any affordable
+7 housing program, inclusionary zoning program, or rent stabilization or control program, nor
+8 condition approval upon compliance with any such plan.
+9 (e) This chapter does not prohibit a municipality from imposing a limit on the number of
+10 people who may occupy a dwelling or sleeping unit based on health and safety standards contained
+11 in:
+12 (1) The state building code;
+13 (2) A fire code, to the extent that the code does not conflict with the provisions of this
+14 chapter; or
+15 (3) Local, state, or federal affordable housing program guidelines.
+16 (f) Nothing in this section shall be construed to prohibit a municipality from enforcing
+17 generally applicable health, safety, or building standards that are applied equally to all residential
+18 uses.
+19 45-24.8-7. Applicability.
+20 (a) A municipality shall adopt or amend by ordinance and incorporate into their
+21 development and zoning regulations the requirements of this chapter to take effect no later than
+22 January 1, 2027, if it fails to do so, the requirements of this chapter shall prevail.
+23 (b) Any municipal regulation that imposes requirements uniquely upon co-living
+24 properties, or that has the effect of excluding co-living from otherwise permitted residential zones,
+25 shall be presumed unreasonable and inconsistent with this chapter.
+26 (c) Nothing in this chapter shall be construed to prohibit the enforcement of private
+27 covenants, deed restrictions, homeowners’ association rules, or other private agreements applicable
+28 to a property.
+29 (d) The provisions of this chapter do not apply to state or local regulations governing the
+30 construction or operation of halfway housing, substance abuse rehabilitation centers, sober living,
+31 re-entry housing, on- or off-campus university dormitories, homeless shelters, or dedicated housing
+32 for the elderly or disabled.
+33 (e) A co-living property lawfully existing on the effective date of this chapter is a
+34 conforming use and may continue, be maintained, repaired, or reconstructed, notwithstanding any
+LC005110 - Page 6 of 8
+
+1 contrary local ordinance or regulation.
+2 45-24.8-8. Enforcement.
+3 (a) An applicant, property owner or housing organization aggrieved by a municipal action
+4 inconsistent with this chapter may seek declaratory or injunctive relief in the superior court and
+5 shall be entitled to reasonable attorneys' fees and costs as a prevailing party.
+6 (b) For purposes of this section, a party prevails if it obtains any form of judicial or
+7 administrative relief, including a judgment on the merits, declaratory relief, injunctive relief, a
+8 preliminary injunction, a consent decree, or if the litigation is a material contributing factor in
+9 achieving the requested relief through voluntary action by the municipality.
+10 45-24.8-9. Severability.
+11 If any provision of this chapter or its application is held invalid, the invalidity does not
+12 affect other provisions or applications of this chapter that can be given effect without the invalid
+13 provision or application.
+14 SECTION 3. This act shall take effect upon passage.
+========
+LC005110
+========
+LC005110 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- RESTORING OPTIONS IN OCCUPANCY
+MODELS (ROOM) ACT
+***
+1 This act would expand access to inherently affordable housing by re-legalizing co-
+2 living/single-room occupancy (SRO) and shared dwelling models of many types. The act would
+3 restore choice in housing options long constrained by exclusionary zoning, outdated building codes,
+4 and discriminatory occupancy rules.
+5 This act would take effect upon passage.
+========
+LC005110
+========
+LC005110 - Page 8 of 8

@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - 7814
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7814
+========
+LC005681
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO FOOD AND DRUGS -- PRESCRIPTION BENEFIT MANAGER
+ACCOUNTABILITY ACT
+Introduced By: Representative Charlene Lima
+Date Introduced: February 26, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 21 of the General Laws entitled "FOOD AND DRUGS" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 38
+4 PRESCRIPTION BENEFIT MANAGER ACCOUNTABILITY ACT
+5 21-38-1. Short title.
+6 This act shall be known and may be cited as "Prescription Benefit Manager Accountability
+7 Act".
+8 21-38-2. Definitions.
+9 (a) "Prescription benefit manager" or "PBM" means any person or entity that administers
+10 or manages prescription drug benefits on behalf of a health insurer, health plan, or other third party
+11 payer.
+12 (b) "Prescribing practitioner" means a physician or other health care provider licensed and
+13 authorized under the laws of this state to prescribe prescription medications.
+14 21-38-3. Mandatory fulfillment of prescribed medication.
+15 (a) Whenever a prescribing practitioner prescribes a specific medication for a patient, the
+16 prescription benefit manager or any entity responsible for processing or approving the prescription
+17 shall approve and authorize coverage of that specific medication as written if the prescribing
+18 practitioner submits a notarized letter stating:
+
+1 (1) The medical necessity for the specific medication prescribed; and
+2 (2) That alternative medications are not as effective or are not clinically appropriate for the
+3 patient.
+4 (b) Upon receipt of the notarized letter described in subsection (a) of this section, the
+5 prescription benefit manager shall not substitute, deny, or require step therapy for a different
+6 medication.
+7 21-38-4. Denial requirements and medical review.
+8 (a) Any denial of a prescribed medication shall be made only after review by a licensed
+9 health care professional with documented medical expertise in the specific medication or the
+10 medical condition for which it is prescribed.
+11 (b) The prescription benefit manager shall document, at the time of denial:
+12 (1) The name, license number, and specialty of the reviewing health care professional;
+13 (2) The relevant medical expertise; and
+14 (3) The clinical basis for the denial.
+15 (c) Such documentation shall be provided to the prescribing practitioner and the patient
+16 upon request.
+17 21-38-5. Enforcement.
+18 (a) Any violation of this chapter shall constitute an unfair or deceptive act or practice and
+19 may be enforced by the attorney general.
+20 (b) The department of health may promulgate rules and regulations necessary to implement
+21 this chapter.
+22 SECTION 2. This act shall take effect upon passage.
+========
+LC005681
+========
+LC005681 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- PRESCRIPTION BENEFIT MANAGER
+ACCOUNTABILITY ACT
+***
+1 This act would require prescription benefit managers to approve a specific medication
+2 prescribed by a doctor when supported by a notarized medical necessity letter and require that any
+3 denial be reviewed and documented by a licensed medical expert.
+4 This act would take effect upon passage.
+========
+LC005681
+========
+LC005681 - Page 3 of 3

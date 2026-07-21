@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - 7433
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7433
+========
+LC004521
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SEARCH WARRANTS
+Introduced By: Representatives Place, and J. Lombardi
+Date Introduced: January 30, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 12-5 of the General Laws entitled "Search Warrants" is hereby
+2 amended by adding thereto the following section:
+3 12-5-11. Audio and video recording of private property prohibited.
+4 (a) It shall be unlawful for any law enforcement officer or peace officer as defined in § 12-
+5 7-21, to place on the private property of another, any audio or video recording device(s) to capture,
+6 generate, preserve, transmit or otherwise document the activities on that person’s property without
+7 their consent or without a valid search warrant issued by a neutral and detached magistrate or judge
+8 upon a finding of probable cause.
+9 (b) Any audio or video evidence generated in violation of subsection (a) of this section
+10 shall be inadmissible in any criminal or civil proceeding filed against the property owner and/or
+11 their tenants or guests.
+12 SECTION 2. This act shall take effect upon passage.
+========
+LC004521
+========
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SEARCH WARRANTS
+***
+1 This act would require law enforcement to obtain consent or a warrant before placing audio
+2 or video recorders on the private property of another. A violation of this act would make any
+3 evidence inadmissible in any court proceedings.
+4 This act would take effect upon passage.
+========
+LC004521
+========
+LC004521 - Page 2 of 2

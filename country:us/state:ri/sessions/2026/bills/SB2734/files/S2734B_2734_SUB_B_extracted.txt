@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - 2734  SUB B
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2734 SUBSTITUTE B
+========
+LC004471/SUB B
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Introduced By: Senators Gu, Bissaillon, DiMario, Euer, Burke, Murray, Kallman, and
+LaMountain
+Date Introduced: February 27, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 34-18-20 of the General Laws in Chapter 34-18 entitled "Residential
+2 Landlord and Tenant Act" is hereby amended to read as follows:
+3 34-18-20. Disclosure.
+4 (a) A landlord or any person authorized to enter into a rental agreement on his or her behalf
+5 shall disclose to the tenant in writing, at or before the commencement of the tenancy, the name,
+6 address and number of:
+7 (1) The person authorized to manage the premises; and
+8 (2) An owner of the premises or a person authorized to act for and on behalf of the owner
+9 for the purpose of service of process and receiving and receipting for notices and demands.
+10 (b) The information required to be furnished by this section shall be kept current. This
+11 section extends to and is enforceable against any successor landlord, owner, or manager.
+12 (c) A person who fails to comply with subsection (a) of this section becomes an agent of
+13 each person who is a landlord for:
+14 (1) Service of process and receiving and receipting for notices and demands; and
+15 (2) Performing the obligations of the landlord under this chapter and under the rental
+16 agreement and expending or making available for the purpose of all rent collected from the
+17 premises.
+18 (d) A landlord who becomes delinquent on a mortgage securing real estate upon which the
+19 dwelling unit is located for a period of one hundred twenty (120) days shall notify the tenant that
+
+1 the property may be subject to foreclosure; and until the foreclosure occurs the tenant must continue
+2 to pay rent to the landlord as provided under the rental agreement.
+3 (e)(1) For any dwelling unit that constitutes shoreline property as defined in § 5-20.8-1, the
+4 landlord shall provide the tenant, prior to the commencement of the tenancy, with a written
+5 shoreline access disclosure, which shall include the following information:
+6 (i) Shoreline Access – Members of the public shall have the right to access shoreline
+7 property as defined in § 5-20.8-1. The public’s rights and privileges of the shore may be exercised,
+8 where shore exists, on wet sand or dry sand or rocky beach, up to ten feet (10') landward of the
+9 recognizable high tide line, subject to the restrictions governed by § 46-23-26 and any general laws
+10 to the contrary;
+11 (ii) The landlord is required to notify the tenant of any public rights-of-way on the real
+12 estate that are known to the landlord. Upon request, the landlord shall provide the tenant with a
+13 copy of any documentation evidencing such rights-of-way or conditions of public access that is in
+14 the landlord’s possession; and
+15 (iii) The tenant is advised to contact the coastal resources management council, the
+16 municipality, or applicable nonprofit organizations to determine whether any public rights-of-way
+17 exist.
+18 (2) The disclosure required by this subsection may be satisfied by incorporating it into any
+19 written rental agreement or provided in a separate written notice delivered to the tenant in the
+20 manner prescribed for delivery of written notices pursuant to § 34-18-14.
+21 SECTION 2. Section 42-63.1-14 of the General Laws in Chapter 42-63.1 entitled "Tourism
+22 and Development" is hereby amended to read as follows:
+23 42-63.1-14. Offering residential units through a hosting platform.
+24 (a) For any rental property offered for tourist or transient use on a hosting platform that
+25 collects and remits applicable sales and hotel taxes in compliance with §§ 44-18-7.3(b)(4)(i), 44-
+26 18-18, and 44-18-36.1, cities, towns, or municipalities shall not prohibit the owner from offering
+27 the unit for tourist or transient use through such hosting platform, or prohibit such hosting platform
+28 from providing a person or entity the means to rent, pay for, or otherwise reserve a residential unit
+29 for tourist or transient use. A hosting platform shall comply with the requirement imposed upon
+30 room resellers in §§ 44-18-7.3(b)(4)(i) and 44-18-36.1 in order for the prohibition of this section to
+31 apply. The division of taxation shall at the request of a city, town, or municipality confirm whether
+32 a hosting platform is registered in compliance with § 44-18-7.3(b)(4)(i).
+33 (b) Any short-term rental property listed for rent on the website of any third-party hosting
+34 platform that conducts business in Rhode Island shall be registered with the department of business
+LC004471/SUB B - Page 2 of 6
+
+1 regulation. The registration shall provide the information necessary to identify the property
+2 pursuant to subsection (d) of this section. For purposes of this section, the term “short-term rental”
+3 means a person, firm, or corporation’s utilization, for transient lodging accommodations, not to
+4 exceed thirty (30) nights at a time.
+5 (c) The department of business regulation shall contact all hosting platforms that list
+6 property in Rhode Island on their website for rent and that submit hotel taxes to the division of
+7 taxation and/or the city of Newport and shall provide notice of the registration requirement,
+8 pursuant to this section, instructing the hosting platforms to notify their listed properties to register
+9 with the department of business regulation annually or be subject to fines pursuant to subsection (i)
+10 of this section. Provided further, renewals of registrations pursuant to this section shall become due
+11 for renewal on the anniversary date of the original registration.
+12 (d) The state registration pursuant to this section shall include:
+13 (1) The principal place of business of the owner, or if outside the state, the agent for service
+14 of process or property manager for the owner;
+15 (2) The phone number of the owner of the property and/or property manager;
+16 (3) The email address of the property owner and/or property manager;
+17 (4) The address of the rental property;
+18 (5) The number of rooms for rent at the property;
+19 (6) Whether the registrant rents or owns; and
+20 (7) Intended use (entire space, private room, or shared space).
+21 (e) The assigned registration number shall consist of numeric and alpha characters, the
+22 alpha characters shall correspond to the city/town where the property is located and shall be uniform
+23 for the remaining properties in said city/town.
+24 (f) Registration forms and/or any registration materials required by the department shall be
+25 completed prior to a listing by a hosting platform. The registration number shall be valid for the
+26 year during which it is assigned, and if a listed property is not duly registered after the expiration
+27 of the annual registration period, the hosting platform shall remove the property listing from its
+28 website within fourteen (14) days of notification from the department.
+29 (g) The department of business regulation shall promulgate rules and regulations to
+30 correspond with and enforce this section and § 42-63.1-14.1 and may charge a registration fee to
+31 property owners registering with the department pursuant to this section.
+32 (h) The department of business regulation shall create an online database to store all
+33 registered short-term rental units, and each unit shall have an online identification number in said
+34 database to correspond with subsection (e) of this section.
+LC004471/SUB B - Page 3 of 6
+
+1 (i) Any owner of the property who or that fails to register with the department of business
+2 regulation as prescribed herein and lists the property as a short-term rental on a hosting platform
+3 website shall be subject to a civil fine as follows:
+4 (1) Two hundred fifty dollars ($250) for the first thirty (30) days of noncompliance;
+5 (2) Five hundred dollars ($500) for between thirty-one (31) and sixty (60) days of
+6 noncompliance; and
+7 (3) One thousand dollars ($1,000) for more than sixty (60) days of noncompliance.
+8 (j) Notwithstanding any other law or provision to the contrary, no person shall list any
+9 residence for short-term rental for tourist or transient use without the property’s current, valid
+10 registration number, and its expiration date, which hosting platforms shall require to be displayed
+11 on the listing advertisement. Any hosting platform that offers short-term rental of residential
+12 property for tourist or transient use without requiring the owner to display the current, valid
+13 registration number of a property, and its expiration date, shall be subject to a civil fine of two
+14 hundred fifty dollars ($250) per day per violation, with each property listing constituting a separate
+15 violation.
+16 (k) A hosting platform shall provide to the department of business regulation, on a quarterly
+17 basis, an electronic report, in a format determined by the department of business regulation, of the
+18 listings maintained, authorized, facilitated, or advertised by the hosting platform within the state
+19 for the applicable reporting period. The report shall include a breakdown of the municipality where
+20 the listings are located, whether the listing is for a room or a whole unit, the total number of short-
+21 term rentals listed on the platform, the registration number of each short-term rental listed on the
+22 platform, the URL link of each short-term rental listed on the platform, and shall include the number
+23 of nights each unit was reported as occupied during the applicable reporting period.
+24 (l)(1) For any dwelling unit that constitutes shoreline property as defined in § 5-20.8-1, the
+25 owner shall provide the occupant, prior to the commencement of the short-term rental, with a
+26 shoreline access disclosure, which shall include the following information:
+27 "Shoreline Access – Members of the public shall have the right to access shoreline property
+28 as defined in § 5-20.8-1. The public’s rights and privileges of the shore may be exercised, where
+29 shore exists, on wet sand or dry sand or rocky beach, up to ten feet (10') landward of the
+30 recognizable high tide line, subject to the restrictions governed by § 46-23-26 and any general laws
+31 to the contrary."
+32 (2) The disclosure required by subsection (l)(1) of this section may be made by:
+33 (i) Including the disclosure in the listing on a hosting platform, provided that the listing
+34 clearly and conspicuously displays the disclosure before the booking is completed; or
+LC004471/SUB B - Page 4 of 6
+
+1 (ii) Incorporating the disclosure into a written rental agreement or providing it in a separate
+2 written notice delivered to the occupant prior to the commencement of the rental in the manner
+3 prescribed for delivery of written notices pursuant to § 34-18-14.
+4 SECTION 3. This act shall take effect on January 1, 2027.
+========
+LC004471/SUB B
+========
+LC004471/SUB B - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+***
+1 This act would require owners or landlords who rent shoreline property to provide their
+2 tenants, before the start of the tenancy, with a detailed, written disclosure regarding public shoreline
+3 access rights.
+4 This act would take effect on January 1, 2027.
+========
+LC004471/SUB B
+========
+LC004471/SUB B - Page 6 of 6

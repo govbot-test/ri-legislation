@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - 7657
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7657
+========
+LC004506
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- TOURISM AND
+DEVELOPMENT
+Introduced By: Representatives Carson, Cortvriend, and Spears
+Date Introduced: February 11, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 42-63.1-2 and 42-63.1-14 of the General Laws in Chapter 42-63.1
+2 entitled "Tourism and Development" are hereby amended to read as follows:
+3 42-63.1-2. Definitions.
+4 For the purposes of this chapter:
+5 (1) “Consideration” means the monetary charge for the use of space devoted to transient
+6 lodging accommodations.
+7 (2) “Corporation” means the Rhode Island commerce corporation.
+8 (3) “District” means the regional tourism districts set forth in § 42-63.1-5.
+9 (4) “Hosting platform” means any electronic or operating system in which a person or
+10 entity provides a means through which an owner may offer a residential unit for “tourist or
+11 transient” use. This service is usually, though not necessarily, provided through an online or web-
+12 based system which generally allows an owner to advertise the residential unit through a hosted
+13 website and provides a means for a person or entity to arrange, or otherwise facilitate reservations
+14 for, tourist or transient use in exchange for payment, whether the person or entity pays rent directly
+15 to the owner or to the hosting platform. All hosting platforms are required to collect and remit the
+16 tax owed under this section.
+17 (5) “Hotel” means any facility offering a minimum of one (1) room for which the public
+18 may, for a consideration, obtain transient lodging accommodations. The term “hotel” shall include
+
+1 hotels, motels, tourist homes, tourist camps, lodging houses, and inns. The term “hotel” shall also
+2 include houses, condominiums, or other residential dwelling units, regardless of the number of
+3 rooms, which are used and/or advertised for rent for occupancy. The term “hotel” shall not include
+4 schools, hospitals, sanitariums, nursing homes, and chronic care centers.
+5 (6) “Occupancy” means a person, firm, or corporation’s use of space for transient lodging
+6 accommodations not to exceed thirty (30) days. Excluded from “occupancy” is the use of space for
+7 which the occupant has a written lease for the space, which lease covers a rental period of twelve
+8 (12) months or more. Furthermore, any house, condominium, or other residential dwelling rented,
+9 for which the occupant has a documented arrangement for the space covering a rental period of
+10 more than thirty (30) consecutive days or for one calendar month is excluded from the definition
+11 of occupancy.
+12 (7) “Owner” means any person who owns real property and is the owner of record. Owner
+13 shall also include a lessee where the lessee is offering a residential unit for “tourist or transient”
+14 use.
+15 (8) “Primary residence” means the location of the residential property at which:
+16 (i) The owner lives for seven (7) or more months out of the year; and
+17 (ii) The owner is registered to vote.
+18 (8)(9) “Residential unit” means a room or rooms, including a condominium or a room or a
+19 dwelling unit that forms part of a single, joint, or shared tenant arrangement, in any building, or
+20 portion thereof, which is designed, built, rented, leased, let, or hired out to be occupied for non-
+21 commercial use.
+22 (10) “Short-term rental” means a person, firm, or corporation’s utilization, for transient
+23 lodging accommodations, of a rental not to exceed thirty (30) nights at a time.
+24 (9)(11) “Tax” means the hotel tax and whole home short-term rental tax imposed by § 44-
+25 18-36.1(a) and (d).
+26 (10)(12) “Tourist or transient” means any use of a residential unit for occupancy for less
+27 than a thirty (30) consecutive day term of tenancy, or occupancy for less than thirty (30) consecutive
+28 days of a residential unit leased or owned by a business entity, whether on a short-term or long-
+29 term basis, including any occupancy by employees or guests of a business entity for less than thirty
+30 (30) consecutive days where payment for the residential unit is contracted for or paid by the
+31 business entity.
+32 (11)(13) “Tour operator” means a person that derives a majority of their or its revenue by
+33 providing tour operator packages.
+34 (12)(14) “Tour operator packages” means travel packages that include the services of a
+LC004506 - Page 2 of 6
+
+1 tour guide and where the itinerary encompasses five (5) or more consecutive days.
+2 42-63.1-14. Offering residential units through a hosting platform.
+3 (a) For any rental property offered for tourist or transient use on a hosting platform that
+4 collects and remits applicable sales and hotel taxes in compliance with §§ 44-18-7.3(b)(4)(i), 44-
+5 18-18, and 44-18-36.1, cities, towns, or municipalities shall not prohibit the owner from offering
+6 the unit for tourist or transient use through such hosting platform, or prohibit such hosting platform
+7 from providing a person or entity the means to rent, pay for, or otherwise reserve a residential unit
+8 for tourist or transient use. A hosting platform shall comply with the requirement imposed upon
+9 room resellers in §§ 44-18-7.3(b)(4)(i) and 44-18-36.1 in order for the prohibition of this section to
+10 apply. The division of taxation shall at the request of a city, town, or municipality confirm whether
+11 a hosting platform is registered in compliance with § 44-18-7.3(b)(4)(i).
+12 (b) Any short-term rental property listed for rent on the website of any third-party hosting
+13 platform that conducts business in Rhode Island shall be registered with the department of business
+14 regulation. The registration shall provide the information necessary to identify the property
+15 pursuant to subsection (d) of this section. For purposes of this section, the term “short-term rental”
+16 means a person, firm, or corporation’s utilization, for transient lodging accommodations, not to
+17 exceed thirty (30) nights at a time.
+18 (c) The department of business regulation shall contact all hosting platforms that list
+19 property in Rhode Island on their website for rent and that submit hotel taxes to the division of
+20 taxation and/or the city of Newport and shall provide notice of the registration requirement,
+21 pursuant to this section, instructing the hosting platforms to notify their listed properties to register
+22 with the department of business regulation annually or be subject to fines pursuant to subsection (i)
+23 of this section. Provided further, renewals of registrations pursuant to this section shall become due
+24 for renewal on the anniversary date of the original registration.
+25 (d) The state registration pursuant to this section shall include:
+26 (1) The principal place of business of the owner, or if outside the state, the agent for service
+27 of process or property manager for the owner;
+28 (2) The phone number of the owner of the property and/or property manager;
+29 (3) The email address of the property owner and/or property manager;
+30 (4) The address of the rental property;
+31 (5) The number of rooms for rent at the property;
+32 (6) Whether the registrant rents or owns; and
+33 (7) Intended use (entire space, private room, or shared space); and
+34 (8) The primary residence, as defined by § 42-63.1-2, of the owner of the property.
+LC004506 - Page 3 of 6
+
+1 (e) The assigned registration number shall consist of numeric and alpha characters, the
+2 alpha characters shall correspond to the city/town where the property is located and shall be uniform
+3 for the remaining properties in said city/town.
+4 (f) Registration forms and/or any registration materials required by the department shall be
+5 completed prior to a listing by a hosting platform. The registration number shall be valid for the
+6 year during which it is assigned, and if a listed property is not duly registered after the expiration
+7 of the annual registration period, the hosting platform shall remove the property listing from its
+8 website within fourteen (14) days of notification from the department.
+9 (g) The department of business regulation shall promulgate rules and regulations to
+10 correspond with and enforce this section and § 42-63.1-14.1 and may charge a registration fee to
+11 property owners registering with the department pursuant to this section.
+12 (h) The department of business regulation shall create an online database to store all
+13 registered short-term rental units, and each unit shall have an online identification number in said
+14 database to correspond with subsection (e) of this section.
+15 (i) Any owner of the property who or that fails to register with the department of business
+16 regulation as prescribed herein and lists the property as a short-term rental on a hosting platform
+17 website shall be subject to a civil fine as follows:
+18 (1) Two hundred fifty dollars ($250) for the first thirty (30) days of noncompliance;
+19 (2) Five hundred dollars ($500) for between thirty-one (31) and sixty (60) days of
+20 noncompliance; and
+21 (3) One thousand dollars ($1,000) for more than sixty (60) days of noncompliance.
+22 (j) Notwithstanding any other law or provision to the contrary, no person shall list any
+23 residence for short-term rental for tourist or transient use without the property’s current, valid
+24 registration number, and its expiration date, which hosting platforms shall require to be displayed
+25 on the listing advertisement. Any hosting platform that offers short-term rental of residential
+26 property for tourist or transient use without requiring the owner to display the current, valid
+27 registration number of a property, and its expiration date, shall be subject to a civil fine of two
+28 hundred fifty dollars ($250) per day per violation, with each property listing constituting a separate
+29 violation.
+30 (k) A hosting platform shall provide to the department of business regulation, on a quarterly
+31 basis, an electronic report, in a format determined by the department of business regulation, of the
+32 listings maintained, authorized, facilitated, or advertised by the hosting platform within the state
+33 for the applicable reporting period. The report shall include a breakdown of the municipality where
+34 the listings are located, whether the listing is for a room or a whole unit, the total number of short-
+LC004506 - Page 4 of 6
+
+1 term rentals listed on the platform, the registration number of each short-term rental listed on the
+2 platform, the URL link of each short-term rental listed on the platform, and shall include the number
+3 of nights each unit was reported as occupied during the applicable reporting period.
+4 (l) Any short-term rental registered pursuant to subsection (c) of this section that is the
+5 owner’s primary residence shall be classed as residential real estate in accordance with § 44-5-
+6 11.8(b)(1).
+7 (m) Any short-term rental registered pursuant to subsection (c) of this section that is not
+8 the owner’s primary residence shall be classed as commercial property in accordance with § 44-5-
+9 11.8(b)(2).
+10 SECTION 2. This act shall take effect upon passage.
+========
+LC004506
+========
+LC004506 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- TOURISM AND
+DEVELOPMENT
+***
+1 This act would differentiate between owner-occupied and non-owner-occupied short-term
+2 rentals for tax purposes. To that end, short-term rental properties that are listed as the owner’s
+3 primary residence in the short-term rental registry would be considered residential properties for
+4 tax purposes. Conversely, short-term rental properties that are not listed as the owner’s primary
+5 residence in the short-term rental registry would be considered commercial properties for tax
+6 purposes.
+7 This act would take effect upon passage.
+========
+LC004506
+========
+LC004506 - Page 6 of 6

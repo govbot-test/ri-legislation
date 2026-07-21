@@ -1,0 +1,452 @@
+Title: 
+Official Title: 
+Source: versions - 2885
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2885
+========
+LC005348
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- ASBESTOS ABATEMENT
+Introduced By: Senators Famiglietti, Thompson, Patalano, Dimitri, and Appollonio
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+(Dept. of Health)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 23-24.5-2, 23-24.5-5, 23-24.5-6, 23-24.5-8, 23-24.5-12, 23-24.5-13,
+2 23-24.5-14 and 23-24.5-25 of the General Laws in Chapter 23-24.5 entitled "Asbestos Abatement"
+3 are hereby amended to read as follows:
+4 23-24.5-2. Definitions.
+5 For the purpose of this chapter:
+6 (1) “Abatement” means the repair, enclosure, encapsulation, or removal of friable asbestos
+7 in significant quantities as determined by the director by regulation. The term shall not apply to
+8 those spot repairs of limited areas of asbestos as determined by the director or his or her designee
+9 through regulation to be of low risk exposure.
+10 (2) “Abatement process” means the series of events leading to the abatement of a friable
+11 asbestos hazard. The process includes the inspection, identification, and ranking of the hazard, the
+12 drawing of abatement plans, the monitoring of the abatement, the eventual clean-up, and the
+13 issuance of a reoccupancy permit.
+14 (3) “Action criteria” refers to the asbestos assessment factors detailed in the Decision
+15 Protocol, Appendix D, of The New Jersey Asbestos Policy Commission’s Report to the Governor,
+16 March 1985, except that the criteria shall not include air sampling standards contained in that report.
+17 (4) “Asbestiform materials” means those naturally occurring fibers of similar shape, size,
+18 strength, surface, and characteristics of asbestos fibers as are otherwise described in the publication
+19 entitled “Non-Occupational Health Risks of Asbestiform Fibers”, Committee on Non-Occupational
+
+1 Health Risks of Asbestiform Fibers, Board on Toxicology and Health Hazards of the Commission
+2 on Life Science of the National Research Council; U.S. Environmental Protection Agency and
+3 National Academy of Sciences, National Academy Press, Washington, D.C. 1984, E.P.A. 68-01-
+4 4655.
+5 (5) “Asbestos” means that unique group of naturally occurring minerals that separate into
+6 fibers of high tensile strength, resistant to heat, wear, and chemicals, described as the following
+7 types: chrysotile, amosite, crocidolite, tremolite, anthophyllite, and actinolite, and every product
+8 containing any of these minerals that have been chemically treated and/or altered which, after
+9 manufacture, are used for these products and end uses as insulation, textiles, paper, cement sheets,
+10 floor tile, wall covering, decorations, coating, sealants, cement pipe, and reinforced plastics and
+11 other compounds.
+12 (6) “Asbestos containing material (ACM)” means any material or product which contains
+13 more than one percent (1%) asbestos.
+14 (7) “Asbestos contractor” means any person or entity engaged in asbestos abatement as a
+15 business. Each employee of any entity directly engaged or intending to engage directly in abatement
+16 as a business shall be considered a contractor for the purposes of training and licensure
+17 requirements of this title.
+18 (8) “Competent person” means a public or private employee designated, trained, and
+19 certified to conduct basic asbestos inspection and abatement process evaluation within the
+20 jurisdiction of the agency, municipality, or building(s) in which the person is employed.
+21 (9) “Department” means the state department of health.
+22 (10) “Director” means the director of health.
+23 (11) “Friable” means that condition of crumbled, pulverized, powdered, crushed, or
+24 exposed asbestiform or asbestos fibers which are capable of being released into the air by hand
+25 pressure.
+26 (12) “Friable asbestos material” means:
+27 (i) Asbestos containing material (ACM) that, when dry, can be crumbled, pulverized or
+28 reduced to power by hand pressure; or
+29 (ii) Non-friable ACM, including but not limited to regulated asbestos containing material
+30 (RACM) as defined by the U.S. Environmental Protection Agency pursuant to 40 CFR 61, Subpart
+31 M, that will be or has been subjected to sanding, grinding, cutting, and abrading; or by the forces
+32 expected to act on the ACM during renovation and/or demolition activities.
+33 (13) “High priority group building” refers to those public or private buildings or portions
+34 of these that are child inhabited or child frequented structures and shall include, but not be limited
+LC005348 - Page 2 of 13
+
+1 to: public and parochial schools (grades pre-K to 12), day care centers, nurseries, acute or chronic
+2 children’s hospitals or wardrooms of these as defined by the state building code use groups (I-2).
+3 Private residences used for these purposes and housing occupied by ten (10) children or less are
+4 excluded from this group.
+5 (14) “Intermediate priority group building” refers to those public or private buildings or
+6 portions of these other than those in the high and low priority groups which are designated within
+7 the state building code use groups as follows: places of public assembly (group A); buildings
+8 occupied by adult inmates (group I-3), hospital patients (group I-2), or institutional care facility
+9 clients (group I-1); and auditoriums (group A). “Intermediate priority group buildings” also
+10 includes those buildings which are: colleges (ordinarily group B); banks (group B); and other
+11 business, industrial, educational, and mercantile buildings (groups B, E, F, H and M) including, but
+12 not limited to, hotels and motels (group R-1), multifamily dwellings (group R-2), and places of
+13 employment with more than ten (10) employees.
+14 (15) “Low priority group building” refers to public or private buildings or portions of them
+15 not in the other groups which are infrequently used (group U), closed, abandoned, or scheduled for
+16 abandonment in the immediate future and those buildings which are private residences (groups R-
+17 3 and R-4).
+18 (16) “Owner” means the person or entity having legal title to property and/or buildings; the
+19 term includes owners and consignees of asbestos material to be sold, installed, fabricated, or
+20 manufactured in Rhode Island. For purposes of publicly owned property only, the owner is defined
+21 as the chief executive officer of the state agency or municipal agency which owns, leases, or
+22 controls the use of the property.
+23 (17) “Private building” refers to any structure open to the public which is not a public
+24 building, and includes but is not limited to: private schools, nurseries, colleges, hospitals,
+25 warehouses, banks, retail stores, automobile repair shops, and places of employment.
+26 (18) “Private residence” refers to any building with either one or two (2) separate dwelling
+27 units used solely as a private domicile of a person or persons where those persons normally sleep,
+28 eat, and maintain living quarters and which is designated within the state building code use group
+29 R-4.
+30 (19) “Public building” refers to any structure owned, managed, leased, furnished, or
+31 occupied by a state or municipal agency, commission, or public school.
+32 (20) “Regulated asbestos containing material (RACM)” as defined by the U.S.
+33 Environmental Protection Agency pursuant to 40 CFR 61, Subpart M, means:
+34 (i) Friable asbestos material;
+LC005348 - Page 3 of 13
+
+1 (ii) Category I non-friable ACM (packings, gaskets, resilient floor covering, and asphalt
+2 roofing products) that has become friable;
+3 (iii) Category I non-friable ACM that will be or has been subjected to sanding, grinding,
+4 cutting, or abrading; or
+5 (iv) Category II non-friable ACM (excluding category I non-friable ACM) that has a high
+6 probability of becoming or has become crumbled, pulverized, or reduced to powder by the forces
+7 expected to act on the material in the course of demolition or renovation operations.
+8 (21) “State building code” refers to chapter 27.3 of this title.
+9 (22) “State inspector” means a person trained in industrial hygiene who is either a state
+10 employee or a designee of the health department whose duty, among others, is to conduct state
+11 asbestos inspections.
+12 23-24.5-5. Asbestos exposure standards.
+13 (a) No owner of a structure with friable asbestos or with friable asbestiform materials or
+14 any person or entity owning or controlling asbestos or asbestiform products in a friable state shall
+15 allow any person to be exposed to asbestos or asbestiform materials in a friable condition when the
+16 exposed condition is a violation of a provision this chapter, of a regulation issued pursuant to the
+17 authority of this chapter, or of an abatement plan approved by the director.
+18 (b) Prior to the effective date of an air exposure standard established by the director, the
+19 indoor non-occupational air exposure standard for asbestos exposure shall be 0.01 fibers longer
+20 than five (5) micro meters per cubic centimeter (f/cc) (or three hundred (300) nanograms per cubic
+21 meter) as measured by OSHA-NIOSH phase-contrast optical microscopic methods and calculated
+22 as an eight (8) hour time weighted average.
+23 (c) The director is authorized to issue regulations for the following purposes:
+24 (1) To limit the sale and use of asbestos and asbestiform materials which the director deems
+25 to be a potential danger to the public health;
+26 (2) To establish indoor environmental non-occupational air exposure standards, stated as a
+27 given number of fibers per cubic centimeter (f/cc) and calculated as an eight (8) hour time weighted
+28 average;
+29 (3) To establish asbestos inspection and evaluation criteria;
+30 (4) To establish criteria including air monitoring useful in ranking the severity of the
+31 asbestos problem in a particular building in order to determine the need by the owner for the
+32 submission of an abatement plan to the director;
+33 (5) To establish criteria for the submission of an abatement plan by the owner of a public
+34 building or a building in the high and intermediate priority groups;
+LC005348 - Page 4 of 13
+
+1 (6) To establish public occupancy standards for buildings containing friable asbestos;
+2 (7) To establish criteria for the registration, licensure, and certification of persons involved
+3 in asbestos abatement; and
+4 (8) To develop educational material informing persons of asbestos hazards in their
+5 residences.
+6 (d) In acting on issuing the regulations pursuant to subsection (c), the director shall take
+7 into consideration the following guidelines:
+8 (1) The director shall give due consideration to uniform rules and definitions with those of
+9 other states and the United States without endangering the public health and without lessening
+10 standards established by this chapter;
+11 (2) Except for their asbestos air exposure standards, the director shall give due
+12 consideration to the standards contained in the U.S. Environmental Protection Agency documents,
+13 Asbestos Containing Materials in School Buildings, a Guidance Document, Part 2 (Sawyer, R.M.,
+14 Spooner, D.M.) and EPA Report no. 560/5-83-002, Guidance for Controlling Friable Asbestos
+15 Containing Materials in Buildings; and the New Jersey Asbestos Policy Commission’s Report to
+16 the Governor, March 1985;
+17 (3) The director shall seek to minimize the risk of possible injury or death from the use
+18 and/or sale of asbestos or asbestiform materials as that risk is weighted against commercial
+19 necessity and practicality in considering whether or not to ban or limit the future use and/or sale of
+20 these materials;
+21 (4) Indoor environmental non-occupational air exposure standards established shall only
+22 allow human exposure to friable asbestos at a level lower than or equal to the standard established
+23 by this chapter.
+24 (e) The director shall issue regulations regarding asbestos exposure and abatement.
+25 23-24.5-6. Asbestos abatement plans.
+26 (a) The owner of any public or private building containing friable asbestos material in
+27 violation of this chapter, who shall within one hundred twenty (120) days of notice of the violation,
+28 file an abatement plan with the director shall be relieved of liability for the violation during the
+29 abatement process. For buildings in the high and immediate priority group found by the director or
+30 the director’s agents to require abatement after inspection, the director shall notify in writing in the
+31 case of public buildings the appropriate public agency or elected, appointed, or employed official
+32 with jurisdiction over the building; or in the case of a private building the owner or manager of the
+33 building.
+34 (b)(1) That person or agency shall within one hundred twenty (120) days of the notice file
+LC005348 - Page 5 of 13
+
+1 an asbestos abatement plan with the director. This plan shall describe in detail the results of any
+2 asbestos detection tests performed, a blueprint of the structure involved and a program designed to:
+3 (i) Monitor the physical conditions of asbestos containing materials,
+4 (ii) Educate the building staff and occupants regarding the presence of asbestos,
+5 (iii) Minimize the likelihood of fiber release, and
+6 (iv) Minimize the potential of human exposure to asbestos.
+7 (2) The plan should include a description of the remedies proposed, including but not
+8 limited to repair, enclosure or encapsulation, and/or removal, the process of selection and criteria
+9 for hiring licensed contractors, a time schedule for completion, disposal location, and the level of
+10 compliance with exposure and action criteria expected to be achieved.
+11 (3) The requirement for filing an asbestos abatement plan with the director prior to the
+12 removal of any friable asbestos material shall be waived whenever a public building, private
+13 building, or residence has been ordered demolished by a municipal building official in accordance
+14 with § 23-27.3-125.5; provided that all friable asbestos material is removed from the building prior
+15 to demolition by a licensed asbestos contractor following an asbestos abatement plan previously
+16 approved by the director specifically for the demolition of unsafe structures. The director may
+17 require the filing of any documentation deemed necessary to insure that compliance with the act
+18 has been met.
+19 (c) The director shall within ninety (90) days of submission of a plan either approve,
+20 amend, or reject the plan of abatement.
+21 (d) The director shall issue regulations establishing criteria for the inspection of buildings,
+22 identification and evaluation of asbestos hazard, the ranking of asbestos abatement, and the
+23 development of abatement plans.
+24 (e) The owner of any building failing to comply with an order of abatement issued by the
+25 director after hearing shall be fined by the director an amount not exceeding two thousand five
+26 hundred dollars ($2,500) a day and/or having the area in violation subject to closure. No fine shall
+27 apply if access to the area is limited to individuals designated as competent persons for the area or
+28 certified as consultants in accordance with rules or regulations promulgated pursuant to the
+29 authority conferred by this chapter.
+30 (f) The director may assess fees for review of asbestos abatement plans submitted in
+31 accordance with rules or regulations promulgated pursuant to the authority conferred by this
+32 section, provided that those fees are assessed only after procedures in accordance with chapter 35
+33 of title 42 have been followed.
+34 (g) Any approval of an asbestos abatement plan issued in accordance with rules or
+LC005348 - Page 6 of 13
+
+1 regulations promulgated pursuant to the authority conferred by this section shall become invalid
+2 unless the work authorized by that approval shall have been commenced within six (6) expire
+3 twelve (12) months after its issuance; provided that, for cause, an extension of time for a period not
+4 exceeding ninety (90) days has not been granted. All extensions must be in writing and signed by
+5 the director or his or her designee. For the purposes of this section, any approval issued shall not
+6 be considered invalid if the suspension or abandonment is due to a court order prohibiting that work
+7 as authorized by that approval.
+8 (h) Notwithstanding any approval issued by the director in accordance with rules or
+9 regulations promulgated pursuant to the authority conferred by this section, all abatement activity
+10 performed in conjunction with an approved asbestos abatement plan must be in compliance with
+11 the most current revision of all applicable federal, state, and local regulations, unless that approval
+12 already requires compliance with a more restrictive standard.
+13 (i) The director may revoke any approval issued in accordance with rules or regulations
+14 promulgated pursuant to the authority conferred by this section in the event that the granting of the
+15 approval was based upon statements which prove to be false or based on misrepresentation of fact.
+16 Any aggrieved party shall have the right to a hearing on this revocation. The request for a hearing
+17 shall be in writing and shall be made within ten (10) days of the decision.
+18 (j) Except as otherwise provided in paragraph (b)(1)(iv), all renovation and/or demolition
+19 activities involving asbestos containing material (ACM) shall be assumed to produce friable ACM
+20 and shall require department approval of an asbestos abatement plan prior to undertaking this
+21 renovation and/or demolition activity.
+22 23-24.5-8. Posting and labeling.
+23 (a) On any building accessible to the public where there is friable asbestos either in
+24 violation of the air sample exposure standard or action criteria standard as determined by the
+25 director or where there is demolition or repair of asbestos material taking place or abatement
+26 process underway a warning sign issued in conformance to standards issued by the director shall
+27 be posted at all entrances and conspicuous places.
+28 (b) The director is further authorized to issue regulations requiring the posting of warnings
+29 in public buildings where there may be a public health danger of exposure to friable asbestos and
+30 for the marking of asbestos material in public buildings.
+31 (c) The director shall file in the land evidence records of the city or town in which a
+32 nonconforming building is located a notice of violation of any structure that is not in compliance
+33 with an order of the director regarding asbestos abatement in the same manner as is provided for
+34 housing code violations in the general laws.
+LC005348 - Page 7 of 13
+
+1 23-24.5-12. Licensure of asbestos contractors.
+2 (a) No person or entity shall undertake an asbestos abatement project or dispose of friable
+3 asbestos materials in or from any building or demolition of any portion of a structure containing
+4 friable asbestos or asbestiform material unless the director has licensed that person or entity as
+5 qualified for those purposes. Any building owner who causes an asbestos abatement project or
+6 disposal of friable asbestos materials to be undertaken in violation of either this section or any rules
+7 or regulations promulgated pursuant to the authority conferred by this section shall also be subject
+8 to the enforcement provisions of this section.
+9 (b) Notwithstanding any other law or regulation, no building permit or demolition permit
+10 involving asbestos abatement shall be issued by any municipal or state official unless the
+11 application for the permit includes a certified copy of an approved abatement plan and a certified
+12 copy of the license of the asbestos contractor who shall undertake the work.
+13 (c) No asbestos abatement projects shall be undertaken unless the contractor involved is
+14 licensed by the director and its asbestos abatement plan is approved by the director.
+15 (d) The director shall establish procedures and issue regulations for the licensure of
+16 asbestos contractors and their supervisors and for the training of the employers of asbestos
+17 employees. The director is authorized to establish procedures and regulations for the licensure of
+18 asbestos workers. The director may assess fees for asbestos worker licenses issued in accordance
+19 with rules or regulations promulgated pursuant to the authority conferred by this section, provided
+20 that those fees are assessed only after procedures in accordance with chapter 35 of title 42 have
+21 been followed.
+22 (e) The director shall in establishing licensure criteria for asbestos contractors, consider the
+23 following factors:
+24 (1) The contractor’s experience,
+25 (2) Financial qualifications to abate asbestos properly,
+26 (3) A company’s history of safe and proper abatement,
+27 (4) A history of compliance with department regulations, and
+28 (5) Proof of completion of training programs approved by the director.
+29 (f) Each person licensed by the director shall be issued by the director a photograph
+30 identification card containing the license which that person must keep in his or her possession at
+31 each work site.
+32 (g) The director may assess fees for asbestos contractor and site supervisory personnel
+33 licenses issued in accordance with rules or regulations promulgated pursuant to the authority
+34 conferred by this section, provided that such fees are assessed only after procedures in accordance
+LC005348 - Page 8 of 13
+
+1 with chapter 35 of title 42 have been followed.
+2 (h) For cause and for violation of the regulations of the director, the director or his or her
+3 designee may suspend or revoke a license issued pursuant to this section.
+4 (i) The director shall maintain a public list of licensed contractors and shall annually
+5 publish that list in a state newspaper of general circulation on the department's website.
+6 23-24.5-13. Competent persons.
+7 (a) The “owner” (or supervisor) of a publicly owned building or administrator of a group
+8 of public buildings or the owner of a private building, excluding a private residence, shall appoint
+9 from his or her employees sufficient persons to become competent in the basic aspects of asbestos
+10 inspection and abatement to fulfill the responsibilities of this section within an eighteen (18) month
+11 period.
+12 (b) The “competent person” shall have, but not be limited to, the following responsibilities:
+13 (1) To make periodic visual inspection of known or presumed asbestos containing areas;
+14 (2) To review past maintenance records;
+15 (3) To work with the department of health to ascertain and identify asbestos hazards;
+16 (4) To maintain records of inspections;
+17 (5) To join with the contractor in working up the specifications of abatement projects;
+18 (6) To make periodic inspection of abatement procedures and have the right to call in a
+19 state inspector if, in the view of the competent person, any provision of this chapter is being
+20 violated;
+21 (7) To alert building occupants and maintenance staff of ongoing abatement project; and
+22 (8) To review outside contracting work if that work shall affect enclosed or encapsulated
+23 asbestos materials.
+24 (c) Any parent of an occupant of a building or teacher representative may voluntarily
+25 become certified as a “competent person.”
+26 (d) This parent or teacher representative may accompany “competent persons” in their
+27 inspection and have full access to their records regarding asbestos.
+28 23-24.5-14. Training, curricula, and certification.
+29 (a)(1) The director shall establish procedures and regulations for the following procedures:
+30 (i) For the licensure or certification of a competent person, of designated public
+31 maintenance employees, of designated teacher and parent representatives, of laboratories
+32 performing analysis of asbestos in air or building materials, and of private consultants or inspectors;
+33 (ii) Establish standards and specifications for training courses based upon, but not limited
+34 to, those included in this chapter and to certify that training;
+LC005348 - Page 9 of 13
+
+1 (iii) To train directly or by contract maintenance personnel or competent persons;
+2 (iv) To certify and train designated public maintenance personnel and workers in the
+3 private sector, including but not limited to electricians, contractors, plumbers, in safe techniques of
+4 spot asbestos repair.
+5 (2) Each trained and certified licensed person shall be issued an “asbestos certified” photo
+6 identity card, and only those carded persons shall be permitted to do spot repairs on asbestos in the
+7 buildings of their jurisdiction. Any person certified licensed for spot repair but not as an asbestos
+8 “contractor” shall not undertake any asbestos abatement project larger than the size limits of a spot
+9 repair as defined by the director and shall follow all safe work practices for spot repair work as
+10 required by the director. Those employees in violation of these provisions and/or their employer
+11 shall be subject to a fine of no more than five hundred dollars ($500) per violation.
+12 (b) As a guideline for approval of a certified training program for asbestos contractors
+13 abatement, the director shall give due consideration to a course of a minimum of thirty-two (32)
+14 hours of instruction covering the following topics:
+15 (1) The nature of asbestos hazards and a review of improper abatement procedures such as
+16 dry removal, lack of protective barriers, and poor respirator fit problems;
+17 (2) The medical effects of asbestos exposure, the mechanics of human respiration, the
+18 nature of asbestos disease conditions, their diagnosis and evaluation, and medical asbestos
+19 surveillance methods in exposed populations;
+20 (3) Federal and state asbestos regulations including OSHA and EPA regulations, Right-to-
+21 Know laws, and this chapter;
+22 (4) Current protection standards, including the role of respirators, appropriate
+23 housekeeping procedures, appropriate hygiene, the synergism effects of asbestos with smoking,
+24 and the importance of decontamination procedures;
+25 (5) The proper preparation of the work area including, but not limited to, the proper repair
+26 and removal abatement techniques, sealing and isolation methods in the work environment, the use
+27 of negative pressure air filtration barriers, the avoidance of power tools, the need for wetting down
+28 of asbestos materials, bagging and labeling of asbestos materials, proper waste storage, and removal
+29 of material;
+30 (6) Identifying asbestos containing materials, study of decision protocol for evaluation and
+31 prioritizing of abatement, air sampling and other monitoring techniques, negative air pressure
+32 filtration system and high efficiency particulate air (HEPA) filter systems.
+33 (c) The director may assess fees for licensure or certifications issued in accordance with
+34 rules or regulations promulgated pursuant to the authority conferred by this section, provided that
+LC005348 - Page 10 of 13
+
+1 those fees are assessed only after procedures in accordance with chapter 35 of title 42 have been
+2 followed.
+3 (d) Notwithstanding the requirements contained in subsections (a) and (b) of this section,
+4 the director may also establish procedures or regulations for reciprocal recognition of training
+5 courses and/or certification programs for asbestos contractors, site supervisory personnel and/or
+6 asbestos abatement workers. The director may assess fees for reciprocal recognition of training
+7 courses and/or certification programs for asbestos contractors, site supervisory personnel and/or
+8 asbestos abatement workers issued in accordance with rules or regulations promulgated pursuant
+9 to the authority conferred by this section, provided that these fees are assessed only after procedures
+10 in accordance with chapter 35 of title 42 have been followed.
+11 23-24.5-25. Misrepresentation of asbestos licensure or certification.
+12 (a) No person or entity shall make oral or written representations of licensure as an asbestos
+13 contractor or asbestos abatement site supervisor or asbestos abatement worker unless they possess
+14 a currently valid license for the activity which has been issued by the director pursuant to either §
+15 23-24.5-12 or any rules or regulations promulgated pursuant to the authority conferred by this
+16 chapter.
+17 (b) No person or entity shall make oral or written representation of licensure or certification
+18 as an asbestos analytical laboratory, asbestos consultant or asbestos abatement project monitor
+19 unless they possess a currently valid license or certificate for the activity which has been issued by
+20 the director pursuant to either §§ 23-24.5-6(j) or 23-24.5-14(a) or any rules or regulations
+21 promulgated pursuant to the authority conferred by this chapter.
+22 (c) No person or entity licensed or certified pursuant to either §§ 23-24.5-6(j) or 23-24.5-
+23 14(a) or any rules or regulations promulgated pursuant to the authority conferred by this chapter
+24 shall make oral or written representations of licensure or certification to perform any service which
+25 is not specifically identified on their currently valid license or certificate.
+26 SECTION 2. Sections 23-61-5 and 23-61-6 of the General Laws in Chapter 23-61 entitled
+27 "Radon Control" are hereby amended to read as follows:
+28 23-61-5. Licensing and certification.
+29 (a) All persons providing or offering to provide the following services must be certified or
+30 licensed in accordance with regulations adopted pursuant to the authority conferred by this chapter:
+31 (1) Screening sampling/testing of air for radon/radon progeny;
+32 (2) Diagnostic sampling/testing of air for radon/radon progeny;
+33 (3) Mitigation planning services for radon/radon progeny;
+34 (4) Training courses offered for the purpose of meeting any of the licensing and/or
+LC005348 - Page 11 of 13
+
+1 certification requirements mandated by this chapter.
+2 (b) The director may assess fees for licenses and certifications issued in accordance with
+3 regulations promulgated pursuant to the authority conferred by this section, provided that those
+4 fees are assessed only after procedures in accordance with chapter 35 of title 42 have been followed.
+5 The fees collected shall be deposited in a restricted receipt account as provided for under § 23-61-
+6 8 of this chapter.
+7 (c) Any person, firm, corporation, or other entity who shall perform or otherwise engage
+8 in:
+9 (1) Screening sampling/testing of air for radon/radon progeny;
+10 (2) Diagnostic sampling testing of air for radon/radon progeny;
+11 (3) Mitigation planning services for radon/radon progeny; or
+12 (4) Training courses offered for the purpose of meeting any of the licensing and/or
+13 certification requirements mandated by this chapter:
+14 (i) Without a license shall be fined five hundred dollars ($500) for each offense and shall
+15 be ordered to forfeit all fees derived from such activity for the first offense and shall be fined one
+16 thousand dollars ($1,000) for the second and each subsequent offense and shall be ordered to forfeit
+17 all fees derived from such activity on the second and subsequent offenses. The attorney general is
+18 authorized to pursue forfeiture actions against all violators and also to apply for and obtain
+19 injunctive relief against continuing violations of this section.
+20 (d) All fines and all fees that have been forfeited under this section shall be placed in the
+21 state general fund.
+22 (e) The requirements of this section shall not apply to: (a) those individuals testing or
+23 mitigating a private residence owned or leased and occupied by the individual who is performing
+24 the testing or mitigation; or (b) any individual testing their own living area.
+25 23-61-6. Notification to the department.
+26 The owner of For any public and high priority building, the licensed radon mitigation
+27 contractor who intends to take measures, including but not limited to renovation of the building for
+28 the purpose of reducing radon/radon progeny levels and/or installation of recognized radon
+29 mitigation systems, must submit formal notification to the department prior to commencing the
+30 radon/radon progeny mitigation activities.
+31 SECTION 3. This act shall take effect upon passage.
+========
+LC005348
+========
+LC005348 - Page 12 of 13
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- ASBESTOS ABATEMENT
+***
+1 This act would remove obsolete language and clarify asbestos abatement and radon control
+2 requirements for purpose of the asbestos abatement statute.
+3 This act would take effect upon passage.
+========
+LC005348
+========
+LC005348 - Page 13 of 13

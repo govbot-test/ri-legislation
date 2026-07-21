@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - 7671
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7671
+========
+LC005113
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SIZE, WEIGHT, AND LOAD LIMITS
+Introduced By: Representative Megan L. Cotter
+Date Introduced: February 11, 2026
+Referred To: House State Government & Elections
+(Dept. of Transportation)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 31-25-2, 31-25-5, 31-25-13, 31-25-14, 31-25-16 and 31-25-21 of
+2 the General Laws in Chapter 31-25 entitled "Size, Weight, and Load Limits" are hereby amended
+3 to read as follows:
+4 31-25-2. Vehicles exempt from limitations.
+5 (a) The provisions of this chapter governing size, weight, and load shall not apply to:
+6 (1) Road machinery when actively participating in work in an active work zone or crossing
+7 a highway within a work zone. This does not include travelling down a highway under their own
+8 power;
+9 (2) Farm vehicles, including and farm tractors, temporarily moved machinery, incidentally,
+10 operated upon a highway as defined in § 31-3-2(3), are exempt from § 31-25-3 maximum width, §
+11 31-25-5 maximum length of single vehicle and load, and § 31-25-7 front and rear extensions of
+12 load up to fifteen feet (15'). Farm machinery, and farm vehicles hauling non-divisible farm
+13 machinery, incidentally operated upon a highway as defined in § 31-3-2(3), are exempt from § 31-
+14 25-13 axle load limit and § 31-25-14 maximum weight and tandem axles;
+15 (3) Any vehicle hauling fodder or forage for farming purposes shall be exempt from the
+16 provisions of § 31-25-10(a) relating to covering loads only;
+17 (3)(4) Any vehicle owned and operated by the Rhode Island public transit authority that is
+18 designed for carrying passengers and is comprised of two (2) sections permanently joined by a
+19 hinge mechanism or an articulated joint that allows vertical and horizontal movement and a passage
+
+1 for riders moving from one section to the other is exempt from the following sections: § 31-25-5
+2 maximum length of single vehicle and load § 31-25-13 axle load limit, and § 31-25-14 maximum
+3 weight and tandem axles while travelling on designated Rhode Island public transit authority
+4 routes. The department of transportation will review as needed the vehicles that are exempt and the
+5 routes they travel to ensure safe travel;
+6 (4)(5) A vehicle operated under the terms of a special permit issued as provided in this
+7 chapter;
+8 (5)(6) Covered heavy-duty tow and recovery vehicles as defined in § 31-1-4(a);
+9 (6)(7) Emergency vehicles with a weight limit of up to a maximum gross vehicle weight
+10 of eighty-six thousand pounds (86,000 lbs.) or less than twenty-four thousand pounds (24,000 lbs.)
+11 on a single steering axle; thirty-three thousand five hundred pounds (33,500 lbs.) on a single-drive
+12 axle; sixty-two thousand pounds (62,000 lbs.) on a tandem axle; or fifty-two thousand pounds
+13 (52,000 lbs.) on a tandem rear drive steer axle; or
+14 (7)(8) Natural gas vehicles up to a maximum gross vehicle weight of eighty-two thousand
+15 pounds (82,000 lbs.) by an amount that is equal to the difference between the weight of the vehicle
+16 attributable to the natural gas tank and fueling system carried by that vehicle; and the weight of a
+17 comparable diesel tank and fueling system.
+18 (b) The provisions of this chapter governing size, weight, and load shall not apply to fire
+19 apparatus acquired by a city or town within this state prior to July 1, 1999.
+20 (c) Nothing in this section shall permit these vehicles to travel over any structure, highway,
+21 or portion of highway that is weight restricted for the vehicle load.
+22 31-25-5. Maximum length of single vehicle and load.
+23 (a) No vehicle, including any load on it, except Rhode Island public transit authority
+24 articulated buses, shall exceed a length of forty feet (40′) forty-five feet (45′) extreme overall
+25 dimension inclusive of front and rear bumpers, or in the case of a motor bus, motorized camper or
+26 camping recreational vehicle forty-five feet (45′).
+27 (b) Any carrier or persons operating a vehicle that exceeds the maximum length, as
+28 permitted or as defined in this section, shall be fined two hundred dollars ($200) per foot over
+29 length or portion of it.
+30 31-25-13. Axle load limit.
+31 (a) The gross weight imposed on the highway by the wheels of any one axle of a vehicle
+32 shall not exceed twenty-two thousand four hundred pounds (22,400 lbs.) or the gross axle weight
+33 rating of the axle as set by the manufacturer.
+34 (b) For the purposes of this chapter, “axle load” is defined as the total load transmitted to
+LC005113 - Page 2 of 8
+
+1 the road by all wheels whose centers are included between two (2) parallel transverse vertical planes
+2 forty inches (40″) apart, extending across the full width of the vehicle.
+3 (c) Violations of this section are subject to fines enumerated in § 31-25-14.
+4 31-25-14. Maximum weight and tandem axles.
+5 (a) It shall be unlawful to transport or operate over or upon any public highway in this state
+6 any vehicle equipped with tandem axles, should the gross weight of the axles exceed thirty-six
+7 thousand pounds (36,000 lbs.) if the axle spacing does not exceed eight feet (8′).
+8 (b) With respect to all public highways, the overall gross weight on a group of two (2) or
+9 more consecutive axles of a vehicle or combination of vehicles, shall be determined by the
+10 following bridge gross weight formula:
+11 W = 500 [(LN /(N-1)) + 12N + 36]
+12 where W = the overall gross weight on any group of two or more consecutive axles to the
+13 nearest five hundred pounds (500 lbs.); L = the distance in feet between the extremes of any group
+14 of two (2) or more consecutive axles; and N = the number of axles in the group under consideration.
+15 This overall gross weight of any vehicle or combination of vehicles may not exceed eighty thousand
+16 pounds (80,000 lbs.) except as specified in §§ 31-25-1, 31-25-2, and 31-25-21.
+17 (c) In any calculation using the formula in subsection (b) of this section in which the tandem
+18 axle limit is less than thirty-six thousand pounds (36,000 lbs.), thirty-six thousand pounds (36,000
+19 lbs.) shall be considered the legal limit. Single axle limits shall be as defined in § 31-25-13. Nothing
+20 in this chapter shall be construed to abrogate any of the “grandfather rights” in existence as of April
+21 1, 1989.
+22 (d) Vehicles equipped with lift axles must have lift axles down whenever they are carrying
+23 a load. Any carrier or persons violating this section shall be fined one hundred dollars ($100).
+24 (d)(e) Penalties.
+25 (1) Any carrier or persons operating a vehicle or combination of vehicles that exceeds the
+26 weight limits of tandem-axle vehicles, as defined in this section, shall be fined one hundred twenty-
+27 five dollars ($125) per one hundred pounds (100 lbs.) overweight or portion of it.
+28 (2) Any carrier or persons operating a vehicle or combination of vehicles that exceeds the
+29 single axle weight limits of twenty-two thousand four hundred pounds (22,400 lbs.) single axle
+30 limits or the gross axle weight rating as set by the manufacturer as cited in § 31-25-13, shall be
+31 fined one hundred twenty-five dollars ($125) per one hundred pounds (100 lbs.) overweight or
+32 portion of it.
+33 (3) Any carrier or persons operating a vehicle or combination of vehicles that exceeds the
+34 bridge gross weight formula, as defined in this section, are subject to fines enumerated in § 31-25-
+LC005113 - Page 3 of 8
+
+1 16(c)(2) through (c)(4).
+2 31-25-16. Authorized weight shown in registration — Exceeding limit. Authorized
+3 weight -- Exceeding limit.
+4 (a) The administrator of the division of motor vehicles shall insert in the registration card
+5 issued for a vehicle the gross weight for which it is registered. If it is a truck tractor to be used for
+6 propelling semi-trailers, the administrator shall separately insert the total permissible gross weight
+7 of the truck tractor and semi-trailers to be propelled by it. It shall be unlawful for any carrier to
+8 operate or permit to be operated any vehicle or combination of vehicles of a gross weight in excess
+9 of that registered by the administrator of the division of motor vehicles, permitted by the department
+10 of transportation, manufacture certification of the gross vehicle weight rating and/or gross
+11 combination weight rating, bridge gross weight formula or in excess of the limitations set forth in
+12 this chapter.
+13 (b) For the purposes of this chapter, “carrier” means and includes any company or person
+14 who furthers their commercial or private enterprise by use of the vehicle.
+15 (c)(1) Penalties for violations of this section will be calculated on the legal weight in
+16 comparison to the actual weight and shall be heard and adjudicated at the traffic tribunal.
+17 (2) The overweight penalties for vehicles with ten thousand pounds (10,000 lbs.) gross
+18 vehicle weight or less shall be one hundred dollars ($100) per thousand pounds overweight or
+19 portion of it.
+20 (3) The overweight penalties for vehicles exceeding ten thousand pounds (10,000 lbs.)
+21 gross vehicle weight shall be one hundred twenty-five dollars ($125.00) per five hundred pounds
+22 (500 lbs.) overweight or portion of it.
+23 (4) The overweight penalty for vehicles being operated in excess of one hundred four
+24 thousand, eight hundred pounds (104,800 lbs.) gross vehicle weight shall be one thousand twenty-
+25 five dollars ($1,025) in addition to the penalties enumerated in subsection (c)(3) of this section.
+26 (5) The overweight penalty for vehicles being operated in excess of one hundred thirty
+27 thousand pounds (130,000 lbs.) gross vehicle weight shall be two thousand five hundred dollars
+28 ($2,500) in addition to the penalties enumerated in subsection (c)(3) of this section.
+29 31-25-21. Power to permit excess size or weight of loads.
+30 (a) The department of transportation, with respect to highways under its jurisdiction, may,
+31 in its discretion, upon application in writing and good cause being shown for it, approve the
+32 issuance of a special permit in writing authorizing the applicant to operate or move a vehicle, or
+33 combination of vehicles, of a size or weight of vehicle or load exceeding eighty thousand pounds
+34 (80,000 lbs.) or otherwise not in conformity with the provisions of chapters 1 — 27 of this title
+LC005113 - Page 4 of 8
+
+1 upon any highway under the jurisdiction of the party granting the permit and for the maintenance
+2 of which the party is responsible. Permits that have been issued for a full year shall not be required
+3 to be renewed for the period of time for which payment has been made and the application and
+4 other required documentation has been completed and filed. Provided, that neither the department
+5 of transportation nor the local authorities may approve the issuance of permits for divisible loads
+6 weighing in excess of the limits set by the director of the department of transportation by and
+7 through the rules and regulations promulgated by the department of transportation entitled “rules
+8 and regulations regarding overweight and oversize vehicle permits”.
+9 (1) Provided, however, that for milk products, any vehicle carrying fluid milk products
+10 shall be considered a load that cannot be easily dismantled or divided.
+11 (b) The director of the department of transportation may enter into agreements with other
+12 states, the District of Columbia, and Canadian provinces providing for the reciprocal enforcement
+13 of the overweight or over-dimensional vehicle permit laws of those jurisdictions entering into the
+14 agreement.
+15 (c) Single trip non-divisible permit fee. A fee of forty dollars ($40.00) shall be paid to
+16 the department of transportation for the issuance of each non-divisible single trip permit. Upon
+17 approval of the application, the department of transportation shall provide the approved permit. The
+18 driver must possess the permit and documentation as required by the permit at all times.
+19 (d) Annual construction equipment blanket permit fee. An annual fee of four hundred
+20 dollars ($400) paid to the department of transportation shall exempt the payor from the necessity
+21 of paying single trip permit fees for non-divisible construction equipment loads, boats, or marine
+22 assets of less than one hundred thirty thousand pounds (130,000 lbs.) as found in subsection (c).
+23 However, payment of the fee shall not be deemed to authorize noncompliance with the rules and
+24 regulations promulgated by the department of transportation entitled “rules and regulations
+25 regarding overweight and oversize vehicle permits”.
+26 (e) Blanket construction equipment permits may be issued, as determined by the
+27 department of transportation, for intrastate movement of non-divisible construction equipment
+28 loads, boats, or marine assets upon payment of the fee set forth in subsection (d). If used in
+29 conjunction with an annual divisible load permit, the limits and requirements of the blanket
+30 construction equipment permit shall supersede the requirements of the divisible load permit. The
+31 driver must possess both permits and all required documentation. The duration of the blanket permit
+32 may not exceed one year. The blanket construction equipment permit load shall be limited to a
+33 minimum overall length of fifty-five feet (55′), a maximum overall length of eighty feet (80′), a
+34 maximum width of twelve feet four inches (12′ 4″), a maximum gross weight of one hundred thirty
+LC005113 - Page 5 of 8
+
+1 thousand pounds (130,000 lbs.), and a maximum axle weight of twenty-five thousand pounds
+2 (25,000 lbs.); provided, that the department of transportation, with respect to highways under its
+3 jurisdiction, may, in its discretion and upon application and for good cause shown, approve the
+4 issuance of a single trip non-divisible permit authorizing the applicant to exceed one hundred thirty
+5 thousand pounds (130,000 lbs.) for non-divisible loads. A flashing amber light shall be in operation
+6 above the highest point of the vehicle and shall be visible from both the front and rear of the vehicle;
+7 and signs and red warning flags shall be affixed to all extremities. All blanket permits issued in
+8 accordance with this section shall be effective during daylight and night-time hours for all over-
+9 dimensional moves made and travel shall be allowed on state highways. The specifically described
+10 vehicle must be certified originally by the manufacturer to possess the braking and carrying
+11 capacity for the weight specified on the application.
+12 (f) Permission to travel is always subject to weather and road conditions. The following
+13 restrictions on travel times shall apply to all vehicles over eight feet six inches (8′ 6″) ten feet (10′)
+14 wide, over eighty feet (80′) long, or over one hundred thirty thousand pounds (130,000 lbs.):
+15 (1) Freeways and arterial roadways.
+16 No travel will be allowed between the hours of 7:00 a.m. and 9:00 a.m. or between 3:00
+17 p.m. and 7:00 p.m., Monday through Friday.
+18 (2) [Deleted by P.L. 2022, ch. 178, § 1 and P.L. 2022, ch. 179, § 1.]
+19 (3) Holidays.
+20 Memorial Day, Victory Day, Labor Day, Dr. Martin Luther King Jr. Day, and Columbus
+21 Day — No Saturday, Sunday, or Monday day or night travel.
+22 Thanksgiving Day — No travel on Wednesday through Sunday of Thanksgiving week in
+23 any calendar year.
+24 Independence Day, Veterans Day, Christmas Day, New Year’s Day, Juneteenth — No day
+25 or night travel and no travel the previous night.
+26 Easter Sunday. No Saturday night or Sunday travel.
+27 (4) Violations of this section are subject to fines enumerated in § 31-25-24.
+28 (g) Blanket Construction equipment blanket permits shall not be granted for travel over the
+29 following bridges:
+30 Blackstone River Viaduct 750 carrying I-295 northbound and southbound over the
+31 Blackstone River;
+32 Kingston Road Bridge No. 403 carrying I-95 northbound and southbound over Kingston
+33 Road.
+34 (h) Travel of blanket permits permitted construction equipment through zones with
+LC005113 - Page 6 of 8
+
+1 reductions in lane width such as construction zones will not be allowed. Prior to travel, blanket
+2 permit holders are responsible to verify the location of construction zones and lane width
+3 reductions. Locations of lane width reduction zones are available through the state department of
+4 transportation’s construction office.
+5 (i) Upon approval of the annual blanket permit application, the department of transportation
+6 shall provide the approved permit. The driver must possess the permit and documentation as
+7 required by the permit at all times.
+8 (j) Any carrier or persons found to be operating without a required permit, or in excess of
+9 their permit limits, three (3) times within a one-year period shall be revoked of their ability to use
+10 and receive permits within the state for up to thirty (30) days. Additional violations shall result in
+11 revocation of up to ninety (90) days.
+12 (k) Operation of any vehicle in excess of the requirements of any permit shall void that
+13 permit and result in the imposition of fines as provided in this chapter.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC005113
+========
+LC005113 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SIZE, WEIGHT, AND LOAD LIMITS
+***
+1 This act would provide a series of updates to size, weight, and load regulations for
+2 commercial and specialized vehicles.
+3 This act would take effect upon passage.
+========
+LC005113
+========
+LC005113 - Page 8 of 8

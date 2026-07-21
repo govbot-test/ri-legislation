@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - 8327
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8327
+========
+LC006081
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- PRIMARY CARE ADMINISTRATIVE FAIRNESS ACT
+Introduced By: Representatives Hopkins, Cruz, J. Brien, Casimiro, Cotter, Boylan,
+Shanley, Phillips, Lima, and Place
+Date Introduced: March 20, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 84
+4 PRIMARY CARE ADMINISTRATIVE FAIRNESS ACT
+5 27-84-1. Short title.
+6 This chapter shall be known and may be cited as the "Primary Care Administrative Fairness
+7 Act."
+8 27-84-2. Definitions.
+9 As used in this chapter, the following terms have the following meanings:
+10 (1) "Covered services" means health care services for which a payer provides
+11 reimbursement under a participating provider agreement.
+12 (2) “ICD-10” means International Classification of Diseases, 10th revision.
+13 (3) "Payer" means any health insurer, health maintenance organization, managed care
+14 organization, or Medicare Advantage plan doing business in this state.
+15 27-84-3. Prohibition on uncompensated referral coordination.
+16 No payer shall require a primary care provider to perform uncompensated referral
+17 coordination services, including preparation of documentation, submission of prior authorizations,
+18 communication with specialists or insurers, tracking of approvals, or transmission of materials.
+19 27-84-4. Payer obligations for referral coordination.
+
+1 A payer shall either:
+2 (1) Eliminate prior authorization requirements for all primary care initiated referrals; or
+3 (2) Reimburse the primary care practice at reasonable attributable costs for each referral
+4 coordination service, paid separately and unbundled from evaluation and management payments or
+5 capitated payments, including Medicare Advantage payments.
+6 27-84-5. Coverage based on any recognized ICD-10 code.
+7 If a laboratory service is covered under any ICD-10 code recognized by the payer, coverage
+8 shall not be denied solely because of the specific diagnostic code submitted by the ordering
+9 physician.
+10 27-84-6. Prohibition on resubmissions.
+11 A payer shall not require a physician or practice to resubmit a claim, modify a code, or
+12 provide additional justification solely to satisfy the payer’s internal coding preferences when the
+13 service is otherwise covered.
+14 27-84-7. Contract provisions void.
+15 Any contract provision that violates this chapter shall be void and unenforceable.
+16 27-84-8. Enforcement.
+17 The office of the health insurance commissioner shall enforce the provisions of this chapter
+18 and shall:
+19 (1) Require payers to update participating provider agreements no later than January 1,
+20 2027;
+21 (2) Review payer policies for compliance with this chapter;
+22 (3) Void any payer contract provisions that are inconsistent with the requirements of this
+23 chapter; and
+24 (4) On and after January 1, 2028 publish an annual report on referral volumes,
+25 reimbursements for referral coordination services, and laboratory claim denial rates.
+26 SECTION 2. This act shall take effect on January 1, 2027
+========
+LC006081
+========
+LC006081 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- PRIMARY CARE ADMINISTRATIVE FAIRNESS ACT
+***
+1 This act would prohibit payers from requiring uncompensated referral coordination by
+2 primary care providers, require either elimination of referral prior authorizations, and prevent
+3 denial of lab coverage based solely on diagnostic coding differences.
+4 This act would take effect on January 1, 2027
+========
+LC006081
+========
+LC006081 - Page 3 of 3

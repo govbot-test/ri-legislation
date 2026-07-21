@@ -1,0 +1,405 @@
+Title: 
+Official Title: 
+Source: versions - 2900
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2900
+========
+LC005569
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- CONDOMINIUM LAW
+Introduced By: Senators Valverde, Ujifusa, Gu, Famiglietti, Lauria, and Kallman
+Date Introduced: March 04, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 34-36.1-1.03, 34-36.1-2.07 and 34-36.1-3.03 of the General Laws
+2 in Chapter 34-36.1 entitled "Condominium Law" are hereby amended to read as follows:
+3 34-36.1-1.03. Definitions.
+4 In the declaration and bylaws, unless specifically provided otherwise or the context
+5 otherwise requires, and in this chapter:
+6 (1) “Affiliate of a declarant” means any person who controls, is controlled by, or is under
+7 common control with a declarant.
+8 (i) A person “controls” a declarant if the person:
+9 (A) Is a general partner, officer, director, or employer of the declarant,
+10 (B) Directly or indirectly or acting in concert with one or more other persons, or through
+11 one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing,
+12 more than twenty percent (20%) of the voting interest in the declarant,
+13 (C) Controls in any manner the election of a majority of the directors of the declarant, or
+14 (D) Has contributed more than twenty percent (20%) of the capital of the declarant.
+15 (ii) A person “is controlled by” a declarant if the declarant:
+16 (A) Is a general partner, officer, director, or employer of the person,
+17 (B) Directly or indirectly or acting in concert with one or more other persons, or through
+18 one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing,
+19 more than twenty percent (20%) of the voting interest in the person,
+
+1 (C) Controls in any manner the election of a majority of the directors of the person, or
+2 (D) Has contributed more than twenty percent (20%) of the capital of the person.
+3 (iii) Control does not exist if the powers described in this subdivision are held solely as
+4 security for an obligation and are not exercised.
+5 (2) “Allocated interests” means the undivided interest in the common elements, the
+6 common expense liability, and votes in the association allocated to each unit.
+7 (3) “Annual budget” means a financial plan that outlines expected income and expenses
+8 for a year which determines the annual or monthly condominium fee for unit owners.
+9 (4) “Association” or “unit owners’ association” means the unit owners’ association
+10 organized under § 34-36.1-3.01.
+11 (5) “Capital expense” means money spent by the association to maintain common
+12 expenses, such as land, buildings and equipment.
+13 (4)(6) “Common elements” means all portions of a condominium other than the units.
+14 (5)(7) “Common expenses” means expenditures made by or financial liabilities of the
+15 association, together with any allocations to reserves. This includes, but is not limited to:
+16 (i) Insurance;
+17 (ii) Shared utilities; or
+18 (iii) Site and building maintenance.
+19 (6)(8) “Common expense liability” means the liability for common expenses allocated to
+20 each unit pursuant to § 34-36.1-2.07.
+21 (7)(9)(i) “Condominium” means real estate, portions of which are designated for separate
+22 ownership and the remainder of which is designated for common ownership solely by the owners
+23 of those portions. Real estate is not a condominium unless the undivided interests in the common
+24 elements are vested in the unit owners.
+25 (ii) Provided that each unit owner has a vested, undivided interest in the common elements
+26 greater that 0.0 percent, no minimum percentage interest in the common elements is otherwise
+27 required by this chapter.
+28 (10) “Condominium fees” means the amount of money each unit owner contributes toward
+29 common expenses on a monthly basis.
+30 (8)(11) “Conversion building” means a building that at any time before creation of the
+31 condominium was occupied wholly or partially by persons other than purchasers and persons who
+32 occupy with the consent of purchasers.
+33 (9)(12) “Declarant” means any person or group of persons acting in concert who:
+34 (i) As part of a common promotional plan, offers to dispose of his, her or its interest in a
+LC005569 - Page 2 of 12
+
+1 unit not previously disposed of; or
+2 (ii) Reserves or succeeds to any special declarant right.
+3 (10)(13) “Declaration” means any instruments, however denominated, that create a
+4 condominium, and any amendments to those instruments.
+5 (14) “Deed-restricted unit” means any unit that qualifies as low- and moderate-income
+6 housing as set forth in § 45-53-3.
+7 (11)(15) “Development rights” means any right or combination of rights reserved by a
+8 declarant in the declaration to:
+9 (A) Add real estate to a condominium,
+10 (B) Create units, common elements, or limited common elements within a condominium,
+11 (C) Subdivide units or convert units into common elements, or
+12 (D) Withdraw real estate from a condominium.
+13 (16) “Discretionary expenses” means any expenses not defined as non-discretionary.
+14 (13)(17) “Dispose” or “disposition” means a voluntary transfer to a purchaser of any legal
+15 or equitable interest in a unit, but does not include the transfer or release of a security interest.
+16 (14)(18) “Executive board” means the body, regardless of name, designated in the
+17 declaration to act on behalf of the association.
+18 (15)(19) [Deleted by P.L. 1999, ch. 83, § 80, and P.L. 1999, ch. 130, § 80 which enacted
+19 identical amendments to this section.]
+20 (16)(20) “Identifying number” means a symbol or address that identifies only one unit in a
+21 condominium.
+22 (17)(21) “Land only units” shall mean units designated as land only units on the plats and
+23 plans which units may be comprised entirely or partially of unimproved real property and the air
+24 space above the real property. The boundaries of a land only unit are to be described pursuant to §
+25 34-36.1-2.05(a)(5). Land only units may, but need not, contain a physical structure. The declaration
+26 may provide for the conversion of land only units to other types of units and/or common elements
+27 provided the conversion shall be effective only upon the recording of an amendment to the
+28 declaration which amendment will include new plats and plans identifying any portion of the land
+29 only unit converted to another type of unit and/or common element.
+30 (18)(22) “Leasehold condominium” means a condominium in which all or a portion of the
+31 real estate is subject to a lease the expiration or termination of which will terminate the
+32 condominium or reduce its size.
+33 (19)(23) “Limited common element” means a portion of the common elements allocated
+34 by the declaration or by operation of § 34-36.1-2.02(2) or (4) for the exclusive use of one or more
+LC005569 - Page 3 of 12
+
+1 but fewer than all of the units.
+2 (20)(24) “Master association” means an organization described in § 34-36.1-2.20, whether
+3 or not it is also an association described in § 34-36.1-3.01.
+4 (25) “Non-discretionary expenses” means any common expenses integral to the operation
+5 of the condominium association, such as required reserves for repair or replacement of the
+6 condominium property; anticipated capital expenses of the association for the repair, maintenance,
+7 or replacement of roofs, building structure (i.e., load bearing walls), fire protection systems,
+8 plumbing, electrical, exterior paint and waterproofing, windows, and any other item that has a
+9 deferred maintenance expense or replacement cost that exceeds twenty-five thousand dollars
+10 ($25,000), insurance premiums, property taxes, snow and trash removal, and basic landscaping
+11 services.
+12 (21)(26) “Offering” means any advertisement, inducement, solicitation, or attempt to
+13 encourage any person to acquire any interest in a unit, other than as security for an obligation. An
+14 advertisement in a newspaper or other periodical of general circulation, or in any broadcast medium
+15 to the general public, of a condominium not located in this state, is not an offering if the
+16 advertisement states that an offering may be made only in compliance with the law of the
+17 jurisdiction in which the condominium is located.
+18 (22)(27) “Person” means a natural person, corporation, business trust, estate, trust,
+19 partnership, association, joint venture, government, governmental subdivision or agency, or other
+20 legal or commercial entity. (In the case of a land trust, however, “person” means the beneficiary of
+21 the trust rather than the trust or the trustee.)
+22 (12)(28) “Person with a disability” means any person who is unable to engage in any
+23 substantial gainful activity by reason of any medically determinable physical or mental impairment
+24 which can be expected to result in death or has lasted or can be expected to last for a continuous
+25 period of not less than twelve (12) months or any person having an impairment of mobility or vision
+26 which is expected to be of at least twelve (12) months duration, and is a substantial impediment to
+27 his or her ability to live independently.
+28 (23)(29) “Purchaser” means any person, other than a declarant or a person in the business
+29 of selling real estate for his or her own account, who by means of a voluntary transfer acquires a
+30 legal or equitable interest in a unit other than:
+31 (i) A leasehold interest including renewal options of less than twenty (20) years, or
+32 (ii) As security for an obligation.
+33 (24)(30) “Real estate” means any leasehold or other estate or interest in, over, or under
+34 land, including structures, fixtures, and other improvements and interests which by custom, usage,
+LC005569 - Page 4 of 12
+
+1 or law pass with a conveyance of land though not described in the contract of sale or instrument of
+2 conveyance. “Real estate” includes parcels with or without upper or lower boundaries, and spaces
+3 that may be filled with air or water.
+4 (25)(31) “Residential purposes” means use for dwelling or recreational purposes, or both.
+5 (32) “Special assessment” means an unexpected expense that is not included in the
+6 association annual budget and included for within the condominium fees.
+7 (26)(33) “Special declarant rights” means rights reserved for the benefit of a declarant to:
+8 (i) Complete improvements indicated on plats and plans filed with the declaration, (§ 34-
+9 36.1-2.09),
+10 (ii) To exercise any development right, (§ 34-36.1-2.10),
+11 (iii) To maintain sales offices, management offices, signs advertising the condominium,
+12 and models, (§ 34-36.1-2.15),
+13 (iv) To use easements through the common elements for the purpose of making
+14 improvements within the condominium or within real estate which may be added to the
+15 condominium, (§ 34-36.1-2.16),
+16 (v) To make the condominium part of a larger condominium or a planned community, (§
+17 34-36.1-2.21),
+18 (vi) To make the condominium subject to a master association, (§ 34-36.1-2.20),
+19 (vii) Or to appoint or remove any officer of the association or any master association or
+20 any executive board member during any period of declarant control, (§ 34-36.1-3.03(d)).
+21 (27)(34)“Time share” means a right to occupy a unit or any of several units during five (5)
+22 or more separated time periods over a period of at least five (5) years, including renewal options,
+23 whether or not coupled with an estate or interest in a condominium or a specified portion thereof.
+24 (28)(35) “Unit” means a physical portion of the condominium designated for separate
+25 ownership or occupancy, the boundaries of which are described pursuant to § 34-36.1-2.05(a)(5).
+26 (29)(36) “Unit owner” means a declarant or other person who owns a unit, or a lessee of a
+27 unit in a leasehold condominium whose lease expires simultaneously with any lease, the expiration
+28 or termination of which will remove the unit from the condominium, but does not include a person
+29 having an interest in a unit solely as security for an obligation.
+30 34-36.1-2.07. Allocation of common element interest, votes, and common expense
+31 liabilities.
+32 (a) The declaration shall allocate a fraction or percentage of undivided interests in the
+33 common elements and in the common expenses of the association, and a portion of the votes in the
+34 association, to each unit including land only units and state the formulas used to establish those
+LC005569 - Page 5 of 12
+
+1 allocations. Those allocations may not discriminate in favor of units owned by the declarant, but
+2 may discriminate in favor of units subject to a housing restriction as set forth in § 34-39.1-3. Except
+3 as set forth in § 34-36.1-1.03(7), no minimum percentage interest in the common elements is
+4 otherwise required.
+5 (1) Notwithstanding subsection (a) of this section, any board which proposes in any fiscal
+6 year an annual budget which result in an increase to condominium fees greater than fifty percent
+7 (50%) of the preceding fiscal year’s condominium fees, the board shall simultaneously propose a
+8 substitute budget that does not include any discretionary expenditures that are not required to be in
+9 the budget. The substitute budget must be proposed at the budget meeting before the adoption of
+10 the annual budget. At least fourteen (14) days before such budget meeting in which a substitute
+11 budget will be proposed, the board shall hand deliver to each unit owner, or mail to each unit owner
+12 at the address last furnished to the association, a notice of the meeting. An officer or manager of
+13 the association, or other person providing notice of such meeting shall execute an affidavit
+14 evidencing compliance with this notice requirement, and such affidavit shall be filed among the
+15 official records of the association. Unit owners must consider and may adopt a substitute budget at
+16 the meeting. A substitute budget is adopted if approved by a majority of all voting interests unless
+17 the bylaws require adoption by a greater percentage of voting interests. If a substitute budget is not
+18 adopted, the annual budget previously initially proposed by the board may be adopted.
+19 (2) Associations must allow any owner of a deed-restricted unit or any owner who declares
+20 a financial hardship via a notarized self-attestation the option to enter into a monthly payment plan,
+21 at no additional charge, where the payment is not in excess of one-twelfth (1/12) of the special
+22 assessment.
+23 (b) If units may be added to or withdrawn from the condominium, the declaration must
+24 state the formulas to be used to reallocate the allocated interests among all units included in the
+25 condominium after the addition or withdrawal.
+26 (c) The declaration may provide: (i) That different allocations of votes shall be made to the
+27 units on particular matters specified in the declaration; (ii) For cumulative voting only for the
+28 purpose of electing members of the executive board; and (iii) For the class voting on specified
+29 issues affecting the class if necessary to protect valid interests of the class. A declarant may not
+30 utilize cumulative or class voting for the purpose of evading any limitation imposed on declarants
+31 by this chapter, nor may units constitute a class because they are owned by a declarant.
+32 (d) Except for minor variations due to rounding, the sum of the undivided interests in the
+33 common elements and common expense liabilities allocated at any time to all the units must each
+34 equal one if stated as fractions or one hundred percent (100%) if stated as percentages. In the event
+LC005569 - Page 6 of 12
+
+1 of discrepancy between an allocated interest and the results derived from application of the
+2 pertinent formula, the allocated interest prevails.
+3 (e) The common elements are not subject to partition, and any purported conveyance,
+4 encumbrance, judicial sale, or other voluntary or involuntary transfer of an undivided interest in
+5 the common elements made without the unit to which that interest is allocated, is void.
+6 (f) Subject to the provisions of the declaration and other provisions of law, and except as
+7 provided in § 34-36.1-2.12 which provides for the relocation of boundaries between adjoining units,
+8 the owners of any two (2) or more units may apply for a reallocation of their respective allocated
+9 interests to the executive board; but their application shall not attempt to alter common element
+10 interests except as they relate to the proposed reallocation of unit interests. Unless the executive
+11 board determines within thirty (30) days, that the reallocations are unreasonable, the association
+12 shall prepare an amendment that identifies the units involved, states the reallocations, is executed
+13 by those unit owners, contains words of conveyance between them, and upon recordation, is
+14 indexed in the name of the grantor and the grantee.
+15 34-36.1-3.03. Executive board members and officers.
+16 (a) Except as provided in the declaration, the bylaws, subsection (b), or in other provisions
+17 of this chapter, the executive board may act in all instances on behalf of the association. In the
+18 performance of their duties, the officers and members of the executive board are required to
+19 exercise:
+20 (1) If appointed by the declarant, the care required of fiduciaries of the unit owners; and
+21 (2) If elected by the unit owners, ordinary and reasonable care.
+22 (b) The executive board may not act on behalf of the association to amend the declaration
+23 (§ 34-36.1-2.17), to terminate the condominium, or to elect members of the executive board or
+24 determine the qualifications, powers and duties, or terms of office of executive board members, but
+25 the executive board may fill vacancies in its membership for the unexpired portion of any term.
+26 (c) Within thirty (30) days after adoption of any proposed budget for the condominium, the
+27 executive board shall provide a summary of the budget to all the unit owners, and shall set a date
+28 for a meeting of the unit owners to consider ratification of the budget not less than fourteen (14)
+29 nor more than thirty (30) days after mailing of the summary. Unless at that meeting a majority of
+30 all the unit owners or any larger vote specified in the declaration reject the budget, the budget is
+31 ratified, whether or not a quorum is present. In the event the proposed budget is rejected, the
+32 periodic budget last ratified by the unit owners shall be continued until such time as the unit owners
+33 ratify a subsequent budget proposed by the executive board.
+34 (d)(1) Subject to subsection (e), the declaration may provide for a period of declarant
+LC005569 - Page 7 of 12
+
+1 control of the association, during which period a declarant, or persons designated by him, may
+2 appoint and remove the officers and members of the executive board. Regardless of the period
+3 provided in the declaration, a period of declarant control terminates no later than the earlier of:
+4 (i) Sixty (60) days after conveyance of eighty percent (80%) of the units which may be
+5 created to unit owners other than a declarant;
+6 (ii) Two (2) years after all declarants have ceased to offer units for sale in the ordinary
+7 course of business; or
+8 (iii) Two (2) years after any development right to add new units was last exercised.
+9 (2) A declarant may voluntarily surrender the right to appoint and remove officers and
+10 members of the executive board before terminations of that period, but in that event he or she may
+11 require, for the duration of the period of declarant control, that specified actions of the association
+12 or executive board, as described in a recorded instrument executed by the declarant, be approved
+13 by the declarant before they become effective.
+14 (e) Not later than sixty (60) days after conveyance of twenty-five percent (25%) of the units
+15 which may be created to unit owners other than a declarant, at least one member and not less than
+16 twenty-five percent (25%) of the members of the executive board must be elected by unit owners
+17 other than the declarant. Not later than sixty (60) days after conveyance of fifty percent (50%) of
+18 the units which may be created to unit owners other than a declarant, not less than one-third (⅓) of
+19 the members of the executive board must be elected by unit owners other than the declarant.
+20 (f) Not later than the termination of any period of declarant control, the unit owners shall
+21 elect an executive board of at least three (3) members, at least a majority of whom must be unit
+22 owners. The executive board shall elect the officers. The executive board members and officers
+23 shall take office upon election.
+24 (g) Notwithstanding any provision of the declaration or bylaws to the contrary, the unit
+25 owners, by a two-thirds (⅔) vote of all persons present and entitled to vote at any meeting of the
+26 unit owners at which a quorum is present, may remove any member of the executive board with or
+27 without cause, other than a member appointed by the declarant.
+28 (h) Any executive board established after June 30, 2027, containing deed-restricted units
+29 within its association, shall be comprised of members proportionate with the number of deed-
+30 restricted units and market-rate units. Any calculation yielding a fractional person on the board
+31 shall be allocated to a market-rate owner. In the event there is inadequate interest by persons
+32 representing either deed-restricted or market rate units, then the representative seats may be filled
+33 by any interested owner.
+34 SECTION 2. Chapter 34-36.1 of the General Laws entitled "Condominium Law" is hereby
+LC005569 - Page 8 of 12
+
+1 amended by adding thereto the following section:
+2 34-36.1-1.13. Allocation of common element interest, votes and common expense
+3 liabilities.
+4 (a) To increase transparency of operations and association management, every association
+5 established under this chapter, is hereby required to do the following:
+6 (1) Register as an association with the executive office of housing by December 31, 2027,
+7 or within thirty (30) days of establishment; and
+8 (2) Submit the following materials within thirty (30) days of adoption or amendment:
+9 (i) Annual budget, including monthly and annual condominium fees;
+10 (ii) Board list and officers;
+11 (iii) All financial documents including, condominium fees for the last two (2) years,
+12 funding reserves and any tax filing information;
+13 (iv) Date of next officer election; and
+14 (v) Association by-laws and any other relevant governing documents.
+15 (b) Failure to comply with this section is subject to the jurisdiction of chapter 167 of title
+16 42 ("executive office of housing").
+17 SECTION 3. Section 42-167-3 of the General Laws in Chapter 42-167 entitled "Executive
+18 Office of Housing" is hereby amended to read as follows:
+19 42-167-3. Powers and duties of the executive office of housing.
+20 In order to provide housing opportunities for all Rhode Islanders, to maintain the quality
+21 of housing in Rhode Island, and to coordinate and make effective the housing responsibilities of
+22 the agencies and subdivisions of the state, the executive office of housing shall have the following
+23 powers and duties:
+24 (1) Policy, planning, and coordination of state housing functions:
+25 (i) To prepare and adopt the state’s plans for housing, including but not limited to, any
+26 statewide housing and homelessness plan; provided, however, that this provision shall not be
+27 interpreted to contravene the prerogative of the state planning council to adopt a state guide plan
+28 for housing;
+29 (ii) To prepare, adopt, and issue the state’s housing and homelessness policy;
+30 (iii) To conduct research on and make reports regarding housing issues in the state; and
+31 (iv) To advise the governor and general assembly on housing issues and to coordinate
+32 housing activities among government agencies and agencies created by state law or providing
+33 housing services under government programs;
+34 (2) Establish, implement, and monitor state performance measures and guidelines for
+LC005569 - Page 9 of 12
+
+1 housing programs:
+2 (i) To promulgate performance measures and guidelines for housing programs conducted
+3 under state law;
+4 (ii) To monitor and evaluate housing responsibilities established by state law, and to
+5 establish a process for annual reporting on the outcomes of the programs and investments of the
+6 state in housing for low- and moderate-income people; and
+7 (iii) To hear and resolve disputes pertaining to housing issues;
+8 (3) Administer the programs pertaining to housing resources that may be assigned by state
+9 law. The executive office of housing shall have the power and duty to administer programs for
+10 housing, housing services, and community development including, but not limited to, programs
+11 pertaining to:
+12 (i) Abandoned properties and the remediation of blighting conditions;
+13 (ii) Services for the homeless;
+14 (iii) Rental assistance;
+15 (iv) Community development;
+16 (v) Outreach, education, and technical assistance services;
+17 (vi) Assistance, including financial support, to nonprofit organizations and community
+18 development corporations;
+19 (vii) Tax credits that assist in the provision of housing or foster community development
+20 or that result in support to nonprofit organizations performing functions to accomplish the purposes
+21 of this chapter; and
+22 (viii) The supportive services program, the purpose of which is to help prevent and end
+23 homelessness among those who have experienced long-term homelessness and for whom certain
+24 services in addition to housing are essential. State funding for this program may leverage other
+25 resources for the purpose of providing supportive services. Services provided pursuant to this
+26 subsection may include, but not be limited to: assistance with budgeting and paying rent; access to
+27 employment; encouraging tenant involvement in facility management and policies; medication
+28 monitoring and management; daily living skills related to food, housekeeping, and socialization;
+29 counseling to support self-identified goals; referrals to mainstream health, mental health, and
+30 treatment programs; and conflict resolution;
+31 (4) Lead abatement and management. The executive office of housing will provide funding
+32 to support the administration of a lead hazard abatement program managed by the Rhode Island
+33 department of health in cooperation with the Rhode Island housing and mortgage finance
+34 corporation.
+LC005569 - Page 10 of 12
+
+1 (5) The regulations promulgated under title 860 of the Rhode Island code of regulations
+2 will remain in full force and effect and shall be enforced by the executive office of housing until
+3 such a time as the rules are properly transferred to the executive office of housing’s title within the
+4 Rhode Island code of regulations, notwithstanding any other transfers authorized under § 42-128.1-
+5 7.
+6 (6) The executive office of housing shall develop an informational brochure for prospective
+7 condominium buyers highlighting the key aspects of condominium ownership and factors potential
+8 owners may want to consider in making a decision, including board representation, fee structures
+9 and potential increases, conflicts and conflict resolution, rights and responsibilities under the law
+10 and limitations under the law. This brochure shall be required to be provided to any potential buyer
+11 by the seller of a condominium or their agent. Buyers shall be required to acknowledge their receipt
+12 of said brochure within any executed purchase and sales agreement.
+13 (7) The executive office of housing shall coordinate a central depository of information
+14 regarding condominium associations, in accordance with chapter 35 of title 42 ("administrative
+15 procedures").
+16 (8) The executive office of housing shall employ such personnel required to investigate
+17 complaints related to condominium associations and to provide mediation services in any
+18 condominium disputes prior to legal action being able to advance.
+19 SECTION 4. This act shall take effect on July 1, 2026.
+========
+LC005569
+========
+LC005569 - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- CONDOMINIUM LAW
+***
+1 This act would restrict increases in monthly common expenses and limit special
+2 assessments to cover unforeseen costs not included in the condominium association’s approved
+3 annual budget for common expenses in associations where the minority of the units are deed-
+4 restricted units.
+5 This act would take effect on July 1, 2026.
+========
+LC005569
+========
+LC005569 - Page 12 of 12

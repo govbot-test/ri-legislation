@@ -1,0 +1,240 @@
+Title: 
+Official Title: 
+Source: versions - 7347
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7347
+========
+LC004486
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Introduced By: Representatives McGaw, Fogarty, Carson, Potter, Fellela, Furtado,
+Morales, Messier, Donovan, and Boylan
+Date Introduced: January 28, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 27-18 of the General Laws entitled "Accident and Sickness Insurance
+2 Policies" is hereby amended by adding thereto the following section:
+3 27-18-96. Prior authorization restrictions for rehabilitative and habilitative services.
+4 (a) An individual or group health insurance plan shall not require prior authorization for
+5 rehabilitative or habilitative services including, but not limited to, physical therapy services for the
+6 first twelve (12) visits of each new episode of care. After the twelve (12) visits of each new episode
+7 of care, an individual or group health insurance plan may not require prior authorization more
+8 frequently than every six (6) visits or every thirty (30) days, whichever time period is longer. For
+9 purposes of this section, "new episode of care" means treatment for a new or recurring condition
+10 for which an insured has not been treated by the provider within the previous ninety (90) days.
+11 (b) An individual or group health insurance plan shall not require prior authorization for
+12 physical medicine or rehabilitation services provided to patients with chronic pain for the first
+13 ninety (90) days following diagnosis in order to provide the necessary nonpharmacologic
+14 management of the pain. After the first ninety (90) days following a chronic pain diagnosis, an
+15 individual or group health insurance plan may not require prior authorization more frequently than
+16 every six (6) visits or every thirty (30) days, whichever time period is longer. For purposes of this
+17 subsection, "chronic pain" means pain that persists or recurs for more than three (3) months.
+18 (c) An individual or group health insurance plan shall respond to a prior authorization
+19 request for services or visits in an ongoing plan of care for rehabilitative or habilitative services
+
+1 within twenty-four (24) hours. If an individual or group health insurance plan requires more
+2 information to render a decision on the prior authorization request, the individual or group health
+3 insurance plan shall notify the patient and the provider within twenty-four (24) hours of the initial
+4 request with the information that is needed to complete the prior authorization request including,
+5 but not limited to, the specific tests and measures needed from the patient and provider. An
+6 individual or group health insurance plan shall render a decision on the prior authorization request
+7 within twenty-four (24) hours of receiving the requested information.
+8 (d) A prior authorization for rehabilitative or habilitative services is deemed to be approved
+9 if an individual or group health insurance plan:
+10 (1) Fails to timely answer a prior authorization request in accordance with subsection (c)
+11 of this section, including due to a failure of the individual or group health insurance plan’s prior
+12 authorization platform or process; or
+13 (2) Informs a provider that prior authorization is not required orally, via an online platform
+14 or program, through the patient's health plan documents or by any other means.
+15 (e) An individual or group health insurance plan shall provide a procedure for providers
+16 and insureds to obtain retroactive authorization for rehabilitative or habilitative services that are
+17 medically necessary covered benefits. An individual or group health insurance plan shall not deny
+18 coverage for medically necessary services for failure to obtain a prior authorization, if a medical
+19 necessity determination can be made after the rehabilitative or habilitative services have been
+20 provided and the services would have been covered benefits if prior authorization had been
+21 obtained.
+22 (f) An individual or group health insurance plan’s failure to approve a prior authorization
+23 for all rehabilitative or habilitative services or visits in a plan of care is subject to the same appeal
+24 rights as a denial under the health insurance commissioner’s rule regarding health plan
+25 accountability and the provider's network agreement with the carrier, if any.
+26 (g) Nothing in this section shall be construed to prohibit an individual or group health
+27 insurance plan from performing a retrospective medical necessity review.
+28 SECTION 2. Chapter 27-19 of the General Laws entitled " Nonprofit Hospital Service
+29 Corporations " is hereby amended by adding thereto the following section:
+30 27-19-88. Prior authorization restrictions for rehabilitative and habilitative services.
+31 (a) An individual or group health insurance plan shall not require prior authorization for
+32 rehabilitative or habilitative services including, but not limited to, physical therapy services for the
+33 first twelve (12) visits of each new episode of care. After the twelve (12) visits of each new episode
+34 of care, an individual or group health insurance plan may not require prior authorization more
+LC004486 - Page 2 of 7
+
+1 frequently than every six (6) visits or every thirty (30) days, whichever time period is longer. For
+2 purposes of this section, "new episode of care" means treatment for a new or recurring condition
+3 for which an insured has not been treated by the provider within the previous ninety (90) days.
+4 (b) An individual or group health insurance plan shall not require prior authorization for
+5 physical medicine or rehabilitation services provided to patients with chronic pain for the first
+6 ninety (90) days following diagnosis in order to provide the necessary nonpharmacologic
+7 management of the pain. After the first ninety (90) days following a chronic pain diagnosis, an
+8 individual or group health insurance plan may not require prior authorization more frequently than
+9 every six (6) visits or every thirty (30) days, whichever time period is longer. For purposes of this
+10 subsection, "chronic pain" means pain that persists or recurs for more than three (3) months.
+11 (c) An individual or group health insurance plan shall respond to a prior authorization
+12 request for services or visits in an ongoing plan of care for rehabilitative or habilitative services
+13 within twenty-four (24) hours. If an individual or group health insurance plan requires more
+14 information to render a decision on the prior authorization request, the individual or group health
+15 insurance plan shall notify the patient and the provider within twenty-four (24) hours of the initial
+16 request with the information that is needed to complete the prior authorization request including,
+17 but not limited to, the specific tests and measures needed from the patient and provider. An
+18 individual or group health insurance plan shall render a decision on the prior authorization request
+19 within twenty-four (24) hours of receiving the requested information.
+20 (d) A prior authorization for rehabilitative or habilitative services is deemed to be approved
+21 if an individual or group health insurance plan:
+22 (1) Fails to timely answer a prior authorization request in accordance with subsection (c)
+23 of this section, including due to a failure of the individual or group health insurance plan’s prior
+24 authorization platform or process; or
+25 (2) Informs a provider that prior authorization is not required orally, via an online platform
+26 or program, through the patient's health plan documents or by any other means.
+27 (e) An individual or group health insurance plan shall provide a procedure for providers
+28 and insureds to obtain retroactive authorization for rehabilitative or habilitative services that are
+29 medically necessary covered benefits. An individual or group health insurance plan shall not deny
+30 coverage for medically necessary services for failure to obtain a prior authorization, if a medical
+31 necessity determination can be made after the rehabilitative or habilitative services have been
+32 provided and the services would have been covered benefits if prior authorization had been
+33 obtained.
+34 (f) An individual or group health insurance plan’s failure to approve a prior authorization
+LC004486 - Page 3 of 7
+
+1 for all rehabilitative or habilitative services or visits in a plan of care is subject to the same appeal
+2 rights as a denial under the health insurance commissioner’s rule regarding health plan
+3 accountability and the provider's network agreement with the carrier, if any.
+4 (g) Nothing in this section shall be construed to prohibit an individual or group health
+5 insurance plan from performing a retrospective medical necessity review.
+6 SECTION 3. Chapter 27-20 of the General Laws entitled " Nonprofit Medical Service
+7 Corporations " is hereby amended by adding thereto the following section:
+8 27-20-84. Prior authorization restrictions for rehabilitative and habilitative services.
+9 (a) An individual or group health insurance plan shall not require prior authorization for
+10 rehabilitative or habilitative services including, but not limited to, physical therapy services for the
+11 first twelve (12) visits of each new episode of care. After the twelve (12) visits of each new episode
+12 of care, an individual or group health insurance plan may not require prior authorization more
+13 frequently than every six (6) visits or every thirty (30) days, whichever time period is longer. For
+14 purposes of this section, "new episode of care" means treatment for a new or recurring condition
+15 for which an insured has not been treated by the provider within the previous ninety (90) days.
+16 (b) An individual or group health insurance plan shall not require prior authorization for
+17 physical medicine or rehabilitation services provided to patients with chronic pain for the first
+18 ninety (90) days following diagnosis in order to provide the necessary nonpharmacologic
+19 management of the pain. After the first ninety (90) days following a chronic pain diagnosis, an
+20 individual or group health insurance plan may not require prior authorization more frequently than
+21 every six (6) visits or every thirty (30) days, whichever time period is longer. For purposes of this
+22 subsection, "chronic pain" means pain that persists or recurs for more than three (3) months.
+23 (c) An individual or group health insurance plan shall respond to a prior authorization
+24 request for services or visits in an ongoing plan of care for rehabilitative or habilitative services
+25 within twenty-four (24) hours. If an individual or group health insurance plan requires more
+26 information to render a decision on the prior authorization request, the individual or group health
+27 insurance plan shall notify the patient and the provider within twenty-four (24) hours of the initial
+28 request with the information that is needed to complete the prior authorization request including,
+29 but not limited to, the specific tests and measures needed from the patient and provider. An
+30 individual or group health insurance plan shall render a decision on the prior authorization request
+31 within twenty-four (24) hours of receiving the requested information.
+32 (d) A prior authorization for rehabilitative or habilitative services is deemed to be approved
+33 if an individual or group health insurance plan:
+34 (1) Fails to timely answer a prior authorization request in accordance with subsection (c)
+LC004486 - Page 4 of 7
+
+1 of this section, including due to a failure of the individual or group health insurance plan’s prior
+2 authorization platform or process; or
+3 (2) Informs a provider that prior authorization is not required orally, via an online platform
+4 or program, through the patient's health plan documents or by any other means.
+5 (e) An individual or group health insurance plan shall provide a procedure for providers
+6 and insureds to obtain retroactive authorization for rehabilitative or habilitative services that are
+7 medically necessary covered benefits. An individual or group health insurance plan shall not deny
+8 coverage for medically necessary services for failure to obtain a prior authorization, if a medical
+9 necessity determination can be made after the rehabilitative or habilitative services have been
+10 provided and the services would have been covered benefits if prior authorization had been
+11 obtained.
+12 (f) An individual or group health insurance plan’s failure to approve a prior authorization
+13 for all rehabilitative or habilitative services or visits in a plan of care is subject to the same appeal
+14 rights as a denial under the health insurance commissioner’s rule regarding health plan
+15 accountability and the provider's network agreement with the carrier, if any.
+16 (g) Nothing in this section shall be construed to prohibit an individual or group health
+17 insurance plan from performing a retrospective medical necessity review.
+18 SECTION 4. Chapter 27-41 of the General Laws entitled " Health Maintenance
+19 Organizations " is hereby amended by adding thereto the following section:
+20 27-41-101. Prior authorization restrictions for rehabilitative and habilitative services.
+21 (a) An individual or group health insurance plan shall not require prior authorization for
+22 rehabilitative or habilitative services including, but not limited to, physical therapy services for the
+23 first twelve (12) visits of each new episode of care. After the twelve (12) visits of each new episode
+24 of care, an individual or group health insurance plan may not require prior authorization more
+25 frequently than every six (6) visits or every thirty (30) days, whichever time period is longer. For
+26 purposes of this section, "new episode of care" means treatment for a new or recurring condition
+27 for which an insured has not been treated by the provider within the previous ninety (90) days.
+28 (b) An individual or group health insurance plan shall not require prior authorization for
+29 physical medicine or rehabilitation services provided to patients with chronic pain for the first
+30 ninety (90) days following diagnosis in order to provide the necessary nonpharmacologic
+31 management of the pain. After the first ninety (90) days following a chronic pain diagnosis, an
+32 individual or group health insurance plan may not require prior authorization more frequently than
+33 every six (6) visits or every thirty (30) days, whichever time period is longer. For purposes of this
+34 subsection, "chronic pain" means pain that persists or recurs for more than three (3) months.
+LC004486 - Page 5 of 7
+
+1 (c) An individual or group health insurance plan shall respond to a prior authorization
+2 request for services or visits in an ongoing plan of care for rehabilitative or habilitative services
+3 within twenty-four (24) hours. If an individual or group health insurance plan requires more
+4 information to render a decision on the prior authorization request, the individual or group health
+5 insurance plan shall notify the patient and the provider within twenty-four (24) hours of the initial
+6 request with the information that is needed to complete the prior authorization request including,
+7 but not limited to, the specific tests and measures needed from the patient and provider. An
+8 individual or group health insurance plan shall render a decision on the prior authorization request
+9 within twenty-four (24) hours of receiving the requested information.
+10 (d) A prior authorization for rehabilitative or habilitative services is deemed to be approved
+11 if an individual or group health insurance plan:
+12 (1) Fails to timely answer a prior authorization request in accordance with subsection (c)
+13 of this section, including due to a failure of the individual or group health insurance plan’s prior
+14 authorization platform or process; or
+15 (2) Informs a provider that prior authorization is not required orally, via an online platform
+16 or program, through the patient's health plan documents or by any other means.
+17 (e) An individual or group health insurance plan shall provide a procedure for providers
+18 and insureds to obtain retroactive authorization for rehabilitative or habilitative services that are
+19 medically necessary covered benefits. An individual or group health insurance plan shall not deny
+20 coverage for medically necessary services for failure to obtain a prior authorization, if a medical
+21 necessity determination can be made after the rehabilitative or habilitative services have been
+22 provided and the services would have been covered benefits if prior authorization had been
+23 obtained.
+24 (f) An individual or group health insurance plan’s failure to approve a prior authorization
+25 for all rehabilitative or habilitative services or visits in a plan of care is subject to the same appeal
+26 rights as a denial under the health insurance commissioner’s rule regarding health plan
+27 accountability and the provider's network agreement with the carrier, if any.
+28 (g) Nothing in this section shall be construed to prohibit an individual or group health
+29 insurance plan from performing a retrospective medical necessity review.
+30 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC004486
+========
+LC004486 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+***
+1 This act would prohibit health insurance plans from requiring prior authorization for a new
+2 episode of rehabilitative care for twelve (12) visits, or from requiring prior authorization for
+3 rehabilitative care for chronic pain for ninety (90) days. This act would further mandate that where
+4 prior authorization is required, the health insurance plan would respond within twenty-four (24)
+5 hours. In addition, this act would require health insurance plans to provide a procedure for providers
+6 and insureds to obtain retroactive authorization for services that are medically necessary covered
+7 benefits.
+8 This act would take effect on January 1, 2027.
+========
+LC004486
+========
+LC004486 - Page 7 of 7

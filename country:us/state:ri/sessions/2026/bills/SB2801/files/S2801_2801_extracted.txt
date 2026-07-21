@@ -1,0 +1,230 @@
+Title: 
+Official Title: 
+Source: versions - 2801
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2801
+========
+LC005161
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- SOLAR COST REDUCTION ACT
+Introduced By: Senators Valverde, Mack, Kallman, DiMario, Bissaillon, Urso, Gu,
+Ujifusa, Ciccone, and Vargas
+Date Introduced: March 04, 2026
+Referred To: Senate Environment & Agriculture
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 39 of the General Laws entitled "PUBLIC UTILITIES AND
+2 CARRIERS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 36
+4 SOLAR COST REDUCTION ACT
+5 39-36-1. Title.
+6 This act shall be known and may be cited as the "Solar Cost Reduction Act."
+7 39-36-2. Definitions.
+8 As used in this chapter, unless the context clearly requires otherwise:
+9 (1) "Department" means the Rhode Island office of energy resources, or such other state
+10 agency as may be designated by the governor to implement this chapter.
+11 (2) "Smart solar permitting platform" means software, or a combination of software, that:
+12 (i) Allows contractors and other qualified parties to submit applications electronically, on
+13 a twenty-four (24) hour per day, seven (7) day per week basis, for permits to install residential solar
+14 energy systems;
+15 (ii) Automatically performs code compliance checks and reviews permit applications for
+16 compliance with applicable building, electrical, fire, and zoning requirements;
+17 (iii) Generates approvals and issues permits or permit revisions instantly, without the need
+18 for follow-up manual plan review, for code-compliant applications;
+19 (iv) Accepts electronic payments of permitting fees, if such fees are levied; and
+
+1 (v) Issues permits or permit revisions upon receipt of payment.
+2 (3) "Eligible small-scale solar energy system" means:
+3 (i) A residential solar energy system; or
+4 (ii) A solar energy system installed on a property that is served by a residential electric
+5 meter, or that otherwise qualifies for expedited or simplified interconnection review by the electric
+6 distribution company, regardless of the ownership or use of the property.
+7 39-36-3. Statewide smart solar permitting platform.
+8 (a) The department shall integrate into its existing online statewide permitting platform
+9 and/or procure, administer, and maintain a statewide smart solar permitting platform for the
+10 permitting of residential solar energy system or other eligible small-scale solar energy system .
+11 (b) The smart solar permitting platform shall, at a minimum:
+12 (1) Accept electronic permit applications for residential solar energy system or other
+13 eligible small-scale solar energy system including, but not limited to, photovoltaic systems, energy
+14 storage systems, main electrical panel upgrades, and main breaker derates;
+15 (2) Perform automated code compliance checks consistent with applicable state and local
+16 codes;
+17 (3) Issue permits and permit revisions instantly for code-compliant applications, without
+18 requiring follow-up manual plan review;
+19 (4) Allow for electronic signatures, stamps, seals, and certifications; and
+20 (5) Publish, on a publicly accessible website, all forms, documentation, and instructions
+21 required to submit a permit application through the platform.
+22 (c) The department shall make the smart solar permitting platform available to
+23 municipalities at no cost.
+24 (d) The department may assess reasonable fees to contractors, installers, or other
+25 professionals using the smart solar permitting platform to defray the costs of procuring,
+26 implementing, and administering the platform and complying with this chapter; provided, however,
+27 that:
+28 (1) All municipal permitting fees shall continue to be retained by the municipality; and
+29 (2) The use of the platform shall not alter a municipality’s authority to set permit fee
+30 amounts.
+31 39-36-4. Municipal participation and equivalency.
+32 (a) Not later than twelve (12) months after the effective date of this chapter, every
+33 municipality shall allow applications for residential solar energy systems or other eligible small-
+34 scale solar energy systems to be submitted and permits issued instantly through:
+LC005161 - Page 2 of 7
+
+1 (1) The statewide smart solar permitting platform; or
+2 (2) An alternative automated solar permitting platform that is substantially equivalent to,
+3 or better than, the statewide platform.
+4 (b) An alternative automated platform shall be deemed substantially equivalent only if it:
+5 (1) Performs automated code compliance checks;
+6 (2) Issues permits and permit revisions instantly without follow-up manual plan review for
+7 code-compliant applications; and
+8 (3) Does not require the submission of documentation beyond what is required by the
+9 statewide smart solar permitting platform.
+10 (c) Rules and regulations governing the submission, review, and approval of permit
+11 applications through the statewide smart solar permitting platform shall be applied uniformly across
+12 all participating municipalities.
+13 39-36-5. Limitation on manual plan review.
+14 For any residential solar energy system or other eligible small-scale solar energy system
+15 for which a permit or permit revision is issued through the smart solar permitting platform or an
+16 equivalent automated platform, a municipality shall not require additional manual plan review as a
+17 condition of permit issuance.
+18 39-36-6. Engineering documentation thresholds.
+19 (a) For a residential solar energy system or other eligible small-scale solar energy system
+20 with a nameplate capacity of twenty-five kilowatts (25 kW) alternating current or less, a
+21 municipality or local permitting authority shall not require stamped electrical drawings, engineered
+22 plans, or additional engineering documentation as a condition of permit issuance, except where
+23 such documentation is expressly required by the applicable state building, electrical, or fire code.
+24 (b) For purposes of this section, a residential solar energy system or other eligible small-
+25 scale solar energy system shall be deemed eligible under subsection (a) of this section if the system
+26 qualifies for expedited or simplified interconnection review by the electric distribution company.
+27 (c) Nothing in this section shall be construed to limit the authority of a permitting official
+28 to require additional documentation where a system presents documented and site-specific health
+29 or safety concerns.
+30 39-36-7. Electronic submissions and form requirements.
+31 (a) Municipalities and state agencies shall accept electronic signatures, documents, and
+32 submissions for permit applications processed through the smart solar permitting platform or an
+33 equivalent automated platform.
+34 (b) A permit application submitted through such a platform shall not be denied, delayed,
+LC005161 - Page 3 of 7
+
+1 or deemed incomplete solely due to a failure to comply with a requirement relating to the physical
+2 form, format, size, or method of submission of documents.
+3 39-36-8. Centralized repository of municipal solar ordinances.
+4 (a) The department shall establish and maintain a single, publicly accessible online
+5 repository containing all municipal ordinances, regulations, and local requirements applicable to
+6 the permitting and installation of solar energy systems in the state.
+7 (b) Each municipality shall provide the department with current versions of such
+8 ordinances and regulations and shall notify the department of any updates in a timely manner.
+9 (c) The department shall make the repository available through the smart solar permitting
+10 platform or a related state website.
+11 39-36-9. Remote virtual inspections.
+12 (a)(1) By July 1, 2027, a city or town shall offer homeowners the option of requesting
+13 remote inspections, with the inspection conducted off site, for all or a subset of the inspections
+14 required for the following building permits in one and two (2) family dwelling units:
+15 (i) Photovoltaic and energy storage systems;
+16 (ii) Residential electrical minor work including all of the following:
+17 (A) Main and sub service panels;
+18 (B) Rewire work; and
+19 (C) New electrical circuit.
+20 (2) Remote inspections shall be conducted primarily through the submission of recorded
+21 photographs and videos demonstrating compliance with applicable code requirements.
+22 (3) A city or town may, but shall not be required to, offer live video conferencing as an
+23 optional inspection method, and shall not require the use of live video conferencing as a condition
+24 of offering or completing a remote inspection.
+25 (b) A city or town shall keep a digital record of the remote inspections for a reasonable
+26 period of time for later review, training, or compliance.
+27 (c) A city or town may, at their discretion, set up a process to:
+28 (1) Perform occasional on-site audits to confirm that a homeowner and/or a contractor is
+29 accurately representing the work that is the subject of a remote inspection.
+30 (2) If a homeowner and/or a contractor is found to have willfully misrepresented the work
+31 that is the subject of a remote inspection, temporarily ban that homeowner and/or contractor from
+32 using remote inspections and enter into agreements with other cities and towns to enforce each
+33 other's temporary remote inspections bans for homeowners and/or contractors who have been found
+34 to willfully misrepresent the work.
+LC005161 - Page 4 of 7
+
+1 (d) A city or town shall offer remote inspections at no greater cost and with no greater
+2 delay than in-person inspections.
+3 (e) All liabilities and immunities including, but not limited to, the immunities provided to
+4 all municipalities and the state, shall apply to any inspections conducted remotely.
+5 39-36-10. Final inspections.
+6 (a) For any residential solar energy system or other eligible small-scale solar energy system
+7 including, but not limited to, energy storage systems, electrical panel upgrades, or main breaker
+8 derates, that is permitted pursuant to this chapter or through a state-approved automated smart solar
+9 permitting platform, a municipality or local permitting authority shall require no more than one
+10 final inspection as a condition of final approval.
+11 (1) If a remote inspection conducted pursuant to § 39-36-9 for a solar installation fails, a
+12 building inspector may, at their discretion, conduct future inspections regarding that building
+13 permit remotely or in person.
+14 (2) An additional inspection may be required only if the system fails the initial inspection;
+15 provided that, the permitting authority issues a written notice identifying the specific deficiencies
+16 that resulted in the failure.
+17 (3) Nothing in this section shall be construed to limit the authority of a permitting official
+18 to conduct an inspection necessary to address documented health or safety violations discovered
+19 during the initial inspection.
+20 (b) A municipality or local permitting authority shall schedule and conduct a final
+21 inspection within five (5) business days of a request.
+22 (c) If the inspection is not conducted within such timeframe, the permitting authority shall
+23 provide written notice explaining the reason for the delay and the expected date of inspection.
+24 39-36-11. Reports to office of energy resources.
+25 (a) By July 1, 2027, and annually thereafter, jurisdictions shall provide a report to the office
+26 of energy resources that confirms that they have implemented a remote inspection program in
+27 compliance with this chapter, and reports the number of inspections for different types of permits
+28 that are done remotely and in person, and the failure rates of each inspection. The office of energy
+29 resources shall develop standards for the reports, and shall post the reports to its internet website.
+30 (b) By July 1, 2027, and annually thereafter, for jurisdictions that have implemented
+31 equivalent automated permitting platforms in lieu of using the state’s permitting platform,
+32 jurisdictions shall provide a report to the office of energy resources that confirms its compliance
+33 with this chapter, and reports the number of permits issued and the failure rates of permit
+34 applications. The office of energy resources shall develop standards for the reports, and shall post
+LC005161 - Page 5 of 7
+
+1 the reports to its website.
+2 (c) The office of energy resources may request information from a jurisdiction in order to
+3 assess whether a jurisdiction is in compliance with this chapter, post compliance information on its
+4 website, and take appropriate enforcement action to ensure compliance.
+5 39-36-12. Electric distribution companies.
+6 (a) An electric distribution company shall not require any inspection, verification, or
+7 approval in addition to the inspection performed by the municipal or local permitting authority as
+8 a condition of granting permission to operate a residential solar energy system or other eligible
+9 small-scale solar energy system or energy storage system.
+10 (b) Upon receipt of documentation demonstrating that the system has passed the required
+11 municipal inspection and satisfies applicable interconnection requirements, the electric distribution
+12 company shall grant permission to operate without unreasonable delay.
+13 (c) For purposes of this subsection, an electric distribution company shall be deemed to
+14 have acted with unreasonable delay if it fails to grant permission to operate within a timeframe
+15 consistent with its applicable expedited or simplified interconnection procedures, absent a
+16 documented technical or safety issue.
+17 (d) Nothing in this section shall be construed to limit an electric distribution company’s
+18 authority to perform activities necessary to ensure system synchronization, meter installation, or
+19 compliance with approved interconnection standards; provided that, such activities do not require
+20 an additional customer-side inspection.
+21 SECTION 2. This act shall take effect upon passage.
+========
+LC005161
+========
+LC005161 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- SOLAR COST REDUCTION ACT
+***
+1 This act would modernize the state’s existing online E-Permitting Portal by requiring
+2 automated plan review and instant permits issuance for residential solar energy systems or other
+3 eligible small-scale solar energy systems that meet all safety and building codes. It would also
+4 authorize remote virtual inspections as a valid practice for typical rooftop residential installations
+5 in an effort to reduce administrative costs for Rhode Island’s municipalities, businesses, and
+6 consumers.
+7 This act would take effect upon passage.
+========
+LC005161
+========
+LC005161 - Page 7 of 7

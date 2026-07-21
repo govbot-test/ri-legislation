@@ -1,0 +1,388 @@
+Title: 
+Official Title: 
+Source: versions - 8498
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8498
+========
+LC004429
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- RESPONSIBLE RECYCLING, REUSE AND
+DISPOSAL OF MATTRESSES
+Introduced By: Representatives J. Brien, Baginski, and Chippendale
+Date Introduced: May 01, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-90 of the General Laws entitled "Responsible Recycling, Reuse
+2 and Disposal of Mattresses" is hereby repealed in its entirety.
+3 CHAPTER 23-90
+4 Responsible Recycling, Reuse and Disposal of Mattresses
+5 23-90-1. Purpose.
+6 The purposes of this chapter are:
+7 (1) To establish a system for the collection, recycling, and reuse for discarded mattresses
+8 in Rhode Island.
+9 (2) To develop a comprehensive strategy, with the participation of state agencies,
+10 producers, retailers, and consumers for waste prevention and reduction of discarded mattresses in
+11 the state, which addresses the collection, recycling and reuse of mattresses in a safe and
+12 environmentally sound manner;
+13 (3) To promote the development of infrastructure for the reuse and recycling of discarded
+14 mattresses;
+15 (4) To minimize costs incurred by Rhode Island municipalities to collect, dispose of, or
+16 recycle mattresses discarded by residents; and
+17 (5) To eliminate waste generated in the state from the disposal of discarded mattresses from
+18 landfill and other forms of disposal.
+
+1 23-90-2. Findings.
+2 The general assembly hereby finds and declares that:
+3 (1) It is in the best interest of this state for providers of mattresses sold in Rhode Island to
+4 take responsibility for reducing the environmental and financial impacts of a mattress over its life
+5 cycle, from design to management after the end of a mattress’s useful life;
+6 (2) It is in the best interest of this state to reduce illegal dumping of discarded mattresses
+7 and determine a process for minimizing costs incurred by Rhode Island’s cities and towns for the
+8 management of discarded mattresses; and
+9 (3) It is in the best interest of this state for producers to develop a statewide product
+10 stewardship system that serves urban and rural areas in Rhode Island and provides cost-effective,
+11 convenient opportunities for the collection, transportation, recovery and safe management of
+12 discarded products.
+13 23-90-3. Definitions.
+14 As used in this chapter, the following words shall, unless the context clearly requires
+15 otherwise, have the following meanings:
+16 (1) “Brand” means a name, symbol, word or mark that attributes a mattress to the producer
+17 of such mattress.
+18 (2) “Covered entity” means any political subdivision of the state, any mattress retailer, any
+19 permitted transfer station, any waste to energy facility, any healthcare facility, any educational
+20 facility, any correctional facility, any military base, or any commercial or non profit lodging
+21 establishment that possesses a discarded mattress that was discarded in this state. Covered entity
+22 does not include any renovator, refurbisher or any person who transports a discarded mattress.
+23 (3) “Consumer” means an individual who is also a resident of this state.
+24 (4) “Corporation” means the Rhode Island Resource Recovery Corporation.
+25 (5) “Corporation Director” means the executive director of the Rhode Island Resource
+26 Recovery Corporation.
+27 (6) “Council” or “mattress recycling council” means the state wide, non-profit organization
+28 created by producers, or created by any trade association that represents producers, who account
+29 for a majority of mattress production in the United States to design, submit, and implement the
+30 mattress stewardship plan as described in this chapter.
+31 (7) “Discarded mattress” means any mattress that a consumer intends to discard, has
+32 discarded, or that is abandoned.
+33 (8) “Energy recovery” means the process by which all or a portion of solid waste materials
+34 are processed or combusted in order to utilize the heat content or other forms of energy derived
+LC004429 - Page 2 of 12
+
+1 from such solid waste materials.
+2 (9) “Foundation” means any ticking-covered structure that is used to support a mattress
+3 and that is composed of one or more of the following: A constructed frame, foam, or a box spring.
+4 “Foundation” does not include any bed frame or base made of wood, metal, or other material that
+5 rests upon the floor and that serves as a brace for a mattress.
+6 (10) “Mattress” means any resilient material, or combination of materials, that is enclosed
+7 by ticking, used alone or in combination with other products, and that is intended for, or promoted
+8 for, sleeping upon. “Mattress” includes any foundation, renovated foundation, or renovated
+9 mattress.
+10 “Mattress” does not include any of the following:
+11 (i) An unattached mattress pad, an unattached mattress topper, including any item with
+12 resilient filling, with or without ticking, that is intended to be used with, or on top of a mattress;
+13 (ii) A sleeping bag, pillow;
+14 (iii) A crib or bassinet mattress, car bed;
+15 (iv) Juvenile products, including: a carriage, basket, dressing table, stroller, playpen, infant
+16 carrier, lounge pad, crib bumper, and the pads for those juvenile products;
+17 (v) A product that contains liquid- or gaseous-filled ticking, including any water bed or air
+18 mattress that does not contain upholstery material between the ticking and the mattress core;
+19 (vi) Any upholstered furniture that does not contain a detachable mattress; or
+20 (vii) A fold-out sofa bed or futon.
+21 (11) “Mattress core” means the main support system that is present in a mattress, including,
+22 but not limited to: springs, foam, air bladder, water bladder, or resilient filling.
+23 (12) “Mattress recycling council” or “council” means the organization created by producers
+24 to design, submit, and implement the mattress stewardship program described in § 23-90-5.
+25 (13) “Mattress stewardship fee” means the amount added to the purchase price of a mattress
+26 sold in this state that is necessary to cover the cost of collecting, transporting, and processing
+27 discarded mattresses by the council pursuant to the mattress stewardship program.
+28 (14) “Mattress stewardship program” or “program” means the state wide, program
+29 described in § 23-90-5 and implemented pursuant to the mattress stewardship plan as approved by
+30 the corporation director.
+31 (15) “Mattress topper” means any item that contains resilient filling, with or without
+32 ticking, that is intended to be used with or on top of a mattress.
+33 (16) “Performance goal” means a metric proposed by the council, to measure, on an annual
+34 basis, the performance of the mattress stewardship program, taking into consideration technical and
+LC004429 - Page 3 of 12
+
+1 economic feasibilities, in achieving continuous, meaningful improvement in improving the rate of
+2 mattress recycling in the state and any other specified goal of the program.
+3 (17) “Producer” means any person who manufactures or renovates a mattress that is sold,
+4 offered for sale, or distributed in the state under the manufacturer’s own name or brand. “Producer”
+5 includes:
+6 (i) The owner of a trademark or brand under which a mattress is sold, offered for sale, or
+7 distributed in this state, whether or not such trademark or brand is registered in this state; and
+8 (ii) Any person who imports a mattress into the United States that is sold or offered for sale
+9 in this state and that is manufactured or renovated by a person who does not have a presence in the
+10 United States;
+11 (18) “Recycling” means any process in which discarded mattresses, components, and by-
+12 products may lose their original identity or form as they are transformed into new, usable, or
+13 marketable materials. “Recycling” does not include as a primary process the use of incineration for
+14 energy recovery or energy generation by means of combustion.
+15 (19) “Renovate” or “renovation” means altering a mattress for the purpose of resale and
+16 includes any one, or a combination of, the following: Replacing the ticking or filling, adding
+17 additional filling, rebuilding a mattress, or replacing components with new or recycled materials.
+18 “Renovate” or “renovation” does not include the:
+19 (i) Stripping of a mattress of its ticking or filling without adding new material;
+20 (ii) Sanitization or sterilization of a mattress without otherwise altering the mattress; or
+21 (iii) Altering of a mattress by a renovator when a person retains the altered mattress for
+22 personal use, in accordance with regulations of the department of business regulation.
+23 (20) “Renovator” means a person who renovates discarded mattresses for the purpose of
+24 reselling such mattresses in a retail store.
+25 (21) “Retailer” means any person who sells mattresses in this state or offers mattresses in
+26 this state to a consumer through any means, including, but not limited to, remote offerings such as
+27 sales outlets, catalogs, or the internet.
+28 (22) “Sanitization” means the direct application of chemicals to a mattress to kill human
+29 disease-causing pathogens.
+30 (23) “ Sale” means the transfer of title of a mattress for consideration, including through
+31 the use of a sales outlet, catalog, internet website, or similar electronic means.
+32 (24) “Sterilization” means the mitigation of any deleterious substances or organisms
+33 including human disease-causing pathogens, fungi, and insects from a mattress or filling material
+34 using a process approved by the department of business regulation.
+LC004429 - Page 4 of 12
+
+1 (25) “Ticking” means the outermost layer of fabric or material of a mattress. “Ticking”
+2 does not include any layer of fabric or material quilted together with, or otherwise attached to, the
+3 outermost layer of fabric or material of a mattress.
+4 (26) “Upholstery material” means all material, loose or attached, between the ticking and
+5 the core of a mattress.
+6 (27) “Wholesaler” means any person who sells or distributes mattresses in the state, in a
+7 nonretail setting, for the purpose of the resale of such mattresses.
+8 23-90-4. Mattress stewardship council established.
+9 (a) On or before July 1, 2015, each producer shall join the council and such council shall
+10 submit a plan, for the corporation director’s approval, to establish a statewide mattress stewardship
+11 program, as described in this section. Any retailer may be a member of such council. Such mattress
+12 stewardship program shall, to the extent it is technologically feasible and economically practical:
+13 (1) Minimize public sector involvement in the management of discarded mattresses;
+14 (2) Provide for the convenient and accessible statewide collection of discarded mattresses
+15 from any person in the state with a discarded mattress that was discarded in the state, including
+16 from participating covered entities that accumulated and segregated a minimum of fifty (50)
+17 discarded mattresses for collection at one time, or a minimum of thirty (30) discarded mattresses
+18 for collection at one time in the case of participating municipal transfer stations;
+19 (3) Provide for council-financed recycling and disposal of discarded mattresses;
+20 (4) Provide suitable storage containers at permitted municipal transfer stations, municipal
+21 government property or other solid waste management facilities for segregated, discarded
+22 mattresses, or make other mutually agreeable storage and transportation agreements at no cost to
+23 such municipality provided the municipal transfer station, municipal government property or other
+24 solid waste management facilities make space available for such purpose and imposes no fee for
+25 placement of such storage container on its premises;
+26 (5) Include a uniform mattress stewardship fee that is sufficient to cover the costs of
+27 operating and administering the program; and
+28 (6) Establish a financial incentive that provides for the payment of a monetary sum,
+29 established by the council, to promote the recovery of mattresses.
+30 (b) The council shall be a nonprofit organization with a fee structure that covers, but does
+31 not exceed, the costs of developing the plan and operating and administering the program in
+32 accordance with the requirements of this chapter, and maintaining a financial reserve sufficient to
+33 operate the program over a multi-year period of time in a fiscally prudent and responsible manner.
+34 The council shall maintain all records relating to the program for a period of not less than three (3)
+LC004429 - Page 5 of 12
+
+1 years.
+2 (c) Pursuant to the program, recycling shall be preferred over any other disposal method to
+3 the extent that recycling is technologically feasible and economically practical.
+4 (d) The council shall enter into an agreement with the corporation to reimburse for
+5 reasonable costs directly related to administering the program but not to exceed the cost of two (2)
+6 full time equivalent employees.
+7 23-90-5. Mattress stewardship plan.
+8 (a) On or before July 1, 2015, the mattress stewardship council shall submit a mattress
+9 stewardship plan for the establishment of a mattress stewardship program to the corporation
+10 director for approval.
+11 (b) The plan submitted pursuant to subsection (a) of this section shall, to the extent it is
+12 technologically feasible and economically practical:
+13 (1) Identify each producer’s participation in the program;
+14 (2) Describe the fee structure for the program and propose a uniform stewardship fee that
+15 is sufficient to cover the costs of operating and administering the program;
+16 (3) Establish performance goals for the first two (2) years of the program;
+17 (4) Identify proposed recycling facilities to be used by the program, such facilities shall not
+18 require a solid waste management facilities license;
+19 (5) Detail how the program will promote the recycling of discarded mattresses;
+20 (6) Include a description of the public education program;
+21 (7) Describe fee-disclosure language that retailers will be required to prominently display
+22 that will inform consumers of the amount and purpose of the fee; and
+23 (8) Identify the methods and procedures to facilitate implementation of the mattress
+24 stewardship program in coordination with the corporation director and municipalities.
+25 (c) Not later than ninety (90) days after submission of the plan pursuant to this section, the
+26 corporation shall make a determination whether to:
+27 (1) Approve the plan as submitted; or
+28 (2) Deny the plan.
+29 (d) The corporation director shall approve the plan for the establishment of the mattress
+30 stewardship program, provided such plan reasonably meets the requirements of this section. Prior
+31 to making such determination, the corporation director shall post the plan for at least thirty (30)
+32 days, in accordance with the “Administrative Procedures Act” as set forth in chapter 35 of title 42,
+33 on the corporation’s website and solicit public comments on the plan to be posted on the website.
+34 (e) In the event that the corporation director denies the plan, the corporation director shall
+LC004429 - Page 6 of 12
+
+1 provide a notice of determination to the council, within sixty (60) days, detailing the reasons for
+2 the disapproval. The council shall revise and resubmit the plan to the corporation director not later
+3 than forty-five (45) days after receipt of notice of the corporation director’s denial notice. Not later
+4 than forty-five (45) days after receipt of the revised plan, the corporation director shall review and
+5 approve or deny the revised plan. The council may resubmit a revised plan to the corporation
+6 director for approval on not more than two (2) occasions. If the council fails to submit a plan that
+7 is acceptable to the corporation director, because it does not meet the criteria pursuant to
+8 subdivisions (b)(1-8), the corporation director shall have the ability to modify the submitted plan
+9 and approve it. Not later than one hundred twenty (120) days after the approval of a plan pursuant
+10 to this section, the council shall implement the mattress stewardship program.
+11 (f) It is the responsibility of the council to:
+12 (1) Notify the corporation director whenever there is a proposed substantial change to the
+13 program. If the corporation director takes no action on a proposed substantial change within ninety
+14 (90) days after notification of the proposed change, the proposed change shall be deemed approved.
+15 For the purposes of this subdivision, “substantial change” shall include, but not be limited to:
+16 (i) A change in the processing facilities to be used for discarded mattresses collected
+17 pursuant to the program; or
+18 (ii) A material change to the system for collecting mattresses.
+19 (2) Not later than October 1, 2017, the council shall submit to the corporation director for
+20 review, updated performance goals that are based on the experience of the program during the first
+21 two (2) years of the program.
+22 (g) The council shall notify the corporation director of any other changes to the program
+23 on an ongoing basis, whenever they occur, without resubmission of the plan to the corporation
+24 director for approval. Such changes shall include, but not be limited to, a change in the composition,
+25 officers, or contact information of the council.
+26 (h) On or before July 1, 2015, and every two (2) years thereafter, the council shall propose
+27 a uniform fee for all mattresses sold in this state. The council may propose a change to the uniform
+28 fee more frequently than once every two (2) years if the council determines such change is needed
+29 to avoid funding shortfalls or excesses. Any proposed fee shall be reviewed by an independent
+30 auditor to ensure that such assessment does not exceed the costs of the mattress stewardship
+31 program described in subsection (b) of this section and to maintain financial reserves sufficient to
+32 operate the program over a multi-year period in a fiscally prudent and responsible manner. Not
+33 later than sixty (60) days after the council proposes a mattress stewardship fee, the auditor shall
+34 render an opinion to the corporation director as to whether the proposed mattress stewardship fee
+LC004429 - Page 7 of 12
+
+1 is reasonable to achieve the goals set forth in this section. If the auditor concludes that the mattress
+2 stewardship fee is reasonable, then the proposed fee shall go into effect not less than ninety (90)
+3 days after the auditor notifies the corporation director that the fee is reasonable. If the auditor
+4 concludes that the mattress stewardship fee is not reasonable, the auditor shall provide the council
+5 with written notice explaining the auditor’s opinion. Specific documents or information provided
+6 to the auditor by the council, along with any associated internal documents or information held by
+7 the council, shall be made available to the corporation for its review upon request but shall not be
+8 made public if the documents and information contain trade secrets or commercial or financial
+9 information of a privileged or confidential nature, pursuant to chapter 2 of title 38 (“access to public
+10 records”). Not later than fourteen (14) days after the council’s receipt of the auditor’s opinion, the
+11 council may either propose a new mattress stewardship fee, or provide written comments on the
+12 auditor’s opinion. If the auditor concludes that the fee is not reasonable, the corporation director
+13 shall decide, based on the auditor’s opinion and any comments provided by the council, whether to
+14 approve the proposed mattress stewardship fee. Such auditor shall be selected by the council. The
+15 cost of any work performed by such auditor pursuant to the provisions of this subsection and
+16 subsection (i) of this section shall be funded by the council.
+17 (i)(1) On and after the implementation of the mattress stewardship program, each retailer
+18 shall add the amount of the fee established pursuant to subsection (b) of this section and described
+19 in subsection (h) of this section to the purchase price of all mattresses sold in this state. The fee
+20 shall be remitted by the retailer to the council. The council may, subject to the corporation director’s
+21 approval, establish an alternative, practicable means of collecting or remitting such fee.
+22 (2) On and after the implementation date of the mattress stewardship program, no producer,
+23 distributor, or retailer shall sell or offer for sale a mattress to any person in the state if the producer
+24 is not a member of the council.
+25 (3) No retailer or distributor shall be found to be in violation of the provisions of this
+26 section, if, on the date the mattress was ordered from the producer or its agent, the producer of said
+27 mattress was listed on the corporation’s website in accordance with the provisions of this chapter.
+28 (j) Not later than October 1, 2016, and annually thereafter, the council shall submit an
+29 annual report to the corporation director. The corporation director shall post such annual report on
+30 the corporation’s website. Such report shall include, but not be limited to:
+31 (1) The weight of mattresses collected pursuant to the program from:
+32 (i) Municipal and/or transfer stations;
+33 (ii) Retailers; and
+34 (iii) All other covered entities;
+LC004429 - Page 8 of 12
+
+1 (2) The weight of mattresses diverted for recycling;
+2 (3) Identification of the mattress recycling facilities to which mattresses were delivered for
+3 recycling;
+4 (4) The weight of discarded mattresses recycled, as indicated by the weight of each of the
+5 commodities sold to secondary markets;
+6 (5) The weight of mattresses, or parts thereof, sent for disposal at each of the following:
+7 (i) Rhode Island resource recovery corporation; and
+8 (ii) Any other facilities;
+9 (6) Samples of public education materials and methods used to support the program;
+10 (7) A description of efforts undertaken and evaluation of the methods used to disseminate
+11 such materials;
+12 (8) Updated performance goals and an evaluation of the effectiveness of the methods and
+13 processes used to achieve performance goals of the program; and
+14 (9) Recommendations for any changes to the program.
+15 (k) Two (2) years after the implementation of the program and upon the request of the
+16 corporation director, but not more frequently than once a year, the council shall cause an audit of
+17 the program to be conducted by the auditor described in subsection (h) of this section. Such audit
+18 shall review the accuracy of the council’s data concerning the program and provide any other
+19 information requested by the corporation director. Such audit shall be paid for by the council. The
+20 council shall maintain all records relating to the program for not less than three (3) years.
+21 (l) No covered entity that participates in the program shall charge for receipt of mattresses
+22 generated in the state. Covered entities may charge a fee for providing the service of collecting
+23 mattresses and may restrict the acceptance of mattresses by number, source, or physical condition.
+24 (m) Covered entities that, upon the date of this act’s passage, have an existing program for
+25 recycling discarded mattresses may continue to operate such program without coordination of the
+26 council, so long as the entities are able to demonstrate, in writing, to the corporation director that
+27 the facilities to which discarded mattresses are delivered are engaged in the business of recycling
+28 said mattresses and the corporation director approves the written affirmation that the facility
+29 engages in mattress recycling of mattresses received by the covered entity. A copy of the written
+30 affirmation and the corporation’s approval shall be provided to the council by the corporation
+31 director in a timely manner.
+32 23-90-6. Responsibilities of the Rhode Island resource recovery corporation.
+33 (a) The corporation shall review for approval the mattress stewardship plan of the council.
+34 (b) The corporation shall maintain on its website information on collection opportunities
+LC004429 - Page 9 of 12
+
+1 for mattresses, including collection site locations. The information must be made available in a
+2 printable format for retailers and consumers.
+3 (c) Not later than the implementation date of the mattress stewardship program, the
+4 corporation shall list the names of participating producers covered by the program and the cost of
+5 the approved mattress stewardship fee on its website.
+6 (d) The corporation shall approve the mattress stewardship fee to be applied by the council
+7 to mattresses pursuant to this chapter.
+8 (e) Pursuant to § 23-90-11, the corporation shall report biennially to the general assembly
+9 on the operation of the statewide system for collection, transportation and recycling of mattresses.
+10 23-90-7. Regulations.
+11 The corporation is hereby authorized to promulgate additional rules and regulations
+12 pursuant to the administrative procedures act, chapter 35 of title 42, to implement the provisions of
+13 this chapter.
+14 23-90-8. Immunity.
+15 Each producer, retailer and the council shall be immune from liability for any claim of a
+16 violation of antitrust law, to the extent such producer or council is exercising authority pursuant to
+17 the provisions of this chapter, including but not limited to:
+18 (1) The creation, implementation or management of a plan pursuant to § 23-90-5, and the
+19 types or quantities of used mattresses recycled or otherwise managed pursuant to a plan;
+20 (2) The cost and structure of a plan; and
+21 (3) The establishment, administration, collection or disbursement of the mattress
+22 stewardship fee associated with funding the implementation of the plan.
+23 23-90-9. Violations.
+24 A violation of any of the provisions of this chapter or any rule or regulation promulgated
+25 pursuant to § 23-90-7 shall be punishable by a civil penalty not to exceed one thousand dollars
+26 ($1,000). In the case of a second and any subsequent violation, the civil penalty shall not exceed
+27 five thousand dollars ($5,000) for each violation.
+28 23-90-10. Collaboration.
+29 In the event that another state implements a mattress recycling program, the council may
+30 collaborate with such state to conserve efforts and resources used in carrying out the mattress
+31 stewardship program, provided such collaboration is consistent with the requirements of this
+32 chapter.
+33 23-90-11. Report to the General Assembly.
+34 Not later than three (3) years after the approval of the plan pursuant to § 23-90-5 of this
+LC004429 - Page 10 of 12
+
+1 chapter, the corporation director shall submit a report to the general assembly. Such report shall
+2 provide an evaluation of the mattress stewardship program.
+3 SECTION 2. This act shall take effect upon passage.
+========
+LC004429
+========
+LC004429 - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- RESPONSIBLE RECYCLING, REUSE AND
+DISPOSAL OF MATTRESSES
+***
+1 This act would repeal the system for responsible recycling, reuse and disposal of
+2 mattresses.
+3 This act would take effect upon passage.
+========
+LC004429
+========
+LC004429 - Page 12 of 12

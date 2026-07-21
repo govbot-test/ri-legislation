@@ -1,0 +1,525 @@
+Title: 
+Official Title: 
+Source: versions - 3148
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3148
+========
+LC005015
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- COASTAL RESOURCES MANAGEMENT
+COUNCIL
+Introduced By: Senator V. Susan Sosnowski
+Date Introduced: March 27, 2026
+Referred To: Senate Environment & Agriculture
+(CRMC)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 46-23-1 and 46-23-6 of the General Laws in Chapter 46-23 entitled
+2 "Coastal Resources Management Council" are hereby amended to read as follows:
+3 46-23-1. Legislative findings.
+4 (a)(1) Under article 1, § 17 of the Rhode Island Constitution, the people shall continue to
+5 enjoy and freely exercise all the rights of fishery, and the privileges of the shore, to which they
+6 have been heretofore entitled under the charter and usages of this state, including, but not limited
+7 to, fishing from the shore, the gathering of seaweed, leaving the shore to swim in the sea and
+8 passage along the shore; and they shall be secure in their rights to use and enjoyment of the natural
+9 resources of the state with due regard for the preservation of their values; and it is the duty of the
+10 general assembly to provide for the conservation of the air, land, water, plant, animal, mineral and
+11 other natural resources of the state, and to adopt all means necessary and proper by law to protect
+12 the natural environment of the people of the state by providing adequate resource planning for the
+13 control and regulation of the use of the natural resources of the state and for the preservation,
+14 regeneration, and restoration of the natural environment of the state.
+15 (2) The general assembly recognizes and declares that the coastal resources of Rhode
+16 Island, a rich variety of natural, commercial, industrial, recreational, and aesthetic assets, are of
+17 immediate and potential value to the present and future development of this state; that unplanned
+18 or poorly planned development of this basic natural environment has already damaged or destroyed,
+
+1 or has the potential of damaging or destroying, the state’s coastal resources, and has restricted the
+2 most efficient and beneficial utilization of these resources; that it shall be the policy of this state to
+3 preserve, protect, develop, and, where possible, restore the coastal resources of the state for this
+4 and succeeding generations through comprehensive and coordinated long range planning and
+5 management designed to produce the maximum benefit for society from these coastal resources;
+6 and that preservation and restoration of ecological systems shall be the primary guiding principle
+7 upon which environmental alteration of coastal resources will be measured, judged, and regulated.
+8 (b)(1) That effective implementation of these policies is essential to the social and
+9 economic well-being of the people of Rhode Island because the sea and its adjacent lands are major
+10 sources of food and public recreation, because these resources are used by and for industry,
+11 transportation, waste disposal, and other purposes, and because the demands made on these
+12 resources are increasing in number, magnitude, and complexity; and that these policies are
+13 necessary to protect the public health, safety, and general welfare. Pursuant to 16 U.S.C. § 1452
+14 (“The Coastal Zone Management Act”), the general assembly hereby directs the council (referred
+15 to as “CRMC”) to exercise effectively its responsibilities in the coastal zone through the
+16 development and implementation of management programs to achieve wise use of the land and
+17 water resources of the coastal zone.
+18 (2) Furthermore, that implementation of these policies is necessary in order to secure the
+19 rights of the people of Rhode Island to the use and enjoyment of the natural resources of the state
+20 with due regard for the preservation of their values, and in order to allow the general assembly to
+21 fulfill its duty to provide for the conservation of the air, land, water, plant, animal, mineral, and
+22 other natural resources of the state, and to adopt all means necessary and proper by law to protect
+23 the natural environment of the people of the state by providing adequate resource planning for the
+24 control and regulation of the use of the natural resources of the state and for the preservation,
+25 regeneration, and restoration of the natural environment of the state.
+26 (c) That these policies can best be achieved through the creation of a coastal resources
+27 management council as the principal mechanism for management of the state’s coastal resources.
+28 (d) The general assembly recognizes and declares that maintenance dredging is required to
+29 remove natural silt accumulations; Rhode Island has not had a general maintenance dredging policy
+30 and programs for ports, port facilities, channels, harbors, public and private marinas and boating
+31 facilities, recreational facilities and habitat areas; other major coastal states have maintenance
+32 dredging policies and in-water maintenance dredge disposal sites; as a result of the lack of a general
+33 maintenance dredging policy and program and as a result there has been:
+34 (1) A decrease in the depth of the Providence Channel from forty-four (44) feet in 1971 to
+LC005015 - Page 2 of 15
+
+1 twenty-four (24) feet in 1996;
+2 (2) Navigational restrictions on ocean going vessels through the state’s waterways and
+3 channels; and
+4 (3) A decrease in the number of available slips and moorings at marinas throughout the
+5 state; and the lack of a maintenance dredging policy and programs have significant adverse
+6 environmental and economic effects on the state and therefore it is in the best interest of the state,
+7 the cities and towns of the state, and the citizens thereof for the state to have a general maintenance
+8 dredging policy and programs to resolve issues related to dredge maintenance and disposal and
+9 avoid future significant direct and indirect adverse impact on the environment and economy of the
+10 state.
+11 (e) The coastal resources management council is hereby designated as the lead state agency
+12 for purposes of dredging in tidal waters and as such shall have the following duties and
+13 responsibilities:
+14 (1) To coordinate the interest of the state with regard to dredging;
+15 (2) To formulate and adopt a state policy with regard to dredging which integrates those
+16 interests;
+17 (3) To cooperate with, negotiate, and to enter into agreements on behalf of the state with
+18 the federal government and with other public bodies and private parties with regard to dredging;
+19 (4) To act as the initial and primary point of contact for all applications to the state for
+20 dredging projects in tidal waters;
+21 (5) To develop, prepare, adopt pursuant to § 46-23-11, implement, and maintain a
+22 comprehensive plan for dredge material management; and
+23 (6) To cooperate and coordinate with the departments of environmental management,
+24 transportation, administration, and health, and the economic development corporation in the
+25 conduct of these duties and responsibilities.
+26 (f)(1) The legislature recognizes that under Article I, § 17, the submerged lands of the state
+27 are impressed with a public trust and that the state is responsible for the protection of the public’s
+28 interest in these lands. The state maintains title in fee to all soil within its boundaries that lies below
+29 the high water mark, and it holds that land in trust for the use of the public. In benefiting the public,
+30 the state preserves certain public rights which include, but are not limited to, fishery, commerce,
+31 and navigation in these waters and the submerged lands that they cover.
+32 (2)(i) Since its establishment in 1971, the CRMC has had the authority to manage and plan
+33 for the preservation of the coastal resources of the state including, but not limited to, submerged
+34 lands. The legislature hereby declares that, in light of the unique size, scope, and overall potential
+LC005015 - Page 3 of 15
+
+1 impact upon the environment of large scale filling projects involving twenty-five (25) acres or
+2 more, or any and all projects involving the lease of tidal lands of twenty-five (25) acres or more,
+3 any lease of tidal lands, or any license to use those lands, is subject to approval, disapproval, or
+4 conditional approval by the direct enactment of the general assembly by legislative action. The
+5 CRMC shall review all requests for leases, licenses to use the land, and other authority to use the
+6 land made by any applicant prior to presentation of the request to the general assembly, and the
+7 CRMC shall make recommendations on the request to the general assembly. An appropriate fee for
+8 such use and/or lease may be recommended.
+9 (ii) With the exception of any and all projects to fill land of twenty-five (25) acres or more,
+10 or any and all projects involving the lease of tidal lands of twenty-five (25) acres or more, the
+11 general assembly hereby recognizes and declares that the CRMC is delegated the sole and exclusive
+12 authority for the leasing of submerged and filled lands and giving licenses for the use of that land.
+13 Accordingly, the CRMC will develop, coordinate, and adopt a system for the leasing of submerged
+14 and filled lands, and licenses for the use of that land, and will ensure that all leases and licenses are
+15 consistent with the public trust. Pursuant thereto, the
+16 (iii) The CRMC shall impose a maximum fee of eighty thousand dollars ($80,000) per
+17 annum for any transatlantic telephone or fiber-optic communication cable that makes landfall in
+18 Rhode Island. All such fees collected shall be deposited into the Bays, Rivers and Watersheds Fund,
+19 established pursuant to § 46-31-12.1, and shall be disbursed according to the purposes of that fund.
+20 (iv) Nothing contained in this subsection negates, repeals, or alters the provisions,
+21 processes, and requirements for the leasing of submerged land for the conduct of aquaculture as set
+22 out under chapter 10 of title 20. Therefore, nothing in this chapter shall be construed to limit or
+23 impair the authority of the state, or any duly established agency of the state, to regulate filling or
+24 dredging affecting tidal lands owned by the state or any other entity, and nothing in this chapter
+25 shall be construed to limit or impair the obligation of the applicant to obtain all applicable
+26 regulatory approvals. Specifically, and without limiting the foregoing, nothing in this subsection
+27 negates, repeals, or alters the provisions, processes, and requirements for water quality certification
+28 contained in chapter 12 of this title.
+29 (3) Definitions.
+30 (i) “Filled land” means portions of tidal lands which have been rendered by the acts of man
+31 to be no longer subject to tidal action or beneath tidal waters.
+32 (ii) “Tidal Lands” means those lands that are below the mean high water.
+33 (iii) “Mean high water” means a line of contour representing the 18.6 year average as
+34 determined by the metonic cycle and/or its equivalent as evidenced by the records, tidal datum, and
+LC005015 - Page 4 of 15
+
+1 methodology of the United States Coastal Geodetic Survey within the National Oceanic and
+2 Atmospheric Administration.
+3 46-23-6. Powers and duties — Rights-of-way.
+4 In order to properly manage coastal resources the council has the following powers and
+5 duties:
+6 (1) Planning and management.
+7 (i) The primary responsibility of the council shall be the continuing planning for and
+8 management of the resources of the state’s coastal region. The council shall be able to make any
+9 studies of conditions, activities, or problems of the state’s coastal region needed to carry out its
+10 responsibilities.
+11 (ii) The resources management process shall include the following basic phases:
+12 (A) Identify all of the state’s coastal resources, water, submerged land, air space, fin fish,
+13 shellfish, minerals, physiographic features, and so forth.
+14 (B) Evaluate these resources in terms of their quantity, quality, capability for use, and other
+15 key characteristics.
+16 (C) Determine the current and potential uses of each resource.
+17 (D) Determine the current and potential problems of each resource.
+18 (E) Formulate plans and programs for the management of each resource, identifying
+19 permitted uses, locations, protection measures, and so forth.
+20 (F) Carry out these resources management programs through implementing authority and
+21 coordination of state, federal, local, and private activities.
+22 (G) Formulation of standards where these do not exist, and reevaluation of existing
+23 standards.
+24 (H) To develop comprehensive programs for dredging in tidal waters and related beneficial
+25 use, disposal, monitoring dewatering and transportation of dredge materials.
+26 (I) To accept and administer loans and grants from the federal government and from other
+27 sources, public or private, for the carrying out of any of its functions, which loans or grants shall
+28 not be expended for other than the purposes for which provided.
+29 (J) To encourage, participate in, or conduct studies, investigations, research, and
+30 demonstrations relating to dredging, disposal of dredge materials and transportation thereof in the
+31 tidal waters of the state as the coastal resources management council may deem advisable and
+32 necessary for the discharge of its duties under this chapter.
+33 (K) To collect and disseminate information relating to dredging, disposal of dredge
+34 materials and transportation thereof within the tidal waters of the state.
+LC005015 - Page 5 of 15
+
+1 (L) To work with the appropriate federal and state agencies to develop as provided for in
+2 this chapter and in chapter 6.1 of this title, a comprehensive plan for dredging in tidal waters and
+3 related beneficial use, disposal, monitoring dewatering and transportation of dredge materials.
+4 (M) To apply for, accept and expend grants and bequests of funds, for the purpose of
+5 carrying out the lawful responsibilities of the coastal resources management council.
+6 (iii) An initial series of resources management activities shall be initiated through this basic
+7 process, then each phase shall continuously be recycled and used to modify the council’s resources
+8 management programs and keep them current.
+9 (iv) Planning and management programs shall be formulated in terms of the characteristics
+10 and needs of each resource or group of related resources. However, all plans and programs shall be
+11 developed around basic standards and criteria, including:
+12 (A) The need and demand for various activities and their impact upon ecological systems.
+13 (B) The degree of compatibility of various activities.
+14 (C) The capability of coastal resources to support various activities.
+15 (D) Water quality standards set by the director of the department of environmental
+16 management.
+17 (E) Consideration of plans, studies, surveys, inventories, and so forth prepared by other
+18 public and private sources.
+19 (F) Consideration of contiguous land uses and transportation facilities.
+20 (G) Whenever possible consistency with the state guide plan.
+21 (v) The council shall prepare, adopt, administer, and cause to be implemented, including
+22 specifically through its powers of coordination as set forth in subdivision (3) of this section, a
+23 marine resources development plan and such special area management plans as the council may
+24 determine to be appropriate or desirable as follows:
+25 (A) Marine resources development plan.
+26 (I) The purpose of the marine resources development plan shall be to provide an integrated
+27 strategy for: (a) improving the health and functionality of Rhode Island’s marine ecosystem; (b)
+28 providing for appropriate marine-related economic development; and (c) promoting the use and
+29 enjoyment of Rhode Island’s marine resources by the people of the state.
+30 (II) The marine resources development plan shall include specific goals and objectives
+31 necessary to accomplish its purposes, performance measures to determine progress toward
+32 achieving such goals and objectives, and an implementation program.
+33 (III) The marine resources development plan shall be prepared in cooperation with the
+34 department of environmental management, the statewide planning program, and the commerce
+LC005015 - Page 6 of 15
+
+1 corporation, with the involvement of such other state agencies as may be appropriate, and with such
+2 technical support as may be necessary and appropriate from the Narragansett Bay Estuary Program,
+3 the Coastal Institute at the University of Rhode Island, and Rhode Island Sea Grant.
+4 (IV) The plan shall be responsive to the requirements and principles of the federal coastal
+5 zone management act as amended, including, but not limited to, the expectations of the act for
+6 incorporating the federal Clean Water Act into coastal zone management programs.
+7 (V) The marine resources development plan shall take into account local land use
+8 management responsibilities as provided for under title 45 and harbor management responsibilities,
+9 and the preparation of the plan shall include opportunities for involvement and/or comment by
+10 cities and towns.
+11 (VI) The marine resources development plan shall be adopted by the council in accordance
+12 with the provisions of this subsection by July 1, 2005, shall as appropriate incorporate the
+13 recommendations of the Governor’s Narragansett Bay and Watershed Planning Commission, and
+14 shall be made consistent with systems level plans as appropriate, in order to effectuate the purposes
+15 of systems level planning. The council shall update the marine resources development plan at least
+16 once every five (5) years.
+17 (VII) The council shall administer its programs, regulations, and implementation activities
+18 in a manner consistent with the marine resources development plan.
+19 (VIII) The marine resources development plan and any updates thereto shall be adopted as
+20 appropriate as elements of the state guide plan pursuant to § 42-11-10.
+21 (B) Special area management plans.
+22 (I) The council shall adopt such special area management plans as deemed necessary and
+23 desirable to provide for the integration and coordination of the protection of natural resources, the
+24 promotion of reasonable coastal-dependent economic growth, and the improved protection of life
+25 and property in the specific areas designated council as requiring such integrated planning and
+26 coordination.
+27 (II) The integrated planning and coordination herein specified shall include, but not be
+28 limited to, federal agencies, state agencies, boards, commissions, and corporations, including
+29 specifically the commerce corporation, and cities and towns, shall utilize to the extent appropriate
+30 and feasible the capacities of entities of higher education, including Rhode Island Sea Grant, and
+31 shall provide for the participation of advocacy groups, community-based organizations, and private
+32 persons.
+33 (III) The council shall administer its programs, regulations, and implementation activities
+34 in a manner consistent with special area management plans.
+LC005015 - Page 7 of 15
+
+1 (IV) Special area management plans and any updates thereto shall be adopted as
+2 appropriate as elements of the state guide plan pursuant to § 42-11-10.
+3 (2) Implementation.
+4 (i) The council is authorized to formulate policies and plans and to adopt regulations
+5 necessary to implement its various management programs. With respect to such policies and plans
+6 which relate to matters where the coastal resources management council and the department of
+7 environmental management have concurrent jurisdiction and upon formulation of the plans and
+8 regulations, the council shall, prior to adoption, submit the proposed plans or regulations to the
+9 director of the department of environmental management for the director’s review. The director
+10 shall review and submit comments to the council within thirty (30) days of submission to the
+11 director by the council. The comments of the director shall include findings with regard to the
+12 consistency of the policies, plans and/or regulations with the requirements of laws administered by
+13 the department. The council shall consider the director’s comments prior to adoption of any such
+14 policies, plans or regulations and shall respond in writing to findings of the director with regard to
+15 the consistency of said policies, plans and/or regulations with the requirements of laws
+16 administered by the department.
+17 (ii)(A) The council shall have exclusive jurisdiction below mean high water for all
+18 development, operations, and dredging, consistent with the requirements of chapter 6.1 of this title
+19 and except as necessary for the department of environmental management to exercise its powers
+20 and duties and to fulfill its responsibilities pursuant to §§ 42-17.1-2 and 42-17.1-24, and any
+21 person, firm, or governmental agency proposing any development or operation within, above, or
+22 beneath the tidal water below the mean high water mark, extending out to the extent of the state’s
+23 jurisdiction in the territorial sea, shall be required to demonstrate that its proposal would not:
+24 (I) Conflict with any resources management plan or program;
+25 (II) Make any area unsuitable for any uses or activities to which it is allocated by a
+26 resources management plan or program adopted by the council; or
+27 (III) Significantly damage the environment of the coastal region.
+28 (B) The council shall be authorized to approve, modify, set conditions for, or reject any
+29 such proposal.
+30 (iii) The authority of the council over land areas (those areas above the mean high water
+31 mark) shall be limited to two hundred feet (200′) from the coastal physiographic feature or to that
+32 necessary to carry out effective resources management programs. This shall be limited to the
+33 authority to approve, modify, set conditions for, or reject the design, location, construction,
+34 alteration, and operation of specified activities or land uses when these are related to a water area
+LC005015 - Page 8 of 15
+
+1 under the agency’s jurisdiction, regardless of their actual location. The council’s authority over
+2 these land uses and activities shall be limited to situations in which there is a reasonable probability
+3 of conflict with a plan or program for resources management or damage to the coastal environment.
+4 These uses and activities are:
+5 (A) Power generating over forty megawatts (40 MW) and desalination plants.
+6 (B) Chemical or petroleum processing, transfer, or storage.
+7 (C) Minerals extraction.
+8 (D) Shoreline protection facilities and physiographical features, and all directly associated
+9 contiguous areas which are necessary to preserve the integrity of the facility and/or features.
+10 (E) Coastal wetlands and all directly associated contiguous areas which are necessary to
+11 preserve the integrity of the wetlands including any freshwater wetlands located in the vicinity of
+12 the coast. The actual determination of freshwater wetlands located in coastal vicinities and under
+13 the jurisdiction of the coastal resources management council shall be designated on such maps that
+14 are agreed to in writing and made available for public use by the coastal resources management
+15 council and the director, department of environmental management, within three (3) months of
+16 [August 6, 1996]. The CRMC shall have exclusive jurisdiction over the wetlands areas described
+17 in this section notwithstanding any provision of chapter 1, title 2 or any other provision, except as
+18 provided in subsection (iv) of this section. Within six (6) months of [August 6, 1996] the council
+19 in cooperation with the director shall develop rules and regulations for the management and
+20 protection of freshwater wetlands, affected by an aquaculture project, outside of those freshwater
+21 wetlands located in the vicinity of the coast and under the exclusive jurisdiction of the director of
+22 the department of environmental management. For the purpose of this chapter, a “coastal wetland”
+23 means any salt marsh bordering on the tidal waters of this state, whether or not the tidal waters
+24 reach the littoral areas through natural or artificial watercourses, and those uplands directly
+25 associated and contiguous thereto which are necessary to preserve the integrity of that marsh.
+26 Marshes shall include those areas upon which grow one or more of the following: smooth cordgrass
+27 (spartina alterniflora), salt meadow grass (spartina patens), spike grass (distichlis spicata), black
+28 rush (juncus gerardi), saltworts (salicornia spp.), sea lavender (limonium carolinianum), saltmarsh
+29 bulrushes (scirpus spp.), hightide bush (iva frutescens), tall reed (phragmites communis), tall
+30 cordgrass (spartina pectinata), broadleaf cattail (typha latifolia), narrowleaf cattail (typha
+31 angustifolia), spike rush (eleocharis rostellata), chairmaker’s rush (scirpus amercana), creeping
+32 bentgrass (agrostis palustris), sweet grass (hierochloe odorata), and wild rye (etlymus virginicus).
+33 (F) Sewage treatment and disposal and solid waste disposal facilities.
+34 (G) Beneficial use, dewatering, and disposal of dredged material of marine origins, where
+LC005015 - Page 9 of 15
+
+1 such activities take place within two hundred feet (200′) of mean high water or a coastal
+2 physiographic feature, or where there is a reasonable probability of conflict with a plan or program
+3 for resources management or damage to the coastal environment.
+4 (iv) Notwithstanding the provisions of subsections (ii) and (iii) above, the department of
+5 environmental management shall maintain jurisdiction over the administration of chapter 1, title 2,
+6 including permitting of freshwater wetlands alterations and enforcement, with respect to all
+7 agricultural activities undertaken by a farmer, as that term is defined in § 2-1-22(j), wherever
+8 located; provided, however, that with respect to activities located partially or completely within
+9 two hundred feet (200′) of the coastal physiographic feature, the department shall exercise
+10 jurisdiction in consultation with the council.
+11 (3) Coordination. The council has the following coordinating powers and duties:
+12 (i) Functioning as a binding arbitrator in any matter of dispute involving both the resources
+13 of the state’s coastal region and the interests of two (2) or more municipalities or state agencies.
+14 (ii) Consulting and coordinating actions with local, state, regional, and federal agencies
+15 and private interests.
+16 (iii) Conducting or sponsoring coastal research.
+17 (iv) Advising the governor, the general assembly, and the public on coastal matters.
+18 (v) Serving as the lead state agency and initial and primary point of contact for dredging
+19 activities in tidal waters and in that capacity, integrating and coordinating the plans and policies of
+20 other state agencies as they pertain to dredging in order to develop comprehensive programs for
+21 dredging as required by subparagraph (1)(ii)(H) of this section and chapter 6.1 of this title. The
+22 Rhode Island resource recovery corporation prior to purchasing cover material for the state landfill
+23 shall first contact the CRMC to see if there is a source of suitable dredged material available which
+24 shall be used in place of the purchase cover material. Other state agencies engaged in the process
+25 of dump closures shall also contact the CRMC to see if there is a source of suitable dredged material
+26 available, which shall be used in place of the purchase cover material. In addition, cities and towns
+27 may contact the CRMC prior to closing city or town controlled dump sites to see if there is a source
+28 of suitable dredge material available, which may be used in place of the purchase cover material.
+29 (vi) Acting as the state’s representative to all bodies public and private on all coastal and
+30 aquaculture related matters.
+31 (4) Operations. The council is authorized to exercise the following operating functions,
+32 which are essential to management of coastal resources:
+33 (i) Issue, modify, or deny permits for any work in, above, or beneath the areas under its
+34 jurisdiction, including conduct of any form of aquaculture.
+LC005015 - Page 10 of 15
+
+1 (ii) Issue, modify, or deny permits for dredging, filling, or any other physical alteration of
+2 coastal wetlands and all directly related contiguous areas which are necessary to preserve the
+3 integrity of the wetlands, including, but not limited to, the transportation and disposal of dredge
+4 materials in the tidal waters.
+5 (iii) Grant licenses, permits, and easements for the use of coastal resources which are held
+6 in trust by the state for all its citizens, and impose fees for private use of these resources.
+7 (iv) Determining the need for and establishing pierhead, bulkhead, and harbor lines.
+8 (v) Enforcing and implementing riparian rights in the tidal waters after judicial decisions.
+9 (vi) The council may require an owner or operator of a commercial wharf or pier of a
+10 marine commercial facility, as defined in 300.3 of the Rhode Island coastal resources management
+11 program, but not including those facilities defined in 300.4 of the Rhode Island coastal resources
+12 management program, and which is capable of offloading cargo, and is or will be subject to a new
+13 use or a significant intensification of an existing use, to demonstrate that the commercial wharf or
+14 pier is fit for that purpose. For the purposes of this subsection, a “commercial wharf or pier” means
+15 a pier, bulkhead, wharf, docking facility, or underwater utilities. The council may order said owner
+16 or operator to provide an engineering certification to the council’s satisfaction that the commercial
+17 wharf or pier is fit for the new use or intensification of an existing use. If the council determines
+18 that the commercial wharf or pier is not fit, it may order the owner or operator to undertake the
+19 necessary work to make the commercial wharf or pier safe, within a reasonable time frame. If the
+20 council determines that the commercial wharf or pier, because of its condition, is an immediate
+21 threat to public health and safety it may order the commercial wharf or pier closed until the
+22 necessary work to make the commercial wharf or pier safe has been performed and approved by
+23 the council. All work performed must conform to the council’s management program. The council
+24 is also given the authority to develop regulations to carry out this provision and to impose
+25 administrative penalties of five thousand dollars ($5,000) per day up to a maximum of twenty
+26 thousand dollars ($20,000) consistent with § 46-23-7.1 where there has been a violation of the
+27 orders under this provision.
+28 (5) Rights-of-way.
+29 (i) The council is responsible for the designation of all public rights-of-way to the tidal
+30 water areas of the state, and shall carry on a continuing discovery of appropriate public rights-of-
+31 way to the tidal water areas of the state.
+32 (ii) The council shall maintain a complete file of all official documents relating to the legal
+33 status of all public rights-of-way to the tidal water areas of the state.
+34 (iii)(A) The council has the power to designate for acquisition and development, and
+LC005015 - Page 11 of 15
+
+1 posting, and all other functions of any other department for tidal rights-of-way and land for tidal
+2 rights-of-way, parking facilities, and other council related purposes.
+3 (B) Further, the council has the power to develop and prescribe a standard sign to be used
+4 by the cities and towns to mark designated rights-of-way.
+5 (iv) In conjunction with this subdivision, every state department controlling state-owned
+6 land close to or adjacent to discovered rights-of-way is authorized to set out the land, or so much
+7 of the land that may be deemed necessary for public parking.
+8 (v) No use of land for public parking shall conflict with existing or intended use of the land,
+9 and no improvement shall be undertaken by any state agency until detailed plans have been
+10 submitted to and approved by the governing body of the local municipality.
+11 (vi) In designating rights-of-way, the council shall consider the following matters in
+12 making its designation:
+13 (A) Land evidence records;
+14 (B) The exercise of domain over the parcel such as maintenance, construction, or upkeep;
+15 (C) The payment of taxes;
+16 (D) The creation of a dedication;
+17 (E) Public use;
+18 (F) Any other public record or historical evidence such as maps and street indexes;
+19 (G) Other evidence as set out in § 42-35-10.
+20 (vii) A determination by the council that a parcel is a right-of-way shall be decided by
+21 substantial evidence. A copy of the final council determination, and all official documents related
+22 to the council determination, shall be provided to the municipality in which the right-of-way is
+23 located.
+24 (viii) Municipalities shall be required to identify and maintain a current list of public rights-
+25 of-way to the tidal water areas in their municipality that have been designated by the council in
+26 accordance with this section. Municipal identification of the council’s designated public rights-of-
+27 way shall also be incorporated and displayed on official maps in accordance with § 45-23.1-1. Non-
+28 compliance with this municipal responsibility shall have no effect on the council designation
+29 process or final determinations by the council that are set forth in this section.
+30 (ix) The council shall be notified whenever by the judgment of the governing body of a
+31 coastal municipality, a public right-of-way to tidal water areas located in such municipality has
+32 ceased to be useful to the public, and such governing body proposes an order of abandonment of
+33 such public right-of-way. Said notice shall be given not less than sixty (60) days prior to the date
+34 of such abandonment.
+LC005015 - Page 12 of 15
+
+1 (6) Preexisting residential boating facilities.
+2 (i) The council is hereby authorized and empowered to issue assent for preexisting
+3 residential boating facilities constructed prior to January 1, 1985. These assents may be issued for
+4 preexisting residential boating facilities, even though such facilities do not meet current standards
+5 and policies of the council; provided, however, that the council finds that such facilities do not pose
+6 any significant risk to the coastal resources of the state of Rhode Island and do not endanger human
+7 safety.
+8 (ii) In addition to the above criteria, the applicant shall provide clear and convincing
+9 evidence that:
+10 (A) The facility existed in substantially the same configuration as it now exists prior to
+11 January 1, 1985;
+12 (B) The facility is presently intact and functional; and
+13 (C) The facility presents no significant threat to the coastal resources of the state of Rhode
+14 Island or human safety.
+15 (iii) The applicant, to be eligible for this provision, shall apply no later than January 31,
+16 1999.
+17 (iv) The council is directed to develop rules and regulations necessary to implement this
+18 subdivision.
+19 (v) It is the specific intent of this subsection to require that all preexisting residential
+20 boating facilities constructed on January 1, 1985, or thereafter conform to this chapter and the plans,
+21 rules and regulations of the council.
+22 (7) Lease of filled lands which were formerly tidal lands to riparian or littoral owners.
+23 (i) Any littoral or riparian owner in this state who desires to obtain a lease from the state
+24 of Rhode Island of any filled lands adjacent to his or her upland shall apply to the council, which
+25 may make the lease. Any littoral or riparian owner who wishes to obtain a lease of filled lands must
+26 obtain pre-approval, in the form of an assent, from the council. Any lease granted by the council
+27 shall continue the public’s interest in the filled lands including, but not limited to, the rights of
+28 navigation, fishery, and commerce. The public trust in the lands shall continue and run concurrently
+29 with the leasing of the lands by the state to private individuals, corporations, or municipalities.
+30 Upon the granting of a lease by the council, those rights consistent with the public trust and secured
+31 by the lease shall vest in the lessee. The council may approve a lease of filled lands for an initial
+32 term of up to fifty (50) years, with, or without, a single option to renew for an additional term of
+33 up to fifty (50) years. An appropriate fee for such use and/or lease may be required.
+34 (ii) Consistent with § 46-23-1 (f) et seq., large-scale filling projects involving twenty-five
+LC005015 - Page 13 of 15
+
+1 (25) acres or more, or any and all projects involving the lease of tidal lands of twenty-five (25)
+2 acres or more, any lease of tidal lands, or any license to use those lands, is subject to approval,
+3 disapproval, or conditional approval by the direct enactment of the general assembly by legislative
+4 action.
+5 (ii)(iii) The lessor of the lease, at any time, for cause, may by express act cancel and annul
+6 any lease previously made to the riparian owner when it determines that the use of the lands is
+7 violating the terms of the lease or is inconsistent with the public trust, or a fee for such lease has
+8 not been paid, and upon cancellation the lands, and rights in the land so leased, shall revert to the
+9 state. Any fees paid shall not be returned.
+10 (8) “Marinas” as defined in the coastal resources management program in effect as of June
+11 1, 1997, are deemed to be one of the uses consistent with the public trust. Subdivision (7) is not
+12 applicable to:
+13 (i) Any riparian owner on tidal waters in this state (and any successor in interest to the
+14 owner) which has an assent issued by the council to use any land under water in front of his or her
+15 lands as a marina, which assent was in effect on June 1, 1997;
+16 (ii) Any alteration, expansion, or other activity at a marina (and any successor in interest)
+17 which has an assent issued by the council, which assent was in effect on June 1, 1997; and
+18 (iii) Any renewal of assent to a marina (or successor in interest), which assent was issued
+19 by the council and in effect on June 1, 1997.
+20 (9) “Recreational boating facilities” including marinas, launching ramps, and recreational
+21 mooring areas, as defined by and properly permitted by the council, are deemed to be one of the
+22 uses consistent with the public trust. Subdivision (7) is not applicable to:
+23 (i) Any riparian owner on tidal waters in this state (and any successor in interest to the
+24 owner) which has an assent issued by the council to use any land under water in front of his or her
+25 lands as a recreational boating facility; any alteration, expansion or other activity at a recreational
+26 boating facility (and any successor in interest) which has an assent issued by the council, which
+27 assent was in effect as of June 1, 1997; and
+28 (ii) Any renewal of assent to a recreational boating facility (or successor in interest), which
+29 assent was issued by the council and in effect on June 1, 1997.
+30 SECTION 2. This act shall take effect upon passage.
+========
+LC005015
+========
+LC005015 - Page 14 of 15
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- COASTAL RESOURCES MANAGEMENT
+COUNCIL
+***
+1 This act would provide that the legislature would be the body that negotiates on behalf of
+2 the state for all activities occurring in, on and over state submerged land extending beyond twenty-
+3 five (25) acres.
+4 This act would take effect upon passage.
+========
+LC005015
+========
+LC005015 - Page 15 of 15

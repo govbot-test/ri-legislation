@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - 8309
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8309
+========
+LC006086
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- FEE SCHEDULE TRANSPARENCY AND FAIR BILLING
+ACT
+Introduced By: Representatives Place, Hopkins, Cotter, Santucci, Shanley, Stewart,
+Noret, and Knight
+Date Introduced: March 18, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 84
+4 FEE SCHEDULE TRANSPARENCY AND FAIR BILLING ACT
+5 27-84-1. Short title.
+6 This chapter shall be known and may be cited as the “Fee Schedule Transparency and Fair
+7 Billing Act.”
+8 27-84-2. Publication of fee schedules.
+9 (a) Every insurer shall publish and provide participating physicians, physician practices,
+10 physician corporations, physician partnerships or any other entity providing medical services, with
+11 a complete, current fee schedule listing the maximum allowable reimbursement for every covered
+12 service and procedure code.
+13 (b) Physicians, physician practices, physician corporations, physician partnerships or any
+14 other entity providing medical services shall include, but not be limited to, those healthcare
+15 providers in chapters 18, 19, 20 and 41 of title 27.
+16 (c) Updates must be provided within thirty (30) days of any change via secure provider
+17 portals.
+18 27-84-3. Fair reimbursement.
+
+1 An insurer shall reimburse any claim submitted at or below the published maximum
+2 allowable rate in full, without requiring inflated “usual and customary” charges. No reductions,
+3 bundling restrictions, or penalties shall be applied solely based on the charge amount when it does
+4 not exceed the published maximum.
+5 27-84-4. Insurer – Definition.
+6 For purposes of this chapter, “insurer” means every nonprofit medical service corporation,
+7 hospital service corporation, health maintenance organization, or other insurer offering and/or
+8 insuring health services; the term shall in addition include any entity defined as an insurer under §
+9 42-62-4.
+10 27-84-5. Enforcement.
+11 (a) The office of the health insurance commissioner shall oversee compliance and may
+12 impose penalties of up to twenty-five thousand dollars ($25,000) for each violation of this chapter.
+13 (b) Annual reports on fee schedule availability and billing disputes shall be published by
+14 the office of the health insurance commissioner by July 1 of each year.
+15 SECTION 2. This act shall take effect ninety (90) days after passage.
+========
+LC006086
+========
+LC006086 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- FEE SCHEDULE TRANSPARENCY AND FAIR BILLING
+ACT
+***
+1 This act would require that every insurer providing health coverage insurance provide
+2 every physician or physician group with a complete fee schedule listing the maximum allowable
+3 reimbursement for each covered service.
+4 This act would take effect ninety (90) days after passage.
+========
+LC006086
+========
+LC006086 - Page 3 of 3

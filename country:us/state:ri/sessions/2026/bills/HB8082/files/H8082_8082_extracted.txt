@@ -1,0 +1,305 @@
+Title: 
+Official Title: 
+Source: versions - 8082
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8082
+========
+LC005621
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- EXPUNGEMENT OF CRIMINAL RECORDS
+Introduced By: Representative Patricia A. Serpa
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 12-1.3-2 and 12-1.3-3 of the General Laws in Chapter 12-1.3 entitled
+2 "Expungement of Criminal Records" are hereby amended to read as follows:
+3 12-1.3-2. Motion for expungement.
+4 (a) Any person who is a first offender may file a motion for the expungement of all records
+5 and records of conviction for a felony or misdemeanor by filing a motion in the court in which the
+6 conviction took place; provided, that no person who has been convicted of a crime of violence shall
+7 have his or her records and records of conviction expunged; and provided, that all outstanding
+8 court-imposed or court-related fees, fines, costs, assessments, charges, and/or any other monetary
+9 obligations have been paid, unless such amounts are reduced or waived by order of the court.
+10 (b) Notwithstanding § 12-1.3-1(3) (“first offender”), any person who has been convicted
+11 of more than one misdemeanor, but fewer than six (6) misdemeanors, and has not been convicted
+12 of a felony may file a motion for the expungement of any or all of those misdemeanors by filing a
+13 motion in the court in which the convictions took place; provided that convictions for offenses
+14 under chapter 29 of title 12, § 31-27-2 or § 31-27-2.1 are not eligible for and may not be expunged
+15 under this subsection.
+16 (c) Subject to subsection (a), a person may file a motion for the expungement of records
+17 relating to a misdemeanor conviction after five (5) years from the date of the completion of his or
+18 her sentence, except for any violation of § 31-27-2 or § 31-27-2.1, which a person may move to
+19 expunge only after ten (10) years from the date of the completion of their sentence.
+
+1 (d) Subject to subsection (a), a person may file a motion for the expungement of records
+2 relating to a felony conviction after ten (10) years from the date of the completion of his or her
+3 sentence.
+4 (e) Subject to § 12-19-19(c), and without regard to subsections (a) through (c) of this
+5 section, a person may file a motion for the expungement of records relating to a deferred sentence
+6 upon its completion, after which the court will hold a hearing on the motion.
+7 (f) Subject to subsection (b) of this section, a person may file a motion for the expungement
+8 of records relating to misdemeanor convictions after ten (10) years from the date of the completion
+9 of their last sentence.
+10 (g) Notwithstanding the provisions of subsections (a) through (f) of this section, a person
+11 may file a motion for the expungement of records related to an offense that has been decriminalized
+12 subsequent to the date of their conviction, after which the court will hold a hearing on the motion
+13 in the court in which the original conviction took place.
+14 12-1.3-3. Motion for expungement — Notice — Hearing — Criteria for granting.
+15 (a) Any person filing a motion for expungement of the records of his or her conviction
+16 pursuant to § 12-1.3-2 shall give notice of the hearing date set by the court to the department of the
+17 attorney general and the police department that originally brought the charge against the person at
+18 least ten (10) days prior to that date.
+19 (b) The court, after the hearing at which all relevant testimony and information shall be
+20 considered, may, in its discretion, order the expungement of the records of conviction of the person
+21 filing the motion if it finds:
+22 (1)(i) That in the five (5) years preceding the filing of the motion, if the conviction was for
+23 a misdemeanor, or in the ten (10) years preceding the filing of the motion, if the conviction was for
+24 a felony or for any violation of § 31-27-2 or § 31-27-2.1, the petitioner has not been convicted nor
+25 arrested for any felony or misdemeanor; there are no criminal proceedings pending against the
+26 person; that the person does not owe any outstanding court-imposed or court-related fees, fines,
+27 costs, assessments, or charges, unless such amounts are reduced or waived by order of the court;
+28 and he or she has exhibited good moral character;
+29 (ii) That after a hearing held under the provisions of § 12-19-19(c), the court finds that the
+30 person has complied with all of the terms and conditions of the deferral agreement including, but
+31 not limited to, the payment in full of any court-ordered fines, fees, costs, assessments, and
+32 restitution to victims of crimes; there are no criminal proceedings pending against the person; and
+33 he or she has established good moral character. Provided, that no person who has been convicted
+34 of a crime of violence shall have their records relating to a deferred sentence expunged; or
+LC005621 - Page 2 of 9
+
+1 (iii) Subject only to §§ 12-1.3-2(b) and (f), that in the ten (10) years preceding the filing of
+2 the motion, if the convictions were for multiple misdemeanors, the petitioner has not been
+3 convicted nor arrested for any felony or misdemeanor; there are no criminal proceedings pending
+4 against the person; and they have exhibited good moral character; and, provided that convictions
+5 for offenses under chapter 29 of title 12, § 31-27-2 or § 31-27-2.1 are not eligible and may not be
+6 expunged under this subsection.
+7 (2) That the petitioner’s rehabilitation has been attained to the court’s satisfaction and the
+8 expungement of the records of his or her conviction is consistent with the public interest.
+9 (c) If the court grants the motion, it shall order all records and records of conviction relating
+10 to the conviction expunged and all index and other references to it removed from public inspection.
+11 A copy of the order of the court shall be sent to any law enforcement agency and other agency
+12 known by either the petitioner, the department of the attorney general, or the court to have
+13 possession of the records. Compliance with the order shall be according to the terms specified by
+14 the court.
+15 (d) The defendant shall be advised at the hearing that any and all bail money relating to a
+16 case that remains on deposit and is not claimed at the time of expungement shall be escheated to
+17 the state’s general treasury in accordance with chapter 12 of title 8.
+18 (e) In cases of expungement sought pursuant to § 12-1.3-2(g), the court shall, after a hearing
+19 at which it finds that all conditions of the original criminal sentence have been completed, and any
+20 and all fines, fees, and costs related to the conviction have been paid in full, order the expungement
+21 without cost to the petitioner. At the hearing, the court may require the petitioner to demonstrate
+22 that the prior criminal conviction would qualify as a decriminalized offense under current law. The
+23 demonstration may include, but is not limited to, an affidavit signed by the petitioner attesting to
+24 the fact that the prior conviction qualifies as a decriminalized offense under current Rhode Island
+25 law.
+26 SECTION 2. Section 31-27-2.1 of the General Laws in Chapter 31-27 entitled "Motor
+27 Vehicle Offenses" is hereby amended to read as follows:
+28 31-27-2.1. Refusal to submit to chemical test.
+29 (a) Any person who operates a motor vehicle within this state shall be deemed to have
+30 given his or her consent to chemical tests of his or her breath, blood, saliva and/or urine for the
+31 purpose of determining the chemical content of his or her body fluids or breath. No more than two
+32 (2) complete tests, one for the presence of intoxicating liquor and one for the presence of toluene
+33 or any controlled substance, as defined in § 21-28-1.02, shall be administered at the direction of a
+34 law enforcement officer having reasonable grounds to believe the person to have been driving a
+LC005621 - Page 3 of 9
+
+1 motor vehicle within this state while under the influence of intoxicating liquor, toluene, or any
+2 controlled substance, as defined in chapter 28 of title 21, or any combination of these. The director
+3 of the department of health is empowered to make and file, with the secretary of state, regulations
+4 that prescribe the techniques and methods of chemical analysis of the person’s body fluids or breath
+5 and the qualifications and certification of individuals authorized to administer the testing and
+6 analysis.
+7 (b) If a person, for religious or medical reasons, cannot be subjected to blood tests, the
+8 person may file an affidavit with the division of motor vehicles stating the reasons why he or she
+9 cannot be required to take blood tests and a notation to this effect shall be made on his or her
+10 license. If that person is asked to submit to chemical tests as provided under this chapter, the person
+11 shall only be required to submit to chemical tests of his or her breath, saliva or urine. When a person
+12 is requested to submit to blood tests, only a physician or registered nurse, or a medical technician
+13 certified under regulations promulgated by the director of the department of health, may withdraw
+14 blood for the purpose of determining the alcoholic content in it. This limitation shall not apply to
+15 the taking of breath, saliva or urine specimens. The person tested shall be permitted to have a
+16 physician of his or her own choosing, and at his or her own expense, administer chemical tests of
+17 his or her breath, blood, saliva and/or urine in addition to the tests administered at the direction of
+18 a law enforcement officer. If a person, having been placed under arrest, refuses upon the request of
+19 a law enforcement officer to submit to the tests, as provided in § 31-27-2, none shall be given.
+20 (1) At the initial traffic tribunal appearance, the magistrate shall review the incident, action,
+21 and/or arrest reports submitted by the law enforcement officer to determine if there exists
+22 reasonable grounds to believe that the person had been driving a motor vehicle while under the
+23 influence of intoxicating liquor, toluene, or any controlled substance as defined in chapter 28 of
+24 title 21, or any combination thereof. The magistrate shall also determine if the person had been
+25 informed of the penalties incurred as a result of failing to submit to a chemical test as provided in
+26 this section and that the person had been informed of the implied consent notice contained in
+27 subsection (c)(10) of this section. For the purpose of this subsection only, “driving a motor vehicle
+28 while under the influence of any controlled substance as defined in chapter 28 of title 21” shall be
+29 indicated by the presence or aroma of a controlled substance on or about the person or vehicle of
+30 the individual refusing the chemical test or other reliable indicia or articulable conditions that the
+31 person was impaired due to their intake of a controlled substance.
+32 (2) If the magistrate determines that subsection (b)(1) of this section has been satisfied they
+33 shall promptly order that the person’s operator’s license or privilege to operate a motor vehicle in
+34 this state be immediately suspended. Said suspension shall be subject to the hardship provisions
+LC005621 - Page 4 of 9
+
+1 enumerated in § 31-27-2.8.
+2 (c) A traffic tribunal judge or magistrate, or a district court judge or magistrate, pursuant
+3 to the terms of subsection (d) of this section, shall order as follows:
+4 (1) Impose, for the first violation, a fine in the amount of two hundred dollars ($200) to
+5 five hundred dollars ($500) and shall order the person to perform ten (10) to sixty (60) hours of
+6 public community restitution. The person’s driving license in this state shall be suspended for a
+7 period of six (6) months to one year. The traffic tribunal judge or magistrate shall require attendance
+8 at a special course on driving while intoxicated or under the influence of a controlled substance
+9 and/or alcohol or drug treatment for the individual. The traffic tribunal judge or magistrate may
+10 prohibit that person from operating a motor vehicle that is not equipped with an ignition interlock
+11 system and/or blood and urine testing as provided in § 31-27-2.8.
+12 (2) Every person convicted of a second violation within a ten-year (10) period, except with
+13 respect to cases of refusal to submit to a blood test, shall be guilty of a misdemeanor; shall be
+14 imprisoned for not more than six (6) months; shall pay a fine in the amount of six hundred dollars
+15 ($600) to one thousand dollars ($1,000); perform sixty (60) to one hundred (100) hours of public
+16 community restitution; and the person’s driving license in this state shall be suspended for a period
+17 of one year to two (2) years. The judge or magistrate shall require alcohol and/or drug treatment
+18 for the individual. The sentencing judge or magistrate shall prohibit that person from operating a
+19 motor vehicle that is not equipped with an ignition interlock system and/or blood and urine testing
+20 as provided in § 31-27-2.8.
+21 (3) Every person convicted for a third or subsequent violation within a ten-year (10) period,
+22 except with respect to cases of refusal to submit to a blood test, shall be guilty of a misdemeanor;
+23 and shall be imprisoned for not more than one year; fined eight hundred dollars ($800) to one
+24 thousand dollars ($1,000); shall perform not less than one hundred (100) hours of public community
+25 restitution; and the person’s operator’s license in this state shall be suspended for a period of two
+26 (2) years to five (5) years. The sentencing judge or magistrate shall prohibit that person from
+27 operating a motor vehicle that is not equipped with an ignition interlock system and/or blood and
+28 urine testing as provided in § 31-27-2.8. The judge or magistrate shall require alcohol or drug
+29 treatment for the individual. Provided, that prior to the reinstatement of a license to a person charged
+30 with a third or subsequent violation within a three-year (3) period, a hearing shall be held before a
+31 judge or magistrate. At the hearing, the judge or magistrate shall review the person’s driving record,
+32 his or her employment history, family background, and any other pertinent factors that would
+33 indicate that the person has demonstrated behavior that warrants the reinstatement of his or her
+34 license.
+LC005621 - Page 5 of 9
+
+1 (4) For a second violation within a ten-year (10) period with respect to a case of a refusal
+2 to submit to a blood test, a fine in the amount of six hundred dollars ($600) to one thousand dollars
+3 ($1,000); the person shall perform sixty (60) to one hundred (100) hours of public community
+4 restitution; and the person’s driving license in this state shall be suspended for a period of two (2)
+5 years. The judicial officer shall require alcohol and/or drug treatment for the individual. The
+6 sentencing judicial officer shall prohibit that person from operating a motor vehicle that is not
+7 equipped with an ignition interlock system as provided in § 31-27-2.8. Such a violation with respect
+8 to refusal to submit to a chemical blood test shall be a civil offense.
+9 (5) For a third or subsequent violation within a ten-year (10) period with respect to a case
+10 of a refusal to submit to a blood test, a fine in the amount of eight hundred dollars ($800) to one
+11 thousand dollars ($1,000); the person shall perform not less than one hundred (100) hours of public
+12 community restitution; and the person’s driving license in this state shall be suspended for a period
+13 of two (2) to five (5) years. The sentencing judicial officer shall prohibit that person from operating
+14 a motor vehicle that is not equipped with an ignition interlock system as provided in § 31-27-2.8.
+15 The judicial officer shall require alcohol and/or drug treatment for the individual. Such a violation
+16 with respect to refusal to submit to a chemical test of blood shall be a civil offense. Provided, that
+17 prior to the reinstatement of a license to a person charged with a third or subsequent violation within
+18 a three-year (3) period, a hearing shall be held before a judicial officer. At the hearing, the judicial
+19 officer shall review the person’s driving record, his or her employment history, family background,
+20 and any other pertinent factors that would indicate that the person has demonstrated behavior that
+21 warrants the reinstatement of their license.
+22 (6) For purposes of determining the period of license suspension, a prior violation shall
+23 constitute any charge brought and sustained under the provisions of this section or § 31-27-2.
+24 (7) In addition to any other fines, a highway safety assessment of five hundred dollars
+25 ($500) shall be paid by any person found in violation of this section, the assessment to be deposited
+26 into the general fund. The assessment provided for by this subsection shall be collected from a
+27 violator before any other fines authorized by this section.
+28 (8) In addition to any other fines and highway safety assessments, a two-hundred-dollar
+29 ($200) assessment shall be paid by any person found in violation of this section to support the
+30 department of health’s chemical testing programs outlined in §§ 31-27-2(f) and 31-27-2(g), that
+31 shall be deposited as general revenues, not restricted receipts.
+32 (9) No fines, suspensions, assessments, alcohol or drug treatment programs, course on
+33 driving while intoxicated or under the influence of a controlled substance, or public community
+34 restitution provided for under this section can be suspended.
+LC005621 - Page 6 of 9
+
+1 (10) Implied consent notice for persons eighteen (18) years of age or older: “Rhode Island
+2 law requires you to submit to a chemical test of your blood, breath, saliva, or urine for the purpose
+3 of determining the chemical content of your body fluids or breath. If you refuse this testing, certain
+4 penalties can be imposed and include the following: for a first offense, your Rhode Island driver’s
+5 license or privilege to operate a motor vehicle in this state can be suspended for six (6) months to
+6 one year or modified to permit operation in connection with an ignition interlock device and/or
+7 blood and urine testing for a period specified by law; a fine from two hundred dollars ($200) to five
+8 hundred dollars ($500) can be imposed; and you can be ordered to perform ten (10) to sixty (60)
+9 hours of community service and attend a special course on driving while intoxicated or under the
+10 influence of a controlled substance and/or alcohol or drug treatment. If you have had one or more
+11 previous offenses within the past ten (10) years, your refusal to submit to a chemical test of breath
+12 or urine at this time can have criminal penalties, including incarceration up to six (6) months for a
+13 second offense and up to one year for a third or subsequent offense, and can carry increased license
+14 suspension or ignition interlock and/or blood and urine testing periods, fines, and community
+15 service. All violators shall pay a five hundred dollar ($500) highway safety assessment fee, a two
+16 hundred dollar ($200) department of health chemical testing programs assessment fee, and a license
+17 reinstatement fee. Refusal to submit to a chemical test of blood shall not subject you to criminal
+18 penalties for the refusal itself, but if you have one or more previous offenses other civil penalties
+19 may increase. You have the right to be examined at your own expense by a physician selected by
+20 you. If you submit to a chemical test at this time, you have the right to have an additional chemical
+21 test performed at your own expense. You will be afforded a reasonable opportunity to exercise
+22 these rights. Access to a telephone will be made available for you to make those arrangements. You
+23 may now use a telephone.”
+24 Use of this implied consent notice shall serve as evidence that a person’s consent to a
+25 chemical test is valid in a prosecution involving driving under the influence of liquor, controlled
+26 substances, and/or drugs.
+27 (d) Upon suspending or refusing to issue a license or permit as provided in subsection (a),
+28 the traffic tribunal or district court shall immediately notify the person involved in writing, and
+29 upon his or her request, within fifteen (15) days, afford the person an opportunity for a hearing as
+30 early as practical upon receipt of a request in writing. Upon a hearing, the judge may administer
+31 oaths and may issue subpoenas for the attendance of witnesses and the production of relevant books
+32 and papers. If the judge finds after the hearing that:
+33 (1) The law enforcement officer making the sworn report had reasonable grounds to believe
+34 that the arrested person had been driving a motor vehicle within this state while under the influence
+LC005621 - Page 7 of 9
+
+1 of intoxicating liquor, toluene, or any controlled substance, as defined in chapter 28 of title 21, or
+2 any combination of these;
+3 (2) The person, while under arrest, refused to submit to the tests upon the request of a law
+4 enforcement officer;
+5 (3) The person had been informed of his or her rights in accordance with § 31-27-3; and
+6 (4) The person had been informed of the penalties contained in the implied consent notice
+7 set forth in subsection (c)(10) of this section, the judge shall sustain the violation. The judge shall
+8 then impose the penalties set forth in subsection (c) of this section. Action by the judge must be
+9 taken within seven (7) days after the hearing or it shall be presumed that the judge has refused to
+10 issue his or her order of suspension.
+11 (e) For the purposes of this section, any test of a sample of blood, breath, or urine for the
+12 presence of alcohol that relies, in whole or in part, upon the principle of infrared light absorption is
+13 considered a chemical test.
+14 (f) If any provision of this section, or the application of any provision, shall, for any reason,
+15 be judged invalid, the judgment shall not affect, impair, or invalidate the remainder of the section,
+16 but shall be confined in this effect to the provisions or application directly involved in the
+17 controversy giving rise to the judgment.
+18 SECTION 3. Section 31-41.1-10 of the General Laws in Chapter 31-41.1 entitled
+19 "Adjudication of Traffic Offenses" is hereby amended to read as follows:
+20 31-41.1-10. Expungement.
+21 All violations within this title which are in the jurisdiction of the traffic tribunal or of a
+22 municipal court shall by operation of law, after three (3) years, following adjudication of the
+23 violation and after expiration of any mandatory state or federal record-retention period, be
+24 expunged from the records of the traffic tribunal or the municipal court and from the records of the
+25 division of motor vehicles, except for those offenses related to alcohol as provided in § 31-27-2.1,
+26 which shall be expunged after five (5) ten (10) years. These expungements shall be in addition to
+27 and not in place of any expungement provided for by chapter 1.3 of title 12.
+28 SECTION 4. This act shall take effect upon passage.
+========
+LC005621
+========
+LC005621 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- EXPUNGEMENT OF CRIMINAL RECORDS
+***
+1 This act would amend existing expungement laws to be consistent with the new 10-year
+2 lookback period required for DUI charges.
+3 This act would take effect upon passage.
+========
+LC005621
+========
+LC005621 - Page 9 of 9

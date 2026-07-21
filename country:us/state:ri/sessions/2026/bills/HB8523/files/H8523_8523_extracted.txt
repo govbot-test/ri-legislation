@@ -1,0 +1,540 @@
+Title: 
+Official Title: 
+Source: versions - 8523
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8523
+========
+LC006363
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SPECIAL STOPS REQUIRED
+Introduced By: Representative Thomas E. Noret
+Date Introduced: May 06, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 31-20-12 of the General Laws in Chapter 31-20 entitled "Special
+2 Stops Required" is hereby repealed.
+3 31-20-12. Stopping for school bus required — Penalty for violation.
+4 (a) The driver of a vehicle upon a street, highway, private way, private or public parking
+5 area upon meeting or overtaking from any direction any bus marked as “school bus” whenever the
+6 bus is being operated in accordance with § 31-20-11 and on which there is in operation flashing red
+7 lights, shall stop the vehicle before reaching the bus. The driver shall not proceed until the bus
+8 resumes motion or until the flashing lights are no longer actuated. No driver of any motor vehicle,
+9 except emergency vehicles on official business, shall travel in the same lane of traffic behind a
+10 school bus at a distance of less than fifty feet (50′). A person convicted of a violation of this section
+11 shall be punished by a fine not to exceed three hundred dollars ($300) and/or suspension of driving
+12 license for a period not to exceed thirty (30) days for the first offense, and a mandatory fine of not
+13 less than three hundred dollars ($300) nor more than five hundred dollars ($500) and/or revocation
+14 of driving license for a period of one year for each subsequent offense.
+15 (b) A peace officer may issue a summons based on the statement or testimony of a school
+16 bus driver or monitor or other private citizen provided that the statement or testimony provides the
+17 peace officer with sufficient probable cause that a violation under this section was committed. Any
+18 conviction under this section may be punished in accordance with subsection (a) of this section.
+19 SECTION 2. Section 31-20-13 of the General Laws in Chapter 31-20 entitled "Special
+
+1 Stops Required" is hereby amended to read as follows:
+2 31-20-13. School buses stopped on divided highway or in loading zone.
+3 When operating a vehicle upon a highway, the driver need not stop upon meeting or passing
+4 a bus marked as “school bus” in accordance with § 31-20-11 in the following circumstances:
+5 (1) When a highway is a divided highway that is divided by a raised median or physical
+6 barrier, and the bus is stopped in the roadway on one side of the divided highway and the driver is
+7 operating on the other side of it.
+8 (2) When the bus is stopped in a loading zone adjacent to a limited access highway and
+9 pedestrians are not permitted to cross the highway.
+10 SECTION 3. Section 31-41.1-4 of the General Laws in Chapter 31-41.1 entitled
+11 "Adjudication of Traffic Offenses" is hereby amended to read as follows:
+12 31-41.1-4. Schedule of violations.
+13 (a) The penalties for violations of the enumerated sections, listed in numerical order,
+14 correspond to the fines described. However, those offenses for which punishments may vary
+15 according to the severity of the offense, or punishment that requires the violator to perform a
+16 service, shall be heard and decided by the traffic tribunal or municipal court. The following
+17 violations may be handled administratively through the method prescribed in this chapter. This list
+18 is not exclusive and jurisdiction may be conferred on the traffic tribunal with regard to other
+19 violations.
+20 Section of General Laws Total Fine
+21 8-8.2-2 DOT, DEM, or other agency and department violations $100.00
+22 24-10-17 Soliciting rides in motor vehicles 100.00
+23 24-10-18 Backing up prohibited 100.00
+24 24-10-19 Advertising motor vehicle for sale on state highways 100.00
+25 24-10-20 Park and ride lots 100.00
+26 24-12-37 Nonpayment of toll 100.00
+27 31-3-12 Visibility of plates 100.00
+28 31-3-18 Display of plates 100.00
+29 31-3-32 Driving with expired registration 100.00
+30 31-3-34 Failure to notify division of change of address 100.00
+31 31-3-35 Notice of change of name 100.00
+32 31-3-40 Temporary plates — dealer issued 100.00
+33 31-4-3 Temporary registration — twenty-day (20) bill of sale 100.00
+34 31-10-10 Rules as to armed forces license 100.00
+LC006363 - Page 2 of 16
+
+1 31-10-30 Driving on expired license 100.00
+2 31-10-32 Notice of change of address 100.00
+3 31-10.1-4 No motorcycle helmet (operator) 100.00
+4 31-10.1-5 Motorcycle handlebar violation 100.00
+5 31-10.1-6 No motorcycle helmet (passenger) 100.00
+6 31-10.1-7 Inspection of motorcycle required 100.00
+7 31-12-12 Local motor vehicle ordinance 100.00
+8 31-13-4 Obedience to devices 100.00
+9 31-13-6(3)(i) Eluding traffic light 100.00
+10 31-13-9 Flashing signals 100.00
+11 31-13-11 Injury to signs or devices 100.00
+12 31-14-1 Reasonable and prudent speed 95.00
+13 31-14-3 Condition requiring reduced speed 95.00
+14 31-14-9 Below minimum speed 95.00
+15 31-14-12 Speed limit on bridges and structures 95.00
+16 31-15-1 Leaving lane of travel 100.00
+17 31-15-2 Slow traffic to right 100.00
+18 31-15-3 Operator left of center 100.00
+19 31-15-4 Overtaking on left 100.00
+20 31-15-5(a) Overtaking on right 100.00
+21 31-15-6 Clearance for overtaking 100.00
+22 31-15-7 Places where overtaking prohibited 100.00
+23 31-15-8 No passing zone 100.00
+24 31-15-9 One way highways 100.00
+25 31-15-10 Rotary traffic islands 100.00
+26 31-15-11 Laned roadway violation 100.00
+27 31-15-12 Following too closely 100.00
+28 31-15-12.1 Entering intersection 100.00
+29 31-15-13 Crossing center section of divided highway 100.00
+30 31-15-14 Entering or leaving limited access roadways 100.00
+31 31-15-16 Use of emergency break-down lane for travel 100.00
+32 31-15-17 Crossing bicycle lane 100.00
+33 31-15-18 Unsafe passing of person operating a bicycle 100.00
+34 31-16-1 Care in starting from stop 100.00
+LC006363 - Page 3 of 16
+
+1 31-16-2 Manner of turning at intersection 100.00
+2 31-16-4 U turn where prohibited 100.00
+3 31-16-5 Turn signal required 100.00
+4 31-16-6 Time of signaling turn 100.00
+5 31-16-7 Failure to give stop signal 100.00
+6 31-16-8 Method of giving signals 100.00
+7 31-16.1-3 Diesel vehicle idling rules
+8 first offense not to exceed 100.00
+9 second and subsequent offense not to exceed 500.00
+10 31-17-1 Failure to yield right of way 100.00
+11 31-17-2 Vehicle turning left 100.00
+12 31-17-3 Yield right of way (intersection) 100.00
+13 31-17-4 Obedience to stop signs 100.00
+14 31-17-5 Entering from private road or driveway 100.00
+15 31-17-8 Vehicle within right of way, rotary 100.00
+16 31-17-9 Yielding to bicycles on bicycle lane 100.00
+17 31-18-3 Right of way in crosswalks
+18 first violation 100.00
+19 second violation or any subsequent violation 100.00
+20 31-18-5 Crossing other than at crosswalks 100.00
+21 31-18-8 Due care by drivers 100.00
+22 31-18-12 Hitchhiking 100.00
+23 31-18-18 Right of way on sidewalks 100.00
+24 31-19-3 Traffic laws applied to bicycles 100.00
+25 31-19-20 Sale of new bicycles 100.00
+26 31-19-21 Sale of used bicycles 100.00
+27 31-19.1-2 Operating motorized bicycle on an interstate highway 100.00
+28 31-19.2-2 Operating motorized tricycle on an interstate highway 100.00
+29 31-20-1 Failure to stop at railroad crossing 100.00
+30 31-20-2 Driving through railroad gate 100.00
+31 31-20-9 Obedience to stop sign 100.00
+32 31-21-4 Places where parking or stopping prohibited 100.00
+33 31-21-14 Opening of vehicle doors 100.00
+34 31-21-18 Electric vehicle charging station restriction 100.00
+LC006363 - Page 4 of 16
+
+1 31-22-2 Improper backing up 100.00
+2 31-22-4 Overloading vehicle 100.00
+3 31-22-5 Violation of safety zone 100.00
+4 31-22-6 Coasting 100.00
+5 31-22-7 Following fire apparatus 100.00
+6 31-22-8 Crossing fire hose 100.00
+7 31-22-9 Throwing debris on highway — snow removal 100.00
+8 31-22-11.5 Improper use of school bus — not to exceed five hundred dollars
+9 for each day of improper use ($500)
+10 31-22-22(a) No child restraint 100.00
+11 31-22-22(a) Child restraint/seat belt but not in any rear seating position 100.00
+12 31-22-22(b), (f) No seat belt — passenger 40.00
+13 31-22-22(g) No seat belt — operator 40.00
+14 31-22-23 Tow trucks — proper identification 275.00
+15 31-22-24 Operation of interior lights 100.00
+16 31-23-1(b)(2) U.S. department of transportation motor carrier safety rules and
+17 regulations Not less than $100.00 or more than $500.00
+18 31-23-1(e)(6) Removal of an “out of service vehicle” sticker 125.00
+19 31-23-1(e)(7) Operation of an “out of service vehicle” 100.00
+20 31-23-2(b) Installation or adjustment of unsafe or prohibited parts, equipment,
+21 or accessories: (first offense) 250.00
+22 (second offense) 500.00
+23 (third and subsequent offenses) 1,000.00
+24 31-23-4 Brake equipment required 100.00
+25 31-23-8 Horn required 100.00
+26 31-23-10 Sirens prohibited 100.00
+27 31-23-13 Muffler required 100.00
+28 31-23-13.1 Altering height or operating a motor vehicle with an altered
+29 height 100.00
+30 31-23-14 Prevention of excessive fumes or smoke 100.00
+31 31-23-16 Windshield and window stickers (visibility) 100.00
+32 31-23-17 Windshield wipers 100.00
+33 31-23-19 Metal tires prohibited 100.00
+34 31-23-20 Protuberances on tires 100.00
+LC006363 - Page 5 of 16
+
+1 31-23-26 Fenders and wheel flaps required 100.00
+2 31-23-27 Rear wheel flaps on buses, trucks, and trailers 100.00
+3 31-23-29 Flares or red flag required over four thousand pounds
+4 (4,000 lbs.) 100.00
+5 31-23-40 Approved types of seat belt requirements 100.00
+6 31-23-42.1 Special mirror — school bus 100.00
+7 31-23-43 Chocks required (1 pair) — over four thousand pounds
+8 (4,000 lbs.) 100.00
+9 31-23-45 Tire treads — defective tires 100.00
+10 31-23-47 Slow moving emblem required 100.00
+11 31-23-49 Transportation of gasoline — passenger vehicle 100.00
+12 31-23-51 Operating bike or motor vehicle wearing ear phones
+13 (first offense) 100.00
+14 second offense 110.00
+15 for the third and each subsequent offense 140.00
+16 31-24-1 through 31-24-54 Times when lights required 100.00
+17 31-25-9 Leaking load 100.00
+18 31-25-11 Connections between coupled vehicles 100.00
+19 31-25-12 Towing chain, twelve-inch (12″) square flag required 100.00
+20 31-25-12.1 Tow truck — use of lanes
+21 (first offense) 100.00
+22 second offense 110.00
+23 for the third and each subsequent offense 140.00
+24 31-25-17 Identification of trucks and truck-tractors
+25 (first offense) 100.00
+26 (second offense) 110.00
+27 for the third and subsequent offenses 140.00
+28 31-25-24 Carrying and inspection of excess load limit 350.00
+29 31-27-2.3 Refusal to take preliminary breath test 100.00
+30 31-28-7(d) Wrongful use of handicapped parking placard 500.00
+31 31-28-7(f) Handicapped parking space violation:
+32 First offense 100.00
+33 Second offense 175.00
+34 Third offense and subsequent offenses 325.00
+LC006363 - Page 6 of 16
+
+1 31-28-7.1(e) Wrongful use of institutional handicapped parking placard 125.00
+2 31-33-2 Failure to file accident report 100.00
+3 31-34-2 Proof of insurance — motor vehicle rental 100.00
+4 31-34-3 Operation by person other than lessee 100.00
+5 31-36.1-17 No fuel tax stamp (out-of-state) 85.00
+6 and not exceeding ($100) for subsequent offense
+7 31-38-3 No inspection sticker 100.00
+8 31-38-4 Violation of inspection laws 100.00
+9 31-41.3-15 Automated school zone speed enforcement system 50.00
+10 31-47.2-6 Heavy-duty vehicle emission inspections:
+11 First offense 125.00
+12 Second offense 525.00
+13 Third and subsequent offenses 1,025.00
+14 31-51-2.2 Failure to stop for school bus 300.00
+15 37-15-7 Littering not less than 55.00,
+16 not more than five hundred dollars ($500)
+17 39-12-26 Public carriers violation 300.00
+18 SPEEDING Fine
+19 (A) One to ten miles per hour (1-10 m.p.h.) in excess of posted speed limit $ 95.00
+20 (B) Eleven miles per hour (11 m.p.h.) in excess of posted speed limit with 205.00
+21 minimum a fine of ten dollars ($10.00) per mile in excess of speed limit shall be assessed.
+22 (b) In addition to any other penalties provided by law, a judge may impose the following
+23 penalties for speeding:
+24 (1) For speeds up to and including ten miles per hour (10 m.p.h.) over the posted speed
+25 limit on public highways, a fine as provided for in subsection (a) of this section for the first offense;
+26 ten dollars ($10.00) per mile for each mile in excess of the speed limit for the second offense if
+27 within twelve (12) months of the first offense; and fifteen dollars ($15.00) per mile for each mile
+28 in excess of the speed limit for the third and any subsequent offense if within twelve (12) months
+29 of the first offense. In addition, the license may be suspended up to thirty (30) days.
+30 (2) For speeds in excess of ten miles per hour (10 m.p.h.) over the posted speed limit on
+31 public highways, a mandatory fine of ten dollars ($10.00) for each mile over the speed limit for the
+32 first offense; fifteen dollars ($15.00) per mile for each mile in excess of the speed limit for the
+33 second offense if within twelve (12) months of the first offense; and twenty dollars ($20.00) per
+34 mile for each mile in excess of the speed limit for the third and subsequent offense if within twelve
+LC006363 - Page 7 of 16
+
+1 (12) months of the first offense. In addition, the license may be suspended up to sixty (60) days.
+2 (c) Except for a technology surcharge assessed in accordance with § 8-15-11, any person
+3 charged with a violation who pays the fine administratively pursuant to this chapter shall not be
+4 subject to any additional costs or assessments, including, but not limited to, the hearing fee
+5 established in § 8-18-4.
+6 SECTION 4. Sections 31-51-2, 31-51-2.1, 31-51-2.2, 31-51-3, 31-51-4, 31-51-5, 31-51-
+7 5.1, 31-51-6, 31-51-8 and 31-51-9 of the General Laws in Chapter 31-51 entitled "School Bus
+8 Safety Enforcement" are hereby amended to read as follows:
+9 31-51-2. Live digital video school bus violation detection monitoring systems Digital
+10 video school bus violation detection monitoring systems.
+11 (a) All school departments of this state are hereby authorized to install and operate live
+12 digital video school bus violation detection monitoring systems. Such systems shall, at a minimum,
+13 be systems which monitor and detect school bus traffic violations. For purposes of this chapter a
+14 live digital video school bus violation detection monitoring system means a system with one or
+15 more camera sensors and computers which produce live digital and recorded video of motor
+16 vehicles being operated in violation of school bus traffic laws in violation of § 31-20-12. All
+17 systems installed for use under this chapter shall, at a minimum, produce a live visual image
+18 viewable remotely, a recorded image of the license plate, and be able to record the time, date, and
+19 location of the vehicle, and a signed affidavit by a person who witnessed the violation via live or
+20 recorded video.
+21 (b) On and after July 1, 2027, all new school buses to be operated pursuant to § 31-20-
+22 11(a) shall be equipped with a live digital video school bus violation detection monitoring system
+23 that conforms with the requirements of subsection (a) of this section.
+24 (c) On and after July 1, 2032, all school buses to be operated pursuant to § 31-20-11(a)
+25 shall be equipped with a live digital video school bus violation detection monitoring system that
+26 conforms with the requirements of subsection (a) of this section.
+27 (d) The school departments with input and approval by the municipal police chief may
+28 enter into an agreement with a private corporation or other entity to provide live digital video school
+29 bus violation detection monitoring systems and to maintain and operate such systems.
+30 (e) Neither the school department, nor the municipality shall incur liability or have an
+31 obligation to reimburse a vendor for any expenses or costs associated with the operation or
+32 administration of the contracted digital video school bus violation detection monitoring system
+33 beyond revenue allocations pursuant to § 31-51-2.2, even if expenses or costs to the vendor exceed
+34 such violation revenues.
+LC006363 - Page 8 of 16
+
+1 31-51-2.1. Installation and signage.
+2 (a) All vehicles installed with a live digital video school bus violation detection monitoring
+3 system shall post a warning sign indicating the use of such system.
+4 (b) Warning signage shall remain on each vehicle as long as a live digital video school bus
+5 violation detection monitoring system is in operation.
+6 31-51-2.2. Stopping for school bus required — Penalty for violation.
+7 (a) Any vehicle being operated upon a street, highway, private way or private or public
+8 parking area upon meeting or overtaking from any direction any school bus on which there is in
+9 operation flashing red lights or activated stop sign, shall stop before reaching the bus. The vehicle
+10 shall not proceed until the bus resumes motion or until the flashing lights are no longer actuated.
+11 No driver of any motor vehicle, except emergency vehicles on official business, shall travel in the
+12 same lane of traffic behind a school bus at a distance of less than fifty feet (50'). An Notwithstanding
+13 any provision of the general laws to the contrary, an owner and/or operator of a motor vehicle
+14 operated in violation of this section based on evidence obtained from a live digital video school bus
+15 violation detection monitoring system shall, upon admission or conviction of a violation of this
+16 section, be punished by a civil fine of not less than two hundred fifty dollars ($250) nor more than
+17 five hundred dollars ($500) and/or suspension of his or her driving license for a period not to exceed
+18 thirty (30) days three hundred dollars ($300).
+19 (b)(1) A law enforcement officer authorized to issue a traffic violation summons pursuant
+20 to this title or technician employed by a municipality may issue a summons notice of a violation of
+21 this chapter based on evidence from a live digital video school bus violation detection monitoring
+22 system; provided, that the statement of testimony, or evidence provides the law enforcement officer
+23 or technician with sufficient probable cause that a violation under this section was committed. The
+24 summons notice of violation shall be in the form referred to in § 31-51-3.
+25 (2) A law enforcement officer may issue a notice of violation based on personal
+26 observation, or on the statement or testimony of a school bus driver or monitor or other private
+27 citizen; provided that, the statement or testimony provides the law enforcement officer with
+28 sufficient probable cause that a violation under this section was committed. Any admission or
+29 conviction under this subsection may be punished in accordance with subsection (a) of this section.
+30 31-51-3. Procedure — Notice.
+31 (a) Except as expressly provided in this chapter, all prosecutions based on evidence
+32 produced by a live digital video school bus violation detection monitoring system shall follow the
+33 procedures established in chapter 41.1 of this title, chapter 18 of title 8, and the rules promulgated
+34 by the chief magistrate of the traffic tribunal for the hearing of civil traffic violations in the traffic
+LC006363 - Page 9 of 16
+
+1 tribunal. Provided, that in an action brought pursuant to the provisions of this chapter, references
+2 in chapter 41.1 of this title to an “operator” shall apply to the registered owner of the vehicle. A
+3 summons notice of violation may be issued by an officer or technician solely based on evidence
+4 obtained by use of a live digital video school bus violation detection monitoring system. All
+5 summonses notices of violation issued based on evidence obtained from a live digital video school
+6 bus violation detection monitoring system shall be issued within ten (10) thirty (30) days of the
+7 violation. Notwithstanding any provisions of the general laws to the contrary, jurisdiction to hear
+8 and decide any violation under this chapter shall be as follows:
+9 (1) By the traffic tribunal over all violations for which the summons notice of violation is
+10 issued by a state agency;
+11 (2) By the traffic tribunal over all violations for which the summons notice of violation is
+12 issued by a city or town which has not established a municipal court; and
+13 (3) By the municipal court over all violations for which the summons notice of violation is
+14 issued by a city or town which has established a municipal court.
+15 (b) It shall be sufficient to commence a prosecution based on evidence obtained from a live
+16 digital video school bus violation detection monitoring system. A copy of the summons notice of
+17 violation and supporting documentation shall be mailed to the address of the registered owner kept
+18 on file by the an applicable registry of motor vehicles. For purposes of this section, the date of
+19 issuance shall be the date of mailing. A manual or automatic record of mailing prepared in the
+20 ordinary course of business shall be prima facie evidence of the factors contained therein.
+21 (c) The officer or technician issuing the citation notice of violation shall certify under
+22 penalties of perjury that the evidence obtained from the live digital video school bus violation
+23 detection monitoring system was sufficient to demonstrate a violation of the motor vehicle code.
+24 Such certification shall be sufficient in all prosecutions pursuant to this chapter to justify the entry
+25 of a default judgment upon sufficient proof of actual notice in all cases where the citation notice of
+26 violation is not answered within the time period permitted.
+27 (d) The Notwithstanding any provision of the general laws to the contrary, the summons
+28 shall be in the form of violation and contain all the information provided for on the uniform
+29 summons as referred to in § 31-41.1-1 and the rules of procedure promulgated by the chief
+30 magistrate of the traffic tribunal as well as the date, time, and location of the violation. In addition,
+31 the following information shall be attached to or accompany the summons the following:
+32 (1) The date, time, and approximate location of the violation;
+33 (2) Copies of two (2) or more photographs, or microphotographs, videos, or other recorded
+34 images taken as proof of the violation;
+LC006363 - Page 10 of 16
+
+1 (2)(3) A signed statement certified under the penalties of perjury by a trained law
+2 enforcement officer or authorized municipal technician that, based on inspection of recorded
+3 images and video, the motor vehicle was being operated in violation of this chapter;
+4 (3)(4) A signed statement that recorded images are evidence of a violation of this chapter;
+5 (4)(5) A statement that the person who receives the summons notice of violation under this
+6 chapter may either pay admit liability by paying the civil fine in accordance with the provisions of
+7 § 31-51-2.2 to the municipality or its designee, proceed under § 31-51-5(c)(3) 31-51-5(c)(2) of this
+8 section, or elect to stand trial request a hearing for the alleged violation;
+9 (5) A signed affidavit by a person who witnessed the motor vehicle being operated in
+10 violation of this chapter; and
+11 (6) A signed statement certified under the penalties of perjury by a trained law enforcement
+12 officer that the summons and attachments required under this subsection were mailed to the address
+13 of the registered owner kept on file by the registry of motor vehicles. A website where the recorded
+14 video and images from a digital school bus violation detection monitoring system can be observed;
+15 (7) The amount of the civil fine imposed by the municipality, the date by which the civil
+16 fine must be paid, and instructions on how to pay the civil fine;
+17 (8) Instructions on how to request a hearing or stand trial to contest liability;
+18 (9) A warning that failure to pay the civil fine within thirty (30) days of the issuance of the
+19 notice of violation shall incur a thirty-five dollar ($35.00) administrative late fine in addition to the
+20 unpaid civil fine; and
+21 (10) A warning that failure to pay the civil fine may result in withholding of the motor
+22 vehicle registration.
+23 (e) Any summons issued pursuant to this chapter Notwithstanding any provision of the
+24 general laws to the contrary, a notice of violation shall be issued by a law enforcement officer
+25 authorized to issue a traffic violation summons or technician designated by a municipality pursuant
+26 to this title chapter, however, a municipality may assign a designee to perform ministerial mailing
+27 and payment processing services associated with a notice violation.
+28 (f) Any registered owner or otherwise liable party who fails to pay the civil fine within
+29 thirty (30) days of the issuance of the notice of violation shall be subject to a thirty-five dollar
+30 ($35.00) administrative late fine in addition to the unpaid civil fine.
+31 (g) If an unpaid civil fine or administrative late fine is not paid within ninety (90) days of
+32 the issuance of the original notice of violation and there is no non-liability violation established
+33 pursuant to § 31-51-5(e), the municipality shall report the registered owner to the Rhode Island
+34 division of motor vehicles, who then shall not permit the renewal of the vehicle registration
+LC006363 - Page 11 of 16
+
+1 associated with the violation until any unpaid civil fines or administrative late fines are paid to the
+2 municipality. Upon the municipality's receipt of such payment or a written repayment agreement
+3 between the person and the municipality, the municipality shall promptly issue a verbal, written, or
+4 electronic confirmation showing the amounts paid and certification that the person does not owe
+5 any amounts to the municipality or has otherwise made satisfactory repayment arrangements with
+6 the municipality. In any such case, the Rhode Island division of motor vehicles shall forthwith
+7 release any hold placed for this purpose on the person's vehicle registration renewal. If a person
+8 who made satisfactory repayment arrangements with the municipality subsequently fails to honor
+9 and comply with such arrangement with the municipality according to their terms, the municipality
+10 may re-report the person to the Rhode Island division of motor vehicles which shall then prohibit
+11 that person from renewing the vehicle registration until the originally paid civil fines and
+12 administrative late fines are paid to the municipality.
+13 (h) If a non-liability of violation is proven pursuant to § 31-51-5(e), then the municipality
+14 shall report the liable party to the Rhode Island division of motor vehicles.
+15 31-51-4. Hearings.
+16 Notwithstanding any provision of the general laws to the contrary, a hearing to decide any
+17 violation under this chapter may be conducted in person, online via video conferencing or by mail
+18 through submission of a written explanation. Evidence from a live digital video school bus violation
+19 detection monitoring system shall be considered substantive evidence in the prosecution of all civil
+20 traffic violations. Evidence Recorded images from a live digital video school bus violation
+21 detection monitoring system approved by the school department shall serve as prima facie evidence
+22 of a violation, shall be admitted without further authentication and such evidence may shall be
+23 deemed sufficient to sustain a civil traffic violation. Notwithstanding any provision of the general
+24 laws to the contrary, liability at any hearing shall be determined by clear and convincing evidence
+25 whether the violation occurred. In addition to any other defenses as set forth herein, any and all
+26 defenses cognizable at law shall be available to the individual who receives the citation notice of
+27 violation commencing a prosecution under this chapter; provided, however, school bus compliance
+28 with §§ 31-20-11 or 31-20-11.1 shall not be a defense to the violation. Notwithstanding any
+29 provision of the general laws to the contrary, the traffic tribunal or a municipal court may charge a
+30 hearing fee not to exceed one hundred dollars ($100) to a party that requests a hearing for a notice
+31 of violation issued under this chapter, and such hearing fee shall not apply if the party is deemed
+32 not liable at the hearing.
+33 31-51-5. Driver/registered owner liability.
+34 (a) The registered owner of a motor vehicle shall not operate or allow the motor vehicle to
+LC006363 - Page 12 of 16
+
+1 be operated in violation of this chapter. There shall be a rebuttable presumption that the registered
+2 owner of the vehicle that is photographed pursuant to this chapter was operating the vehicle.
+3 (b) In all prosecutions of civil traffic violations based on evidence obtained from a live
+4 digital video school bus violation detection monitoring system as provided under this chapter, the
+5 registered owner of the vehicle shall be primarily responsible in all prosecutions of violations
+6 pursuant to the provisions of this chapter, except as otherwise provided under this chapter.
+7 (c) In the event that the registered owner of the vehicle operated in violation of this chapter
+8 was not the operator of the vehicle at the time of the violation, the registered owner shall either:
+9 (1) Accept responsibility for the violation by paying the fine to the municipality or its
+10 designee; or
+11 (2) Upon receipt of the notice of the violation, provide the issuing authority, a notarized
+12 affidavit under penalty of perjury, within twenty (20) thirty (30) days of the date of issuance, the
+13 name and address of the individual operating the vehicle at the time which the violation occurred.
+14 (d) It shall be prima facie evidence, establishing a rebuttable presumption, that the owner
+15 of the registered motor vehicle was the operator of the vehicle at the time of the violation if the
+16 registered owner of the motor vehicle fails to pay the fine and fails to proceed under subdivision
+17 (c)(2) of this section. Evidence offered pursuant to this chapter shall be sufficient to establish a
+18 violation of § 31-51-2.2 by clear and convincing evidence.
+19 (e) The owner of a rented or leased motor vehicle, or the owner of a corporation or
+20 authorized agent, may establish non-liability for violations issued pursuant to this chapter by
+21 providing to the issuing authority the name and address of the custodian of the vehicle at the time
+22 of the violation. The owner of the rented or leased vehicle shall provide a copy of the written rental
+23 or a lease agreement which shall be prima facie evidence, establishing a rebuttable presumption,
+24 that the lessee was the operator of the vehicle. In the event that the lessee was not the operator of
+25 the motor vehicle at the time of the violation, the lessee shall either:
+26 (1) Accept responsibility for the violation by paying the fine to the municipality or
+27 designee; or
+28 (2) Upon receipt of the notice of the violation, provide the issuing authority within twenty
+29 (20) thirty (30) days of the date of issuance, the name and address of the individual operating the
+30 vehicle at the time which the violation occurred; or
+31 (3) Request a hearing for the alleged violation.
+32 31-51-5.1. Revenue.
+33 The revenue generated from each fine imposed pursuant to this chapter shall be allocated
+34 as follows:
+LC006363 - Page 13 of 16
+
+1 (1)
+2 Forty percent (40%) Twenty percent (20%) to the state general fund;
+3 (2)(i) Thirty percent (30%) Forty percent (40%) to the municipality where the violation
+4 takes place; and
+5 (ii) Thirty percent (30%) Forty percent (40%) to the vendor who supplies and supports the
+6 video detection monitoring system being used; and
+7 (3) The provisions of this section shall not apply to contracts existing at the time of the
+8 enactment of this section, and shall only apply to new contracts, or extensions of existing contracts,
+9 entered into on or after the effective date of this section.
+10 31-51-6. Use of evidence in criminal and civil cases.
+11 Nothing in this chapter shall prohibit the use of evidence produced by a live digital video
+12 school bus violation detection monitoring system in a criminal or private civil proceeding provided
+13 that the admissibility of such evidence shall not follow the applicable laws and rules of procedure
+14 and rules of evidence which apply in criminal and civil cases.
+15 31-51-8. Security of records.
+16 (a) The recorded images and live video produced by a live digital video school bus violation
+17 detection monitoring system shall not be deemed “public records” subject to disclosure pursuant to
+18 subdivision 38-2-2(4)(i).
+19 (b) All recorded images and live video that do not identify a violation shall be destroyed
+20 within twenty-four (24) hours ninety (90) days of the date the live video was recorded, unless
+21 ordered by a court of competent jurisdiction.
+22 (c) All recorded images and live video that identify a violation shall be destroyed within
+23 one year after the citation is resolved by administrative payment, trial or other final disposition of
+24 the citation, unless ordered by a court of competent jurisdiction.
+25 (d) The privacy of records produced pursuant to this chapter shall be maintained; provided,
+26 that aggregate data not containing personal identifying information may be released.
+27 31-51-9. Reports.
+28 The school department authorizing the installation of a live digital video school bus
+29 violation detection monitoring system, in consultation with the municipality, shall prepare an
+30 annual report containing data on:
+31 (1) The number of citations issued;
+32 (2) The number of those violations paid;
+33 (3) The number of those violations found after trial or hearing;
+34 (4) The number of violations dismissed after trial or hearing;
+LC006363 - Page 14 of 16
+
+1 (5) The amount of revenue obtained from the live digital video school bus violation
+2 detection monitoring system.
+3 SECTION 5. This act shall take effect upon passage.
+========
+LC006363
+========
+LC006363 - Page 15 of 16
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SPECIAL STOPS REQUIRED
+***
+1 This act would permit a driver to admit to a violation for failure to stop for a school bus
+2 and pay the violation of three hundred dollars ($300) directly to the municipality or its designee,
+3 without the need for a court appearance. This act would further permit a law enforcement officer,
+4 or a technician employed by a municipality to issue a notice of violation to a driver who fails to
+5 stop for a school bus. The driver would then have thirty (30) days to pay the fine, or request a
+6 hearing in regard to the violation. The recorded images from the digital video school bus violation
+7 detection monitoring system shall serve as prima facie evidence of a violation and shall be admitted
+8 without further authentication and sufficient to sustain a civil traffic violation. The revenue received
+9 from these violations would be readjusted so that twenty percent (20%) goes to the state general
+10 fund; forty percent (40%) goes to the municipality where the violation occurred; and forty percent
+11 (40%) goes to the vendor applying and supporting video detection monitoring system being used.
+12 This act would take effect upon passage.
+========
+LC006363
+========
+LC006363 - Page 16 of 16

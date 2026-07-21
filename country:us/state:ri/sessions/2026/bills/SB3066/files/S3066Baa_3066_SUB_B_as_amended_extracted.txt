@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - 3066  SUB B as amended
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3066 SUBSTITUTE B AS AMENDED
+========
+LC006098/SUB B/2
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- CHILDREN'S MOBILE
+RESPONSE AND STABILIZATION SERVICES
+Introduced By: Senators Lawson, Murray, Ciccone, Tikoian, and LaMountain
+Date Introduced: March 12, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 72.13
+4 CHILDREN'S MOBILE RESPONSE AND STABILIZATION SERVICES
+5 42-72.13-1. Definitions.
+6 As used in this chapter:
+7 (1) "Department" means the department of children, youth and families (DCYF).
+8 (2) "Designated MRSS provider" means a community-based provider licensed or
+9 contracted by the department to deliver MRSS.
+10 (3) "Medicaid agency" means the Medicaid program administered within the executive
+11 office of health and human services (EOHHS).
+12 (4) "Mobile response and stabilization services" or "MRSS" means community-based
+13 behavioral health crisis services for children and youth up to the age of twenty-one (21), including:
+14 (i) Rapid mobile crisis response;
+15 (ii) Crisis assessment and de-escalation;
+16 (iii) Short-term stabilization and follow-up services; and
+17 (iv) Care coordination with families, schools, healthcare providers, and community-based
+18 organizations.
+
+1 (5) "Natural environment" means homes, schools, childcare settings, and other community
+2 locations in which children and youth typically live, learn, or receive care.
+3 42-72.13-2. Establishment of a statewide MRSS program.
+4 (a) The department, in coordination with the Medicaid agency, shall establish and
+5 administer a statewide mobile response and stabilization services program, and shall ensure
+6 alignment with the Children's Behavioral Health Consent Decree that was ordered in United States
+7 v. State of Rhode Island, C.A. No. 24-cv-00531.
+8 (b) The department shall establish standards for MRSS service fidelity.
+9 (c) MRSS shall be available statewide, twenty-four (24) hours per day, seven (7) days per
+10 week, to all children and youth regardless of insurance status or Medicaid eligibility.
+11 (d) The department shall license a minimum of two (2) MRSS providers and a maximum
+12 of three (3) providers for the entire State of Rhode Island.
+13 (1) Each licensed MRSS provider shall be responsible to provide MRSS to all children and
+14 youth up to the age of twenty-one (21) to their agreed geographic region or catchment area as
+15 established by the department.
+16 (2) Licensed MRSS geographic catchment areas shall be through the assignment of the
+17 specific cities and towns and ensure sustainability and community connection.
+18 (e) No prior authorization, referral, or clinical intake determination shall be required for
+19 initiation of MRSS.
+20 (f) Services pursuant to this chapter shall be delivered in the child's natural environment
+21 whenever clinically appropriate.
+22 (g) All requests for MRSS shall be presumed eligible for response under a no wrong door
+23 standard, and services shall not be denied or delayed due to:
+24 (1) Payer status;
+25 (2) Referral source; or
+26 (3) Clinical screening thresholds inconsistent with a family-defined crisis.
+27 42-72.13-3. Service delivery standards.
+28 (a) Response time. Designated MRSS providers shall provide in-person mobile response
+29 within sixty (60) minutes of initial contact, unless clinically contraindicated. Telephonic or virtual
+30 response shall not substitute for in-person response except where clinically appropriate and
+31 determined by MRSS staff.
+32 (b) Service components. MRSS shall include, at a minimum:
+33 (1) Crisis assessment and de-escalation;
+34 (2) Family engagement and support;
+LC006098/SUB B/2 - Page 2 of 7
+
+1 (3) Short-term stabilization services of sufficient duration to support safe resolution of the
+2 crisis; and
+3 (4) Transition planning and linkage to ongoing behavioral health, educational, and
+4 community supports.
+5 (c) Designated provider MRSS teams shall consist of a minimum of two (2) staff, including
+6 at least one licensed behavioral health clinician qualified to conduct clinical assessments and one
+7 additional team member, which may include a peer support specialist, family partner, or other
+8 trained paraprofessional. Providers shall ensure access to clinical supervision and psychiatric
+9 consultation on a twenty-four (24) hour basis.
+10 (d) Workforce composition. Designated MRSS provider teams shall include licensed
+11 clinicians and may include peer support specialists, family navigators, and other trained staff with
+12 demonstrated expertise in children's behavioral health.
+13 (e) Cultural and linguistic competency. MRSS designated providers shall deliver services
+14 in a culturally and linguistically responsive manner and shall ensure accessibility for individuals
+15 with disabilities.
+16 (f) Coordination with crisis lines. MRSS shall serve as the primary, mobile crisis response
+17 system for children and youth experiencing behavioral health crises. MRSS shall operate in
+18 coordination with, but remain clinically and operationally distinct from, the 988 Suicide and Crisis
+19 Lifeline (988) and other telephonic triage or referral lines, including Kids' Link RI. Referrals to
+20 designated MRSS providers shall originate from 988, Kids' Link RI, 911, schools, child welfare
+21 agencies, healthcare providers, law enforcement, families, or self-referral; provided, however, that
+22 988 and other telephonic triage or referral lines may receive, assess, de-escalate, and route crisis
+23 contacts with applicable law, and designated MRSS providers shall retain clinical discretion in
+24 accordance with nationally recognized fidelity standards regarding deployment, response modality,
+25 and timing. Coordination with 988 and other crisis lines shall not result in unnecessary screening,
+26 triage delays, or redirection that substitutes telephonic intervention for in-person mobile response
+27 when MRSS is clinically appropriate. Nothing in this section shall permit 988 or any call center
+28 entity to control dispatch or clinical decision-making for MRSS services once a referral has been
+29 made. Nothing in this section shall be construed to require designated MRSS providers to operate
+30 or staff a call center, crisis hotline, or telephonic triage service.
+31 (g) Coordination with certified community behavioral health clinics (CCBHC). Designated
+32 MRSS providers shall coordinate with CCBHCs and other behavioral health providers for purposes
+33 of referral, care transitions, information-sharing, and continuity of care when clinically appropriate
+34 and with appropriate consent.
+LC006098/SUB B/2 - Page 3 of 7
+
+1 (1) Designated MRSS providers may execute non-financial coordination agreements
+2 and/or designated collaborating organization (DCO agreements) with coordinating entities such as
+3 pediatricians, law enforcement, hospitals and other child and youth serving entities.
+4 (2) Coordination shall not require MRSS to be operated by, embedded within,
+5 subcontracted to, or financially dependent upon a CCBHC, nor shall it limit the department's
+6 authority to contract directly with community-based designated MRSS providers. MRSS shall
+7 remain a distinct mobile crisis response and stabilization service with independent clinical decision-
+8 making authority.
+9 (h) Child and family competency requirement. MRSS shall be delivered by designated
+10 MRSS providers with demonstrated expertise in child and adolescent behavioral health and family
+11 systems. Designated MRSS providers shall ensure that licensed clinical staff assigned to MRSS
+12 possess training and experience specific to children, youth and families, including child
+13 development, trauma-informed care, family engagement, and coordination with child-serving
+14 systems. Providers that primarily serve adult populations shall not deliver MRSS unless they
+15 demonstrate child-specific capacity, staffing, and supervision as required by this chapter.
+16 42-72.13-4. Funding.
+17 On or before October 1, 2027, the Medicaid agency shall submit to the legislature a report
+18 outlining the necessary steps and activities required to complete an alternative funding
+19 methodology for Medicaid MRSS payments including any costs associated with implementation.
+20 Implementation of the alternative methodology shall occur no later than October 1, 2028 in
+21 accordance with federal approval.
+22 42-72.13-5. Medicaid coverage.
+23 (a) The Medicaid agency shall designate MRSS as a covered Medicaid service for eligible
+24 children and youth up to the age of twenty-one (21), including coverage pursuant to the early and
+25 periodic screening, diagnostic, and treatment (EPSDT) benefit.
+26 (b) The Medicaid agency shall submit any necessary state plan amendments or waiver
+27 applications to the Centers for Medicare and Medicaid Services to implement this section.
+28 (c) The Medicaid agency shall ensure compliance with all applicable EPSDT requirements
+29 for Medicaid eligible children and youth accessing MRSS.
+30 (d) Nothing in this section shall prevent the Medicaid agency from implementing
+31 utilization management or prior authorization to ensure program integrity and compliance with
+32 federal Medicaid requirements.
+33 42-72.13-6. Provider designation and contracting.
+34 (a) The department shall license and oversee community-based designated MRSS
+LC006098/SUB B/2 - Page 4 of 7
+
+1 providers. The department may enter into contracts as necessary for payment and administrative
+2 purposes; however, designation as an MRSS provider shall be based on licensure, not procurement
+3 status.
+4 (b) In designating MRSS providers, the department shall prioritize:
+5 (1) MRSS providers with demonstrated experience in children's behavioral health crisis
+6 services;
+7 (2) Existing community-based providers currently delivering mobile crisis or stabilization
+8 services; and
+9 (3) Geographic coverage sufficient to ensure statewide access.
+10 (c) Designated MRSS provider contracts shall establish reimbursement rates, performance
+11 standards, reporting requirements, and care coordination expectations.
+12 (d) The department shall establish a licensure category specific to children’s mobile
+13 response and stabilization services, including standards for clinical staffing, child and family
+14 expertise, and service delivery requirements. Each designated MRSS provider shall be responsible
+15 to provide MRSS to all children and youth up to the age of twenty-one (21) and demonstrate a
+16 willingness to provide services for the purposes of mutual aid to other licensed MRSS providers
+17 when needed.
+18 (e) No provider shall deliver MRSS unless licensed pursuant to this chapter.
+19 42-72.13-7. Oversight and reporting.
+20 (a) The department shall collect data on MRSS utilization, response times, outcomes, and
+21 cost avoidance.
+22 (b) No later than January 1 of each year, the department shall submit a report to the
+23 governor and the general assembly detailing:
+24 (1) Program utilization and geographic coverage;
+25 (2) Funding sources and expenditures;
+26 (3) Outcomes related to emergency department and inpatient diversion; and
+27 (4) Recommendations for statutory or budgetary changes.
+28 42-72.13-8. Rulemaking authority.
+29 The department shall promulgate rules and regulations necessary to implement this chapter.
+30 The rules and regulations shall establish a statewide MRSS mutual aid framework to ensure
+31 coverage during periods of high demand, workforce shortages, or regional capacity constraints.
+32 42-72.13-9. Severability.
+33 If any provision of this act is held invalid, such invalidity shall not affect other provisions
+34 of the act which can be given effect without the invalid provision.
+LC006098/SUB B/2 - Page 5 of 7
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC006098/SUB B/2
+========
+LC006098/SUB B/2 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- CHILDREN'S MOBILE
+RESPONSE AND STABILIZATION SERVICES
+***
+1 This act would establish a statewide mobile response and stabilization services program to
+2 provide rapid crisis response and short-term stabilization for children and youth in their natural
+3 environments.
+4 This act would take effect upon passage.
+========
+LC006098/SUB B/2
+========
+LC006098/SUB B/2 - Page 7 of 7

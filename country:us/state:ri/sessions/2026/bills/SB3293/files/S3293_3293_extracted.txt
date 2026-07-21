@@ -1,0 +1,569 @@
+Title: 
+Official Title: 
+Source: versions - 3293
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3293
+========
+LC006453
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- PROPERTY SUBJECT TO TAXATION
+Introduced By: Senators Patalano, Vargas, Gallo, LaMountain, Tikoian, de la Cruz,
+Thompson, Raptakis, Famiglietti, and Appollonio
+Date Introduced: May 15, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 44-3-4, 44-3-9.12, 44-3-9.13 and 44-3-22 of the General Laws in
+2 Chapter 44-3 entitled "Property Subject to Taxation" are hereby amended to read as follows:
+3 44-3-4. Veterans’ exemptions.
+4 (a)(1) The property of each person who served in the military, national guard, or naval
+5 service of the United States in the war of the rebellion, the Spanish-American war, the insurrection
+6 in the Philippines, the China-relief expedition, or World War I, and the property of each person
+7 who served in the military, national guard, or naval service of the United States in World War II at
+8 any time during the period beginning December 7, 1941, and ending on December 31, 1946, and
+9 members who served in uniform during the Cold War between 1947 through 1991, including those
+10 members who did not serve in a declared war or conflict and the property of each person who
+11 served in the military, national guard, or naval services of the United States in the Korean conflict
+12 at any time during the period beginning June 27, 1950, and ending January 31, 1955, or in the
+13 Vietnam conflict at any time during the period beginning February 28, 1961, and ending May 7,
+14 1975, or who actually served in the Grenada or Lebanon conflicts of 1983-1984, or the Persian Gulf
+15 conflict, the Haitian conflict, the Somalian conflict, and the Bosnian conflict, at any time during
+16 the period beginning August 2, 1990, and ending May 1, 1994, or in any conflict or undeclared war
+17 and who was honorably discharged from the service, or who was discharged under conditions other
+18 than dishonorable, or who, if not discharged, served honorably, or the property of the unmarried
+19 widow or widower of that person, is exempted from taxation to the amount of one thousand dollars
+
+1 ($1,000), except in:
+2 (i) Burrillville, where the exemption is four thousand dollars ($4,000);
+3 (ii) Cumberland, where the town council may, by ordinance, provide for an exemption of
+4 a maximum of twenty-three thousand seven hundred seventy-two dollars ($23,772);
+5 (iii) Cranston, where the exemption shall not exceed three thousand dollars ($3,000)be
+6 calculated as a tax credit not to exceed one hundred eighty-two dollars and ninety cents ($182.90)
+7 per annum, which shall be adjusted every three (3) years immediately following revaluation of
+8 property, with any such increase not to exceed the consumer price index (CPI) and shall be
+9 reviewable by the administration;
+10 (iv) Jamestown, where the town council may, by ordinance, provide for a tax credit or
+11 exemption to any veteran of the United States armed services regardless of their qualified service
+12 dates, who was honorably discharged or who was discharged under conditions other than
+13 dishonorable;
+14 (v) Lincoln, where the exemption shall not exceed ten thousand dollars ($10,000); and
+15 where the town council may also provide for a real estate tax exemption not exceeding ten thousand
+16 dollars ($10,000) for those honorably discharged active duty veterans who served in Operation
+17 Desert Storm;
+18 (vi) Newport, where the exemption is four thousand dollars ($4,000);
+19 (vii) New Shoreham, where the town council may, by ordinance, provide for an exemption
+20 of a maximum of thirty-six thousand four hundred fifty dollars ($36,450);
+21 (viii) North Kingstown, the exemption is a two hundred dollar ($200) tax credit or the
+22 equivalent assessment dollars;
+23 (ix) North Providence, where the town council may, by ordinance, provide for an
+24 exemption of a maximum of five thousand dollars ($5,000);
+25 (x) [As amended by P.L. 2015, ch. 168, § 1]. Smithfield, where the exemption is ten
+26 thousand dollars ($10,000);
+27 (x) [As amended by P.L. 2015, ch. 179, § 1]. Smithfield, where the exemption is four
+28 thousand dollars ($4,000). Provided, effective July 1, 2016, the Smithfield town council may, by
+29 ordinance, provide for an exemption of a maximum of ten thousand dollars ($10,000);
+30 (xi) Warren, where the exemption shall not exceed five thousand five hundred dollars
+31 ($5,500) on motor vehicles, or ten thousand one hundred seventy-five dollars ($10,175) on real
+32 property;
+33 (xii) Westerly, where the town council may, by ordinance, provide an exemption of the
+34 total value of the veterans’ real and personal property to a maximum of forty thousand five hundred
+LC006453 - Page 2 of 17
+
+1 dollars ($40,500);
+2 (xiii) Barrington, where the town council may, by ordinance, provide for an exemption of
+3 six thousand dollars ($6,000) for real property;
+4 (xiv) Exeter, where the exemption is five thousand dollars ($5,000);
+5 (xv) Glocester, where the exemption shall not exceed thirty thousand dollars ($30,000);
+6 (xvi) West Warwick, where the city council may, by ordinance, provide for an exemption
+7 of up to thirty thousand dollars ($30,000);
+8 (xvii) Warwick, where the city council may, by ordinance, provide for an exemption of a
+9 maximum of four thousand dollars ($4,000);
+10 (xviii) [As added by P.L. 2016, ch. 238, § 1].Charlestown, where the town council may,
+11 by ordinance, provide for an additional exemption to any veteran of the United States armed
+12 services, regardless of the veteran’s qualified service dates, who was honorably discharged, or to
+13 the unmarried widow or widower of that person who is not currently receiving this statutory
+14 exemption;
+15 (xix) [As added by P.L. 2016, ch. 268, § 1].Charlestown, where the town council may, by
+16 ordinance, provide for an additional tax credit to any veteran of the United States armed services,
+17 regardless of the veteran’s qualified service dates, who was honorably discharged, or to the
+18 unmarried widow or widower of that person who is not currently receiving this statutory exemption;
+19 (xx) Narragansett, where the town council may, by ordinance, provide for an exemption
+20 of a maximum of twenty thousand dollars ($20,000) from the assessed value of real property, or
+21 twelve thousand dollars ($12,000) from the assessed value of a motor vehicle;
+22 (xxi) Tiverton, where the town council may provide, by ordinance as may be amended from
+23 time to time, a tax credit of two hundred dollars ($200) or greater; and
+24 (xxii) North Smithfield, where the town council may provide, by ordinance, as may be
+25 amended from time to time, a tax dollar credit reduction of three hundred and fifty dollars ($350)
+26 or greater to any veteran as defined in subsection (a)(1) of this section, or a tax dollar credit
+27 reduction of two hundred dollars ($200) or greater to the unmarried widow or widower of any
+28 veteran as defined in subsection (a)(1) of this section.
+29 (2) The exemption is applied to the property in the municipality where the person resides,
+30 and if there is not sufficient property to exhaust the exemption, the person may claim the balance
+31 in any other city or town where the person may own property; provided, that the exemption is not
+32 allowed in favor of any person who is not a legal resident of the state, or unless the person entitled
+33 to the exemption has presented to the assessors, on or before the last day on which sworn statements
+34 may be filed with the assessors for the year for which exemption is claimed, evidence that the
+LC006453 - Page 3 of 17
+
+1 person is entitled, which evidence shall stand so long as the person’s legal residence remains
+2 unchanged; provided, however, that in the town of South Kingstown, the person entitled to the
+3 exemption shall present to the assessors, at least five (5) days prior to the certification of the tax
+4 roll, evidence that he or she is entitled to the exemption; and, provided, further, that the exemption
+5 provided for in this subdivision to the extent that it applies in any city or town, shall be applied in
+6 full to the total value of the person’s real and tangible personal property located in the city or town;
+7 and, provided, that there is an additional exemption from taxation in the amount of one thousand
+8 dollars ($1,000), except in:
+9 (i) Central Falls, where the city council may, by ordinance, provide for an exemption of a
+10 maximum of seven thousand five hundred dollars ($7,500);
+11 (ii) Cranston, where the exemption shall not exceed three thousand dollars ($3,000)be
+12 calculated as a tax credit not to exceed one hundred eighty-two dollars and ninety cents ($182.90)
+13 per annum, which shall be adjusted every three (3) years immediately following revaluation of
+14 property, with any such increase not to exceed the consumer price index (CPI) and shall be
+15 reviewable by the administration;
+16 (iii) Cumberland, where the town council may, by ordinance, provide for an exemption of
+17 a maximum of twenty-two thousand five hundred dollars ($22,500);
+18 (iv) Lincoln, where the exemption shall not exceed ten thousand dollars ($10,000);
+19 (v) Newport, where the exemption is four thousand dollars ($4,000);
+20 (vi) New Shoreham, where the town council may, by ordinance, provide for an exemption
+21 of a maximum of thirty-six thousand four hundred fifty dollars ($36,450);
+22 (vii) New Shoreham, where the town council may, by ordinance, provide for an exemption
+23 of a maximum of five thousand dollars ($5,000);
+24 (viii) Smithfield, where the exemption is four thousand dollars ($4,000);
+25 (ix) Warren, where the exemption shall not exceed eleven thousand dollars ($11,000);
+26 (x) Barrington, where the town council may, by ordinance, provide for an exemption of
+27 six thousand dollars ($6,000) for real property; of the property of every honorably discharged
+28 veteran of World War I or World War II, Korean or Vietnam, Grenada or Lebanon conflicts, the
+29 Persian Gulf conflict, the Haitian conflict, the Somalian conflict and the Bosnian conflict at any
+30 time during the period beginning August 2, 1990, and ending May 1, 1994, or in any conflict or
+31 undeclared war who is determined by the Veterans Administration of the United States of America
+32 to be totally disabled through service-connected disability and who presents to the assessors a
+33 certificate from the veterans administration that the person is totally disabled, which certificate
+34 remains effectual so long as the total disability continues;
+LC006453 - Page 4 of 17
+
+1 (xi) Charlestown, where the town council may, by ordinance, create a tax dollar credit
+2 reduction to replace the tax assessment exemption, as so stated in all sections herein; and
+3 (xii) Jamestown, where the town council may, by ordinance, provide for an exemption to
+4 any veteran of the United States armed services regardless of their qualified service dates, who was
+5 honorably discharged or who was discharged under conditions other than dishonorable, or to the
+6 unmarried widow or widower of that person who is not currently receiving this statutory exemption.
+7 (3) Provided, that:
+8 (i) Burrillville may exempt real property of the totally disabled persons in the amount of
+9 six thousand dollars ($6,000);
+10 (ii) Cumberland town council may, by ordinance, provide for an exemption of a maximum
+11 of twenty-two thousand five hundred dollars ($22,500);
+12 (iii) Little Compton may, by ordinance, exempt real property of each of the totally disabled
+13 persons in the amount of six thousand dollars ($6,000);
+14 (iv) Middletown may exempt the real property of each of the totally disabled persons in the
+15 amount of five thousand dollars ($5,000);
+16 (v) New Shoreham town council may, by ordinance, provide for an exemption of a
+17 maximum of thirty-six thousand four hundred fifty dollars ($36,450);
+18 (vi) North Providence town council may, by ordinance, provide for an exemption of a
+19 maximum of five thousand dollars ($5,000);
+20 (vii) The Tiverton town council may, by ordinance which may be amended from time to
+21 time, provide for a four-hundred-dollar ($400) tax credit or greater on the real property of each of
+22 the totally disabled persons;
+23 (viii) West Warwick town council may exempt the real property of each of the totally
+24 disabled persons in an amount of two hundred dollars ($200);
+25 (ix) Westerly town council may, by ordinance, provide for an exemption on the total value
+26 of real and personal property to a maximum of forty-six thousand five hundred dollars ($46,500);
+27 and
+28 (x) Jamestown, where the town council may, by ordinance, provide for an additional tax
+29 credit or exemption on real and personal property to any veteran of the United States armed services
+30 regardless of their qualified service dates, who is considered one hundred percent (100%) totally
+31 disabled through a service connected disability and who was honorably discharged or who was
+32 discharged under conditions other than dishonorable, or to the unmarried widow or widower of that
+33 person who is not currently receiving this statutory exemption.
+34 (4) There is an additional exemption from taxation in the town of:
+LC006453 - Page 5 of 17
+
+1 Warren, where its town council may, by ordinance, provide for an exemption not exceeding
+2 eight thousand two hundred fifty dollars ($8,250), of the property of every honorably discharged
+3 veteran of World War I or World War II, or Vietnam, Grenada or Lebanon conflicts, the Persian
+4 Gulf conflict, the Haitian conflict, the Somalian conflict and the Bosnian conflict, at any time
+5 during the period beginning August 2, 1990, and ending May 1, 1994, or in any conflict or
+6 undeclared war who is determined by the Veterans’ Administration of the United States of America
+7 to be partially disabled through a service-connected disability and who presents to the assessors a
+8 certificate that they are partially disabled, which certificate remains effectual so long as the partial
+9 disability continues. Provided, however, that the Barrington town council may exempt real property
+10 of each of the above named persons in the amount of three thousand dollars ($3,000); Warwick city
+11 council may, by ordinance, exempt real property of each of the above-named persons and to any
+12 person who served in any capacity in the military or naval service during the period of time of the
+13 Persian Gulf conflict, whether or not the person served in the geographical location of the conflict,
+14 in the amount of four thousand dollars ($4,000).
+15 (5) Lincoln. There is an additional exemption from taxation in the town of Lincoln for the
+16 property of each person who actually served in the military or naval service of the United States in
+17 the Persian Gulf conflict and who was honorably discharged from the service, or who was
+18 discharged under conditions other than dishonorable, or who, if not discharged, served honorably,
+19 or of the unmarried widow or widower of that person. The exemption shall be determined by the
+20 town council in an amount not to exceed ten thousand dollars ($10,000).
+21 (b) In addition to the exemption provided in subsection (a) of this section, there is a ten-
+22 thousand dollar ($10,000) exemption from local taxation on real property for any veteran and the
+23 unmarried widow or widower of a deceased veteran of the military or naval service of the United
+24 States who is determined, under applicable federal law by the Veterans Administration of the
+25 United States, to be totally disabled through service-connected disability and who, by reason of the
+26 disability, has received assistance in acquiring “specially adapted housing” under laws
+27 administered by the veterans’ administration; provided, that the real estate is occupied as his or her
+28 domicile by the person; and, provided, that if the property is designed for occupancy by more than
+29 one family, then only that value of so much of the house as is occupied by the person as his or her
+30 domicile is exempted; and, provided, that satisfactory evidence of receipt of the assistance is
+31 furnished to the assessors except in:
+32 (1) Cranston, where the exemption shall not exceed thirty thousand dollars ($30,000) be
+33 calculated as a tax credit not to exceed four thousand seven hundred twenty-five dollars ($4,725)
+34 per annum, which shall be adjusted every three (3) years immediately following revaluation of
+LC006453 - Page 6 of 17
+
+1 property, with any such increase not to exceed the consumer price index (CPI) and shall be
+2 reviewable by the administration;
+3 (2) Cumberland, where the town council may provide for an exemption not to exceed seven
+4 thousand five hundred dollars ($7,500);
+5 (3) Newport, where the exemption is ten thousand dollars ($10,000) or ten percent (10%)
+6 of assessed valuation, whichever is greater;
+7 (4) New Shoreham, where the town council may, by ordinance, provide for an exemption
+8 of a maximum of thirty-six thousand four hundred fifty dollars ($36,450);
+9 (5) North Providence, where the town council may, by ordinance, provide for an exemption
+10 not to exceed twelve thousand five hundred dollars ($12,500);
+11 (6) Westerly, where the town council may, by ordinance, provide for an exemption of a
+12 maximum of forty thousand five hundred dollars ($40,500);
+13 (7) Lincoln, where the town council may, by ordinance, provide for an exemption of a
+14 maximum of fifteen thousand dollars ($15,000);
+15 (8) Narragansett, where the town council may, by ordinance, provide for an exemption of
+16 a maximum of fifty thousand dollars ($50,000);
+17 (9) Tiverton, where the town council may, by ordinance, provide for a tax credit of two
+18 hundred dollars ($200) or greater, as may be amended from time to time;
+19 (10) Jamestown, where the town council may, by ordinance, provide for a tax credit; and
+20 (11) North Smithfield, where the town council may, by ordinance, as may be amended from
+21 time to time, provide for a tax dollar credit reduction of three hundred and fifty dollars ($350) or
+22 greater.
+23 (c) In addition to the previously provided exemptions, any veteran of the military or naval
+24 service of the United States who is determined, under applicable federal law by the Veterans’
+25 Administration of the United States to be totally disabled through service-connected disability may,
+26 by ordinance, passed in the city or town where the veteran’s property is assessed, receive a ten
+27 thousand dollar ($10,000) exemption from local taxation on his or her property whether real or
+28 personal and if the veteran owns real property may be exempt from taxation by any fire and/or
+29 lighting district; provided, that in the town of: North Kingstown, where the amount of the exemption
+30 shall be eleven thousand dollars ($11,000) commencing with the December 31, 2002, assessment;
+31 and for the town of Westerly, where the amount of the exemption shall be thirty-nine thousand
+32 dollars ($39,000) commencing with the December 31, 2005, assessment; and in the town of
+33 Cumberland, where the amount of the exemption shall not exceed forty-seven thousand five
+34 hundred forty-four dollars ($47,544); and the town of Narragansett, where the amount of the
+LC006453 - Page 7 of 17
+
+1 exemption shall not exceed twenty thousand dollars ($20,000) from the assessed value of real
+2 property or twelve thousand dollars ($12,000) from the assessed value of a motor vehicle; and in
+3 the city of Cranston, commencing with the December 31, 2016, assessment, where the exemption
+4 will not exceed two hundred fifty thousand dollars ($250,000) and be extended to the unmarried
+5 widow or widower of such veteran, and in the town of Tiverton, where, by ordinance, a tax credit
+6 of two hundred dollars ($200) or greater shall be applied to the qualified veteran’s property
+7 assessment tax bill.
+8 (d) In determining whether or not a person is the widow or widower of a veteran for the
+9 purposes of this section, the remarriage of the widow or widower shall not bar the furnishing of the
+10 benefits of the section if the remarriage is void, has been terminated by death, or has been annulled
+11 or dissolved by a court of competent jurisdiction.
+12 (e) In addition to the previously provided exemptions, there may by ordinance passed in
+13 the city or town where the person’s property is assessed, be an additional fifteen thousand dollars
+14 ($15,000) exemption from local taxation on real and personal property for any veteran of military
+15 or naval service of the United States or the unmarried widow or widower of person who has been
+16 or shall be classified as, or determined to be, a prisoner of war by the Veterans’ Administration of
+17 the United States, except in:
+18 (1) Westerly, where the town council may, by ordinance, provide for an exemption of a
+19 maximum of sixty-eight thousand dollars ($68,000);
+20 (2) Cumberland, where the town council may by ordinance provide for an exemption of a
+21 maximum of forty-seven thousand five hundred forty-four dollars ($47,544);
+22 (3) Narragansett, where the town council may, by ordinance, provide for an exemption of
+23 a maximum of forty thousand dollars ($40,000);
+24 (4) Tiverton, where the town council may, by ordinance, provide for a tax credit of six
+25 hundred dollars ($600) or greater;
+26 (5) Jamestown, where the town council may, by ordinance, provide for an exemption
+27 greater than fifteen thousand dollars ($15,000) of value or a tax credit that would offer an equivalent
+28 relief or benefit; and
+29 (6) North Smithfield, where the town council may, by ordinance, as may be amended from
+30 time to time, provide for a tax dollar credit reduction of three hundred and fifty dollars ($350) or
+31 greater.
+32 (f) Cities and towns granting exemptions under this section shall use the eligibility dates
+33 specified in this section.
+34 (g) The several cities and towns not previously authorized to provide an exemption for
+LC006453 - Page 8 of 17
+
+1 those veterans who actually served in the Persian Gulf conflict may provide that exemption in the
+2 amount authorized in this section for veterans of other recognized conflicts.
+3 (h) Bristol, where the town council of Bristol may, by ordinance, provide for an exemption
+4 for any veteran and the unmarried widow or widower of a deceased veteran of military or naval
+5 service of the United States who is determined, under applicable federal law by the Veterans’
+6 Administration of the United States to be partially disabled through service-connected disability.
+7 (i) In addition to the previously provided exemption, any veteran who is discharged from
+8 the military or naval service of the United States under conditions other than dishonorable, or an
+9 officer who is honorably separated from military or naval service, who is determined, under
+10 applicable federal law by the Veterans Administration of the United States to be totally and
+11 permanently disabled through a service-connected disability, who owns a specially adapted
+12 homestead that has been acquired or modified with the assistance of a special adaptive housing
+13 grant from the Veteran’s Administration and that meets Veteran’s Administration and Americans
+14 with disability act guidelines from adaptive housing or that has been acquired or modified using
+15 proceeds from the sale of any previous homestead that was acquired with the assistance of a special
+16 adaptive housing grant from the veteran’s administration, the person or the person’s surviving
+17 spouse is exempt from all taxation on the homestead. Provided, that in the town of Westerly where
+18 the amount of the above referenced exemption shall be forty-six thousand five hundred dollars
+19 ($46,500).
+20 (j) The town of Coventry may provide, by ordinance, a one-thousand-dollar ($1,000)
+21 exemption for any person who is an active member of the armed forces of the United States.
+22 (k) The town of Scituate may provide, by ordinance, in lieu of a tax exemption that grants
+23 to all disabled veterans with a one hundred percent (100%) service-connected disability, a tax credit
+24 in an amount to be determined from time to time by the town council.
+25 (l) Any exemption granted by a municipality pursuant to the provisions of this section, in
+26 addition to other property exempt pursuant to the provisions of subsection (a) of this section, shall
+27 include any life estate in property held by the qualified veteran.
+28 44-3-12. Visually impaired persons — Exemption.
+29 (a) The property of each person who is legally blind according to federal standards as
+30 certified by a licensed physician or as certified by the Rhode Island services for the blind and
+31 visually impaired shall be exempted from taxation to the amount of six thousand dollars ($6,000),
+32 except for the towns of:
+33 Tiverton. Which exemption shall be provided by town ordinance as a tax credit of three
+34 hundred dollars ($300) or greater; and
+LC006453 - Page 9 of 17
+
+1 Warren. Which exemption shall be up to forty thousand eight hundred ninety-five dollars
+2 ($40,895); and
+3 Barrington. Which exemption shall be sixteen thousand dollars ($16,000) for real property.
+4 The exemption shall apply to the property in the municipality where the person resides, and if there
+5 is not sufficient property to exhaust the exemption, the person may proclaim the balance in any city
+6 or town where the person may own property; except for the town of Cumberland, which exemption
+7 shall be up to forty-seven thousand five hundred forty-four dollars ($47,544); and
+8 Westerly. Which may provide, by ordinance, an exemption on the total value of real and
+9 personal property not to exceed twenty-nine thousand dollars ($29,000). The city or town council
+10 of any city or town may, by ordinance, increase the exemption within the city or town to an amount
+11 not to exceed twenty-two thousand five hundred dollars ($22,500). The exemption shall not be
+12 allowed in favor of any person who is not a legal resident of the state, or unless the person entitled
+13 to the exemption shall have presented to the assessors, on or before the last day on which sworn
+14 statements may be filed with the assessors for the year for which exemption is claimed, due
+15 evidence that the person is so entitled, which evidence shall stand so long as his or her legal
+16 residence remains unchanged. The exemption provided for in this section, to the extent that it shall
+17 apply to any city or town, shall be applied in full to the total value of the person’s real and tangible
+18 personal property located in the city or town and shall be applied to intangible personal property
+19 only to the extent that there is not sufficient real property or tangible personal property to exhaust
+20 the exemption. This exemption shall be in addition to any other exemption provided by law except
+21 as provided in § 44-3-25.
+22 West Warwick. Which exemption shall be equal to three hundred thirty-five dollars
+23 ($335).
+24 (b) In each city or town that has not increased the exemption provided by subsection (a)
+25 above the minimum of six thousand dollars ($6,000), except for the town of:
+26 Barrington. Which exemption shall be sixteen thousand dollars ($16,000) for real property.
+27 The exemption shall increase automatically each year by the same percentage as the percentage
+28 increase in the total amount of taxes levied by the city or town. The automatic increase shall not
+29 apply to cities or towns that have increased the exemption provided by subsection (a) above the
+30 minimum of six thousand dollars ($6,000), except for the town of:
+31 Barrington. Which exemption shall be sixteen thousand dollars ($16,000) for real property.
+32 If the application of the automatic increase to an exemption of six thousand dollars ($6,000) on a
+33 continuous basis from December 31, 1987, to any subsequent assessment date would result in a
+34 higher exemption than the exemption enacted by the city or town council, then the amount provided
+LC006453 - Page 10 of 17
+
+1 by the automatic increase applies.
+2 (c) The town of Charlestown may, by ordinance, provide a tax dollar credit reduction for
+3 such legally blind person.
+4 (d) The town of Jamestown may, by ordinance, provide a tax dollar credit reduction on
+5 real property for such legally blind person(s).
+6 (e) The town of North Kingstown may, by ordinance, provide a tax dollar credit reduction
+7 or the equivalent assessment dollars on real property for such legally blind person(s).
+8 (f) The city of Cranston may provide a tax credit not to exceed one thousand ninety-seven
+9 dollars and one cent ($1,097.01) per annum, which shall be adjusted every three (3) years
+10 immediately following revaluation of property, with any such increase not to exceed the consumer
+11 price index (CPI) and shall be reviewable by the administration for such legally blind person(s).
+12 44-3-13. Persons over the age of 65 years — Exemption.
+13 (a) Bristol. The town of Bristol may exempt from taxation the real estate situated in the
+14 town owned and occupied by any resident over the age of sixty-five (65) years, as of the preceding
+15 December 31st; or, over the age of seventy (70) years, as of the preceding December 31st; or, over
+16 the age of seventy-five (75) years, as of the preceding December 31st, and which exemption is in
+17 addition to any and all other exemptions from taxation to which the resident may otherwise be
+18 entitled. The exemption shall be applied uniformly and without regard to ability to pay. Only one
+19 exemption shall be granted to cotenants, joint tenants, and tenants by the entirety, even though all
+20 the cotenants, joint tenants and tenants by the entirety are sixty-five (65) years of age or over as of
+21 the preceding December 31st. The exemption applies to a life tenant who has the obligation for
+22 payment of the tax on real estate. The town council of the town of Bristol shall, by ordinance,
+23 establish the value of this exemption.
+24 (b) Central Falls. The city of Central Falls may, by ordinance, exempt from taxation, real
+25 or personal property located within the city of any person sixty-five (65) years or over, which
+26 exemption shall be in an amount not exceeding seven thousand five hundred dollars ($7,500) of
+27 valuation and which exemption is in addition to any and all other exemptions from taxation and tax
+28 credits to which the person may be entitled by this chapter or any other provision of law.
+29 (c) Cranston.
+30 (1) The city council of the city of Cranston may, by ordinance, exempt from valuation for
+31 taxation the real property situated in the city and owned and occupied by any person over the age
+32 of sixty-five (65) years which exemption is in an amount not exceeding nine thousand dollars
+33 ($9,000) calculated as a tax credit not to exceed five hundred forty-eight dollars and fifty-one cents
+34 ($548.51) per annum, which shall be adjusted every three (3) years immediately following
+LC006453 - Page 11 of 17
+
+1 revaluation of property, with any such increase not to exceed the consumer price index (CPI) and
+2 shall be reviewable by the administration, and which exemption is in addition to any and all other
+3 exemptions from taxation to which the person may be otherwise entitled. The exemption shall be
+4 applied uniformly and without regard to ability to pay.
+5 (2) The city council of the city of Cranston may, by ordinance, exempt from valuation for
+6 taxation the property subject to the excise tax situated in the city and owned by any person over the
+7 age of sixty-five (65) years, not owning real property, which exemption is in an amount not
+8 exceeding three thousand dollars ($3,000) calculated as a tax credit not to exceed five hundred
+9 forty-eight dollars and fifty-one cents ($548.51) per annum, which shall be adjusted every three (3)
+10 years immediately following revaluation of property, with any such increase not to exceed the
+11 consumer price index (CPI) and shall be reviewable by the administration, and which exemption is
+12 in addition to any and all other exemptions from taxation to which the person may be otherwise
+13 entitled. The exemption shall be applied uniformly and without regard to ability to pay.
+14 (d) East Greenwich. The town council of the town of East Greenwich may, by ordinance,
+15 and upon any terms and conditions that it deems reasonable, exempt from taxation the real estate
+16 situated in the town of East Greenwich owned and occupied by any resident of the age of sixty-five
+17 (65) to seventy (70) years, as of the preceding December 31st up to an amount of twenty-six
+18 thousand dollars ($26,000); or, of the age of seventy (70) to seventy-five (75) years, as of the
+19 preceding December 31st up to an amount of thirty-four thousand dollars ($34,000); or, of the age
+20 of seventy-five (75) to eighty (80) years, as of the preceding December 31st up to an amount of
+21 forty-two thousand dollars ($42,000); or, of the age of eighty (80) to eighty-five (85) years, as of
+22 the preceding December 31st up to an amount of fifty thousand dollars ($50,000); or, of the age of
+23 eighty-five (85) years or more, as of the preceding December 31st up to an amount of fifty-eight
+24 thousand dollars ($58,000), and which exemption is in addition to any and all other exemptions
+25 from taxation to which the resident may otherwise be entitled. The exemption shall be applied
+26 uniformly and without regard to ability to pay. Only one exemption shall be granted to cotenants,
+27 joint tenants, and tenants by the entirety, even though all the cotenants, joint tenants, and tenants
+28 by the entirety are eligible for an exemption pursuant to this subsection. The exemption applies to
+29 a life tenant who has the obligation for payment of the tax on real estate.
+30 (e) Lincoln. The town council of the town of Lincoln may, by ordinance, exempt from
+31 taxation the real property, situated in said town, owned and occupied for a period of five (5) years
+32 by any person over the age of sixty-five (65) years, which exemption shall be in an amount not
+33 exceeding twenty-four thousand four hundred and forty dollars ($24,440) of valuation, and which
+34 exemption shall be in addition to any and all other exemptions from taxation to which said person
+LC006453 - Page 12 of 17
+
+1 may be otherwise entitled. Said exemption shall be applied uniformly and without regard to ability
+2 to pay.
+3 (f) North Providence. The town council of the town of North Providence may, by
+4 ordinance, exempt from valuation for taxation the real property located within the town of any
+5 person sixty-five (65) years or over, which exemption is in amount not exceeding ten thousand
+6 dollars ($10,000) of valuation and which exemption shall be in addition to any and all other
+7 exemptions from taxation and tax credits to which the person may be entitled by this chapter or any
+8 other provision of law.
+9 (g) Tiverton. The town council of the town of Tiverton may, by ordinance, exempt from
+10 taxation the real property situated in the town owned and occupied by any person over the age of
+11 sixty-five (65) years, and which exemption is in an amount not exceeding ten thousand dollars
+12 ($10,000) of valuation, and which exemption is in addition to any and all other exemptions from
+13 taxation to which the person may be otherwise entitled. The exemption shall be applied uniformly
+14 and without regard to ability to pay. Only one exemption shall be granted to cotenants, joint tenants,
+15 and tenants by the entirety, even though all of the cotenants, joint tenants, and tenants by the entirety
+16 are sixty-five (65) years of age or over. The exemption applies to a life tenant who has the obligation
+17 for the payment of the tax on real property.
+18 (h) Warren. The town council of the town of Warren may, by ordinance, exempt from
+19 taxation the real property situated in the town owned and occupied by any person over the age of
+20 sixty-five (65) years, and which exemption is in amount not exceeding thirty thousand six hundred
+21 fifty-six dollars ($30,656) of valuation and which exemption is in addition to any and all other
+22 exemptions from taxation to which the person may be otherwise entitled. The exemption shall be
+23 applied uniformly and without regard to ability to pay. Only one exemption shall be granted to
+24 cotenants, joint tenants, and tenants by the entirety, even though all of the cotenants, joint tenants,
+25 and tenants by the entirety are sixty-five (65) years of age or over. The exemption applies to a life
+26 tenant who has the obligation for the payment of the tax on the real property.
+27 (i) Warwick. The finance director of the city of Warwick may, by ordinance, exempt from
+28 taxation owner occupied residential real property or personal property located within the city of
+29 any person sixty-five (65) years or over, which exemption is in an amount not exceeding twelve
+30 thousand dollars ($12,000) of valuation and which exemption is in addition to any and all other
+31 exemptions from taxation and tax credits to which the person may be entitled by this chapter or any
+32 other provision of law.
+33 (j) Westerly. The town council of the town of Westerly may, by ordinance, exempt from
+34 taxation a real property situated in the town owned and occupied for a period of five (5) years next
+LC006453 - Page 13 of 17
+
+1 prior to filing of an application for a tax exemption, by any person over the age of sixty-five (65)
+2 years, and which exemption is in an amount and pursuant to any income limitations that the council
+3 may prescribe in the ordinance from time to time, and which exemption is in addition to any and
+4 all other exemptions from taxation to which the person may be otherwise entitled. The exemption
+5 shall be applied uniformly and without regard to ability to pay. Only one exemption shall be granted
+6 to cotenants, joint tenants, and tenants by the entirety, even though all of the cotenants, joint tenants,
+7 and tenants by the entirety are sixty-five (65) years of age or over. The exemption applies to a life
+8 tenant who has the obligation for the payment of the tax on real property.
+9 (k) Charlestown. The town council of the town of Charlestown may, by ordinance, and
+10 upon any terms and conditions that it deems reasonable, create a tax dollar credit reduction of
+11 taxation against real estate situated in the town of Charlestown owned and occupied by any resident
+12 of the age of sixty-five (65) years or over, and which credit is in an amount and pursuant to any
+13 income limitations that the council may prescribe in the ordinance, from time to time, and which
+14 credit is in addition to any and all other exemptions from taxation to which the person may be
+15 otherwise entitled. The credit shall be applied uniformly and without regard to ability to pay. Only
+16 one credit shall be granted to cotenants, joint tenants, and tenants by the entirety, even though all
+17 of the cotenants, joint tenants, and tenants by the entirety are sixty-five (65) years of age or over.
+18 The credit applies to a life tenant who has the obligation for the payment of the tax on real property.
+19 (l) Johnston.
+20 (1) Notwithstanding any general law to the contrary, the town council of the town of
+21 Johnston may, by ordinance, exempt from taxation the real property situated in the town of Johnston
+22 owned and occupied by any person sixty-five (65) years of age or over. An owner of an owner-
+23 occupied dwelling who has attained the age of at least sixty-five (65) years and who is a resident
+24 of the town of Johnston, as provided in said ordinance, shall be entitled to a tax credit in the amount
+25 of:
+26 (i) Eight hundred dollars ($800) for fiscal year 2025;
+27 (ii) Nine hundred dollars ($900) for fiscal year 2026; and
+28 (iii) One thousand dollars ($1,000) for fiscal year 2027 and thereafter.
+29 (2) There shall be only one such credit granted to co-tenants, joint tenants, or tenants by
+30 the entirety, even though all such co-tenants, joint tenants, or tenants by the entirety are sixty-five
+31 (65) years of age or over and own and occupy the same residential property located in the town of
+32 Johnston.
+33 (3) The credit shall be in addition to any and all other exemptions from taxation to which
+34 the person may be otherwise entitled; provided, however, the total amount of all credits and
+LC006453 - Page 14 of 17
+
+1 exemptions shall not exceed the amount of the eligible resident owner’s total residential property
+2 tax bill in that fiscal year.
+3 44-3-22. Cranston — Real estate and excise tax exemption for persons who are
+4 disabled.
+5 (a)(1) The city council of the city of Cranston is authorized to provide, by ordinance, for
+6 an exemption not to exceed three thousand dollars ($3,000) a tax credit not to exceed three hundred
+7 sixty-five dollars and eighty-four cents ($365.84) per annum, which shall be adjusted every three
+8 (3) years immediately following revaluation of property, with any such increase not to exceed the
+9 consumer price index (CPI) and shall be reviewable by the administration, on assessed value used
+10 in determining the excise tax for any person who meets the following two (2) requirements:
+11 (i) Is determined by the Social Security Administration to be totally disabled;
+12 (ii) Does not own any real property.
+13 (2) The exemption is not allowed unless the person entitled to it has presented to the
+14 assessor on or before the last day on which sworn statements may be filed with the assessor for the
+15 last year for which the exemption is claimed, evidence that he or she is entitled.
+16 (3) Upon attaining the age of sixty-five (65) years, a person who is totally disabled is no
+17 longer entitled to this exemption. Any person who transfers any personal property specifically for
+18 the purpose of qualifying for this exemption shall be denied the exemption.
+19 (b)(1) The city council of the city of Cranston is authorized to provide, by ordinance, for
+20 an exemption up to six thousand dollars ($6,000) a tax credit not to exceed three hundred sixty-five
+21 dollars and eighty-four cents ($365.84) per annum, which shall be adjusted every three (3) years
+22 immediately following revaluation of property, with any such increase not to exceed the consumer
+23 price index (CPI) and shall be reviewable by the administration, on assessed value from local
+24 taxation on real residential property for any person who meets the following three (3) requirements:
+25 (i) Head of household;
+26 (ii) Is determined by the Social Security Administration to be totally disabled; and
+27 (iii) Is occupied as a domicile of the person who is disabled.
+28 (2) In no case is real residential property entitled to more than one, six-thousand dollar
+29 ($6,000) exemption three hundred sixty-five dollar and eighty-four cent ($365.84) tax credit even
+30 though occupied and designated as a domicile by more than one person who is disabled.
+31 (3) The total amount of tax exemption that one can receive from any source whatsoever
+32 under this subsection shall not exceed six-thousand dollars ($6,000) three hundred sixty-five dollars
+33 and eighty-four cents ($365.84).
+34 (4) The exemption is not allowed unless the person entitled to it has presented to the
+LC006453 - Page 15 of 17
+
+1 assessors, on or before the last day on which sworn statements may be filed with the assessors for
+2 the year for which the exemption is claimed, due evidence that he or she is so entitled.
+3 (5) Upon attaining the age of sixty-five (65) years, a person who is totally disabled is no
+4 longer entitled to this exemption.
+5 SECTION 2. This act shall take effect upon passage.
+========
+LC006453
+========
+LC006453 - Page 16 of 17
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- PROPERTY SUBJECT TO TAXATION
+***
+1 This act would change tax exemptions to tax credits in the city of Cranston.
+2 This act would take effect upon passage.
+========
+LC006453
+========
+LC006453 - Page 17 of 17

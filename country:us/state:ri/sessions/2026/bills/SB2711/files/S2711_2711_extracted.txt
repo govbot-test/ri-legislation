@@ -1,0 +1,244 @@
+Title: 
+Official Title: 
+Source: versions - 2711
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2711
+========
+LC005201
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- EXPUNGEMENT OF CRIMINAL RECORDS --
+THE RHODE ISLAND CLEAN SLATE ACT
+Introduced By: Senators Dimitri, Bissaillon, McKenney, Zurier, Mack, DiMario, Murray,
+Bell, Quezada, and Valverde
+Date Introduced: February 27, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 12-1.3-1 of the General Laws in Chapter 12-1.3 entitled
+2 "Expungement of Criminal Records" is hereby amended to read as follows:
+3 12-1.3-1. Definitions.
+4 For purposes of this chapter only, the following definitions apply:
+5 (1) “Administrative office of state courts” or “AOSC” means the administrative arm of the
+6 Rhode Island unified judicial system designed by the supreme court to manage statewide judicial
+7 administration and court technology.
+8 (2) “Central repository” means the statewide electronic criminal history repository
+9 maintained under the authority of the department of attorney general.
+10 (1)(3) “Crime of violence” includes murder, manslaughter, first-degree arson, kidnapping
+11 with intent to extort, robbery, larceny from the person, first-degree sexual assault, second-degree
+12 sexual assault, first- and second-degree child molestation, assault with intent to murder, assault
+13 with intent to rob, assault with intent to commit first-degree sexual assault, burglary, and entering
+14 a dwelling house with intent to commit murder, robbery, sexual assault, or larceny.
+15 (2)(4) “Expungement of records and records of conviction” means the sealing and retention
+16 of all records of a conviction and/or probation and the removal from active files of all records and
+17 information relating to conviction and/or probation.
+18 (3)(5) “First offender” means a person who has been convicted of a felony offense or a
+
+1 misdemeanor offense, and who has not been previously convicted of or placed on probation for a
+2 felony or a misdemeanor and against whom there is no criminal proceeding pending in any court.
+3 (4)(6) “Law enforcement agency” means a state police organization of this or any other
+4 state; the enforcement division of the department of environmental management; the office of the
+5 state fire marshal; the capitol police; a law enforcement agency of the federal government; and any
+6 agency, department, or bureau of the United States government that has as one of its functions the
+7 gathering of intelligence data.
+8 (5)(7) “Misdemeanor” includes, but is not limited to, those crimes previously classified as
+9 felonies under law at the time the original sentence was imposed but reclassified by the general
+10 assembly as a misdemeanor in the interim, prior to the time the motion to expunge is brought.
+11 (6)(8) “Records” and “records of conviction and/or probation” include all court records, all
+12 records in the possession of any state or local police department, the bureau of criminal
+13 identification, and the probation department, including, but not limited to, any fingerprints,
+14 photographs, physical measurements, or other records of identification. The terms “records” and
+15 “records of conviction and/or probation” do not include the records and files of the department of
+16 attorney general which are not kept by the bureau of criminal identification in the ordinary course
+17 of the bureau’s business.
+18 (9) “Sentence completion date” means the date that, based upon the disposition date and
+19 the sentence specified in the records, the person appears to have completed their sentence including
+20 any probation, mandatory supervision, post release community supervision, and parole.
+21 SECTION 2. Chapter 12-1.3 of the General Laws entitled "Expungement of Criminal
+22 Records" is hereby amended by adding thereto the following section:
+23 12-1.3-6. Automated expungement of criminal records.
+24 (a) Notwithstanding any other provision of this section, and cumulative with any rights to
+25 expungement or sealing of criminal records, this subsection authorizes the automatic expungement
+26 of eligible conviction records by operation of law, initiated and completed by state agencies through
+27 electronic processes without requiring an individual to file a petition, pay a fee, or otherwise take
+28 affirmative action. Nothing in this section precludes an individual from filing a petition for
+29 expungement of records for eligible records not automatically expunged under this section. All
+30 rights and provisions described in § 12-1.3-4 of this section shall apply to records automatically
+31 expunged under this subsection.
+32 (b) A person is eligible to have their record automatically expunged pursuant to this section
+33 if:
+34 (1) The person has been convicted of a misdemeanor offense, and has not been previously
+LC005201 - Page 2 of 8
+
+1 convicted of or placed on probation for a felony or a misdemeanor in the State of Rhode Island.
+2 (2) The person has been convicted of a misdemeanor offense under chapter 29 of title 12,
+3 § 31-27-2 and sentenced under § 3l-27-2(d)(1)(i) - (iii); provided that, the person has not been
+4 convicted of or placed on probation for a prior or subsequent conviction under chapter 29 of title
+5 12, or § 31-27-2.
+6 (3) The person has been convicted of a felony offense, and has not been previously
+7 convicted of or placed on probation for a felony in the State of Rhode Island.
+8 (4) The person has been convicted of more than one misdemeanor, but fewer than six (6)
+9 misdemeanors, and has not been convicted of a felony in the State of Rhode Island; provided that,
+10 convictions for offenses under chapter 29 of title 12, § 31-27-2 or § 31-27-2.1 are not eligible for
+11 and may not be automatically expunged under this subsection.
+12 (5) The person has paid all outstanding court-imposed or court-related fees, fines, costs,
+13 assessments, charges, and/or any other monetary obligations associated with the eligible record.
+14 (6) Subject to subsections (b)(1) and (b)(2) of this section, the person has not been
+15 convicted of any misdemeanor or felony in the State of Rhode Island in the five (5) years following
+16 their sentence completion date and against whom there is no criminal proceeding pending in any
+17 Rhode Island court; provided that, if a charge is pending, and if the AOSC is otherwise unable to
+18 electronically determine disposition status, misdemeanor charges shall not be considered pending
+19 if one year has elapsed since the filing of charges and felony charges shall not be considered
+20 pending if seven (7) years have elapsed since the filing of charges.
+21 (7) Subject to subsections (b)(3) and (b)(4) of this section, the person has not been
+22 convicted of any misdemeanor or felony offenses in the State of Rhode Island in the ten (10) years
+23 following the sentence completion date of the most recent eligible record and against whom there
+24 is no criminal proceeding pending in any Rhode Island court; provided that, if a charge is pending,
+25 and if the AOSC is otherwise unable to electronically determine disposition status, misdemeanor
+26 charges shall not be considered pending if one year has elapsed since the filing of charges and
+27 felony charges shall not be considered pending if seven (7) years have elapsed since the filing of
+28 charges.
+29 (c) Notwithstanding subsection (b) of this section, convictions for offenses defined as
+30 violent offenses in this chapter are not eligible for automatic expungement.
+31 (d) For purposes of this section, if multiple offenses were charged as counts in the same
+32 case, all such offenses shall count as only the highest level offense in that case; provided that, none
+33 of those offenses constitute a violent offense as defined in this section.
+34 (e) All electronic records in the statewide court case management system that become
+LC005201 - Page 3 of 8
+
+1 eligible for automated expungement either upon the effective date of this legislation or between the
+2 effective date and August 28, 2029, shall be identified and expunged before January l, 2030, in a
+3 cadence to be determined by the AOSC.
+4 (f) Commencing two (2) years from the effective date of this section, the AOSC shall, on
+5 at least a monthly basis, use the electronic records in the central court database to:
+6 (1) Identify all new dispositions that have become eligible for automated expungement
+7 since any prior record identification under this section; and
+8 (2) Reevaluate records that were previously ineligible but have become eligible due to the
+9 passage of time or other changes in status.
+10 (g) The AOSC shall compile, in an electronic format, a list of all records determined to be
+11 eligible under subsection (t) of this section, organized by court (superior court or district court) and
+12 by case number. For each monthly determination of eligible records, the AOSC shall transmit, or
+13 otherwise make available by secure electronic means, the relevant portions of that list and any
+14 supporting data necessary to identify the cases and counts to the clerk of the superior court for
+15 superior court cases; and the clerk of the district court for district court cases; provided that,
+16 transmission under this subsection may consist of direct updates to a shared case management
+17 system, the provision of structured data files, or any other secure electronic mechanism agreed upon
+18 by the AOSC and the recipient courts.
+19 (h) Within one month after receiving the eligible record lists transmitted under subsection
+20 (g) of this section, the superior court and the district court, as applicable, shall create the appropriate
+21 orders necessary to implement automated expungement for the enumerated records; provided that,
+22 the courts may create such orders in omnibus form and may identify covered persons, cases, or
+23 counts by reference to electronic attachments, spreadsheets, lists, or other tabular formats generated
+24 by the AOSC.
+25 (i) For superior court cases, the presiding judge of the superior court, or a judicial officer
+26 designated by the presiding justice, shall review and enter the omnibus orders created under
+27 subsection (h) of this section, and for district court cases, the chief judge of the district court, or a
+28 judicial officer designated by the chief judge, shall review and enter the omnibus orders created
+29 under subsection (h) of this section within one month of receipt of eligible records under subsection
+30 (h) of this section.
+31 (j) Entry of omnibus orders under this section shall occur within ten (10) days of the
+32 creation of the orders pursuant to subsection (h) of this section, unless the presiding justice or chief
+33 judge certifies in writing that additional time is necessary due to extraordinary operational
+34 constraints; provided, however, in no event shall entry be delayed beyond thirty (30) days after
+LC005201 - Page 4 of 8
+
+1 receipt of the eligible record lists transmitted under subsection (t) of this section.
+2 (k) Upon entry of the omnibus orders under subsection (g) of this section, the superior court
+3 and the district court shall promptly record those orders in the central court database.
+4 (l) Within ten (10) days of the entry of any omnibus orders, the superior court and the
+5 district court shall transmit, or otherwise make available by secure electronic means, copies of such
+6 omnibus orders, including any electronic attachments or lists, to the AOSC; provided that, the
+7 AOSC may satisfy this requirement by retrieving the orders and associated data directly from the
+8 central court database.
+9 (m) Upon receipt of any omnibus orders under subsection (i) of this section, the AOSC
+10 shall, within ten (10) days of receipt, make all necessary bulk updates to the electronic records in
+11 the central court database to:
+12 (1) Reflect that the affected records have been expunged by operation of law; and
+13 (2) Ensure that the affected records cannot be accessed by the public through any electronic
+14 public-facing access points operated or controlled by the judiciary, including online docket search
+15 portals.
+16 (n) Neither the courts nor the AOSC shall be required to proactively segregate, redact, or
+17 physically alter paper court files for the sole purpose of complying with automated expungement
+18 obligations under this chapter if doing so would be unduly burdensome, as long as such records are
+19 not made available to the public.
+20 (o) Upon receipt of the omnibus orders and associated record lists from the AOSC, the
+21 department of attorney general shall, within one month:
+22 (1) Remove from public inspection all applicable electronic records in the central
+23 repository that correspond to the expunged court records; provided that, nothing in this subsection
+24 shall be construed to require the department to perform a separate eligibility determination and the
+25 department may rely upon the court orders and notifications transmitted pursuant to this subsection;
+26 and
+27 (2) Implement or update any internal electronic flags or access controls necessary to
+28 prevent public dissemination of those records through background checks or other public-facing
+29 products generated from the central repository.
+30 (p) The department of attorney general shall adopt rules, regulations, and internal policies
+31 as necessary to prevent public disclosure of any electronic or physical record in the central
+32 repository that has been subjected to automated expungement under this chapter.
+33 (q) State and local police departments, or other law enforcement agencies, are not required
+34 to alter their records in response to an expungement order under this section; provided that, if any
+LC005201 - Page 5 of 8
+
+1 state or local police department or other law enforcement agency receives a request to disclose
+2 arrest or conviction records covered by this section, that agency shall first verify with the
+3 department of attorney general whether the records have been subjected to automated
+4 expungement, and, if the department of attorney general confirms that a requested record has been
+5 subjected to automated expungement, the police department or other law enforcement agency shall
+6 not disclose the record to the requesting party, except as otherwise authorized by law for access to
+7 expunged records.
+8 (r) Any records already expunged or sealed pursuant to §§ 12-1-12, 12-1-12.1, 12-1.3-5,
+9 12-10-12, or any other existing authority shall be treated as expunged or sealed for purposes of this
+10 section and need not be reprocessed under the automated workflow, except to the extent necessary
+11 to ensure consistency of electronic records in the central court database and the central repository.
+12 (s) The supreme court, through the AOSC, and the department of attorney general shall
+13 adopt such rules and regulations as are necessary to implement this section including, but not
+14 limited to, technical specifications for electronic data exchange, standards for matching records,
+15 and procedures to address incomplete or inconsistent data.
+16 (t) Upon the entry of an automated expungement order under subsection (m) of this section:
+17 (1) The person who is the subject of the expunged record may truthfully state, for any
+18 purpose including, but not limited, to applications for employment, housing, credit, or licensure,
+19 that they have never been arrested, charged, or convicted of the crime that was the subject of the
+20 expunged record; and
+21 (2) No person, agency, or entity shall inquire into or require the disclosure of the existence
+22 of the expunged record, except if federal law, including rules and regulations promulgated by a
+23 self-regulatory organization that has been created under federal law, requires the consideration of
+24 an applicant’s sealed and/or expunged criminal history.
+25 (u) The AOSC and the department of attorney general shall jointly submit annual public
+26 reports for at least the first five (5) years after the effective date of this section, and thereafter upon
+27 request of the general assembly, including:
+28 (1) The total number of records identified as eligible in each backlog and monthly run;
+29 (2) The total number of records expunged in the courts and removed from public inspection
+30 in the central repository; and
+31 (3) Any significant implementation challenges and steps taken to resolve them; provided
+32 that, reporting under this subsection shall not include personally identifiable information but may
+33 include aggregate demographic information, consistent with applicable law, to evaluate the
+34 equitable impact of automated expungement.
+LC005201 - Page 6 of 8
+
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC005201
+========
+LC005201 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- EXPUNGEMENT OF CRIMINAL RECORDS --
+THE RHODE ISLAND CLEAN SLATE ACT
+***
+1 This act would authorize the automatic expungement of eligible conviction records by
+2 operation of law, initiated and completed by state agencies through electronic processes established
+3 within the judicial system.
+4 This act would take effect upon passage.
+========
+LC005201
+========
+LC005201 - Page 8 of 8

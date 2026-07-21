@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - 2809
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2809
+========
+LC004785
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- EMPLOYEE OWNERSHIP TAX CREDIT
+Introduced By: Senators Ciccone, and DiPalma
+Date Introduced: March 04, 2026
+Referred To: Senate Finance
+(Lieutenant Governor)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings and purpose.
+2 The general assembly finds and declares that the purposes of the tax credit created in
+3 chapter 73 of title 44 is to induce certain designated behavior by taxpayers, to create or retain jobs,
+4 and to provide income tax relief for certain businesses or individuals. Specifically, the tax credit
+5 facilitates employee ownership and the retention of community investment and wealth by business
+6 owners and employers in a community.
+7 SECTION 2. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+8 adding thereto the following chapter:
+9 CHAPTER 73
+10 EMPLOYEE OWNERSHIP TAX CREDIT
+11 44-73-1. Definitions.
+12 For the purposes of this section, unless the context otherwise requires:
+13 (1) "Alternate equity structure" means a mechanism under which an employer grants to
+14 employees a form of employee ownership including, but not limited to, an employee stock
+15 ownership plan, LLC membership, phantom stock, profit interest, restricted stock, stock
+16 appreciation right, stock option, or synthetic equity. An alternative equity structure must at a
+17 minimum:
+18 (i) Grant rights to or be offered at least twenty percent (20%) of an employer's eligible
+19 workers, or grant rights to or be offered to at least twenty percent (20%) of eligible workers of an
+
+1 employer that is owned by or operated for the benefit of eligible workers in a broad-based employee
+2 ownership transition. For the purposes of this definition, "eligible workers" means all full-time
+3 employees, regular employees, non-seasonal employees, non-managerial employees, and contract
+4 labor;
+5 (ii) Have the participation of at least twenty percent (20%) of an employer's eligible
+6 workers;
+7 (iii) Allocate at least twenty percent (20%) of the fully diluted securities or rights to a
+8 synthetic interest in securities to participating eligible workers, or allocate twenty percent (20%) of
+9 net profit from operations to participating eligible workers; and
+10 (iv) Grant to participating eligible workers informational rights, decision-making rights,
+11 and non-financial rights that are equal to or greater than the rights that are granted to holders of the
+12 employer's common stock or holders of the employer's residual membership interest.
+13 (2) "Conversion costs" means professional services, including accounting, legal, and
+14 business advisory services, for the transition of a business to employee ownership trust, an
+15 employee stock ownership plan, or a worker-owned cooperative. "Conversion costs" include costs
+16 to audit the cost certification as required in this section.
+17 (3) "Department" means the Rhode Island department of revenue.
+18 (4) "Employee ownership trust" means an indirect form of employee ownership in which
+19 a trust holds a controlling stake in a qualified business and benefits all employees on an equal basis.
+20 (5) "Employee stock ownership plan" has the same definition as set forth in 26 U.S.C. §
+21 4975 (e)(7) of the Internal Revenue Code, as amended.
+22 (6) "Expansion costs" means professional services, including accounting, legal, and
+23 business advisory services, as detailed in the guidelines issued by the office, for the expansion of a
+24 qualified employee-owned business's employee ownership trust, employee stock ownership plan,
+25 worker-owned cooperative, or alternate equity structure. Expansion costs include costs to audit the
+26 cost of certification.
+27 (7) "Office" means business development center as established in § 42-64-39
+28 (8) "Owner" means the owner of a qualified business before a conversion occurs.
+29 (9) "Qualified business" means a taxpayer subject to tax under this chapter including, but
+30 not limited to, a C Corporation, S Corporation, limited liability company, partnership, limited
+31 liability partnership, a sole proprietorship, or other similar pass-through entity, that is not owned in
+32 whole or in part by an employee ownership trust, that does not have an employee stock ownership
+33 plan, that is not, in whole or in part, a worker-owned cooperative, or does not have an alternate
+34 equity structure, and that is approved by the office for the tax incentives in this section.
+LC004785 - Page 2 of 6
+
+1 (10) "Qualified employee-owned business" means a taxpayer that is subject to tax under
+2 this chapter including, but not limited to, a C Corporation, S Corporation, limited liability company,
+3 partnership, limited liability partnership, a sole proprietorship, or other similar pass-through entity,
+4 that:
+5 (i) Is owned in whole or in part by an employee-ownership trust;
+6 (ii) Has an employee stock ownership program;
+7 (iii) Is in whole or in part a worker-owned cooperative; or
+8 (iv) Has an alternate equity structure; and
+9 (v) Is approved by the office for the tax incentives in this section.
+10 (11) "Worker-owned cooperative" has the same meaning as set forth in § 7-6.2-2.
+11 44-73-2. Tax Credit.
+12 (a) Subject to the certification by the office pursuant to this section, for income tax years
+13 commencing on or after January 1, 2026, but prior to January 1, 2029, a qualified business is
+14 allowed a credit with respect to the income taxes imposed as follows:
+15 (1) Up to fifty percent (50%) of the conversion costs, not to exceed one hundred thousand
+16 dollars ($100,000), incurred by a qualified business for converting the qualified business to a
+17 worker-owned cooperative or an employee-ownership trust;
+18 (2) Up to fifty percent (50%) of the conversion costs, not to exceed one hundred thousand
+19 dollars ($100,000), incurred by a qualified business to an employee stock ownership plan; or
+20 (3) Up to fifty percent (50%) of the conversion costs, not to exceed twenty-five thousand
+21 dollars ($25,000), incurred by a qualified business for converting the qualified business to an
+22 alternate equity structure.
+23 (b) Subject to the certification by the office pursuant to this section, for income tax years
+24 commencing on or after January 1, 2026, but prior to January 1, 2029, a qualified employee-owned
+25 business is allowed a credit with respect to the income taxes imposed of up to fifty percent (50%)
+26 of the expansion costs, not to exceed twenty-five thousand dollars ($25,000), incurred to expand a
+27 qualified employee-owned business's employee-ownership trust, employee stock ownership
+28 program, worker-owned cooperative, or alternate equity structure.
+29 (1) To be eligible for the credit allowed pursuant to this section, a qualified employee-
+30 owned business must expand its employee ownership trust, employee stock ownership program,
+31 worker-owned cooperative, or alternate equity structure by an increment of at least twenty percent
+32 (20%) of the total ownership of the entire qualified employee-owned business.
+33 (2) In the case of a qualified business or qualified employee-owned business that is a C
+34 Corporation, the credit is allowed to the qualified business or the qualified employee-owned
+LC004785 - Page 3 of 6
+
+1 business.
+2 (3) In the case of a qualified business or qualified employee-owned business that is a
+3 partnership or S Corporation, the credit is allowed to the owner of the business.
+4 44-73-3. Procedure.
+5 (a) The office shall develop guidelines for the administration of this chapter including, but
+6 not limited to:
+7 (1) Application requirements;
+8 (2) Guidelines for eligible conversion or expansion costs;
+9 (3) Guidelines and standards for certifying a business as a qualified employee-owned
+10 business; and
+11 (4) Guidelines for making known the existence of this tax credit, communicating with small
+12 business owners and chambers of commerce, and ensuring that there is equal access to this credit
+13 across language barriers.
+14 (b) A business shall submit an application to the office for the issuance of a credit certificate
+15 for the credit allowed in this chapter by the deadlines established in the office's guidelines. The
+16 application must include information, as set forth in the office's guidelines, regarding the type of
+17 conversion or expansion the business intends to undertake, a list of the expected conversion or
+18 expansion costs, and an estimated amount, as calculated by the business, of the expected conversion
+19 or expansion costs.
+20 (c) To claim the tax credit allowed in § 44-73-2, a qualified business or qualified employee-
+21 owned business must annually apply for and receive a tax credit certificate from the office. The
+22 submission of an application does not entitle the qualified business to the issuance of a tax credit
+23 certificate.
+24 (d) The office shall document the date and time that a complete application was received
+25 and shall review complete applications in the order in which they are received. If the office
+26 determines that an applicant is not entitled to a tax credit certificate, the office shall notify the
+27 applicant of its disapproval in writing.
+28 (e) If the office is satisfied that the requirements of this section and the office's guidelines
+29 for the tax credit are met, then the office shall issue to the qualified business or qualified employee-
+30 owned business a tax credit certificate that evidences their right to claim the tax credit allowed in
+31 this chapter. The office shall not issue tax credit certificates in excess of the maximum aggregate
+32 amount for any single income tax year specified in subsection (f) of this section.
+33 (f) The maximum aggregate amount of all tax credit certificates that the office may issue
+34 pursuant to this section in any single income tax year is one million dollars ($1,000,000).
+LC004785 - Page 4 of 6
+
+1 44-73-4. Claiming tax credit.
+2 To claim the tax credit allowed in § 44-73-2, the qualified business or qualified employee-
+3 owned business shall file the tax credit certificate with their state income tax return. If the amount
+4 of the tax credit exceeds the taxes due on the income of the qualified business or qualified
+5 employee-owned business for the taxable year for which the tax credit is claimed, the amount of
+6 the tax credit not used to offset income taxes must be refunded to the qualified business or qualified
+7 employee-owned business.
+8 44-73-5. Severability.
+9 If any portion of this law is found by a court of competent jurisdiction to be unlawful, such
+10 finding shall not affect any other portion of said law not specifically so found.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC004785
+========
+LC004785 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- EMPLOYEE OWNERSHIP TAX CREDIT
+***
+1 This act would establish a tax credit for businesses transitioning to employee ownership.
+2 This act would take effect upon passage.
+========
+LC004785
+========
+LC004785 - Page 6 of 6

@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - 8191
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8191
+========
+LC005896
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+Introduced By: Representatives Giraldo, Alzate, Donovan, and Morales
+Date Introduced: February 27, 2026
+Referred To: House Finance
+(Health Source of Rhode Island)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-30-101 of the General Laws in Chapter 44-30 entitled "Personal
+2 Income Tax" is hereby amended to read as follows:
+3 44-30-101. Requirements concerning qualifying health insurance coverage.
+4 (a) Definitions. For purposes of this section:
+5 (1) “Applicable individual” has the same meaning as set forth in 26 U.S.C. § 5000A(d).
+6 (2) “Minimum essential coverage” has the same meaning as set forth in 26 U.S.C. §
+7 5000A(f).
+8 (3) “Shared responsibility payment penalty” means the penalty imposed pursuant to
+9 subsection (c) of this section.
+10 (4) “Taxpayer” means any resident individual, as defined in § 44-30-5.
+11 (b) Requirement to maintain minimum essential coverage. Every applicable individual
+12 must maintain minimum essential coverage for each month beginning after December 31, 2019.
+13 (c) Shared responsibility payment penalty imposed for failing to maintain minimum
+14 essential coverage. As of January 1, 2020, every applicable individual required to file a personal
+15 income tax return pursuant to § 44-30-51, shall indicate on the return, in a manner to be prescribed
+16 by the tax administrator, whether and for what period of time during the relevant tax year the
+17 individual and his or her spouse and dependents who are applicable individuals were covered by
+18 minimum essential coverage. If a return submitted pursuant to this subsection fails to indicate that
+19 coverage was in force or indicates that any applicable individuals did not have coverage in force, a
+
+1 shared responsibility payment penalty shall hereby be assessed as a tax on the return.
+2 (d) Shared responsibility payment penalty calculation. Except as provided in subsection
+3 (e), the shared responsibility payment penalty imposed shall be equal to a taxpayer’s federal shared
+4 responsibility payment for the taxable year under section 5000A of the Internal Revenue Code of
+5 1986, as amended, and as in effect on the 15th day of December 2017.
+6 (e) Exceptions.
+7 (1) Penalty cap. The amount of the shared responsibility payment penalty imposed under
+8 this section shall be determined, if applicable, using the statewide average premium for bronze-
+9 level plans offered through the Rhode Island health benefits exchange rather than the national
+10 average premium for bronze-level plans.
+11 (2) Hardship exemption determinations. Determinations as to hardship exemptions shall
+12 be made by the exchange under § 42-157-11.
+13 (3) Religious conscience exemption determinations. Determinations as to religious
+14 conscience exemptions shall be made by the exchange under § 42-157-11.
+15 (4) Taxpayers with gross income below state filing threshold. No penalty shall be imposed
+16 under this section with respect to any applicable individual for any month during a calendar year if
+17 the taxpayer’s household income for the taxable year as described in section 1412(b)(1)(B) of the
+18 Patient Protection and Affordable Care Act is less than the amount of gross income requiring the
+19 taxpayer to file a return as set forth in § 44-30-51.
+20 (5) Out of state residents. No penalty shall be imposed by this section with respect to any
+21 applicable individual for any month during which the individual is a bona fide resident of another
+22 state.
+23 (6) Individual on Medicaid. No penalty shall be imposed by this section with respect to any
+24 applicable individual who is enrolled in the Medicaid program through December 31, 2023.
+25 (f) Health insurance market integrity fund. The tax administrator is authorized to
+26 withhold from any state tax refund due to the taxpayer an amount equal to the calculated shared
+27 responsibility payment penalty and shall place those amounts in the health insurance market
+28 integrity fund created pursuant to § 42-157.1-5.
+29 (g) Deficiency. If, upon examination of a taxpayer’s return, the tax administrator
+30 determines there is a deficiency because any refund due to the taxpayer is insufficient to satisfy the
+31 shared responsibility penalty or because there was no refund due, the tax administrator may notify
+32 the taxpayer of the deficiency in accordance with § 44-30-81 and interest shall accrue on the
+33 deficiency as set forth in § 44-30-84. All monies collected on the deficiency shall be placed in the
+34 health insurance market integrity fund created pursuant to § 42-157.1-5.
+LC005896 - Page 2 of 5
+
+1 (h) Application of federal law. The shared responsibility payment penalty shall be
+2 assessed and collected as set forth in this chapter and, where applicable, consistent with regulations
+3 promulgated by the federal government, the exchange, and/or the tax administrator. Any federal
+4 regulation implementing section 5000A of the Internal Revenue Code of 1986, as amended, and in
+5 effect on the 15th day of December 2017, shall apply as though incorporated into the Rhode Island
+6 code of regulations. Federal guidance interpreting these federal regulations shall similarly apply.
+7 Except as provided in subsections (j) and (k) of this section, all references to federal law shall be
+8 construed as references to federal law as in effect on December 15, 2017, including applicable
+9 regulations and administrative guidance that were in effect as of that date.
+10 (i) Unavailability of federal premium tax credits. For any taxable year in which federal
+11 premium tax credits available pursuant to 26 U.S.C. § 36B become unavailable due to the federal
+12 government repealing that section or failing to fund the premium tax credits, the shared
+13 responsibility payment penalty under this section shall not be enforced.
+14 (j) Imposition of federal shared responsibility payment. For any taxable year in which
+15 a federal penalty under section 5000A of the Internal Revenue Code of 1986 is imposed on a
+16 taxpayer in an amount comparable to the shared responsibility payment penalty assessed under this
+17 section, the state penalty shall not be enforced.
+18 (k) Agency coordination. Where applicable, the tax administrator shall implement this
+19 section in consultation with the office of the health insurance commissioner, the office of
+20 management and budget, the executive office of health and human services, and the Rhode Island
+21 health benefits exchange.
+22 (l) Data Sharing. (1) Information to be disclosed. The tax administrator, upon written
+23 request from the Rhode Island health benefits exchange, shall disclose to officers, employees, and
+24 contractors of the Rhode Island health benefits exchange, with respect to any applicable individual
+25 who indicated on a return that minimum essential coverage was not in force and did not opt out
+26 under subsection (l)(2) of this section:
+27 (i) The name, age, mailing address, and other contact information, such as email address
+28 and phone number, if available, of such applicable individual.
+29 (2) Opt-Out. Every applicable individual who indicates on a return that minimum essential
+30 coverage required by subsection (b) of this section was not in force shall also indicate on the return,
+31 in a manner prescribed by the tax administrator, whether the applicable individual wishes to opt
+32 out of being contacted directly by the Rhode Island health benefits exchange about enrollment in
+33 health coverage.
+34 (3) Definition of applicable year. For purposes of this subsection, the term “applicable
+LC005896 - Page 3 of 5
+
+1 year” means the most recent taxable year for which information is available in the Rhode Island
+2 department of revenue’s taxpayer data information systems, or, if there is no return filed for such
+3 taxpayer for such year, the prior taxable year.
+4 (4) Restriction on use of disclosed information. Return information disclosed under this
+5 subsection may be used only for the purposes authorized by this subsection and § 42-157-13.
+6 (5) Privacy and Security. The Rhode Island health benefits exchange and the tax
+7 administrator shall develop a detailed set of data privacy and data security safeguards to govern the
+8 conveyance of data between their agencies under this section. With respect to information disclosed
+9 by the tax administrator to the Rhode Island health benefits exchange pursuant to this subsection,
+10 the Rhode Island health benefits exchange, its officers, employees, and contractors, shall be subject
+11 to § 44-30-95(c).
+12 (6) Sunset. The authority of the tax administrator to disclose return information under
+13 subsection (l)(1) of this section shall apply only to tax years beginning on or after January 1, 2026,
+14 and ending on or before December 31, 2027. No return information shall be disclosed pursuant to
+15 subsection (l)(1) of this section with respect to any other tax years.
+16 (i) The expiration of authority under subsection (l)(6) of this section shall not impair or
+17 limit the authority of the Rhode Island health benefits exchange to retain or use return information
+18 lawfully obtained under this section with respect to tax years beginning on or after January 1, 2026,
+19 and ending on or before December 31, 2027, for the purposes specified in subsection (l)(4) of this
+20 section through December 31, 2029. By January 1, 2030, the Rhode Island health benefits exchange
+21 shall delete and destroy all return information disclosed pursuant to subsection (l)(1) of this section
+22 from its system, files, and any databases.
+23 SECTION 2. This act shall take effect upon passage.
+========
+LC005896
+========
+LC005896 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+***
+1 This act would provide proper authority for the division of taxation to provide
+2 HealthSource RI with contact information for Rhode Islanders who report they were uninsured on
+3 their HealthSource RI state income tax return unless the applicable individual wishes to opt out of
+4 being contacted directly by HealthSourceRI about enrollment in health coverage.
+5 This act would take effect upon passage.
+========
+LC005896
+========
+LC005896 - Page 5 of 5

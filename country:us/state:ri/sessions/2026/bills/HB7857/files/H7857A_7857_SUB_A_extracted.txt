@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - 7857  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7857 SUBSTITUTE A
+========
+LC005334/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- COMMERCIAL KITCHEN EXHAUST SYSTEM
+INSPECTION AND CLEANING, LICENSING AND CERTIFICATION ACT
+Introduced By: Representatives Noret, and Casey
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings of fact.
+2 The general assembly hereby finds as follows:
+3 (1) Contaminated commercial kitchen exhaust systems present catastrophic potential
+4 danger to life and property resulting from highly flammable deposits from grease-laden vapors that
+5 can ignite and spread quickly.
+6 (2) The Rhode Island fire safety code requires that commercial kitchen exhaust systems be
+7 inspected and tested by a properly trained, qualified, and certified person every three (3) to six (6)
+8 months or annually, and then cleaned by a properly trained, qualified, and certified person, if
+9 contaminated.
+10 (3) Because the general assembly values Rhode Islanders’ safety and security in life and
+11 property, and informed by recent events, it seeks to prevent loss of life and property by establishing
+12 standards for licensure of commercial kitchen exhaust inspection and cleaning professionals.
+13 (4) In conjunction with the duties of the state fire marshal pursuant to § 23-28.2-4(2) and
+14 (4) to conduct and supervise fire safety inspections of all buildings regulated by the fire code within
+15 the state and to plan for and oversee the comprehensive, professional, and consistent enforcement
+16 of the fire safety code, the licensing of commercial kitchen exhaust systems’ inspection and
+17 cleaning professionals shall be administered and regulated by the office of state fire marshal.
+18 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+
+1 amended by adding thereto the following chapter:
+2 CHAPTER 28.40
+3 COMMERCIAL KITCHEN EXHAUST SYSTEM INSPECTION AND CLEANING,
+4 LICENSING AND CERTIFICATION ACT
+5 23-28.40-1. Short title.
+6 This chapter shall be known and cited as the “Commercial Kitchen Exhaust System
+7 Inspection and Cleaning Licensing and Certification Act.”
+8 23-28.40-2. Definitions.
+9 When used in this chapter:
+10 (1) “AHJ” means authority having jurisdiction in connection with the administration of the
+11 Fire Code, NFPA 96 and all applicable codes and standards.
+12 (2) “Approved certificate examination” means an examination that tests the examinee’s
+13 knowledge of NFPA 96, Standard for Ventilation Control and Fire Protection of Commercial
+14 Cooking Operations, and shall include, but not be limited to, those examinations offered by a state
+15 approved testing provider.
+16 (3) “Certificate” means the credential issued by the OSFM to technicians that are properly
+17 trained and qualified in commercial kitchen exhaust system inspection and/or cleaning.
+18 (4) “Commercial kitchen exhaust system” means the components of a commercial kitchen
+19 venting system including, but not limited to, hoods, ducts, fans, filters and other components of
+20 commercial cooking exhaust systems in accordance with NFPA 96 standards.
+21 (5) “Critical condition” means a situation that cannot be corrected within twenty-four (24)
+22 hours of cleaning, attempting to clean, or assessment of the commercial kitchen exhaust system,
+23 and which includes, but is not limited to: insufficient access to any portion of the exhaust duct,
+24 fan(s), pollution control device(s), and other associated equipment restricting proper cleaning of
+25 the entire exhaust system; encrusted grease accumulation, which cannot be cleaned and/or requires
+26 the replacement of the exhaust duct or part thereof; physical damage to the exhaust system affecting
+27 the operation of the system; and/or major deficiencies affecting the operations of the exhaust
+28 system.
+29 (6) “Department” means the department of business regulation.
+30 (7) “License” means the credential issued by the OSFM to a business entity or individual
+31 applicant who is, and employs, properly trained, qualified and certified individuals in commercial
+32 kitchen exhaust systems’ inspection and/or cleaning, and whose application therefor has been
+33 approved by the OSFM.
+34 (8) "NFPA 96" means the National Fire Protection Association standard for ventilation
+LC005334/SUB A - Page 2 of 8
+
+1 control and fire protection of commercial cooking operations (2024 edition).
+2 (9) "OSFM" means the office of the state fire marshal established pursuant to the provisions
+3 of § 23-28.2-1.
+4 (10) “Passing score” means the results of a written examination where the examinee attains
+5 a minimum of seventy percent (70%) correct answers where the exam has been administered by
+6 the department or a test provider approved by the department.
+7 (11) “Properly trained, qualified and certified” means the description of an individual who
+8 has applied and received approval for a license or certificate for commercial kitchen exhaust
+9 systems inspection and/or cleaning pursuant to § 23-28.40-3.
+10 23-28.40-3. Licensing, certification and renewals.
+11 (a) Practices for which license and certification are required.
+12 (1) No individual, corporation or business entity shall engage within this state in the
+13 business of inspecting and/or cleaning commercial kitchen exhaust systems unless:
+14 (i) The individual, corporation or business entity possesses a license from the OSFM to
+15 operate as an inspector and/or cleaner of commercial kitchen exhaust systems; and
+16 (ii) Each technician performing inspection and/or cleaning services including the
+17 individual licensee, or in the case of a corporation or business entity its principal owner/officer,
+18 possesses a certificate from the OSFM.
+19 (b) Certificates. An individual over the age of eighteen (18) may be certified as a technician
+20 in inspection and/or cleaning of commercial kitchen exhaust systems; provided that, the individual
+21 completes and submits to the OSFM an application containing all information and documentation
+22 as the OSFM in its sole discretion determines is warranted, including satisfactory evidence of the
+23 following:
+24 (1) A minimum of thirty (30) hours of hands-on experience in commercial kitchen exhaust
+25 system cleaning;
+26 (2) Participation in an approved training program, which may include, but is not limited to,
+27 an in-person apprenticeship with a technician in good standing with the OSFM;
+28 (3) Taking and obtaining a passing score on an approved certificate examination. If after
+29 the first examination, the examinee does not obtain a passing score, the examinee may take the
+30 examination again after no less than thirty (30) days have elapsed from the date the examinee
+31 received the first examination’s results. If the examinee does not pass the second examination, the
+32 examinee may take another additional test, which may occur no less than sixty (60) days from the
+33 date the examinee received the second examination’s results; and
+34 (4) Obtaining a criminal background check from the Rhode Island state police or the
+LC005334/SUB A - Page 3 of 8
+
+1 department of attorney general.
+2 (c) Licenses. An individual, corporation or business entity applicant may be licensed in the
+3 inspection and/or cleaning of commercial kitchen exhaust systems; provided that, the applicant
+4 completes and submits to the OSFM an application, containing such information and
+5 documentation as the OSFM in its sole discretion determines is warranted, including satisfactory
+6 evidence of the following:
+7 (1) Employment of two (2) or more certified technicians, one of whom shall be the
+8 individual applicant or in the cases of a corporation or business entity its principal owner/officer;
+9 (2) Ownership of or permission to use approved commercial kitchen exhaust systems’
+10 cleaning equipment;
+11 (3) Possession and maintenance of general liability insurance coverage in amounts
+12 established by regulation; and
+13 (4) Possession and maintenance of worker’s compensation insurance coverage if the
+14 applicant has or hires any employees.
+15 (d) Fees. The fee for licensure of a commercial kitchen exhaust system inspector and/or
+16 cleaner shall be two hundred dollars ($200), and the fee for a certificate of a commercial kitchen
+17 exhaust system inspector and/or cleaner shall be one hundred dollars ($100).
+18 (e) Duration. Except as provided pursuant to § 23-28.40-7, any license or certification
+19 issued pursuant to this chapter shall be valid for a period of three (3) years from the date of issuance
+20 or approval of renewal.
+21 (f) Renewals. Certification and licensing shall be renewed every three (3) years, on forms
+22 made available by the OSFM containing such information and documentation as the OSFM
+23 determines is warranted, including satisfactory evidence of the following:
+24 (1) Continuing education or training attendance in the amount of five (5) credit hours per
+25 licensing cycle;
+26 (2) Payment of a renewal fee of fifty dollars ($50.00) for technician recertification and one
+27 hundred dollars ($100) for license renewals; and
+28 (3) Proof of compliance with OSFM requirements, on forms made available by the OSFM
+29 and updated from time to time.
+30 (g) Records. Any documentary evidence of the licensee’s or certificate holder’s compliance
+31 with the requirements of this section shall be maintained by the licensee or certificate holder for a
+32 period of three (3) years from the date thereof.
+33 23-28.40-4. Rangehood decals.
+34 (a) After inspection and/or cleaning, a decal purchased from OSFM shall be attached to the
+LC005334/SUB A - Page 4 of 8
+
+1 hood indicating the day, month and year of the service, the individual who performed the service,
+2 the company that employed the servicing individual, and the applicable certificate and license
+3 numbers.
+4 (b) Rangehood decals shall be available for purchase from, and at a price set by, the OSFM
+5 and any individual inspecting and/or cleaning any commercial kitchen exhaust system under this
+6 chapter shall use the most recent version of the OSFM rangehood decal available.
+7 23-28.40-5. Required notices.
+8 (a) Any certificate holder and/or licensee that becomes aware of a critical condition in the
+9 course of their inspection and/or cleaning shall notify the AHJ and the client within twenty-four
+10 (24) hours of becoming aware of the critical condition.
+11 (b) Notices shall be in writing in accordance with National Fire Protection Association
+12 (NFPA 1) Fire Code, chapter 50 ("commercial cooking"), and shall include photographs and/or
+13 videos of the critical condition(s).
+14 (c) Nothing herein shall be construed to allocate responsibility for the critical condition to
+15 the certificate and/or license holder.
+16 23-28.40-6. Rules and regulations.
+17 The OSFM may promulgate rules and regulations for the implementation and maintenance
+18 of commercial kitchen exhaust systems’ inspection and cleaning certificates and licenses and to
+19 carry out the provisions of this chapter.
+20 23-28.40-7. Enforcement and penalties.
+21 (a) In the execution of its authority pursuant to this chapter, the OSFM may deny or not
+22 renew an application, suspend, revoke, place on probation or issue administrative penalties
+23 regarding a certificate or license when any of the following conditions exist:
+24 (1) An applicant, licensee or certificate holder makes a material misrepresentation in its
+25 application, recertification or renewal, in any document submitted therewith, and/or in connection
+26 with any requirement provided by § 23-28.40-3;
+27 (2) An applicant, licensee or certificate holder possesses a criminal conviction
+28 demonstrated by its criminal record and which criminal conviction is substantially related to the
+29 certificate or license sought by the applicant in conformity with § 28-5.1-14;
+30 (3) An applicant, licensee or certificate holder in the course of inspecting or cleaning any
+31 commercial kitchen exhaust system, fails to give the required notice of a critical condition pursuant
+32 to § 23-28.40-5;
+33 (4) An applicant, licensee or certificate holder defrauds, attempts to defraud or makes a
+34 material misrepresentation to any customer;
+LC005334/SUB A - Page 5 of 8
+
+1 (5) An applicant, licensee or certificate holder fails to comply with any requirement under
+2 this chapter or the rules or regulations issued hereunder or the safety standards of the industry;
+3 and/or
+4 (6) A licensee or certificate holder hires, uses or knowingly assists a person who is not
+5 licensed or certified pursuant to this chapter to perform work for which a license or certificate is
+6 required pursuant to this chapter.
+7 (b) When assessing administrative penalties in connection with any violation pursuant to
+8 this chapter, the OSFM may assess a maximum of one thousand dollars ($1,000) per violation.
+9 (c) If the OSFM has reason to believe that any person, firm, association, corporation or
+10 other business entity is conducting a commercial kitchen exhaust system inspection and/or cleaning
+11 operation without a license or certificate, or who after the denial, suspension or revocation of a
+12 license or certificate is conducting any activities requiring licensing or certification under this
+13 chapter, the OSFM may issue to that person, firm, association or corporation an order to cease and
+14 desist its violation of this chapter and any failure to comply with such order may be enforced in the
+15 district court for Providence county.
+16 (d) As to any certificate or license holder who has had three (3) violation determinations
+17 by the OSFM pursuant to this chapter, any subsequent violation of this chapter shall be referred to
+18 the department of the attorney general for prosecution, and such subsequent violation of this chapter
+19 shall be a misdemeanor, a conviction for which shall be punished by not more than one year in
+20 prison or a fine of not more than one thousand dollars ($1,000) or both.
+21 23-28.40-8. Violations, appeals and judicial review.
+22 (a) If the OSFM acts to deny a license or certificate application or renewal thereof or to
+23 suspend, revoke or place on probation a license or certificate or issue an administrative penalty,
+24 pursuant to § 23-28.40-7, the OSFM shall notify the applicant, licensee or certificate holder in
+25 writing which notice shall include notice of the right to appeal and opportunity for a hearing in
+26 accordance with chapter 35 of title 42 (“administrative procedures”).
+27 (b) The right of appeal shall be to the Rhode Island fire safety code board of appeal and
+28 review.
+29 (c) Any appeal to and hearing conducted by the fire safety code board of appeal and review
+30 pursuant to this section shall conform to the fire safety code board of appeal and review rules and
+31 regulations on hearings and appeals.
+32 (d) Any applicant or licensee or certificate holder aggrieved by a final decision, modified
+33 decision or amended decision on its appeal by the fire safety code board of appeal and review, shall
+34 have the right to appeal such decision to the sixth division of the district court within thirty (30)
+LC005334/SUB A - Page 6 of 8
+
+1 days after the decision in conformity with § 23-28.3-6.
+2 23-28.40-9. Responsibility of licensee for acts of agents.
+3 If a licensee is a firm or corporate entity, it is sufficient cause for the suspension or
+4 revocation of a license that any officer, director, owner, principal or trustee of the firm or corporate
+5 entity or any member, in the case of a partnership, has been found by the OSFM to have engaged
+6 in any act or omission that would be cause for refusing, suspending, or revoking a license to that
+7 party as an individual. Each licensee shall be responsible for the acts of any technician, inspector
+8 or cleaner or other employee acting as the agent for the licensee.
+9 23-28.40-10. Severability.
+10 The provisions of this chapter are severable; and if any of the provisions are held to be
+11 invalid, the decision of the court respecting that provision or provisions shall not affect the validity
+12 of any other provision that can be given effect without that invalid provision.
+13 SECTION 3. This act shall take effect on January 1, 2029.
+========
+LC005334/SUB A
+========
+LC005334/SUB A - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- COMMERCIAL KITCHEN EXHAUST SYSTEM
+INSPECTION AND CLEANING, LICENSING AND CERTIFICATION ACT
+***
+1 This act would establish the commercial kitchen exhaust system inspection and cleaning
+2 licensing and certification act. This act would require entities inspecting or cleaning commercial
+3 exhaust systems to be licensed and insured.
+4 This act would take effect on January 1, 2029.
+========
+LC005334/SUB A
+========
+LC005334/SUB A - Page 8 of 8

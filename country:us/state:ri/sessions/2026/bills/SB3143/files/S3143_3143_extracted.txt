@@ -1,0 +1,593 @@
+Title: 
+Official Title: 
+Source: versions - 3143
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3143
+========
+LC006067
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO ELECTIONS -- RHODE ISLAND VOTING RIGHTS ACT
+Introduced By: Senators Lawson, Gallo, Sosnowski, Murray, Gu, Urso, Ujifusa, Vargas,
+Lauria, and Kallman
+Date Introduced: March 24, 2026
+Referred To: Senate Judiciary
+(Secretary of State)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds and declares that our form of government is built on the
+3 foundation of each citizen's right to vote and that electoral systems or practices that deny or abridge
+4 that right are counter to the intent, principles, and practices expressed in the Voting Rights Act of
+5 1965 and its subsequent reauthorizations. Prevention of discrimination in voting is a matter of
+6 statewide concern that necessitates the enactment of the Rhode Island Voting Rights Act ensuring
+7 crucial procedures and protections that provide Rhode Island voters the right to fully participate in
+8 the electoral process free from discrimination.
+9 SECTION 2. Title 17 of the General Laws entitled "ELECTIONS" is hereby amended by
+10 adding thereto the following chapter:
+11 CHAPTER 31
+12 RHODE ISLAND VOTING RIGHTS ACT
+13 17-31-1. Short title.
+14 This chapter shall be known and may be cited as the "Rhode Island Voting Rights Act".
+15 17-31-2. Definitions.
+16 As used in this chapter, unless the context otherwise requires:
+17 (1) "Disability" has the meaning as used in the Americans with Disabilities Act, 42 U.S.C.
+18 § 12102 and in § 17-20-2 relating to circumstances under which an elector is eligible for a mail
+19 ballot.
+
+1 (2) "Early voting" means casting a ballot in person, as described in § 17-20-2.2(g) or any
+2 other method of casting a ballot in person before election day adopted by the state.
+3 (3) "Election policy or practice" means any qualification to be a voter, prerequisite to
+4 voting, method of election, or any other law, statute, ordinance, resolution, charter or code
+5 provision, regulation, rule, policy, practice, procedure, standard, or any other action with respect to
+6 voting, electoral or jurisdictional boundaries, or the administration or schedule of elections.
+7 (4) "Governing body" means the entity with official authority to make and/or enforce
+8 decisions, policies, and laws for a political subdivision. For the purposes of this chapter, fire
+9 districts and regional school districts are not governing bodies.
+10 (5) "Limited English proficient individuals" or "LEP individuals" means individuals who
+11 self-report speaking, reading, or understanding the English language less than "very well,"
+12 according to the United States Census Bureau data or data of comparable quality collected by a
+13 governmental entity, including as self-reported by such persons to a governmental entity.
+14 (6) "Method of election" means the manner or mechanism by which elections occur as
+15 prescribed by § 17-1-2 and includes any method of election allowed under state law or ordered by
+16 a court, as well as any districting or redistricting plan used to elect candidates to the governing body
+17 of a political subdivision.
+18 (7) "Political subdivision" means the State of Rhode Island; any of its agencies; cities and
+19 towns; its other political subdivisions; and other authorities. For the purposes of this chapter, fire
+20 districts and regional school districts are not political subdivisions.
+21 (8) "Polling place" means any location designated by boards of canvassers under the
+22 supervision of the state board of elections for the casting of ballots including, but not limited to,
+23 early voting locations, election day polling places, ballot receptacles, and ballot drop box locations.
+24 (9) "Protected class" means any group of individuals who are members of any race, color
+25 or language-minority including, but not limited to, a class of two (2) or more such groups, and
+26 includes individuals who are members of a minimum reporting category that has been officially
+27 recognized by the United States Census Bureau.
+28 (10) "Qualifying school" means a public or private school accredited by a United States
+29 territory or the Commonwealth of Puerto Rico in which the predominant classroom language is
+30 other than English.
+31 (11) "Racially polarized voting" means voting in which there is a divergence in the
+32 candidate preferences, political preferences, or electoral choices of members in a protected class,
+33 including the combined preferences of a protected class comprised of two (2) or more groups of
+34 voters, from the candidate preferences, political preferences, or electoral choices of members of
+LC006067 - Page 2 of 17
+
+1 another class or set of classes.
+2 (12) "Vote" or "voting" means all actions necessary to make a vote effective in any election
+3 as defined in § 17-1-2 including, but not limited to, registration or other action required by law
+4 prerequisite to voting, casting a ballot by any method permitted, including any method available as
+5 a remedy under this chapter, and having such ballot counted properly and included in the
+6 appropriate totals of votes received for questions or for candidates for public or party office.
+7 17-31-3. Prohibition on voter suppression and vote dilution.
+8 (a) No political subdivision shall engage in voter suppression as set forth in this section.
+9 (1) No political subdivision may implement, impose, or enforce any election policy or
+10 practice that results in, is likely to result in, or is motivated in whole or in part by the intent to result
+11 in, voter suppression.
+12 (2) A violation of subsection (a)(1) of this section is established if the following is present:
+13 (i) A material disparity affecting protected class members or voters based on race or color,
+14 religion, sex, sexual orientation, gender identity or expression, disability, age, country of ancestral
+15 origin, or change in marital status in voter participation, access to voting opportunities, or the
+16 opportunity or ability to participate in any stage of the political process, as a result of the policy or
+17 practice; or
+18 (ii) Based on the totality of circumstances, an impairment of the equal opportunity or ability
+19 of protected class members to participate in any stage of the political process.
+20 (3) There is no violation under subsection (a)(2)(i) of this section if the political subdivision
+21 demonstrates by clear and convincing evidence that:
+22 (i) The election policy or practice is necessary to significantly further a compelling and
+23 particularized governmental interest; and
+24 (ii) There is no reasonable alternative election policy or practice that comparably furthers
+25 the compelling and particularized governmental interest and results in a smaller disparity between
+26 protected class members and other members of the electorate.
+27 (4) A violation of this section may also be established through direct or circumstantial
+28 evidence of intentional discrimination; however, evidence of intentional discrimination, including
+29 evidence concerning the intent of electors, elected officials, or public officials to discriminate
+30 against protected class members, is never required under subsection (a)(2) of this section.
+31 (b) No political subdivision shall engage in vote dilution as set forth in this section.
+32 (1) No political subdivision shall employ any method of election that has the effect, will
+33 likely have the effect, or is motivated in part by the intent, of diluting the vote of protected class
+34 members.
+LC006067 - Page 3 of 17
+
+1 (2) A violation of subsection (b)(1) of this section is established if:
+2 (i) Either:
+3 (A) Elections in the political subdivision exhibit racially polarized voting resulting in an
+4 impairment of the equal opportunity or ability of protected class members to nominate or elect
+5 candidates of their choice; or
+6 (B) Based on the totality of circumstances, the equal opportunity or ability of protected
+7 class members to nominate or elect candidates of their choice is impaired; and
+8 (ii) Another method of election or change to the existing method of election exists that
+9 could be constitutionally adopted or ordered under § 17-31-9(g) would likely mitigate the
+10 impairment.
+11 (3) A violation of this section may also be established through direct or circumstantial
+12 evidence of intentional discrimination; however, evidence of intentional discrimination, including
+13 evidence concerning the intent of electors, elected officials, or public officials to discriminate
+14 against protected class members, is never required under subsection (b)(2) of this section.
+15 (c) Claims brought under subsections (a) and (b) of this section are established subject to
+16 the guidelines and rules enumerated below.
+17 (1) To establish the totality of circumstances under subsections (a)(2)(ii) or (b)(2)(i)(B) of
+18 this section:
+19 (i) The following factors may be relevant:
+20 (A) The history of discrimination with respect to the protected class at issue;
+21 (B) The extent to which members of the relevant protected class are disadvantaged or
+22 otherwise bear the effects of public or private discrimination in areas such as education,
+23 employment, health, criminal justice, housing, transportation, land use, or environmental
+24 protection;
+25 (C) The use of any election policy or practice that may enhance the discriminatory or
+26 dilutive effects of the relevant election policy or practice or method of election in the political
+27 subdivision;
+28 (D) The extent to which members of the relevant protected class vote or register to vote at
+29 lower rates;
+30 (E) The extent to which candidates who are members of the relevant protected class have
+31 faced hostility or barriers with respect to campaigning, getting on the ballot, receiving financial
+32 support, or receiving any other support for an election;
+33 (F) The extent to which the members of the relevant protected class have been elected to
+34 office;
+LC006067 - Page 4 of 17
+
+1 (G) Whether the election policy or practice is necessary to significantly further a
+2 compelling and particularized governmental interest;
+3 (H) The process that led to the adoption of the election policy or practice; and
+4 (I) Other factors deemed relevant.
+5 (ii) No set number or combination of these factors must be met to determine that a violation
+6 occurred.
+7 (iii) There is no requirement that evidence must affect all individuals or groups within a
+8 protected class to be relevant.
+9 (iv) For alleged violations pertaining to a particular political subdivision, evidence of these
+10 factors may be deemed more probative if it relates to the political subdivision in which the alleged
+11 violation occurred, but evidence related to the state or the geographic region in which that political
+12 subdivision is located may also be probative. The fact that similar or worse circumstances may
+13 exist in other political subdivisions does not reduce the probative value of the evidence relevant to
+14 the particular political subdivision.
+15 (2) To establish that elections in the political subdivision exhibit racially polarized voting
+16 under subsection (b)(2)(i)(A) of this section:
+17 (i) Racially polarized voting must be assessed based on the relevant election results, which
+18 may include, but are not limited to, elections for offices of the political subdivision; elections held
+19 in the political subdivision for other offices, such as state or federal offices; and other electoral
+20 choices that bear on the rights and privileges of the protected class.
+21 (ii) No set number or combination of elections is required to establish the existence of
+22 racially polarized voting.
+23 (A) Evidence of non-polarized voting in elections for offices outside the political
+24 subdivision does not preclude a finding of racially polarized voting based on elections for offices
+25 of the political subdivision.
+26 (B) Non-statistical or non-quantitative evidence does not preclude a finding of racially
+27 polarized voting based on statistical or quantitative evidence.
+28 (C) Low or high turnout or registration rates among protected class members does not
+29 preclude a finding of racially polarized voting.
+30 (iii) When establishing the combined candidate preferences, political preferences, or
+31 electoral choices of a protected class comprised of two (2) or more groups of voters, there is no
+32 requirement that it be statistically shown that each group or subgroup be separately polarized from
+33 those of other voters.
+34 (iv) Evidence presented by a political subdivision regarding the causes of racially polarized
+LC006067 - Page 5 of 17
+
+1 voting is not relevant to a determination of whether racially polarized voting exists, and the
+2 existence of alternative explanations, including partisan explanations, does not preclude a finding
+3 of racially polarized voting.
+4 (3) The following guidelines apply to evidence presented by a political subdivision to refute
+5 that a violation of this section occurred:
+6 (i) The following circumstances are never relevant:
+7 (A) The absolute number or share of protected class members on whom the election policy
+8 or practice imposes a material burden is small;
+9 (B) The degree to which the election policy or practice has a long pedigree or was in
+10 widespread use at some earlier date;
+11 (C) The use of an identical or similar election policy or practice in other states or political
+12 subdivisions; or
+13 (D) The availability of forms of voting unimpacted by the election policy or practice.
+14 (ii) Whether protected class members typically elect candidates of their choice to the
+15 governing body in approximate proportion to their total number or share of the population may be
+16 relevant under subsection (b) of this section.
+17 (iii) For the purpose of satisfying subsection (b) of this section including, but not limited
+18 to, subsection (b)(2)(ii), it is not necessary for the total number or share of protected class members
+19 to exceed any numerical threshold in any district or in the political subdivision as a whole.
+20 (iv) Upon finding a violation of this section, notwithstanding any other law, a court must
+21 exercise its equitable powers to fashion relief so it completely remedies the dilution or suppression.
+22 17-31-4. Judicial preapproval for political subdivisions.
+23 (a) Except as otherwise provided in this subsection, in any action in which a court finds a
+24 violation of this chapter, the federal Voting Rights Act, the Rhode Island constitution concerning
+25 the right to vote for protected class members, the Fourteenth Amendment of the United States
+26 Constitution concerning the right to vote, the Fifteenth Amendment of the United States
+27 Constitution, or any other state or federal law concerning the right to vote for protected class
+28 members, in addition to the remedies available under § 17-31-9(g), the court may retain jurisdiction
+29 and require that, for a period of up to ten (10) years, the political subdivision obtain the court's
+30 preapproval before enacting or modifying any election policy or practice.
+31 (b) When considering whether to order this remedy, the court shall take into consideration
+32 the severity of the violation, whether the violation was intentional, the number of violations, and
+33 whether the political subdivision has any previous violations. A court must retain jurisdiction for a
+34 violation described in this section if the court finds that the violation is susceptible to repetition,
+LC006067 - Page 6 of 17
+
+1 the remedy is susceptible to circumvention, there is evidence of intentional discrimination by the
+2 political subdivision, or the political subdivision failed to adopt broad prophylactic measures to
+3 prevent any future violations.
+4 (c) A request for judicial preapproval submitted to a court under subsection (a) of this
+5 section may be granted only if the court concludes that:
+6 (1) The election policy or practice policy will not diminish, in relation to the status quo
+7 before the enactment or implementation of the election policy or practice, the equal opportunity or
+8 ability of members of the protected class that provided the basis for judicial preapproval to
+9 participate in the political process and, in order of priority:
+10 (i) Elect candidates of their choice; or
+11 (ii) Otherwise influence the outcome of elections; and
+12 (2) The election policy or practice is unlikely to violate this chapter with respect to claims
+13 that could be brought by members of the protected class that provided a basis for judicial
+14 preapproval.
+15 (d) In any request for judicial preapproval, the political subdivision shall indicate the
+16 position of each party as to whether the proposed election policy or practice complies with
+17 standards for preapproval as described in this section. The parties or their successors in interest
+18 may submit a stipulated order for judicial preapproval for the court's consideration.
+19 (e) To the extent a political subdivision subject to the judicial preapproval procedures under
+20 this section must make emergency changes to locations of polling places, early voting sites, or mail
+21 ballot drop boxes within seven (7) days before an election due to exigent circumstances that are
+22 outside of the political subdivision's control, the political subdivision may implement the
+23 emergency changes without first obtaining judicial preapproval under this section, as long as that
+24 political subdivision notifies, in writing, the court and all parties to the action of the emergency
+25 changes before implementing those changes and explains in detail the exigent circumstances that
+26 made the emergency changes necessary.
+27 (1) Any party to the action may request that the court subject emergency changes to the
+28 judicial preapproval process under this section.
+29 (2) To the extent a political subdivision intends to maintain any emergency changes beyond
+30 that election, the political subdivision must obtain judicial preapproval for those changes as
+31 provided under this section.
+32 (f) The political subdivision bears the burden of proof in a proceeding involving judicial
+33 preapproval under this section.
+34 17-31-5. Protections for limited English proficient and disabled voters.
+LC006067 - Page 7 of 17
+
+1 (a) The secretary of state shall make a determination of which political subdivisions meet
+2 the demographic threshold for language access coverage per the parameters of subsection (b) of
+3 this section based on census data as of the effective date of this section and every time upon the
+4 release of decennial census data.
+5 (1) The secretary of state shall publish a list of the covered political subdivisions and the
+6 languages for which they are required to provide language access on its website.
+7 (2) All coverage determinations shall be made by the secretary of state based on data from
+8 the United States Census Bureau.
+9 (3) The secretary of state shall give notice directly to each covered political subdivision
+10 specifying the language or languages for which the political subdivision is covered, and the
+11 corresponding requirements accompanying such coverage.
+12 (4) The secretary of state may promulgate rules and regulations to implement this section
+13 pursuant to chapter 35 of title 42 ("administrative procedures").
+14 (b) A political subdivision shall implement language assistance programs when found to
+15 meet certain demographic thresholds for voting-eligible LEP individuals in accordance with this
+16 section.
+17 (1) The secretary of state shall designate one or more languages, other than English, for
+18 which language assistance in voting and elections shall be provided assistance as required in
+19 subsection (c)(1) of this section by a political subdivision responsible for election administration
+20 if:
+21 (i) More than five percent (5%) of the voting-eligible population of a political subdivision
+22 are members of a single language minority and are LEP individuals; or
+23 (ii) More than ten thousand (10,000) individuals in the voting-eligible population of such
+24 political subdivision are members of a single language minority and are LEP individuals; or
+25 (iii) In the case of a political subdivision that contains in whole or in part a Native American
+26 reservation, more than one percent (1%) of the Native American voting-eligible population within
+27 the relevant Native American reservation are members of a single language minority and are LEP
+28 individuals.
+29 (2) If the voting-eligible population of any language minority group in one or more political
+30 subdivisions does not meet the criteria necessary for assistance as prescribed in subsection (b)(1)
+31 of this section, the voting-eligible population may request the secretary of state for assistance. Upon
+32 the request for assistance from the voting-eligible population that does not meet the criteria set in
+33 subsection (b)(1) of this section, the secretary of state shall designate one or more languages, other
+34 than English, for which language assistance in voting and elections shall be provided assistance as
+LC006067 - Page 8 of 17
+
+1 required in subsection (c)(2) of this section by a political subdivision responsible for election
+2 administration if it is determined that:
+3 (i) More than three percent (3%), but in no instance fewer than one hundred (100)
+4 individuals, of the voting-eligible population of a political subdivision are members of a single
+5 language minority and are LEP individuals; or
+6 (ii) More than five thousand (5,000) individuals in the voting-eligible population of such
+7 political subdivision are members of a single language minority and are LEP individuals; or
+8 (iii) In the case of a political subdivision that contains in whole or in part a Native American
+9 reservation, more than one-half percent (0.5%) of the Native American voting-eligible population
+10 within the Native American reservation are members of a single language minority and are LEP
+11 individuals.
+12 (3) The secretary of state shall use its best efforts to inform the appropriate organizations
+13 representing the minority language/LEP population not covered by subsection (b) of this section
+14 that persons who cannot read or write English are able to vote will be given assistance in marking
+15 their ballot by a person of the voter's choice, other than the voter's employer or agent of that
+16 employer, or an officer or agent of the voter's union as prescribed in § 17-19-26.1.
+17 (c) Compliance with this section requires materials and assistance to be provided in a way
+18 designed to allow voters who are members of a single language minority to be effectively informed
+19 of and participate effectively in voting-connected activities.
+20 (1) Where applicable, a political subdivision required to provide language assistance in a
+21 particular language other than English pursuant to subsection (b)(1) of this section shall ensure that
+22 each of the following forms of voting assistance is translated and provided to LEP voters:
+23 (i) All official and sample ballots used on election day and during early voting shall be
+24 fully translated into the covered language and made available to voters in all voting locations and
+25 online.
+26 (ii) All forms used for voter registration, including online, mail, and in-person registration,
+27 along with any explanatory materials, must be provided in the covered language.
+28 (iii) All public notices relating to the electoral process, including notices about registration
+29 deadlines, polling place changes, early voting site changes, voter education materials, and voting
+30 instructions that provide direction during the voting process must be fully translated and
+31 disseminated in the covered language to the same extent that English-language notices are made
+32 available.
+33 (iv) Signage identifying the availability of translated ballots, bilingual poll workers, and
+34 live over-the-phone interpretation services must be made available in the covered language on the
+LC006067 - Page 9 of 17
+
+1 political subdivision's website, at local elections offices, at early voting sites, and at polling places.
+2 (v) Covered political subdivisions must have sufficient trained bilingual poll workers or
+3 interpreters available at each in-person voting site to provide effective language assistance in the
+4 covered language to any voters who need it. Bilingual staff must be easily identifiable by LEP
+5 voters through prominently displayed badges or other identifying materials indicating their
+6 bilingual capabilities.
+7 (vi) Each political subdivision must have an accessible bilingual staff member who is
+8 trained in its election and voting procedures and able to respond to questions, issues, and the needs
+9 of covered language speakers within the political subdivision.
+10 (vii) Live language interpretation services by telephone, allowing voters to request and
+11 receive real-time assistance in the covered language during early voting, on election day, and for
+12 any voter-related inquiries within sixty (60) days of a statewide primary or general election.
+13 (viii) Any information relating to voter registration, polling places, early voting, official
+14 ballots, or other voting related materials and notifications provided on the website used by a
+15 political subdivision to share information related to elections and voting must be made available in
+16 the covered language.
+17 (2) Where applicable, a political subdivision required to provide language assistance in a
+18 particular language other than English pursuant to subsection (b)(2) of this section shall provide
+19 the following physical and online voting materials in the covered language:
+20 (i) Sample ballots must be translated into the covered language within thirty (30) days of a
+21 statewide primary or general election and made available at polling places, early voting sites, and
+22 online.
+23 (ii) Voter registration forms and instructions must be provided in the covered language to
+24 the same extent and manner as made available in English, including direct mailings requested by a
+25 voter.
+26 (iii) Any notifications about polling place or early voting site changes or relocations must
+27 be provided in the covered language and disseminated in the covered language to the same extent
+28 that English-language notices are made available.
+29 (iv) In-language signage identifying the availability of covered language sample ballots
+30 and live over-the-phone interpretation services must be made available on the political subdivision's
+31 website, a local elections office, at early voting sites, and at polling places during voting periods.
+32 (v) The secretary of state shall provide live language interpretation services by telephone,
+33 allowing voters to request and receive real-time assistance in the covered language during early
+34 voting, on election day, and for any voter-related inquiries within sixty (60) days of a statewide
+LC006067 - Page 10 of 17
+
+1 primary or general election.
+2 (3) Any electoral and voting materials created, produced, or disseminated physically or
+3 online by the secretary of state, state board of elections, or local board shall be made available
+4 within sixty (60) days of a statewide primary or general election and in compliance with the
+5 requirements of this section.
+6 (d) No voter who has attended a qualifying school may be denied the right to vote in any
+7 state or local election because of their inability to read, write, understand, or interpret any matter in
+8 the English language.
+9 (e) All materials and notices provided by a political subdivision as required by this section
+10 in a particular language other than English must be of an equal quality to the corresponding English-
+11 language materials and produced at the same time as the corresponding English-language materials.
+12 All provided translated materials must convey the intent and essential meaning of the original
+13 English language text or communication. Translated materials produced solely by automated
+14 translation services are presumed to be insufficient to completely convey intent and essential
+15 meaning.
+16 (f) Pursuant to § 17-19-26.1, any voter who requires assistance at any stage of the voting
+17 process, by reason of blindness, disability, or inability to read, write, or understand any aspect of
+18 the voting process, has the right to receive assistance from any person of the voter's choice, other
+19 than the voter's employer or agent of that employer or officer or agent of the voter's union.
+20 (g) A political subdivision that has been designated as a covered political subdivision under
+21 subsection (b) of this section may challenge the determination within sixty (60) days of its
+22 publication in accordance with chapter 35 of title 42 ("administrative procedures"), including the
+23 applicable standard of review of such actions. Such actions may only be filed by the covered
+24 political subdivision, and intervention is not permitted.
+25 (h) Any party, as defined in § 17-31-9(a), that is aggrieved by the exclusion of a political
+26 subdivision from the list of covered political subdivision under subsection (b) of this section may
+27 file an action to challenge the exclusion of a political subdivision. Such actions are subject to a
+28 three (3) year statute of limitations, accruing from the date of any coverage determinations under
+29 subsection (b) of this section, and are subject to a de novo standard of review.
+30 (i) This section shall take effect one year after the effective date of this chapter.
+31 17-31-6. Online repository of voting and elections data.
+32 (a) Effective January 1, 2028, the secretary of state shall establish and maintain and make
+33 publicly available an online repository of election and voting data, geospatial data, and any other
+34 information that the secretary of state deems necessary for the purpose of collecting and archiving
+LC006067 - Page 11 of 17
+
+1 data pertaining to elections, electoral structure, voter registration, and ballot access in this state; to
+2 foster and pursue research of existing laws and regulations; and to support and enable the
+3 development of best practices in voting and elections. Any data and information collected and
+4 archived within the online repository are sourced from the United States Census Bureau including,
+5 but not limited to, total population, voting age population, and citizen voting age population by
+6 race, ethnicity, language minority group, and disability status, or based on existing sources of data
+7 from a state or local government entity and are thereby entitled to a presumption of authenticity
+8 and constitute judicially noticeable facts.
+9 (b) This section shall take effect January 1, 2028.
+10 17-31-7. Prohibition on intimidation, deception, and obstruction.
+11 (a) No person, whether acting under color of law or otherwise, may engage in or attempt
+12 to engage in acts of intimidation, deception, or obstruction that affect the right of voters to
+13 participate in elections.
+14 (b) Violations of this section include, but are not limited to, the following:
+15 (1) A person uses, threatens to use, or attempts to use any force, violence, restraint,
+16 abduction or duress, or inflicts, threatens to inflict, or attempts to inflict any injury, damage, harm,
+17 or loss, or in any other manner practices or attempts to practice intimidation that causes or will
+18 reasonably have the effect of causing any person to vote or refrain from voting;
+19 (2) A person uses or attempts to use any deceptive or fraudulent device, contrivance, or
+20 communication, regarding the time, place, or manner of conducting an election or the qualifications
+21 for or restrictions on voter eligibility for an election, with reckless disregard for the truth, that
+22 impedes, prevents, or otherwise interferes with the free exercise of the elective franchise by any
+23 person, or that causes or will reasonably have the effect of causing any person to vote or refrain
+24 from voting; or
+25 (3) A person obstructs, impedes, or otherwise interferes, or attempts to obstruct, impede,
+26 or otherwise interfere with access to any early voting location, polling place, or elections office, or
+27 with any voter in any manner that causes or would reasonably have the effect of causing any delay
+28 in voting or the voting process, including the canvassing, certification, and tabulation of ballots.
+29 (c) A person who violates this section or who aids in the violation of this section shall be
+30 liable for any damages awarded by the court, including nominal damages for any violation and
+31 compensatory or punitive damages for any willful violation.
+32 (d) Nothing in this section, nor in its enforcement pursuant to §§ 17-31-9(f) and (g), shall
+33 be construed to prohibit any activity protected under the Constitution of the United States.
+34 17-31-8. Democracy canon.
+LC006067 - Page 12 of 17
+
+1 (a) Any provision of state law, regulation, charter, home rule ordinance, or other enactment
+2 of the state or any political subdivision relating to voting or the right to vote must be construed
+3 liberally in favor of the factors listed below. To the extent courts are afforded discretion on any
+4 issue including, but not limited to, questions concerning discovery, procedure, admissibility of
+5 evidence, or remedies, it is the policy of the state that courts must exercise that discretion, and
+6 weigh other equitable discretion, in favor of the factors listed below.
+7 (1) Making voting, the fundamental right to vote and the ability to participate in the
+8 democratic process more accessible to eligible voters;
+9 (2) Safeguarding and vindicating, to the fullest extent possible by law, the voting rights of
+10 protected class members including, but not limited to, equitable access to opportunities to register
+11 to vote and vote, and the equal opportunity to elect candidates of choice; and
+12 (3) Ensuring protected class members have full access to relief from discrimination in
+13 voting.
+14 17-31-9. Enforcement.
+15 (a) An action to cure a violation of this chapter may be brought by any individual or entity
+16 aggrieved by a violation of this chapter or by the attorney general.
+17 (1) An entity aggrieved by a violation of this chapter includes, but is not limited to, any
+18 entity:
+19 (i) Whose membership includes individuals aggrieved by a violation of this chapter;
+20 (ii) Whose mission would be frustrated by a violation of this chapter including, but not
+21 limited to, an entity that would expend or divert resources to fulfill its mission as a result of such
+22 violation or who must expend greater resources or efforts to advocate before an elected body that
+23 is less responsive to the entity or its members due to the alleged violation; or
+24 (iii) An entity must not be compelled to disclose the identity of any specific member to
+25 pursue a claim on behalf of its members.
+26 (2) This section must be construed liberally to confer standing as broadly as the
+27 Constitution of the State of Rhode Island permits.
+28 (b) Except as provided in subsection (b)(5) of this section, before filing an action against a
+29 political subdivision under this chapter, a party described in subsection (a) of this section except
+30 for the attorney general shall send a notice letter to the political subdivision identifying the potential
+31 violation(s) and the type of remedy the party believes may address the potential violation(s). The
+32 party shall not file an action within sixty (60) days after sending the notice letter.
+33 (1) The political subdivision may work with the party that provided notice to implement a
+34 remedy that cures the potential violation(s). If the legislative body of the political subdivision
+LC006067 - Page 13 of 17
+
+1 adopts a resolution identifying a remedy, affirming its intent to enact and implement a remedy, and
+2 establishing a timeline and specific steps it will take to do so, the party shall not file an action within
+3 one hundred twenty (120) days after sending the notice letter.
+4 (2) In response to a notice letter, the political subdivision may adopt a resolution denying
+5 that a violation exists, or otherwise formally deny a violation, which will abrogate the sixty (60)
+6 day waiting period described in subsection (b) of this section and permit the party who sent a notice
+7 letter to file an action immediately.
+8 (3) If, under the laws of this state, the legislative body of a political subdivision lacks
+9 authority to enact or implement a remedy identified in such a resolution, the political subdivision
+10 may nonetheless enact and implement a proposed remedy upon approval of a court of suitable
+11 jurisdiction.
+12 (4) Following the party's submission of a notice letter, the party may file an action if the
+13 political subdivision has not enacted or implemented a remedy within the time periods designated
+14 by this subsection or the political subdivision has enacted or implemented a remedy that would not
+15 remedy the violation identified in the party's notice letter.
+16 (5) A party with standing pursuant to subsection (a) of this section may file an action
+17 against a political subdivision under this chapter notwithstanding this subsection if:
+18 (i) The party is seeking preliminary relief with respect to an upcoming election;
+19 (ii) Another party has already submitted a notice letter alleging a substantially similar
+20 violation and that party is eligible to file an action under this section; or
+21 (iii) The prospect of obtaining relief under subsection (b)(1) of this section would be futile.
+22 (c) An action to enforce this chapter may be brought in superior court pursuant to the rules
+23 of civil procedure.
+24 (d) Actions brought pursuant to this chapter must be subject to expedited pretrial and trial
+25 proceedings and receive an automatic calendar preference.
+26 (e) In any action alleging a violation of this chapter in which a party seeks preliminary
+27 relief with respect to an upcoming election, a court must grant relief if it determines that:
+28 (1) Plaintiffs are more likely than not to succeed on the merits; and
+29 (2) It is possible to implement an appropriate remedy that would resolve the alleged
+30 violation in the upcoming election.
+31 (f) Upon finding a violation of any provision of this chapter, a court must order appropriate
+32 remedies notwithstanding any other law.
+33 (1) The court has authority to order remedies that are tailored to best mitigate the violation,
+34 including any and all forms of preliminary and injunctive relief. Without limitation, the court may
+LC006067 - Page 14 of 17
+
+1 consider, among others, any remedy that is available to a federal court or the court of another state
+2 jurisdiction, including through a court-approved consent decree or settlement adopted in the context
+3 of similar facts or to remedy a similar violation.
+4 (2) A remedy ordered under this section must be implemented in the next relevant election,
+5 scheduled or ordered, wherever possible.
+6 (g) This chapter provides rights and remedies under state law to enforce state constitutional
+7 rights or statutory rights and does not enforce any rights established under the United States
+8 Constitution or federal law. Nothing in this chapter may be construed to create a cause of action
+9 under federal law. Persuasive use of relevant federal legal standards, precedents, or evidentiary
+10 frameworks to aid in the interpretation or application of this chapter should not be construed to give
+11 rise to a federal question. Moreover, use of such federal legal standards, precedent, or evidentiary
+12 frameworks may be persuasive, but is not necessary to the interpretation or application of this
+13 chapter.
+14 (h) A political subdivision may not assert that plaintiffs have failed to comply with any
+15 notice, exhaustion, or other procedural requirements under state law, other than the requirements
+16 in this section, as a defense to claims brought under this section.
+17 (i) In any action to enforce any provision of this chapter, a prevailing plaintiff party, other
+18 than the political subdivision, is entitled to recover all reasonable costs and fees from the defendant
+19 party.
+20 (1) A plaintiff shall be deemed to have prevailed in an action when, as a result of a suit, the
+21 defendant party yields some or all of the relief sought in the action, regardless of whether a final
+22 judgment on the merits is entered.
+23 (2) If the political subdivision prevails in an action under this chapter, the court may not
+24 award the defendant party any fees or costs unless the court finds the action to be frivolous,
+25 unreasonable, or without foundation.
+26 (j) To the extent any provision of this chapter, including any legal standard, requirement,
+27 or any part thereof, may be construed or applied in a manner that is unconstitutional or otherwise
+28 invalid, such provision must be construed or applied in the manner that preserves its validity and is
+29 most consistent with the purposes set forth in § 17-31-8.
+30 (k) Nothing contained in this chapter shall be deemed to repeal any of the provisions of
+31 any law of this state relating to discrimination because of race or color, religion, sex, sexual
+32 orientation, gender identity or expression, disability, age, country of ancestral origin, or marital
+33 status.
+34 17-31-10. Severability.
+LC006067 - Page 15 of 17
+
+1 This chapter is severable. If any provision of this chapter or its application to any person
+2 or circumstance is held invalid, such invalidity must be applied as narrowly as possible and the
+3 remaining provisions and applications must remain in effect to the fullest extent possible.
+4 SECTION 3. Section 17-19-24.1 of the General Laws in Chapter 17-19 entitled "Conduct
+5 of Election and Voting Equipment, and Supplies" is hereby amended to read as follows:
+6 17-19-24.1. Provisional voting under the Help America Vote Act of 2002.
+7 (a) If an individual's name does not appear on the certified voting list as provided for in §
+8 17-19-24(b) and the individual is eligible to vote in an election for federal office or an election
+9 official asserts that the individual is not eligible to vote in the district in which the individual desires
+10 to vote, then the individual shall be permitted to cast a provisional ballot as provided in Section
+11 302 of the Help America Vote Act (P.L. 107-252) [42 U.S.C. § 15481].
+12 (b) Provisional ballots provided for in this section shall be cast in accordance with rules
+13 and regulations which shall be promulgated by the state board of elections in accordance with the
+14 Help America Vote Act (P.L. 107-252) [42 U.S.C. § 15301 et seq.].
+15 (c) If an individual casting the ballot is a registered voter in the city or town and precinct
+16 in which the individual voted, a provisional ballot shall be counted as a full ballot as long as the
+17 signature matches what is on the voter's voter record in accordance with § 17-19-24.3
+18 (d) If the individual is a registered voter in the city or town and proper congressional
+19 district, but not the precinct in which the individual voted, the ballot will be counted for all federal,
+20 state-wide, city-wide or town-wide elections and for all ballot questions as long as the signature
+21 matches what is on the voter's voter record in accordance with § 17-19-24.3.
+22 (e) In all other instances, where the individual is not a registered voter in the city or town
+23 or is in the wrong congressional district in which the individual cast their ballot, the ballot shall be
+24 counted for all elections and ballot questions for which the person is qualified, by reason of
+25 residency, to vote as long as the signature matches what is on the voter's voter record in accordance
+26 with § 17-19-24.3.
+27 SECTION 4. This act shall take effect on January 1, 2027.
+========
+LC006067
+========
+LC006067 - Page 16 of 17
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- RHODE ISLAND VOTING RIGHTS ACT
+***
+1 This act would create the Rhode Island voting rights act to establish procedures to prevent
+2 discrimination in the voting process.
+3 This act would take effect on January 1, 2027.
+========
+LC006067
+========
+LC006067 - Page 17 of 17

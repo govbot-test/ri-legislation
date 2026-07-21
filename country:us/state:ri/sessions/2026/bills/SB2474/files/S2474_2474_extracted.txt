@@ -1,0 +1,172 @@
+Title: 
+Official Title: 
+Source: versions - 2474
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2474
+========
+LC004815
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Introduced By: Senators Ciccone, Urso, Tikoian, Felag, Burke, and Dimitri
+Date Introduced: February 06, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 34-18-46 and 34-18-58 of the General Laws in Chapter 34-18
+2 entitled "Residential Landlord and Tenant Act" are hereby amended to read as follows:
+3 34-18-46. Retaliatory conduct prohibited.
+4 (a) Except as provided in this section, a landlord may not retaliate by increasing rent or
+5 decreasing services or by bringing or threatening to bring an action for possession because:
+6 (1) The tenant has complained to a governmental agency charged with responsibility for
+7 enforcement of a building or housing code of a violation applicable to the premises materially
+8 affecting health and safety; or
+9 (2) The tenant has complained to the landlord of a violation under § 34-18-22; or
+10 (3) The tenant has organized or become a member of a tenants’ union or similar
+11 organization; or
+12 (4) The tenant has availed himself or herself of any other lawful rights and remedies.
+13 (b) If the landlord acts in violation of subsection (a), the tenant is entitled to the remedies
+14 provided in § 34-18-34 and has a defense in any retaliatory action against him or her for possession.
+15 In an action by or against the tenant, evidence of a complaint within six (6) months before the
+16 alleged act of retaliation creates a presumption that the landlord’s conduct was in retaliation. The
+17 presumption does not arise if the tenant made the complaint after notice of a proposed rental
+18 increase or diminution of services. “Presumption” means that the trier of fact must find the
+19 existence of the fact presumed unless and until evidence is introduced which would support a
+
+1 finding of its nonexistence.
+2 (c) Notwithstanding subsections (a) and (b), this subsection shall not be considered
+3 retaliatory, and a landlord may bring an action for possession if:
+4 (1) The violation of the applicable building or housing code was caused primarily by lack
+5 of reasonable care by the tenant, a member of his or her family, or other person on the premises
+6 with his or her consent; or
+7 (2) The tenant is in default in rent; or
+8 (3) Compliance with the applicable lead mitigation act, building or housing code or other
+9 public action such as eminent domain, requires alteration, remodeling, or demolition which would
+10 effectively deprive the tenant of use of the dwelling unit, and the relocation requirements have been
+11 met by the municipality.
+12 (d) The maintenance of an action under subsection (c) of this section does not release the
+13 landlord from liability under § 34-18-28(b).
+14 34-18-58. Statewide mandatory rental registry.
+15 (a) All landlords who lease a residential property constructed prior to 1978 and that is not
+16 exempt from the requirements of chapter 128.1 of title 42 (“lead hazard mitigation”), shall register
+17 the following information with the department of health:
+18 (1) Names of individual landlords or any the business entity or property management
+19 company responsible for leasing to a tenant under this chapter;
+20 (2) An active business address, PO box, or home address;
+21 (3) An active email address;
+22 (4) An active telephone number that would reasonably facilitate communications with the
+23 tenant of each dwelling unit; and
+24 (5) Any property manager, management company, or agent for service of the property,
+25 along with the business address, PO box, or home address of the property manager, management
+26 company, or agent and including:
+27 (i) An active email address; and
+28 (ii) An active telephone number, for each such person or legal entity, if applicable, for each
+29 dwelling unit; and
+30 (6) Information necessary to identify each dwelling unit.
+31 (b) All landlords who lease a residential property constructed prior to 1978 and that is not
+32 exempt from the requirements of chapter 128.1 of title 42 (“lead hazard mitigation”) shall, in
+33 addition to the requirements of subsection (a) of this section, for each dwelling unit, provide the
+34 department of health with a valid certificate of conformance in accordance with chapter 128.1 of
+LC004815 - Page 2 of 6
+
+1 title 42 (“lead hazard mitigation”) and regulations derived therefrom, or evidence sufficient to
+2 demonstrate that they are exempt from the requirement to obtain a certificate of conformance.
+3 (c) Contingent upon available funding, the department of health, or designee, shall create
+4 a publicly accessible an online database containing the information obtained in accordance with
+5 subsections (a) and (b) of this section, no later than nine (9) months following the effective date of
+6 this section [June 20, 2023]. The information contained in this database shall not be available to
+7 the public and shall only be accessible to:
+8 (1) Tenant(s) who reside in the rental unit they are requesting information on;
+9 (2) The department of health (hereinafter referred to in this section as (“DOH”);
+10 (3) Any city or town in the State of Rhode Island;
+11 (4) The Rhode Island judiciary; and
+12 (5) Any other Rhode Island governmental agency with a legitimate purpose; provided and
+13 only if that, purpose is related to lead or code enforcement and in no case shall the information
+14 contained in the database be used for any other purpose.
+15 (d) All landlords subject to the requirements of subsections (a) and (b) of this section as of
+16 September 1, 2024, shall register the information required by those subsections no later than
+17 October 1, 2024 2026.
+18 A landlord who acquires a rental property, or begins leasing a rental property to a new
+19 tenant, after September 1, 2024, shall register the information required by subsections (a) and (b)
+20 of this section within thirty (30) sixty (60) days after the acquisition or lease to a tenant, whichever
+21 date is earlier. All landlords subject to the requirements of subsections (a) and (b) of this section
+22 shall, following initial registration, and shall re-register by October 1 of each year in order to update
+23 any information required to comply with subsections (a) and (b) of this section, but is not required
+24 to register each year if there has been no change in the information to be updated, or to confirm that
+25 the information already supplied remains accurate.
+26 (e) Any person or entity subject to subsections (a) and (b) of this section who fails to
+27 comply with the registration provision in subsection (d) of this section, shall be subject to a civil
+28 fine of at least fifty dollars ($50.00) per month for failure to register the information required by
+29 subsection (a) of this section, or at least one hundred and twenty-five dollars ($125) per month, for
+30 failure to register the information required by subsection (b) of this section.
+31 (f) All civil penalties imposed pursuant to subsection (e) of this section shall be payable to
+32 the department of health. There is to be established a restricted receipt account to be known as the
+33 “rental registry account” which shall be a separate account within the department of health.
+34 Penalties received by the department pursuant to the terms of this section shall be deposited into
+LC004815 - Page 3 of 6
+
+1 the account. Monies deposited into the account shall be transferred to the department of health and
+2 shall be expended for the purpose of administering the provisions of this section or lead hazard
+3 mitigation, abatement, enforcement, or poisoning prevention. No penalties shall be levied under
+4 this section prior to October 1, 2024.
+5 (g) Notwithstanding the provisions of § 34-18-35, a landlord or any agent of a landlord
+6 may not commence an action to evict for nonpayment of rent in any court of competent jurisdiction,
+7 unless, at the time the action is commenced, the landlord is in compliance with the requirements of
+8 subsections (a), (b), and (d) of this section. A landlord must present the court with evidence of
+9 compliance with subsections (a), (b), and (d) of this section at the time of filing an action to evict
+10 for nonpayment of rent in order to proceed with the civil action.
+11 (h) The department of health may commence an action for injunctive relief and additional
+12 civil penalties of up to fifty dollars ($50.00) per violation against any landlord who repeatedly fails
+13 to comply with subsection (a) of this section. The attorney general may commence an action for
+14 injunctive relief and additional civil penalties of up to one thousand dollars ($1,000) per violation
+15 against any landlord who repeatedly fails to comply with subsection (b) of this section. Any
+16 penalties obtained pursuant to this subsection shall be used for the purposes of lead hazard
+17 mitigation, abatement, enforcement, or poisoning prevention, or for the purpose of administering
+18 the provisions of this section. No penalties shall be levied under this section prior to October 1,
+19 2024.
+20 (i) The DOH or any related agency shall allow any landlord required to register in
+21 accordance with this section, to register free of charge.
+22 (j) The DOH shall strictly comply with the requirements of this section and shall not create
+23 any additional burdens, regulations or require more information, than is required by this section or
+24 the requirements of chapter 128.1 of title 42.
+25 (k) The DOH shall promptly issue any lead inspection documentation requested by a
+26 landlord to evidence compliance with this section and the requirements of chapter 128.1 of title 42.
+27 This documentation shall include, but is not limited to, the issuance of any lead conformance
+28 renewals based on visual affidavit, and such renewals shall be issued no more than seven (7) days
+29 after submission by the landlord to the DOH. If the DOH, after receiving a visual affidavit for
+30 renewal, fails to issue a renewal certificate within seven (7) days, the landlord shall keep evidence
+31 of the submission, until the DOH issues the renewal and said affidavit so submitted shall be
+32 considered prima facie evidence of the landlord’s compliance with this section and not liable for
+33 any fines hereunder.
+LC004815 - Page 4 of 6
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC004815
+========
+LC004815 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+***
+1 This bill would require landlords of residential properties built before 1978, to register lead
+2 hazard mitigation information with the department of health and the information would remain
+3 private and only accessible by specific entities. The act also would make revisions to prohibited
+4 retaliatory conduct and the statewide mandatory rental registry. The act further would allow
+5 landlords to register free of charge, restrict DOH from creating any additional burdens, and
+6 promptly issue lead documentation.
+7 This act would take effect upon passage.
+========
+LC004815
+========
+LC004815 - Page 6 of 6

@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - 8335
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8335
+========
+LC006082
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- MEDICAID AND COMMERCIAL PRIMARY CARE RATE
+ENHANCEMENT AND SUSTAINABILITY ACT
+Introduced By: Representatives Hopkins, Cruz, J. Brien, Casimiro, Cotter, Boylan,
+Shanley, Phillips, Lima, and Place
+Date Introduced: March 20, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds that independent primary care practices face unsustainable
+3 overhead increases and reimbursement compression, resulting in closures and patient displacement.
+4 Commercial primary care rates in Rhode Island lag approximately twenty-nine percent (29%)
+5 behind neighboring states. State-directed payments under 42 C.F.R. § 438.6(c) provide a no-net-
+6 cost mechanism to stabilize these practices using existing Medicaid funds and federal matching
+7 dollars. Enhanced rates, supplements, and commercial parity are essential to prevent further
+8 closures and reduce system-wide costs.
+9 SECTION 2. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+10 adding thereto the following chapter:
+11 CHAPTER 18.10
+12 MEDICAID AND COMMERCIAL PRIMARY CARE RATE ENHANCEMENT AND
+13 SUSTAINABILITY ACT
+14 27-18.10-1. Short title.
+15 This chapter shall be known and may be cited as the “Medicaid and Commercial Primary
+16 Care Rate Enhancement and Sustainability Act”
+17 27-18.10-2. Patient-centered medical home expansion and enhanced per-member-
+18 per-month supplements.
+
+1 (a) The executive office of health and human services (EOHHS) shall expand the patient-
+2 centered medical home (PCMH) program to all Medicaid-accepting independent primary care
+3 practices and nurse practitioners.
+4 (b) Through state-directed payments under 42 C.F.R. § 438.6(c), EOHHS shall require
+5 managed care organizations (MCOs) to pay an enhanced per-member-per-month (PMPM)
+6 supplement of ten dollars ($10.00) to twenty dollars ($20.00) for each attributed Medicaid patient
+7 to eligible independent providers who enroll in PCMH or meet equivalent criteria.
+8 27-18.10-3. Rate acceleration; Automatic per-member-per-month access payments
+9 and bonus.
+10 (a) EOHHS shall accelerate the FY2026 primary care rate increase to one hundred percent
+11 (100%) of Medicare and add a temporary twenty-five percent (25%) bonus for independent (non-
+12 hospital-employed) practices.
+13 (b) Through state-directed payments under 42 C.F.R. § 438.6(c), EOHHS shall require
+14 MCOs to pay an automatic access payment supplement of eight dollars ($8.00) to fifteen dollars
+15 ($15.00) PMPM for every attributed Medicaid patient in qualifying independent practices.
+16 27-18.10-4. Commercial rate parity.
+17 The office of the health insurance commissioner shall require commercial insurers and
+18 Medicare Advantage plans to align primary care reimbursement rates with those in Massachusetts
+19 and Connecticut (approximately twenty-nine percent (29%) higher on average) through phased
+20 implementation: fifteen percent (15%) by January 1, 2027 and full alignment by July 1, 2027.
+21 27-18.10-5. Eligibility and implementation.
+22 (a) Eligibility is limited to independent primary care physicians and nurse practitioners
+23 who accept Medicaid and meet minimal quality and reporting requirements established by EOHHS.
+24 (b) On and after January 1, 2027, EOHHS shall:
+25 (1) Submit the necessary state-directed payment preprints to the centers for Medicare &
+26 Medicaid services;
+27 (2) Update all MCO contracts to incorporate these payments;
+28 (3) Build on the existing multi-payer PCMH program administered by the office of the
+29 health insurance commissioner (OHIC) in consultation with the Care Transformation Collaborative
+30 of Rhode Island (CTC-RI); and
+31 (4) Issue annual reports on access, retention, and cost savings.
+32 (c) The office of the health insurance commissioner shall amend regulations and insurer
+33 contracts to enforce commercial parity.
+34 27-18.10-6. Enforcement.
+LC006082 - Page 2 of 4
+
+1 The office of the health insurance commissioner and EOHHS shall enforce this chapter
+2 under existing authority. Non-compliant contract provisions are void.
+3 SECTION 3. This act shall take effect on January 1, 2027.
+========
+LC006082
+========
+LC006082 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- MEDICAID AND COMMERCIAL PRIMARY CARE RATE
+ENHANCEMENT AND SUSTAINABILITY ACT
+***
+1 This act would enact the Medicaid and commercial primary care rate enhancement and
+2 sustainability act, expanding the patient-centered medical home program to all Medicaid-accepting
+3 independent primary care practices and nurse practitioners. This act would increase rates paid by
+4 commercial insurers and Medicare Advantage plans to align with the reimbursement rates in
+5 Massachusetts and Connecticut starting with a fifteen percent (15%) increase on January 1,
+6 2027and full alignment by July 1, 2027.
+7 This act would take effect on January 1, 2027.
+========
+LC006082
+========
+LC006082 - Page 4 of 4

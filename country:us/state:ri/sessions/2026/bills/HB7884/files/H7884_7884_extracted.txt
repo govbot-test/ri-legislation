@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - 7884
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7884
+========
+LC004496
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- FEDERAL BACKSTOP
+LANGUAGE
+Introduced By: Representatives Handy, McGaw, Stewart, Tanzi, Hull, Edwards,
+Caldwell, Cruz, Potter, and Furtado
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 39 of the General Laws entitled "PUBLIC UTILITIES AND
+2 CARRIERS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 3.1
+4 FEDERAL BACKSTOP LANGUAGE
+5 39-3.1-1. Federal backstop language.
+6 If any of the energy or water conservation standards issued or approved for publication by
+7 the office of the United States Secretary of Energy as of January 19, 2025, pursuant to the Energy
+8 Policy and Conservation Act (Parts 430-431 of Title 10 of the Code of Federal Regulations), are
+9 withdrawn, repealed, or otherwise voided, the minimum energy or water efficiency level permitted
+10 for products previously subject to federal energy or water conservation standards in this state shall
+11 be the applicable federal standards as of January 19, 2025, and no such new product may be sold
+12 or offered for sale, lease or rent in this state unless it meets or exceeds such standards. This section
+13 shall not apply to any federal energy or water conservation standard set aside by a court upon the
+14 petition of a person who will be adversely affected, as provided in Section 6306(b) of Title 42 of
+15 the United States Code.
+16 39-3.1-2. Testing, certification, labeling, and enforcement.
+17 (a) The manufacturers of products covered by this chapter shall test samples of their
+18 products in accordance with the test procedures found in the Energy Policy and Conservation Act
+
+1 (Parts 430-431 of Title 10 of the Code of Federal Regulations) as of January 19, 2025, in accordance
+2 with the federal test procedures as in place on January 19, 2025. Rhode Island energy may adopt
+3 updated test methods by regulation when new versions of test methods become available or when
+4 an alternative test method has been adopted by another state or the federal government.
+5 (b) Manufacturers of new products covered by this chapter shall certify that such products
+6 are in compliance with the provisions of this chapter to the Modernized Appliance Efficiency
+7 Database System, the State Appliance Standards Database, and the Certified Products Directory,
+8 or to an approved third-party database as determined by the Rhode Island office of energy
+9 resources. Such certifications shall be based on test results. The agency may promulgate regulations
+10 further governing the certification of such products and may coordinate with the certification
+11 programs of other states and federal agencies with similar standards.
+12 (c) The Rhode Island office of energy resources (the “agency”) may test products covered
+13 by this chapter. If products so tested are found not to be in compliance with the minimum efficiency
+14 standards, the agency shall:
+15 (1) Charge the manufacturer of such product for the cost of product purchase and testing;
+16 and
+17 (2) Make information available to the attorney general and the public on products found
+18 not to be in compliance with the standards.
+19 (d) The agency may cause periodic inspections to be made of distributors or retailers in
+20 order to determine compliance with the provisions of this chapter. The commission shall investigate
+21 complaints received concerning violations of this chapter.
+22 (e) If the agency finds that any person has committed a violation of any provision of this
+23 chapter, the agency shall issue a warning to such person. Any person who commits a violation after
+24 the issuance of such warning shall be subject to a civil penalty, issued by the agency, of up to one
+25 hundred dollars ($100) for each offense. Any further violations committed by such person after a
+26 second violation shall be subject to a civil penalty of not more than five hundred dollars ($500) for
+27 each offense. Each product offered, sold, or distributed in violation of this chapter shall constitute
+28 a separate violation, each violation shall constitute a separate offense, and each day that such
+29 violation occurs shall constitute a separate offense. Penalties assessed under this subsection are in
+30 addition to costs assessed under this section.
+31 (f) If the agency finds repeated violations have occurred, the agency shall report the results
+32 of such violations to the attorney general. The attorney general may institute proceedings to seek
+33 an injunction in state court to enforce the provisions of this chapter.
+34 (g) The agency may adopt such further rules and regulations as necessary to ensure the
+LC004496 - Page 2 of 4
+
+1 proper implementation and enforcement of the provisions of this chapter.
+2 39-3.1-3. Severability.
+3 If any provision of this chapter or the applicability thereof to any person or circumstance
+4 is held invalid, the remainder of the chapter and the application of the provision to other persons or
+5 circumstances shall not be affected thereby.
+6 SECTION 2. This act shall take effect upon passage.
+========
+LC004496
+========
+LC004496 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- FEDERAL BACKSTOP
+LANGUAGE
+***
+1 This act would establish federal back stop language for any provisions of federal law
+2 relating to any of the energy or water conservation standards issued or approved for publication by
+3 the office of the United States Secretary of Energy as of January 19, 2025, in the event that those
+4 standards are withdrawn, repealed, or otherwise voided.
+5 This act would take effect upon passage.
+========
+LC004496
+========
+LC004496 - Page 4 of 4

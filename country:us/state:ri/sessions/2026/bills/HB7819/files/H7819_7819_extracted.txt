@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - 7819
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7819
+========
+LC005803
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE-- PROCEDURE GENERALLY --
+MUNICIPAL EMERGENCY RESPONSE COST RECOVERY
+Introduced By: Representative Charlene Lima
+Date Introduced: February 26, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and purpose.
+2 The general assembly hereby finds and declares as follows:
+3 (1) A mass casualty shooting event recently occurred on the campus of a private institution
+4 of higher education within the state, resulting in death, serious bodily injury, and significant
+5 emotional trauma to students, faculty, families, and the broader community.
+6 (2) Municipal police departments, fire departments, and emergency medical services from
+7 multiple cities and towns responded to the incident and expended substantial public funds in
+8 emergency response, investigation, suspect apprehension, mutual aid coordination, and related
+9 public safety operations.
+10 (3) Municipal emergency response costs arising from large-scale violent incidents may
+11 substantially exceed ordinary operating budgets and may result in significant unanticipated burdens
+12 on local taxpayers.
+13 (4) Private property owners, including institutions of higher education, have a
+14 responsibility to implement reasonable safety measures appropriate to the size, use, and risk profile
+15 of their premises.
+16 (5) Concerns have been publicly raised regarding whether reasonable safety measures —
+17 including secure building access controls, qualified security leadership, modern surveillance
+18 systems, and appropriate response to credible safety warnings — were adequately implemented or
+
+1 maintained prior to the incident.
+2 (6) It is not the intent of the general assembly by this act to determine civil liability for any
+3 specific event or entity, but to establish a uniform and prospective judicial mechanism under which
+4 municipalities may seek reimbursement of extraordinary emergency response costs when such
+5 costs are proven in a court of law to have been proximately caused by negligent failure to implement
+6 reasonable safety measures.
+7 (7) The purpose of this act is to protect taxpayers from bearing extraordinary public safety
+8 costs when such costs are attributable to proven negligence, while preserving due process and
+9 judicial determination of fault.
+10 SECTION 2. Title 9 of the General Laws entitled "COURTS AND CIVIL PROCEDURE
+11 — PROCEDURE GENERALLY" is hereby amended by adding thereto the following chapter:
+12 CHAPTER 1.5
+13 MUNICIPAL EMERGENCY RESPONSE COST RECOVERY ACT
+14 9-1.5-1. Definitions.
+15 As used in this chapter:
+16 (1) “Extraordinary emergency response costs” means documented and reasonable costs
+17 incurred by a municipality for police, fire, emergency medical services, mutual aid assistance,
+18 overtime compensation, specialized equipment deployment, and investigation directly attributable
+19 to a mass casualty event.
+20 (2) “Mass casualty event” means an incident occurring on private property resulting in
+21 death or serious bodily injury to three (3) or more individuals.
+22 (3) “Private property owner” means any private nonprofit or for-profit entity that owns or
+23 controls real property within the state.
+24 9-1.5-2. Civil cause of action.
+25 (a) A municipality that incurs extraordinary emergency response costs arising from a mass
+26 casualty event may bring a civil action in the superior court to recover such costs from a private
+27 property owner.
+28 (b) In order to recover under this chapter, the municipality shall prove by a preponderance
+29 of the evidence that:
+30 (1) The private property owner owed a duty under the circumstances to maintain reasonable
+31 safety measures;
+32 (2) The private property owner negligently failed to implement or maintain reasonable
+33 safety measures; and
+34 (3) Such negligence was a proximate cause of the mass casualty event and the resulting
+LC005803 - Page 2 of 4
+
+1 extraordinary emergency response costs.
+2 (c) Nothing in this chapter shall be construed to create strict liability.
+3 9-1.5-3. Damages.
+4 (a) Recovery under this chapter shall be limited to documented and reasonable
+5 extraordinary emergency response costs.
+6 (b) The court may award reasonable attorneys’ fees and costs to a prevailing municipality.
+7 (c) Prejudgment and post-judgment interest shall be awarded in accordance with § 9-21-
+8 10.
+9 9-1.5-4. Applicability.
+10 This chapter shall apply to any mass casualty event occurring on or after January 1, 2024.
+11 Any action brought pursuant to this chapter shall be commenced within three (3) years of the date
+12 of the event.
+13 SECTION 3. This act shall take effect upon passage and shall apply to any mass casualty
+14 event occurring on or after January 1, 2024.
+========
+LC005803
+========
+LC005803 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE-- PROCEDURE GENERALLY --
+MUNICIPAL EMERGENCY RESPONSE COST RECOVERY
+***
+1 This act would create a civil cause of action for any municipality that incurs extraordinary
+2 emergency response costs arising from a mass casualty event may bring a civil action in the superior
+3 court to recover such costs from a private property owner.
+4 This act would take effect upon passage and would apply to any mass casualty event
+5 occurring on or after January 1, 2024.
+========
+LC005803
+========
+LC005803 - Page 4 of 4

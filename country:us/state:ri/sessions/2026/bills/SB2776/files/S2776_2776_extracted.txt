@@ -1,0 +1,137 @@
+Title: 
+Official Title: 
+Source: versions - 2776
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2776
+========
+LC005535
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+Introduced By: Senators DiPalma, Ciccone, Burke, and Urso
+Date Introduced: March 04, 2026
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 39-1 of the General Laws entitled "Public Utilities Commission" is
+2 hereby amended by adding thereto the following section:
+3 39-1-64. Data centers -- Electric cost allocation.
+4 (a) As used in this section, “data center” means a facility, or portion of a facility, primarily
+5 engaged in the storage, processing, or transmission of digital information using computer servers
+6 and related equipment, and having a projected or actual electric demand of fifty megawatts (50
+7 MW) or greater at a single site.
+8 (b) The public utilities commission shall require that any costs reasonably attributable to
+9 the planning, construction, expansion, operation, or maintenance of electric generation,
+10 transmission, or distribution facilities necessary to serve a data center shall be borne exclusively by
+11 that data center.
+12 (c) No such costs shall be recovered from residential customers or from commercial
+13 customers that are not data centers as defined in this section.
+14 (d) The commission shall require electric distribution companies to establish one or more
+15 dedicated rate classes, tariffs, contracts, or other cost recovery mechanisms applicable to data
+16 centers to ensure compliance with this section.
+17 (e) Nothing in this section shall be construed to alter participation in, or obligations under,
+18 regional transmission organizations, federally regulated wholesale electric markets, or federal
+19 reliability standards.
+
+1 SECTION 2. Section 42-98-7 of the General Laws in Chapter 42-98 entitled "Energy
+2 Facility Siting Act" is hereby amended to read as follows:
+3 42-98-7. Powers and duties.
+4 (a)(1) The siting board is the licensing and permitting authority for all licenses, permits,
+5 assents, or variances that, under any statute of the state or ordinance of any political subdivision of
+6 the state, would be required for siting, construction, or alteration of a major energy facility in the
+7 state.
+8 (2) Any agency, board, council, or commission of the state or political subdivision of the
+9 state that, absent this chapter, would be required to issue a permit, license, assent, or variance in
+10 order for the siting, construction, or alteration of a major energy facility to proceed, shall sit and
+11 function at the direction of the siting board. These agencies shall follow the procedures established
+12 by statute, ordinance, and/or regulation provided for determining the permit, license, assent, or
+13 variance, but, instead of issuing the permit, license, assent, or variance, shall forward its findings
+14 from the proceeding, together with the record supporting the findings and a recommendation for
+15 final action, to the siting board.
+16 (3) Notwithstanding any provision in this chapter to the contrary, in those instances in
+17 which the department of environmental management exercises a permitting or licensing function
+18 under the delegated authority of federal law, including, but not limited to, the federal Clean Water
+19 Act (33 U.S.C. § 1251 et seq.), the Resource Conservation and Recovery Act (42 U.S.C. § 6901 et
+20 seq.), the Clean Air Act (42 U.S.C. § 7401 et seq.), and those state laws and regulations that
+21 implement those federal laws, the department of environmental management shall be the licensing
+22 and permitting authority. Moreover, the authority to issue licenses and permits delegated to the
+23 department of environmental management pursuant to chapter 1 of title 2 and to the coastal
+24 resources management council pursuant to chapter 23 of title 46, shall remain with those agencies,
+25 but in all other respects the department of environmental management and the coastal resources
+26 management council shall follow the procedures set forth in this chapter.
+27 (b) The siting board is authorized and empowered to summon and examine witnesses and
+28 to compel the production and examination of papers, books, accounts, documents, records,
+29 certificates, and other legal evidence that may be necessary for the determination of its jurisdiction
+30 and decision of any question before, or the discharge of any duty required by law of, the board.
+31 (c) The siting board is empowered to issue any orders, rules, or regulations as may be
+32 required to effectuate the purposes of this chapter.
+33 (d) The siting board shall, by regulation, determine the standards for intervention.
+34 (e) The siting board’s proceedings shall in all respects comply with the requirements of the
+LC005535 - Page 2 of 5
+
+1 Administrative Procedures Act, chapter 35 of this title, except where otherwise explicitly provided.
+2 (f) In the case of any application involving electric generation, transmission, or distribution
+3 facilities intended, in whole or in part, to serve a data center as defined in § 39-1-64, the energy
+4 facility siting board shall consult with the public utilities commission regarding ratepayer impacts
+5 and electric cost allocation.
+6 (1) The board may condition approval of any such application upon a showing that the
+7 applicant has obtained approval from the public utilities commission for rates, tariffs, contracts, or
+8 other mechanisms ensuring compliance with § 39-1-64.
+9 (2) Nothing in this section shall be construed to authorize the energy facility siting board
+10 to set electric rates or to exercise ratemaking authority.
+11 SECTION 3. Title 46 of the General Laws entitled "WATERS AND NAVIGATION" is
+12 hereby amended by adding thereto the following chapter:
+13 CHAPTER 15.9
+14 DATA CENTER WATER USE DISCLOSURE
+15 46-15.9-1. Definitions.
+16 As used in this chapter, “data center” means a facility, or portion of a facility, primarily
+17 engaged in the storage, processing, or transmission of digital information using computer servers
+18 and related equipment, and having a projected or actual electric demand of fifty megawatts (50
+19 MW) or greater at a single site.
+20 46-15.9-2. Water use disclosure.
+21 (a) Each data center shall annually submit to the department of environmental management
+22 a report containing:
+23 (1) Average daily water withdrawal;
+24 (2) Peak daily water withdrawal;
+25 (3) Cooling technologies utilized; and
+26 (4) Water recycling or reuse practices.
+27 (b) The department shall prescribe the form and manner of such reporting.
+28 46-15.9-3. Water efficiency plans.
+29 The director of the department of environmental management may require a data center to
+30 submit a water efficiency, conservation, or recycling plan as a condition of any permit issued under
+31 this title.
+32 46-15.9-4. Site restoration assurance.
+33 The director may require financial assurance, in a form acceptable to the department, to
+34 ensure site restoration in the event of abandonment or cessation of operations
+LC005535 - Page 3 of 5
+
+1 SECTION 4. Severability.
+2 If any provision of this act or its application to any person or circumstance is held invalid,
+3 the remainder of the act and the application of its provisions to other persons or circumstances shall
+4 not be affected.
+5 SECTION 5. This act shall take effect upon passage.
+========
+LC005535
+========
+LC005535 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+***
+1 This act would require that certain data centers requiring large amounts of electricity be
+2 required to fund the cost of necessary infrastructure improvements to supply such electricity.
+3 This act would take effect upon passage.
+========
+LC005535
+========
+LC005535 - Page 5 of 5

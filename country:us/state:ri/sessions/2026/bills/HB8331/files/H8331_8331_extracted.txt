@@ -1,0 +1,233 @@
+Title: 
+Official Title: 
+Source: versions - 8331
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8331
+========
+LC003730
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- THE TRADES WORKER JUSTICE
+AND SAFETY ACT
+Introduced By: Representatives Morales, Potter, Voas, Cruz, and Tanzi
+Date Introduced: March 20, 2026
+Referred To: House Labor
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The General Assembly finds and declares:
+3 (1) All construction workers have the right to a workplace free from harassment,
+4 discrimination, intimidation, bullying, abuse, and retaliation.
+5 (2) Women, tradeswomen, workers of color, LGBTQ+ workers, immigrants, and other
+6 marginalized groups experience disproportionate rates of job-site hostility and workplace violence.
+7 (3) The tragic death of Yinka A. Awodumila, a laborer in Rhode Island, demonstrates
+8 systemic failures in responding to hostile job sites, retaliation, and worker mental health crises.
+9 (4) Rhode Island must establish comprehensive, enforceable protections that ensure no
+10 worker’s plea for safety is ignored and that every worker is given dignity, protection, and respect.
+11 (5) These protections shall cover all construction sites including private projects, public
+12 projects, municipal and city-funded projects, school district projects, state-funded projects,
+13 federally funded projects, and any project permitted, contracted, or overseen by the Rhode Island
+14 Department of Labor and Training (RIDLT), the Rhode Island Department of Transportation
+15 (RIDOT), or any other state agency.
+16 (6) A statewide system utilizing “Safe From Hate” best practices, independent oversight,
+17 mental health protections, women’s restroom standards, whistleblower protections, and zero-
+18 tolerance harassment policies is essential to the safety and dignity of construction workers.
+
+1 (7) A neutral, worker-first Ombudsman is necessary to ensure accountability free from
+2 union, contractor, employer, or agency interference.
+3 SECTION 2. Title 28 of the General Laws entitled "LABOR AND LABOR RELATIONS"
+4 is hereby amended by adding thereto the following chapter:
+5 CHAPTER 61
+6 THE TRADES WORKER JUSTICE AND SAFETY ACT
+7 28-61-1. Definitions.
+8 For purposes of this chapter:
+9 (1) "Construction site" means any location within Rhode Island where construction,
+10 demolition, alteration, excavation, highway or bridge work, utility work, or related labor occurs
+11 including, but not limited to:
+12 (i) Private construction sites;
+13 (ii) Public construction sites;
+14 (iii) Municipal or city-funded projects;
+15 (iv) State-funded projects;
+16 (v) Federally funded or federally assisted projects;
+17 (vi) School district, university, or public agency projects;
+18 (vii) Any site governed, contracted, permitted, or overseen by the Rhode Island department
+19 of labor and training (RIDLT);
+20 (viii) Any site governed, contracted, permitted, or overseen by the Rhode Island department
+21 of transportation (RIDOT); and
+22 (ix) Any site regulated by the Occupational Safety and Health Administration (OSHA) or
+23 any state licensing authority.
+24 (2) "Harassment or bullying" means unwelcome verbal, physical, visual, written, or digital
+25 conduct that creates a hostile, intimidating, discriminatory, humiliating, retaliatory, or offensive
+26 work environment including, but not limited to:
+27 (i) Gender-based harassment;
+28 (ii) Sexual harassment;
+29 (iii) Racial or ethnic harassment;
+30 (iv) Threats, slurs, intimidation, or sabotage; and
+31 (v) Retaliation for reporting safety or misconduct.
+32 (3) "Whistleblower" means a worker who reports unsafe conditions, discrimination,
+33 harassment, fraud, retaliation, wage violations, misconduct, violence, or mental-health-related
+34 concerns.
+LC003730 - Page 2 of 7
+
+1 (4) "Ombudsman" means a neutral, state-appointed official empowered to receive,
+2 investigate, and resolve worker concerns independently from unions, contractors, employers, or
+3 agencies.
+4 28-61-2. Safe and equitable facilities mandate.
+5 (a) All construction sites shall provide regulated, dedicated women’s restrooms that are:
+6 (1) Separate, private, fully enclosed, and lockable;
+7 (2) Sanitary and clearly labeled;
+8 (3) Maintained daily with cleaning logs;
+9 (4) Equipped with functioning locks, proper lighting, menstrual products, and covered trash
+10 receptacles; and
+11 (5) Located within a reasonable distance of the work area.
+12 (b) Inspections of construction sites to verify compliance with subsection (a) of this section
+13 shall be conducted at least once every thirty (30) days by one or more of the following entities:
+14 (1) RIDLT;
+15 (2) RIDOT;
+16 (3) OSHA;
+17 (4) The ombudsman’s office; or
+18 (5) Municipal inspectors.
+19 (c) Failure to comply with subsection (a) of this section shall result in:
+20 (1) Mandatory fines;
+21 (2) Written corrective action plans; and
+22 (3) Stop-work orders for repeat violations.
+23 28-61-3. Zero-tolerance jobsite harassment standard.
+24 (a) The following conduct is prohibited on all construction sites:
+25 (1) Sexual harassment;
+26 (2) Gender-based harassment;
+27 (3) Bullying or intimidation;
+28 (4) Racial, ethnic, or religious harassment;
+29 (5) Threats, slurs, or degrading remarks;
+30 (6) Tool sabotage or work sabotage; and
+31 (7) Retaliation of any kind.
+32 (b) Any individual who engages in prohibited conduct under subsection (a) of this section
+33 shall be immediately removed from the job site pending investigation.
+34 (c) Incidents of prohibited conduct must be reported to:
+LC003730 - Page 3 of 7
+
+1 (1) The employer;
+2 (2) RIDLT;
+3 (3) RIDOT (if the project is under RIDOT jurisdiction); and
+4 (4) The ombudsman.
+5 (d) Failure to report incidents as required under subsection (c) of this section shall result in
+6 employer penalties.
+7 (e) The director of RIDLT shall promulgate rules and regulations relative to the prohibited
+8 conduct under this section and what constitutes a violation thereof.
+9 28-61-4. Whistleblower protection and non-retaliation.
+10 (a) Whistleblower protections under this chapter shall be undeniable and non-waivable.
+11 (b) Protected activities include reporting on the following:
+12 (1) Hazards;
+13 (2) Harassment or bullying;
+14 (3) Discrimination;
+15 (4) Mental health emergencies;
+16 (5) Violence or threats; and
+17 (6) Wrongdoing by supervisors, contractors, or union officials.
+18 (c) Retaliation against whistleblowers is prohibited including, but not limited to:
+19 (1) Termination, suspension, demotion, or removal from work or committees;
+20 (2) Blacklisting or removal from future jobs;
+21 (3) Reduction of hours or overtime;
+22 (4) Negative evaluations;
+23 (5) Hostile assignments;
+24 (6) Threats, intimidation, or slander.
+25 (d) Remedies for violations include:
+26 (1) Reinstatement;
+27 (2) Treble damages;
+28 (3) Attorneys’ fees; and
+29 (4) Expedited ombudsman review under this chapter.
+30 28-61-5. "Safe From Hate" compliance standards.
+31 (a) Rhode Island hereby adopts the U.S. Department of Labor’s Safe from Hate best
+32 practices.
+33 (b) All contractors, subcontractors, unions, and employers shall implement:
+34 (1) Mandatory ongoing anti-harassment training;
+LC003730 - Page 4 of 7
+
+1 (2) Respect- and safety-based new hire orientation;
+2 (3) Posting of worker rights and reporting channels in union halls, contractor offices,
+3 jobsite entrances, and other visible locations;
+4 (4) Ongoing crew-level safety and mental health check-ins; and
+5 (5) Supervisor and leadership accountability for inaction.
+6 (c) The requirements of this section apply to all state-funded construction projects, public
+7 works, and all contractors and subcontractors bidding on state or RIDOT contracts.
+8 28-61-6. Rhode Island ombudsman for construction worker safety and equity.
+9 (a) There is hereby established within RIDLT an independent ombudsman’s office.
+10 (b) The ombudsman shall:
+11 (1) Receive confidential or anonymous complaints;
+12 (2) Investigate harassment, retaliation, and safety concerns;
+13 (3) Issue binding corrective recommendations;
+14 (4) Require employers or contractors to take corrective action;
+15 (5) Refer cases to OSHA, RIDLT, RIDOT, or the attorney general as appropriate;
+16 (6) Track statewide patterns of job-site hostility;
+17 (7) Publish annual reports (protecting worker identities); and
+18 (8) Conduct unannounced jobsite inspections.
+19 (c) Workers may contact the ombudsman via:
+20 (1) 24/7 hotline;
+21 (2) Anonymous text hotline;
+22 (3) Online reporting portal;
+23 (4) Private on-site interviews.
+24 (d) The ombudsman shall not:
+25 (1) Be a union member or have an immediate family member in any union;
+26 (2) Have worked for a contractor, employer, or union within five (5) years prior to
+27 appointment; and
+28 (3) Be influenced by employer associations or agency leadership.
+29 28-61-7. Enforcement and penalties.
+30 (a) Violators including contractors, subcontractors, employers, or unions shall be subject
+31 to enforcement of the provisions of this chapter by the attorney general and/or RIDLT to include,
+32 but not be limited to:
+33 (1) Fines ranging from five thousand dollars ($5,000) to fifty thousand dollars ($50,000)
+34 per violation;
+LC003730 - Page 5 of 7
+
+1 (2) Mandatory corrective action plans;
+2 (3) Public posting of violations;
+3 (4) Suspension from eligibility for state and RIDOT contracts; and
+4 (5) Stop-work orders for severe or repeated violations.
+5 (b) Supervisors, foremen, stewards, and management who fail to act may face:
+6 (1) Personal fines;
+7 (2) Removal from supervisory duties; and
+8 (3) Criminal referral for willful negligence.
+9 28-61-8. Mental health protections.
+10 Employers shall:
+11 (1) Provide mental health crisis resource cards listing immediate support options;
+12 (2) Offer access to employee assistance programs (EAP);
+13 (3) Immediately contact emergency services when a worker expresses a crisis; and
+14 (4) Notify the ombudsman of any mental health crisis within twenty-four (24) hours.
+15 28-61-9. Reporting, training, and public transparency.
+16 (a) The ombudsman shall publish on the RIDLT website:
+17 (1) Annual statewide reports;
+18 (2) Harassment and retaliation data;
+19 (3) Women’s restroom compliance records;
+20 (4) Training completion logs; and
+21 (5) Contractor compliance scores.
+22 (b) Employers shall post at all jobsite entrances:
+23 (1) Worker rights;
+24 (2) Zero-tolerance policy;
+25 (3) Whistleblower protections; and
+26 (4) Ombudsman contact information.
+27 SECTION 3. This act shall take effect on January 1, 2027.
+========
+LC003730
+========
+LC003730 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- THE TRADES WORKER JUSTICE
+AND SAFETY ACT
+***
+1 This act would establish the trades worker justice and safety act to help provide workers
+2 with a workplace free from harassment, discrimination, intimidation, bullying, abuse and
+3 retaliation.
+4 This act would take effect on January 1, 2027.
+========
+LC003730
+========
+LC003730 - Page 7 of 7

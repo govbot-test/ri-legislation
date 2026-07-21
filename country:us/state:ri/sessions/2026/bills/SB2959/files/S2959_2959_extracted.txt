@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - 2959
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2959
+========
+LC005867
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+CAUSES OF ACTION
+Introduced By: Senator Brian J. Thompson
+Date Introduced: March 04, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 9-1-18 of the General Laws in Chapter 9-1 entitled "Causes of
+2 Action" is hereby amended to read as follows:
+3 9-1-18. Effect of absence from state on limitations.
+4 (a) If any person against whom there is or shall be cause for any action, as enumerated in
+5 this chapter, in favor of a resident of the state, shall at the time the cause accrues be outside the
+6 limits of the state, or being within the state at the time the cause accrues shall go out of the state
+7 before the action is barred by the provisions of this chapter, and does not have or leave property or
+8 estate in the state that can be attached by process of law, then the person entitled to the action may
+9 commence the action, within the time before limited, after the person has returned into the state in
+10 such a manner that an action may, with reasonable diligence, be commenced against him or her by
+11 the person entitled to the action; provided, however, that no action shall be brought by any person
+12 upon a cause of action accruing outside this state which was barred by limitation or otherwise in
+13 the state, territory, or country in which the cause of action arose while he or she resided in the state.
+14 (b)(1) Notwithstanding any other provision of law, if any person or entity, including an
+15 individual or sole proprietor required to file under § 6-1-1, is required to register with the secretary
+16 of state under title 7 ("corporations, associations, and partnerships") or § 6-1-1 and fails to do so,
+17 the statute of limitations for any cause of action arising out of the business activities of that person
+18 or entity shall be tolled regardless of whether that person or entity maintains a physical presence in
+
+1 this state as defined in § 7-1.2-1401 (b), and shall not begin to run until the date the person or entity
+2 becomes duly registered or authorized to transact business in this state.
+3 (2) Voluntary compliance incentive. If the person or entity becomes duly registered or
+4 authorized to transact business in this state before the earlier of:
+5 (i) Receipt of written notice asserting a claim arising out of such business activities; or
+6 (ii) Receipt of written notice from any state agency of a compliance inquiry or enforcement
+7 action relating to such registration obligation, then the applicable statute of limitations for any such
+8 cause of action shall begin to run on the date of such registration or authorization; provided,
+9 however, that any such action shall be commenced within three (3) years after the date of such
+10 registration or authorization, or within the otherwise applicable limitations period measured from
+11 the date the cause of action accrued, whichever is later.
+12 (3) For purposes of this subsection:
+13 (i) "Person" has the same meaning as provided in § 6-1-1.1 and includes a natural person
+14 acting as a sole proprietor who is required to file under § 6-1-1.
+15 (ii) "Written notice" includes notice delivered by electronic mail.
+16 SECTION 2. This act shall take effect upon passage.
+========
+LC005867
+========
+LC005867 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE -- PROCEDURE GENERALLY --
+CAUSES OF ACTION
+***
+1 This act would toll the statute of limitations for causes of action arising out of business
+2 activities conducted in this state by a person or entity required to register with the secretary of state
+3 under title 7 ("corporations, associations, and partnerships") or § 6-1-1 but failing to do so, until
+4 such person or entity becomes duly registered or authorized to transact business in this state. This
+5 act would further provide a voluntary compliance incentive that starts the limitations period upon
+6 registration when the person or entity registers before written notice of a claim or enforcement
+7 inquiry, thereby encouraging compliance while preserving remedies for injured consumers and
+8 businesses.
+9 This act would take effect upon passage.
+========
+LC005867
+========
+LC005867 - Page 3 of 3

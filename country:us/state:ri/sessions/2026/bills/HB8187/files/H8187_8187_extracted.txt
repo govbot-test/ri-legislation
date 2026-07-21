@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - 8187
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8187
+========
+LC005766
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- BUSINESS CORPORATION TAX
+Introduced By: Representatives Shallcross Smith, and Casey
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-11-2.3 of the General Laws in Chapter 44-11 entitled "Business
+2 Corporation Tax" is hereby amended to read as follows:
+3 44-11-2.3. Pass-through entities — Election to pay state income tax at the entity level.
+4 (a) Definitions. As used in this section:
+5 (1) “Election” means the annual election to be made by the pass-through entity by filing
+6 the prescribed tax form and remitting the appropriate tax.
+7 (2) “Net income” means the net ordinary income, net rental real estate income, other net
+8 rental income, guaranteed payments, and other business income less specially allocated
+9 depreciation and deductions allowed pursuant to § 179 of the United States Revenue Code (26
+10 U.S.C. § 179), all of which would be reported on federal tax form schedules C and E. Net income
+11 for purposes of this section does not include specially allocated investment income or any other
+12 types of deductions.
+13 (3) “Owner” means an individual who is a shareholder of an S Corporation; a partner in a
+14 general partnership, a limited partnership, or a limited liability partnership; a member of a limited
+15 liability company, a beneficiary of a trust; or a sole proprietor.
+16 (4) “Pass-through entity” means a corporation that for the applicable tax year is treated as
+17 an S Corporation under I.R.C. 1362(a) (26 U.S.C. § 1362(a)), or a general partnership, limited
+18 partnership, limited liability partnership, trust, limited liability company or unincorporated sole
+19 proprietorship that for the applicable tax year is not taxed as a corporation for federal tax purposes
+
+1 under the state’s regulations.
+2 (5) “State tax credit” means the amount of tax paid by the pass-through entity at the entity
+3 level that is passed through to an owner on a pro rata basis. For tax years beginning on or after
+4 January 1, 2025, “state tax credit” means ninety percent (90%) of the amount of tax paid by the
+5 pass-through entity at the entity level that is passed through to an owner on a pro rata basis.
+6 (b) Elections.
+7 (1) For tax years beginning on or after January 1, 2019, a pass-through entity may elect to
+8 pay the state tax at the entity level at the rate of five and ninety-nine hundredths percent (5.99%).
+9 (2) If a pass-through entity elects to pay an entity tax under this subsection, the entity shall
+10 not have to comply with the provisions of § 44-11-2.2 regarding withholding on non-resident
+11 owners. In that instance, the entity shall not have to comply with the provisions of § 44-11-2.2
+12 regarding withholding on non-resident owners.
+13 (c) Reporting.
+14 (1) The pass-through entity shall report the pro rata share of the state income taxes paid by
+15 the entity which sums will be allowed as a state tax credit for an owner on his or her personal
+16 income tax return.
+17 (2) The pass-through entity shall also report the pro rata share of the state income taxes
+18 paid by the entity as an income (addition) modification to be reported by an owner on his or her
+19 personal income tax returns
+20 (d) State tax credit shall be the amount of tax paid by the pass-through entity, at the entity
+21 level, which is passed through to the owners, on a pro rata basis. For tax years beginning on or after
+22 January 1, 2025, the state tax credit shall be ninety percent (90%) of the amount of tax paid by the
+23 pass-through entity, at the entity level, which is passed through to the owners, on a pro rata basis.
+24 (e) A similar type of tax imposed by another state on the owners’ income paid at the state
+25 entity level shall be deemed to be allowed as a credit for taxes paid to another jurisdiction in
+26 accordance with the provisions of § 44-30-18.
+27 (f) “Combined reporting” as set forth in § 44-11-4.1 shall not apply to reporting under this
+28 section.
+29 (g) For purposes of this section, the member credit shall be refundable, and shall be allowed
+30 in full against Rhode Island individual income tax liability for the taxable year in which the entity-
+31 level tax was paid. Any portion of the credit that exceeds the member's Rhode Island tax liability
+32 shall be refunded to the member.
+33 (h) This section shall sunset and no longer apply to taxable years beginning after December
+34 31 of the year in which the federal limitation on state and local tax deductions under § 164(b)(6) of
+LC005766 - Page 2 of 4
+
+1 the Internal Revenue Code is repealed, unless further amended by the general assembly.
+2 (i) The commissioner of revenue may promulgate rules and regulations to implement this
+3 section, including rules governing elections, allocations, reporting, and the calculation of the
+4 refundable credit.
+5 SECTION 2. This act shall take effect upon passage.
+========
+LC005766
+========
+LC005766 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- BUSINESS CORPORATION TAX
+***
+1 This act would provide that credits issued pursuant to § 44-11-2.3 relating to pass through
+2 entities would be refundable.
+3 This act would take effect upon passage.
+========
+LC005766
+========
+LC005766 - Page 4 of 4

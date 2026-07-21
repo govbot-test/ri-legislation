@@ -1,0 +1,314 @@
+Title: 
+Official Title: 
+Source: versions - 8007
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8007
+========
+LC005909
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TOWNS AND CITIES -- SUBDIVISION OF LAND
+Introduced By: Representatives Casey, J. Brien, O'Brien, Dawson, Caldwell, Read,
+Corvese, Biah, and Azzinaro
+Date Introduced: February 27, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 45-23-32 of the General Laws in Chapter 45-23 entitled "Subdivision
+2 of Land" is hereby amended to read as follows:
+3 45-23-32. Definitions.
+4 Where words or phrases used in this chapter are defined in the definitions section of either
+5 the Rhode Island Comprehensive Planning and Land Use Regulation Act, § 45-22.2-4, or the Rhode
+6 Island Zoning Enabling Act of 1991, § 45-24-31, they have the meanings stated in those acts.
+7 Additional words and phrases may be defined in local ordinances, regulations, and rules under this
+8 act in a manner that does not conflict or alter the terms or mandates in this act, the Rhode Island
+9 Comprehensive Planning and Land Use Regulation Act § 45-22.2-4, and the Rhode Island Zoning
+10 Enabling Act of 1991. The words and phrases defined in this section, however, shall be controlling
+11 in all local ordinances, regulations, and rules created under this chapter. In addition, the following
+12 words and phrases have the following meanings:
+13 (1) Administrative officer. The municipal official(s) designated by the local regulations
+14 to administer the land development and subdivision regulations to review and approve qualified
+15 applications and/or coordinate with local boards and commissions, municipal staff, and state
+16 agencies as set forth herein. The administrative officer may be a member, or the chair, of the
+17 planning board, an employee of the municipal planning or zoning departments, or an appointed
+18 official of the municipality. See § 45-23-55.
+19 (2) Board of appeal. The local review authority for appeals of actions of the administrative
+
+1 officer, which shall be the local zoning board of review constituted as the board of appeal. See §
+2 45-23-57.
+3 (3) Bond. See improvement guarantee.
+4 (4) Buildable lot. A lot where construction for the use(s) permitted on the site under the
+5 local zoning ordinance is considered practicable by the planning board, considering the physical
+6 constraints to development of the site as well as the requirements of the pertinent federal, state, and
+7 local regulations. See § 45-23-60(a)(4).
+8 (5) Certificate of completeness. A notice issued by the administrative officer informing
+9 an applicant that the application is complete and meets the requirements of the municipality’s
+10 regulations, and that the applicant may proceed with the review process.
+11 (6) Concept plan. A drawing with accompanying information showing the basic elements
+12 of a proposed land development plan or subdivision as used for pre-application meetings and early
+13 discussions, and classification of the project within the approval process.
+14 (7) Consistency with the comprehensive plan. A requirement of all local land use
+15 regulations which means that all these regulations and subsequent actions are in accordance with
+16 the public policies arrived at through detailed study and analysis and adopted by the municipality
+17 as the comprehensive community plan as specified in § 45-22.2-3.
+18 (8) Dedication, fee-in-lieu-of. Payments of cash that are authorized in the local regulations
+19 when requirements for mandatory dedication of land are not met because of physical conditions of
+20 the site or other reasons. The conditions under which the payments will be allowed and all formulas
+21 for calculating the amount shall be specified in advance in the local regulations. See § 45-23-47.
+22 (9) Development plan review. Design or site plan review of a development of a permitted
+23 use. A municipality may utilize development plan review under limited circumstances to encourage
+24 development to comply with design and/or performance standards of the community under specific
+25 and objective guidelines, for the following categories of developments:
+26 (i) A change in use at the property where no extensive construction of improvements is
+27 sought;
+28 (ii) An adaptive reuse project located in a commercial zone where no extensive exterior
+29 construction of improvements is sought;
+30 (iii) An adaptive reuse project located in a residential zone that results in less than nine (9)
+31 residential units;
+32 (iv) Development in a designated urban or growth center; or
+33 (v) Institutional development for educational or hospital facilities.
+34 (vi) [Deleted by P.L. 2024, ch. 292, § 1 and P.L. 2024, ch. 293, § 1.]
+LC005909 - Page 2 of 10
+
+1 (10) Development regulation. Zoning, subdivision, land development plan, development
+2 plan review, historic district, official map, flood plain regulation, soil erosion control, or any other
+3 governmental regulation of the use and development of land.
+4 (11) Division of land. A subdivision.
+5 (12) Environmental constraints. Natural features, resources, or land characteristics that
+6 are sensitive to change and may require conservation measures or the application of special
+7 development techniques to prevent degradation of the site, or may require limited development, or
+8 in certain instances, may preclude development. See also physical constraints to development.
+9 (13) Final plan. The final stage of land development and subdivision review or a formal
+10 development plan review application. See §§ 45-23-38, 45-23-39, and 45-23-50.
+11 (14) Final plat. The final drawing(s) of all or a portion of a subdivision to be recorded after
+12 approval by the planning board and any accompanying material as described in the community’s
+13 regulations and/or required by the planning board.
+14 (15) Floor area, gross. See R.I. State Building Code.
+15 (16) Governing body. The body of the local government, generally the city or town
+16 council, having the power to adopt ordinances, accept public dedications, release public
+17 improvement guarantees, and collect fees.
+18 (17) Improvement. Any natural or built item that becomes part of, is placed upon, or is
+19 affixed to, real estate.
+20 (18) Improvement guarantee. A security instrument accepted by a municipality to ensure
+21 that all improvements, facilities, or work required by the land development and subdivision
+22 regulations, or required by the municipality as a condition of approval, will be completed in
+23 compliance with the approved plans and specifications of a development. See § 45-23-46.
+24 (19) Land development project. A project in which one or more lots, tracts, or parcels of
+25 land or a portion thereof are developed or redeveloped as a coordinated site for one or more uses,
+26 units, or structures, including but not limited to, planned development or cluster development for
+27 residential, commercial, institutional, recreational, open space, or mixed uses. The local regulations
+28 shall include all requirements, procedures, and standards necessary for proper review and approval
+29 of land development projects to ensure consistency with this chapter and the Rhode Island zoning
+30 enabling act.
+31 (i) Minor land development project. A land development project involving any one of
+32 the following categories which has not otherwise been specifically designated by local ordinance
+33 as development plan review:
+34 (A) Seven thousand five hundred (7,500) gross square feet of floor area of new commercial,
+LC005909 - Page 3 of 10
+
+1 manufacturing, or industrial development, or less; or
+2 (B) An expansion of up to fifty percent (50%) of existing floor area or up to ten thousand
+3 (10,000) square feet for commercial, manufacturing, or industrial structures; or
+4 (C) Mixed-use development consisting of up to six (6) dwelling units and two thousand
+5 five hundred (2,500) gross square feet of commercial space or less; or
+6 (D) Multi-family residential or residential condominium development of nine (9) units or
+7 less; or
+8 (E) Change in use at the property where no extensive construction of improvements is
+9 sought; or
+10 (F) An adaptive reuse project of up to twenty-five thousand (25,000) square feet of gross
+11 floor area located in a commercial zone where no extensive exterior construction of improvements
+12 is sought; or
+13 (G) An adaptive reuse project located in a residential zone that results in less than nine (9)
+14 residential units.
+15 A community can increase but not decrease the thresholds for minor land development set
+16 forth above if specifically set forth in the local ordinance and/or regulations. The process by which
+17 minor land development projects are reviewed by the local planning board, commission, technical
+18 review committee, and/or administrative officer is set forth in § 45-23-38.
+19 (ii) Major land development project. A land development project that exceeds the
+20 thresholds for a minor land development project as set forth in this section and local ordinance or
+21 regulation. The process by which major land development projects are reviewed by the local
+22 planning board, commission, technical review committee, or administrative officer is set forth in §
+23 45-23-39.
+24 (20) Local regulations. The land development and subdivision review regulations adopted
+25 under the provisions of this act. For purposes of clarification, throughout this act, where reference
+26 is made to local regulations, it is to be understood as the land development and subdivision review
+27 regulations and all related ordinances and rules properly adopted pursuant to this chapter.
+28 (21) Maintenance guarantee. Any security instrument that may be required and accepted
+29 by a municipality to ensure that necessary improvements will function as required for a specific
+30 period of time. See improvement guarantee.
+31 (22) Master plan. An overall plan for a proposed project site outlining general, rather than
+32 detailed, development intentions. It describes the basic parameters of a major development
+33 proposal, rather than giving full engineering details. Required in major land development or major
+34 subdivision review only. It is the first formal review step of the major land development or major
+LC005909 - Page 4 of 10
+
+1 subdivision process and the step in the process in which the public hearing is held. See § 45-23-39.
+2 (23) Modification of requirements. See § 45-23-62.
+3 (24) Parcel. A lot, or contiguous group of lots in single ownership or under single control,
+4 and usually considered a unit for purposes of development. Also referred to as a tract.
+5 (25) Parking area or lot. All that portion of a development that is used by vehicles, the
+6 total area used for vehicular access, circulation, parking, loading, and unloading.
+7 (26) Permitting authority. The local agency of government, meaning any board,
+8 commission, or administrative officer specifically empowered by state enabling law and local
+9 regulation or ordinance to hear and decide on specific matters pertaining to local land use.
+10 (27) Phased development. Development, usually for large-scale projects, where
+11 construction of public and/or private improvements proceeds by sections subsequent to approval
+12 of a master plan for the entire site. See § 45-23-48.
+13 (28) Physical constraints to development. Characteristics of a site or area, either natural
+14 or man-made, which present significant difficulties to construction of the uses permitted on that
+15 site, or would require extraordinary construction methods. See also environmental constraints.
+16 (29) Planning board. The official planning agency of a municipality, whether designated
+17 as the plan commission, planning commission, plan board, or as otherwise known.
+18 (30) Plat. A drawing or drawings of a land development or subdivision plan showing the
+19 location, boundaries, and lot lines of individual properties, as well as other necessary information
+20 as specified in the local regulations.
+21 (31) Pre-application conference. An initial meeting between developers and municipal
+22 representatives that affords developers the opportunity to present their proposals informally and to
+23 receive comments and directions from the municipal officials and others. See § 45-23-35.
+24 (32) Preliminary plan. A required stage of land development and subdivision review that
+25 generally requires detailed engineered drawings. See § 45-23-39.
+26 (33) Public hearing. A hearing before the planning board that is duly noticed in accordance
+27 with § 45-23-42 and that allows public comment. A public hearing is not required for an application
+28 or stage of approval unless otherwise stated in this chapter.
+29 (34) Public improvement. Any street or other roadway, sidewalk, pedestrian way, tree,
+30 lawn, off-street parking area, drainage feature, or other facility for which the local government or
+31 other governmental entity either is presently responsible, or will ultimately assume the
+32 responsibility for maintenance and operation upon municipal acceptance.
+33 (35) Slope of land. The grade, pitch, rise, or incline of the topographic landform or surface
+34 of the ground.
+LC005909 - Page 5 of 10
+
+1 (36) Storm water detention. A provision for storage of storm water runoff and the
+2 controlled release of the runoff during and after a flood or storm.
+3 (37) Storm water retention. A provision for storage of storm water runoff.
+4 (38) Street. A public or private thoroughfare used, or intended to be used, for passage or
+5 travel by motor vehicles. Streets are further classified by the functions they perform. See street
+6 classification.
+7 (39) Street, access to. An adequate and permanent way of entering a lot. All lots of record
+8 shall have access to a public street for all vehicles normally associated with the uses permitted for
+9 that lot.
+10 (40) Street, alley. A public or private thoroughfare primarily designed to serve as
+11 secondary access to the side or rear of those properties whose principal frontage is on some other
+12 street.
+13 (41) Street, cul-de-sac. A local street with only one outlet and having an appropriate
+14 vehicular turnaround, either temporary or permanent, at the closed end.
+15 (42) Street, limited access highway. A freeway or expressway providing for through
+16 traffic. Owners or occupants of abutting property on lands and other persons have no legal right to
+17 access, except at the points and in the manner as may be determined by the public authority having
+18 jurisdiction over the highway.
+19 (43) Street, private. A thoroughfare established as a separate tract for the benefit of
+20 multiple, adjacent properties and meeting specific, municipal improvement standards. This
+21 definition does not apply to driveways.
+22 (44) Street, public. All public property reserved or dedicated for street traffic.
+23 (45) Street, stub. A portion of a street reserved to provide access to future development,
+24 which may provide for utility connections.
+25 (46) Street classification. A method of roadway organization that identifies a street
+26 hierarchy according to function within a road system, that is, types of vehicles served and
+27 anticipated volumes, for the purposes of promoting safety, efficient land use, and the design
+28 character of neighborhoods and districts. Local classifications use the following as major
+29 categories:
+30 (i) Arterial. A major street that serves as an avenue for the circulation of traffic into, out
+31 of, or around the municipality and carries high volumes of traffic.
+32 (ii) Collector. A street whose principal function is to carry traffic between local streets and
+33 arterial streets but that may also provide direct access to abutting properties.
+34 (iii) Local. Streets whose primary function is to provide access to abutting properties.
+LC005909 - Page 6 of 10
+
+1
+2 (47) Subdivider. Any person who: (i) Having an interest in land, causes it, directly or
+3 indirectly, to be divided into a subdivision; or who (ii) Directly or indirectly sells, leases, or
+4 develops, or offers to sell, lease, or develop, or advertises to sell, lease, or develop, any interest,
+5 lot, parcel, site, unit, or plat in a subdivision; or who (iii) Engages directly or through an agent in
+6 the business of selling, leasing, developing, or offering for sale, lease, or development a subdivision
+7 or any interest, lot, parcel, site, unit, or plat in a subdivision.
+8 (48) Subdivision. The division of a lot, tract, or parcel of land into two or more lots, tracts,
+9 or parcels or any adjustment to existing lot lines is considered a subdivision.
+10 (i) Administrative subdivision. Subdivision of existing lots that yields no additional lots
+11 for development, and involves no creation or extension of streets. This subdivision only involves
+12 division, mergers, mergers and division, or adjustments of boundaries of existing lots. The process
+13 by which an administrative officer or municipal planning board or commission reviews any
+14 subdivision qualifying for this review is set forth in § 45-23-37.
+15 (ii) Minor subdivision. A subdivision creating nine (9) or fewer buildable lots and a
+16 subdivision creating ten (10) or more buildable lots on an existing improved public street. The
+17 process by which a municipal planning board, commission, technical review committee, and/or
+18 administrative officer reviews a minor subdivision is set forth in § 45-23-38. Minor subdivisions
+19 shall include oversized lot subdivisions. Minor subdivisions shall also include single family infill
+20 subdivisions. Oversized lot subdivision — Subdivision of an existing lot, allowed by right provided
+21 that the:
+22 (A) Which results in the creation of a vacant lot or lots for residential use; and
+23 (B) Which resulting vacant residential lots are equal to or greater in lot area than the lot
+24 area of at least fifty percent (50%) of the developed residential lots within two hundred feet (200′)
+25 of the lot proposed for subdivision, as confirmed by a professional land surveyor based on a
+26 compilation plan, as such term is defined by the rules and regulations for professional land
+27 surveying; and
+28 (C) Which resulting residential lots have access to available sewer and water, or have
+29 demonstrated the ability to drill a private well meeting state standards if no public water is available
+30 and/or the suitability and setbacks required for an on-site wastewater treatment system, where no
+31 public sewer is available; and
+32 (D) The resulting lots are not less than three thousand square feet (3,000 ft2) in lot size for
+33 each.
+34 A lot, qualifying for this type of subdivision shall be reviewed under the requirements and
+LC005909 - Page 7 of 10
+
+1 procedures set forth in § 45-23-38, but shall not require zoning relief solely based on the resulting
+2 reduced lot area of the newly created lots. The resulting subdivided lots shall have the benefit of
+3 reduced requirements as set forth in § 45-24-38, and/or are eligible for the processes set forth in §
+4 45-24-46, as applicable.
+5 Single family infill subdivisions. Subdivision of an existing lot in areas serviced by public
+6 water and sewer and which have additional capacity to service the proposed resulting lots are
+7 allowed provided that such subdivision:
+8 (I) Results in a maximum of three (3) new lots, which are limited to single family detached
+9 residential use; and
+10 (II) Which resulting vacant residential lots are each equal to or greater than at least seventy-
+11 five percent (75%) of the size of the average lot size of all of the developed residential lots within
+12 two hundred feet (200') of the lot proposed for subdivision, excluding lots that are used for multi-
+13 family residential purposes, as confirmed by a professional land surveyor based on a compilation
+14 plan, as such term is defined by the rules and regulation for professional land surveying; and
+15 (III) The lots will be located on an existing improved public street.
+16 A lot, qualifying for this type of subdivision shall be reviewed under the requirements and
+17 procedures set forth in § 45-23-38, but shall not require zoning relief solely based on the resulting
+18 reduced lot area of the newly created lots. The resulting subdivided lots shall have the benefit of
+19 reduced requirements as set forth in § 45-24-38, and/or are eligible for the processes set forth in §
+20 45-24-46, as applicable.
+21 (iii) Major subdivision. A subdivision creating ten (10) or more buildable lots where a
+22 street extension or street creation is required. The process by which a municipal planning board or
+23 commission reviews any subdivision qualifying for this review under § 45-23-39.
+24 (49) Technical review committee. A committee or committees appointed by the
+25 municipality for the purpose of reviewing, commenting, approving, and/or making
+26 recommendations to the planning board or administrative officer, as set forth in this chapter.
+27 (50) Temporary improvement. Improvements built and maintained by a developer during
+28 construction of a development project and prior to release of the improvement guarantee, but not
+29 intended to be permanent.
+30 (51) Vested rights. The right to initiate or continue the development of an approved project
+31 for a specified period of time, under the regulations that were in effect at the time of approval, even
+32 if, after the approval, the regulations change prior to the completion of the project.
+33 (52) Waiver of requirements. See § 45-23-62.
+LC005909 - Page 8 of 10
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC005909
+========
+LC005909 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- SUBDIVISION OF LAND
+***
+1 This act would provide that minor subdivisions include single family infill subdivisions
+2 and establish procedures for single family infill subdivisions within the subdivision of land chapter
+3 of the general laws.
+4 This act would take effect upon passage.
+========
+LC005909
+========
+LC005909 - Page 10 of 10

@@ -1,0 +1,137 @@
+Title: 
+Official Title: 
+Source: versions - 2681
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2681
+========
+LC005596
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TOWNS AND CITIES -- HOUSING -- STATE-FUNDED RENTAL SUBSIDY
+PROGRAM
+Introduced By: Senators Murray, and Bissaillon
+Date Introduced: February 27, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative Findings and Purpose.
+2 (a) The General Assembly finds as follows:
+3 (1) The lack of genuinely affordable rental housing for extremely low, very low, and low-
+4 income households remains a primary driver of homelessness in Rhode Island;
+5 (2) Federal Continuum of Care (CoC) funded housing programs often serve individuals
+6 and families with the highest barriers to housing stability, yet available rental assistance is
+7 insufficient to ensure long-term affordability and stability;
+8 (3) Many households exiting homelessness require a rental subsidy that is tied to their
+9 household income, rather than typical area median income (AMI) thresholds associated with
+10 development financing; and
+11 (4) The creation of a state-funded rental subsidy program that provides project-based rental
+12 assistance aligned to tenants' income will help reduce reliance on emergency shelters, improve
+13 housing stability, and maximize the effectiveness of federal homeless assistance resources.
+14 (b) The purpose of chapter 71 of title 45 is to establish a state-funded rental subsidy
+15 program, including a dedicated allocation for project-based rental assistance to support eligible
+16 households experiencing homelessness or at risk of homelessness.
+17 SECTION 2. Title 45 of the General Laws entitled "TOWNS AND CITIES" is hereby
+18 amended by adding thereto the following chapter:
+
+1 CHAPTER 71
+2 STATE-FUNDED RENTAL SUBSIDY PROGRAM
+3 45-71-1. Definitions.
+4 As used in this chapter:
+5 (1) "Administering agency" means the State of Rhode Island executive office of housing.
+6 (2) "AMI" means area median income as determined by the U.S. Department of Housing
+7 and Urban Development (HUD), adjusted for family size.
+8 (3) "Continuum of care (CoC)" means the federally designated continuum of care for the
+9 State of Rhode Island.
+10 (4) "Eligible household" means an individual or household experiencing homelessness or
+11 is at risk of homelessness as defined by HUD who:
+12 (i) Is extremely low-income, very low-income, or low-income according to current HUD
+13 income limits; or
+14 (ii) Has a long-term disability and needs community-based supportive services.
+15 (iii) Priority for assistance under this program shall be given to households referred through
+16 the Rhode Island continuum of care for permanent housing projects and to households identified
+17 pursuant to the state's Olmstead Plan.
+18 (5) "Income" means gross annual income including, but not limited to; wages, salaries, tips,
+19 bonuses, public assistance, retirement, disability benefits, unemployment compensation, and
+20 interest income.
+21 (6) "Project-based rental assistance" means a housing subsidy attached to a specific unit,
+22 where assistance continues for the household occupying that unit.
+23 (7) "National standards for physical inspection of real estate (NSPIRE)" means standards
+24 established by the U.S. Department of Housing and Urban Development, which set uniform health,
+25 safety, and habitability requirements for federally assisted housing inspections administered by
+26 HUD.
+27 45-71-2. State rental subsidy program established and capitalized.
+28 (a) There is hereby established a state-funded rental subsidy program administered by the
+29 executive office of housing, to provide project-based rental assistance to permanent housing
+30 projects with units reserved for eligible households as defined in this chapter.
+31 (b) The program is hereby capitalized with twenty-five million dollars ($25,000,000)
+32 appropriated from the general fund for fiscal year beginning July 1, 2026.
+33 (1) Funds appropriated pursuant to this section shall be deposited into a restricted account
+34 administered by the executive office of housing and shall remain available until expended for the
+LC005596 - Page 2 of 5
+
+1 purposes of this chapter.
+2 (2) Capitalized funds may be committed on a multi-year basis to provide project-based
+3 rental assistance to owners or developers serving eligible households.
+4 (c) The administering agency shall adopt rules consistent with this chapter and existing
+5 program guidelines, including rent determination, income certification and housing quality
+6 standards.
+7 (d) The administering agency as defined in § 45-71-1 shall make every reasonable attempt
+8 to implement the program so that households who face the greatest barriers to accessing housing
+9 are not excluded from participating due to screening criteria such as tenant selection plans.
+10 45-71-3. Eligible use of funds.
+11 (a) Funds capitalized under this chapter shall be used to provide project-based rental
+12 assistance payments to owners or developers of permanent housing projects that agree to reserve
+13 assisted units for eligible households.
+14 (b) The administering agency as defined in § 45-71-1 may enter into agreements with
+15 property owners and/or housing developers to provide project-based rental assistance consistent
+16 with this chapter.
+17 (c) Assistance provided pursuant to the provisions of this chapter shall:
+18 (1) Ensure that the tenant portion of rent does not exceed thirty percent (30%) of gross
+19 household income, less applicable utility allowances;
+20 (2) Be tied to the income of the assisted household and shall not be conditioned on area
+21 median income limits applicable to the housing development; and
+22 (3) Be layered with any other federal funding or housing resources when applicable.
+23 (d) If deemed necessary by the administering agency, up to ten percent (10%) of available
+24 funds under this chapter may be used to provide tenant-based rental assistance for populations that
+25 face the greatest barriers to accessing housing and may not be served by project-based rental
+26 assistance.
+27 45-71-4. Rent and payment standards.
+28 (a) Rent for units assisted under this chapter shall be established at the greater of:
+29 (1) The rent necessary to ensure tenant payment does not exceed thirty percent (30%) of
+30 gross household income, less utility allowances; or
+31 (2) Any applicable minimum rent requirement established under program guidelines.
+32 (b) Units assisted shall meet NSPIRE standards.
+33 45-71-5. Nondiscrimination and fair housing.
+34 The administering agency as defined in § 45-71-1 shall ensure compliance with all federal
+LC005596 - Page 3 of 5
+
+1 and state nondiscrimination laws, including fair housing protections related to source of income.
+2 SECTION 3. This act shall take effect upon passage.
+========
+LC005596
+========
+LC005596 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- HOUSING -- STATE-FUNDED RENTAL SUBSIDY
+PROGRAM
+***
+1 This act would establish the state-funded rental subsidy program. The act would authorize
+2 an initial capitalization of twenty-five million dollars ($25,000,000), to create the program to help
+3 Rhode Islanders with the lowest incomes exit homelessness and stay stably housed. This act would
+4 also authorize the appropriation from the state general fund beginning July 1, 2026.
+5 This act would take effect upon passage.
+========
+LC005596
+========
+LC005596 - Page 5 of 5

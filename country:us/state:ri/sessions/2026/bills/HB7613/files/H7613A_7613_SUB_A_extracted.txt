@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - 7613  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7613 SUBSTITUTE A
+========
+LC004981/SUB A/3
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- TAX PREPARERS ACT OF 2013
+Introduced By: Representative Alex D. Marszalkowski
+Date Introduced: February 11, 2026
+Referred To: House Corporations
+(Dept. of Revenue)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. The title of Chapter 44-68 of the General Laws entitled "Tax Preparers Act
+2 of 2013" is hereby amended to read as follows:
+3 CHAPTER 44-68
+4 Tax Preparers Act of 2013
+5 CHAPTER 44-68
+6 TAX PREPARERS ACT
+7 SECTION 2. Sections 44-68-2, 44-68-3 and 44-68-4 of the General Laws in Chapter 44-
+8 68 entitled "Tax Preparers Act of 2013" are hereby amended to read as follows:
+9 44-68-2. Definitions.
+10 As used in this chapter, the following words shall, unless the context clearly requires
+11 otherwise, have the following meanings:
+12 (a) “Ghost preparer” means a tax return preparer who does not self-identify on returns they
+13 prepare or does not comply with the PTIN requirements in 26 U.S.C. § 6109 and Treasury
+14 Regulation 26 C.F.R. § 1.6109-2, and is compensated for or otherwise benefits from the preparation
+15 of returns.
+16 (a)(b) “Tax return preparer” means an individual who prepares a substantial portion of any
+17 return for compensation. Tax return preparers include ghost preparers and individuals required to
+18 register with the Internal Revenue Service as a tax return preparer and who have a Preparer Tax
+19 Identification Number (PTIN). For the purpose of this chapter the following individuals shall not
+
+1 be considered tax return preparers:
+2 (1) Volunteer tax return preparers; or
+3 (2) Employees of a tax return preparer and employees of a commercial tax return
+4 preparation business who provide only clerical, administration or other similar services.
+5 (b)(c) “Preparer Tax Identification Number” or “PTIN” means the number issued by the
+6 Internal Revenue Service (IRS) to paid preparers to use that must be included on all the returns
+7 they prepare.
+8 (c)(d) “Return” shall mean any tax report, return, claim for refund or attachment to any
+9 report, return and/or claim for return refund filed with the tax administrator pursuant to the tax laws
+10 of this state.
+11 44-68-3. Duties and responsibilities.
+12 (a) A tax return preparer who prepares any return that is submitted to the tax administrator
+13 must comply with all state laws and all applicable regulations promulgated by the tax administrator.
+14 (b) A tax return preparer must sign and include his/her preparer tax identification number
+15 on all returns prepared and filed with the division of taxation.
+16 (c) A tax return preparer shall not be a ghost preparer or engage in any activity with the
+17 intent to facilitate the use of a ghost preparer.
+18 44-68-4. Civil penalties.
+19 (a) Failure to be diligent in determining eligibility for or amount of earned-income credit.
+20 Upon a determination by the tax administrator that a tax return preparer prepared a return(s) and
+21 failed to comply with due diligence requirements imposed by regulations issued by the tax
+22 administrator with respect to determining eligibility for, or the amount of, the credit allowable by
+23 § 44-30-2.6(c)(2)(N), the tax return preparer shall pay a penalty of five hundred dollars ($500) for
+24 each such return and/or claim.
+25 (b) Failure to be diligent in determining eligibility for property tax relief credit. Upon a
+26 determination by the tax administrator that a tax return preparer prepared a return(s) and failed to
+27 comply with due diligence requirements imposed by regulations issued by the tax administrator
+28 with respect to determining eligibility for, or the amount of, the property tax relief credit allowable
+29 by § 44-33-1 et seq., the tax return preparer shall pay a penalty of five hundred dollars ($500) for
+30 each such return.
+31 (c) Tax return preparer civil penalties.
+32 (1) Upon a determination by the tax administrator that a tax return preparer willfully
+33 prepared, assisted in preparing, or caused the preparation of a return(s) filed with the division of
+34 taxation with intent to wrongfully obtain a property tax relief credit or with the intent to evade or
+LC004981/SUB A/3 - Page 2 of 4
+
+1 reduce a tax obligation, the tax return preparer shall be liable for a penalty of one thousand dollars
+2 ($1,000), or five hundred ($500) for each return so filed during any calendar year, whichever is
+3 greater.
+4 (2) Upon a determination by the tax administrator that a tax return preparer willfully misled
+5 or committed fraud against a taxpayer, or purposefully circumvented tax laws administered by the
+6 tax administrator, or violated any provision of § 44-68-3, the tax return preparer shall be liable for
+7 a penalty of not more than one thousand dollars ($1,000) for each return so filed during any calendar
+8 year.
+9 (d) The tax administrator may suspend or revoke the privilege of a tax return preparer to
+10 prepare and/or file returns with the division of taxation upon a determination that the tax return
+11 preparer has failed to comply with or violated any provision of this section, any regulations issued
+12 by the tax administrator, or with any provision of any other laws relative to the preparation of tax
+13 returns. Any tax return preparer receiving a notice of intent to suspend or revoke the privilege to
+14 file tax returns with the division of taxation may request a hearing on the notice of intent to suspend
+15 or revoke; provided that said request for a hearing must be made within thirty (30) days of such
+16 notice to suspend or revoke. If, after hearing, the tax return preparer is aggrieved by a decision of
+17 the tax administrator (or his or her designated hearing officer), the tax return preparer may, within
+18 thirty (30) days after notice of the decision is sent to the tax return preparer by certified or registered
+19 mail, directed to their last known address, petition the sixth division of the district court pursuant
+20 to chapter 8 of title 8, setting forth the reasons why the decision is alleged to be erroneous and
+21 praying for relief therefrom. The tax administrator may, on a periodic basis, prepare and publish a
+22 list of tax return preparers whose privileges as a tax return preparer have been suspended or
+23 revoked.
+24 (e) Upon a determination by the tax administrator that a tax return preparer has committed
+25 a violation of this section subsequent to a suspension or revocation of that tax return preparer’s
+26 privilege to prepare and/or file returns with the division of taxation, the tax return preparer shall be
+27 liable for a penalty of not more than five thousand dollars ($5,000) if suspended, or ten thousand
+28 dollars ($10,000) if revoked, per violation.
+29 SECTION 3. This act shall take effect upon passage.
+========
+LC004981/SUB A/3
+========
+LC004981/SUB A/3 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- TAX PREPARERS ACT OF 2013
+***
+1 This act would provide for penalties for tax preparers that purposefully mislead their clients
+2 or act as ghost preparers of tax returns and would require the tax administrator to publish a list of
+3 tax preparers who have had their privileges to prepare returns revoked or suspended.
+4 This act would take effect upon passage.
+========
+LC004981/SUB A/3
+========
+LC004981/SUB A/3 - Page 4 of 4

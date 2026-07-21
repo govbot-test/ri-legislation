@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - 7918
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7918
+========
+LC005756
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- PUBLIC DRINKING WATER SUPPLY
+Introduced By: Representatives Casey, Phillips, and J. Brien
+Date Introduced: February 27, 2026
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 46-13-22 of the General Laws in Chapter 46-13 entitled "Public
+2 Drinking Water Supply" is hereby amended to read as follows:
+3 46-13-22. Cross-connection control.
+4 (a) The director is hereby authorized to adopt consistent statewide regulations governing
+5 the content of cross-connection control plans and to require that all community public water
+6 systems and all non-transient, non-community public water systems prepare a cross-connection
+7 control plan. The purpose of these plans shall be to protect the public water system distribution and
+8 transmission infrastructure from contamination through cross-connections. All community public
+9 water systems and all non-transient, non-community public water systems shall certify to the
+10 director that said plan complies with the regulations in accordance with the following schedule:
+11 (1) Community and non-transient, non-community public water systems serving more than
+12 five hundred (500) people shall submit certification of compliance no later than June 30, 2011, and
+13 implement said plan immediately thereafter.
+14 (2) Community and non-transient, non-community public water systems serving five
+15 hundred (500) people or fewer shall submit certification of compliance no later than June 30, 2012,
+16 and implement said plan immediately thereafter.
+17 (b) The regulations governing cross-connection control plans adopted by the director shall
+18 at a minimum include: the installation of cross-connection control valves at all newly constructed
+19 service connections prior to the provision of water service; the installation of cross connection
+
+1 control valves at all commercial and industrial service connections. The installation of cross-
+2 connection control devices shall not be made a mandatory condition of a transfer of a residential
+3 property that exists as of the effective date of this act [June 27, 2007].
+4 (c) Public water supply systems shall be authorized to terminate water service to any
+5 customer who fails to install the appropriate cross-connection control device upon due notice.
+6 (d) The cross-connection control devices required to be installed shall be models approved
+7 by the Foundation for Cross-Connection Control and Hydraulic Research of the University of
+8 Southern California (FCCCHR, USC), the American Water Works Association (AWWA), and/or
+9 the American Society of Sanitary Engineers (ASSE).
+10 (e) The director may also adopt and enforce standards including the establishment of fees
+11 for certification of persons engaged in cross-connection surveying or backflow prevention,
+12 assembly training, repair and maintenance testing; provided, however, that no regulation or rule
+13 shall be promulgated or enforced which requires the inspection or certification of any backflow
+14 prevention device or system more frequently than once every ten (10) years except in response to
+15 an emergency or public health situation.
+16 (f) Any regulations and/or standards promulgated, amended and/or administered pursuant
+17 to the provisions of this section shall conform to the requirements of chapter 35 of title 42 (“The
+18 Administrative Procedures Act.”)
+19 SECTION 2. This act shall take effect upon passage.
+========
+LC005756
+========
+LC005756 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- PUBLIC DRINKING WATER SUPPLY
+***
+1 This act would require that a backflow test be performed every ten (10) years, rather than
+2 the current yearly inspection.
+3 This act would take effect upon passage.
+========
+LC005756
+========
+LC005756 - Page 3 of 3

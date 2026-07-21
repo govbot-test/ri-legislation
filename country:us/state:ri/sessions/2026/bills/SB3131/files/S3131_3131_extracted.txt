@@ -1,0 +1,274 @@
+Title: 
+Official Title: 
+Source: versions - 3131
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3131
+========
+LC006176
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- CIGARETTE, OTHER TOBACCO PRODUCTS, AND
+ELECTRONIC NICOTINE-DELIVERY SYSTEM PRODUCTS
+Introduced By: Senator Louis P. DiPalma
+Date Introduced: March 20, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-20-1 of the General Laws in Chapter 44-20 entitled "Cigarette,
+2 Other Tobacco Products, and Electronic Nicotine-Delivery System Products" is hereby amended
+3 to read as follows:
+4 44-20-1. Definitions.
+5 Whenever used in this chapter, unless the context requires otherwise:
+6 (1) “Administrator” means the tax administrator.
+7 (2) "Alternative nicotine product" means any noncombustible product that does not contain
+8 tobacco leaf but does contain nicotine from any source and is intended for human consumption,
+9 whether chewed, absorbed, dissolved, ingested, inhaled, or consumed by any other means.
+10 "Alternative nicotine products" does not include any cigarettes, electronic nicotine-delivery system
+11 products, snuff, or any product regulated as a drug or device by the United States Food and Drug
+12 Administration under Chapter V of the Food, Drug and Cosmetic Act, 21 U.S.C. ch. 9 § 301 et seq.
+13 (2)(3) “Cigarettes” means and includes any cigarettes suitable for smoking in cigarette
+14 form, “heat not burn products,” and each sheet of cigarette rolling paper, including but not limited
+15 to, paper made into a hollow cylinder or cone, made with paper or any other material, with or
+16 without a filter suitable for use in making cigarettes.
+17 (3)(4) “Dealer” means any person whether located within or outside of this state, who sells
+18 or distributes cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+
+1 products to a consumer in this state.
+2 (4)(5) “Distributor” means any person:
+3 (i) Whether located within or outside of this state, other than a dealer, who sells or
+4 distributes cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+5 products within or into this state. Such term shall not include any cigarette or other tobacco product
+6 manufacturer, export warehouse proprietor, or importer with a valid permit under 26 U.S.C. § 5712,
+7 if such person sells or distributes cigarettes and/or other tobacco products and/or electronic
+8 nicotine-delivery system products in this state only to licensed distributors, or to an export
+9 warehouse proprietor or another manufacturer with a valid permit under 26 U.S.C. § 5712;
+10 (ii) Selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery
+11 system products directly to purchasers in this state by means of at least twenty-five (25) vending
+12 machines;
+13 (iii) Engaged in this state in the business of manufacturing cigarettes and/or other tobacco
+14 products and/or electronic nicotine-delivery system products or any person engaged in the business
+15 of selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+16 products to dealers, or to other persons, for the purpose of resale only; provided, that seventy-five
+17 percent (75%) of all cigarettes and/or other tobacco products and/or electronic nicotine-delivery
+18 system products sold by that person in this state are sold to dealers or other persons for resale and
+19 selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery system products
+20 directly to at least forty (40) dealers or other persons for resale; or
+21 (iv) Maintaining one or more regular places of business in this state for that purpose;
+22 provided, that seventy-five percent (75%) of the sold cigarettes and/or other tobacco products
+23 and/or electronic nicotine-delivery system products are purchased directly from the manufacturer
+24 and selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+25 products directly to at least forty (40) dealers or other persons for resale.
+26 (5)(6) “Electronic nicotine-delivery system” means an electronic device that may be used
+27 to simulate smoking in the delivery of nicotine or other substance to a person inhaling from the
+28 device, and includes, but is not limited to, an electronic cigarette, electronic cigar, electronic
+29 cigarillo, electronic little cigars, electronic pipe, electronic hookah, e-liquids, e-liquid products, or
+30 any related device and any cartridge or other component of such device.
+31 (6)(7) “Electronic nicotine-delivery system products” means any combination of electronic
+32 nicotine-delivery system and/or e-liquid and/or any derivative thereof, and/or any e-liquid
+33 container. Electronic nicotine-delivery system products shall include hemp-derived consumable
+34 CBD products as defined in § 2-26-3.
+LC006176 - Page 2 of 8
+
+1 (7)(8) “E-liquid” and “e-liquid products” mean any liquid or substance placed in or sold
+2 for use in an electronic nicotine-delivery system that generally utilizes a heating element that
+3 aerosolizes, vaporizes, or combusts a liquid or other substance containing nicotine or nicotine
+4 derivative:
+5 (i) Whether the liquid or substance contains nicotine or a nicotine derivative; or
+6 (ii) Whether sold separately or sold in combination with a personal vaporizer, electronic
+7 nicotine-delivery system, or an electronic inhaler.
+8 (8)(9) “Importer” means any person who imports into the United States, either directly or
+9 indirectly, a finished cigarette or other tobacco product and/or electronic nicotine-delivery system
+10 product for sale or distribution.
+11 (9)(10) “Licensed,” when used with reference to a manufacturer, importer, distributor, or
+12 dealer, means only those persons who hold a valid and current license issued under § 44-20-2 for
+13 the type of business being engaged in. When the term “licensed” is used before a list of entities,
+14 such as “licensed manufacturer, importer, wholesale dealer, or retailer dealer,” such term shall be
+15 deemed to apply to each entity in such list.
+16 (10)(11) “Manufacturer” means any person who manufactures, fabricates, assembles,
+17 processes, or labels a finished cigarette and/or other tobacco products and/or electronic nicotine-
+18 delivery system products.
+19 (11)(12) “Other tobacco products” (OTP) means any products that are made from or
+20 derived from tobacco or that contain nicotine, whether natural or artificial, including, but not
+21 limited to, cigars (excluding Little Cigars, as defined in § 44-20.2-1, which are subject to cigarette
+22 tax), cheroots, stogies, smoking tobacco (including granulated, plug cut, crimp cut, ready rubbed
+23 and any other kinds and forms of tobacco suitable for smoking in a pipe or otherwise), chewing
+24 tobacco (including Cavendish, twist, plug, scrap and any other kinds and forms of tobacco suitable
+25 for chewing), any and all forms of hookah, shisha and “mu’assel” tobacco, snuff, alternative
+26 nicotine products and shall include any other articles or products made of, derived from, or
+27 containing tobacco or nicotine, in whole or in part, or any tobacco or nicotine substitute, except
+28 cigarettes and electronic nicotine-delivery system products. Other tobacco products shall not mean
+29 any product that has been approved by the United States Food and Drug Administration for the sale
+30 of or use as a tobacco or nicotine cessation product or for other medical purposes and is marketed
+31 and sold or prescribed exclusively for that approved purpose.
+32 (12)(13) “Person” means any individual, including an employee or agent, firm, fiduciary,
+33 partnership, corporation, trust, or association, however formed.
+34 (13)(14) “Pipe” means an apparatus made of any material used to burn or vaporize products
+LC006176 - Page 3 of 8
+
+1 so that the smoke or vapors can be inhaled or ingested by the user.
+2 (14)(15) “Place of business” means any location where cigarettes and/or other tobacco
+3 products and/or electronic nicotine-delivery system products are sold, stored, or kept, including,
+4 but not limited to; any storage room, attic, basement, garage or other facility immediately adjacent
+5 to the location. It also includes any receptacle, hide, vessel, vehicle, airplane, train, or vending
+6 machine.
+7 (15)(16) “Sale” or “sell” means gifts, exchanges, and barter of cigarettes and/or other
+8 tobacco products and/or electronic nicotine-delivery system products. The act of holding, storing,
+9 or keeping cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+10 products at a place of business for any purpose shall be presumed to be holding the cigarettes and/or
+11 other tobacco products and/or electronic nicotine-delivery system products for sale. Furthermore,
+12 any sale of cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+13 products by the servants, employees, or agents of the licensed dealer during business hours at the
+14 place of business shall be presumed to be a sale by the licensee.
+15 (16)(17) “Stamp” means the impression, device, stamp, label, or print manufactured,
+16 printed, or made as prescribed by the administrator to be affixed to packages of cigarettes, as
+17 evidence of the payment of the tax provided by this chapter or to indicate that the cigarettes are
+18 intended for a sale or distribution in this state that is exempt from state tax under the provisions of
+19 state law; and also includes impressions made by metering machines authorized to be used under
+20 the provisions of this chapter.
+21 SECTION 2. Section 44-20-13.2 of the General Laws in Chapter 44-20 entitled "Cigarette,
+22 Other Tobacco Products, and Electronic Nicotine-Delivery System Products" is hereby amended
+23 to read as follows:
+24 44-20-13.2. Tax imposed on other tobacco products, smokeless tobacco, cigars, pipe
+25 tobacco products, and electronic nicotine-delivery products Tax imposed on other tobacco
+26 products and electronic nicotine-delivery products.
+27 (a) A tax is imposed on all other tobacco products, smokeless tobacco, cigars, pipe tobacco
+28 products, and electronic nicotine-delivery system products sold, or held for sale in the state by any
+29 person, the payment of the tax to be accomplished according to a mechanism established by the
+30 administrator, division of taxation, department of revenue. The tax imposed by this section shall be
+31 as follows:
+32 (1) For all other tobacco products, except for alternative nicotine products and snuff
+33 smokeless tobacco, cigars, and pipe tobacco products, at the rate of eighty percent (80%) of the
+34 wholesale cost of other tobacco products, cigars, pipe tobacco products, and smokeless tobacco
+LC006176 - Page 4 of 8
+
+1 other than snuff.
+2 (2) Notwithstanding the eighty percent (80%) rate in subsection (a)(1) of this section, in
+3 the case of cigars, the tax shall not exceed fifty cents ($.50) for each cigar.
+4 (3) At the rate of one dollar ($1.00) per ounce of snuff, and a proportionate tax at the like
+5 rate on all fractional parts of an ounce thereof. Such tax shall be computed based on the net weight
+6 as listed by the manufacturer; provided, however, that any product listed by the manufacturer as
+7 having a net weight of less than 1.2 ounces shall be taxed as if the product has a net weight of 1.2
+8 ounces.
+9 (4) Effective January 1, 2025:
+10 (i) For electronic nicotine-delivery system products that are prefilled, sealed by the
+11 manufacturer, and not refillable, at the rate of fifty cents per milliliter ($0.50/mL) of the e-liquid
+12 and/or e-liquid products contained therein; and
+13 (ii) For any other electronic nicotine-delivery system products, at the rate of ten percent
+14 (10%) of the wholesale cost of such products, whether or not sold at wholesale, and if not sold,
+15 then at the same rate upon the use by the wholesaler.
+16 (iii) Existing Inventory Floor Tax. For all electronic nicotine-delivery system products
+17 held by licensed electronic nicotine-delivery system products retailers as of January 1, 2025: Each
+18 person engaging in the business of selling electronic nicotine-delivery system products at retail in
+19 this state shall pay a tax measured by the volume of e-liquid and/or e-liquid products contained in
+20 electronic nicotine-delivery system products that are prefilled, sealed by the manufacturer, and not
+21 refillable and the wholesale cost of all other electronic nicotine-delivery system products held by
+22 the person in this state at 12:01 a.m. on January 1, 2025, and is computed for electronic nicotine-
+23 delivery system products that are prefilled, sealed by the manufacturer, and not refillable, at the
+24 rate of fifty cents per milliliter ($0.50/mL) of the e-liquid and/or e-liquid products contained therein
+25 and for any other electronic nicotine-delivery system products at the rate of ten percent (10%) of
+26 the wholesale cost of such products on January 1, 2025. Each person subject to the payment of the
+27 tax imposed by this section shall, on or before January 16, 2025, file a return, under oath or certified
+28 under the penalties of perjury, with the administrator on forms furnished by the administrator,
+29 showing the volume of e-liquid and/or e-liquid products contained in electronic nicotine-delivery
+30 system products which are prefilled, sealed by the manufacturer, and not refillable and the
+31 wholesale cost of all other electronic nicotine-delivery system products in that person’s possession
+32 in this state at 12:01 a.m. on January 1, 2025, as described in this section, and the amount of tax
+33 due, and shall at the time of filing the return pay the tax to the administrator. Failure to obtain forms
+34 shall not be an excuse for the failure to make a return containing the information required by the
+LC006176 - Page 5 of 8
+
+1 administrator.
+2 (iv) For all electronic nicotine-delivery system products sold by licensed electronic
+3 nicotine-delivery system products distributors, manufacturers, and/or importers in Rhode Island as
+4 of January 1, 2025: Any person engaging in the business of distributing at wholesale electronic
+5 nicotine-delivery system products in this state shall pay a tax measured by the volume of e-liquid
+6 and/or e-liquid products contained in electronic nicotine-delivery system products that are prefilled,
+7 sealed by the manufacturer, and not refillable computed at the rate of fifty cents per milliliter
+8 ($0.50/mL) of the e-liquid and/or e-liquid products contained therein and for all other electronic
+9 nicotine-delivery system products at the rate of ten percent (10%) of the wholesale cost of such
+10 products.
+11 (5) For alternative nicotine products, at the rate of two dollars ($2.00) per container
+12 containing up to twenty (20) units, and a proportionate tax at the like rate on containers that have
+13 more than twenty (20) units.
+14 (b)(1) Prior to January 1, 2025, any dealer having in the dealer’s possession any other
+15 tobacco products with respect to the storage or use of which a tax is imposed by this section shall,
+16 within five (5) days after coming into possession of the other tobacco products in this state, file a
+17 return with the tax administrator in a form prescribed by the tax administrator. The return shall be
+18 accompanied by a payment of the amount of the tax shown on the form to be due. Records required
+19 under this section shall be preserved on the premises described in the relevant license in such a
+20 manner as to ensure permanency and accessibility for inspection at reasonable hours by authorized
+21 personnel of the administrator.
+22 (2) Effective January 1, 2025, all other tobacco products, except for cigars, and electronic
+23 nicotine-delivery system products sold at wholesale in Rhode Island must be sold by a Rhode Island
+24 licensed distributor, manufacturer, or importer, and purchases of other tobacco products, except for
+25 cigars, and/or electronic nicotine-delivery system products, from an unlicensed distributor,
+26 manufacturer, or importer are prohibited. Any other tobacco products, except for cigars, and/or
+27 electronic nicotine-delivery system products purchased and/or obtained from an unlicensed person
+28 shall be subject to the terms of this chapter including, but not limited to, § 44-20-15 and shall be
+29 taxed pursuant to this section.
+30 (3) Effective January 1, 2025, any dealer having in the dealer’s possession any cigars with
+31 respect to the storage or use of which a tax is imposed by this section shall, within five (5) days
+32 after coming into possession of cigars in this state, file a return with the tax administrator in a form
+33 prescribed by the tax administrator. The return shall be accompanied by a payment of the amount
+34 of the tax shown on the form to be due. Records required under this section shall be preserved on
+LC006176 - Page 6 of 8
+
+1 the premises described in the relevant license in such a manner as to ensure permanency and
+2 accessibility for inspection at reasonable hours by authorized personnel of the administrator.
+3 (c) Existing Inventory Floor Tax.
+4 (1) For all nicotine products defined in § 44-20-1 as other tobacco products but not
+5 previously taxed as other tobacco products held by licensed retailers as of October 1, 2025: Each
+6 person engaging in the business of selling nicotine products at retail in this state shall pay a tax at
+7 the rate of eighty percent (80%) of the wholesale cost of such products on October 1, 2025. Each
+8 person subject to the payment of the tax imposed by this section shall, on or before October 16,
+9 2025, file a return, under oath or certified under the penalties of perjury, with the administrator on
+10 forms furnished by the administrator, showing the wholesale cost of all nicotine products not
+11 previously taxed as other tobacco products in that person’s possession in this state at 12:01 a.m. on
+12 October 1, 2025, as described in this section, and the amount of tax due, and shall at the time of
+13 filing the return pay the tax to the administrator. Failure to obtain forms shall not be an excuse for
+14 the failure to make a return containing the information required by the administrator.
+15 (2) For all nicotine products defined in § 44-20-1 as other tobacco products but not
+16 previously taxed as other tobacco products held by licensed distributors, manufacturers, and/or
+17 importers in Rhode Island as of October 1, 2025: Each person engaging in the business of
+18 distributing at wholesale nicotine products defined in § 44-20-1 as other tobacco products but not
+19 previously taxed as other tobacco products in this state shall pay a tax at the rate of eighty percent
+20 (80%) of the wholesale cost of such products on October 1, 2025. Each person subject to the
+21 payment of the tax imposed by this section shall, on or before October 16, 2025, file a return, under
+22 oath or certified under the penalties of perjury, with the administrator on forms furnished by the
+23 administrator, showing the wholesale cost of all nicotine products not previously taxed as other
+24 tobacco products in that person’s possession in this state at 12:01 a.m. on October 1, 2025, as
+25 described in this section, and the amount of tax due, and shall at the time of filing the return pay
+26 the tax to the administrator. Failure to obtain forms shall not be an excuse for the failure to make a
+27 return containing the information required by the administrator.
+28 (d) The proceeds collected are paid into the general fund.
+29 SECTION 3. This act shall take effect on July 1, 2026.
+========
+LC006176
+========
+LC006176 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- CIGARETTE, OTHER TOBACCO PRODUCTS, AND
+ELECTRONIC NICOTINE-DELIVERY SYSTEM PRODUCTS
+***
+1 This act would define “alternative nicotine product” to mean any noncombustible product
+2 that does not contain tobacco leaf but does contain nicotine from any source and is intended for
+3 human consumption, whether chewed, absorbed, dissolved, ingested, inhaled, or consumed by any
+4 other means and would also tax an alternative nicotine product at the rate of two dollars ($2.00) per
+5 container containing up to twenty (20) units, and a proportionate tax at the like rate on containers
+6 that have more than twenty (20) units.
+7 This act would take effect on July 1, 2026.
+========
+LC006176
+========
+LC006176 - Page 8 of 8

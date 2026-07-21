@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - 2385
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2385
+========
+LC004629
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE -- PRESCRIPTION
+DRUGS
+Introduced By: Senators Bissaillon, Murray, LaMountain, and DiMario
+Date Introduced: January 30, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 40-21 of the General Laws entitled "Medical Assistance —
+2 Prescription Drugs" is hereby amended by adding thereto the following section:
+3 40-21-4. Prohibition of prior authorization or step therapy protocol.
+4 (a) The Rhode Island medical assistance program, as defined under chapter 8 of this title,
+5 and any contract between the Rhode Island medical assistance program and a managed care
+6 organization shall not require prior authorization or a step therapy protocol for the coverage of a
+7 medication classified as an anticonvulsant or antipsychotic on their drug formulary.
+8 (b) If the secretary of the executive office of health and human services determines that
+9 authorization from a federal agency is necessary for the implementation of this section, the
+10 secretary is authorized to seek such state plan amendment and may delay implementing the
+11 provisions until the authorization is granted.
+12 (c) The Rhode Island medical assistance program shall require, through amending current
+13 and future medical assistance managed care contracts, that the managed care organizations meet
+14 the provisions of this section.
+15 (d) The provisions of subsection (a) of this section do not affect clinical prior authorization
+16 edits to prescriptions of medications classified as an anticonvulsant or antipsychotic.
+17 (e) This section does not prevent the Rhode Island medical assistance program and any
+18 contract between the Rhode Island medical assistance program and a managed care organization
+
+1 from denying a medication that has been removed from the market due to safety concerns from the
+2 federal Food and Drug Administration.
+3 (f) For the purposes of this section, "step therapy protocol" means a protocol that
+4 establishes a specific sequence in which prescription medications for a specified medical condition
+5 are medically necessary for a particular enrollee and are covered under a pharmacy or medical
+6 benefit by the Rhode Island medical assistance program or a managed care organization, including
+7 self-administered and physician-administered drugs.
+8 (g) On or before July 1, 2029, the Rhode Island medical assistance program and any
+9 managed care organization that has a contract with the Rhode Island medical assistance program
+10 shall collect and provide to the executive office of health and human services, in a form and
+11 frequency acceptable to the secretary, a report that includes the following data for the years 2021-
+12 2029:
+13 (1) For anticonvulsants and antipsychotics;
+14 (i) The annual gross amount spent;
+15 (ii) The annual net amount spent after rebates;
+16 (iv) The average annual cost by class for generic and non-generic anticonvulsant and
+17 antipsychotic medications;
+18 (v) The total number of anticonvulsant and antipsychotic medication claims;
+19 (vi) The percentage of adherence to the preferred drug list ("PDL") for anticonvulsant and
+20 antipsychotic medications;
+21 (vii) The total number of prior authorizations submitted for nonpreferred anticonvulsant
+22 and antipsychotic medications;
+23 (viii) The total number of step therapy exceptions requested for nonpreferred
+24 anticonvulsant and antipsychotic medications;
+25 (ix) The total number of step edits per nonpreferred anticonvulsant and antipsychotic
+26 medication;
+27 (x) The percentages of prior authorization and step therapy approvals and denials; and
+28 (xi) The generic anticonvulsant and generic antipsychotic medication utilization
+29 percentages.
+30 (h) On or before July 1, 2029, the director of the department of health shall collect and
+31 provide to the executive office of health and human services, in a form and frequency acceptable
+32 to the secretary, a report that includes the following data for the years 2021-2029 from the state and
+33 from each of the thirty-nine (39) municipalities:
+34 (1) Gross amount, non-aggregated by entity type, spent on services and personnel related
+LC004629 - Page 2 of 4
+
+1 to mental health emergencies performed by the following entities:
+2 (i) Ground ambulance transport;
+3 (ii) Air ambulance transport;
+4 (iii) Hospitals, including inpatient and emergency departments;
+5 (iv) Police departments; and
+6 (v) Fire departments.
+7 (i) On or before October 1, 2029, the executive office of health and human services shall
+8 produce and provide the information collected pursuant to subsections (g) and (h) of this section to
+9 the speaker of the house of representatives, the president of the senate, the house of representatives
+10 committee on finance, and the senate committee on health and human services.
+11 (j) The provisions of this section shall sunset and be repealed effective December 31, 2029.
+12 (k) This section applies to all policies, contracts, and plans executed, delivered, issued for
+13 delivery, continued or renewed in this state on or after January 1, 2027. This section shall sunset
+14 and be repealed on December 31, 2029.
+15 SECTION 2. This act shall take effect on January 1, 2027, and shall sunset and be repealed
+16 on December 31, 2029.
+========
+LC004629
+========
+LC004629 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- MEDICAL ASSISTANCE -- PRESCRIPTION
+DRUGS
+***
+1 This act would prohibit the Rhode Island medical assistance program, and any contract
+2 between the Rhode Island medical assistance program and a managed care organization, from
+3 requiring prior authorization or a step therapy protocol for the coverage of a medication classified
+4 as an anticonvulsant or antipsychotic.
+5 This act would take effect on January 1, 2027, and would sunset and be repealed on
+6 December 31, 2029.
+========
+LC004629
+========
+LC004629 - Page 4 of 4

@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - 7955
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7955
+========
+LC005563
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- CURRENCY TRANSMISSIONS
+Introduced By: Representatives Casimiro, Donovan, Spears, Potter, Alzate, and
+Shallcross Smith
+Date Introduced: February 27, 2026
+Referred To: House Innovation, Internet, & Technology
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 19-14.3-1.1 of the General Laws in Chapter 19-14.3 entitled
+2 "Currency Transmissions" is hereby amended to read as follows:
+3 19-14.3-1.1. Definitions.
+4 In addition to the definitions provided in § 19-14-1 the following definitions are applicable
+5 to this chapter:
+6 (1) “Blockchain analytics” means the analysis of data from blockchains or public
+7 distributed ledgers, including associated transaction information.
+8 (2) “Blockchain analytics software” means a software service that uses blockchain
+9 analytics data to provide risk-specific information about virtual currency wallet addresses, among
+10 other things.
+11 (3) “Control” means:
+12 (i) When used in reference to a transaction or relationship involving virtual currency, the
+13 power to execute unilaterally or prevent indefinitely a virtual currency transaction; and
+14 (ii) When used in reference to a person, the direct or indirect power to direct the
+15 management, operations, or policies of the person through legal or beneficial ownership of twenty-
+16 five percent (25%) or more of the voting power in the person or under a contract, arrangement, or
+17 understanding.
+18 (4) “Department” means the department of business regulation, division of banking.
+19 (5) “Exchange,” used as a verb, means to assume control of virtual currency from or on
+
+1 behalf of a resident, at least momentarily, to sell, trade, or convert:
+2 (i) Virtual currency for legal tender, bank credit, or one or more forms of virtual currency;
+3 or
+4 (ii) Legal tender or bank credit for one or more forms of virtual currency.
+5 (6) “Existing customer” means an individual who has been a customer with a virtual
+6 currency kiosk operator for more than thirty (30) days after the customer’s first financial transaction
+7 with the virtual currency kiosk operator.
+8 (7) “Legal tender” means a medium of exchange or unit of value, including the coin or
+9 paper money of the United States, issued by the United States or by another government.
+10 (8) “Licensee” means a person licensed under this chapter.
+11 (9) “Monetary value” means a medium of exchange, whether or not redeemable in money.
+12 (10) “New customer” means an individual who has never previously transacted with the
+13 virtual currency kiosk operator. The new customer shall remain defined as such during the thirty-
+14 day (30) period after the first financial transaction with the virtual currency kiosk operator.
+15 Following the thirty-day (30) period, a new customer automatically converts to an existing
+16 customer.
+17 (11) “Reciprocity agreement” means an arrangement between the department and the
+18 appropriate licensing agency of another state that permits a licensee operating under a license
+19 granted by the other state to engage in currency transmission business activity with or on behalf of
+20 a resident.
+21 (12) “Record” means information that is inscribed on a tangible medium or that is stored
+22 in an electronic or other medium and is retrievable in perceivable form.
+23 (13) “Registry” means the Nationwide Multistate Licensing System.
+24 (14) “Resident”:
+25 (i) Means a person that:
+26 (A) Is domiciled in this state;
+27 (B) Is physically located in this state for more than one hundred eighty-three (183) days of
+28 the previous three hundred sixty-five (365) days; or
+29 (C) Has a place of business in this state; and
+30 (ii) Includes a legal representative of a person that satisfies subsection (14)(i) of this
+31 section.
+32 (15) “Responsible individual” means an individual who has managerial authority with
+33 respect to a licensee’s currency transmission business activity with or on behalf of a resident.
+34 (16) “Sign” means, with present intent to authenticate or adopt a record:
+LC005563 - Page 2 of 5
+
+1 (i) To execute or adopt a tangible symbol; or
+2 (ii) To attach to or logically associate with the record an electronic symbol, sound, or
+3 process.
+4 (17) “State” means a state of the United States, the District of Columbia, Puerto Rico, the
+5 United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the
+6 United States.
+7 (18) “Store,” except in the phrase “store of value,” means to maintain control of virtual
+8 currency on behalf of a resident by a person other than the resident. “Storage” and “storing” have
+9 corresponding meanings.
+10 (19) “Transaction hash” means a unique identifier made up of a string of characters that
+11 act as a record of and provide proof that the transaction was verified and added to the blockchain.
+12 (20) “Transfer” means to assume control of virtual currency from or on behalf of a resident
+13 and to:
+14 (i) Credit the virtual currency to the account of another person;
+15 (ii) Move the virtual currency from one account of a resident to another account of the
+16 same resident; or
+17 (iii) Relinquish control of virtual currency to another person.
+18 (21) “U.S. Dollar equivalent of virtual currency” means the equivalent value of a particular
+19 virtual currency in United States dollars shown on a virtual currency exchange based in the United
+20 States for a particular date or period specified in this chapter.
+21 (22) “Virtual currency address” means an alphanumeric identifier associated with a virtual
+22 currency wallet identifying the location to which a virtual currency transaction can be sent.
+23 (23) “Virtual currency business activity” means:
+24 (i) Exchanging, transferring, or storing virtual currency whether directly or through an
+25 agreement with a virtual currency control-services vendor;
+26 (ii) Holding electronic precious metals or electronic certificates representing interests in
+27 precious metals on behalf of another person or issuing shares or electronic certificates representing
+28 interests in precious metals; or
+29 (iii) Exchanging one or more digital representations of value used within one or more
+30 online games, game platforms, or family of games for:
+31 (A) Virtual currency offered by or on behalf of the same publisher from which the original
+32 digital representation of value was received; or
+33 (B) Legal tender or bank credit outside the online game, game platform, or family of games
+34 offered by or on behalf of the same publisher from which the original digital representation of value
+LC005563 - Page 3 of 5
+
+1 was received.
+2 (24) “Virtual currency control-services vendor” means a person who has control of virtual
+3 currency solely under an agreement with a person who, on behalf of another person, assumes
+4 control of virtual currency.
+5 (25) “Virtual currency kiosk” or “kiosk” means an electronic terminal acting as a
+6 mechanical agent of the virtual currency kiosk operator that enables the virtual currency kiosk
+7 operator to facilitate the exchange of virtual currency for money, bank credit, or other virtual
+8 currency including, but not limited to:
+9 (i) Connecting directly to a separate “virtual currency exchange” that performs the actual
+10 virtual currency transmission; or
+11 (ii) Drawing upon the virtual currency in the possession of the electronic terminal’s
+12 operator.
+13 (26) “Virtual-currency kiosk operator” means a person or business entity that engages in
+14 virtual-currency business activity via a virtual currency kiosk located in this state or a person who
+15 owns, operates, or manages a virtual currency kiosk located in this state through which virtual
+16 currency business activity is offered. This definition applies whether or not the operator owns the
+17 kiosks used in transactions, or if they provide custodial or non-custodial services. For the purpose
+18 of this definition, the term also includes any person or business entity that facilitates or enables the
+19 purchase of virtual currency through a digital product or application that directs a customer to remit
+20 payment in person, including through a clerk or other intermediary, for the purpose of completing
+21 the transaction.
+22 (27) “Virtual currency kiosk transaction” means a transaction conducted or performed, in
+23 whole or in part, by electronic means via a virtual currency kiosk or through a digital product or
+24 application that directs a customer to remit payment in person, including through a clerk or other
+25 intermediary, for the purpose of completing the transaction. Virtual currency kiosk transaction also
+26 means a transaction made at a virtual currency kiosk to purchase virtual currency with fiat currency
+27 or to sell virtual currency for fiat currency.
+28 (28) “Virtual currency wallet” means a software application or other mechanism providing
+29 a means for holding, storing, and transferring virtual currency.
+30 SECTION 2. This act shall take effect upon passage.
+========
+LC005563
+========
+LC005563 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- CURRENCY TRANSMISSIONS
+***
+1 This act would expand the definitions of a virtual currency kiosk operator to include
+2 owners, non-owners and anyone who provides a service to enable or facilitate a customer to
+3 purchase virtual currency. This act would expand the definition of virtual currency kiosk
+4 transaction to include a digital product or application where a customer remits payment in person,
+5 including through a clerk or other intermediary, for the purpose of completing the transaction.
+6 This act would take effect upon passage.
+========
+LC005563
+========
+LC005563 - Page 5 of 5

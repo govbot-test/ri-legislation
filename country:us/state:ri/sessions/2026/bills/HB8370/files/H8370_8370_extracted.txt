@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - 8370
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8370
+========
+LC006208
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- CIGARETTE, OTHER TOBACCO PRODUCTS, AND
+ELECTRONIC NICOTINE-DELIVERY SYSTEMS PRODUCTS
+Introduced By: Representative William W. O'Brien
+Date Introduced: March 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 40-20-1 and 44-20-61 of the General Laws in Chapter 44-20 entitled
+2 "Cigarette, Other Tobacco Products, and Electronic Nicotine-Delivery System Products" are
+3 hereby amended to read as follows:
+4 44-20-1. Definitions.
+5 Whenever used in this chapter, unless the context requires otherwise:
+6 (1) "Administrator" means the tax administrator.
+7 (2) "Cigarettes" means and includes any cigarettes suitable for smoking in cigarette form,
+8 "heat not burn products," and each sheet of cigarette rolling paper, including but not limited to,
+9 paper made into a hollow cylinder or cone, made with paper or any other material, with or without
+10 a filter suitable for use in making cigarettes.
+11 (3) "Dealer" means any person whether located within or outside of this state, who sells or
+12 distributes cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+13 products to a consumer in this state.
+14 (4) "Distributor" means any person:
+15 (i) Whether located within or outside of this state, other than a dealer, who sells or
+16 distributes cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+17 products within or into this state. Such term shall not include any cigarette or other tobacco product
+18 manufacturer, export warehouse proprietor, or importer with a valid permit under 26 U.S.C. § 5712,
+
+1 if such person sells or distributes cigarettes and/or other tobacco products and/or electronic
+2 nicotine-delivery system products in this state only to licensed distributors, or to an export
+3 warehouse proprietor or another manufacturer with a valid permit under 26 U.S.C. § 5712;
+4 (ii) Selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery
+5 system products directly to purchasers in this state by means of at least twenty-five (25) vending
+6 machines;
+7 (iii) Engaged in this state in the business of manufacturing cigarettes and/or other tobacco
+8 products and/or electronic nicotine-delivery system products or any person engaged in the business
+9 of selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+10 products to dealers, or to other persons, for the purpose of resale only; provided, that seventy-five
+11 percent (75%) of all cigarettes and/or other tobacco products and/or electronic nicotine-delivery
+12 system products sold by that person in this state are sold to dealers or other persons for resale and
+13 selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery system products
+14 directly to at least forty (40) dealers or other persons for resale; or
+15 (iv) Maintaining one or more regular places of business in this state for that purpose;
+16 provided, that seventy-five percent (75%) of the sold cigarettes and/or other tobacco products
+17 and/or electronic nicotine-delivery system products are purchased directly from the manufacturer
+18 and selling cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+19 products directly to at least forty (40) dealers or other persons for resale.
+20 (5) "Electronic nicotine-delivery system" means an electronic device that may be used to
+21 simulate smoking in the delivery of nicotine or other substance to a person inhaling from the device,
+22 and includes, but is not limited to, an electronic cigarette, electronic cigar, electronic cigarillo,
+23 electronic little cigars, electronic pipe, electronic hookah, e-liquids, e-liquid products, or any related
+24 device and any cartridge or other component of such device.
+25 (6) "Electronic nicotine-delivery system products" means any combination of electronic
+26 nicotine-delivery system and/or e-liquid and/or any derivative thereof, and/or any e-liquid
+27 container. Electronic nicotine-delivery system products shall include hemp-derived consumable
+28 CBD products as defined in § 2-26-3.
+29 (7) "Electronic nicotine-delivery system shop" means any premises dedicated to the
+30 display, sale, distribution, delivery, offering, furnishing, or marketing of electronic nicotine-
+31 delivery system products, liquid nicotine containers or vapor products, or any products as defined
+32 in § 11-9-13.4, to consumers over the age of twenty-one (21), in compliance with chapter 9 of title
+33 11.
+34 (7)(8) "E-liquid" and "e-liquid products" mean any liquid or substance placed in or sold for
+LC006208 - Page 2 of 6
+
+1 use in an electronic nicotine-delivery system that generally utilizes a heating element that
+2 aerosolizes, vaporizes, or combusts a liquid or other substance containing nicotine or nicotine
+3 derivative:
+4 (i) Whether the liquid or substance contains nicotine or a nicotine derivative; or
+5 (ii) Whether sold separately or sold in combination with a personal vaporizer, electronic
+6 nicotine-delivery system, or an electronic inhaler.
+7 (8)(9) "Importer" means any person who imports into the United States, either directly or
+8 indirectly, a finished cigarette or other tobacco product and/or electronic nicotine-delivery system
+9 product for sale or distribution.
+10 (9)(10) "Licensed," when used with reference to a manufacturer, importer, distributor, or
+11 dealer, means only those persons who hold a valid and current license issued under § 44-20-2 for
+12 the type of business being engaged in. When the term "licensed" is used before a list of entities,
+13 such as "licensed manufacturer, importer, wholesale dealer, or retailer dealer," such term shall be
+14 deemed to apply to each entity in such list.
+15 (10)(11) "Manufacturer" means any person who manufactures, fabricates, assembles,
+16 processes, or labels a finished cigarette and/or other tobacco products and/or electronic nicotine-
+17 delivery system products.
+18 (11)(12) "Other tobacco products" (OTP) means any products that are made from or
+19 derived from tobacco or that contain nicotine, whether natural or artificial, including, but not
+20 limited to, cigars (excluding Little Cigars, as defined in § 44-20.2-1, which are subject to cigarette
+21 tax), cheroots, stogies, smoking tobacco (including granulated, plug cut, crimp cut, ready rubbed
+22 and any other kinds and forms of tobacco suitable for smoking in a pipe or otherwise), chewing
+23 tobacco (including Cavendish, twist, plug, scrap and any other kinds and forms of tobacco suitable
+24 for chewing), any and all forms of hookah, shisha and "mu’assel" tobacco, snuff, and shall include
+25 any other articles or products made of, derived from, or containing tobacco or nicotine, in whole or
+26 in part, or any tobacco or nicotine substitute, except cigarettes and electronic nicotine-delivery
+27 system products. Other tobacco products shall not mean any product that has been approved by the
+28 United States Food and Drug Administration for the sale of or use as a tobacco or nicotine cessation
+29 product or for other medical purposes and is marketed and sold or prescribed exclusively for that
+30 approved purpose.
+31 (12)(13) "Person" means any individual, including an employee or agent, firm, fiduciary,
+32 partnership, corporation, trust, or association, however formed.
+33 (13)(14) "Pipe" means an apparatus made of any material used to burn or vaporize products
+34 so that the smoke or vapors can be inhaled or ingested by the user.
+LC006208 - Page 3 of 6
+
+1 (14)(15) "Place of business" means any location where cigarettes and/or other tobacco
+2 products and/or electronic nicotine-delivery system products are sold, stored, or kept, including,
+3 but not limited to; any storage room, attic, basement, garage or other facility immediately adjacent
+4 to the location. It also includes any receptacle, hide, vessel, vehicle, airplane, train, or vending
+5 machine.
+6 (15)(16) "Sale" or "sell" means gifts, exchanges, and barter of cigarettes and/or other
+7 tobacco products and/or electronic nicotine-delivery system products. The act of holding, storing,
+8 or keeping cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+9 products at a place of business for any purpose shall be presumed to be holding the cigarettes and/or
+10 other tobacco products and/or electronic nicotine-delivery system products for sale. Furthermore,
+11 any sale of cigarettes and/or other tobacco products and/or electronic nicotine-delivery system
+12 products by the servants, employees, or agents of the licensed dealer during business hours at the
+13 place of business shall be presumed to be a sale by the licensee.
+14 (16)(17) "Stamp" means the impression, device, stamp, label, or print manufactured,
+15 printed, or made as prescribed by the administrator to be affixed to packages of cigarettes, as
+16 evidence of the payment of the tax provided by this chapter or to indicate that the cigarettes are
+17 intended for a sale or distribution in this state that is exempt from state tax under the provisions of
+18 state law; and also includes impressions made by metering machines authorized to be used under
+19 the provisions of this chapter.
+20 44-20-61. Product restrictions on electronic nicotine-delivery system products.
+21 (a) For purposes of this section, the following terms shall have the following meanings:
+22 (1) "Characterizing flavor" means a distinguishable taste or aroma, other than the taste or
+23 aroma of tobacco or menthol, whether naturally or artificially flavored, distinguishable by an
+24 ordinary consumer, imparted either prior to, or during, consumption of an electronic nicotine-
+25 delivery system product or component part thereof, including, but not limited to, tastes or aromas
+26 relating to any fruit, mint, wintergreen, chocolate, vanilla, honey, candy, cocoa, dessert, alcoholic
+27 beverage, herb, or spice or which impart a cooling or numbing sensation. The determination of
+28 whether an electronic nicotine-delivery system product has a characterizing flavor shall not be
+29 based solely on the use of additives, flavorings, or particular ingredients, but shall instead consider
+30 all aspects of a final product including, but not limited to, taste, flavor and aroma, product labeling,
+31 and advertising statements. A flavor shall be presumed to be a characterizing flavor if a dealer,
+32 manufacturer, or distributor has made a statement or claim directed to consumers or the public
+33 about such flavor, whether expressed or implied, that it has a distinguishable taste or aroma (other
+34 than the taste or aroma of tobacco or menthol).
+LC006208 - Page 4 of 6
+
+1 (2) "Electronic nicotine-delivery system shop" as defined in § 44-20-1.
+2 (3) "Flavored electronic nicotine-delivery system product" means any electronic nicotine-
+3 delivery system product that imparts a characterizing flavor.
+4 (b) The sale, or offer for sale of, or the possession with intent to sell or to offer for sale,
+5 flavored electronic nicotine-delivery system products to consumers within the state of Rhode Island
+6 is hereby prohibited, except at an electronic nicotine-delivery system shop. Compassion centers
+7 and licensed cultivators registered with the state of Rhode Island department of business regulation-
+8 office of cannabis regulation under chapter 28.6 of title 21 are exempt from this provision except
+9 as to products that contain, are made of, or are derived from tobacco or nicotine, natural or
+10 synthetic. No electronic nicotine-delivery system shop shall sell, distribute, or permit the sale of
+11 any electronic nicotine-delivery system or related product unless the purchaser’s age has been
+12 verified.
+13 (c) Ten percent (10%) of revenues collected from the sale of electronic nicotine-delivery
+14 systems sold by exempt shops shall be transferred to the tobacco cessation programs established in
+15 § 27-20-53.
+16 (d) Any penalties assessed for electronics nicotine-delivery shops in violation of this
+17 section, or in violation of § 11-9-13, shall be doubled. Any costs associated with storing and/or
+18 destroying confiscated material shall be borne by the shop from whom the material was confiscated.
+19 SECTION 2. This act shall take effect upon passage.
+========
+LC006208
+========
+LC006208 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- CIGARETTE, OTHER TOBACCO PRODUCTS, AND
+ELECTRONIC NICOTINE-DELIVERY SYSTEMS PRODUCTS
+***
+1 This act would define "electronic nicotine-delivery system shop" and require that ten
+2 percent (10%) of sales revenue from said shops be transferred to the tobacco cessation programs
+3 pursuant to § 27-20-53. The act also would double the penalties for any violations by the shops and
+4 assess payments for storing and/or destroying confiscated materials.
+5 This act would take effect upon passage.
+========
+LC006208
+========
+LC006208 - Page 6 of 6

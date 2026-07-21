@@ -1,0 +1,706 @@
+Title: 
+Official Title: 
+Source: versions - 7070
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7070
+========
+LC003543
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- FUNERAL DIRECTOR/EMBALMER
+AND FUNERAL SERVICE ESTABLISHMENTS
+Introduced By: Representatives McGaw, Ajello, Shallcross Smith, Kislak, McNamara,
+Tanzi, Speakman, Boylan, Stewart, and Cotter
+Date Introduced: January 14, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 5-33.2-1, 5-33.2-13, 5-33.2-13.1, 5-33.2-13.2, 5-33.2-15, 5-33.2-17
+2 and 5-33.2-24 of the General Laws in Chapter 5-33.2 entitled "Funeral Director/Embalmer and
+3 Funeral Service Establishments" are hereby amended to read as follows:
+4 5-33.2-1. Definitions.
+5 As used in this chapter:
+6 (1) "Alkaline hydrolysis" or "hydrolysis" means the reduction of human remains to bone
+7 fragments and essential elements in a licensed hydrolysis facility using heat, pressure, water, and
+8 base chemical agents.
+9 (2) "Alkaline hydrolysis facility" means a structure, room or other space in a building or
+10 real property where alkaline hydrolysis of a human body occurs.
+11 (1)(3) “Board” means the state board of funeral directors/embalmers.
+12 (2)(4) “Cremation” means a two-part (2) procedure where a dead human body or body parts
+13 are reduced by direct flames to residue that includes bone fragments and the pulverization of the
+14 bone fragments to a coarse powdery consistency.
+15 (3)(5) “Department” means the Rhode Island department of health.
+16 (6) "Disposition facility" means a building or structure utilized for the reducing of human
+17 remains by means of cremation, alkaline hydrolysis or natural organic reduction.
+18 (4)(7) “Division” means the division of professional regulation created under chapter 26 of
+
+1 this title.
+2 (5)(8) “Embalmer” means any person who has completed an internship; full course of study
+3 at an accredited mortuary science school; has passed the national board examination; and is
+4 engaged in the practice or profession of embalming, as defined in this section.
+5 (6)(9) “Embalming” means the practice, science, or profession of preserving, disinfecting,
+6 and preparing in any manner dead human bodies for burial, cremation, or transportation.
+7 (7)(10) “Funeral” means a period following death in which there are religious services or
+8 other rites or ceremonies with the body of the deceased present.
+9 (8)(11)(i) “Funeral directing” means:
+10 (A) Conducting funeral services; or
+11 (B) The arrangement for disposition of dead human bodies, except in the case of any
+12 religion where the preparation of the body or the provision of funeral services should be done
+13 according to religious custom or belief.
+14 (ii) Only funeral directors/embalmers working for a licensed funeral establishment are
+15 allowed to meet with families for the purpose of arranging funerals. Provided, that any person who
+16 assumed an ownership interest from his or her spouse or any widow or widower of a licensed
+17 funeral director who at the time of November 1, 1995, has been meeting with families to arrange
+18 for the conducting of funeral services is allowed to continue this practice.
+19 (9)(12) “Funeral director/embalmer” means any person engaged, or holding himself or
+20 herself out as engaged, in the practice or profession of funeral directing, and the science, practice,
+21 or profession of embalming as previously defined, including a funeral director of record, who may
+22 be a funeral director at more than one establishment or any other word or title intending to imply
+23 or designate him or her as a funeral director/embalmer, undertaker, or mortician. The holder of this
+24 license must be the holder of an embalmer’s license.
+25 (10)(13) “Funeral director/embalmer intern” means any person engaged in learning the
+26 practice or profession of funeral directing and the science, practice, or profession of embalming
+27 under the instruction and supervision of a funeral director/embalmer licensed and registered under
+28 the provisions of this chapter and actively engaged in the practice or profession of funeral directing
+29 and embalming in this state.
+30 (11)(14) “Funeral establishment” means a fixed place, establishment, or premises, licensed
+31 by the department, devoted to the activities that are incident, convenient, or related to the care and
+32 preparation, arrangement, financial and otherwise, for the funeral, transportation, burial, or other
+33 disposition of human dead bodies and including, but not limited to, a suitable room with all
+34 instruments and supplies used for the storage or preparation of dead human bodies for burial or
+LC003543 - Page 2 of 20
+
+1 other disposition.
+2 (12)(15) “Funeral merchandise” means those items that are normally presented for sale as
+3 part of the funeral home operation on a for-profit basis. These items include caskets, sealed,
+4 warranted outer-burial containers, and burial clothing. Not included are urns, grave markers, and
+5 non-sealed outer-burial containers. All persons engaged in the sale of funeral merchandise must
+6 comply with the provisions of chapter 33.1 of this title.
+7 (16) "Natural organic reduction (NOR)" means the contained, accelerated conversion of
+8 human remains to soil.
+9 (17) "Natural organic reduction facility" means a structure, room or other space in a
+10 building or real property where natural organic reduction of a human body occurs.
+11 (13)(18) “Person” includes individuals, partnerships, corporations, limited-liability
+12 companies, associations, and organizations of all kinds.
+13 (14)(19) “Practice of funeral service” means a person engaging in providing shelter, care,
+14 and custody of human dead remains; in the practice of preparing of the human dead remains by
+15 embalming or other methods for burial or other disposition; in entering into a funeral service
+16 contract; engaging in the functions of funeral directing and/or embalming as presently known,
+17 including those stipulated within this chapter and as defined in the Federal Trade Commission
+18 “Funeral Rule.” The practice of conducting funeral services shall be conducted in the presence of
+19 a licensed funeral director/embalmer.
+20 5-33.2-13. Funeral establishment and branch officer — Crematories — Inspections
+21 — Denial of access Funeral establishment and branch officer — Disposition facilities —
+22 Inspections — Denial of access.
+23 (a) Any licensed funeral director/embalmer employed, authorized, and empowered by the
+24 division of professional regulation may enter any funeral establishment, funeral-establishment
+25 branch office, or crematory disposition facility licensed under the provisions of this chapter, during
+26 the hours the funeral establishment, funeral-establishment branch office, or crematory disposition
+27 facility is open for business, for the purpose of inspecting the sanitary conditions, complaint
+28 investigations, and ascertaining if the provisions of this chapter and the rules and regulations are
+29 being observed in the operation of the funeral establishment, funeral-establishment branch office,
+30 or crematory disposition facility. The inspector may request permission from the department to be
+31 accompanied by another employee of the department of health prior to an inspection. Failure or
+32 refusal of the person in charge of that funeral establishment, funeral-establishment branch office,
+33 or crematory disposition facility to permit the inspection at all reasonable times shall be deemed
+34 sufficient cause for the revocation of any license issued to the funeral establishment, funeral-
+LC003543 - Page 3 of 20
+
+1 establishment branch office, or crematory disposition facility and any certificate of approval issued
+2 by the division.
+3 (b) Funeral establishments and branch offices and crematories disposition facilities
+4 licensed under the provisions of this chapter shall be inspected at least twice each year. Inspections
+5 shall include all areas of sanitation and public health, complaint investigations, as well as
+6 conformity with applicable section of this chapter and the rules and regulations.
+7 5-33.2-13.1. Crematories — License and inspection Disposition facilities — License
+8 and inspection.
+9 No crematory disposition facility owned or operated by or located on property licensed as
+10 a funeral establishment or at another location or by a cemetery shall conduct cremations, alkaline
+11 hydrolysis or natural organic reduction without first having applied for and obtained a license from
+12 the department. Applications for the crematory disposition facility license shall be made on forms
+13 furnished by the division accompanied by the application fee as set forth in § 23-1-54. Upon receipt
+14 of a completed application, the department shall issue a license. A license shall be issued to a
+15 specific licensee for a specific location and is not transferable. The facility and licensee shall meet
+16 all requirements as prescribed by the rules and regulations established by the department, not
+17 inconsistent with this chapter.
+18 5-33.2-13.2. Cremation of human remains Disposition of human remains.
+19 (a)(1) Cremation Disposition shall not take place until the necessary permits and consents
+20 are issued pursuant to § 23-3-18.
+21 (2) A crematory disposition facility shall not take custody of unidentified human remains.
+22 (3) Human remains designated for cremation shall be cremated without unreasonable delay
+23 Disposition of human remains shall occur without unreasonable delay.
+24 (4) When the crematory disposition facility is unable to cremate initiate the disposition
+25 process of the human remains immediately upon taking custody, the crematory disposition facility
+26 shall provide a holding facility that complies with any applicable public health law and that
+27 preserves the dignity of the human remains.
+28 (5) Holding facilities must be secure from access by all unauthorized persons.
+29 (6) A crematory disposition facility shall not simultaneously cremate conduct the process
+30 of reduction of human remains of more than one human remain within the same cremation
+31 disposition chamber. The processing, packaging, storage, and disposition of cremated remains
+32 following cremation, alkaline hydrolysis or natural organic reduction shall be as prescribed in the
+33 rules and regulations promulgated by the department of health division of professional regulation.
+34 (7) A crematory disposition facility or funeral home shall be authorized to dispose of the
+LC003543 - Page 4 of 20
+
+1 cremated remains following cremation, alkaline hydrolysis or natural organic reduction that have
+2 been abandoned at the crematory disposition facility or funeral home for more than six (6) months.
+3 All reasonable attempts must be made and diligence exercised to contact the person in charge who
+4 authorized the cremation.
+5 (b) This section does not apply to the cremation of various body parts from different human
+6 bodies.
+7 5-33.2-15. Annual renewal of licenses.
+8 All licenses issued under the provisions of this chapter must be renewed annually by their
+9 holders, who shall pay to the division a yearly renewal fee for the renewal of a funeral
+10 director/embalmer’s license, and additional fees for each funeral-establishment branch office
+11 license and for the crematory disposition facility license. These fees are as set forth in § 23-1-54.
+12 On or before the fifteenth day of November in each year, the division shall mail to each licensed
+13 funeral director/embalmer and to each licensed funeral establishment, funeral-establishment branch
+14 office, and crematory disposition facility an application for the renewal. Applications, accompanied
+15 by the fee for renewal, shall be filed with the division on or before the thirty-first day of December
+16 in each year. Applications filed after the thirty-first of December and on or before the fifteenth of
+17 January must be accompanied by a fee as set forth in § 23-1-54 for funeral director/embalmers and
+18 funeral establishments in addition to the previously established renewal fees. Any funeral
+19 director/embalmer who acts or holds himself or herself out as a funeral director/embalmer after his
+20 or her certificate has been lapsed shall be punished as provided in this chapter. Any funeral
+21 establishment, funeral-establishment branch office, or crematory disposition facility that acts or
+22 holds itself out as a funeral establishment after its license has lapsed shall be punished as provided
+23 in this chapter.
+24 5-33.2-17. Revocation or suspension of license.
+25 (a) The division has the power to refuse to issue or may revoke or suspend any license
+26 issued by it under this chapter, after written notification and a hearing before the board for gross
+27 incompetency, for unprofessional conduct, which is defined to include:
+28 (1) Conviction of a felony;
+29 (2) Misrepresentations made of services, goods, or of funeral prices or fraud committed as
+30 a holder of a license for the practice of embalming, funeral directing, or the holder of a license as a
+31 funeral establishment, funeral-establishment branch, or crematory disposition facility;
+32 (3) False or misleading advertising as the holder of a license for the practice of embalming,
+33 funeral directing, or the holder of a license as a funeral establishment, funeral-establishment branch,
+34 or crematory disposition facility; violating any regulations relating to “truth in advertising”; or
+LC003543 - Page 5 of 20
+
+1 failure to do the following:
+2 (i) List only full-time employees or those having an ownership interest in the
+3 advertisements including his or her title, which clearly identifies one’s duties;
+4 (ii) List the name of the funeral director of record for the establishment in all advertising;
+5 (iii) A deceased founder may be listed in advertisements with the notation “founder”
+6 following the name;
+7 (4) Solicitation of dead human bodies by any licensed embalmer, funeral director, funeral
+8 attendant, or the holder of license as a funeral establishment, funeral-establishment branch or
+9 crematory disposition facility, its agents, assistants, or employees, whether the solicitation occurs
+10 after death or while death is impending; provided, that this does not prohibit general advertising;
+11 (5) Employment directly or indirectly of any intern, agent, assistant, employee, or other
+12 person, on part or full-time, or on commission, for the purpose of calling upon individuals or
+13 institutions by whose influence dead human bodies may be turned over to a particular funeral
+14 establishment;
+15 (6) The direct or indirect payment or offer of payment of a commission by any funeral
+16 establishment, funeral-establishment branch, or crematory disposition facility, its agents, assistants,
+17 or employees for the purpose of securing business;
+18 (7) Solicitation or acceptance by a licensed funeral director/embalmer, or the holder of a
+19 license as a funeral establishment, funeral-establishment branch, or crematory disposition facility,
+20 of any commission or bonus or rebate in consideration of recommending or causing a dead human
+21 body to be disposed of in any crematory disposition facility, mausoleum, or cemetery;
+22 (8) Using any funeral merchandise previously used in whole or in part without prior written
+23 permission of the person selecting and/or paying for the use of the merchandise;
+24 (9) Violation of any of the provisions of this chapter;
+25 (10) Violation of any state law or rule and regulation affecting the handling, custody, care,
+26 transportation, or final disposition of dead human bodies;
+27 (11) Fraud or misrepresentation in obtaining or renewing a license;
+28 (12) Refusing to properly release a dead human body to the custody of the person or entity
+29 who has the legal right to effect the release and authorized cost has been paid;
+30 (13) Aiding or abetting an unlicensed person to practice funeral directing and embalming
+31 or holding oneself out as a licensed funeral director/embalmer;
+32 (14) Failure to secure any required permit for removal or burial of dead human remains
+33 prior to interment or final disposition;
+34 (15) Knowingly making any false statement on a certificate of death;
+LC003543 - Page 6 of 20
+
+1 (16) Violation of chapter 33.1 of this title entitled “Funeral Service Contracts”;
+2 (17) Discriminating in services because of race, creed, color, or national origin;
+3 (18) Permitting non-funeral service licensees to make arrangements for a funeral prior to,
+4 or at, need unless exempted under chapter 33.1 of this title or a registered intern under the
+5 supervision of a licensee;
+6 (19) Substantial or repeated violations of the rules and regulations of the Federal Trade
+7 Commission and/or the Occupational Safety and Health Administration, or for other violations
+8 deemed sufficient; provided, that before any license is revoked or suspended, the license holder
+9 shall have notice, in writing, of the charge or charges against him or her and shall have reasonable
+10 opportunity to be heard in his or her defense.
+11 (b) Any person whose certificate has been revoked or suspended may apply to have the
+12 certificate reissued, and the certificate shall be reissued to him or her upon a satisfactory showing
+13 that disqualification has ceased.
+14 5-33.2-24. Proper authority for funeral arrangements and disposition of human
+15 remains.
+16 Every licensed funeral director/embalmer, licensed funeral establishment, licensed
+17 crematory disposition facility, and cemetery shall comply with the following rules with respect to
+18 proper authority for funeral arrangements and disposition of human remains:
+19 (1) If a licensed funeral establishment is a party to a funeral service contract, as defined in
+20 § 5-33.1-2, for the benefit of a deceased person, only when executed by the principal, him or herself,
+21 and the contract is still in effect at the time of that person’s death, the terms of that contract shall
+22 control the nature of the funeral goods and services to be provided; the manner in which funeral
+23 services are to be conducted for the deceased; and the final disposition of the deceased person’s
+24 remains to the full extent provided in that contract. When the contract is executed by the principal,
+25 him or herself, and specifies cremation as the chosen disposition, the contract is considered
+26 sufficient legal authorization for cremation, alkaline hydrolysis or natural organic reduction as the
+27 chosen disposition, the contract is considered sufficient legal authorization for cremation, alkaline
+28 hydrolysis or natural organic reduction. No licensed funeral establishment, licensed crematory
+29 disposition facility, or cemetery, nor any of its agents or employees, may cancel or materially alter
+30 any of the arrangements specified in that contract, even if requested to do so by a member of the
+31 deceased person’s family or a funeral planning agent designated pursuant to chapter 33.3 of this
+32 title unless compliance with the terms of the original contract would result in a violation of any
+33 applicable federal, state, or local law or regulation, notwithstanding the provisions of this chapter.
+34 (2) To the extent that there is no funeral service contract in effect at the time of death for
+LC003543 - Page 7 of 20
+
+1 the benefit of the deceased person, indicating the wishes of the deceased person with respect to the
+2 nature of the funeral goods and services to be provided, the manner in which funeral services are
+3 to be conducted, or the final disposition of the deceased person’s remains, then the funeral
+4 establishment and its agents or employees shall follow the directions of the deceased person’s
+5 survivors in the following order of priority:
+6 (i) An agent designated pursuant to chapter 33.3 of this title, if any;
+7 (ii) The surviving spouse or domestic partner of the deceased;
+8 (iii) The surviving adult children of the deceased;
+9 (iv) The surviving parent(s) of the deceased over the age of eighteen (18), or, if the
+10 deceased is a minor, and there is a custody order relative to that child, the custodial parent, after he
+11 or she signs an affidavit attesting that he or she does not know the whereabouts of the other parent;
+12 (v) The surviving brother(s) or sister(s) of the deceased;
+13 (vi) The surviving adult grandchildren of the deceased;
+14 (vii) The surviving adult niece(s) or nephew(s) of the deceased;
+15 (viii) The guardian of the person of the deceased at the time of his or her death.
+16 (3) All licensed funeral directors/embalmers, licensed funeral establishments, licensed
+17 crematories disposition facilities, cemeteries, and all their agents and employees shall be held
+18 harmless, and shall not be subject to civil suit, either as individual(s), partnership(s), or
+19 corporation(s), for complying with the provisions of this chapter.
+20 (4) For the purpose of this chapter, “domestic partner” shall be defined as a person who,
+21 prior to the decedent’s death, was in an exclusive, intimate, and committed relationship with the
+22 decedent and who certifies by affidavit that their relationship met the following qualifications:
+23 (i) Both partners were at least eighteen (18) years of age and were mentally competent to
+24 contract;
+25 (ii) Neither partner is married to anyone else;
+26 (iii) Partners were not related by blood to a degree that would prohibit marriage in the state
+27 of Rhode Island;
+28 (iv) Partners resided together and had resided together for at least one year at the time of
+29 death; and
+30 (v) Partners were financially interdependent as evidenced by at least two (2) of the
+31 following:
+32 (A) Domestic partnership agreement or relationship contract;
+33 (B) Joint mortgage or joint ownership of primary residence;
+34 (C) Two (2) of the following:
+LC003543 - Page 8 of 20
+
+1 (I) Joint ownership of motor vehicle;
+2 (II) Joint checking account;
+3 (III) Joint credit account;
+4 (IV) Joint lease; and/or
+5 (D) The domestic partner had been designated as a beneficiary for the decedent’s will,
+6 retirement contract, or life insurance.
+7 SECTION 2. Section 23-1-54 of the General Laws in Chapter 23-1 entitled "Department
+8 of Health" is hereby amended to read as follows:
+9 23-1-54. Fees payable to the department of health.
+10 Fees payable to the department shall be as follows:
+11 PROFESSION RIGL Section Description of Fee FEE
+12 Barbers/hairdressers 5-10-10(a) Renewal application $25.00
+13 Barbers/hairdressers 5-10-10(a) Renewal application:
+14 Manicuring Instructors and manicurists $25.00
+15 Barbers/hairdressers 5-10-10(b) Minimum late renewal fee $25.00
+16 Barbers/hairdressers 5-10-10(b) Maximum late renewal fee $100.00
+17 Barbers/hairdressers 5-10-11[c] Application fee $25.00
+18 Barbers/hairdressers 5-10-11[c] Application fee: manicuring
+19 Instructors and manicurists $25.00
+20 Barbers/hairdressers 5-10-13 Demonstrator’s permit $90.00
+21 Barbers/hairdressers 5-10-15 Shop license: initial $170.00
+22 Barbers/hairdressers 5-10-15 Shop license: renewal $170.00
+23 Veterinarians 5-25-10 Application fee $40.00
+24 Veterinarians 5-25-11 Examination fee $540.00
+25 Veterinarians 5-25-12(a) Renewal fee $580.00
+26 Veterinarians 5-25-12[c] Late renewal fee $120.00
+27 Podiatrists 5-29-7 Application fee $240.00
+28 Podiatrists 5-29-11 Renewal fee: minimum $240.00
+29 Podiatrists 5-29-11 Renewal fee: maximum $540.00
+30 Podiatrists 5-29-13 Limited registration $65.00
+31 Podiatrists 5-29-14 Limited registration:
+32 Academic faculty $240.00
+33 Podiatrists 5-29-14 Application fee:
+34 Renewal minimum $240.00
+LC003543 - Page 9 of 20
+
+1 Podiatrists 5-29-14 Application fee:
+2 Renewal maximum $440.00
+3 Chiropractors 5-30-6 Examination fee: $210.00
+4 Chiropractors 5-30-7 Examination exemption fee $210.00
+5 Chiropractors 5-30-8(b) Exam Physiotherapy $210.00
+6 Chiropractors 5-30-8(b) Exam chiro and $210.00
+7 physiotherapy
+8 Chiropractors 5-30-12 Renewal fee $210.00
+9 Dentists/dental hygienists 5-31.1-6(d) Dentist: application fee $965.00
+10 Dentists/dental hygienists 5-31.1-6(d) Dental hygienist:
+11 application fee $65.00
+12 Dentists/dental hygienists 5-31.1-6(d) Reexamination: dentist $965.00
+13 Dentists/dental hygienist 5-31.1-6(d) Reexamination: hygienist $65.00
+14 Dentists/dental hygienists 5-31.1-21(b) Reinstatement fee dentist $90.00
+15 Dentists/dental hygienists 5-31.1-21(b) Reinstatement fee hygienist $90.00
+16 Dentists/dental hygienists 5-31.1-21(c) Inactive status: dentist $220.00
+17 Dentists/dental hygienists 5-31.1-21(c) Inactive status: hygienist $40.00
+18 Dentists/dental hygienists 5-31.1-22 Limited registration $65.00
+19 Dentists/dental hygienists 5-31.1-23[c] Limited reg: Academic faculty $965.00
+20 Dentists/dental hygienists 5-31.1-23[c] Limited reg:
+21 Academic faculty renewal $500.00
+22 Electrolysis 5-32-3 Application fee $25.00
+23 Electrolysis 5-32-6(b) Renewal fee $25.00
+24 Electrolysis 5-32-7 Reciprocal license fee $25.00
+25 Electrolysis 5-32-17 Teaching license $25.00
+26 Funeral directors/embalmers 5-33.2-12 Funeral establishment license $120.00
+27 Funeral services establishments
+28 Funeral directors/embalmers 5-33.2-15 Renewal: funeral/director - $90.00
+29 Funeral services establishments embalmer $30.00
+30 Funeral directors/embalmers 5-33.2-12 Funeral branch ofc license $90.00
+31 Funeral directors/embalmers 5-33.2-13.1 Crematories Disposition facilities:
+32 application fee $120.00
+33 Funeral services establishments
+34 Funeral directors/embalmers 5-33.2-15 Renewal: funeral/director
+LC003543 - Page 10 of 20
+
+1 Funeral Svcs establishments establishment $120.00
+2 Funeral directors/embalmers 5-33.2-15 Additional branch office
+3 Funeral services Establishments licenses $120.00
+4 Funeral directors/embalmers 5-33.2-15 Crematory Disposition facility renewal
+5 fee
+6 Funeral svcs establishments $120.00
+7 Funeral directors/embalmers 5-33.2-15 Late renewal fee
+8 Funeral svcs establishments (All license types) $25.00
+9 Funeral directors/embalmers 5-33.2-16(a) Intern registration fee
+10 Funeral Services establishments- $25.00
+11 Nurses 5-34-12 RN Application fee $135.00
+12 Nurses 5-34-16 LPN Application fee $45.00
+13 Nurses 5-34-19 Renewal fee: RN $135.00
+14 Nurses 5-34-19 Renewal fee: LPN $45.00
+15 Nurses 5-34-37 RNP application fee $80.00
+16 Nurses 5-34-37 RNP renewal fee $80.00
+17 Nurses 5-34-37 RNP prescriptive privileges $65.00
+18 Nurses 5-34-40.3 Clin nurse spec application $80.00
+19 Nurses 5-34-40.3 Clin nurse spec renewal $80.00
+20 Nurses 5-34-40.3 Clin nurse spec Rx privilege $65.00
+21 Nurse anesthetists 5-34.2-4(a) CRNA application fee $80.00
+22 Nurse anesthetists 5-34.2-4(b) CRNA renewal fee $80.00
+23 Optometrists 5-35.1-4 Application fee $280.00
+24 Optometrists 5-35.1-7 Renewal fee $280.00
+25 Optometrists 5-35.1-7 Late fee $90.00
+26 Optometrists 5-35.1-7 Reactivation of license fee $65.00
+27 Optometrists 5-35.1-19(b) Violations of section $650.00
+28 Optometrists 5-35.1-20 Violations of chapter $260.00
+29 Opticians 5-35.2-3 Application fee $30.00
+30 Physicians 5-37-2 Application fee $1,090.00
+31 Physicians 5-37-2 Re-examination fee $1,090.00
+32 Physicians 5-37-10(b) Late renewal fee $170.00
+33 Physicians 5-37-16 Limited registration fee $65.00
+34 Physicians 5-37-16.1 Ltd reg: academic faculty $600.00
+LC003543 - Page 11 of 20
+
+1 Physicians 5-37-16.1 Ltd reg: academic
+2 Faculty renewal $170.00
+3 Acupuncture 5-37.2-10 Application fee $310.00
+4 Acupuncture 5-37.2-13(4) Acupuncture assistant $310.00
+5 Licensure fee $170.00
+6 Social workers 5-39.1-9 Application fee $70.00
+7 Social workers 5-39.1-9 Renewal fee $70.00
+8 Physical therapists 5-40-8 Application fee $155.00
+9 Physical therapists 5-40-8.1 Application: physical $50.00
+10 therapy assistants
+11 Physical therapists 5-40-10(a) Renewal fee:
+12 Physical therapists $155.00
+13 Physical therapists 5-40-10(a) Renewal fee: Physical
+14 therapy assistants $50.00
+15 Physical therapists 5-40-10[c] Late renewals $50.00
+16 Occupational therapists 5-40.1-12(2) Renewal fee $140.00
+17 Occupational therapists 5-40.1-12(5) Late renewal fee $50.00
+18 Occupational therapists 5-40.1-12(b) Reactivation fee $140.00
+19 Occupational therapists 5-40.1-13 Application fee $140.00
+20 Psychologists 5-44-12 Application fee $230.00
+21 Psychologists 5-44-13 Temporary permit $120.00
+22 Psychologists 5-44-15[c] Renewal fee $230.00
+23 Psychologists 5-44-15(e) Late renewal fee $50.00
+24 Nursing home administrators 5-45-10 Renewal fee $160.00
+25 Speech pathologist/audiologists 5-48-1(14) Speech lang support
+26 personnel: late filing $90.00
+27 Speech pathologist/audiologists 5-48-9(a) Application fee: Audiologist $65.00
+28 Speech pathologist/audiologists 5-48-9(a) Application fee:
+29 Speech Pathologist $145.00
+30 Speech pathologist/audiologists 5-48-9(a) Renewal fee: Audiologist $65.00
+31 Speech pathologist/audiologists 5-48-9(a) Renewal fee: Speech $145.00
+32 Pathologist
+33 Speech pathologist/ audiologists 5-48-9(a) Provisional license:
+34 renewal fee $65.00
+LC003543 - Page 12 of 20
+
+1 Speech pathologist/au- 5-48-9(b) Late renewal fee $50.00
+2 diologists
+3 Speech pathologist/audiologists 5-48-9(d)(1) Reinstatement fee:
+4 audiologist $65.00
+5 Speech pathologist/audiologists 5-48-9(d)(1) Reinstatement fee:
+6 audiologist $65.00
+7 speech pathologists $145.00
+8 personnel: late filing $65.00
+9 Hearing aid dealers/fitters 5-49-6(a) License endorsement
+10 Examination fee $25.00
+11 Hearing aid dealers/fitters 5-49-8(b) Temporary permit fee $25.00
+12 Hearing aid dealers/fitters 5-49-8(d) Temporary permit $35.00
+13 renewal fee
+14 Hearing aid dealers/fitters 5-49-11(a)(1) License fee $25.00
+15 Hearing aid dealers/fitters 5-49-11(b) License renewal fee $25.00
+16 Hearing aid dealers/fitters 5-49-11[c] License renewal late fee $25.00
+17 Physician assistants 5-54-9(4) Application fee $110.00
+18 Physician assistants 5-54-11(b) Renewal fee $110.00
+19 Orthotics/prosthetic practice 5-59.1-5 Application fee $120.00
+20 Orthotics/prosthetic practice 5-59.1-12 Renewal fee $120.00
+21 Athletic trainers 5-60-11 Application fee $60.00
+22 Athletic trainers 5-60-11 Renewal fee $60.00
+23 Athletic trainers 5-60-11 Late renewal fee $25.00
+24 Mental health counselors/ 5-63.2-16 Application fee: Marriage/
+25 Marriage and family Family therapist $130.00
+26 therapists
+27 Mental health counselors/ 5-63.2-16 Application fee: Mental
+28 Marriage and family therapists Health counselors $70.00
+29 Mental health counselors/ 5-63.2-16 Reexamination fee:
+30 Marriage and family therapists Marriage/family therapist $130.00
+31 Mental health counselors/ 5-63.2-16 Reexamination fee:
+32 Marriage and family therapists Mental health counselors $70.00
+33 Mental health counselors/ 5-63.2-17(a) Renewal fee: Marriage/
+34 Marriage and Family therapists Family therapist $130.00
+LC003543 - Page 13 of 20
+
+1 Mental health counselors/ 5-63.2-17(a) Renewal fee:
+2 Marriage and Family therapist Mental health counselor $50.00
+3 Mental health counselors/ 5-63.2-17(b) Late renewal fee:
+4 Marriage and Family therapist Marriage and family $90.00
+5 therapist
+6 Dieticians/nutritionists 5-64-6(b) Application fee $75.00
+7 Dieticians/nutritionists 5-64-7 Graduate status:
+8 Application fee: $75.00
+9 Dieticians/nutritionists 5-64-8 Renewal fee $75.00
+10 Dieticians/nutritionists 5-64-8 Reinstatement fee $75.00
+11 Radiologic technologists 5-68.1-10 Application fee maximum $190.00
+12 Licensed chemical de- 5-69-9 Application fee $75.00
+13 pendency professionals
+14 Licensed chemical de- 5-69-9 Renewal fee $75.00
+15 pendency professionals
+16 Licensed chemical 5-69-9 Application fee $75.00
+17 Licensed chemical 5-69-9 Application fee $75.00
+18 dependency clinical supervisor
+19 Licensed chemical 5-69-9 Renewal fee $75.00
+20 dependency clinical supervisor
+21 Deaf interpreters 5-71-8(a)(3) License fee maximum $25.00
+22 Deaf interpreters 5-71-8(a)(3) License renewal fee $25.00
+23 Milk producers 21-2-7(g)(1) In-state milk processor $160.00
+24 Milk producers 21-2-7(g)(2) Out-of-state milk processor - $160.00
+25 Milk producers 21-2-7(g)(3) Milk distributors $160.00
+26 Frozen desserts 21-9-3(1) In-state wholesale $550.00
+27 Frozen desserts 21-9-3(2) Out-of-state wholesale $160.00
+28 Frozen desserts 21-9-3(3) Retail frozen dess pro- $160.00
+29 cessors
+30 Meats 21-11-4 Wholesale $160.00
+31 Meats 21-11-4 Retail $40.00
+32 Shellfish packing houses 21-14-2 License fee:
+33 Shipper/reshipper $320.00
+34 Shellfish packing houses 21-14-2 License fee:
+LC003543 - Page 14 of 20
+
+1 Shucker packer/repacker $390.00
+2 Non-alcoholic bottled 21-23-2 Bottler permit
+3 beverages, drinks & juices $550.00
+4 Non-alcoholic bottled 21-23-2 Bottle apple cider fee
+5 beverages, drinks and juices $60.00
+6 Farm home food manu- 21-27-6.1(4) Registration fee $65.00
+7 facturers
+8 Cottage Food Manu- 21-27-6.2(4) Registration fee $65.00
+9 facturers
+10 Food businesses 21-27-10(e)(1) Food processors wholesale $300.00
+11 Food businesses 21-27-10(e)(2) Food processors retail $120.00
+12 Food businesses 21-27-10(e)(3) Food service establishments
+13 50 seats or less $160.00
+14 Food businesses 21-27-10(e)(3) Food service establishments
+15 more than 50 seats $240.00
+16 Food businesses 21-27-10(e)(3) Mobile food service units $100.00
+17 Food businesses 21-27-10(e)(3) Industrial caterer or
+18 food vending
+19 Machine commissary $280.00
+20 Food businesses 21-27-10(e)(3) Cultural heritage
+21 educational Facility $80.00
+22 Food businesses 21-27-10(e)(4) Vending Machine
+23 Location3 units or less $50.00
+24 Food businesses 21-27-10(e)(4) Vending Machine
+25 Location 4-10 units $100.00
+26 Food businesses 21-27-10(e)(4) Vending Machine
+27 Location = 11 units $120.00
+28 Food businesses 21-27-10(e)(5) Retail Mkt
+29 1-2 cash registers $120.00
+30 Food businesses 21-27-10(e)(5) Retail Market
+31 3-5 cash registers $240.00
+32 Food businesses 21-27-10(e)(5) Retail Market = 6
+33 Cash registers $510.00
+34 Food businesses 21-27-10(e)(6) Retail food peddler $100.00
+LC003543 - Page 15 of 20
+
+1 Food businesses 21-27-10(e)(7) Food warehouses $190.00
+2 Food businesses 21-27-11.2 Certified food safety mgr $50.00
+3 License verification fee 23-1-16.1 All license types $50.00
+4 Tattoo and body piercing 23-1-39 Annual registration
+5 fee: Person $90.00
+6 Tattoo and body piercing 23-1-39 Annual registration fee:
+7 establishment $90.00
+8 Vital records 23-3-25(a)(1) Certificate of birth, fetal
+9 death, death, marriage, birth,
+10 or Certification that such
+11 record Cannot be found $20.00
+12 Vital records 23-3-25(a)(1) Each duplicate of
+13 certificate of birth,
+14 fetal death, death, marriage,
+15 birth, or certification that
+16 such record cannot be found $15.00
+17 Vital records 23-3-25(a)(2) Each additional calendar
+18 year Search, if within 3
+19 months of original
+20 search and if receipt of
+21 original search presented $2.00
+22 Vital records 23-3-25(a)(3) Expedited service $7.00
+23 Vital records 23-3-25(a)(4) Adoptions, legitimations,
+24 or Paternity determinations $15.00
+25 Vital records 23-3-25(a)(5) Authorized corrections,
+26 Alterations, and additions $10.00
+27 Vital records 23-3-25(a)(6) Filing of delayed record
+28 and Examination of docu-
+29 mentary Proof $20.00
+30 Vital records 23-3-25(a)(6) Issuance of certified copy
+31 of a delayed record $20.00
+32 Medical Examiner 23-4-13 Autopsy reports $40.00
+33 Medical Examiner 23-4-13 Cremation, alkaline hydrolysis and
+34 natural organic reduction disposition
+LC003543 - Page 16 of 20
+
+1 certificates and statistics $30.00
+2 Medical Examiner 23-4-13 Testimony in civil suits:
+3 Minimum/day $650.00
+4 Medical Examiner 23-4-13 Testimony in civil suits:
+5 Maximum/day $3,250.00
+6 Emergency medical 23-4.1-10[c] Annual fee: ambulance
+7 technicians service maximum $540.00
+8 Emergency medical 23-4.1-10[c] Annual fee: vehicle
+9 technicians license maximum $275.00
+10 Emergency medical 23-4.1-10[c] Triennial fee: EMT
+11 technicians license maximum $120.00
+12 Emergency medical 23-4.1-10(c)(2) Exam fee maximum: $120.00
+13 technicians EMT
+14 Emergency medical 23-4.1-10(c)(2) Vehicle inspection
+15 technicians Maximum $190.00
+16 Clinical laboratories 23-16.2-4(a) Clinical laboratory
+17 license
+18 per specialty $650.00
+19 Clinical laboratories 23-16.2-4(a) Laboratory station $650.00
+20 license
+21 Clinical laboratories 23-16.2-4(b) Permit fee $70.00
+22 Health care facilities 23-17-38 Hospital: base fee $16,900.00
+23 annual
+24 Health care facilities 23-17-38 Hospital: annual per $120.00
+25 bed fee
+26 Health care facilities 23-17-38 ESRD: annual fee $3,900.00
+27 Health care facilities 23-17-38 Home nursing-care/
+28 home-
+29 care providers $650.00
+30 Health care facilities 23-17-38 OACF: annual fee $650.00
+31 Assisted living residences/ 23-17.4-15.2(d) License application fee: $220.00
+32 administrators
+33 Assisted living residences/ 23-17.4-15.2(d) License renewal fee: $220.00
+34 administrators
+LC003543 - Page 17 of 20
+
+1 Assisted living residences 23-17.4-31 Annual facility fee: base $330.00
+2 Assisted living residences 23-17.4-31 Annual facility per bed $70.00
+3 Nursing assistant registration 23-17.9-3 Application: competency
+4 evaluation training
+5 program maximum $325.00
+6 Nursing assistant registration 23-17.9-5 Application fee $35.00
+7 Nursing assistant registration 23-17.9-5 Exam fee: skills proficiency $170.00
+8 Nursing assistant registration 23-17.9-6 Registration fee $35.00
+9 Nursing assistant registration 23-17.9-7 Renewal fee $35.00
+10 Sanitarians 23-19.3-5(a) Registration fee $25.00
+11 Sanitarians 23-19.3-5(b) Registration renewal $25.00
+12 Massage therapy 23-20.8-3(e) Massage therapist appl fee $65.00
+13 Massage therapy 23-20.8-3(e) Massage therapist $65.00
+14 renewal fee
+15 Recreational facilities 23-21-2 Application fee $160.00
+16 Swimming pools 23-22-6 Application license:
+17 first pool $250.00
+18 Swimming pools 23-22-6 Additional pool
+19 fee at same location $75.00
+20 Swimming pools 23-22-6 Seasonal application
+21 license: first pool $150.00
+22 Swimming pools 23-22-6 Seasonal additional pool
+23 fee at same location $75.00
+24 Swimming pools 23-22-6 Year-round license
+25 for non-profit $25.00
+26 Swimming pools 23-22-10 Duplicate license $2.00
+27 Swimming pools 23-22-12 Penalty for violations $50.00
+28 Respiratory care practitioners - 23-39-11 Application fee $60.00
+29 Respiratory care practitioners 23-39-11 Renewal fee $60.00
+30 SECTION 3. Section 23-3-18 of the General Laws in Chapter 23-3 entitled "Vital Records"
+31 is hereby amended to read as follows:
+32 23-3-18. Permits.
+33 (a) The funeral director, his or her duly authorized agent, or another person acting as a duly
+34 authorized agent, who first assumes custody of a dead body or fetus shall prepare a burial-transit
+LC003543 - Page 18 of 20
+
+1 permit prior to final disposition or removal from the state of the body or fetus and within seven (7)
+2 calendar days after death.
+3 (b) The burial-transit permit shall be signed by the funeral director and by the certifying
+4 physician as designated in § 23-3-16(c).
+5 (c) A burial-transit permit issued under the law of another state which accompanies a dead
+6 body or fetus brought into this state shall be authority for final disposition of the body or fetus in
+7 this state.
+8 (d) A permit for disinterment and re-interment shall be required prior to disinterment of a
+9 dead body or fetus except as authorized by regulation or otherwise provided by law. The permit
+10 shall be issued by the local registrar of vital records at the place of disinterment to a licensed funeral
+11 director, embalmer, his or her duly authorized agent, or another person acting as a duly authorized
+12 agent, upon proper application.
+13 (e)(1) The body of a deceased person shall not be cremated within An operator of a
+14 disposition facility shall not cremate or process by means of alkaline hydrolysis or natural organic
+15 reduction or allow the cremation or processing by means of alkaline hydrolysis or natural organic
+16 reduction of a dead human body until the passage of at least twenty-four (24) hours after his or her
+17 death unless he or she dies of a contagious or infectious disease. The body shall not be received or
+18 cremated or processed by means of alkaline hydrolysis or natural organic reduction by any
+19 corporation authorized to cremate or conduct the process of alkaline hydrolysis or natural organic
+20 reduction of the bodies of the dead until its officers have received the burial permit required by law
+21 before burial, and a cremation certificate, alkaline hydrolysis or natural organic reduction certificate
+22 issued by the Rhode Island office of state medical examiners. A cremation certificate, alkaline
+23 hydrolysis or natural organic reduction certificate shall be issued only if the office of state medical
+24 examiners determines that the cause and manner of death is such that no further examination or
+25 judicial inquiry concerning the cause and manner of death is necessary.
+26 (2) The cremation certificate, alkaline hydrolysis or natural organic reduction certificate
+27 issued to the funeral director by the medical examiner, in duplicate, shall accompany the body to
+28 the crematory disposition facility. The crematory disposition facility shall retain the duplicate copy
+29 and mail the original copy to the state division of vital records.
+30 SECTION 4. This act shall take effect on January 30, 2028.
+========
+LC003543
+========
+LC003543 - Page 19 of 20
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- FUNERAL DIRECTOR/EMBALMER
+AND FUNERAL SERVICE ESTABLISHMENTS
+***
+1 This act would provide for the operation and duties of natural organic reduction for the
+2 contained, accelerated conversion of human remains to soil as well as alkaline hydrolysis. A
+3 disposition facility would be used for either cremation, alkaline hydrolysis or natural organic
+4 reduction.
+5 This act would take effect on January 30, 2028.
+========
+LC003543
+========
+LC003543 - Page 20 of 20
