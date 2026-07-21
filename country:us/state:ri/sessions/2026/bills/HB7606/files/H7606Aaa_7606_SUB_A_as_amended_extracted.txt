@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - 7606  SUB A as amended
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7606 SUBSTITUTE A AS AMENDED
+========
+LC005146/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+LIBRARY EBOOK CONTRACTS
+Introduced By: Representatives Carson, Morales, Cortvriend, Fogarty, Cotter, Donovan,
+and Spears
+Date Introduced: February 11, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 13.4
+4 LIBRARY EBOOK CONTRACTS
+5 6-13.4-1. Definitions.
+6 As used in this chapter:
+7 (1) “Aggregator” means one whose business is the licensing of access to electronic literary
+8 material collections that include electronic literary material from multiple publishers;
+9 (2) “Borrower” means a person or organization, including another library, to whom the
+10 library loans electronic literary materials of any sort;
+11 (3) “Digital audiobook” means a published work that is in the form of a voice recording
+12 (narrated) and is released as a digital audio file;
+13 (4) “Electronic book” means a published work that is in written form and is released as a
+14 digital text file;
+15 (5) “Electronic literary materials” means digital audiobooks and/or electronic books;
+16 (6) “Libraries” or “Library” means any library, library system, or library consortium that
+17 serves the public or receives public funds from the State of Rhode Island or any political subdivision
+18 thereof. This includes, but is not limited to, public libraries; public elementary and secondary school
+
+1 libraries; tribal libraries; publicly supported academic and research libraries; special libraries that
+2 serve the public; library consortia administering public funds; talking book libraries; and archives.
+3 (7) “Literary monograph” means a literary work that is published in one volume or a finite
+4 number of volumes;
+5 (8) “Loan” means to create and transmit to a borrower a copy of electronic literary material
+6 and delete it at the end of the loan period;
+7 (9) “Loan period” means the time between the transmission of electronic literary material
+8 to a borrower and the copies’ deletion, as determined by any individual library.
+9 (10) “Portable electronic device” means any self-contained electronic device for personal
+10 use for communicating, reading, viewing, listening, playing video games, or computing, including
+11 a mobile telephone, tablet computer, electronic book reader, and other similar devices;
+12 (11) “Publisher" means one whose business is the manufacture, promulgation, license,
+13 and/or sale of books, audiobooks, journals, magazines, newspapers, or other literary productions
+14 including those in the form of electronic literary materials. For the purposes of this chapter the term
+15 “publisher” shall also include aggregators who enter into contracts with libraries for the purposes
+16 of providing materials for purchase or license from the publishers;
+17 (12) “Reasonable terms” means purchase or licensing specifications listed in § 6-13.4-2(b)
+18 that consider a publisher's business model as well as a library's need to continue its mission to
+19 provide access to materials and the efficient use of funds in providing library services.
+20 (13) “Technological protection measures” means any technology that ensures the secure
+21 loaning and/or circulation by a library of electronic literary materials;
+22 (14) “Virtually” means transmitted to receiving parties via the Internet in such a way that
+23 the transmission appears in front of the receiving parties on a computer, tablet, smart phone, or
+24 electronic device.
+25 6-13.4-2. Contracts between libraries and publishers.
+26 (a) Any contract between a publisher or aggregator and a library to license electronic
+27 literary materials to the public in this state shall be governed by Rhode Island law.
+28 (b) No contract or license agreement between any publisher and any library shall:
+29 (1) Preclude, limit, or restrict the library from performing customary operational functions,
+30 including any provision that:
+31 (i) Preclude, limit, or restrict the library from licensing electronic literary materials from
+32 publishers;
+33 (ii) Preclude, limit, or restrict the library’s ability to employ technological protection
+34 measures as is necessary to loan electronic literary materials;
+LC005146/SUB A - Page 2 of 5
+
+1 (iii) Preclude, limit, or restrict the library's right to make non-public preservation copies of
+2 the electronic literary materials;
+3 (iv) Preclude, limit, or restrict the library’s right to loan electronic literary materials via
+4 interlibrary loan systems; or
+5 (2) Preclude, limit, or restrict the library from performing customary lending functions,
+6 including any provision that:
+7 (i) Preclude, limit, or restrict the library from loaning electronic literary materials to
+8 borrowers;
+9 (ii) Restrict the library’s right to determine loan periods for licensed electronic literary
+10 materials;
+11 (iii) Require the library to acquire a license for any electronic literary material at a price
+12 greater than that charged to the public for the same item;
+13 (iv) Restrict the number of licenses for electronic literary materials that the library may
+14 acquire after the same item is made available to the public;
+15 (v) Require the library to pay a cost-per-circulation fee to loan electronic literary materials,
+16 unless substantially lower in aggregate than the cost of purchasing the item outright;
+17 (vi) Restrict the total number of times a library may loan any licensed electronic literary
+18 materials over the course of any license agreement, or restricts the duration of any license
+19 agreement; unless the publisher also offers a license agreement to libraries for perpetual public use
+20 without such restrictions, at a price which is considered reasonable and equitable as agreed to by
+21 both parties; or
+22 (vii) Restrict or limits the library’s ability to virtually recite text and display artwork of
+23 any materials to library patrons such that the materials would not have the same educational utility
+24 as when recited or displayed at a library facility.
+25 (3) Restrict the library from disclosing any terms of its license agreements to other
+26 libraries.
+27 (4) Require, coerce, or enable the library to violate the law protecting the confidentiality
+28 of a patron’s library records found in § 11-18-32.
+29 6-13.4-3. Remedies.
+30 (a) Unfair and deceptive acts or practices shall include:
+31 (1) Offers to license electronic literary materials to a library that include a prohibited
+32 provision set forth in § 6-13.4-2(b) constitute unfair methods of competition and unfair or deceptive
+33 acts or practices as defined in § 6-13.1-1.
+34 (2) Any remedy provided pursuant to §§ 6-13.1-8 and 6-13.1-14 shall be available for the
+LC005146/SUB A - Page 3 of 5
+
+1 enforcement of this chapter.
+2 (3) Actions for relief pursuant to this chapter may be brought by libraries, library officers,
+3 or borrowers, or, pursuant to § 6-13-6, by the attorney general. Enforcement of the provisions of
+4 this chapter shall be delayed until the attorney general determines and publishes notice that at least
+5 four (4) other states have enacted laws that establish enforceable limitations on contract terms for
+6 the licensing of electronic books or digital audiobooks to libraries that are substantially similar in
+7 purpose to this chapter, and that those states collectively represent a combined population of at least
+8 ten million (10,000,000) persons, as determined by the most recent United States decennial census.
+9 (4) Parties shall be enjoined from enforcing license agreements that include a prohibited
+10 provision set forth in § 6-13.4-2(b).
+11 (b) Contracts to license electronic literary materials to a library that include prohibited
+12 provisions set forth in § 6-13.4-2(b) are unconscionable within the meaning of § 6A-2-302 in
+13 violation of Rhode Island law and public policy and are deemed unenforceable. Any waiver of the
+14 provisions of this title is contrary to public policy and shall be deemed unenforceable and void.
+15 6-13.4-4. Severability.
+16 The provisions of this chapter are severable. If any provision of this chapter or its
+17 application is held invalid, that invalidity shall not affect other provisions or applications that can
+18 be given effect without the invalid provision or application.
+19 6-13.4-5. Existing contracts.
+20 Nothing in this chapter affects existing contracts that are currently in force providing
+21 libraries with electronic literary products from vendors and aggregators.
+22 SECTION 2. This act shall take effect upon the publication of notice by the attorney general
+23 that at least four (4) other states have enacted laws that establish enforceable limitations on contract
+24 terms for the licensing of electronic books or digital audiobooks to libraries that are substantially
+25 similar in purpose to this act, and that those states collectively represent a combined population of
+26 at least ten million (10,000,000) persons, as determined by the most recent United States decennial
+27 census.
+========
+LC005146/SUB A
+========
+LC005146/SUB A - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+LIBRARY EBOOK CONTRACTS
+***
+1 This act would establish enforcement limitations on contract terms for the licensing of
+2 electronic books or digital audiobooks to libraries to preclude the library from being subject to
+3 unfair sales practices. This act would not be enforceable until the attorney general determines and
+4 publishes notices that at least four (4) other states have enacted laws that establish enforcement
+5 limitations on contract terms for the licensing of electronic books or digital audiobooks to libraries.
+6 This act shall take effect upon the publication of notice by the attorney general that at least
+7 four (4) other states have enacted laws that establish enforceable limitations on contract terms for
+8 the licensing of electronic books or digital audiobooks to libraries that are substantially similar in
+9 purpose to this act, and that those states collectively represent a combined population of at least ten
+10 million (10,000,000) persons, as determined by the most recent United States decennial census.
+========
+LC005146/SUB A
+========
+LC005146/SUB A - Page 5 of 5

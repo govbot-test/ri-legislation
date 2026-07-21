@@ -1,0 +1,289 @@
+Title: 
+Official Title: 
+Source: versions - 2146
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2146
+========
+LC003984
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- PEER-TO-PEER CAR SHARING PROGRAM ACT
+Introduced By: Senators Gallo, Tikoian, Ciccone, Gu, DiPalma, Burke, LaMountain, and
+Murray
+Date Introduced: January 16, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 8.4
+4 PEER-TO-PEER- CAR SHARING PROGRAM ACT
+5 27-8.4-1. Short title.
+6 This act shall be known and may be cited as the "Peer-to-Peer Car Sharing Program Act".
+7 27-8.4-2. Applicability.
+8 The provisions of this chapter apply notwithstanding any law, rule, or regulation to the
+9 contrary. Where any provision of this chapter conflicts with any other provision of law, the
+10 provisions of this chapter shall supersede any such conflicting or contradictory provision.
+11 27-8.4-3. Definitions.
+12 Except as otherwise provided, the following definitions apply throughout this chapter:
+13 (1) "Car sharing delivery period" means the period of time during which a shared vehicle
+14 is being delivered to the location of the car sharing start time, if applicable, as documented by the
+15 governing car sharing program agreement.
+16 (2) "Car sharing period" means the period of time that commences with the car sharing
+17 delivery period or, if there is no car sharing delivery period, that commences with the car sharing
+18 start time and in either case ends at the car sharing termination time.
+19 (3) "Car sharing program agreement" means the terms and conditions applicable to a shared
+
+1 vehicle owner and a shared vehicle driver that govern the use of a shared vehicle through a peer-
+2 to-peer car sharing program. "Car sharing program agreement" does not mean a rental agreement
+3 or rental contract, issued by a rental company as defined in § 31-34.1-1.
+4 (4) "Car sharing start time" means the time when the shared vehicle becomes subject to the
+5 control of the shared vehicle driver at or after the time the reservation of a shared vehicle is
+6 scheduled to begin as documented in the records of a peer-to-peer car sharing program.
+7 (5) "Car sharing termination time" means the earliest of the following events:
+8 (i) The expiration of the agreed upon period of time established for the use of a shared
+9 vehicle according to the terms of the car sharing program agreement if the shared vehicle is
+10 delivered to the location agreed upon in the car sharing program agreement;
+11 (ii) When the shared vehicle is returned to a location as alternatively agreed upon by the
+12 shared vehicle owner and shared vehicle driver as communicated through a peer-to-peer car sharing
+13 program, which alternatively agreed upon location shall be incorporated into the car sharing
+14 program agreement; or
+15 (iii) When the shared vehicle owner or the shared vehicle owner's authorized designee,
+16 takes possession and control of the shared vehicle.
+17 (6) "Peer-to-peer car sharing" means the authorized use of a vehicle by an individual other
+18 than the vehicle's owner through a peer-to-peer car sharing program. "Peer-to-peer car sharing"
+19 does not mean rental activity or renting motor vehicles as described in chapter 34.1 of title 31.
+20 (7) "Peer-to-peer car sharing program" means a business platform that connects vehicle
+21 owners with drivers to enable the sharing of vehicles for financial consideration. "Peer-to-peer car
+22 sharing program" does not mean a rental company as defined in § 31-34.1-1.
+23 (8) "Shared vehicle" means a vehicle that is available for sharing through a peer-to-peer
+24 car sharing program. "Shared vehicle" does not mean a rental motor vehicle as described in § 31-
+25 34.1-1.
+26 (9) "Shared vehicle driver" means an individual who has been authorized to drive the
+27 shared vehicle by the shared vehicle owner under a car sharing program agreement.
+28 (10) "Shared vehicle owner" means the registered owner, or a person or entity designated
+29 by the registered owner, of a vehicle made available for sharing to shared vehicle drivers through
+30 a peer-to-peer car sharing program. "Shared vehicle owner" does not mean a rental company as
+31 defined in § 31-34.1-1.
+32 27-8.4-4. Insurance coverage during car sharing period.
+33 (a) A peer-to-peer car sharing program shall assume liability, except as provided in
+34 subsection (b) of this section, of a shared vehicle owner for bodily injury or property damage to
+LC003984 - Page 2 of 9
+
+1 third parties or uninsured and underinsured motorist or personal injury protection losses during the
+2 car sharing period in an amount stated in the car sharing program agreement which amount may
+3 not be less than those set forth in § 31-32-2.
+4 (b) Notwithstanding the definition of "car sharing termination time" as set forth in § 27-
+5 8.4-3, the assumption of liability under subsection (a) of this section does not apply to any shared
+6 vehicle owner when:
+7 (1) A shared vehicle owner makes an intentional or fraudulent material misrepresentation
+8 or omission to the peer-to-peer car sharing program before the car sharing period in which the loss
+9 occurred; or
+10 (2) Acting in concert with a shared vehicle driver who fails to return the shared vehicle
+11 pursuant to the terms of a car sharing program agreement.
+12 (c) Notwithstanding the definition of "car sharing termination time" as set forth in § 27-
+13 8.4-3, the assumption of liability under subsection (a) of this section would apply to bodily injury,
+14 property damage, uninsured and underinsured motorist or personal injury protection losses by
+15 damaged third parties required by § 31-32-2.
+16 (d) A peer-to-peer car sharing program shall ensure that, during each car sharing period,
+17 the shared vehicle owner and the shared vehicle driver are insured under a motor vehicle liability
+18 insurance policy that provides insurance coverage in amounts no less than the minimum amounts
+19 set forth in § 31-32-2, and:
+20 (1) Recognizes that the shared vehicle insured under the policy is made available and used
+21 through a peer-to-peer car sharing program; or
+22 (2) Does not exclude use of a shared vehicle by a shared vehicle driver.
+23 (e) The insurance described under subsection (d) of this section may be satisfied by motor
+24 vehicle liability insurance maintained by:
+25 (1) A shared vehicle owner;
+26 (2) A shared vehicle driver;
+27 (3) A peer-to-peer car sharing program; or
+28 (4) Some combination of a shared vehicle owner, a shared vehicle driver, and a peer-to-
+29 peer car sharing program.
+30 (f) The insurance described in subsection (e) of this section that is satisfying the insurance
+31 requirement of subsection (d) of this section shall be primary during each car sharing period and in
+32 the event that a claim occurs in another state with minimum financial responsibility limits higher
+33 than the limits contained in § 31-32-2, during the car sharing period, the coverage maintained under
+34 subsection (e) of this section shall satisfy the difference in minimum coverage amounts, up to the
+LC003984 - Page 3 of 9
+
+1 applicable policy limits.
+2 (g) The insurer, insurers, or peer-to-peer car sharing program providing coverage under
+3 subsection (d) or (e) of this section shall assume primary liability for a claim when:
+4 (1) A dispute exists as to who was in control of the shared motor vehicle at the time of the
+5 loss and the peer-to-peer car sharing program does not have available, did not retain, or fails to
+6 provide the information required by § 27-8.4-7; or
+7 (2) A dispute exists as to whether the shared vehicle was returned to the alternatively agreed
+8 upon location as required under § 27-8.4-3(5).
+9 (h) If insurance maintained by a shared vehicle owner or shared vehicle driver in
+10 accordance with subsection (e) of this section has lapsed or does not provide the required coverage,
+11 insurance maintained by a peer-to-peer car sharing program shall provide the coverage required by
+12 subsection (d) of this section beginning with the first dollar of a claim and have the duty to defend
+13 such claim except under circumstances as set forth in subsection (b) of this section.
+14 (i) Coverage under an automobile insurance policy maintained by the peer-to-peer car
+15 sharing program shall not be dependent on another automobile insurer first denying a claim nor
+16 shall another automobile insurance policy be required to first deny a claim.
+17 (j) Nothing in this chapter:
+18 (1) Limits the liability of the peer-to-peer car sharing program for any act or omission of
+19 the peer-to-peer car sharing program itself that results in injury to any person as a result of the use
+20 of a shared vehicle through a peer-to-peer car sharing program; or
+21 (2) Limits the ability of the peer-to-peer car sharing program to, by contract, seek
+22 indemnification from the shared vehicle owner or the shared vehicle driver for economic loss
+23 sustained by the peer-to-peer car sharing program resulting from a breach of the terms and
+24 conditions of the car sharing program agreement.
+25 27-8.4-5. Notification of implications of lien.
+26 At the time when a vehicle owner registers as a shared vehicle owner on a peer-to-peer car
+27 sharing program and prior to the time when the shared vehicle owner makes a shared vehicle
+28 available for car sharing on the peer-to-peer car sharing program, the peer-to-peer car sharing
+29 program shall notify the shared vehicle owner that, if the shared vehicle has a lien against it, the
+30 use of the shared vehicle through a peer-to-peer car sharing program, including use without physical
+31 damage coverage, may violate the terms of the contract with the lienholder.
+32 27-8.4-6. Exclusions in motor vehicle liability insurance policies.
+33 (a) An authorized insurer that writes motor vehicle liability insurance in this state may
+34 exclude any and all coverage and the duty to defend or indemnify for any claim afforded under a
+LC003984 - Page 4 of 9
+
+1 shared vehicle owner's motor vehicle liability insurance policy, including, but not limited to:
+2 (1) Liability coverage for bodily injury and property damage;
+3 (2) Uninsured and underinsured motorist coverage;
+4 (3) Medical payments coverage;
+5 (4) Comprehensive physical damage coverage; and
+6 (5) Collision physical damage coverage.
+7 (b) Nothing in this chapter invalidates or limits an exclusion contained in a motor vehicle
+8 liability insurance policy, including any insurance policy in use or approved for use that excludes
+9 coverage for motor vehicles made available for rent, sharing, or hire or for any business use.
+10 (c) Nothing in this chapter invalidates, limits, or restricts an insurer's ability under existing
+11 law to underwrite any insurance policy. Nothing in this chapter invalidates, limits, or restricts an
+12 insurer's ability under existing law to cancel and non-renew policies.
+13 27-8.4-7. Recordkeeping -- Use of vehicle in car sharing.
+14 A peer-to-peer car sharing program shall collect and verify records pertaining to the use of
+15 a vehicle, including, but not limited to, times used, car sharing period pick up and drop off locations,
+16 fees paid by the shared vehicle driver, and revenues received by the shared vehicle owner and
+17 provide that information upon request to the shared vehicle owner, the shared vehicle owner's
+18 insurer, or the shared vehicle driver's insurer to facilitate a claim coverage investigation, settlement,
+19 negotiation, or litigation. The peer-to-peer car sharing program shall retain the records for a time
+20 period not less than four (4) years.
+21 27-8.4-8. Exemptions.
+22 (a) Vicarious liability. A peer-to-peer car sharing program and a shared vehicle owner shall
+23 be exempt from vicarious liability consistent with 49 U.S.C. § 30106 and under any state or local
+24 law that imposes liability solely based on vehicle ownership.
+25 (b) Rental vehicle surcharge. The receipts of the peer-to-peer car sharing program and the
+26 receipts of the shared vehicle owner from peer-to-peer car sharing shall be exempt from the eight
+27 percent (8%) rental vehicle surcharge as set forth in § 31-34.1-2.
+28 27-8.4-9. Contribution against indemnification.
+29 A motor vehicle insurer that defends or indemnifies a claim against a shared vehicle that is
+30 excluded under the terms of its policy shall have the right to seek recovery against the motor vehicle
+31 insurer of the peer-to-peer car sharing program if the claim is:
+32 (1) Made against the shared vehicle owner or the shared vehicle driver for loss or injury
+33 that occurs during the car sharing period; and
+34 (2) Excluded under the terms of its policy.
+LC003984 - Page 5 of 9
+
+1 27-8.4-10. Insurable interest.
+2 (a) Notwithstanding any other law, statute, rule, or regulation to the contrary, a peer-to-
+3 peer car sharing program shall have an insurable interest in a shared vehicle during the car sharing
+4 period.
+5 (b) Nothing in this section creates liability on a peer-to-peer car sharing program to
+6 maintain the coverage mandated by § 27-8.4-4.
+7 (c) A peer-to-peer car sharing program may own and maintain as the named insured one or
+8 more policies of motor vehicle liability insurance that provides coverage for:
+9 (1) Liabilities assumed by the peer-to-peer car sharing program under a car sharing
+10 program agreement;
+11 (2) Any liability of the shared vehicle owner; or
+12 (3) Damage or loss to the shared motor vehicle; or any liability of the shared vehicle driver.
+13 27-8.4-11. Consumer protections disclosures.
+14 Each car sharing program agreement made in this state shall disclose to the shared vehicle
+15 owner and the shared vehicle driver:
+16 (1) Any right of the peer-to-peer car sharing program to seek indemnification from the
+17 shared vehicle owner or the shared vehicle driver for economic loss sustained by the peer-to-peer
+18 car sharing program resulting from a breach of the terms and conditions of the car sharing program
+19 agreement;
+20 (2) That a motor vehicle liability insurance policy issued to the shared vehicle owner for
+21 the shared vehicle or to the shared vehicle driver does not provide a defense or indemnification for
+22 any claim asserted by the peer-to-peer car sharing program;
+23 (3) That the peer-to-peer car sharing program's insurance coverage on the shared vehicle
+24 owner and the shared vehicle driver is in effect only during each car sharing period and that, for
+25 any use of the shared vehicle by the shared vehicle driver after the car sharing termination time, the
+26 shared vehicle driver and the shared vehicle owner may not have insurance coverage;
+27 (4) The daily rate, fees, and if applicable, any insurance or protection package costs that
+28 are charged to the shared vehicle owner or the shared vehicle driver;
+29 (5) That the shared vehicle owner's motor vehicle liability insurance may not provide
+30 coverage for a shared vehicle;
+31 (6) An emergency telephone number to personnel capable of fielding roadside assistance
+32 and other customer service inquiries; and
+33 (7) If there are conditions under which a shared vehicle driver must maintain a personal
+34 automobile insurance policy with certain applicable coverage limits on a primary basis in order to
+LC003984 - Page 6 of 9
+
+1 book a shared motor vehicle.
+2 27-8.4-12. Driver's license verification and data retention.
+3 (a) A peer-to-peer car sharing program may not enter into a car sharing program agreement
+4 with a driver unless the driver who will operate the shared vehicle:
+5 (1) Holds a driver's license issued under chapter 10 of title 31 that authorizes the driver to
+6 operate vehicles of the class of the shared vehicle; or
+7 (2) Is a nonresident who:
+8 (i) Has a driver's license issued by the state or country of the driver's residence that
+9 authorizes the driver in that state or country to drive vehicles of the class of the shared vehicle; and
+10 (ii) Is at least the same age as that required of a resident to drive; or
+11 (3) Otherwise is specifically authorized by § 31-10-2 to drive vehicles of the class of the
+12 shared vehicle.
+13 (b) A peer-to-peer car sharing program shall keep a record of:
+14 (1) The name and address of the shared vehicle driver;
+15 (2) The number of the driver's license of the shared vehicle driver and each other person,
+16 if any, who will operate the shared vehicle; and
+17 (3) The place of issuance of the driver's license.
+18 27-8.4-13. Responsibility for equipment.
+19 A peer-to-peer car sharing program shall have sole responsibility for any equipment, such
+20 as a GPS system or other special equipment that is put in or on the vehicle to monitor or facilitate
+21 the car sharing transaction, and shall agree to indemnify and hold harmless the vehicle owner for
+22 any damage to or theft of such equipment during the car sharing period not caused by the vehicle
+23 owner. The peer-to-peer car sharing program has the right to seek indemnity from the shared vehicle
+24 driver for any loss or damage to such equipment that occurs during the car sharing period.
+25 27-8.4-14. Automobile safety recalls.
+26 (a) At the time when a vehicle owner registers as a shared vehicle owner on a peer-to-peer
+27 car sharing program and prior to the time when the shared vehicle owner makes a shared vehicle
+28 available for car sharing on the peer-to-peer car sharing program, the peer-to-peer car sharing
+29 program shall:
+30 (1) Verify that the shared vehicle does not have any safety recalls on the vehicle for which
+31 the repairs have not been made; and
+32 (2) Notify the shared vehicle owner of the requirements under subsection (b) of this section.
+33 (b)(1) If the shared vehicle owner has received an actual notice of a safety recall on the
+34 vehicle, a shared vehicle owner may not make a vehicle available as a shared vehicle on a peer-to-
+LC003984 - Page 7 of 9
+
+1 peer car sharing program until the safety recall repair has been made.
+2 (2) If a shared vehicle owner receives an actual notice of a safety recall on a shared vehicle
+3 while the shared vehicle is made available on the peer-to-peer car sharing program, the shared
+4 vehicle owner shall remove the shared vehicle as available on the peer-to-peer car sharing program,
+5 as soon as practicably possible after receiving the notice of the safety recall and until the safety
+6 recall repair has been made.
+7 (3) If a shared vehicle owner receives an actual notice of a safety recall while the shared
+8 vehicle is being used in the possession of a shared vehicle driver, as soon as practicably possible
+9 after receiving the notice of the safety recall, the shared vehicle owner shall notify the peer-to-peer
+10 car sharing program about the safety recall in order that the shared vehicle owner may address the
+11 safety recall repair.
+12 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC003984
+========
+LC003984 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- PEER-TO-PEER CAR SHARING PROGRAM ACT
+***
+1 This act would create a peer-to-peer car sharing program, which will prescribe insurance
+2 coverage and other related details while using a car sharing application.
+3 This act would take effect on January 1, 2027.
+========
+LC003984
+========
+LC003984 - Page 9 of 9

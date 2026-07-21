@@ -1,0 +1,230 @@
+Title: 
+Official Title: 
+Source: versions - 8137
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8137
+========
+LC005206
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND PROTECT
+OUR HEALTHCARE ACT OF 2026
+Introduced By: Representatives Donovan, Tanzi, Alzate, McGaw, Boylan, Speakman,
+Casimiro, Cruz, Diaz, and Furtado
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 7.5
+4 RHODE ISLAND PROTECT OUR HEALTHCARE ACT OF 2026
+5 42-7.5-1. Short title and purpose.
+6 (a) This chapter shall be known and may be cited as the “Rhode Island Protect Our
+7 Healthcare Act of 2026.”
+8 (b) The purpose of this chapter is to create a state program to provide healthcare services
+9 to individuals who cannot obtain affordable health insurance coverage and who lack the means to
+10 pay for their own healthcare services.
+11 42-7.5-2. Definitions.
+12 As used in this chapter:
+13 (1) “Advisory committee” means the uninsured care advisory committee established
+14 pursuant to § 42-7.5-4.
+15 (2) “Board” means the uninsured care board established pursuant to § 42-7.5-4.
+16 (3) “Community health centers” shall have the meaning provided in § 40-8-26.
+17 (4) “Individual” means any person who is a resident of the State of Rhode Island.
+18 (5) “Participating hospital” shall have the meaning provided in § 40-8.3-2.
+
+1 (6) “Secretary” means the secretary of the executive office of health and human services.
+2 42-7.5-3. Program fund.
+3 (a) There shall be established a state general fund appropriation to fund the activities
+4 described in this chapter, and to be allocated by the board pursuant to the procedure described in §
+5 42-7.5-5.
+6 (b) For the fiscal year beginning July 1, 2026 and ending June 30, 2027, there shall be
+7 appropriated from the general fund fifty-three million two hundred thousand dollars ($53,200,000)
+8 for the administration of the program established pursuant to this chapter.
+9 (c) For any fiscal year beginning on or after July 1, 2027, there shall be appropriated from
+10 the general fund one hundred nine million six hundred thousand dollars ($109,600,000) for the
+11 administration of the program established pursuant to this chapter.
+12 42-7.5-4. Uninsured care board and advisory committee.
+13 (a) There shall be established a seven (7) member Rhode Island uninsured care board,
+14 which shall include the following members:
+15 (1) The secretary of the executive office of health and human services, who shall serve as
+16 chair of the board;
+17 (2) The commissioner of the office of the health insurance commissioner;
+18 (3) The director of the department of health;
+19 (4) The Medicaid director;
+20 (5) One person to be appointed by the governor with the advice and consent of the senate;
+21 (6) One person to be appointed by the president of the senate; and
+22 (7) One person to be appointed by the speaker of the house of representatives.
+23 (b) There shall be established the uninsured care board advisory committee, which shall
+24 include at least the following nine (9) members, to be appointed by the secretary of the executive
+25 office of health and human services in consultation with the other members of the board:
+26 (1) A representative of community health centers;
+27 (2) A representative of participating hospitals;
+28 (3) A representative of a free clinic;
+29 (4) A representative of a primary care provider not employed by a community health center
+30 or a practice owned by a hospital system;
+31 (5) A behavioral healthcare provider;
+32 (6) Two (2) additional healthcare providers, each of whom practices in a different specialty
+33 than the other;
+34 (7) A representative of a healthcare advocacy organization;
+LC005206 - Page 2 of 7
+
+1 (8) A consumer of healthcare who is not a representative or an employee of any provider
+2 of healthcare or an insurance carrier; and
+3 (9) Any other persons appointed by the secretary to create a board with a comprehensive
+4 composition to include a range and diversity of skills, backgrounds, and stakeholder perspectives.
+5 (c) The board shall undertake a review of existing programs that serve uninsured
+6 individuals including, but not limited to, identifying:
+7 (1) Programs that provide services to uninsured individuals;
+8 (2) The scope of services provided by the aforesaid programs;
+9 (3) Whether the programs provide services to uninsured individuals only;
+10 (4) The qualifications associated with those programs used to condition participation;
+11 (5) The methodology the programs use to provide funding to participating providers, if
+12 applicable; and
+13 (6) The size of the programs including, but not limited to:
+14 (i) The number of individuals served;
+15 (ii) The number of services provided;
+16 (iii) The cost of the program; and
+17 (iv) Any other metrics fundamental to explaining the capacity of the program.
+18 (d) The board shall, on or before February 1, 2027, provide a report to the general assembly
+19 detailing the information provided for in subsection (c) of this section.
+20 (e) The board shall determine the appropriate allocation of funds to be distributed under §
+21 42-7.5-5, the design and implementation of the program created by § 42-7.5-6, the process by which
+22 the program shall be evaluated, and all reporting on the design, efficacy, and impact of the program.
+23 (1) The board shall make such determinations and exercise its authority with consideration
+24 to the recommendations made by the advisory committee.
+25 (2) The board shall provide appropriate opportunities for stakeholders and the public to
+26 consult in its deliberations, pursuant to the specifications of § 42-7.5-7.
+27 42-7.5-5. Allocation of program fund.
+28 (a) The board may allocate funds appropriated under this chapter to advance programs that
+29 will traceably provide expanded access to care for uninsured individuals utilizing appropriated
+30 funding. The board may:
+31 (1) Provide additional distributions of funds to participating hospitals in accordance with
+32 § 40-8.3-3;
+33 (2) Provide additional distributions of funds to community health centers in accordance
+34 with § 40-8-26;
+LC005206 - Page 3 of 7
+
+1 (3) Provide additional distributions of funds to the Rhode Island Free Clinic, Clínica
+2 Esperanza, or any other clinic that provides healthcare services free of charge to individuals;
+3 (4) Provide funding for the uninsured health access program established pursuant to § 42-
+4 7.5-6; and
+5 (5) Provide funding for the operation of the board and the advisory committee.
+6 (b) If any funds allocated to any of the activities provided pursuant to subsection (a) of this
+7 section remain unexhausted at the end of a state fiscal year, they shall not be returned to the general
+8 fund and the board may reallocate them to the same activity or another activity for a subsequent
+9 fiscal year.
+10 42-7.5-6. Uninsured health access program.
+11 (a) The Rhode Island uninsured health access program (“program”) is hereby established:
+12 (1) To support individuals who are uninsured;
+13 (2) To support healthcare providers to provide access to a spectrum of healthcare services
+14 not otherwise available to individuals without regard to ability to pay; and
+15 (3) That provides payment directly to participating healthcare providers, on behalf of
+16 individuals, in correspondence to specific qualifying services rendered by those providers and/or
+17 contingent upon the providers’ adherence to access standards established by the board.
+18 (b) The program shall serve as the payer of last resort for any services rendered to uninsured
+19 individuals, up to the amount allocated by the board under § 42-7.5-5(a)(3).
+20 (c) The board may establish:
+21 (1) The qualifications for a provider to participate in the program;
+22 (2) The services covered by the program;
+23 (3) The qualifications for individuals to participate in the program including, but not
+24 limited to, income or asset limits, and/or the process by which participating providers may set
+25 guidelines for patient participation; provided that, such guidelines shall be reviewed and approved
+26 by the board;
+27 (4) The requirements related to the expanded care to be offered by participating providers
+28 to uninsured patients in exchange for program funding;
+29 (5) The screening to be completed by providers for forms of health insurance coverage that
+30 may be available to individuals supported by the program;
+31 (6) The process and methodology by which funding is provided to providers under the
+32 program;
+33 (7) The process by which providers may confirm the continued availability of funding in
+34 advance of providing services under this program;
+LC005206 - Page 4 of 7
+
+1 (8) Any sliding scale or other cost sharing associated with particular services covered by
+2 the program;
+3 (9) Any requirements related to prerequisite authorizations or other guidelines necessary
+4 for specific services to be covered by the program; and
+5 (10) Any reporting or data submission requirements for participating providers.
+6 (d) In making its determinations under subsection (c) of this section, the board shall
+7 prioritize consideration of:
+8 (1) The recommendations of the advisory committee;
+9 (2) Aligning the program with other programs that provide care to uninsured individuals
+10 including, but not limited to, the Breast and Cervical Cancer Treatment Program, Mobile Response
+11 and Stabilization Services, Emergency Medicaid, hospital uncompensated care or charity care
+12 programs, sliding scale services provided at community health centers, and services provided by
+13 free clinics;
+14 (3) Aligning the program with other statewide initiatives relating to healthcare delivery
+15 system transformation including, but not limited to, the Rural Health Transformation Program;
+16 (4) Maintaining as broad a variety of types of healthcare services and providers as possible
+17 including, but not limited to:
+18 (i) Primary care services including, but not limited to, services available from providers
+19 other than free clinics or community health centers;
+20 (ii) Inpatient and outpatient services;
+21 (iii) Mental health and substance use disorder services;
+22 (iv) Specialty care services;
+23 (v) Preventive services;
+24 (vi) Imaging and lab services;
+25 (vii) Dental services; and
+26 (viii) Prescription drugs.
+27 (e) The board shall ensure that participating providers who receive funding from the
+28 program provide bona fide and traceable access to healthcare services for qualified uninsured
+29 patients including, but not limited to, the ability to make appointments and schedule non-emergency
+30 or post-acute services, and ensure that funds from the program are not used solely to cover
+31 participating providers’ existing losses related to existing uncompensated care already provided.
+32 (f) The board may engage in procurement or other processes to identify and contract with
+33 participating providers, and may utilize methodologies to maximize the availability of federal
+34 matching funds or other funds to help support the program.
+LC005206 - Page 5 of 7
+
+1 42-7.5-7. Rules and regulations.
+2 (a) The secretary of the executive office of health and human services, in consultation with
+3 the board, may promulgate rules and regulations as necessary to carry out and implement the
+4 purposes of this chapter.
+5 (b) Chapter 35 of title 42, (“administrative procedures”) shall apply for any rules or
+6 regulations established or issued by the board pursuant to this chapter, except for the first
+7 implementation year of the program established under this chapter.
+8 (c) For the first implementation year, the board shall provide opportunities for stakeholders
+9 and the public to provide input. This shall include, but is not limited to:
+10 (1) A duly noticed public meeting with advice from the advisory committee established by
+11 § 42-7.5-4;
+12 (2) A thirty (30) day public comment period; and
+13 (3) Presentation by the board to the public of accompanying explanatory documentation
+14 outlining any proposed regulatory adoption, any significant changes thereto, and the rationale for
+15 those decisions.
+16 42-7.5-8. Construction.
+17 This chapter shall not be construed to create an entitlement, medical assistance, or a public
+18 assistance program of any kind.
+19 42-7.5-9. Severability.
+20 The provisions of this chapter are severable, and if any provision hereof shall be held
+21 invalid in any circumstances, any invalidity shall not affect any other provisions or circumstances.
+22 SECTION 2. This act shall take effect upon passage.
+========
+LC005206
+========
+LC005206 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND PROTECT
+OUR HEALTHCARE ACT OF 2026
+***
+1 This act would create a publicly funded program for uninsured individuals requiring an
+2 appropriation of fifty-three million two hundred thousand dollars ($53,200,000) for fiscal year 2027
+3 and an appropriation of one hundred nine million, six hundred thousand dollars ($109,600,000) for
+4 fiscal year 2028 and every fiscal year thereafter.
+5 This act would take effect upon passage.
+========
+LC005206
+========
+LC005206 - Page 7 of 7

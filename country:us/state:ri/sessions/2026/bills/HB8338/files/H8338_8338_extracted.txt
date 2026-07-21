@@ -1,0 +1,594 @@
+Title: 
+Official Title: 
+Source: versions - 8338
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8338
+========
+LC006152
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+Introduced By: Representatives Tanzi, Ajello, Cruz, Potter, Stewart, Giraldo, Casimiro,
+Kislak, Fogarty, and Handy
+Date Introduced: March 20, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 44-30 of the General Laws entitled "Personal Income Tax" is hereby
+2 amended by adding thereto the following section:
+3 44-30-104. Child tax credit.
+4 (a) Definitions. The definitions in this section apply throughout this chapter unless the
+5 context clearly requires otherwise.
+6 (1) “Child” means an individual who is eighteen (18) years of age or younger as of
+7 December 31 of the tax year.
+8 (2) “Eligible taxpayer” means any natural person domiciled in this state who filed a Rhode
+9 Island state personal income tax return for the tax year.
+10 (b) Child tax credit. For tax years beginning on or after January 1, 2027, a tax credit on the
+11 resident tax return of the eligible taxpayer in the amount of six hundred fifty dollars ($650) shall
+12 be allowed for each claimed child where the exemption amount is zero pursuant to § 44-30-
+13 2.6(c)(3)(C)(II).
+14 (c) In the case of any eligible taxpayer whose adjusted gross income, as modified pursuant
+15 to § 44-30-12, for the taxable year exceeds two hundred sixty-one thousand dollars ($261,000), the
+16 credit amount shall be reduced by the applicable percentage. The term “applicable percentage”
+17 means twenty (20) percentage points for each seven thousand four hundred fifty dollars ($7,450)
+18 (or fraction thereof ) by which the eligible taxpayer’s adjusted gross income for the taxable year
+19 exceeds two hundred sixty-one thousand dollars ($261,000).
+
+1 (d) Adjustment for inflation. The dollar amount contained in subsections (b) and (c) of this
+2 section shall be increased annually by an amount equal to:
+3 (1) Such dollar amount contained in subsections (b) and (c) of this section adjusted for
+4 inflation using a base tax year of 2026, multiplied by the cost-of-living adjustment with a base year
+5 of 2026.
+6 (2) For the purposes of this section, the cost-of-living adjustment for any calendar year is
+7 the percentage (if any) by which the consumer price index for the preceding calendar year exceeds
+8 the consumer price index for the base year. The consumer price index for any calendar year is the
+9 average of the consumer price index as of the close of the twelve (12) month period ending on
+10 August 31, of such calendar year.
+11 (3) For the purpose of this section, the term “consumer price index” means the last
+12 Consumer Price Index for all urban consumers published by the Department of Labor. For the
+13 purpose of this section the revision of the Consumer Price Index that is most consistent with the
+14 Consumer Price Index for calendar year 1986 shall be used.
+15 (4) If any increase determined under this section is not a multiple of five dollars ($5.00),
+16 such increase shall be rounded to the next lower multiple of five dollars ($5.00).
+17 SECTION 2. Section 44-30-2.6 of the General Laws in Chapter 44-30 entitled "Personal
+18 Income Tax" is hereby amended to read as follows:
+19 44-30-2.6. Rhode Island taxable income — Rate of tax.
+20 (a) “Rhode Island taxable income” means federal taxable income as determined under the
+21 Internal Revenue Code, 26 U.S.C. § 1 et seq., not including the increase in the basic, standard-
+22 deduction amount for married couples filing joint returns as provided in the Jobs and Growth Tax
+23 Relief Reconciliation Act of 2003 and the Economic Growth and Tax Relief Reconciliation Act of
+24 2001 (EGTRRA), and as modified by the modifications in § 44-30-12.
+25 (b) Notwithstanding the provisions of §§ 44-30-1 and 44-30-2, for tax years beginning on
+26 or after January 1, 2001, a Rhode Island personal income tax is imposed upon the Rhode Island
+27 taxable income of residents and nonresidents, including estates and trusts, at the rate of twenty-five
+28 and one-half percent (25.5%) for tax year 2001, and twenty-five percent (25%) for tax year 2002
+29 and thereafter of the federal income tax rates, including capital gains rates and any other special
+30 rates for other types of income, except as provided in § 44-30-2.7, which were in effect immediately
+31 prior to enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001 (EGTRRA);
+32 provided, rate schedules shall be adjusted for inflation by the tax administrator beginning in taxable
+33 year 2002 and thereafter in the manner prescribed for adjustment by the commissioner of Internal
+34 Revenue in 26 U.S.C. § 1(f). However, for tax years beginning on or after January 1, 2006, a
+LC006152 - Page 2 of 17
+
+1 taxpayer may elect to use the alternative flat tax rate provided in § 44-30-2.10 to calculate his or
+2 her personal income tax liability.
+3 (c) For tax years beginning on or after January 1, 2001, if a taxpayer has an alternative
+4 minimum tax for federal tax purposes, the taxpayer shall determine if he or she has a Rhode Island
+5 alternative minimum tax. The Rhode Island alternative minimum tax shall be computed by
+6 multiplying the federal tentative minimum tax without allowing for the increased exemptions under
+7 the Jobs and Growth Tax Relief Reconciliation Act of 2003 (as redetermined on federal form 6251
+8 Alternative Minimum Tax-Individuals) by twenty-five and one-half percent (25.5%) for tax year
+9 2001, and twenty-five percent (25%) for tax year 2002 and thereafter, and comparing the product
+10 to the Rhode Island tax as computed otherwise under this section. The excess shall be the taxpayer’s
+11 Rhode Island alternative minimum tax.
+12 (1) For tax years beginning on or after January 1, 2005, and thereafter, the exemption
+13 amount for alternative minimum tax, for Rhode Island purposes, shall be adjusted for inflation by
+14 the tax administrator in the manner prescribed for adjustment by the commissioner of Internal
+15 Revenue in 26 U.S.C. § 1(f).
+16 (2) For the period January 1, 2007, through December 31, 2007, and thereafter, Rhode
+17 Island taxable income shall be determined by deducting from federal adjusted gross income as
+18 defined in 26 U.S.C. § 62 as modified by the modifications in § 44-30-12 the Rhode Island
+19 itemized-deduction amount and the Rhode Island exemption amount as determined in this section.
+20 (A) Tax imposed.
+21 (1) There is hereby imposed on the taxable income of married individuals filing joint
+22 returns and surviving spouses a tax determined in accordance with the following table:
+23 If taxable income is: The tax is:
+24 Not over $53,150 3.75% of taxable income
+25 Over $53,150 but not over $128,500 $1,993.13 plus 7.00% of the excess over $53,150
+26 Over $128,500 but not over $195,850 $7,267.63 plus 7.75% of the excess over $128,500
+27 Over $195,850 but not over $349,700 $12,487.25 plus 9.00% of the excess over $195,850
+28 Over $349,700 $26,333.75 plus 9.90% of the excess over $349,700
+29 (2) There is hereby imposed on the taxable income of every head of household a tax
+30 determined in accordance with the following table:
+31 If taxable income is: The tax is:
+32 Not over $42,650 3.75% of taxable income
+33 Over $42,650 but not over $110,100 $1,599.38 plus 7.00% of the excess over $42,650
+34 Over $110,100 but not over $178,350 $6,320.88 plus 7.75% of the excess over $110,100
+LC006152 - Page 3 of 17
+
+1 Over $178,350 but not over $349,700 $11,610.25 plus 9.00% of the excess over $178,350
+2 Over $349,700 $27,031.75 plus 9.90% of the excess over $349,700
+3 (3) There is hereby imposed on the taxable income of unmarried individuals (other than
+4 surviving spouses and heads of households) a tax determined in accordance with the following
+5 table:
+6 If taxable income is: The tax is:
+7 Not over $31,850 3.75% of taxable income
+8 Over $31,850 but not over $77,100 $1,194.38 plus 7.00% of the excess over $31,850
+9 Over $77,100 but not over $160,850 $4,361.88 plus 7.75% of the excess over $77,100
+10 Over $160,850 but not over $349,700 $10,852.50 plus 9.00% of the excess over $160,850
+11 Over $349,700 $27,849.00 plus 9.90% of the excess over $349,700
+12 (4) There is hereby imposed on the taxable income of married individuals filing separate
+13 returns and bankruptcy estates a tax determined in accordance with the following table:
+14 If taxable income is: The tax is:
+15 Not over $26,575 3.75% of taxable income
+16 Over $26,575 but not over $64,250 $996.56 plus 7.00% of the excess over $26,575
+17 Over $64,250 but not over $97,925 $3,633.81 plus 7.75% of the excess over $64,250
+18 Over $97,925 but not over $174,850 $6,243.63 plus 9.00% of the excess over $97,925
+19 Over $174,850 $13,166.88 plus 9.90% of the excess over $174,850
+20 (5) There is hereby imposed a taxable income of an estate or trust a tax determined in
+21 accordance with the following table:
+22 If taxable income is: The tax is:
+23 Not over $2,150 3.75% of taxable income
+24 Over $2,150 but not over $5,000 $80.63 plus 7.00% of the excess over $2,150
+25 Over $5,000 but not over $7,650 $280.13 plus 7.75% of the excess over $5,000
+26 Over $7,650 but not over $10,450 $485.50 plus 9.00% of the excess over $7,650
+27 Over $10,450 $737.50 plus 9.90% of the excess over $10,450
+28 (6) Adjustments for inflation.
+29 The dollars amount contained in paragraph (A) shall be increased by an amount equal to:
+30 (a) Such dollar amount contained in paragraph (A) in the year 1993, multiplied by;
+31 (b) The cost-of-living adjustment determined under section (J) with a base year of 1993;
+32 (c) The cost-of-living adjustment referred to in subparagraphs (a) and (b) used in making
+33 adjustments to the nine percent (9%) and nine and nine tenths percent (9.9%) dollar amounts shall
+34 be determined under section (J) by substituting “1994” for “1993.”
+LC006152 - Page 4 of 17
+
+1 (B) Maximum capital gains rates.
+2 (1) In general.
+3 If a taxpayer has a net capital gain for tax years ending prior to January 1, 2010, the tax
+4 imposed by this section for such taxable year shall not exceed the sum of:
+5 (a) 2.5% of the net capital gain as reported for federal income tax purposes under section
+6 26 U.S.C. § 1(h)(1)(a) and 26 U.S.C. § 1(h)(1)(b).
+7 (b) 5% of the net capital gain as reported for federal income tax purposes under 26 U.S.C.
+8 § 1(h)(1)(c).
+9 (c) 6.25% of the net capital gain as reported for federal income tax purposes under 26
+10 U.S.C. § 1(h)(1)(d).
+11 (d) 7% of the net capital gain as reported for federal income tax purposes under 26 U.S.C.
+12 § 1(h)(1)(e).
+13 (2) For tax years beginning on or after January 1, 2010, the tax imposed on net capital gain
+14 shall be determined under subdivision 44-30-2.6(c)(2)(A).
+15 (C) Itemized deductions.
+16 (1) In general.
+17 For the purposes of section (2), “itemized deductions” means the amount of federal
+18 itemized deductions as modified by the modifications in § 44-30-12.
+19 (2) Individuals who do not itemize their deductions.
+20 In the case of an individual who does not elect to itemize his deductions for the taxable
+21 year, they may elect to take a standard deduction.
+22 (3) Basic standard deduction.
+23 The Rhode Island standard deduction shall be allowed in accordance with the following
+24 table:
+25 Filing status Amount
+26 Single $5,350
+27 Married filing jointly or qualifying widow(er) $8,900
+28 Married filing separately $4,450
+29 Head of Household $7,850
+30 (4) Additional standard deduction for the aged and blind.
+31 An additional standard deduction shall be allowed for individuals age sixty-five (65) or
+32 older or blind in the amount of $1,300 for individuals who are not married and $1,050 for
+33 individuals who are married.
+34 (5) Limitation on basic standard deduction in the case of certain dependents.
+LC006152 - Page 5 of 17
+
+1 In the case of an individual to whom a deduction under section (E) is allowable to another
+2 taxpayer, the basic standard deduction applicable to such individual shall not exceed the greater of:
+3 (a) $850;
+4 (b) The sum of $300 and such individual’s earned income;
+5 (6) Certain individuals not eligible for standard deduction.
+6 In the case of:
+7 (a) A married individual filing a separate return where either spouse itemizes deductions;
+8 (b) Nonresident alien individual;
+9 (c) An estate or trust;
+10 The standard deduction shall be zero.
+11 (7) Adjustments for inflation.
+12 Each dollar amount contained in paragraphs (3), (4) and (5) shall be increased by an amount
+13 equal to:
+14 (a) Such dollar amount contained in paragraphs (3), (4) and (5) in the year 1988, multiplied
+15 by
+16 (b) The cost-of-living adjustment determined under section (J) with a base year of 1988.
+17 (D) Overall limitation on itemized deductions.
+18 (1) General rule.
+19 In the case of an individual whose adjusted gross income as modified by § 44-30-12
+20 exceeds the applicable amount, the amount of the itemized deductions otherwise allowable for the
+21 taxable year shall be reduced by the lesser of:
+22 (a) Three percent (3%) of the excess of adjusted gross income as modified by § 44-30-12
+23 over the applicable amount; or
+24 (b) Eighty percent (80%) of the amount of the itemized deductions otherwise allowable for
+25 such taxable year.
+26 (2) Applicable amount.
+27 (a) In general.
+28 For purposes of this section, the term “applicable amount” means $156,400 ($78,200 in the
+29 case of a separate return by a married individual)
+30 (b) Adjustments for inflation.
+31 Each dollar amount contained in paragraph (a) shall be increased by an amount equal to:
+32 (i) Such dollar amount contained in paragraph (a) in the year 1991, multiplied by
+33 (ii) The cost-of-living adjustment determined under section (J) with a base year of 1991.
+34 (3) Phase-out of Limitation.
+LC006152 - Page 6 of 17
+
+1 (a) In general.
+2 In the case of taxable year beginning after December 31, 2005, and before January 1, 2010,
+3 the reduction under section (1) shall be equal to the applicable fraction of the amount which would
+4 be the amount of such reduction.
+5 (b) Applicable fraction.
+6 For purposes of paragraph (a), the applicable fraction shall be determined in accordance
+7 with the following table:
+8 For taxable years beginning in calendar year The applicable fraction is
+9 2006 and 2007 ⅔
+10 2008 and 2009 ⅓
+11 (E) Exemption amount.
+12 (1) In general.
+13 Except as otherwise provided in this subsection, the term “exemption amount” means
+14 $3,400.
+15 (2) Exemption amount disallowed in case of certain dependents.
+16 In the case of an individual with respect to whom a deduction under this section is allowable
+17 to another taxpayer for the same taxable year, the exemption amount applicable to such individual
+18 for such individual's taxable year shall be zero.
+19 (3) Adjustments for inflation.
+20 The dollar amount contained in paragraph (1) shall be increased by an amount equal to:
+21 (a) Such dollar amount contained in paragraph (1) in the year 1989, multiplied by
+22 (b) The cost-of-living adjustment determined under section (J) with a base year of 1989.
+23 (4) Limitation.
+24 (a) In general.
+25 In the case of any taxpayer whose adjusted gross income as modified for the taxable year
+26 exceeds the threshold amount shall be reduced by the applicable percentage.
+27 (b) Applicable percentage.
+28 In the case of any taxpayer whose adjusted gross income for the taxable year exceeds the
+29 threshold amount, the exemption amount shall be reduced by two (2) percentage points for each
+30 $2,500 (or fraction thereof) by which the taxpayer’s adjusted gross income for the taxable year
+31 exceeds the threshold amount. In the case of a married individual filing a separate return, the
+32 preceding sentence shall be applied by substituting “$1,250” for “$2,500.” In no event shall the
+33 applicable percentage exceed one hundred percent (100%).
+34 (c) Threshold Amount.
+LC006152 - Page 7 of 17
+
+1 For the purposes of this paragraph, the term ‘‘threshold amount’’ shall be determined with
+2 the following table:
+3 Filing status Amount
+4 Single $156,400
+5 Married filing jointly of qualifying widow(er) $234,600
+6 Married filing separately $117,300
+7 Head of Household $195,500
+8 (d) Adjustments for inflation.
+9 Each dollar amount contained in paragraph (b) shall be increased by an amount equal to:
+10 (i) Such dollar amount contained in paragraph (b) in the year 1991, multiplied by
+11 (ii) The cost-of-living adjustment determined under section (J) with a base year of 1991.
+12 (5) Phase-out of limitation.
+13 (a) In general.
+14 In the case of taxable years beginning after December 31, 2005, and before January 1,
+15 2010, the reduction under section 4 shall be equal to the applicable fraction of the amount which
+16 would be the amount of such reduction.
+17 (b) Applicable fraction.
+18 For the purposes of paragraph (a), the applicable fraction shall be determined in accordance
+19 with the following table:
+20 For taxable years beginning in calendar year The applicable fraction is
+21 2006 and 2007 ⅔
+22 2008 and 2009 ⅓
+23 (F) Alternative minimum tax.
+24 (1) General rule. There is hereby imposed (in addition to any other tax imposed by this
+25 subtitle) a tax equal to the excess (if any) of:
+26 (a) The tentative minimum tax for the taxable year, over
+27 (b) The regular tax for the taxable year.
+28 (2) The tentative minimum tax for the taxable year is the sum of:
+29 (a) 6.5 percent of so much of the taxable excess as does not exceed $175,000, plus
+30 (b) 7.0 percent of so much of the taxable excess above $175,000.
+31 (3) The amount determined under the preceding sentence shall be reduced by the alternative
+32 minimum tax foreign tax credit for the taxable year.
+33 (4) Taxable excess. For the purposes of this subsection the term “taxable excess” means so
+34 much of the federal alternative minimum taxable income as modified by the modifications in § 44-
+LC006152 - Page 8 of 17
+
+1 30-12 as exceeds the exemption amount.
+2 (5) In the case of a married individual filing a separate return, subparagraph (2) shall be
+3 applied by substituting “$87,500” for $175,000 each place it appears.
+4 (6) Exemption amount.
+5 For purposes of this section "exemption amount" means:
+6 Filing status Amount
+7 Single $39,150
+8 Married filing jointly or qualifying widow(er) $53,700
+9 Married filing separately $26,850
+10 Head of Household $39,150
+11 Estate or trust $24,650
+12 (7) Treatment of unearned income of minor children
+13 (a) In general.
+14 In the case of a minor child, the exemption amount for purposes of section (6) shall not
+15 exceed the sum of:
+16 (i) Such child's earned income, plus
+17 (ii) $6,000.
+18 (8) Adjustments for inflation.
+19 The dollar amount contained in paragraphs (6) and (7) shall be increased by an amount
+20 equal to:
+21 (a) Such dollar amount contained in paragraphs (6) and (7) in the year 2004, multiplied by
+22 (b) The cost-of-living adjustment determined under section (J) with a base year of 2004.
+23 (9) Phase-out.
+24 (a) In general.
+25 The exemption amount of any taxpayer shall be reduced (but not below zero) by an amount
+26 equal to twenty-five percent (25%) of the amount by which alternative minimum taxable income
+27 of the taxpayer exceeds the threshold amount.
+28 (b) Threshold amount.
+29 For purposes of this paragraph, the term “threshold amount” shall be determined with the
+30 following table:
+31 Filing status Amount
+32 Single $123,250
+33 Married filing jointly or qualifying widow(er) $164,350
+34 Married filing separately $82,175
+LC006152 - Page 9 of 17
+
+1 Head of Household $123,250
+2 Estate or Trust $82,150
+3 (c) Adjustments for inflation
+4 Each dollar amount contained in paragraph (9) shall be increased by an amount equal to:
+5 (i) Such dollar amount contained in paragraph (9) in the year 2004, multiplied by
+6 (ii) The cost-of-living adjustment determined under section (J) with a base year of 2004.
+7 (G) Other Rhode Island taxes.
+8 (1) General rule. There is hereby imposed (in addition to any other tax imposed by this
+9 subtitle) a tax equal to twenty-five percent (25%) of:
+10 (a) The Federal income tax on lump-sum distributions.
+11 (b) The Federal income tax on parents' election to report child's interest and dividends.
+12 (c) The recapture of Federal tax credits that were previously claimed on Rhode Island
+13 return.
+14 (H) Tax for children under 18 with investment income.
+15 (1) General rule. There is hereby imposed a tax equal to twenty-five percent (25%) of:
+16 (a) The Federal tax for children under the age of 18 with investment income.
+17 (I) Averaging of farm income.
+18 (1) General rule. At the election of an individual engaged in a farming business or fishing
+19 business, the tax imposed in section 2 shall be equal to twenty-five percent (25%) of:
+20 (a) The Federal averaging of farm income as determined in IRC section 1301 [26 U.S.C. §
+21 1301].
+22 (J) Cost-of-living adjustment.
+23 (1) In general.
+24 The cost-of-living adjustment for any calendar year is the percentage (if any) by which:
+25 (a) The CPI for the preceding calendar year exceeds
+26 (b) The CPI for the base year.
+27 (2) CPI for any calendar year.
+28 For purposes of paragraph (1), the CPI for any calendar year is the average of the consumer
+29 price index as of the close of the twelve (12) month period ending on August 31 of such calendar
+30 year.
+31 (3) Consumer price index.
+32 For purposes of paragraph (2), the term “consumer price index” means the last consumer
+33 price index for all urban consumers published by the department of labor. For purposes of the
+34 preceding sentence, the revision of the consumer price index that is most consistent with the
+LC006152 - Page 10 of 17
+
+1 consumer price index for calendar year 1986 shall be used.
+2 (4) Rounding.
+3 (a) In general.
+4 If any increase determined under paragraph (1) is not a multiple of $50, such increase shall
+5 be rounded to the next lowest multiple of $50.
+6 (b) In the case of a married individual filing a separate return, subparagraph (a) shall be
+7 applied by substituting “$25” for $50 each place it appears.
+8 (K) Credits against tax. For tax years beginning on or after January 1, 2001, a taxpayer
+9 entitled to any of the following federal credits enacted prior to January 1, 1996, shall be entitled to
+10 a credit against the Rhode Island tax imposed under this section:
+11 (1) [Deleted by P.L. 2007, ch. 73, art. 7, § 5.]
+12 (2) Child and dependent care credit;
+13 (3) General business credits;
+14 (4) Credit for elderly or the disabled;
+15 (5) Credit for prior year minimum tax;
+16 (6) Mortgage interest credit;
+17 (7) Empowerment zone employment credit;
+18 (8) Qualified electric vehicle credit.
+19 (L) Credit against tax for adoption. For tax years beginning on or after January 1, 2006,
+20 a taxpayer entitled to the federal adoption credit shall be entitled to a credit against the Rhode Island
+21 tax imposed under this section if the adopted child was under the care, custody, or supervision of
+22 the Rhode Island department of children, youth and families prior to the adoption.
+23 (M) The credit shall be twenty-five percent (25%) of the aforementioned federal credits
+24 provided there shall be no deduction based on any federal credits enacted after January 1, 1996,
+25 including the rate reduction credit provided by the federal Economic Growth and Tax
+26 Reconciliation Act of 2001 (EGTRRA). In no event shall the tax imposed under this section be
+27 reduced to less than zero. A taxpayer required to recapture any of the above credits for federal tax
+28 purposes shall determine the Rhode Island amount to be recaptured in the same manner as
+29 prescribed in this subsection.
+30 (N) Rhode Island earned-income credit.
+31 (1) In general.
+32 For tax years beginning before January 1, 2015, a taxpayer entitled to a federal earned-
+33 income credit shall be allowed a Rhode Island earned-income credit equal to twenty-five percent
+34 (25%) of the federal earned-income credit. Such credit shall not exceed the amount of the Rhode
+LC006152 - Page 11 of 17
+
+1 Island income tax.
+2 For tax years beginning on or after January 1, 2015, and before January 1, 2016, a taxpayer
+3 entitled to a federal earned-income credit shall be allowed a Rhode Island earned-income credit
+4 equal to ten percent (10%) of the federal earned-income credit. Such credit shall not exceed the
+5 amount of the Rhode Island income tax.
+6 For tax years beginning on or after January 1, 2016, a taxpayer entitled to a federal earned-
+7 income credit shall be allowed a Rhode Island earned-income credit equal to twelve and one-half
+8 percent (12.5%) of the federal earned-income credit. Such credit shall not exceed the amount of the
+9 Rhode Island income tax.
+10 For tax years beginning on or after January 1, 2017, a taxpayer entitled to a federal earned-
+11 income credit shall be allowed a Rhode Island earned-income credit equal to fifteen percent (15%)
+12 of the federal earned-income credit. Such credit shall not exceed the amount of the Rhode Island
+13 income tax.
+14 For tax years beginning on or after January 1, 2024, a taxpayer entitled to a federal earned-
+15 income credit shall be allowed a Rhode Island earned-income credit equal to sixteen percent (16%)
+16 of the federal earned-income credit. Such credit shall not exceed the amount of the Rhode Island
+17 income tax.
+18 (2) Refundable portion.
+19 In the event the Rhode Island earned-income credit allowed under paragraph (N)(1) of this
+20 section exceeds the amount of Rhode Island income tax, a refundable earned-income credit shall
+21 be allowed as follows.
+22 (i) For tax years beginning before January 1, 2015, for purposes of paragraph (2) refundable
+23 earned-income credit means fifteen percent (15%) of the amount by which the Rhode Island earned-
+24 income credit exceeds the Rhode Island income tax.
+25 (ii) For tax years beginning on or after January 1, 2015, for purposes of paragraph (2)
+26 refundable earned-income credit means one hundred percent (100%) of the amount by which the
+27 Rhode Island earned-income credit exceeds the Rhode Island income tax.
+28 (O) The tax administrator shall recalculate and submit necessary revisions to paragraphs
+29 (A) through (J) to the general assembly no later than February 1, 2010, and every three (3) years
+30 thereafter for inclusion in the statute.
+31 (3) For the period January 1, 2011, through December 31, 2011, and thereafter, “Rhode
+32 Island taxable income” means federal adjusted gross income as determined under the Internal
+33 Revenue Code, 26 U.S.C. § 1 et seq., and as modified for Rhode Island purposes pursuant to § 44-
+34 30-12 less the amount of Rhode Island Basic Standard Deduction allowed pursuant to subparagraph
+LC006152 - Page 12 of 17
+
+1 44-30-2.6(c)(3)(B), and less the amount of personal exemption allowed pursuant to subparagraph
+2 44-30-2.6(c)(3)(C).
+3 (A) Tax imposed.
+4 (I) There is hereby imposed on the taxable income of married individuals filing joint
+5 returns, qualifying widow(er), every head of household, unmarried individuals, married individuals
+6 filing separate returns and bankruptcy estates, a tax determined in accordance with the following
+7 table:
+8 RI Taxable Income RI Income Tax
+9 Over But not over Pay + % on Excess on the amount over
+10 $ 0 - $ 55,000 $ 0 + 3.75% $ 0
+11 55,000 - 125,000 2,063 + 4.75% 55,000
+12 125,000 - 5,388 + 5.99% 125,000
+13 (II) There is hereby imposed on the taxable income of an estate or trust a tax determined in
+14 accordance with the following table:
+15 RI Taxable Income RI Income Tax
+16 Over But not over Pay + % on Excess on the amount over
+17 $ 0 - $ 2,230 $ 0 + 3.75% $ 0
+18 2,230 - 7,022 84 + 4.75% 2,230
+19 7,022 - 312 + 5.99% 7,022
+20 (B) Deductions:
+21 (I) Rhode Island Basic Standard Deduction.
+22 Only the Rhode Island standard deduction shall be allowed in accordance with the
+23 following table:
+24 Filing status: Amount
+25 Single $7,500
+26 Married filing jointly or qualifying widow(er) $15,000
+27 Married filing separately $7,500
+28 Head of Household $11,250
+29 (II) Nonresident alien individuals, estates and trusts are not eligible for standard
+30 deductions.
+31 (III) In the case of any taxpayer whose adjusted gross income, as modified for Rhode Island
+32 purposes pursuant to § 44-30-12, for the taxable year exceeds one hundred seventy-five thousand
+33 dollars ($175,000), the standard deduction amount shall be reduced by the applicable percentage.
+34 The term “applicable percentage” means twenty (20) percentage points for each five thousand
+LC006152 - Page 13 of 17
+
+1 dollars ($5,000) (or fraction thereof) by which the taxpayer’s adjusted gross income for the taxable
+2 year exceeds one hundred seventy-five thousand dollars ($175,000).
+3 (C) Exemption Amount:
+4 (I) The term “exemption amount” means three thousand five hundred dollars ($3,500)
+5 multiplied by the number of exemptions allowed for the taxable year for federal income tax
+6 purposes. For tax years beginning on or after 2018, the term “exemption amount” means the same
+7 as it does in 26 U.S.C. § 151 and 26 U.S.C. § 152 just prior to the enactment of the Tax Cuts and
+8 Jobs Act (Pub. L. No. 115-97) on December 22, 2017.
+9 (II) Disallowance of exemptions.
+10 (1) Exemption amount disallowed in case of certain dependents. In the case of an individual
+11 with respect to whom a deduction under this section is allowable to another taxpayer for the same
+12 taxable year, the exemption amount applicable to such individual for such individual’s taxable year
+13 shall be zero.
+14 (2) Exemption amount disallowed for child tax credit. For tax years beginning on or after
+15 January 1, 2027, the exemption amount applicable to a claimed child dependent of an eligible
+16 taxpayer, as defined in § 44-30-104, on a resident tax return shall be zero and a credit as set forth
+17 in § 44-30-104 for each claimed child dependent shall be granted.
+18 (III) Identifying information required.
+19 (1) Except as provided in § 44-30-2.6(c)(3)(C)(II) of this section, no exemption shall be
+20 allowed under this section with respect to any individual unless the Taxpayer Identification Number
+21 of such individual is included on the federal return claiming the exemption for the same tax filing
+22 period.
+23 (2) Notwithstanding the provisions of § 44-30-2.6(c)(3)(C)(I) of this section, in the event
+24 that the Taxpayer Identification Number for each individual is not required to be included on the
+25 federal tax return for the purposes of claiming a personal exemption(s), then the Taxpayer
+26 Identification Number must be provided on the Rhode Island tax return for the purpose of claiming
+27 said exemption(s).
+28 (D) In the case of any taxpayer whose adjusted gross income, as modified for Rhode Island
+29 purposes pursuant to § 44-30-12, for the taxable year exceeds one hundred seventy-five thousand
+30 dollars ($175,000), the exemption amount shall be reduced by the applicable percentage. The term
+31 “applicable percentage” means twenty (20) percentage points for each five thousand dollars
+32 ($5,000) (or fraction thereof) by which the taxpayer’s adjusted gross income for the taxable year
+33 exceeds one hundred seventy-five thousand dollars ($175,000).
+34 (E) Adjustment for inflation. The dollar amount contained in subparagraphs 44-30-
+LC006152 - Page 14 of 17
+
+1 2.6(c)(3)(A), 44-30-2.6(c)(3)(B) and 44-30-2.6(c)(3)(C) shall be increased annually by an amount
+2 equal to:
+3 (I) Such dollar amount contained in subparagraphs 44-30-2.6(c)(3)(A), 44-30-2.6(c)(3)(B)
+4 and 44-30-2.6(c)(3)(C) adjusted for inflation using a base tax year of 2000, multiplied by;
+5 (II) The cost-of-living adjustment with a base year of 2000.
+6 (III) For the purposes of this section, the cost-of-living adjustment for any calendar year is
+7 the percentage (if any) by which the consumer price index for the preceding calendar year exceeds
+8 the consumer price index for the base year. The consumer price index for any calendar year is the
+9 average of the consumer price index as of the close of the twelve-month (12) period ending on
+10 August 31, of such calendar year.
+11 (IV) For the purpose of this section the term “consumer price index” means the last
+12 consumer price index for all urban consumers published by the department of labor. For the purpose
+13 of this section the revision of the consumer price index that is most consistent with the consumer
+14 price index for calendar year 1986 shall be used.
+15 (V) If any increase determined under this section is not a multiple of fifty dollars ($50.00),
+16 such increase shall be rounded to the next lower multiple of fifty dollars ($50.00). In the case of a
+17 married individual filing separate return, if any increase determined under this section is not a
+18 multiple of twenty-five dollars ($25.00), such increase shall be rounded to the next lower multiple
+19 of twenty-five dollars ($25.00).
+20 (F) Credits against tax.
+21 (I) Notwithstanding any other provisions of Rhode Island Law, for tax years beginning on
+22 or after January 1, 2011, the only credits allowed against a tax imposed under this chapter shall be
+23 as follows:
+24 (a) Rhode Island earned-income credit: Credit shall be allowed for earned-income credit
+25 pursuant to subparagraph 44-30-2.6(c)(2)(N).
+26 (b) Property Tax Relief Credit: Credit shall be allowed for property tax relief as provided
+27 in § 44-33-1 et seq.
+28 (c) Lead Paint Credit: Credit shall be allowed for residential lead abatement income tax
+29 credit as provided in § 44-30.3-1 et seq.
+30 (d) Credit for income taxes of other states. Credit shall be allowed for income tax paid to
+31 other states pursuant to § 44-30-74.
+32 (e) Historic Structures Tax Credit: Credit shall be allowed for historic structures tax credit
+33 as provided in § 44-33.2-1 et seq.
+34 (f) Motion Picture Productions Tax Credit: Credit shall be allowed for motion picture
+LC006152 - Page 15 of 17
+
+1 production tax credit as provided in § 44-31.2-1 et seq.
+2 (g) Child and Dependent Care: Credit shall be allowed for twenty-five percent (25%) of
+3 the federal child and dependent care credit allowable for the taxable year for federal purposes;
+4 provided, however, such credit shall not exceed the Rhode Island tax liability.
+5 (h) Tax credits for contributions to Scholarship Organizations: Credit shall be allowed for
+6 contributions to scholarship organizations as provided in chapter 62 of title 44.
+7 (i) Credit for tax withheld. Wages upon which tax is required to be withheld shall be taxable
+8 as if no withholding were required, but any amount of Rhode Island personal income tax actually
+9 deducted and withheld in any calendar year shall be deemed to have been paid to the tax
+10 administrator on behalf of the person from whom withheld, and the person shall be credited with
+11 having paid that amount of tax for the taxable year beginning in that calendar year. For a taxable
+12 year of less than twelve (12) months, the credit shall be made under regulations of the tax
+13 administrator.
+14 (j) Stay Invested in RI Wavemaker Fellowship: Credit shall be allowed for stay invested in
+15 RI wavemaker fellowship program as provided in § 42-64.26-1 et seq.
+16 (k) Rebuild Rhode Island: Credit shall be allowed for rebuild RI tax credit as provided in
+17 § 42-64.20-1 et seq.
+18 (l) Rhode Island Qualified Jobs Incentive Program: Credit shall be allowed for Rhode
+19 Island new qualified jobs incentive program credit as provided in § 44-48.3-1 et seq.
+20 (m) Historic homeownership assistance act: Effective for tax year 2017 and thereafter,
+21 unused carryforward for such credit previously issued shall be allowed for the historic
+22 homeownership assistance act as provided in § 44-33.1-4. This allowance is for credits already
+23 issued pursuant to § 44-33.1-4 and shall not be construed to authorize the issuance of new credits
+24 under the historic homeownership assistance act.
+25 (n) Child tax credit: Effective for tax years beginning on or after January 1, 2027, a credit
+26 shall be allowed for the child tax credit as provided in § 44-30-104.
+27 (2) Except as provided in section 1 above, no other state and federal tax credit shall be
+28 available to the taxpayers in computing tax liability under this chapter.
+29 SECTION 3. This act shall take effect on January 1, 2027.
+========
+LC006152
+========
+LC006152 - Page 16 of 17
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- PERSONAL INCOME TAX
+***
+1 This act would establish a child tax credit in the amount of six hundred fifty dollars ($650)
+2 for eligible taxpayers adjusted for inflation annually commencing January 1, 2027.
+3 This act would take effect on January 1, 2027.
+========
+LC006152
+========
+LC006152 - Page 17 of 17

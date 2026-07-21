@@ -1,0 +1,1008 @@
+Title: 
+Official Title: 
+Source: versions - 2857
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2857
+========
+LC005350
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- SPEECH-LANGUAGE PATHOLOGY
+AND AUDIOLOGY
+Introduced By: Senators Gallo, Burke, LaMountain, DiPalma, and Felag
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+(Dept. of Health)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 5-48 of the General Laws entitled "Speech-Language Pathology and
+2 Audiology" is hereby repealed in its entirety.
+3 CHAPTER 5-48
+4 Speech-Language Pathology and Audiology
+5 5-48-1. Purpose and legislative intent — Definitions.
+6 (a) It is declared to be a policy of this state that the practice of speech-language pathology
+7 and audiology is a privilege granted to qualified persons and that, in order to safeguard the public
+8 health, safety, and welfare; protect the public from being misled by incompetent, unscrupulous, and
+9 unauthorized persons; and protect the public from unprofessional conduct by qualified speech-
+10 language pathologists and audiologists, it is necessary to provide regulatory authority over persons
+11 offering speech-language pathology and audiology services to the public.
+12 (b) The following words and terms when used in this chapter have the following meaning
+13 unless otherwise indicated within the context:
+14 (1) “Audiologist” means an individual licensed by the board to practice audiology.
+15 (2) “Audiology” means the application of principles, methods, and procedures related to
+16 hearing and the disorders of the hearing and balance systems, to related language and speech
+17 disorders, and to aberrant behavior related to hearing loss. A hearing disorder in an individual is
+18 defined as altered sensitivity, acuity, function, processing, or damage to the integrity of the
+
+1 physiological auditory/vestibular systems.
+2 (3) “Board” means the state board of examiners of speech-language pathology and
+3 audiology.
+4 (4) “Clinical fellow” means the person who is practicing speech-language pathology under
+5 the supervision of a licensed speech-language pathologist while completing the postgraduate
+6 professional experience as required by this chapter.
+7 (5) “Department” means the Rhode Island department of health.
+8 (6) “Director” means the director of the Rhode Island department of health.
+9 (7) “Person” means an individual, partnership, organization, or corporation, except that
+10 only individuals can be licensed under this chapter.
+11 (8)(i) “Practice of audiology” means rendering or offering to render any service in
+12 audiology, including prevention, screening, and identification, evaluation, habilitation,
+13 rehabilitation; participating in environmental and occupational hearing-conservation programs, and
+14 habilitation and rehabilitation programs including hearing aid and assistive-listening-device
+15 evaluation, prescription, preparation, dispensing, and/or selling and orientation; auditory training
+16 and speech reading; conducting and interpreting tests of vestibular function and nystagmus;
+17 conducting and interpreting electrophysiological measures of the auditory pathway; cerumen
+18 management; evaluating sound environment and equipment; calibrating instruments used in testing
+19 and supplementing auditory function; and planning, directing, conducting, or supervising programs
+20 that render or offer to render any service in audiology.
+21 (ii) The practice of audiology may include speech and/or language screening to a pass or
+22 fail determination, for the purpose of initial identification of individuals with other disorders of
+23 communication.
+24 (iii) A practice is deemed to be the “practice of audiology” if services are offered under
+25 any title incorporating such word as “audiology,” “audiologist,” “audiometry,” “audiometrist,”
+26 “audiological,” “audiometrics,” “hearing therapy,” “hearing therapist,” “hearing clinic,” “hearing
+27 clinician,” “hearing conservation,” “hearing conservationist,” “hearing center,” “hearing aid
+28 audiologist,” or any similar title or description of services.
+29 (9)(i) “Practice of speech-language pathology” means rendering or offering to render any
+30 service in speech-language pathology including prevention, identification, evaluation, consultation,
+31 habilitation, rehabilitation; determining the need for augmentative communication systems,
+32 dispensing and selling these systems, and providing training in the use of these systems; and
+33 planning, directing, conducting, or supervising programs that render or offer to render any service
+34 in speech-language pathology.
+LC005350 - Page 2 of 29
+
+1 (ii) The practice of speech-language pathology may include nondiagnostic pure-tone air
+2 conduction screening, screening tympanometry, and acoustic reflex screening, limited to a pass or
+3 fail determination, for the purpose of performing a speech and language evaluation or for the initial
+4 identification of individuals with other disorders of communication.
+5 (iii) The practice of speech-language pathology also may include aural rehabilitation,
+6 which is defined as services and procedures for facilitating adequate receptive and expressive
+7 communication in individuals with hearing impairment.
+8 (iv) A practice is deemed to be the “practice of speech-language pathology” if services are
+9 offered under any title incorporating such words as “speech pathology,” “speech pathologist,”
+10 “speech therapy,” “speech therapist,” “speech correction,” “speech correctionist,” “speech clinic,”
+11 “speech clinician,” “language pathology,” “language pathologist,” “voice therapy,” “voice
+12 therapist,” “voice pathology,” “voice pathologist,” “logopedics,” “logopedist,” “communicology,”
+13 “communicologist,” “aphasiology,” “aphasiologist,” “phoniatrist,” or any similar title or
+14 description of services.
+15 (10) “Regionally accredited” means the official guarantee that a college or university or
+16 other educational institution is in conformity with the standards of education prescribed by a
+17 regional accrediting commission recognized by the United States Secretary of Education.
+18 (11) “Speech-language pathologist” means an individual who is licensed by the board to
+19 practice speech-language pathology.
+20 (12) “Speech-language pathology” means the application of principles, methods, and
+21 procedures for prevention, identification, evaluation, consultation, habilitation, rehabilitation,
+22 instruction, and research related to the development and disorders of human communication.
+23 Disorders are defined to include any and all conditions, whether of organic or non-organic origin,
+24 that impede the normal process of human communication in individuals or groups of individuals
+25 who have or are suspected of having these conditions, including, but not limited to, disorders and
+26 related disorders of:
+27 (i) Speech: articulation, fluency, voice (including respiration, phonation and resonance);
+28 (ii) Language (involving the parameters of phonology, morphology, syntax, semantics, and
+29 pragmatics; and including disorders of receptive and expressive communication in oral, written,
+30 graphic, and manual modalities);
+31 (iii) Oral, pharyngeal, laryngeal, cervical esophageal, and related functions (e.g.,
+32 dysphasia, including disorders of swallowing and oral function for feeding; oro-facial
+33 myofunctional disorders);
+34 (iv) Cognitive aspects of communication (including communication disability and other
+LC005350 - Page 3 of 29
+
+1 functional disabilities associated with cognitive impairment); and
+2 (v) Social aspects of communication (including challenging behavior, ineffective social
+3 skills, lack of communication opportunities).
+4 5-48-2. Board of examiners — Composition — Appointments, terms, and
+5 qualifications of members.
+6 (a) There exists within the department of health a board of examiners of speech-language
+7 pathology and audiology. The board shall consist of five (5) persons who are residents of the state
+8 and who have worked within the state for at least one year prior to their appointments.
+9 (1) Two (2) members shall be speech-language pathologists who have practiced speech-
+10 language pathology for at least five (5) years preceding appointment, are currently practicing
+11 speech-language pathology, and hold active and valid licensure for the practice of speech-language
+12 pathology in this state.
+13 (2) One member shall be an audiologist who has practiced audiology for at least five (5)
+14 years immediately preceding appointment, is currently practicing audiology, and holds active and
+15 valid licensure for the practice of audiology in this state.
+16 (3) One member shall be an otolaryngologist who holds certification by the American
+17 Academy of Otolaryngology — head and neck surgery, who is currently practicing otolaryngology,
+18 and holds active and valid licensure as a physician within this state.
+19 (4) One member shall be a representative of the consumer public who is not associated
+20 with or financially interested in the practice or business of speech-language pathology or audiology.
+21 (b) All appointments to the board shall be for the term of three (3) years. Members shall
+22 serve until the expiration of the term for which they have been appointed or until their appointed
+23 successors are qualified.
+24 (c) When a vacancy upon the board occurs, the director of the department of health shall,
+25 with the approval of the governor, appoint persons who are working within the state to fill the
+26 remainder of the vacant term.
+27 (d) The board shall reorganize annually during the month of January and shall select a
+28 chairperson.
+29 (e) A majority of currently filled positions shall constitute a quorum to do business.
+30 (f) No person shall be appointed to serve more than two (2) consecutive terms.
+31 (g) The first board and all future members shall be appointed by the director of the
+32 department of health, with the approval of the governor.
+33 (h) The director of the department of health, with the approval of the governor, may remove
+34 any member of the board for dishonorable conduct, incompetency, or neglect of duty.
+LC005350 - Page 4 of 29
+
+1 5-48-3. Board of examiners — Duties and powers — Meetings — Compensation of
+2 members.
+3 (a) The board shall administer, coordinate, and enforce the provisions of this chapter;
+4 evaluate the qualifications of applicants; and may issue subpoenas, examine witnesses, and
+5 administer oaths, conduct hearings, and at its discretion investigate allegations of violations of this
+6 chapter and impose penalties if any violations of the chapter have occurred.
+7 (b) The board shall conduct hearings and keep records and minutes as necessary to an
+8 orderly dispatch of business.
+9 (c) The board shall, with the approval of the director of the department of health, adopt,
+10 amend, or repeal rules and regulations, including, but not limited to, regulations that delineate
+11 qualifications for licensure and establish standards of professional conduct. Following their
+12 adoption, the rules and regulations shall govern and control the professional conduct of every
+13 person who holds a license to practice speech-language pathology or audiology in this state.
+14 (d) The board shall make available complete lists of the names and addresses of all licensed
+15 speech-language pathologists and audiologists.
+16 (e) The board may request legal advice and assistance from the appropriate state legal
+17 officer.
+18 (f) Regular meetings of the board shall be held at the times and places that it prescribes,
+19 and special meetings may be held upon the call of the chairperson; provided, that at least one regular
+20 meeting shall be held each year.
+21 (g) The conferral or enumeration of specific powers in this chapter shall not be construed
+22 as a limitation of the general powers conferred by this section. No member of the board shall be
+23 liable to civil action for any act performed in good faith in the performance of his or her duties as
+24 prescribed by this chapter.
+25 (h) Board members shall serve without compensation.
+26 (i) The board may suspend the authority of any registered speech-language pathologist or
+27 audiologist to practice speech-language pathology or audiology for failure to comply with any of
+28 the requirements of this chapter.
+29 5-48-4. Board examiners — Seal — Authentication of records.
+30 The board shall adopt the state seal by which it authenticates its proceedings. Copies of the
+31 proceedings, records, and acts of the board, and certificates purporting to relate the facts concerning
+32 those proceedings, records, and acts, signed by the secretary and authenticated by that seal, shall
+33 be evidence in all courts of this state.
+34 5-48-5. Receipts.
+LC005350 - Page 5 of 29
+
+1 The proceeds of any fees collected pursuant to the provisions of this chapter shall be
+2 deposited as general revenues.
+3 5-48-6. Licensure and regulation of speech-language pathologists and audiologists.
+4 (a) Licensure shall be granted in either speech-language pathology or audiology
+5 independently. A person may be licensed in both areas if he or she meets the respective
+6 qualifications.
+7 (b) No person shall practice as, advertise as, or use the title of speech pathologist or
+8 audiologist as defined in § 5-48-1 in this state unless he or she is licensed in accordance with the
+9 provisions of the laws of the state.
+10 (c) Registered speech-language pathologists or audiologists may render services under the
+11 terms and provisions of the workers’ compensation and rehabilitation laws.
+12 (d) A provisional license for the clinical fellow (defined in § 5-48-1(b)(4)) shall be required
+13 in speech-language pathology for that period of postgraduate professional experience as required
+14 in § 5-48-7.1. A provisional license shall authorize an individual to practice speech-language
+15 pathology solely in connection with the completion of the supervised postgraduate professional
+16 experience.
+17 5-48-7. Qualifications of applicants for a license as a speech-language pathologist.
+18 To be eligible for licensure by the board as a speech-language pathologist the applicant
+19 must:
+20 (1) Be of good moral character;
+21 (2) Apply to the department, upon a form prescribed by the department;
+22 (3) Submit the appropriate application fee;
+23 (4) Submit an official transcript indicating possession of a master’s degree or a doctorate
+24 degree or equivalent in speech-language pathology from an educational institution accredited by
+25 the Council on Academic Accreditation (CAA) of the American Speech-Language-Hearing
+26 Association (ASHA) or other national accrediting association as may be approved by the board.
+27 The degree shall consist of course work in accordance with the current, minimum requirements for
+28 the certificate of clinical competence issued by the American Speech-Language-Hearing
+29 Association (ASHA) or other national accrediting association as may be approved by the board and
+30 delineated in the rules and regulations;
+31 (5) Complete supervised clinical-practicum experiences from an educational institution or
+32 its cooperating programs. The content of the practicum shall be in accordance with the current,
+33 minimum requirements for the certificate of clinical competence issued by the American Speech-
+34 Language-Hearing Association (ASHA) or other national accrediting association as may be
+LC005350 - Page 6 of 29
+
+1 approved by the board and delineated in the rules and regulations;
+2 (6) Pass a national examination in speech-language pathology as required by the American
+3 Speech-Language-Hearing Association (ASHA) or other national accrediting association as may
+4 be approved by the board and delineated in the rules and regulations;
+5 (7) Present verification of a certificate of clinical competence from the American Speech-
+6 Language-Hearing Association (ASHA) or other national accrediting association as may be
+7 approved by the board; and
+8 (8) If applicable, present evidence from the board of speech-language pathology in each
+9 state in which the applicant has held or holds licensure to be submitted to the board of this state,
+10 attesting to the licensure status of the applicant during the time period the applicant held licensure
+11 in the state.
+12 5-48-7.1. Qualifications for a provisional license for a speech-language pathologist.
+13 (a) To be eligible for provisional licensure by the board, the speech-language pathologist
+14 applicant must submit an application with the required application fee and be in compliance with
+15 the requirements of § 5-48-7(1), (4), (5), and (6).
+16 (b) In addition to the requirements of subsection (a) of this section, content of the
+17 supervised postgraduate professional experience shall meet the standards of a trainee or fellow of
+18 speech pathology as required by the American Speech-Language-Hearing Association (ASHA) or
+19 other national accrediting association as may be approved by the board.
+20 (c) If the postgraduate professional experience extends beyond one year, provisional
+21 licensure must be renewed annually and not exceed thirty-six (36) months past the initiation of the
+22 professional experience.
+23 (d) The provisional licensure shall expire ninety (90) days after the end of the postgraduate
+24 professional experience.
+25 5-48-7.2. Qualifications for license as an audiologist.
+26 Persons seeking initial licensure as an audiologist on or after January 1, 2008, shall meet
+27 the following requirements:
+28 (1) Be of good moral character;
+29 (2) Apply to the board, upon a form prescribed by the board;
+30 (3) Submit the appropriate application fee;
+31 (4) Submit an official transcript indicating possession of an earned doctorate degree in
+32 audiology from a regionally accredited educational institution as delineated in the rules and
+33 regulations;
+34 (5) Pass a national examination in audiology approved by the board and delineated in the
+LC005350 - Page 7 of 29
+
+1 rules and regulations;
+2 (6) Present evidence of practicum experience that is equivalent to a minimum of twelve
+3 (12) months of full-time, supervised experience, that may be completed as part of the graduate
+4 degree, as delineated in the rules and regulations;
+5 (7) If applicable, present evidence from the board of audiology in each state in which the
+6 applicant has held or holds licensure to be submitted to the board of this state, attesting to the
+7 licensure status of the applicant during the time period the applicant held licensure in the state;
+8 (8) Any other requirements as set forth in the rules and regulations.
+9 5-48-7.3. Qualifications for audiologists licensed in alternate jurisdictions.
+10 Persons licensed as an audiologist in alternate jurisdictions on or before January 1, 2008,
+11 shall meet the requirements of this state that were in effect at the time of initial licensure in the
+12 alternate jurisdiction.
+13 5-48-8. [Repealed.]
+14 5-48-9. Fees — Late filing — Inactive status.
+15 (a) The board may charge an application fee; a biennial license renewal fee payable before
+16 July 1 of even years (biennially); or a provisional license renewal fee as set forth in § 23-1-54
+17 payable annually from the date of issue.
+18 (b) Any person who allows his or her license to lapse by failing to renew it on or before
+19 the thirtieth (30th) day of June of even years (biennially), may be reinstated by the board on
+20 payment of the current renewal fee plus an additional late filing fee as set forth in § 23-1-54.
+21 (c) An individual licensed as a speech-language pathologist or audiologist in this state, not
+22 in the active practice of speech-language pathology or audiology within this state during any year,
+23 may upon request to the board, have his or her name transferred to an inactive status and shall not
+24 be required to register biennially or pay any fee as long as he or she remains inactive. Inactive status
+25 may be maintained for no longer than two (2) consecutive licensing periods, after which period
+26 licensure shall be terminated and reapplication to the board shall be required to resume practice.
+27 (d) Any individual whose name has been transferred to an inactive status may be restored
+28 to active status within two (2) licensing periods without a penalty fee upon the filing of:
+29 (1) An application for licensure renewal, with a licensure renewal fee as set forth in § 23-
+30 1-54 made payable by check to the general treasurer of the state of Rhode Island; and
+31 (2) Any other information that the board may request.
+32 (e) [Deleted by P.L. 2015, ch. 141, art. 20, § 9].
+33 5-48-9.1. Continuing education.
+34 (a)(1) On or before the thirtieth (30th) day of June of even years, every person licensed to
+LC005350 - Page 8 of 29
+
+1 practice speech-language pathology or audiology within this state shall complete not less than
+2 twenty (20) clock hours of continuing education within the preceding two (2) years and be able to
+3 present satisfactory evidence of completion to the board.
+4 (2) Those persons holding licensure in both speech-language pathology and audiology must
+5 have completed and have evidence of completion of not less than thirty (30) clock hours of
+6 continuing education within the preceding two (2) years.
+7 (b) Continuing education hours may not be carried over from one renewal period to the
+8 next.
+9 (c) The board at its discretion may extend, reduce, or waive the requirement for continuing
+10 education for hardship or other extenuating circumstances as the board deems appropriate.
+11 5-48-10. Persons and practices exempted.
+12 The provisions of this chapter do not apply to:
+13 (1) A qualified person licensed, registered, certified, or credentialed in this state under any
+14 other law who is practicing the profession or business for which he or she is licensed, registered,
+15 certified, or credentialed, in the setting for which the licensure, registration, certification, or
+16 credential pertains and performs services within their authorized scope of practice.
+17 (2) This chapter specifically excludes those persons who commercially fit and sell hearing
+18 aids; provided, that those persons do not receive a separate or additional fee for testing or
+19 interpreting tests of hearing; and provided, that those persons do not represent themselves as
+20 audiologists as defined in this chapter. This subsection does not preclude remuneration for any
+21 other service offered solely in conjunction with the fitting or maintaining of a hearing aid.
+22 (3) No one shall be exempt under subsection (1) for that portion of his or her time spent as
+23 a private practitioner. If he or she performs any work as a speech-language pathologist or
+24 audiologist for which a fee may be paid by the recipient of the service as part of a private practice
+25 apart from his or her position with the government, a license must be held.
+26 5-48-11. Grounds for suspension or revocation of licenses.
+27 The license of any speech-language pathologist or audiologist may be suspended or
+28 revoked by the board upon proof that he or she:
+29 (1) Fraudulently or deceptively obtained or attempted to obtain a license for the applicant,
+30 licensee, holder, or for another;
+31 (2) Fraudulently or deceptively used a license;
+32 (3) Altered a license;
+33 (4) Aided or abetted unlicensed practice;
+34 (5) Committed fraud and deceit in the practice of speech-language pathology or of
+LC005350 - Page 9 of 29
+
+1 audiology, including, but not limited to:
+2 (i) Using or promoting, or causing the use of, any misleading, deceiving, or untruthful
+3 advertising matter, promotional literature, testimonial, guarantee, warranty, label, brand, insignia,
+4 or any other representation;
+5 (ii) Falsely representing the use or availability of services or advice of a physician;
+6 (iii) Misrepresenting the applicant, licensee, or holder by using the word “doctor” or any
+7 similar word, abbreviation, or symbol, if the use is not accurate or if the degree was not obtained
+8 from an accredited institution;
+9 (iv) Making or filing a false report or record in the practice of speech-language pathology
+10 or audiology;
+11 (v) Submitting a false statement to collect a fee; and
+12 (vi) Obtaining a fee through fraud or misrepresentation;
+13 (6) Providing services while mentally incompetent;
+14 (7) Engaging in illegal, incompetent, or habitually negligent practice;
+15 (8) Providing professional services while:
+16 (i) Under the influence of alcohol; or
+17 (ii) Using any narcotic or controlled dangerous substance or other drug that is in excess of
+18 therapeutic amounts or without valid medical indication;
+19 (9) Promoting the sale of devices, appliances, or products to a patient who cannot benefit
+20 from these devices, appliances, or products;
+21 (10) Violating any provision of this chapter, any lawful order given, or rule or regulation
+22 adopted by the board or departure from or failure to conform to the current standards of acceptable
+23 prevailing practice and code of ethics of speech-language pathology or audiology;
+24 (11) Being convicted of, or pleading guilty or nolo contendere to, a felony, whether or not
+25 any appeal or another proceeding is pending to have the conviction or plea set aside;
+26 (12) Incompetent or negligent misconduct in the practice of speech-language pathology or
+27 audiology;
+28 (13) Is habitually intemperate or is addicted to the use of habit-forming drugs;
+29 (14) Being disciplined by a licensing or disciplinary authority of any other state or country,
+30 or convicted or disciplined by a court of any state or country, for an act that would be grounds for
+31 disciplinary action under this section; or
+32 (15) Failing to maintain continuing education requirements.
+33 5-48-12. Penalty for violations.
+34 (a) The board is granted the authority to impose the following disciplinary actions in those
+LC005350 - Page 10 of 29
+
+1 instances in which an applicant for a license or a licensee has been guilty of conduct that has
+2 endangered, or is likely to endanger, the health, welfare, or safety of the public:
+3 (1) Refuse to issue or renew a license.
+4 (2) Issue a letter of reprimand or concern.
+5 (3) Require restitution of fees.
+6 (4) Impose probationary conditions.
+7 (5) Suspend or revoke a license.
+8 (b) Any person found to be in violation of any provision of this chapter, upon conviction,
+9 shall be guilty of a misdemeanor and punished by a fine of not more than one thousand dollars
+10 ($1,000).
+11 5-48-13. Revocation and suspension procedure — Reinstatement.
+12 (a)(1) Notice, in writing, of a contemplated revocation or suspension of a license, of this
+13 particular cause, and of the date of a hearing, shall be sent by registered or certified mail to the
+14 licensee at his or her last known address at least fifteen (15) days before the date of the hearing.
+15 (2) The individual against whom a charge is filed has the right to appear before the board
+16 in person or by counsel, or both; may produce witnesses and evidence on his or her behalf; and
+17 may question witnesses.
+18 (3) No license shall be revoked or suspended without a hearing, but the nonappearance of
+19 the licensee, after notice, shall not prevent a hearing.
+20 (4) All matters upon which the decision is based shall be introduced in evidence at the
+21 proceeding.
+22 (5) The licensee shall be notified, in writing, of the board’s decision.
+23 (6) The board may make any rules and regulations that it deems proper for the filing of
+24 charges and the conduct of hearings.
+25 (b) After issuing an order of revocation or suspension, the board may also file a petition in
+26 equity in the superior court in a county in which the respondent resides or transacts business, to
+27 ensure appropriate injunctive relief to expedite and secure the enforcement of its order, pending the
+28 final determination.
+29 (c) An application for reinstatement may be made to the board, which may, upon the
+30 affirmative vote of at least the majority of its members, grant a reinstatement.
+31 5-48-14. [Obsolete.]
+32 5-48-15. Severability.
+33 If any provision of this chapter or of any rule or regulation made under this chapter, or their
+34 application to any person or circumstances, is held invalid by a court of competent jurisdiction, the
+LC005350 - Page 11 of 29
+
+1 remainder of the chapter, rule, or regulation, and the application of that provision to other persons
+2 or circumstances, shall not be affected.
+3 SECTION 2. Sections 5-48.2-3, 5-48.2-4, 5-48.2-5, 5-48.2-6, 5-48.2-7, 5-48.2-8 and 5-
+4 48.2-13 of the General Laws in Chapter 5-48.2 entitled "Professional Licensing and Regulation of
+5 Speech-Language Pathologists and Audiologists" are hereby amended to read as follows:
+6 5-48.2-3. Definitions.
+7 As used in this chapter, the following words and terms shall have the following meanings,
+8 except where the context clearly indicates otherwise:
+9 (1) “Accredited/approved” means that an institution/program holds regional accreditation
+10 from one of six (6) regional accrediting bodies: Middle States Association of Colleges and Schools,
+11 New England Association of Schools and Colleges, North Central Association of Colleges and
+12 Schools, Northwest Association of Schools and Colleges, Southern Association of Colleges and
+13 Schools, and Western Association of Schools and Colleges.
+14 (2) “Act” means chapter 48 of this title entitled, “speech-language pathology and
+15 audiology,” as well as the provisions of this chapter, where the context so indicates.
+16 (3)(2) “Audiologist” means an individual who is licensed by the board to practice
+17 audiology either in person or via telepractice.
+18 (4)(3) “Audiology” means the audiologist applies the principles, methods, and procedures
+19 related to hearing and the disorders of the hearing and balance systems, to related language and
+20 speech disorders, and to aberrant behavior related to hearing loss. A hearing disorder is defined as
+21 altered sensitivity, acuity, function, processing, and/or damage to the integrity of the physiological
+22 auditory/vestibular systems, in individuals or groups of individuals who have or are suspected of
+23 having such disorders.
+24 (5)(4) “Audiology support personnel” shall operate under the title “audiometric aide” or
+25 “audiology assistant” and means an individual who meets minimum qualifications established by
+26 the board, which are less than those established by the act this chapter as necessary for licensing as
+27 an audiologist; does not act independently; is limited to hearing screening with pass/fail criteria;
+28 and works under the direction and supervision of an audiologist licensed under the act this chapter
+29 who has been actively working in the field for twenty-four (24) months after completion of the
+30 postgraduate professional experience and who accepts the responsibility for the acts and
+31 performances of the audiometric aide or audiology assistant while working under the act.
+32 (6)(5) “Board” means the state board of examiners of speech-language pathology and
+33 audiology established pursuant to § 5-48-2.
+34 (7) “Clinical fellow” means the person who is practicing speech-language pathology under
+LC005350 - Page 12 of 29
+
+1 the supervision of a licensed speech-language pathologist while completing the postgraduate
+2 professional experience as required by the act and who holds a current provisional license in
+3 accordance with the requirements described in this chapter.
+4 (8) “Clinical fellowship or traineeship” means the direct clinical work, consultation, or
+5 other duties relevant to clinical speech-language pathology work with individuals presenting
+6 disorders in communication, for a cumulative or equivalent total of nine (9) months of full-time
+7 employment following completion of professional speech-language pathology education under
+8 supervision pursuant to § 5-48-7 and the provisions of this chapter.
+9 (9)(6) “Department” means the Rhode Island department of health.
+10 (10)(7) “Director” means the director of the Rhode Island department of health.
+11 (11)(8) “Graduate program” means a post-baccalaureate accredited program leading to a
+12 master’s or doctoral degree, including a professional doctoral degree, whether offered through an
+13 accredited graduate or professional school.
+14 (12)(9) “Newborn hearing screener” means an audiometric aide or audiology assistant
+15 working in a hospital-based newborn hearing screening program under the direction of the
+16 department of health newborn hearing screening program, or its appointee.
+17 (13)(10) “Person” means an individual, partnership organization, or corporation, except
+18 that only individuals can be licensed under this chapter.
+19 (14)(11) “The practice of audiology” means an audiologist rendering or offering to render
+20 any service in audiology either in person or via telepractice as defined in § 5-48-1 and in this section
+21 rendering or offering to render any service in audiology, including prevention, screening, and
+22 identification, evaluation, habilitation, rehabilitation; participating in environmental and
+23 occupational hearing-conservation programs, and habilitation and rehabilitation programs
+24 including hearing aid and assistive-listening-device evaluation, prescription, preparation,
+25 dispensing, and/or selling and orientation; auditory training and speech reading; conducting and
+26 interpreting tests of vestibular function and nystagmus; conducting and interpreting
+27 electrophysiological measures of the auditory pathway; cerumen management; evaluating sound
+28 environment and equipment; calibrating instruments used in testing and supplementing auditory
+29 function; and planning, directing, conducting, or supervising programs that render or offer to render
+30 any service in audiology.
+31 (i) The practice of audiology may include speech and/or language screening to a pass or
+32 fail determination, for the purpose of initial identification of individuals with other disorders of
+33 communication.
+34 (ii) A practice is deemed to be the “practice of audiology” if services are offered under any
+LC005350 - Page 13 of 29
+
+1 title incorporating such word as “audiology,” “audiologist,” “audiometry,” “audiometrist,”
+2 “audiological,” “audiometrics,” “hearing therapy,” “hearing therapist,” “hearing clinic,” “hearing
+3 clinician,” “hearing conservation,” “hearing conservationist,” “hearing center,” “hearing aid
+4 audiologist,” or any similar title or description of services.
+5 (15)(12) “The practice of speech-language pathology” means rendering or offering to
+6 render any service in speech-language pathology either in person or via telepractice as defined in
+7 this section rendering or offering to render any service in speech-language pathology including
+8 prevention, identification, evaluation, consultation, habilitation, rehabilitation; determining the
+9 need for augmentative communication systems, dispensing and selling these systems, and
+10 providing training in the use of these systems; and planning, directing, conducting, or supervising
+11 programs that render or offer to render any service in speech-language pathology.
+12 (i) The practice of speech-language pathology may include nondiagnostic pure-tone air
+13 conduction screening, screening tympanometry, and acoustic reflex screening, limited to a pass or
+14 fail determination, for the purpose of performing a speech and language evaluation or for the initial
+15 identification of individuals with other disorders of communication.
+16 (ii) The practice of speech-language pathology also may include aural rehabilitation, which
+17 is defined as services and procedures for facilitating adequate receptive and expressive
+18 communication in individuals with hearing impairment.
+19 (iii) A practice is deemed to be the “practice of speech-language pathology” if services are
+20 offered under any title incorporating such words as “speech pathology,” “speech pathologist,”
+21 “speech therapy,” “speech therapist,” “speech correction,” “speech correctionist,” “speech clinic,”
+22 “speech clinician,” “language pathology,” “language pathologist,” “voice therapy,” “voice
+23 therapist,” “voice pathology,” “voice pathologist,” “logopedics,” “logopedist,” “communicology,”
+24 “communicologist,” “aphasiology,” “aphasiologist,” “phoniatrist,” or any similar title or
+25 description of services..
+26 (16)(13) “Regionally accredited” means the official guarantee that a college or university
+27 or other educational institution is in conformity with the standards of education prescribed by a
+28 regional accrediting commission recognized by the United States Secretary of Education.
+29 (17)(14) “School hearing screener” means an audiometric aide or audiology assistant
+30 working in a school-based hearing screening program under the direction of the Rhode Island
+31 department of elementary and secondary education or its appointee.
+32 (18)(15) “Speech-language pathologist” means an individual who is licensed by the board
+33 to practice speech-language pathology either in person or via telepractice.
+34 (19)(16) “Speech-language pathology” means the activities defined in § 5-48-1 and in this
+LC005350 - Page 14 of 29
+
+1 section the application of principles, methods, and procedures for prevention, identification,
+2 evaluation, consultation, habilitation, rehabilitation, instruction, and research related to the
+3 development and disorders of human communication. Disorders are defined to include any and all
+4 conditions, whether of organic or non-organic origin, that impede the normal process of human
+5 communication in individuals or groups of individuals who have or are suspected of having these
+6 conditions including, but not limited to, disorders and related disorders of:
+7 (i) Speech: articulation, fluency, voice (including respiration, phonation and resonance);
+8 (ii) Language (involving the parameters of phonology, morphology, syntax, semantics, and
+9 pragmatics; and including disorders of receptive and expressive communication in oral, written,
+10 graphic, and manual modalities);
+11 (iii) Oral, pharyngeal, laryngeal, cervical esophageal, and related functions (e.g.,
+12 dysphasia, including disorders of swallowing and oral function for feeding; oro-facial
+13 myofunctional disorders);
+14 (iv) Cognitive aspects of communication (including communication disability and other
+15 functional disabilities associated with cognitive impairment); and
+16 (v) Social aspects of communication (including challenging behavior, ineffective social
+17 skills, lack of communication opportunities).
+18 (20)(17) “Speech-language pathology assistant (SLPA) support personnel” means an
+19 individual who meets minimum qualifications established by the board, which are less than those
+20 established by the act this chapter as necessary for licensing as a speech-language pathologist; does
+21 not act independently; and works under the direction and supervision of a speech-language
+22 pathologist licensed under the act this chapter who has been actively working in the field for twenty-
+23 four (24) months after completion of the postgraduate professional experience and who accepts the
+24 responsibility for the acts and performances of the speech-language pathology assistant while
+25 working under this chapter.
+26 (21)(18) “Telepractice” means the use of telecommunication technology to deliver speech-
+27 language pathology and audiology services remotely. Other terms such as teleaudiology,
+28 telespeech, and speech teletherapy are also used in addition to telepractice. Use of telepractice
+29 should be of equal quality to services provided in person and consistent with adherence to the
+30 American Speech-Language-Hearing Association (ASHA)’s Code of Ethics (ASHA, 2016a),
+31 Scope of Practice in Audiology (ASHA, 2018), Scope of Practice in Speech-Language Pathology
+32 (ASHA, 2016b), and Assistants Code of Conduct (ASHA, 2020) and as further provided in
+33 regulation.
+34 5-48.2-4. License requirements.
+LC005350 - Page 15 of 29
+
+1 (a) No person shall practice as, advertise as, or use the title of speech-language pathologist
+2 or audiologist in this state unless licensed in accordance with the provisions of the act and this
+3 section chapter. The provisions of the act and this section chapter shall not apply to individuals
+4 specifically exempt from the provisions thereof by § 5-48-10 a qualified person licensed, registered,
+5 certified, or credentialed in this state under any other law who is practicing the profession or
+6 business for which they are licensed, registered, certified, or credentialed, in the setting for which
+7 the licensure, registration, certification, or credential pertains and performs services within their
+8 authorized scope of practice.
+9 (b) This chapter specifically excludes those persons who commercially fit and sell hearing
+10 aids; provided that, those persons do not receive a separate or additional fee for testing or
+11 interpreting tests of hearing; and provided that, those persons do not represent themselves as
+12 audiologists as defined in this chapter . This subsection does not preclude remuneration for any
+13 other service offered solely in conjunction with the fitting or maintaining of hearing aids.
+14 (c) No one shall be exempt under subsection (a) of this section for that portion of their time
+15 spent as a private practitioner. If they perform any work as a speech-language pathologist or
+16 audiologist for which a fee may be paid by the recipient of the service as part of a private practice
+17 apart from their position with the government, a license must be held.
+18 (b) A provisional license for the clinical fellow as defined in this chapter shall be required
+19 in speech-language pathology for that period of postgraduate professional experience as required
+20 in §§ 5-48-7 and 5-48.2-5. A provisional license shall authorize an individual to practice speech-
+21 language pathology solely in connection with the completion of the supervised postgraduate
+22 professional experience.
+23 (c)(d) Any person residing in and/or licensed in another state who provides telepractice
+24 services in the area of speech-language pathology and audiology within the State of Rhode Island
+25 regardless of their legal residence must be licensed in the state in accordance with the provisions
+26 of the act and this chapter. The provisions of the act and this chapter shall not apply to individuals
+27 specifically exempt from the provisions thereof by § 5-48-10 5-48.2-4(b).
+28 5-48.2-5. Qualifications for licensure Qualifications for licensure as a speeech
+29 language pathologist.
+30 (a) Audiologists. In addition to the requirements set forth in § 5-48-7.2, persons seeking
+31 initial licensure as an audiologist providing in-person or telepractice services shall meet the
+32 following requirements:
+33 (1) Submit an official transcript indicating possession of an earned doctorate degree in
+34 audiology from a regionally accredited educational institution or other national accrediting
+LC005350 - Page 16 of 29
+
+1 organization as may be approved by the board;
+2 (2) Pass a national examination in audiology approved by the board;
+3 (3) Present evidence of practicum experience that is equivalent to a minimum of twelve
+4 (12) months of full-time, supervised experience, that may be completed as part of the graduate
+5 degree, as delineated in this chapter;
+6 (4) Applicants with a master’s degree holding licensure from another state must present
+7 verification of a Certificate of Clinical Competence from the American Speech-Language-Hearing
+8 Association (ASHA) or other national accrediting association as may be approved by the board.
+9 (b) Qualifications for audiologists licensed in alternate jurisdictions. Persons licensed
+10 as an audiologist in alternate jurisdictions on or before January 1, 2008, shall meet the requirements
+11 of Rhode Island that were in effect at the time of initial licensure in the alternate jurisdiction.
+12 (c) Speech-language pathologists. In addition to the requirements set forth in § 5-48-7, an
+13 applicant seeking licensure to practice as a speech-language pathologist who provides in-person or
+14 telepractice services in Rhode Island must have attained
+15 Speech language pathologists.
+16 To be eligible for licensure by the board as a speech-language pathologist the applicant
+17 must:
+18 (1) Be of good moral character;
+19 (2) Apply to the department, upon a form prescribed by the department;
+20 (3) Submit the appropriate application fee;
+21 (4) Complete supervised clinical-practicum experiences from an educational institution or
+22 its cooperating programs. The content of the practicum shall be in accordance with the current,
+23 minimum requirement for the certificate of clinical competence issued by the American Speech-
+24 Language-Hearing Association (ASHA) or other national accrediting association as may be
+25 approved by the board delineated in the rules and regulations;
+26 (5) Pass a national examination in speech-language pathology as required by ASHA or
+27 other national accrediting association as may be approved by the board and delineated in the rules
+28 and regulations;
+29 (6) Present verification of a certificate of clinical competence from ASHA or other national
+30 accrediting association as may be approved by the board;
+31 (7) If applicable, present evidence from the board of speech-language pathology in each
+32 state in which the applicant has held or holds licensure to be submitted to the board of this state,
+33 attesting to the licensure status of the applicant during the time period the applicant held licensure
+34 in the state; and
+LC005350 - Page 17 of 29
+
+1 (8) Attained a master’s degree or a doctoral degree or equivalent in speech-language
+2 pathology from an accredited educational institution accredited by the Council on Academic
+3 Accreditation (CAA) of the American Speech-Language-Hearing Association (ASHA) or other
+4 national accrediting association as may be approved by the board. The degree shall consist of course
+5 work in accordance with the current minimum requirements for the Certificate of Clinical
+6 Competence issued by the American Speech-Language-Hearing Association (ASHA) or other
+7 national accrediting association as may be approved by the board.
+8 (d) Qualifications for a provisional license for speech-language pathologists. To be
+9 eligible for provisional licensure by the department, the speech-language pathologist must submit
+10 an application with the required application fee and be in compliance with the requirements of this
+11 chapter and § 5-48-7.1.
+12 5-48.2-6. Issuance and renewal of license and fee.
+13 (a) The department shall issue a license as an audiologist or speech-language pathologist,
+14 or renewal thereof, for a period of two (2) years. The license, unless sooner suspended or revoked,
+15 shall expire on the first day of July, two (2) years following its issuance, and may be renewed
+16 biennially (in even years); provided the applicant meets the requirements of this chapter.
+17 (b) A license may be renewed by submission of the renewal application and renewal fee as
+18 set forth in the fee structure for licensing, laboratory, and administrative services provided by the
+19 department of health in their regulations payable before July 1 of even years (biennially).
+20 (c) A provisional license may be renewed annually from the date of issue, if the
+21 postgraduate professional experience has exceeded one year, by submission of the renewal
+22 application and renewal fee as set forth in the fee structure for licensing, laboratory, and
+23 administrative services provided by the department of health. A provisional license shall not exceed
+24 thirty-six (36) months past the initiation of the professional experience and will expire ninety (90)
+25 days after the end of the postgraduate professional experience.
+26 (d)(1) Any licensee who allows their license to lapse by failing to renew it on or before the
+27 thirtieth day of June of even years (biennially), may have the license renewed reinstated by
+28 submitting to the department an application, and renewal fee plus an additional late fee as set forth
+29 in the fee structure for licensing, laboratory, and administrative services provided by the department
+30 of health.
+31 (2) Any person who allows their license to lapse longer than two (2) consecutive licensing
+32 periods may be reinstated by the department, upon the filing of:
+33 (i) A reinstatement application for licensure;
+34 (ii) Payment of the current licensure renewal fee plus an additional late fee as set forth in
+LC005350 - Page 18 of 29
+
+1 the fee structure for licensing, laboratory, and administrative services provided by the department
+2 of health; and
+3 (iii) Documentation of completion of continuing education units (CEUs) as required in this
+4 chapter taken during the previous two (2) years § 23-1-54, and documentation of completion of
+5 continuing education units (CEUs) as required in this chapter taken during the previous two (2)
+6 years.
+7 (e) Inactive status.
+8 (1) An individual licensed as a speech-language pathologist and/or audiologist in Rhode
+9 Island, not in the active practice of speech-language pathology or audiology within Rhode Island
+10 during any year, may upon request to the department have their name transferred to an inactive
+11 status and shall not be required to register biennially or pay any fee as long as the individual remains
+12 inactive.
+13 (2) Inactive status may be maintained for no longer than two (2) consecutive licensing
+14 periods, after which period licensure will be terminated and a reinstatement application submitted
+15 to the department will be required to resume practice.
+16 (3) Any individual whose name has been transferred to an inactive status may be restored
+17 to active status within two (2) licensing periods to practice speech-language pathology or audiology
+18 without a penalty fee, upon the filing of:
+19 (i) An application for licensure renewal with a licensure renewal fee as set forth in the fee
+20 structure for licensing, laboratory, and administrative services provided by the department of health
+21 § 23-1-54; and
+22 (ii) Such other information as may be requested by the board.
+23 (f) Any non-provisional, active license may be renewed by submission of the renewal
+24 application and renewal fee as set forth in regulations payable before July 1 of even years
+25 (biennially).
+26 5-48.2-7. Denial, suspension, and revocation of license.
+27 (a) The board is authorized to deny, suspend or revoke any license to practice speech-
+28 language pathology and/or audiology or discipline any licensee upon a finding by the board that
+29 the person is guilty of conduct as set forth in § 5-48-11, and in addition:
+30 (1) Fraudulently or deceptively obtained or attempted to obtain a license for the applicant,
+31 licensee, holder, or for another;
+32 (2) Fraudulently or deceptively used a license;
+33 (3) Altered a license;
+34 (4) Aided or abetted unlicensed practice;
+LC005350 - Page 19 of 29
+
+1 (5) Committed fraud and deceit in the practice of speech-language pathology or of
+2 audiology including, but not limited to:
+3 (i) Using or promoting, or causing the use of, any misleading, deceiving, or untruthful
+4 advertising matter, promotional literature, testimonial, guarantee, warranty, label, brand, insignia,
+5 or any other representation;
+6 (ii) Falsely representing the use or availability of services or advice of a physician;
+7 (iii) Misrepresenting the applicant, licensee, or holder by using the word “doctor” or any
+8 similar word, abbreviation, or symbol, if the use is not accurate or if the degree was not obtained
+9 from an accredited institution;
+10 (iv) Making or filing a false report or record in the practice of speech-language pathology
+11 or audiology;
+12 (v) Submitting a false statement to collect a fee; and
+13 (vi) Obtaining a fee through fraud or misrepresentation;
+14 (6) Providing services while mentally incompetent;
+15 (7) Engaging in illegal, incompetent, or habitually negligent practice;
+16 (8) Providing professional services while:
+17 (i) Under the influence of alcohol; or
+18 (ii) Using any narcotic or controlled dangerous substance or other drug that is in excess of
+19 therapeutic amounts or without valid medical indication;
+20 (9) Promoting the sale of devices, appliances, or products to a patient who cannot benefit
+21 from these devices, appliances, or products;
+22 (10) Violating any provision of this chapter, any lawful order given, or rule or regulation
+23 adopted by the board or departure from or failure to conform to the current standards of acceptable
+24 prevailing practice and code of ethics of speech-language pathology or audiology;
+25 (11) Being convicted of, or pleading guilty or nolo contendere to, a felony, whether or not
+26 any appeal or another proceeding is pending to have the conviction or plea set aside;
+27 (12) Incompetent or negligent misconduct in the practice of speech-language pathology or
+28 audiology;
+29 (13) Is habitually intemperate or is addicted to the use of habit-forming drugs;
+30 (14) Being disciplined by a licensing or disciplinary authority of any other state or country,
+31 or convicted or disciplined by a court of any state or country, for an act that would be grounds for
+32 disciplinary action under this section; or
+33 (15) Failing to maintain continuing education requirements.
+34 (1)(16) Violating any provision of the act this chapter, any lawful order given, or rule or
+LC005350 - Page 20 of 29
+
+1 regulation adopted by the board or departure from or failure to conform to the current standards of
+2 acceptable prevailing practice and code of ethics of speech-language pathology or audiology as
+3 adopted by the board and as contained in the “American Speech-Language-Hearing Association
+4 Code of Ethics” as incorporated in this chapter. The board need not establish actual injury to clients
+5 in order to adjudge a speech-language pathologist or audiologist of the above-named conduct.
+6 (2)(b) The procedure for denial, revocation, or suspension of a license or discipline of a
+7 licensee shall be as that set forth in § 5-48-13. §§ 5-48.2-7(b)(1) through 5-48.2-7(b)(8):
+8 (1) Notice, in writing, of a contemplated revocation or suspension of a license, of this
+9 particular cause, and of the date of a hearing, shall be sent by registered or certified mail to the
+10 licensee at his or her last known address at least fifteen (15) days before the date of the hearing.
+11 (2) The individual against whom a charge is filed has the right to appear before the board
+12 in person or by counsel, or both; may produce witnesses and evidence on his or her behalf; and
+13 may question witnesses.
+14 (3) No license shall be revoked or suspended without a hearing, but the nonappearance of
+15 the licensee, after notice, shall not prevent a hearing.
+16 (4) All matters upon which the decision is based shall be introduced in evidence at the
+17 proceeding.
+18 (5) The licensee shall be notified, in writing, of the board’s decision.
+19 (6) The board may make any rules and regulations that it deems proper for the filing of
+20 charges and the conduct of hearings.
+21 (7) After issuing an order of revocation or suspension, the board may also file a petition in
+22 equity in the superior court in the county in which the respondent resides or transacts business, to
+23 ensure appropriate injunctive relief to expedite and secure the enforcement of its order, pending the
+24 final determination.
+25 (8) An application for reinstatement may be made to the board, which may, upon the
+26 affirmative vote of at least the majority of its members, grant a reinstatement.
+27 5-48.2-8. Support personnel.
+28 (a) A speech-language pathology assistant (SLPA) for speech-language pathologists shall
+29 meet the following requirements:
+30 (1) Possess at minimum a:
+31 (i) Two-year (2) speech-language pathology assistant program degree from an accredited
+32 institution; or
+33 (ii) Bachelor’s degree in communication sciences and disorders from an accredited
+34 institution; or
+LC005350 - Page 21 of 29
+
+1 (iii) Bachelor’s degree and a certificate from a board approved speech-language pathology
+2 assistant program; or
+3 (iv) Associate’s, bachelor’s, or advanced degree from an accredited institution in a related
+4 field to include, but not limited to, human development and family sciences, education, or
+5 psychology and complete at least eighteen (18) credit hours in coursework in speech-language
+6 pathology in the following areas: introductory or overview course in communication disorders,
+7 phonetics, anatomy and physiology of speech and hearing mechanisms, language development,
+8 speech and language disorders, and clinical methods in speech-language pathology.
+9 (2) Complete:
+10 (i) Twenty-five (25) hours of documented observation of a licensed speech-language
+11 pathologist, which may be accomplished within an undergraduate program of study; and
+12 (ii) One hundred (100) clinical hours under the supervision of a licensed speech-language
+13 pathologist.
+14 (b) Scope of practice of speech-language pathology assistants. A licensed speech-language
+15 pathology assistant shall only engage in those duties that adhere to the code of ethics of the board
+16 and are planned, designed, and supervised by a licensed speech-language pathologist, including:
+17 (1) Developing low-tech augmentative and alternative communication materials for
+18 students, patients, and clients;
+19 (2) Assisting with speech, language, and hearing screenings without clinical interpretation
+20 of results;
+21 (3) Administering and scoring screenings for clinical interpretation by the supervising
+22 speech-language pathologist;
+23 (4) Assisting with, but not administering or interpreting the results of, client assessments,
+24 including setting up the testing environment, gathering and preparing materials, and taking notes;
+25 (5) Administering and scoring assessments and progress monitoring tools without clinical
+26 interpretation of results, if the licensed speech-language pathology assistant meets the examiner
+27 requirements for such tools and the supervising speech-language pathologist has verified that such
+28 examiner requirements have been met;
+29 (6) Performing routine activities for therapy sessions in accordance with a plan developed
+30 and directed by the speech-language pathologist who retains the professional responsibility for such
+31 client, including:
+32 (i) Implementing documented care plans or protocols;
+33 (ii) Providing direct therapy services to address treatment goals;
+34 (iii) Adjusting and documenting the amount and type of support or scaffolding provided to
+LC005350 - Page 22 of 29
+
+1 the client in treatment to facilitate progress; and
+2 (iv) Developing and implementing activities and materials for teaching and practice of
+3 skills to address the goals of the client;
+4 (7) Providing treatment through a variety of service delivery models as directed by the
+5 supervising speech-language pathologist;
+6 (8) Utilizing telecommunications technology to provide services remotely to clients as
+7 directed by the supervising speech-language pathologist;
+8 (9) Documenting client performance and reporting such performance information to the
+9 supervising speech-language pathologist;
+10 (10) Providing caregiver coaching, including modeling and teaching communication
+11 strategies and providing feedback regarding caregiver-client interactions for facilitation and
+12 carryover of skills;
+13 (11) Sharing objective information regarding client performance without interpretation or
+14 recommendations as directed by the supervising speech-language pathologist;
+15 (12) Assisting with programming augmentative and alternative communication devices
+16 and assisting and training clients with using such devices;
+17 (13) Demonstrating strategies and assisting clients with skills included in the feeding and
+18 swallowing plan developed by the supervising speech-language pathologist;
+19 (14) Signing or initialing informal treatment notes and, upon request, co-signing formal
+20 documents with the supervising speech-language pathologist;
+21 (15) Assisting with clerical duties and site operations, including preparing materials,
+22 scheduling appointments and activities, preparing charts, records, or graphs, and performing checks
+23 and maintenance of equipment;
+24 (16) Assisting clients with transitioning to and from therapy sessions; and
+25 (17) Performing duties not otherwise restricted to the practice of speech-language
+26 pathology.
+27 (c) A speech-language pathologist assistant shall not hold themself out to be, or use the
+28 title speech-language pathology assistant unless licensed pursuant to this chapter and shall not
+29 engage in the practice of speech-language pathology, including the following:
+30 (1) Representing themselves as a speech-language pathologist;
+31 (2) Performing diagnostic tests or evaluations;
+32 (3) Performing procedures that require a professional level of clinical judgment and
+33 technical skill;
+34 (4) Interpreting results and observations of feeding and swallowing evaluations or
+LC005350 - Page 23 of 29
+
+1 screenings performed by a speech-language pathologist;
+2 (5) Participating in formal conferences or meetings without the presence of the supervising
+3 speech-language pathologist;
+4 (6) Providing interpretative information to a client, the family of a client, or any other
+5 individual;
+6 (7) Writing, developing, or modifying a client’s treatment plan;
+7 (8) Assisting in or providing services described in subsection (a) of this section unless
+8 directed by the supervising speech-language pathologist;
+9 (9) Signing any formal documents in place of the supervising speech-language pathologist;
+10 (10) Selecting a client for service or discharging a client from service;
+11 (11) Making a decision regarding the need for additional services or making a referral for
+12 service;
+13 (12) Disclosing clinical or confidential information either orally or in writing to anyone
+14 other than the supervising speech-language pathologist, unless mandated by law or authorized by
+15 the supervising speech-language pathologist;
+16 (13) Developing or determining the swallowing or feeding strategies or precautions for a
+17 client or providing feeding or swallowing treatment;
+18 (14) Selecting augmentative and alternative communication systems or devices; or
+19 (15) Treating medically fragile students, patients, and clients without one hundred percent
+20 (100%) direct supervision by a licensed speech-language pathologist.
+21 (d) A speech-language pathology assistant (SLPA) shall be licensed at the department and
+22 be required to renew their license every two (2) years.
+23 (e) Support personnel for audiologists (audiometric aide) or audiology assistants must meet
+24 the following requirements:
+25 (1) Hold a high school diploma;
+26 (2) Receive intensive on-the-job training in accordance with the American Speech-
+27 Language-Hearing Association (ASHA) or American Academy of Audiology (AAA) guidelines
+28 for support personnel by the supervising licensed audiologist prior to providing services. Any
+29 subsequent supervising licensed audiologist may require retraining of an audiometric aide or
+30 audiology assistant under the supervising licensed audiologist’s supervision.
+31 (3) Audiometric aides or audiology assistants shall be registered licensed at the department
+32 and be required to re-register renew the license every two (2) years.
+33 5-48.2-13. Rules governing practices and procedures.
+34 All hearings and reviews required under the provisions of the act this chapter shall be held
+LC005350 - Page 24 of 29
+
+1 in accordance with the provisions of the rules and regulations regarding practices and procedures
+2 before the department of health.
+3 SECTION 3. Chapter 5-48.2 of the General Laws entitled "Professional Licensing and
+4 Regulation of Speech-Language Pathologists and Audiologists" is hereby amended by adding
+5 thereto the following sections:
+6 5-48.2-3.1. Board of examiners -- Composition -- Appointments, terms, and
+7 qualifications of members.
+8 (a) There exists within the department of health a board of examiners of speech-language
+9 pathology and audiology. The board shall consist of five (5) persons who are residents of the state
+10 and who have worked within the state for at least one year prior to their appointments.
+11 (1) Two (2) members shall be speech-language pathologists who have practiced speech-
+12 language pathology for at least five (5) years preceding appointment, are currently practicing
+13 speech-language pathology, and hold active and valid licensure for the practice of speech-language
+14 pathology in this state.
+15 (2) One member shall be an audiologist who has practiced audiology for at least five (5)
+16 years immediately preceding appointment, is currently practicing audiology, and holds active and
+17 valid licensure for the practice of audiology in this state.
+18 (3) One member shall be an otolaryngologist who holds certification by the American
+19 Academy of Otolaryngology -- head and neck surgery, who is currently practicing otolaryngology,
+20 and holds active and valid licensure as a physician within this state.
+21 (4) One member shall be a representative of the consumer public who is not associated
+22 with or financially interested in the practice or business of speech-language pathology or audiology.
+23 (b) All appointments to the board shall be for the term of three (3) years. Members shall
+24 serve until the expiration of the term for which they have been appointed or until their appointed
+25 successors are qualified.
+26 (c) When a vacancy upon the board occurs, the director of the department of health shall,
+27 with the approval of the governor, appoint persons who are working within the state to fill the
+28 remainder of the vacant term.
+29 (d) The board shall reorganize annually during the month of January and shall select a
+30 chairperson.
+31 (e) A majority of currently filled positions shall constitute a quorum to do business.
+32 (f) No person shall be appointed to serve more than two (2) consecutive terms.
+33 (g) The first board and all future members shall be appointed by the director of the
+34 department of health, with the approval of the governor.
+LC005350 - Page 25 of 29
+
+1 (h) The director of the department of health, with the approval of the governor, may remove
+2 any member of the board for dishonorable conduct, incompetency, or neglect of duty.
+3 5-48.2-3.2. Board of examiners -- Duties and powers -- Meetings -- Compensation of
+4 members.
+5 (a) The board shall administer, coordinate, and enforce the provisions of this chapter;
+6 evaluate the qualifications of applicants; and may issue subpoenas, examine witnesses, and
+7 administer oaths, conduct hearings, and at its discretion investigate allegations of violations of this
+8 chapter and impose penalties if any violations of the chapter have occurred.
+9 (b) The board shall conduct hearings and keep records and minutes as necessary to an
+10 orderly dispatch of business.
+11 (c) The board shall, with the approval of the director of the department of health, adopt,
+12 amend, or repeal rules and regulations including, but not limited to, regulations that delineate
+13 qualifications for licensure and establish standards of professional conduct. Following their
+14 adoption, the rules and regulations shall govern and control the professional conduct of every
+15 person who holds a license to practice speech-language pathology or audiology in this state.
+16 (d) The board shall make available complete lists of the names and addresses of all licensed
+17 speech-language pathologists and audiologists.
+18 (e) The board may request legal advice and assistance from the appropriate state legal
+19 officer.
+20 (f) Regular meetings of the board shall be held at the times and places that it prescribes,
+21 and special meetings may be held upon the call of the chairperson; provided that, at least one regular
+22 meeting shall be held each year.
+23 (g) The conferral or enumeration of specific powers in this chapter shall not be construed
+24 as a limitation of the general powers conferred by this section. No member of the board shall be
+25 liable to civil action for any act performed in good faith in the performance of his or her duties as
+26 prescribed by this chapter.
+27 (h) Board members shall serve without compensation.
+28 (i) The board may deny, revoke, or suspend licenses or discipline licensees in accordance
+29 with the provisions of this chapter subject to the approval of the director.
+30 5-48.2-14. Qualifications for provisional licensure.
+31 (a) To be eligible for provisional licensure by the board, the speech-language pathologist
+32 applicant must submit an application with the required application fee and be in compliance with
+33 the requirements of §§ 5-48.2-5(a)(1), 5-48.2-5(a)(4), 5-48.2-5(a)(5), and 5-48.2-5(a)(8).
+34 (b) In addition to the requirements of subsection (a) of this section, content of the
+LC005350 - Page 26 of 29
+
+1 supervised postgraduate professional experience shall meet the standards of a trainee or fellow of
+2 speech pathology as required by the American Speech-Language-Hearing Association (ASHA) or
+3 other national accrediting association as may be approved by the board.
+4 (c) If the postgraduate professional experience extends beyond one year, provisional
+5 licensure must be renewed annually and not exceed thirty-six (36) months past the initiation of the
+6 professional experience.
+7 (d) The provisional licensure shall expire ninety (90) days after the end of the postgraduate
+8 professional experience.
+9 5-48.2-15. Qualifications for licensure as an audiologist.
+10 Persons seeking initial licensure as an audiologist on or after January 1, 2008, shall meet
+11 the following requirements:
+12 (1) Be of good moral character;
+13 (2) Apply to the board, upon a form prescribed by the board;
+14 (3) Submit the appropriate application fee;
+15 (4) Submit an official transcript indicating possession of an earned doctorate degree in
+16 audiology from a regionally accredited educational institution as delineated in the rules and
+17 regulations;
+18 (5) Pass a national examination in audiology approved by the board and delineated in the
+19 rules and regulations;
+20 (6) Present evidence of practicum experience that is equivalent to a minimum of twelve
+21 (12) months of full-time, supervised experience, that may be completed as part of the graduate
+22 degree, as delineated in the rules and regulations;
+23 (7) If applicable, present evidence from the board of audiology in each state in which the
+24 applicant has held or holds licensure to be submitted to the board of this state, attesting to the
+25 licensure status of the applicant during the time period the applicant held licensure in the state;
+26 (8) Any other requirements as set forth in the rules and regulations.
+27 (9) Applicants with a master’s degree holding licensure from another state must present
+28 verification of a Certificate of Clinical Competence from the American Academy of Audiology
+29 (AAA) or other national accrediting association as may be approved by the board.
+30 (10) Qualifications for audiologists licensed in alternate jurisdictions. Persons licensed as
+31 an audiologist in alternate jurisdictions on or before January 1, 2008, shall meet the requirements
+32 of Rhode Island that were in effect at the time of initial licensure in the alternate jurisdiction.
+33 5-48.2-16. Receipts.
+34 The proceeds of any fees collected pursuant to the provisions of this chapter shall be
+LC005350 - Page 27 of 29
+
+1 deposited as general revenues.
+2 SECTION 4. Section 5-48.2-2 of the General Laws in Chapter 5-48.2 entitled "Professional
+3 Licensing and Regulation of Speech-Language Pathologists and Audiologists" is hereby repealed.
+4 5-48.2-2. Incorporated materials.
+5 This chapter hereby adopts and incorporates the American Speech-Language-Hearing
+6 Association’s “American Speech-Language-Hearing Association Code of Ethics” (2016) by
+7 reference, not including any further editions or amendments thereof and only to the extent that the
+8 provisions therein are not inconsistent with these regulations.
+9 SECTION 5. This act shall take effect upon passage.
+========
+LC005350
+========
+LC005350 - Page 28 of 29
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- SPEECH-LANGUAGE PATHOLOGY
+AND AUDIOLOGY
+***
+1 This act would repeal the older of the two existing chapters related to speech-language
+2 pathologists and audiologists and would make several amendments to reconcile the two statutes
+3 into one.
+4 This act would take effect upon passage.
+========
+LC005350
+========
+LC005350 - Page 29 of 29

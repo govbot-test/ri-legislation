@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - 7946
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7946
+========
+LC005720
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- THE PROTECT MENTAL HEALTH ACT
+Introduced By: Representatives Tanzi, Kislak, McGaw, Alzate, Spears, Speakman,
+Donovan, Cruz, Stewart, and Hull
+Date Introduced: February 27, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 38.3
+4 THE PROTECT MENTAL HEALTH ACT
+5 27-38.3-1. Parity compliance and meaningful coverage.
+6 (a) If a health plan provides coverage for mental health and substance use disorder services,
+7 any cost-sharing requirements for mental health and substance use disorder services and any
+8 treatment limitations, including quantitative treatment limitations and nonquantitative treatment
+9 limitations, related to mental health and substance use disorder services shall comply with the
+10 requirements in the provisions of Requirements Related to the Mental Health Parity and Addiction
+11 Equity Act, 89 Fed. Reg. 77586 (Sept. 23, 2024).
+12 (b)(1) Each health insurer shall collect and evaluate relevant data, in connection with its
+13 comparative analyses, in a manner reasonably designed to assess, for each nonquantitative
+14 treatment limitation and within each classification of benefits, the impact of the nonquantitative
+15 treatment limitation on relevant outcomes related to access to mental health benefits and substance
+16 use disorder benefits as compared to medical and surgical benefits. With respect to nonquantitative
+17 treatment limitations related to network adequacy and composition, the health insurer shall collect
+18 and evaluate relevant data in a manner reasonably designed to assess the aggregate impact of all
+19 such nonquantitative treatment limitations on access to mental health benefits and substance use
+
+1 disorder benefits as compared to medical and surgical benefits within each classification of
+2 benefits.
+3 (2) If the relevant data evaluated under this subsection indicate that a nonquantitative
+4 treatment limitation contributes to material differences in access to mental health benefits or
+5 substance use disorder benefits as compared to medical and surgical benefits within a classification
+6 of benefits, such differences shall be considered a strong indicator of noncompliance with the
+7 federal Mental Health Parity and Addiction Equity Act of 2008 and may subject the health insurer
+8 to enforcement action pursuant to this title, and the health insurer shall submit to the commissioner
+9 documentation of reasonable actions that have been or are being taken to address the material
+10 differences and to ensure compliance, in operation, with parity requirements within fifteen (15)
+11 working days of a request from the commissioner.
+12 (c) A health insurer shall, as part of the comparative analyses required pursuant to 42
+13 U.S.C. § 300gg-26(8) and this section, demonstrate that none of the information, evidence, sources,
+14 or standards on which a factor or evidentiary standard is based are biased or not objective in a
+15 manner that discriminates against mental health benefits or substance use disorder benefits as
+16 compared to medical and surgical benefits.
+17 (d) An insurer providing coverage pursuant to this section for mental health benefits and
+18 substance use disorder benefits in any classification of benefits shall provide meaningful benefits
+19 for such mental health benefits and substance use disorder benefits in every classification in which
+20 medical and surgical benefits are provided. For purposes of this subsection, whether benefits are
+21 meaningful shall be determined in comparison to the medical and surgical benefits provided in the
+22 same classification and shall require, at a minimum, coverage of benefits for that mental health
+23 benefit or substance use disorder benefit in each classification in which the insurer provides benefits
+24 for one or more medical and surgical benefits. An insurer does not provide meaningful benefits
+25 under this subsection unless it provides benefits for a core treatment for that mental health benefit
+26 or substance use disorder benefit in each classification in which the insurer provides benefits for a
+27 core treatment for one or more medical and surgical benefits. If there is no core treatment for a
+28 covered mental health benefit or substance use disorder benefit with respect to a classification, the
+29 insurer shall not be required to provide benefits for a core treatment in that classification but shall
+30 provide benefits for such mental health benefit or substance use disorder benefit in every
+31 classification in which medical and surgical benefits are provided. For purposes of this subsection,
+32 “core treatment” means a standard treatment or course of treatment, therapy, service, or
+33 intervention indicated by generally accepted standards of mental health or substance use disorder
+34 care.
+LC005720 - Page 2 of 4
+
+1 27-38.3-2. Relation to other mental health coverage laws.
+2 The requirements of this chapter are in addition to, and shall not be construed to limit or
+3 reduce, the obligations of health insurers under chapter 38.2 of this title or any other provision of
+4 state or federal law governing coverage of mental health or substance use disorder services.
+5 27-38.3-3. Severability.
+6 If any provision of this chapter or the application thereof to any person or circumstance is
+7 held invalid, such invalidity shall not affect the other provisions or applications of the chapter which
+8 can be given effect without the invalid provision or application, and to this end the provisions of
+9 this chapter are declared to be severable.
+10 SECTION 2. This act shall take effect upon passage.
+========
+LC005720
+========
+LC005720 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- THE PROTECT MENTAL HEALTH ACT
+***
+1 This act would require health insurers to comply with federal mental health parity laws,
+2 prevent discriminatory treatment limits, and ensure meaningful mental health and substance use
+3 coverage in all benefit classifications.
+4 This act would take effect upon passage.
+========
+LC005720
+========
+LC005720 - Page 4 of 4

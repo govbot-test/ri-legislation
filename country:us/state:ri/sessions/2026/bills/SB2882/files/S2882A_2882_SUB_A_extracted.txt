@@ -1,0 +1,479 @@
+Title: 
+Official Title: 
+Source: versions - 2882  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2882 SUBSTITUTE A
+========
+LC005270/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND
+HOSPITALS -- QUALITY SELF-DIRECTED SUPPORTS ACT OF 2026
+Introduced By: Senators Thompson, Murray, Urso, Mack, Ciccone, Bissaillon, and
+Tikoian
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 40.1 of the General Laws entitled "BEHAVIORAL HEALTHCARE,
+2 DEVELOPMENTAL DISABILITIES AND HOSPITALS" is hereby amended by adding thereto
+3 the following chapter:
+4 CHAPTER 22.2
+5 QUALITY SELF-DIRECTED SUPPORTS ACT OF 2026
+6 40.1-22.2-1. Short title.
+7 This chapter shall be known and may be cited as the "Quality Self-Directed Supports Act
+8 of 2026".
+9 40.1-22.2-2. Definitions.
+10 For the purposes of this chapter:
+11 (1) "Department" means the department of behavioral healthcare, developmental
+12 disabilities and hospitals.
+13 (2) "Developmental disability organizations" or "DDOs" means an organization licensed
+14 by the department to provide services to adults with disabilities.
+15 (3) "Director" means the director of the department of behavioral healthcare,
+16 developmental disabilities and hospitals or the director's designees.
+17 (4) "Fiscal intermediary" means a third-party organization operating in accordance with
+18 applicable federal and state requirements under contract with the state that is responsible for
+
+1 performing payroll and other employment-related functions on behalf of a participant as set forth
+2 in the implementing regulations for the self-directed supports program.
+3 (5) "Participant" means an adult who has a developmental disability as defined by § 40.1-
+4 21-4.3(1) and has been determined by the state to be eligible for Medicaid-funded long-term
+5 services and supports under the Medicaid state plan and/or the RI section 1115 waiver
+6 demonstration and/or Medicaid authorities created in the future.
+7 (6) "Participant's representative" means a participant's legal guardian or a person who has
+8 been designated by the participant or otherwise has the authority and responsibility to act on behalf
+9 of a participant with respect to the provision of self-directed services, including the developmental
+10 services subject to this chapter.
+11 (7) "Provider representative" means a provider organization that is certified as the exclusive
+12 negotiating representative of self-directed direct support professionals as provided in § 40.1-22.3-
+13 7.
+14 (8) "Secretary" means the secretary of the executive office of health and human services
+15 (EOHHS).
+16 (9) "Self-directed direct support professional" means an individual selected by and working
+17 under the direction of a self-directed supports participant or the participant's duly authorized
+18 representative to provide self-directed personal care services to the participant in accordance with
+19 a person-centered plan and the implementing regulations promulgated for the program by the
+20 director. Self-directed direct support professional does not mean or include an employee of a DDO,
+21 subject to the DDO's direction and control commensurate with DDO employee status.
+22 (10) "Self-directed personal care services" means home and community-based personal
+23 care and in-home support services a participant is authorized to self-direct to meet their daily living
+24 needs, function adequately at home, safely access the community, or other nonprofessional services
+25 under the self-directed supports program or any similar program that may provide similar services
+26 in the future under the Medicaid state plan, section 1115 demonstration waiver, or future Medicaid
+27 authorities promulgated by the secretary or director.
+28 40.1-22.2-3. Scope of coverage.
+29 Self-directed direct support professionals may provide all self-directed personal care
+30 services to the extent the applicable federal and state laws and rules and regulations allow.
+31 40.1-22.2-4. Use of employee workforce.
+32 (a) The state's ability to afford participants and participants' representatives who choose
+33 not to employ a self-directed direct support professional, or are unable to do so, the option of
+34 receiving personal care services through the employees of provider agencies, rather than through a
+LC005270/SUB A - Page 2 of 14
+
+1 self-directed direct support professional, shall not be restricted.
+2 (b) Nothing in this chapter shall restrict the state's ability to afford self-directed supports
+3 participants with the freedom of choice guaranteed under Title XIX of the Social Security Act, 42
+4 U.S.C. § 1396 et seq., to enter into service delivery agreements with any authorized Medicaid
+5 provider.
+6 40.1-22.2-5. Duties of the department of behavioral healthcare, developmental
+7 disabilities and hospitals.
+8 (a) Notwithstanding the state's obligations to meet and negotiate under chapter 7 of title 28
+9 ("labor relations act"), nothing in this chapter shall be construed to make self-directed direct support
+10 professionals employees of the state for any purpose, including for the purposes of eligibility for
+11 the state employee pension program or state employee health benefits.
+12 (b) The director has authority over the terms and conditions of self-directed direct support
+13 professionals' employment, including compensation as required under § 40.1-22.2-6, payment,
+14 benefit terms, provider qualification standards, other appropriate terms and conditions for the
+15 workforce of self-directed direct support professionals without infringing on participants' or
+16 participant representatives' rights and responsibilities to hire, direct, supervise, and/or terminate the
+17 employment of their self-directed direct support professionals, and orientation, training, and the
+18 operation of a registry as required under § 40.1-22.2-7.
+19 (c) The director's authority in subsection (b) of this section only applies to self-directed
+20 personal care services and is subject to the state's obligation to meet and negotiate with a provider
+21 representative pursuant to § 40.1-22.3-3.
+22 40.1-22.2-6. Wage ranges.
+23 (a) The state shall set wage ranges for all self-directed direct support professionals. All
+24 self-directed personal care services performed by self-directed direct support professionals shall be
+25 compensated at a wage that is within the range set by the director for the services; provided,
+26 however, the participant may choose what wage to pay within the applicable range.
+27 (b) The wage range shall be the subject of collective bargaining as provided in this chapter.
+28 However, such collective bargaining shall be related solely to self-directed personal care services.
+29 All other self-directed services available to self-directed supports participants other than personal
+30 care and in-home support services are excluded from collective bargaining.
+31 (c) The provisions of this section shall take effect upon the certification of a provider
+32 representative as provided in § 40.1-22.3-13.
+33 40.1-22.2-7. Other duties of the director of behavioral healthcare, developmental
+34 disabilities and hospitals.
+LC005270/SUB A - Page 3 of 14
+
+1 (a) The director shall determine by rule or regulation that self-directed direct support
+2 professionals selected by self-directed supports participants are required to complete an orientation,
+3 pursuant to the director's authority under § 40.1-21-12. The director shall determine by rule or
+4 regulation the specific types of education, experience, or training that shall be required for a self-
+5 directed direct support professional to be included on a registry of persons qualified to be self-
+6 directed direct support professionals. The provisions of this section shall be collectively bargained
+7 with the provider representative.
+8 (1) Representatives of the provider representative shall be permitted to attend and present
+9 information about the provider representative at educational and training programs presented by
+10 the John E. Fogarty Institute of Rhode Island pursuant to § 40.1-21-6. The John E. Fogarty Institute
+11 of Rhode Island shall provide the provider representative with a schedule of educational and
+12 training programs at least two (2) weeks in advance. The provider representative shall be authorized
+13 to provide self-directed direct support professionals with access to more training or education than
+14 is minimally required by the director. Nothing in this chapter prohibits a self-directed supports
+15 participant from requiring a self-directed direct support professional to complete more training or
+16 education than is minimally required by the director.
+17 (b) The director shall maintain, either directly or through a contracted vendor, a registry
+18 for self-directed direct support professionals pursuant to the authority provided under § 40.1-21-12
+19 and shall collaborate with the provider representative to maintain this registry. This registry shall
+20 be consolidated with the registry established for the personal choice program pursuant to § 40-8.15-
+21 15.
+22 (c) The provisions of this section shall take effect upon the certification of a provider
+23 representative as provided in § 40.1-22.3-13.
+24 40.1-22.2-8. Authority of the department of administration.
+25 In accordance with chapter 22.3 of this title, the director of the department of
+26 administration shall have the authority to:
+27 (1) In coordination with the director, meet and negotiate with any provider representative
+28 chosen pursuant to § 40.1-22.3-2(a);
+29 (2) In coordination with the director, negotiate over any of the topics in § 40.1-22.3-2(a)
+30 and any other appropriate matters governing the workforce of self-directed direct support
+31 professionals without infringing on participants' or their responsible parties' rights and
+32 responsibilities to hire, direct, supervise, or terminate the employment of their self-directed direct
+33 support professionals; and
+34 (3) In coordination with the director, execute a collective bargaining agreement, subject to
+LC005270/SUB A - Page 4 of 14
+
+1 any approval required under § 40.1-22.3-5.
+2 40.1-22.2-9. Severability.
+3 Should any part of this chapter be declared invalid or unenforceable, or the enforcement or
+4 compliance with it is suspended, restrained, or barred, either by the state or by the final judgment
+5 of a court of competent jurisdiction, the remainder of this chapter shall remain in full force and
+6 effect.
+7 40.1-22.2-10. Construction of chapter -- Participant and family protections.
+8 (a) Preservation of participant self-direction.
+9 (1) Nothing in this chapter shall be interpreted to alter, limit, or interfere with the rights of
+10 participants in the self-directed supports program to exercise full control over their services and
+11 supports.
+12 (2) Participants and their representatives shall retain all rights of self-direction under state
+13 and federal law including, but not limited to, the authority to:
+14 (i) Hire, supervise, discipline, and terminate direct support professionals;
+15 (iii) Establish work schedules and approve hours worked;
+16 (iii) Assign job duties and tasks to be performed;
+17 (iv) Require or permit employee breaks;
+18 (v) Train direct support professionals in a manner determined by the participant or their
+19 representative; and
+20 (vi) Direct the manner in which services are delivered within the participant's approved
+21 service plan.
+22 (3) Nothing in this chapter shall authorize any labor organization, state agency, or third
+23 party to make or influence individual care decisions for a participant.
+24 (b) Protection of family providers. Participants shall retain the right to hire parents, legal
+25 guardians, family members, or other individuals of their choosing as paid direct support
+26 professionals when permitted under federal waiver programs or state policy. Nothing in this chapter
+27 shall restrict or limit that right.
+28 (c) Limitations on grievance procedures.
+29 (1) Any grievance, arbitration, or dispute resolution procedure established pursuant to a
+30 collective bargaining agreement authorized under this chapter shall apply solely to matters
+31 involving the state, its departments, or its fiscal intermediary.
+32 (2) No grievance, arbitration, or dispute resolution procedure shall be brought against or
+33 imposed upon any participant, consumer employer, family member, or legal guardian participating
+34 in the self-directed supports program.
+LC005270/SUB A - Page 5 of 14
+
+1 (3) Participants shall not be considered employers for purposes of any grievance procedure
+2 established under this chapter.
+3 (d) Protection of participant service budgets.
+4 (1) Nothing in this chapter or in any collective bargaining agreement entered into pursuant
+5 to this chapter shall reduce, redirect, or otherwise diminish the individual service budgets of
+6 participants receiving self-directed supports.
+7 (2) Any wage, benefit, or other economic improvement negotiated under this chapter shall
+8 require additional state or Medicaid funding and shall not be implemented unless such funding is
+9 provided. No such improvement shall be funded through reductions, reallocations, or redirection
+10 of participant service budgets.
+11 (3) No wage or benefit increase negotiated pursuant to this chapter shall result in reduced
+12 service hours, reduced eligibility for services, or reductions in participant budget allocations.
+13 (4) To the extent that wage increases are implemented through adjustments to participant-
+14 specific reimbursement rates, each participant's annual self-directed program budget allocation
+15 shall be increased by an equivalent percentage to ensure no reduction in authorized services.
+16 (5) Nothing in this chapter shall prohibit the state from establishing or funding separate,
+17 supplemental funding mechanisms including, but not limited to, statewide benefit pools,
+18 reimbursement funds, or training funds, for the purpose of supporting direct support professionals;
+19 provided that, such mechanisms are funded in addition to, and do not supplant or diminish,
+20 participant service budgets.
+21 (6) In the event that a participant's service budget is reduced, redirected, or otherwise
+22 diminished in violation of this section, the state shall promptly restore the participant's budget and
+23 make the participant whole for any loss of authorized services, including through retroactive
+24 adjustments where necessary.
+25 (e) Participant and advocate input.
+26 (1) The state shall ensure a meaningful opportunity for participants receiving self-directed
+27 services and their designated advocates to provide input during the collective bargaining process.
+28 (2) Such opportunity shall include, at a minimum:
+29 (i) The opportunity to submit comments and recommendations at clearly defined stages of
+30 negotiations, including prior to the initial development of bargaining proposals and prior to the
+31 finalization of any collective bargaining agreement, through accessible formats including, but not
+32 limited to, written submissions, recorded audio or video submissions, or through a telephone hotline
+33 or similar mechanism that allows individuals to leave recorded comments, or other methods that
+34 ensure meaningful participation for individuals with disabilities;
+LC005270/SUB A - Page 6 of 14
+
+1 (ii) At least one public meeting or listening session, with options for both in-person and
+2 virtual participation to ensure accessibility, prior to the finalization of any collective bargaining
+3 agreement; and
+4 (iii) Consideration of participant and advocate input in the development of bargaining
+5 proposals.
+6 (3) Nothing in this section shall be construed to grant participants or advocates authority
+7 to direct, approve, or reject the terms of a collective bargaining agreement.
+8 (f) Accessible education and training.
+9 (1) If direct support professionals elect to be represented by a labor organization pursuant
+10 to this chapter, any education or training opportunities made available in connection with such
+11 representation shall be structured in a manner that does not interfere with or replace training,
+12 supervision, or service delivery as directed by the participant or their representative pursuant to the
+13 participant's approved service plan.
+14 (2) Completion of any education or training provided through a labor organization, the
+15 state, or any third party shall not satisfy, substitute for, or limit the authority of the participant or
+16 their representative to require training of direct support professionals, and no direct support
+17 professional shall decline or refuse participant-directed training on that basis.
+18 (3) Any education, training, orientation, or informational program established pursuant to
+19 this chapter shall be designed to ensure full accessibility for participants, families, and direct
+20 support professionals.
+21 (4) To remove barriers to participation, such programs shall be made available through
+22 remote or virtual formats whenever feasible, including online or other distance-learning options.
+23 Participation in education or training programs shall not require in-person attendance if a remote
+24 option is available.
+25 (5) The state shall ensure that training requirements associated with this chapter do not
+26 create transportation, health, supervision, or caregiving barriers for participants or their families.
+27 (g) Employee choice regarding representation.
+28 (1) Nothing in this chapter shall be interpreted to require any direct support professional to
+29 join or support a labor organization.
+30 (2) Direct support professionals shall retain the right to determine, through a democratic
+31 process conducted pursuant to applicable state labor law, whether to be represented by a labor
+32 organization for purposes of collective bargaining.
+33 (3) A labor organization may be recognized as the representative of direct support
+34 professionals only through the certification procedures established under state labor law.
+LC005270/SUB A - Page 7 of 14
+
+1 (4) Nothing in this chapter shall interfere with the rights of workers to support, oppose, or
+2 refrain from supporting a labor organization.
+3 (h) Compliance with federal disability law. Nothing in this chapter shall be interpreted or
+4 implemented in a manner that conflicts with or violates the rights of individuals with disabilities
+5 under the Americans with Disabilities Act, the Rehabilitation Act of 1973, or any other applicable
+6 federal or state disability rights law.
+7 (i) Protection of Medicaid waiver and person-centered planning rights.
+8 (1) Nothing in this chapter shall be interpreted to alter, limit, or conflict with the rights of
+9 participants under:
+10 (i) Medicaid Home and Community-Based Services waiver programs;
+11 (ii) Federal person-centered planning requirements; or
+12 (iii) Participant-directed service models recognized under federal Medicaid law.
+13 (2) The provisions of this chapter shall be implemented in a manner that preserves
+14 participant autonomy, independence, and the principles of self-direction.
+15 (j) Participants not considered employers.
+16 (1) Notwithstanding any provision of this chapter to the contrary, participants, consumer
+17 employers, family members, and legal guardians receiving or administering self-directed supports
+18 shall not be considered employers for purposes of collective bargaining under this chapter.
+19 (2) Any collective bargaining authorized by this chapter shall occur solely between the
+20 labor organization and the state.
+21 (k) Self-direction takes precedence. Notwithstanding any provision of this chapter to the
+22 contrary, if any provision of this chapter or any collective bargaining agreement entered into
+23 pursuant to this chapter conflicts with the rights of participants to self-direct their services under
+24 state or federal law, the rights of participants to self-direct their services shall prevail.
+25 SECTION 2. Title 40.1 of the General Laws entitled "BEHAVIORAL HEALTHCARE,
+26 DEVELOPMENTAL DISABILITIES AND HOSPITALS" is hereby amended by adding thereto
+27 the following chapter:
+28 CHAPTER 22.3
+29 SELF-DIRECTED DIRECT SUPPORT PROFESSIONALS
+30 40.1-22.3-1. Definitions.
+31 For the purposes of this chapter:
+32 (1) "Department" means the department of behavioral healthcare, developmental
+33 disabilities and hospitals.
+34 (2) "Developmental disability organizations" or "DDOs" means an organization licensed
+LC005270/SUB A - Page 8 of 14
+
+1 by the department to provide services to adults with disabilities.
+2 (3) "Director" means the director of the department of behavioral healthcare,
+3 developmental disabilities and hospitals or the director's designees.
+4 (4) "Fiscal intermediary" means a third-party organization operating in accordance with
+5 applicable federal and state requirements under contract with the state that is responsible for
+6 performing payroll and other employment-related functions on behalf of a participant as set forth
+7 in the implementing regulations for the self-directed supports program.
+8 (5) "Participant" means an adult who has a developmental disability as defined by § 40.1-
+9 21-4.3(1) and has been determined by the state to be eligible for Medicaid-funded long-term
+10 services and supports under the Medicaid state plan and/or the RI section 1115 waiver
+11 demonstration and/or Medicaid authorities created in the future.
+12 (6) "Participant's representative" means a participant's legal guardian or a person who has
+13 been designated by the participant or otherwise has the authority and responsibility to act on behalf
+14 of a participant with respect to the provision of self-directed services, including the developmental
+15 services subject to this chapter.
+16 (7) "Provider representative" means a provider organization that is certified as the exclusive
+17 negotiating representative of self-directed direct support professionals as provided in § 40.1-22.3-
+18 7.
+19 (8) "Secretary" means the secretary of the executive office of health and human services
+20 (EOHHS).
+21 (9) "Self-directed direct support professional" means an individual selected by and working
+22 under the direction of a self-directed supports participant or the participant's duly authorized
+23 representative to provide self-directed personal care services to the participant in accordance with
+24 a person-centered plan and the implementing regulations promulgated for the program by the
+25 director of behavioral healthcare, developmental disabilities and hospitals. Self-directed direct
+26 support professional does not mean or include an employee of a DDO, subject to the DDO's
+27 direction and control commensurate with DDO employee status.
+28 (10) "Self-directed personal care services" means home and community-based personal
+29 care and in-home support services a participant is authorized to self-direct to meet their daily living
+30 needs, function adequately at home, safely access the community, or other nonprofessional services
+31 under the self-directed supports program or any similar program that may provide similar services
+32 in the future under the Medicaid state plan, section 1115 demonstration waiver, or future Medicaid
+33 authorities promulgated by the secretary or director.
+34 40.1-22.3-2. Right of self-directed support professionals to choose provider
+LC005270/SUB A - Page 9 of 14
+
+1 representative -- Subject of negotiation.
+2 (a) Self-directed direct support professionals may, in accordance with the procedures set
+3 forth in § 40.1-22.3-7, choose a provider organization to be their provider representative and to
+4 negotiate with the state, over the terms and conditions of self-directed direct support professionals'
+5 participation in providing direct-support services including, but not limited to:
+6 (1) Training and professional development opportunities;
+7 (2) Improving the recruitment and retention of qualified self-directed direct support
+8 professionals;
+9 (3) Reimbursement rates, wages, and other economic matters;
+10 (4) Benefits;
+11 (5) Payment procedures;
+12 (6) Provider qualification standards; and
+13 (7) A grievance resolution process.
+14 (b) Nothing in this chapter or in chapter 22.2 of this title shall interfere with the regulatory
+15 authority of the department of health (DOH) over self-directed direct support professionals
+16 licensing. Self-directed direct support professional licensing shall be excluded from and not subject
+17 to the negotiation process recognized and described in this section.
+18 (c) Notwithstanding the provisions of this section, self-directed direct support professionals
+19 shall operate in conformance with the relevant sections of the general laws applicable thereto and
+20 regulations promulgated by the state.
+21 40.1-22.3-3. Good faith negotiations.
+22 It shall be the obligation of the director of the department of administration, or designee,
+23 to meet and negotiate in good faith with the provider representative within thirty (30) days after
+24 receipt of written notice from the provider representative of the request for a meeting for bargaining
+25 purposes. This obligation shall include the duty to cause any agreement resulting from the
+26 negotiations to be reduced to a written contract.
+27 40.1-22.3-4. Unresolved issues - Impasses procedures.
+28 In the event that the provider representative and the director, or designee, are unable to
+29 reach an agreement on a contract, or reach an impasse in negotiations, the procedures of §§ 36-11-
+30 7.1 through 36-11-11 shall be followed.
+31 40.1-22.3-5. Economic aspects of contract subject to legislative appropriation.
+32 Any aspects of a contract requiring appropriation by the federal government, the general
+33 assembly, or revisions to statutes and regulations shall be subject to passage of those appropriations
+34 and any necessary statutory and regulatory revisions.
+LC005270/SUB A - Page 10 of 14
+
+1 40.1-22.3-6. Duty to represent all self-directed direct support professionals fairly –
+2 Deduction of membership dues and other voluntary deductions.
+3 (a) A provider organization certified as the provider representative shall represent all self-
+4 directed direct support professionals in the state fairly and without discrimination, without regard
+5 to whether or not the self-directed direct support professional is a member of the provider
+6 organization.
+7 (b) Each self-directed direct support professional may choose whether to be a member of
+8 the provider organization. The state, or its designee, shall deduct from payments to self-directed
+9 direct support professionals membership dues for self-directed direct support professionals who
+10 elect to become members and authorize the deduction of membership dues, and any other voluntary
+11 deductions authorized by self-directed direct support professionals.
+12 40.1-22.3-7. Certification and decertification of provider organization.
+13 (a) Petitions to certify a provider organization to serve as the provider representative of
+14 self-directed direct support professionals; petitions to intervene in such an election; and any other
+15 petitions for investigation of controversies as to representation may be filed with and acted upon
+16 by the labor relations board in accordance with the provisions of chapter 7 of title 28 ("labor
+17 relations act") and the board's rules and regulations; provided that, any valid petition as to whether
+18 self-directed direct support professionals wish to certify or decertify a provider representative shall
+19 be resolved by a secret ballot election among self-directed direct support professionals.
+20 (b) The only appropriate unit shall consist of all self-directed direct support professionals
+21 in the state.
+22 (c) For purposes of this section, no self-directed direct support professional shall be deemed
+23 excluded from the bargaining unit under § 28–7–3(3)(ii) because they provide care to a family
+24 member or because they are in domestic service in a person's home.
+25 (d) The cost of any certification election held under this section shall be split equally among
+26 all the provider organizations that appear on the ballot.
+27 40.1-22.3-8. Unfair practices.
+28 It shall be unlawful for the state to perform any of the acts made unlawful under § 28–7–
+29 13. It shall be unlawful for the provider representative to perform any of the acts made unlawful
+30 under § 28–7–13.1. Any alleged violation of this provision may be filed with the labor relations
+31 board as an unfair labor practice and considered and ruled upon in accordance with chapter 7 of
+32 title 28 ("labor relations act") and the board's rules and regulations.
+33 40.1-22.3-9. Right of families to select, direct and terminate self-directed direct
+34 support professionals.
+LC005270/SUB A - Page 11 of 14
+
+1 Nothing in this chapter shall be construed to alter the rights of families to select, direct, and
+2 terminate the services of self-directed direct support professionals.
+3 40.1-22.3-10. Strikes not authorized.
+4 Self-directed direct support professionals shall not engage in any strike or other collective
+5 cessation of the delivery of direct-support services.
+6 40.1-22.3-11. State action exemption.
+7 The state action exemption to the application of state and federal antitrust laws is applicable
+8 to the activities of self-directed direct support professionals and their provider representative
+9 authorized under this chapter.
+10 40.1-22.3-12. Implementation.
+11 (a) Within ninety (90) days of the effective date of this chapter, any provider organization
+12 that has previously been certified to serve as the provider representative of individual providers
+13 pursuant to § 40-8.15-7 shall be furnished by the director with contact information for every person
+14 providing self-directed personal care services under the self-directed supports program. The
+15 director shall provide any such provider organization with updated contact information every sixty
+16 (60) days thereafter.
+17 (b) The labor relations board shall hold an election to determine whether a provider
+18 organization shall be certified as the provider representative for the bargaining unit of self-directed
+19 direct support professionals upon a ten percent (10%) showing of interest. All persons who are
+20 providing self-directed services under the self-directed supports program shall be considered part
+21 of the bargaining unit for purposes of the showing of interest and shall be eligible to vote in the
+22 certification election. If a majority of those casting ballots vote to be represented by that provider
+23 organization, then the provider organization shall be certified as the provider representative to
+24 negotiate with the state over the terms and conditions of self-directed direct support professionals'
+25 participation in providing self-directed personal care services for all self-directed direct support
+26 professionals in the state. The provisions of this chapter shall otherwise apply.
+27 (c) Nothing in this chapter shall be construed to alter or limit the rights of participants and
+28 their representative to select, direct, and terminate the services of self-directed direct support
+29 professionals or to determine self-directed direct support professionals' wages within a range set by
+30 the director, or to alter or limit the director's authority to administer the self-directed supports
+31 program including to adopt rules and regulations and operate the program, to determine participant
+32 budgets, to determine eligibility, or to authorize services, except as specifically set forth in this
+33 chapter.
+34 (d) No provision of any agreement or award resulting from collective bargaining and
+LC005270/SUB A - Page 12 of 14
+
+1 negotiations under this chapter shall provide for a reduction in Medicaid federal financial
+2 participation under Title XIX of the Social Security Act, 42 U.S.C. § 1396 et seq., nor shall any
+3 provision of any agreement or award provide for a reduction in the self-directed personal care
+4 services for eligible self-directed supports participants. Any provision in any agreement or award
+5 that would require an additional appropriation in order to maintain the levels of services provided
+6 by existing appropriations shall be subject to the annual budget process.
+7 40.1-22.3-13. Severability.
+8 Should any part of this chapter be declared invalid or unenforceable, or the enforcement or
+9 compliance with it is suspended, restrained, or barred, either by the state or by the final judgment
+10 of a court of competent jurisdiction, the remainder of this chapter shall remain in full force and
+11 effect.
+12 SECTION 3. This act shall take effect upon passage.
+========
+LC005270/SUB A
+========
+LC005270/SUB A - Page 13 of 14
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND
+HOSPITALS -- QUALITY SELF-DIRECTED SUPPORTS ACT OF 2026
+***
+1 This act would ensure that more developmentally disabled adults can self-direct the care
+2 they need and want, by incorporating collective bargaining rights into the self-directed supports
+3 program to enhance service access, increase the availability of education and training options and
+4 improve the recruitment and retention of the individuals selected by participants as direct support
+5 professionals. This act does not alter or limit the authority of the director of behavioral healthcare,
+6 developmental disabilities and hospitals to administrator the self-directed supports program,
+7 enforce existing rules, regulations and procedures, or adopt amended rules, regulations and
+8 procedures for operating the program. This act further does not alter or limit the rights of
+9 participants and their representatives to select, direct and terminate the services of self-directed
+10 direct support professionals or to determine the wages of self-directed direct support professionals
+11 within the range set by the director.
+12 This act would take effect upon passage.
+========
+LC005270/SUB A
+========
+LC005270/SUB A - Page 14 of 14

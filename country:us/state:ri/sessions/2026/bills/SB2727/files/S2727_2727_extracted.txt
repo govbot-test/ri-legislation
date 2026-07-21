@@ -1,0 +1,269 @@
+Title: 
+Official Title: 
+Source: versions - 2727
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2727
+========
+LC005497
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+-- THE EQUITABLE PARTICIPATION IN UTILITY REGULATION ACT
+Introduced By: Senators Acosta, Euer, Valverde, DiMario, Urso, Kallman, Vargas, Bell,
+Zurier, and Britto
+Date Introduced: February 27, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 39-1 of the General Laws entitled "Public Utilities Commission" is
+2 hereby amended by adding thereto the following section:
+3 39-1-64. Intervenor compensation program.
+4 (a) Terms used in this section shall be construed as follows, unless another meaning is
+5 expressed or is clearly apparent from the language or context:
+6 (1) "Compensation" means payment for all or part, of legal fees, expert witness fees, and
+7 other reasonable costs of preparation for and participation in a proceeding and includes the fees and
+8 costs of obtaining an award under this section and of obtaining judicial review, if any.
+9 (2) "Expert witness fees" means recorded or billed costs incurred by an intervenor for an
+10 expert witness.
+11 (3) "Intervenor compensation special fund" means the intervenor compensation special
+12 fund established in this section.
+13 (4) "Other reasonable costs" means reasonable out-of-pocket expenses, directly incurred
+14 by an intervenor, that are directly related to the contentions or recommendations made by the
+15 customer.
+16 (5) "Significant financial hardship" means that the intervenor cannot afford, without undue
+17 hardship, to pay the costs of effective participation, including legal fees, expert witness fees, and
+18 other reasonable costs of participation.
+
+1 (b) There is established an intervenor compensation program to provide compensation in
+2 the form of a grant for legal fees, expert witness fees, and other reasonable costs to an intervenor
+3 in commission proceedings.
+4 (c) There is created an account to be known as the "intervenor compensation special fund”
+5 within the public utilities commission in the general fund, hereinafter referred to as the "account,”
+6 for the purpose of providing funding to qualified intervenors who have a significant financial
+7 hardship consistent with the provisions of this section.
+8 (d) Grants shall be in the amount of fifty thousand dollars ($50,000), with the amount being
+9 adjusted every five (5) years consistent with the consumer price index. The grant may be used to
+10 cover legal fees, expert witness fees, and other reasonable expenses. Ten percent (10%) of the
+11 approved grant may go to non-legal or non-expert witness fees. Any grant awarded pursuant to this
+12 section shall be used only in proceedings before the commission and shall be ineligible for use for
+13 any judicial appeal of any board final decision.
+14 (e) The general assembly shall annually appropriate to the account the amounts that may
+15 be required to bring the balance of the account to the sum of three hundred thousand dollars
+16 ($300,000), with the sum being adjusted every five (5) years consistent with the consumer price
+17 index; provided, however, that if at June 30 in any year the balance in the account shall be in excess
+18 of three hundred thousand dollars ($300,000), the amount in excess shall be transferred to the
+19 general fund of the state. The controller is authorized and directed to draw their orders upon the
+20 general treasurer for the payment from the account of the sums as may be required from time to
+21 time upon receipt by the controller of properly authenticated vouchers approved by the chairperson
+22 of the commission. The commission may appropriate up to ten percent (10%) of the account balance
+23 to hire a consultant to assist with the administration of the program.
+24 (f) The provisions of this section shall only apply to proceedings involving electric
+25 distribution companies serving over one hundred thousand (100,000) customers, electric
+26 transmission companies, gas distribution companies, and energy efficiency programs.
+27 (g) In furtherance of the purposes of this section, the commission shall:
+28 (1) If funds are appropriated by the general assembly, develop accessible, multi-lingual
+29 and easily comprehensible web-based educational materials, including forms and templates, to
+30 educate prospective grantees and the public on the intervenor support grant program.
+31 (2) If funds are appropriated by the general assembly, provide a virtual and in-person
+32 outreach program to educate prospective grantees and the public about the intervenor compensation
+33 grant program.
+34 (3) Award a grant to offset legal fees, expert witness fees, and other reasonable costs of
+LC005497 - Page 2 of 8
+
+1 preparation for and participation in a hearing or proceeding to any party who satisfies the following
+2 requirements:
+3 (i) The party satisfies the standard for intervention in the proceeding;
+4 (ii) The party is:
+5 (A) An individual person or an individual person on behalf of an unorganized group of
+6 individual persons; or
+7 (B) An organization organized under the provisions of Internal Revenue Code § 501(c)3.
+8 (iii) Intervention without an award of fees or costs imposes a significant financial hardship.
+9 (4) Submit an annual report to the governor and general assembly that accounts for all
+10 revenues and expenses of the program.
+11 (5) If the commission finds that an intervenor qualifies for grant funding and the account
+12 contains insufficient funds, the commission may order a utility serving more than one hundred
+13 thousand (100,000) customers involved in the proceeding to pay up to one hundred thousand dollars
+14 ($100,000) into the account to meet the commission’s grant obligations. Any such ordered payment
+15 may be recovered in rates.
+16 (h) Grants issued to intervenors shall be awarded in a manner consistent with the following
+17 requirements:
+18 (1) Intervenors shall provide notice in their intervention request to the commission that
+19 they are seeking funding from the intervenor compensation special fund and provide any such
+20 documentation as may be required by the commission to qualify for receiving a grant.
+21 (2) The commission shall review the notice and additional documentation for completeness
+22 and shall notify the applicant within ten (10) days of any deficiencies.
+23 (3) The request for funding shall not be a contestable issue by other non-governmental
+24 parties.
+25 (4) Requests for funding shall be approved or denied within thirty (30) days from a
+26 complete application being provided to the commission.
+27 (5) The commission shall issue a written determination of approval.
+28 (6) Grants awarded from the fund shall be paid out from the account no later than thirty
+29 (30) days after approval.
+30 (7) For any proceeding that includes a statutory requirement for a commission action in a
+31 specific period of time, the commission may, at its discretion or upon motion of a party, provide an
+32 alternative timeline to meet the purposes of this section.
+33 (i) Grantees shall abide by the following requirements as conditions for receipt of funds:
+34 (1) Grantees shall not withdraw from the proceeding.
+LC005497 - Page 3 of 8
+
+1 (2) Grantees shall provide a report, no later than thirty (30) days from issuance of a written
+2 order, that details the expenditure of grant funds.
+3 (3) Grantees shall use funds solely for proceedings before the commission, meaning funds
+4 may not be used for any appeal of final commission decisions.
+5 (4) Grantees shall use funds solely for the purposes set out in its application to the
+6 commission.
+7 (j) A breach of the conditions described in subsection (i) of this section may be enforced
+8 by a commission’s order to repay the funds awarded following notice and opportunity to contest
+9 the order by the grantee. Any entity subject to an order issued pursuant to subsection (j) of this
+10 section shall not be considered for future funding from the intervenor compensation fund until the
+11 commission order is satisfied.
+12 (k) If upon completion of the proceeding and submittal of the grantee’s report to the
+13 commission, the grantee’s grant award exceeds the actual spending, such excess funds shall be
+14 returned to the intervenor special compensation fund.
+15 SECTION 2. Section 42-98-17 of the General Laws in Chapter 42-98 entitled "Energy
+16 Facility Siting Act" is hereby amended to read as follows:
+17 42-98-17. Appropriation — Fees — Grants.
+18 (a) There is created an account to be known as the "energy facility siting account”, an
+19 account within the public utilities commission in the general fund, hereinafter referred to as the
+20 "account”, for the purpose of providing the financial means for the board to purchase materials and
+21 to employ on a contract or other basis legal counsel, official stenographers, engineers, accountants,
+22 administration of the intervenor compensation fund, and expert witnesses and for other necessary
+23 expenses of the board in investigations and hearings on applications for licensure under this chapter.
+24 The general assembly shall annually appropriate to the account the amounts as may be required to
+25 bring the balance of the account to the sum of one hundred thousand dollars ($100,000) three
+26 hundred thousand dollars ($300,000); provided, however, that if at June 30 in any year the balance
+27 in the account shall be in excess of one hundred thousand dollars ($100,000) three hundred
+28 thousand dollars ($300,000), the amount of the excess shall be transferred to the general account
+29 of the state. The controller is authorized and directed to draw his or her orders upon the general
+30 treasurer for the payment from the account of the sums as may be required from time to time upon
+31 receipt by the controller of proper vouchers approved by the chairperson of the board or the
+32 secretary.
+33 (b) The board shall be authorized to establish reasonable fees for investigations,
+34 applications, and hearings. The board shall be authorized to add on a reasonable charge on top of
+LC005497 - Page 4 of 8
+
+1 existing fees for applicants to provide adequate funding to the intervenor compensation program as
+2 described in subsection (a) of this section. Applicants shall pay those fees in full prior to the hearing
+3 process commencing unless the board agrees to an alternative payment schedule. All fees collected
+4 by the board shall be deposited with the general treasurer and appropriated to the board. The state
+5 controller is authorized and directed to draw his or her orders upon the general treasurer for payment
+6 of any sum or sums as may be necessary from time to time and upon receipt by him or her of
+7 authenticated vouchers presented by the coordinator of the board.
+8 (c) All moneys collected by the chairperson or the secretary pursuant to this section shall
+9 be paid by the chairperson or the secretary monthly to the general treasurer to be added to the
+10 energy facility siting account.
+11 (d) Failure of the applicant to pay expenses lawfully assessed by the board shall constitute
+12 grounds for suspension of licensing proceedings or revocation of any license granted, until the
+13 applicant has paid the expenses.
+14 (e) The board shall be empowered to draw upon this account and to distribute monies from
+15 the fees to and bodies of state and local government participating in licensing actions or acting as
+16 the board’s agents for the purposes of insuring compliance with license provisions and for
+17 employing staff or consultants and for carrying out the provisions of this chapter.
+18 (f) The board shall be authorized to receive any grants made for the purpose of planning
+19 for or regulating the siting of energy facilities and to disburse and administer the grants under the
+20 terms of the grants.
+21 SECTION 3. Chapter 42-98 of the General Laws entitled "Energy Facility Siting Act" is
+22 hereby amended by adding thereto the following section:
+23 42-98-17.1. Intervenor compensation program.
+24 (a) Terms used in this section shall be construed as follows, unless another meaning is
+25 expressed or is clearly apparent from the language or context:
+26 (1) "Compensation" means payment for all or part, of reasonable advocate’s fees,
+27 reasonable expert witness fees, and other reasonable costs of preparation for and participation in a
+28 proceeding, and includes the fees and costs of obtaining an award under this section and of
+29 obtaining judicial review, if any.
+30 (2) "Expert witness fees" means recorded or billed costs incurred by an intervenor for an
+31 expert witness.
+32 (3) "Intervenor compensation special fund" means the intervenor compensation special
+33 fund established in this section.
+34 (4) "Other reasonable costs" means reasonable out-of-pocket expenses, directly incurred
+LC005497 - Page 5 of 8
+
+1 by an intervenor, that are directly related to the contentions or recommendations made by the
+2 customer.
+3 (5) "Significant financial hardship" means that the customer cannot afford, without undue
+4 hardship, to pay the costs of effective participation, including advocate’s fees, expert witness fees,
+5 and other reasonable costs of participation.
+6 (b) There is established an intervenor compensation program to provide compensation in
+7 the form of a grant for legal fees, expert witness fees, and other reasonable costs to an intervenor
+8 in board proceedings.
+9 (c) Funding for the program shall be as provided in subsection (d) of this section.
+10 (d) Grants shall be in the amount of fifty thousand dollars ($50,000), with the amount being
+11 adjusted every five (5) years consistent with the consumer price index. The grant may be used to
+12 cover legal fees, expert witness fees, and other reasonable expenses. Ten percent (10%) of the
+13 approved grant may go to non-legal or non-expert witness fees. Any grant awarded pursuant to this
+14 section shall be used only in proceedings before the board and shall be ineligible for use for any
+15 judicial appeal of any board final decision.
+16 (e) In furtherance of the purposes of this section, the board shall:
+17 (1) If funds are appropriated by the general assembly, develop accessible, multi-lingual
+18 and easily comprehensible web-based educational materials, including forms and templates, to
+19 educate prospective grantees and the public on the intervenor support grant program.
+20 (2) If funds are appropriated by the general assembly, provide a virtual and in-person
+21 outreach program to educate prospective grantees and the public about the intervenor compensation
+22 grant program.
+23 (3) Award a grant to offset legal fees, expert witness fees, and other reasonable costs of
+24 preparation for and participation in a hearing or proceeding to any party who satisfies of the
+25 following requirements:
+26 (i) The party satisfies the standard for intervention in the proceeding;
+27 (ii) The party is:
+28 (A) An individual or an individual on behalf of an unorganized group of individuals; or
+29 (B) An organization organized under the provisions of Internal Revenue Code § 501(c)3.
+30 (iii) Intervention without an award of fees or costs imposes a significant financial hardship.
+31 (4) Submit an annual report to the governor and general assembly that accounts for all
+32 revenues and expenses of the program.
+33 (f) Grants issued to intervenors shall be awarded in a manner consistent with the following
+34 requirements:
+LC005497 - Page 6 of 8
+
+1 (1) Intervenors shall provide notice in its intervention request to the board that it is seeking
+2 funding from the intervenor compensation special fund and provide any such documentation as
+3 may be required by the board to qualify for receiving a grant.
+4 (2) The commission shall review such notice and additional documentation for
+5 completeness and shall notify the applicant within ten (10) days of any deficiencies.
+6 (3) The request for funding shall not be a contestable issue by non-governmental parties.
+7 (4) Requests for funding shall be approved or denied within thirty (30) days from a
+8 complete application being provided to the board.
+9 (5) The board shall issue a written determination of approval.
+10 (6) Grants awarded under this section shall be paid out from the account no later than thirty
+11 (30) days after approval
+12 (g) Grantees shall abide by the following requirements as conditions for receipt of funds:
+13 (1) Grantees shall not withdraw from the proceeding.
+14 (2) Grantees shall provide a report, no later than thirty (30) days from issuance of a written
+15 order, that details the expenditure of grant funds.
+16 (3) Grantees shall use funds solely for proceedings before the commission, meaning funds
+17 may not be used for any appeal of final commission decisions.
+18 (h) A breach of the conditions described in subsection (i) of this section may be enforced
+19 by board order to repay the funds awarded following notice and opportunity to contest the order by
+20 the grantee. Any entity subject to an order issued pursuant to subsection (j) of this section shall not
+21 be considered for future funding from the intervenor compensation fund until the commission order
+22 is satisfied.
+23 (i) If upon completion of the proceeding and submittal of the grantee’s report to the
+24 commission, the grantee’s grant award exceeds the actual spending, such excess funds shall be
+25 returned to the intervenor special compensation fund.
+26 SECTION 4. This act shall take effect upon passage.
+========
+LC005497
+========
+LC005497 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITIES COMMISSION
+-- THE EQUITABLE PARTICIPATION IN UTILITY REGULATION ACT
+***
+1 This act would create an intervenor compensation program to provide compensation in the
+2 form of grants for legal fees, expert witness fees, and other reasonable costs to an intervenor in
+3 both, energy siting board and public utilities commission proceedings.
+4 This act would take effect upon passage.
+========
+LC005497
+========
+LC005497 - Page 8 of 8

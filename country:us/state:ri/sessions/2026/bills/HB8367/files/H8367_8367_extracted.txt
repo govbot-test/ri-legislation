@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - 8367
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8367
+========
+LC006194
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Introduced By: Representatives Donovan, Kislak, Fogarty, Boylan, Potter, Giraldo,
+Furtado, Tanzi, Shallcross Smith, and Ajello
+Date Introduced: March 27, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 27-18 of the General Laws entitled "Accident and Sickness Insurance
+2 Policies" is hereby amended by adding thereto the following section:
+3 27-18-96. Post-acute care prior authorization.
+4 (a) As used in this section:
+5 (1) “Post-acute care services” means specialized behavioral, medical, rehabilitative, or
+6 homecare services provided to a patient discharged from an acute care hospital to improve the
+7 patient’s functional independence and manage the patient’s ongoing health conditions.
+8 (b) Every individual or group health insurance contract, or every individual or group
+9 hospital or medical expense insurance policy, plan, or group policy delivered, issued for delivery,
+10 or renewed in this state on or after January 1, 2027 shall provide coverage for post-acute care
+11 services, as defined in subsection (a) of this section, for a minimum of seven (7) days and shall not
+12 be subject to preauthorization prior to obtaining post-acute care services; provided, the discharging
+13 hospital shall provide the insurer with notification prior to discharge and admission to post-acute
+14 care; provided further, the utilization review procedures may be initiated on day seven (7). Medical
+15 necessity shall be determined by the treating healthcare provider and shall be noted in the patient’s
+16 medical record and discharge plan.
+17 SECTION 2. Chapter 27-19 of the General Laws entitled "Nonprofit Hospital Service
+18 Corporations" is hereby amended by adding thereto the following section:
+19 27-19-88. Post-acute care prior authorization.
+
+1 (a) As used in this section:
+2 (1) “Post-acute care services” means specialized behavioral, medical, rehabilitative, or
+3 homecare services provided to a patient discharged from an acute care hospital to improve the
+4 patient’s functional independence and manage the patient’s ongoing health conditions.
+5 (b) Every individual or group health insurance contract, or every individual or group
+6 hospital or medical expense insurance policy, plan, or group policy delivered, issued for delivery,
+7 or renewed in this state on or after January 1, 2027 shall provide coverage for post-acute care
+8 services, as defined in subsection (a) of this section, for a minimum of seven (7) days and shall not
+9 be subject to preauthorization prior to obtaining post-acute care services; provided, the discharging
+10 hospital shall provide the insurer with notification prior to discharge and admission to post-acute
+11 care; provided further, the utilization review procedures may be initiated on day seven (7). Medical
+12 necessity shall be determined by the treating healthcare provider and shall be noted in the patient’s
+13 medical record and discharge plan.
+14 SECTION 3. Chapter 27-20 of the General Laws entitled "Nonprofit Medical Service
+15 Corporations" is hereby amended by adding thereto the following section:
+16 27-20-84. Post-acute care prior authorization.
+17 (a) As used in this section:
+18 (1) “Post-acute care services” means specialized behavioral, medical, rehabilitative, or
+19 homecare services provided to a patient discharged from an acute care hospital to improve the
+20 patient’s functional independence and manage the patient’s ongoing health conditions.
+21 (b) Every individual or group health insurance contract, or every individual or group
+22 hospital or medical expense insurance policy, plan, or group policy delivered, issued for delivery,
+23 or renewed in this state on or after January 1, 2027 shall provide coverage for post-acute care
+24 services, as defined in subsection (a) of this section, for a minimum of seven (7) days and shall not
+25 be subject to preauthorization prior to obtaining post-acute care services; provided, the discharging
+26 hospital shall provide the insurer with notification prior to discharge and admission to post-acute
+27 care; provided further, the utilization review procedures may be initiated on day seven (7). Medical
+28 necessity shall be determined by the treating healthcare provider and shall be noted in the patient’s
+29 medical record and discharge plan.
+30 SECTION 4. Chapter 27-41 of the General Laws entitled "Health Maintenance
+31 Organizations" is hereby amended by adding thereto the following section:
+32 27-41-101. Post-acute care prior authorization.
+33 (a) As used in this section:
+34 (1) “Post-acute care services” means specialized behavioral, medical, rehabilitative, or
+LC006194 - Page 2 of 4
+
+1 homecare services provided to a patient discharged from an acute care hospital to improve the
+2 patient’s functional independence and manage the patient’s ongoing health conditions.
+3 (b) Every individual or group health insurance contract, or every individual or group
+4 hospital or medical expense insurance policy, plan, or group policy delivered, issued for delivery,
+5 or renewed in this state on or after January 1, 2027 shall provide coverage for post-acute care
+6 services, as defined in subsection (a) of this section, for a minimum of seven (7) days and shall not
+7 be subject to preauthorization prior to obtaining post-acute care services; provided, the discharging
+8 hospital shall provide the insurer with notification prior to discharge and admission to post-acute
+9 care; provided further, the utilization review procedures may be initiated on day seven (7). Medical
+10 necessity shall be determined by the treating healthcare provider and shall be noted in the patient’s
+11 medical record and discharge plan.
+12 SECTION 5. This act shall take effect upon passage.
+========
+LC006194
+========
+LC006194 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+***
+1 This act would require healthcare insurers, without prior authorization, to provide post-
+2 acute care services to patients discharged from a hospital for a minimum of seven (7) days
+3 commencing on or after January 1, 2027.
+4 This act would take effect upon passage.
+========
+LC006194
+========
+LC006194 - Page 4 of 4

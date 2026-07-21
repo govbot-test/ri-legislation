@@ -1,0 +1,1817 @@
+Title: 
+Official Title: 
+Source: versions - 7126
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7126
+========
+LC004135
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MAKING REVISED APPROPRIATIONS IN SUPPORT OF FY 2026
+Introduced By: Representative Marvin L. Abney
+Date Introduced: January 15, 2026
+Referred To: House Finance
+(Governor)
+It is enacted by the General Assembly as follows:
+1 ARTICLE 1 RELATING TO MAKING REVISED APPROPRIATIONS IN
+2 SUPPORT OF FY 2026
+
+1 ARTICLE 1
+2 RELATING TO MAKING REVISED APPROPRIATIONS IN SUPPORT OF FY 2026
+3 SECTION 1. Subject to the conditions, limitations and restrictions hereinafter contained in
+4 this act, the following general revenue amounts are hereby appropriated out of any money in the
+5 treasury not otherwise appropriated to be expended during the fiscal year ending June 30, 2026.
+6 The amounts identified for federal funds and restricted receipts shall be made available pursuant to
+7 § 35-4-22 and chapter 41 of title 42. For the purposes and functions hereinafter mentioned, the state
+8 controller is hereby authorized and directed to draw the state controller’s orders upon the general
+9 treasurer for the payment of such sums or such portions thereof as may be required from time to
+10 time upon receipt by the state controller of properly authenticated vouchers.
+11 FY 2026 FY 2026 FY 2026
+12 Enacted Change FINAL
+13 Administration
+14 Central Management
+15 General Revenues 4,359,358 (364,055) 3,995,303
+16 Federal Funds
+17 Federal Funds 33,000,000 (14,612,638) 18,387,362
+18 Federal Funds – State Fiscal Recovery Fund
+19 Community Learning Center Programming
+20 Support Grant 0 2,000,000 2,000,000
+21 Municipal Public Safety Infrastructure 0 4,400,236 4,400,236
+22 Public Health Response Warehouse Support 0 1,000,562 1,000,562
+23 Restricted Receipts 193,701 0 193,701
+24 Total - Central Management 37,553,059 (7,575,895) 29,977,164
+25 Legal Services
+26 General Revenues 2,872,990 (2,294) 2,870,696
+27 Accounts and Control
+28 General Revenues 5,804,845 214,013 6,018,858
+29 Restricted Receipts - OPEB Board Administration 150,959 23,575 174,534
+30 Restricted Receipts - Grants Management
+31 Administration 2,540,109 (1,385,873) 1,154,236
+32 Total - Accounts and Control 8,495,913 (1,148,285) 7,347,628
+33 Office of Management and Budget
+34 General Revenues 11,000,012 (86,931) 10,913,081
+LC004135 - Page 2 of 51
+
+1 Federal Funds
+2 Federal Funds 151,689 (1,097) 150,592
+3 Federal Funds – Capital Projects Fund
+4 CPF Administration 530,582 922,803 1,453,385
+5 Federal Funds – State Fiscal Recovery Fund
+6 Pandemic Recovery Office 1,436,547 (211,380) 1,225,167
+7 Restricted Receipts 300,000 0 300,000
+8 Other Funds 1,242,011 (71,378) 1,170,633
+9 Total - Office of Management and Budget 14,660,841 552,017 15,212,858
+10 Purchasing
+11 General Revenues 4,008,986 (170,228) 3,838,758
+12 Restricted Receipts 1,262,987 511,718 1,774,705
+13 Other Funds 636,500 10,265 646,765
+14 Total - Purchasing 5,908,473 351,755 6,260,228
+15 Human Resources
+16 General Revenues 889,580 86,675 976,255
+17 Personnel Appeal Board
+18 General Revenues 160,838 (9,891) 150,947
+19 Information Technology
+20 General Revenues 1,838,147 222,030 2,060,177
+21 Federal Funds – State Fiscal Recovery Fund
+22 ERP Implementation Support 0 563,506 563,506
+23 Restricted Receipts 1,162,424 34,969,669 36,132,093
+24 Total - Information Technology 3,000,571 35,755,205 38,755,776
+25 Library and Information Services
+26 General Revenues 2,143,053 18,188 2,161,241
+27 Federal Funds 1,617,500 (5,765) 1,611,735
+28 Restricted Receipts 6,990 0 6,990
+29 Total - Library and Information Services 3,767,543 12,423 3,779,966
+30 Planning
+31 General Revenues 1,222,229 1,284 1,223,513
+32 Federal Funds 3,050 (3,050) 0
+33 Restricted Receipts 50,000 0 50,000
+34 Other Funds
+LC004135 - Page 3 of 51
+
+1 Air Quality Modeling 24,000 0 24,000
+2 Federal Highway - PL Systems Planning 3,821,438 (34,123) 3,787,315
+3 State Transportation Planning Match 504,926 150,794 655,720
+4 FTA - Metro Planning Grant 1,525,830 22,142 1,547,972
+5 Total - Planning 7,151,473 137,047 7,288,520
+6 General
+7 General Revenues
+8 Miscellaneous Grants/Payments 811,678 0 811,678
+9 Torts Court Awards 1,750,000 (250,000) 1,500,000
+10 Wrongful Conviction Awards 1,000,000 (100,000) 900,000
+11 Resource Sharing and State Library Aid 12,095,022 0 12,095,022
+12 Library Construction Aid 2,115,628 0 2,115,628
+13 Federal Funds- Capital Projects Fund
+14 Community Learning Center Municipal
+15 Grant Program 0 83,220,128 83,220,128
+16 Restricted Receipts 1,113,557 482,443 1,596,000
+17 Other Funds
+18 Rhode Island Capital Plan Funds
+19 Security Measures State Buildings 700,000 48,142 748,142
+20 Cranston Street Armory 600,000 0 600,000
+21 State House Renovations 1,759,000 4,058,137 5,817,137
+22 Zambarano Buildings and Campus 4,500,000 18,775,952 23,275,952
+23 Replacement of Fueling Tanks 430,000 1,061,480 1,491,480
+24 Environmental Compliance 225,000 475,605 700,605
+25 Big River Management Area 797,000 649,895 1,446,895
+26 Shepard Building Upgrades 2,805,000 1,663,020 4,468,020
+27 RI Convention Center Authority 2,800,000 0 2,800,000
+28 Pastore Center Power Plant 2,000,000 552,612 2,552,612
+29 DoIT Enterprise Operations Center 5,550,000 4,617,005 10,167,005
+30 Cannon Building 150,000 47,658 197,658
+31 Old State House 600,000 1,179,347 1,779,347
+32 State Office Building 500,000 600,111 1,100,111
+33 State Office Reorganization & Relocation 750,000 1,012,964 1,762,964
+34 William Powers Building 2,500,000 2,300,453 4,800,453
+LC004135 - Page 4 of 51
+
+1 Pastore Center Non-Hospital Buildings Asset
+2 Protection 7,750,000 11,069,333 18,819,333
+3 Washington County Government Center 100,000 177,311 277,311
+4 Chapin Health Laboratory 100,000 100,655 200,655
+5 560 Jefferson Blvd Asset Protection 2,050,000 796,420 2,846,420
+6 Arrigan Center 200,000 94,888 294,888
+7 Civic Center 3,800,000 0 3,800,000
+8 Veterans Auditorium 380,000 0 380,000
+9 Pastore Center Hospital Buildings Asset
+10 Protection 1,000,000 988,418 1,988,418
+11 Pastore Campus Infrastructure 15,000,000 19,227,222 34,227,222
+12 Community Facilities Asset Protection 225,000 1,090,380 1,315,380
+13 Medical Examiners - New Facility 50,000 992,038 1,042,038
+14 Group Home Replacement & Rehabilitation 5,000,000 1,984,225 6,984,225
+15 Expo Center 500,000 922,590 1,422,590
+16 Group Homes Consolidation 5,350,000 1,780,051 7,130,051
+17 Accessibility - Facility Renovations 0 420,686 420,686
+18 BHDDH Group Homes 0 139,769 139,769
+19 Hospital Reorganization 0 12,175,644 12,175,644
+20 Pastore Center Buildings Demolition 0 6,295,540 6,295,540
+21 Statewide Facility Master Plan 0 545,258 545,258
+22 State Land Use Planning Study 0 250,000 250,000
+23 Zambarano LTAC Hospital 0 6,439,929 6,439,929
+24 Total - General 87,056,885 185,885,309 272,942,194
+25 Debt Service Payments
+26 General Revenues 178,801,286 (13,260,160) 165,541,126
+27 Other Funds
+28 Transportation Debt Service 32,982,697 (330,710) 32,651,987
+29 Investment Receipts - Bond Funds 100,000 0 100,000
+30 Total - Debt Service Payments 211,883,983 (13,590,870) 198,293,113
+31 Rhode Island Health Benefits Exchange
+32 General Revenues 1,889,227 (776,000) 1,113,227
+33 Federal Funds 10,758,473 (1,203,479) 9,554,994
+34 Restricted Receipts 17,298,973 4,055,119 21,354,092
+LC004135 - Page 5 of 51
+
+1 Total - Rhode Island Health Benefits
+2 Exchange 29,946,673 2,075,640 32,022,313
+3 Division of Equity, Diversity & Inclusion
+4 General Revenues 2,308,469 7,935 2,316,404
+5 Other Funds 108,978 174 109,152
+6 Total - Division of Equity, Diversity &
+7 Inclusion 2,417,447 8,109 2,425,556
+8 Capital Asset Management and Maintenance
+9 General Revenues 10,990,302 98,234 11,088,536
+10 Federal Funds 0 750,000 750,000
+11 Statewide Personnel and Operations
+12 FEMA Contingency Reserve
+13 General Revenues 2,500,000 140,091 2,640,091
+14 Primary Care Health Assessment State Cost
+15 General Revenues 750,000 (750,000) 0
+16 Federal Funds 100,500 (100,500) 0
+17 Restricted Receipts 44,575 (44,575) 0
+18 Other Funds 477,295 (477,295) 0
+19 Total - Statewide Personnel and Operations 3,872,370 (1,232,279) 2,640,091
+20 Grand Total - Administration 430,628,941 202,152,900 632,781,841
+21 Office of Energy Resources
+22 General Revenues 0 275,313 275,313
+23 Federal Funds
+24 Federal Funds 31,554,214 (8,216,395) 23,337,819
+25 Federal Funds – State Fiscal Recovery Fund
+26 Electric Heat Pump Grant Program 0 697,440 697,440
+27 Restricted Receipts 39,089,028 (1,384,204) 37,704,824
+28 Other Funds
+29 National Electric Vehicle Infrastructure Formula
+30 Program 4,668,785 9,901,355 14,570,140
+31 Rhode Island Capital Plan Funds
+32 Energy Efficiency Improvements 1,000,000 0 1,000,000
+33 Grand Total – Office of Energy Resources 76,312,027 1,273,509 77,585,536
+34 Business Regulation
+LC004135 - Page 6 of 51
+
+1 Central Management
+2 General Revenues 4,360,810 (417,655) 3,943,155
+3 Restricted Receipts 39,014 0 39,014
+4 Total - Central Management 4,399,824 (417,655) 3,982,169
+5 Banking Regulation
+6 General Revenues 2,107,972 (68,694) 2,039,278
+7 Restricted Receipts 50,000 50,000 100,000
+8 Total - Banking Regulation 2,157,972 (18,694) 2,139,278
+9 Securities Regulation
+10 General Revenues 1,000,863 (5,105) 995,758
+11 Insurance Regulation
+12 General Revenues 5,125,539 155,773 5,281,312
+13 Restricted Receipts 1,617,538 800,000 2,417,538
+14 Total - Insurance Regulation 6,743,077 955,773 7,698,850
+15 Office of the Health Insurance Commissioner
+16 General Revenues 3,107,152 (75,848) 3,031,304
+17 Federal Funds 439,300 90,000 529,300
+18 Restricted Receipts 603,592 (7,267) 596,325
+19 Total - Office of the Health Insurance
+20 Commissioner 4,150,044 6,885 4,156,929
+21 Board of Accountancy
+22 General Revenues 5,490 0 5,490
+23 Commercial Licensing and Gaming and Athletics Licensing
+24 General Revenues 1,268,739 95,957 1,364,696
+25 Restricted Receipts 1,045,581 201,906 1,247,487
+26 Total - Commercial Licensing and Gaming and Athletics
+27 Licensing 2,314,320 297,863 2,612,183
+28 Building, Design and Fire Professionals
+29 General Revenues 8,793,216 192,341 8,985,557
+30 Federal Funds 346,788 (2,500) 344,288
+31 Restricted Receipts 2,130,377 660,041 2,790,418
+32 Other Funds
+33 Quonset Development Corporation 52,983 14,323 67,306
+34 Rhode Island Capital Plan Funds
+LC004135 - Page 7 of 51
+
+1 Fire Academy Expansion 7,000,000 839,925 7,839,925
+2 Total - Building, Design and Fire
+3 Professionals 18,323,364 1,704,130 20,027,494
+4 Grand Total - Business Regulation 39,094,954 2,523,197 41,618,151
+5 RI Cannabis Control Commission
+6 Restricted Receipts 7,303,563 (17,033) 7,286,530
+7 Executive Office of Commerce
+8 Central Management
+9 General Revenues 2,369,982 16,871 2,386,853
+10 Quasi-Public Appropriations
+11 General Revenues
+12 Rhode Island Commerce Corporation 8,506,041 0 8,506,041
+13 Airport Impact Aid 1,010,036 0 1,010,036
+14 Sixty percent (60%) of the first $1,000,000 appropriated for airport impact aid shall be
+15 distributed to each airport serving more than 1,000,000 passengers based upon its percentage of the
+16 total passengers served by all airports serving more than 1,000,000 passengers. Forty percent (40%)
+17 of the first $1,000,000 shall be distributed based on the share of landings during calendar year 2025
+18 at North Central Airport, Newport-Middletown Airport, Block Island Airport, Quonset Airport,
+19 T.F. Green International Airport and Westerly Airport, respectively. The Rhode Island commerce
+20 corporation shall make an impact payment to the towns or cities in which the airport is located
+21 based on this calculation. Each community upon which any part of the above airports is located
+22 shall receive at least $25,000.
+23 STAC Research Alliance 900,000 0 900,000
+24 Innovative Matching Grants/Internships 1,000,000 0 1,000,000
+25 I-195 Redevelopment District Commission 1,245,050 0 1,245,050
+26 Polaris Manufacturing Grant 500,000 0 500,000
+27 East Providence Waterfront Commission 50,000 0 50,000
+28 Urban Ventures 140,000 0 140,000
+29 Chafee Center at Bryant 476,200 0 476,200
+30 Blackstone Valley Visitor Center 75,000 0 75,000
+31 Industrial Recreational Building Authority
+32 Obligations 105,094 0 105,094
+33 Federal Funds – State Fiscal Recovery Fund
+34 Port of Davisville 0 279 279
+LC004135 - Page 8 of 51
+
+1 Other Funds
+2 Rhode Island Capital Plan Funds
+3 I-195 Redevelopment District Commission 700,000 34,602 734,602
+4 I-195 Park Improvements 1,100,000 1,357,200 2,457,200
+5 Quonset Infrastructure 2,500,000 0 2,500,000
+6 PFAS Mitigation at Quonset Business Park 1,000,000 0 1,000,000
+7 Total - Quasi-Public Appropriations 19,307,421 1,392,081 20,699,502
+8 Economic Development Initiatives Fund
+9 General Revenues
+10 Rebuild RI Tax Credit Fund 10,085,000 0 10,085,000
+11 Destination Marketing 1,400,000 0 1,400,000
+12 RI Innovation Ecosystem 250,000 0 250,000
+13 Federal Funds
+14 Federal Funds 20,000,000 (19,305,563) 694,437
+15 Federal Funds – State Fiscal Recovery Fund
+16 Assistance to Impacted Industries 0 1,341,963 1,341,963
+17 Total - Economic Development Initiatives
+18 Fund 31,735,000 (17,963,600) 13,771,400
+19 Commerce Programs
+20 General Revenues
+21 Wavemaker Fellowship 2,566,621 0 2,566,621
+22 Air Service Development Fund 2,728,800 0 2,728,800
+23 Main Street RI Streetscape Improvement Fund 125,000 0 125,000
+24 Federal Funds
+25 Federal Funds – Capital Projects Fund
+26 Broadband 0 24,644,868 24,644,868
+27 Federal Funds – State Fiscal Recovery Fund
+28 Bioscience Investments 0 24,189,278 24,189,278
+29 Total - Commerce Programs 5,420,421 48,834,146 54,254,567
+30 Grand Total - Executive Office of
+31 Commerce 58,832,824 32,279,498 91,112,322
+32 Housing
+33 General Revenues 6,464,465 1,189,660 7,654,125
+34 Provided that $100,000 shall support Sojourner House’s supportive housing and rapid
+LC004135 - Page 9 of 51
+
+1 rehousing activities.
+2 Federal Funds
+3 Federal Funds 15,596,037 6,060,779 21,656,816
+4 Federal Funds – State Fiscal Recovery Fund
+5 Homelessness Assistance Program 0 9,010,861 9,010,861
+6 Development of Affordable Housing 0 40,002,001 40,002,001
+7 Home Repair and Community Revitalization 0 9,738,194 9,738,194
+8 Homelessness Infrastructure 0 4,185,576 4,185,576
+9 Housing Related Infrastructure 0 1,927,964 1,927,964
+10 Municipal Homelessness Support Initiative 0 719,104 719,104
+11 Municipal Planning 0 1,658,224 1,658,224
+12 Predevelopment and Capacity Building 0 41,192 41,192
+13 Site Acquisition 0 900 900
+14 Proactive Housing Development 0 700,000 700,000
+15 Statewide Housing Plan 0 1,017,513 1,017,513
+16 Targeted Housing Development 0 18,001,903 18,001,903
+17 Workforce Housing 0 8,325,097 8,325,097
+18 Restricted Receipts 23,018,954 16,789,136 39,808,090
+19 Other Funds
+20 Rhode Island Capital Plan Funds
+21 Housing Asset Protection 0 300,000 300,000
+22 Grand Total - Housing 45,079,456 119,668,104 164,747,560
+23 Labor and Training
+24 Central Management
+25 General Revenues 1,661,890 (209,450) 1,452,440
+26 Restricted Receipts 488,494 (71,995) 416,499
+27 Total - Central Management 2,150,384 (281,445) 1,868,939
+28 Workforce Development Services
+29 General Revenues 878,758 1,105 879,863
+30 Federal Funds 19,112,629 1,528,002 20,640,631
+31 Other Funds 0 41,336 41,336
+32 Total - Workforce Development Services 19,991,387 1,570,443 21,561,830
+33 Workforce Regulation and Safety
+34 General Revenues 5,347,291 65,466 5,412,757
+LC004135 - Page 10 of 51
+
+1 Income Support
+2 General Revenues 3,684,566 199,291 3,883,857
+3 Federal Funds
+4 Federal Funds 22,883,898 534,009 23,417,907
+5 Federal Funds – State Fiscal Recovery Fund
+6 Unemployment Insurance Trust Fund Contribution 0 1,196 1,196
+7 Restricted Receipts 4,635,586 549,819 5,185,405
+8 Other Funds
+9 Temporary Disability Insurance Fund 287,480,146 966,971 288,447,117
+10 Employment Security Fund 249,200,000 19,200,000 268,400,000
+11 Total - Income Support 567,884,196 21,451,286 589,335,482
+12 Injured Workers Services
+13 Restricted Receipts 11,233,092 1,189,330 12,422,422
+14 Labor Relations Board
+15 General Revenues 556,737 75,807 632,544
+16 Governor’s Workforce Board
+17 General Revenues 6,050,000 565,780 6,615,780
+18 Provided that $600,000 of these funds shall be used for enhanced training for direct care
+19 and support services staff to improve resident quality of care and address the changing health care
+20 needs of nursing facility residents due to higher acuity and increased cognitive impairments
+21 pursuant to § 23-17.5-36.
+22 Federal Funds – State Fiscal Recovery Fund
+23 Enhanced Real Jobs 0 65,508 65,508
+24 Restricted Receipts 19,054,596 1,129,129 20,183,725
+25 Provided that at least $150,000 of these funds shall be used to provide hospitality industry
+26 workforce training grants including, but not limited to, certified food and alcohol safety training
+27 programs offered in multiple languages.
+28 Total - Governor’s Workforce Board 25,104,596 1,760,417 26,865,013
+29 Grand Total - Labor and Training 632,267,683 25,831,304 658,098,987
+30 Department of Revenue
+31 Director of Revenue
+32 General Revenues 3,168,518 (239,886) 2,928,632
+33 Office of Revenue Analysis
+34 General Revenues 1,173,041 30,757 1,203,798
+LC004135 - Page 11 of 51
+
+1 Lottery Division
+2 Other Funds
+3 Other Funds 448,042,227 (14,705,340) 433,336,887
+4 Rhode Island Capital Plan Funds
+5 Lottery Building Enhancements 0 756,319 756,319
+6 Total - Lottery Division 448,042,227 (13,949,021) 434,093,206
+7 Municipal Finance
+8 General Revenues 2,045,839 (41,494) 2,004,345
+9 Taxation
+10 General Revenues 38,331,490 (242,921) 38,088,569
+11 Restricted Receipts 4,660,479 (2,899,352) 1,761,127
+12 Other Funds
+13 Motor Fuel Tax Evasion 175,000 0 175,000
+14 Total - Taxation 43,166,969 (3,142,273) 40,024,696
+15 Registry of Motor Vehicles
+16 General Revenues 35,374,576 1,419,872 36,794,448
+17 Federal Funds 493,061 (93,061) 400,000
+18 Restricted Receipts 5,429,330 200,000 5,629,330
+19 Total - Registry of Motor Vehicles 41,296,967 1,526,811 42,823,778
+20 State Aid
+21 General Revenues
+22 Distressed Communities Relief Fund 14,884,458 0 14,884,458
+23 Payment in Lieu of Tax Exempt Properties 51,317,647 0 51,317,647
+24 Motor Vehicle Excise Tax Payments 239,547,419 2,817 239,550,236
+25 Property Revaluation Program 712,390 0 712,390
+26 Tangible Tax Exemption Program 25,903,228 5,241 25,908,469
+27 Restricted Receipts 995,120 129,880 1,125,000
+28 Total - State Aid 333,360,262 137,938 333,498,200
+29 Collections
+30 General Revenues 994,263 81,979 1,076,242
+31 Grand Total - Revenue 873,248,086 (15,595,189) 857,652,897
+32 Legislature
+33 General Revenues 58,734,623 8,425,979 67,160,602
+34 Restricted Receipts 2,690,297 48,607 2,738,904
+LC004135 - Page 12 of 51
+
+1 Grand Total - Legislature 61,424,920 8,474,586 69,899,506
+2 Lieutenant Governor
+3 General Revenues 1,519,219 13,043 1,532,262
+4 Secretary of State
+5 Administration
+6 General Revenues 5,975,167 190,914 6,166,081
+7 Provided that $100,000 be allocated to support the Rhode Island Council for the
+8 Humanities for grant making to civic and cultural organizations, and $50,000 to support Rhode
+9 Island’s participation in the We the People Civics Challenge.
+10 Corporations
+11 General Revenues 2,913,879 (234,144) 2,679,735
+12 State Archives
+13 General Revenues 356,659 97,534 454,193
+14 Restricted Receipts 404,790 (18,631) 386,159
+15 Total - State Archives 761,449 78,903 840,352
+16 Elections and Civics
+17 General Revenues 2,107,040 (50,018) 2,057,022
+18 Federal Funds 2,000,000 0 2,000,000
+19 Total - Elections and Civics 4,107,040 (50,018) 4,057,022
+20 State Library
+21 General Revenues 668,263 (5,695) 662,568
+22 Provided that $125,000 be allocated to support the Rhode Island Historical Society and
+23 $18,000 be allocated to support the Newport Historical Society, pursuant to §§ 29-2-1 and 29-2-2,
+24 and $25,000 be allocated to support the Rhode Island Black Heritage Society.
+25 Office of Public Information
+26 General Revenues 840,724 (11,441) 829,283
+27 Receipted Receipts 25,000 0 25,000
+28 Total - Office of Public Information 865,724 (11,441) 854,283
+29 Grand Total - Secretary of State 15,291,522 (31,481) 15,260,041
+30 General Treasurer
+31 Treasury
+32 General Revenues 3,665,773 786,537 4,452,310
+33 Provided that unexpended or unencumbered balances for the Medical Debt Relief program
+34 as of June 30, 2026 are hereby reappropriated to the following fiscal year.
+LC004135 - Page 13 of 51
+
+1 Federal Funds 365,134 (3,358) 361,776
+2 Other Funds
+3 Temporary Disability Insurance Fund 246,415 (526) 245,889
+4 Tuition Savings Program - Administration 388,916 (16,292) 372,624
+5 Total - Treasury 4,666,238 766,361 5,432,599
+6 State Retirement System
+7 Restricted Receipts
+8 Admin Expenses - State Retirement System 13,193,967 (23,242) 13,170,725
+9 Retirement - Treasury Investment Operations 2,846,571 191,370 3,037,941
+10 Defined Contribution - Administration 277,654 (19,151) 258,503
+11 Total - State Retirement System 16,318,192 148,977 16,467,169
+12 Unclaimed Property
+13 Restricted Receipts 3,338,043 32,855 3,370,898
+14 Crime Victim Compensation
+15 General Revenues 934,450 504 934,954
+16 Federal Funds 467,993 0 467,993
+17 Restricted Receipts 250,000 (29,751) 220,249
+18 Total - Crime Victim Compensation 1,652,443 (29,247) 1,623,196
+19 Grand Total - General Treasurer 25,974,916 918,946 26,893,862
+20 Board of Elections
+21 General Revenues 4,474,931 506,347 4,981,278
+22 Rhode Island Ethics Commission
+23 General Revenues 2,419,632 40,783 2,460,415
+24 Office of Governor
+25 General Revenues
+26 General Revenues 9,184,918 34,593 9,219,511
+27 Contingency Fund 150,000 0 150,000
+28 Grand Total - Office of Governor 9,334,918 34,593 9,369,511
+29 Commission for Human Rights
+30 General Revenues 2,249,158 36,699 2,285,857
+31 Federal Funds 523,529 (25,306) 498,223
+32 Grand Total - Commission for Human Rights 2,772,687 11,393 2,784,080
+33 Public Utilities Commission
+34 Federal Funds 753,555 17,552 771,107
+LC004135 - Page 14 of 51
+
+1 Restricted Receipts 14,754,719 142,294 14,897,013
+2 Grand Total - Public Utilities Commission 15,508,274 159,846 15,668,120
+3 Executive Office of Health and Human Services
+4 Central Management
+5 General Revenues 32,413,726 (272,850) 32,140,876
+6 Provided that of this amount, $900,000 will be for Mobile Response and Stabilization
+7 Services for uninsured and underinsured child and youth and cover services and costs not otherwise
+8 reimbursed. Also $500,000 is for Thundermist’s Family Residency Program contingent upon
+9 receiving federal funds and $150,000 will be for an Olmstead Plan Coordinator.
+10 All-Payer Claims Database 509,950 31,160 541,110
+11 Health System Planning and Overtight 777,260 (82,610) 694,650
+12 Medicaid Enterprise System 1,873,838 (571,153) 1,302,685
+13 Medicaid Management Information System 6,064,700 1,668,302 7,733,002
+14 Unified Health Infrastructure 22,368,654 (286,326) 22,082,328
+15 Federal Funds
+16 Federal Funds 70,793,907 8,788,961 79,582,868
+17 Provided that of this amount, $1,960,784 shall be for statewide interagency initiatives to
+18 implement and support the community engagement requirements of the federal reconciliation bill
+19 known as H.R. 1, to be developed and administered in coordination with the Department of Human
+20 Services and the Department of Labor and Training, to the extent compliance with guidance from
+21 Centers for Medicare & Medicaid Services.
+22 All-Payer Claims Database 10,212,239 (2,718,244) 7,493,995
+23 Health System Planning and Oversight 153,750 1,583,250 1,737,000
+24 Medicaid Enterprise System 12,364,541 (8,830,381) 3,534,160
+25 Medicaid Management Information System 19,566,585 8,449,860 28,016,445
+26 Unified Health Infrastructure Project 56,336,615 (1,814,003) 54,522,612
+27 Federal Funds - State Fiscal Recovery Fund
+28 Certified Community Behavioral Health Clinics 205,295 1,703,127 1,908,422
+29 Restricted Receipts 15,463,598 20,275,836 35,739,434
+30 Total - Central Management 249,104,658 27,924,929 277,029,587
+31 Medical Assistance
+32 General Revenues
+33 Managed Care 464,278,305 (1,559,842) 462,718,463
+34 Hospitals 136,238,010 1,966,367 138,204,377
+LC004135 - Page 15 of 51
+
+1 Nursing Facilities 204,266,507 (10,382,507) 193,884,000
+2 Home and Community Based Services 125,703,952 (3,895,152) 121,808,800
+3 Other Services 160,879,834 (26,382,204) 134,497,630
+4 Pharmacy 100,069,654 (4,519,415) 95,550,239
+5 Rhody Health 234,976,854 31,101,026 266,077,880
+6 Federal Funds
+7 Managed Care 653,184,013 (9,102,476) 644,081,537
+8 Hospitals 285,888,183 (1,992,560) 283,895,623
+9 Nursing Facilities 273,055,474 (13,939,474) 259,116,000
+10 Home and Community Based Services 168,075,434 (5,284,234) 162,791,200
+11 Other Services 796,373,214 (34,112,512) 762,260,702
+12 Pharmacy 4,130,346 (3,580,585) 549,761
+13 Rhody Health 326,578,917 41,434,871 368,013,788
+14 Other Programs 32,611,481 12,788,519 45,400,000
+15 Restricted Receipts 11,021,948 (1,615,734) 9,406,214
+16 Total - Medical Assistance 3,977,332,126 (29,075,912) 3,948,256,214
+17 Grand Total – Executive Office of Health
+18 and Human Services 4,226,436,784 (1,150,983) 4,225,285,801
+19 Children, Youth and Families
+20 Central Management
+21 General Revenues 17,937,159 2,411,228 20,348,387
+22 The director of the department of children, youth and families shall provide to the speaker
+23 of the house and president of the senate at least every ninety (90) days beginning September 30,
+24 2025, a report on the process to maintain accreditation in accordance with § 42-72-5.3. The report
+25 shall, at minimum, provide data regarding recruitment and retention efforts, including maintaining
+26 a diverse workforce, documentation of newly filled and vacated positions, and progress in reducing
+27 worker caseloads.
+28 It shall also contain the number of filled full-time equivalent positions compared to the
+29 department’s authorization and disaggregated by job classification, and as compared to the staffing
+30 recommended in the October 1, 2020 accreditation plan that was funded beginning in the fiscal
+31 year 2022 budget. The report shall also include information on turnover assumptions, expressed
+32 as funded positions compared to filled and authorized.
+33 Federal Funds
+34 Federal Funds 15,237,654 (1,294,930) 13,942,724
+LC004135 - Page 16 of 51
+
+1 Federal Funds – State Fiscal Recovery Fund
+2 Provider Workforce Stabilization 0 257,093 257,093
+3 Total - Central Management 33,174,813 1,373,391 34,548,204
+4 Children's Behavioral Health Services
+5 General Revenues 7,109,636 1,963,945 9,073,581
+6 Federal Funds
+7 Federal Funds 8,824,070 (440,778) 8,383,292
+8 Federal Funds – State Fiscal Recovery Fund
+9 Psychiatric Residential Treatment Facility 0 6,561,123 6,561,123
+10 Total - Children's Behavioral Health Services 15,933,706 8,084,290 24,017,996
+11 Youth Development Services
+12 General Revenues 25,678,366 1,800,057 27,478,423
+13 Federal Funds 647,931 (488,161) 159,770
+14 Restricted Receipts 1,500 (1,500) 0
+15 Other Funds
+16 Rhode Island Capital Plan Funds
+17 Training School Asset Protection 250,000 323,459 573,459
+18 Residential Treatment Facilities 11,000,000 9,942,880 20,942,880
+19 Psychiatric Residential Treatment Facility
+20 Modifications 0 5,560,822 5,560,822
+21 Total - Youth Development Services 37,577,797 17,137,557 54,715,354
+22 Child Welfare
+23 General Revenues 211,849,897 (6,194,805) 205,655,092
+24 Federal Funds 93,910,710 (525,445) 93,385,265
+25 Restricted Receipts 1,743,471 127,133 1,870,604
+26 Total - Child Welfare 307,504,078 (6,593,117) 300,910,961
+27 Higher Education Incentive Grants
+28 General Revenues 200,000 0 200,000
+29 Provided that these funds and any unexpended or unencumbered previous years’ funding
+30 are to be used exclusively to fund awards to eligible youth.
+31 Grand Total - Children, Youth and
+32 Families 394,390,394 20,002,121 414,392,515
+33 Health
+34 Central Management
+LC004135 - Page 17 of 51
+
+1 General Revenues
+2 General Revenues 2,588,732 (518,634) 2,070,098
+3 Of this amount, $50,000 is to support the Gloria Gemma Breast Cancer Resource
+4 Foundation and the organization’s new survivorship and well-being center in Lincoln, RI.
+5 Psychiatry Resource Network 750,000 123 750,123
+6 Primary Care Training Sites Program 2,000,000 502,422 2,502,422
+7 Provided that unexpended or unencumbered balances as of June 30, 2026 are hereby
+8 reappropriated to the following fiscal year.
+9 Federal Funds 4,884,431 853,865 5,738,296
+10 Restricted Receipts 22,233,391 6,289,146 28,522,537
+11 Provided that the disbursement of any indirect cost recoveries on federal grants budgeted
+12 in this line item that are derived from grants authorized under The Coronavirus Preparedness and
+13 Response Supplemental Appropriations Act (P.L. 116-123); The Families First Coronavirus
+14 Response Act (P.L. 116-127); The Coronavirus Aid, Relief, and Economic Security Act (P.L. 116-
+15 136); The Paycheck Protection Program and Health Care Enhancement Act (P.L. 116-139); the
+16 Consolidated Appropriations Act, 2021 (P.L. 116-260); and the American Rescue Plan Act of 2021
+17 (P.L. 117-2), are hereby subject to the review and prior approval of the director of management and
+18 budget. No obligation or expenditure of these funds shall take place without such approval.
+19 Total - Central Management 32,456,554 7,126,922 39,583,476
+20 Community Health and Equity
+21 General Revenues 2,051,358 718 2,052,076
+22 Federal Funds 88,096,432 2,942,680 91,039,112
+23 Restricted Receipts 67,695,968 (6,358,963) 61,337,005
+24 Total - Community Health and Equity 157,843,758 (3,415,565) 154,428,193
+25 Environmental Health
+26 General Revenues 6,836,896 383,097 7,219,993
+27 Federal Funds 14,433,189 (843,484) 13,589,705
+28 Restricted Receipts 1,104,785 53,291 1,158,076
+29 Total - Environmental Health 22,374,870 (407,096) 21,967,774
+30 Health Laboratories
+31 General Revenues 9,514,520 1,015,129 10,529,649
+32 Federal Funds 2,666,663 225,700 2,892,363
+33 Other Funds
+34 Rhode Island Capital Plan Funds
+LC004135 - Page 18 of 51
+
+1 Health Laboratories & Medical Examiner
+2 Equipment 400,000 550,736 950,736
+3 New Health Laboratory Building 8,363,883 6,742,388 15,106,271
+4 Total - Health Laboratories 20,945,066 8,533,953 29,479,019
+5 State Medical Examiners
+6 General Revenues 4,521,784 2,136 4,523,920
+7 Federal Funds 67,325 0 67,325
+8 Total – State Medical Examiners 4,589,109 2,136 4,591,245
+9 Healthcare Quality and Safety
+10 General Revenues 7,868,321 (16,840) 7,851,481
+11 Federal Funds 6,746,561 728,319 7,474,880
+12 Restricted Receipts 1,199,564 (242,752) 956,812
+13 Total – Healthcare Quality and Safety 15,814,446 468,727 16,283,173
+14 Policy, Information and Communications
+15 General Revenues 2,785,613 (214,025) 2,571,588
+16 Provided that $200,000 of this amount and its corresponding federal match is used for loan
+17 repayment assistance specifically for primary care physicians and pediatricians through the Health
+18 Professional Loan Repayment Program authorized by § 23-14.1.
+19 Federal Funds 5,593,898 145,097 5,738,995
+20 Restricted Receipts 842,433 (42,630) 799,803
+21 Total - Policy, Information and
+22 Communications 9,221,944 (111,558) 9,110,386
+23 Emergency Preparedness and Infectious Disease
+24 General Revenues 1,907,851 (14,678) 1,893,173
+25 Federal Funds 15,196,529 1,691,217 16,887,746
+26 Total – Emergency Preparedness and
+27 Infectious Disease 17,104,380 1,676,539 18,780,919
+28 COVID-19
+29 Federal Funds
+30 Federal Funds 15,176,647 2,384,012 17,560,659
+31 Federal Funds – State Fiscal Recovery Fund
+32 COVID-19 Operational Support 0 229,342 229,342
+33 Total – COVID-19 15,176,647 2,613,354 17,790,001
+34 Grand Total - Health 295,526,774 16,487,412 312,014,186
+LC004135 - Page 19 of 51
+
+1 Human Services
+2 Central Management
+3 General Revenues 8,050,831 (1,391,873) 6,658,958
+4 Of this amount, $400,000 is to support the domestic violence prevention fund to provide
+5 direct services through the Coalition Against Domestic Violence, $25,000 for the Center for
+6 Southeast Asians, $450,000 to support Project Reach activities provided by the RI Alliance of Boys
+7 and Girls Clubs, $300,000 is for outreach and supportive services through Day One, $950,000 is
+8 for food collection and distribution through the Rhode Island Community Food Bank, $500,000 for
+9 services provided to the homeless at Crossroads Rhode Island, $600,000 for the Community Action
+10 Fund, $250,000 is for the Institute for the Study and Practice of Nonviolence’s Reduction Strategy,
+11 $200,000 to provide operational support to the United Way’s 211 system, $125,000 is to support
+12 services provided to the immigrant and refugee population through Higher Ground International,
+13 $50,000 is for services provided to refugees through the Refugee Dream Center and $150,000 for
+14 the Substance Use and Mental Health Leadership Council of RI.
+15 The director of the department of human services shall provide to the speaker of the house,
+16 president of the senate, and chairs of the house and senate finance committees at least every sixty
+17 (60) days beginning August 1, 2022, a report on its progress in recruiting and retaining customer
+18 serving staff. The report shall include: documentation of newly filled and vacated positions,
+19 including lateral transfers, position titles, civil service information, including numbers of eligible
+20 and available candidates, plans for future testing and numbers of eligible and available candidates
+21 resulting from such testing, impacts on caseload backlogs and call center wait times, as well as
+22 other pertinent information as determined by the director.
+23 Federal Funds 8,064,314 452,931 8,517,245
+24 Of this amount, $3.0 million is to sustain Early Head Start and Head Start programs.
+25 Restricted Receipts 300,000 1,060,207 1,360,207
+26 Total - Central Management 16,415,145 121,265 16,536,410
+27 Child Support Enforcement
+28 General Revenues 4,390,046 110,877 4,500,923
+29 Federal Funds 10,229,053 (2,092,814) 8,136,239
+30 Restricted Receipts 3,816,099 391,310 4,207,409
+31 Total - Child Support Enforcement 18,435,198 (1,590,627) 16,844,571
+32 Individual and Family Support
+33 General Revenues 35,143,366 (581,136) 34,562,230
+34 Federal Funds
+LC004135 - Page 20 of 51
+
+1 Federal Funds 128,579,088 10,709,211 139,288,299
+2 Federal Funds – State Fiscal Recovery Fund
+3 Child Care Support 0 1,004,309 1,004,309
+4 Restricted Receipts 115,000 (15,000) 100,000
+5 Other Funds
+6 Rhode Island Capital Plan Funds
+7 Blind Vending Facilities 165,000 0 165,000
+8 Total - Individual and Family Support 164,002,454 11,117,384 175,119,838
+9 Office of Veterans Services
+10 General Revenues 33,499,864 11,401 33,511,265
+11 Of this amount, $200,000 is to provide support services through veterans’ organizations,
+12 $50,000 is to support Operation Stand Down, and $100,000 is to support the Veterans Services
+13 Officers (VSO) program through the Veterans of Foreign Wars.
+14 Federal Funds 15,752,830 1,624,289 17,377,119
+15 Restricted Receipts 1,725,342 (393,921) 1,331,421
+16 Other Funds
+17 Rhode Island Capital Plan Funds
+18 Veterans Home Asset Protection 665,000 442,224 1,107,224
+19 Veterans Memorial Cemetery Asset Protection 300,000 415,003 715,003
+20 Total - Office of Veterans Services 51,943,036 2,098,996 54,042,032
+21 Health Care Eligibility
+22 General Revenues 10,511,087 513,511 11,024,598
+23 Federal Funds 16,662,419 309,990 16,972,409
+24 Total - Health Care Eligibility 27,173,506 823,501 27,997,007
+25 Supplemental Security Income Program
+26 General Revenues 16,680,780 (84,780) 16,596,000
+27 Rhode Island Works
+28 General Revenues 9,891,538 (10,142) 9,881,396
+29 Federal Funds 109,225,738 (8,220,937) 101,004,801
+30 Total - Rhode Island Works 119,117,276 (8,231,079) 110,886,197
+31 Other Programs
+32 General Revenues 2,231,840 3,874,558 6,106,398
+33 Federal Funds
+34 Federal Funds 382,432,873 (36,822,408) 345,610,465
+LC004135 - Page 21 of 51
+
+1 Federal Funds – State Fiscal Recovery Fund
+2 Retail SNAP Incentives Pilot Program 0 1,350 1,350
+3 Restricted Receipts 8,000 350,000 358,000
+4 Total - Other Programs 384,672,713 (32,596,500) 352,076,213
+5 Office of Healthy Aging
+6 General Revenues 15,623,340 (1,284,103) 14,339,237
+7 Of this amount, $325,000 is to provide elder services, including respite, through the
+8 Diocese of Providence; $40,000 is for ombudsman services provided by the Alliance for Long
+9 Term Care in accordance with chapter 66.7 of title 42; and $1,600,000 is for Senior Services
+10 Support and $730,000 is for elderly nutrition, of which $680,000 is for Meals on Wheels.
+11 Federal Funds 19,011,572 (1,361,734) 17,649,838
+12 Restricted Receipt 46,200 138,068 184,268
+13 Other Funds
+14 Intermodal Surface Transportation Fund 4,267,406 19,460 4,286,866
+15 The Office shall reimburse the Rhode Island public transit authority for the elderly/disabled
+16 transportation program expenses no later than fifteen (15) days of the authority’s submission of a
+17 request for payment.
+18 Total - Office of Healthy Aging 38,948,518 (2,488,309) 36,460,209
+19 Grand Total - Human Services 837,388,626 (30,830,149) 806,558,477
+20 Behavioral Healthcare, Developmental Disabilities and Hospitals
+21 Central Management
+22 General Revenues 8,058,892 2,105,705 10,164,597
+23 Federal Funds 2,631,491 (829,069) 1,802,422
+24 Restricted Receipts 559,071 1,186,952 1,746,023
+25 Total - Central Management 11,249,454 2,463,588 13,713,042
+26 Services for the Developmentally Disabled
+27 General Revenues 218,735,702 5,103,858 223,839,560
+28 Provided that of this general revenue funding, an amount certified by the department shall
+29 be expended on certain community-based department of behavioral healthcare, developmental
+30 disabilities and hospitals (BHDDH) developmental disability private provider and self-directed
+31 consumer direct care service worker raises and associated payroll costs as authorized by BHDDH
+32 and to finance the new services rates implemented by BHDDH pursuant to the Consent Decree
+33 Addendum. Any increase for direct support staff and residential or other community-based setting
+34 must first receive the approval of BHDDH.
+LC004135 - Page 22 of 51
+
+1 Provided further that of this general revenue funding, $928,200 shall be expended on a
+2 Transformation Fund to be used for I/DD integrated day activities and supported employment
+3 services, or which a total of $650,000 shall be expended specifically on those who self-direct for
+4 creation of regional service advisement models and pool of substitute staff. All unexpended or
+5 unencumbered balances of this designation at the end of the fiscal year shall be reappropriated to
+6 the ensuing fiscal year and made immediately available for the same purpose.
+7 Federal Funds 286,950,145 2,911,578 289,861,723
+8 Provided that of this federal funding, an amount certified by the department shall be
+9 expended on certain community-based department of behavioral healthcare, developmental
+10 disabilities and hospitals (BHDDH) developmental disability private provider and self-directed
+11 consumer direct care service worker raises and associated payroll costs as authorized by BHDDH
+12 and to finance the new services rates implemented by BHDDH pursuant to the Consent Decree
+13 Addendum. Any increase for direct support staff and residential or other community-based setting
+14 must first receive the approval of BHDDH.
+15 Provided further that of this federal funding, $371,800 shall be expended on a
+16 Transformation Fund to be used for I/DD integrated day activities and supported employment
+17 services. All unexpended or unencumbered balances of this designation at the end of the fiscal year
+18 shall be reappropriated to the ensuing fiscal year and made immediately available for the same
+19 purpose.
+20 Restricted Receipts 1,300,866 711,700 2,012,566
+21 Other Funds
+22 Rhode Island Capital Plan Funds
+23 DD Residential Support 100,000 195,618 295,618
+24 Total - Services for the Developmentally
+25 Disabled 507,086,713 8,922,754 516,009,467
+26 Behavioral Healthcare Services
+27 General Revenues 4,817,486 397,689 5,215,175
+28 Federal Funds
+29 Federal Funds 32,467,553 3,856,223 36,323,776
+30 Provided that $250,000 from Social Services Block Grant funds is awarded to The
+31 Providence Center to coordinate with Oasis Wellness and Recovery Center for its support and
+32 services program offered to individuals with behavioral health issues.
+33 Federal Funds – State Fiscal Recovery Fund
+34 9-8-8 Hotline 1,800,000 612,677 2,412,677
+LC004135 - Page 23 of 51
+
+1 Crisis Intervention Trainings 0 1,217,506 1,217,506
+2 Restricted Receipts 5,416,046 10,184,282 15,600,328
+3 Provided that $450,000 $486,850 from the opioid stewardship fund is distributed equally
+4 to the seven regional substance abuse prevention task forces to fund priorities determined by each
+5 Task Force.
+6 Total - Behavioral Healthcare Services 44,501,085 16,268,377 60,769,462
+7 Hospital and Community Rehabilitative Services
+8 General Revenues 53,723,206 302,664 54,025,870
+9 Federal Funds 61,515,889 (1,381,094) 60,134,795
+10 Restricted Receipts 4,634,700 889,515 5,524,215
+11 Other Funds
+12 Rhode Island Capital Plan Funds
+13 Hospital Equipment 300,000 312,311 612,311
+14 Total - Hospital and Community Rehabilitative
+15 Services 120,173,795 123,396 120,297,191
+16 State of RI Psychiatric Hospital
+17 General Revenues 33,443,552 383,865 33,827,417
+18 Restricted Receipts 144,000 0 144,000
+19 Other Funds
+20 Rhode Island Capital Plan Funds
+21 RISPH Equipment 100,000 0 100,000
+22 Total - State of RI Psychiatric Hospital 33,687,552 383,865 34,071,417
+23 Grand Total - Behavioral Healthcare,
+24 Developmental Disabilities and Hospitals 716,698,599 28,161,980 744,860,579
+25 Office of the Child Advocate
+26 General Revenues 2,264,613 (79,603) 2,185,010
+27 Commission on the Deaf and Hard of Hearing
+28 General Revenues 786,233 (18,570) 767,663
+29 Restricted Receipts 142,921 66,368 209,289
+30 Grand Total - Comm. On Deaf and
+31 Hard-of-Hearing 929,154 47,798 976,952
+32 Governor’s Commission on Disabilities
+33 General Revenues
+34 General Revenues 870,754 24,087 894,841
+LC004135 - Page 24 of 51
+
+1 Livable Home Modification Grant Program 515,278 890,565 1,405,843
+2 Provided that this will be used for home modification and accessibility enhancements to
+3 construct, retrofit, and/or renovate residences to allow individuals to remain in community settings.
+4 This will be in consultation with the executive office of health and human services. All unexpended
+5 or unencumbered balances, at the end of the fiscal year, shall be reappropriated to the ensuing fiscal
+6 year, and made immediately available for the same purpose.
+7 Federal Funds 340,067 25 340,092
+8 Restricted Receipts 79,943 (12,753) 67,190
+9 Grand Total - Governor’s Commission
+10 on Disabilities 1,806,042 901,924 2,707,966
+11 Office of the Mental Health Advocate
+12 General Revenues 1,117,164 (184,723) 932,441
+13 Elementary and Secondary Education
+14 Administration of the Comprehensive Education Strategy
+15 General Revenues 34,222,798 4,679,856 38,902,654
+16 Provided that $90,000 be allocated to support the hospital school at Hasbro Children’s
+17 Hospital pursuant to § 16-7-20; $395,000 be allocated to support child opportunity zones through
+18 agreements with the department of elementary and secondary education to strengthen education,
+19 health and social services for students and their families as a strategy to accelerate student
+20 achievement; $450,000 and 3.0 full-time equivalent positions be allocated to support a special
+21 education function to facilitate individualized education program (IEP) and 504 services; and
+22 further provided that $130,000 be allocated to City Year for the Whole School Whole Child
+23 Program, which provides individualized support to at-risk students; and further provided that all
+24 unexpended or unencumbered balances as of June 30, 2026, relating to the Learn365RI program
+25 are hereby reappropriated to the following fiscal year.
+26 Provided further that of this amount, $1,860,000 is allocated toward a special education
+27 settlement to provide compensatory special education services, related administrative costs, and
+28 attorneys’ fees pursuant to a legal settlement authorized by the Rhode Island board of education,
+29 of which all unexpended or unencumbered balances at the end of the fiscal year shall be
+30 reappropriated to the ensuing fiscal year and made immediately available for the same purpose until
+31 the requirements of the settlement agreement have been satisfied.
+32 Federal Funds
+33 Federal Funds 255,593,813 15,223,355 270,817,168
+34 Provided that $684,000 from the department’s administrative share of Individuals with
+LC004135 - Page 25 of 51
+
+1 Disabilities Education Act funds be allocated to the Paul V. Sherlock Center on Disabilities to
+2 support the Rhode Island Vision Education and Services Program.
+3 Federal Funds – State Fiscal Recovery Fund
+4 Adult Education Providers 128,373 1,410,989 1,539,362
+5 Out of School Time Education Providers 0 2,047,238 2,047,238
+6 Restricted Receipts
+7 Restricted Receipts 1,724,551 466,348 2,190,899
+8 HRIC Adult Education Grants 3,500,000 0 3,500,000
+9 Total - Admin. of the Comprehensive Ed.
+10 Strategy 295,169,535 23,827,786 318,997,321
+11 Davies Career and Technical School
+12 General Revenues 18,532,152 951,765 19,483,917
+13 Federal Funds 924,285 312,154 1,236,439
+14 Restricted Receipts 5,471,394 1,212 5,472,606
+15 Other Funds
+16 Rhode Island Capital Plan Funds
+17 Davies School HVAC 50,000 1,151,286 1,201,286
+18 Davies School Asset Protection 750,000 149,614 899,614
+19 Davies School Healthcare Classroom
+20 Renovations 6,911,727 (6,911,727) 0
+21 Davies School Wing Renovation 34,515,423 (25,892,838) 8,622,585
+22 Total - Davies Career and Technical School 67,154,981 (30,238,534) 36,916,447
+23 RI School for the Deaf
+24 General Revenues 8,809,938 19,673 8,829,611
+25 Federal Funds 271,830 (46,465) 225,365
+26 Restricted Receipts 1,097,000 505,000 1,602,000
+27 Other Funds
+28 Rhode Island Capital Plan Funds
+29 School for the Deaf Asset Protection 100,000 311,780 411,780
+30 Total - RI School for the Deaf 10,278,768 789,988 11,068,756
+31 Metropolitan Career and Technical School
+32 General Revenues 12,966,926 0 12,966,926
+33 Other Funds
+34 Rhode Island Capital Plan Funds
+LC004135 - Page 26 of 51
+
+1 MET School Asset Protection 250,000 1,971,348 2,221,348
+2 Total - Metropolitan Career and Technical
+3 School 13,216,926 1,971,348 15,188,274
+4 Education Aid
+5 General Revenues 1,272,230,353 38,186 1,272,268,539
+6 Provided that the criteria for the allocation of early childhood funds shall prioritize pre-
+7 kindergarten seats and classrooms for four-year-olds whose family income is at or below one
+8 hundred eighty-five percent (185%) of federal poverty guidelines and who reside in communities
+9 with higher concentrations of low performing schools.
+10 Restricted Receipts 38,952,936 9,630,716 48,583,652
+11 Total - Education Aid 1,311,183,289 9,668,902 1,320,852,191
+12 Central Falls School District
+13 General Revenues 54,567,882 0 54,567,882
+14 School Construction Aid
+15 General Revenues
+16 School Housing Aid 119,887,755 0 119,887,755
+17 Teachers' Retirement
+18 General Revenues 137,991,006 (4,390,928) 133,600,078
+19 Grand Total - Elementary and Secondary
+20 Education 2,009,450,142 1,628,562 2,011,078,704
+21 Public Higher Education
+22 Office of Postsecondary Commissioner
+23 General Revenues 33,322,291 28,338 33,350,629
+24 Provided that $455,000 shall be allocated to Onward We Learn pursuant to § 16-70-5,
+25 $75,000 shall be allocated to Best Buddies Rhode Island to support its programs for children with
+26 developmental and intellectual disabilities. It is also provided that $7,367,460 $7,516,726 shall be
+27 allocated to the Rhode Island promise scholarship program; $151,410 shall be used to support
+28 Rhode Island’s membership in the New England Board of Higher Education; $5,476,723
+29 $5,237,166 shall be allocated to the Rhode Island hope scholarship program; and $100,000 shall be
+30 allocated to the Rhode Island School for Progressive Education to support access to higher
+31 education opportunities for teachers of color.
+32 Federal Funds
+33 Federal Funds 5,582,208 (212,342) 5,369,866
+34 Guaranty Agency Administration 60,000 0 60,000
+LC004135 - Page 27 of 51
+
+1 Federal Funds - State Fiscal Recovery Fund
+2 Fresh Start Scholarship 0 1,199,287 1,199,287
+3 RI Reconnect 0 4,600,385 4,600,385
+4 RIC Cybersecurity Center 0 475,006 475,006
+5 Restricted Receipts
+6 Restricted Receipts 8,383,189 (65,235) 8,317,954
+7 Tuition Savings Program - Scholarships
+8 and Grants 3,400,000 0 3,400,000
+9 Other Funds
+10 Nursing Education Center - Operating 3,295,810 69,836 3,365,646
+11 Rhode Island Capital Plan Funds
+12 WEC Expansion - Annex Site 1,220,000 (820,000) 400,000
+13 Total - Office of Postsecondary
+14 Commissioner 55,263,498 5,275,275 60,538,773
+15 University of Rhode Island
+16 General Revenues
+17 General Revenues 115,308,021 (68,907) 115,239,114
+18 Provided that in order to leverage federal funding and support economic development,
+19 $700,000 shall be allocated to the small business development center, $125,000 shall be allocated
+20 to the Institute for Labor Studies & Research, $50,000 shall be allocated to Special Olympics Rhode
+21 Island to support its mission of providing athletic opportunities for individuals with intellectual and
+22 developmental disabilities, and $874,069 shall be used to support programming related to career
+23 readiness, career placement, internships, and work-based learning.
+24 Debt Service 31,526,482 3,228,750 34,755,232
+25 RI State Forensics Laboratory 1,803,420 0 1,803,420
+26 Other Funds
+27 University and College Funds 847,374,010 (1,497,801) 845,876,209
+28 Debt - Dining Services 781,957 4,070 786,027
+29 Debt - Education and General 5,076,811 (700) 5,076,111
+30 Debt - Health Services 16,032 (50) 15,982
+31 Debt - Housing Loan Funds 13,863,455 24,359 13,887,814
+32 Debt - Memorial Union 758,853 1,792 760,645
+33 Debt - Ryan Center 2,888,322 (511,944) 2,376,378
+34 Debt - Parking Authority 889,077 (79,798) 809,279
+LC004135 - Page 28 of 51
+
+1 URI Restricted Debt Service - Energy
+2 Conservation 536,169 0 536,169
+3 URI Debt Service - Energy Conservation 1,956,906 0 1,956,906
+4 Rhode Island Capital Plan Funds
+5 Asset Protection 14,606,536 3,313,057 17,919,593
+6 Mechanical, Electric, and Plumbing
+7 Improvements 7,293,838 (1,989,199) 5,304,639
+8 Fire Protection Academic Buildings 1,641,903 1,789,836 3,431,739
+9 Bay Campus 8,146,722 (43,200) 8,103,522
+10 Athletics Complex 33,942,707 3,377,715 37,320,422
+11 Provided that total Rhode Island capital plan funds provide no more than 80.0 percent of
+12 the total project.
+13 Stormwater Management 4,252,678 (1,048,324) 3,204,354
+14 PFAS Removal Water Treatment Plant 13,759,400 (8,973,055) 4,786,345
+15 Campus Accessibility 2,300,000 0 2,300,000
+16 Building Envelope Improvements 3,000,000 0 3,000,000
+17 Total - University of Rhode Island 1,111,723,299 (2,473,399) 1,109,249,900
+18 Notwithstanding the provisions of § 35-3-15, all unexpended or unencumbered balances as
+19 of June 30, 2026 relating to the university of Rhode Island are hereby reappropriated to fiscal year
+20 2027.
+21 Rhode Island College
+22 General Revenues
+23 General Revenues 70,714,722 (95,387) 70,619,335
+24 Provided that $464,377 shall be used to support programming related to career readiness,
+25 career placement, internships, and work-based learning.
+26 Debt Service 7,933,336 796,740 8,730,076
+27 Rhode Island Vision Education and Services
+28 Program 1,800,000 0 1,800,000
+29 Other Funds
+30 University and College Funds 120,309,539 5,949,928 126,259,467
+31 Debt - Education and General 1,478,585 (762,376) 716,209
+32 Debt - Student Union 212,200 0 212,000
+33 Debt - G.O. Debt Service 1,585,353 0 1,585,353
+34 Debt - Energy Conservation 762,375 0 762,375
+LC004135 - Page 29 of 51
+
+1 Rhode Island Capital Plan Funds
+2 Asset Protection 5,950,000 5,136,325 11,086,325
+3 Infrastructure Modernization 5,675,000 6,172,208 11,847,208
+4 Phase IV: Whipple Hall 0 500,000 500,000
+5 Total - Rhode Island College 216,421,110 17,697,438 234,118,548
+6 Notwithstanding the provisions of § 35-3-15, all unexpended or unencumbered balances as
+7 of June 30, 2026, relating to Rhode Island college are hereby reappropriated to fiscal year 2027.
+8 Community College of Rhode Island
+9 General Revenues
+10 General Revenues 63,740,346 555,615 64,295,961
+11 Provided that $391,175 shall be used to support programming related to career readiness,
+12 career placement, internships, and work-based learning.
+13 Debt Service 1,097,898 (5,760) 1,092,138
+14 Restricted Receipts 953,442 15,333 968,775
+15 Other Funds
+16 University and College Funds 114,885,691 4,564,291 119,449,982
+17 Rhode Island Capital Plan Funds
+18 Asset Protection 3,469,452 1,222,758 4,692,210
+19 Data, Cabling, and Power Infrastructure 5,750,000 (5,000,000) 750,000
+20 Flanagan Campus Renovations 3,200,000 149,954 3,349,954
+21 CCRI Renovation and Modernization
+22 Phase I 15,000,000 1,512,602 16,512,602
+23 CCRI Renovation and Modernization
+24 Phase II - IV 6,100,000 (5,200,000) 900,000
+25 CCRI Accessibility Improvements 290,000 10,000 300,000
+26 Total - Community College of RI 214,486,829 (2,175,207) 212,311,622
+27 Notwithstanding the provisions of § 35-3-15, all unexpended or unencumbered balances as
+28 of June 30, 2026, relating to the community college of Rhode Island are hereby reappropriated to
+29 fiscal year 2027.
+30 Grand Total - Public Higher Education 1,597,894,736 18,324,107 1,616,218,843
+31 RI State Council on the Arts
+32 General Revenues
+33 Operating Support 1,224,685 1,443 1,226,128
+34 Grants 1,190,000 0 1,190,000
+LC004135 - Page 30 of 51
+
+1 Provided that $400,000 be provided to support the operational costs of WaterFire
+2 Providence art installations.
+3 Federal Funds 1,022,711 70,862 1,093,573
+4 Restricted Receipts 115,058 (115,058) 0
+5 Other Funds
+6 Art for Public Facilities 690,000 11,000 701,000
+7 Grand Total - RI State Council on the Arts 4,242,454 (31,753) 4,210,701
+8 RI Atomic Energy Commission
+9 General Revenues 1,278,282 3,909 1,282,191
+10 Restricted Receipts 25,036 0 25,036
+11 Other Funds
+12 URI Sponsored Research 361,177 (33,093) 328,084
+13 Rhode Island Capital Plan Funds
+14 Asset Protection 50,000 7,966 57,966
+15 Grand Total - RI Atomic Energy
+16 Commission 1,714,495 (21,218) 1,693,277
+17 RI Historical Preservation and Heritage Commission
+18 General Revenues 1,969,751 47,282 2,017,033
+19 Provided that $30,000 support the operational costs of the Fort Adams Trust’s restoration
+20 activities and that $25,000 shall be allocated to Rhode Island Slave History Medallions.
+21 Federal Funds 822,451 (15,198) 807,253
+22 Restricted Receipts 511,827 0 511,827
+23 Other Funds
+24 RIDOT Project Review 144,602 (4,202) 140,400
+25 Rhode Island Capital Plan Funds
+26 Archaeological Collection Facility 0 50,000 50,000
+27 Grand Total - RI Historical Preservation and
+28 Heritage Comm. 3,448,631 77,882 3,526,513
+29 Attorney General
+30 Criminal
+31 General Revenues 23,147,524 643,171 23,790,695
+32 Federal Funds 3,404,012 (215,563) 3,188,449
+33 Restricted Receipts 2,096,085 (143,314) 1,952,771
+34 Total - Criminal 28,647,621 284,294 28,931,915
+LC004135 - Page 31 of 51
+
+1 Civil
+2 General Revenues 7,301,706 (856,568) 6,445,138
+3 Federal Funds 100,000 25,553 125,553
+4 Restricted Receipts 4,724,238 49,076 4,773,314
+5 Total - Civil 12,125,944 (781,939) 11,344,005
+6 Bureau of Criminal Identification
+7 General Revenues 2,440,742 26,983 2,467,725
+8 Federal Funds 64,547 (30,000) 34,547
+9 Restricted Receipts 1,329,498 607,284 1,936,782
+10 Total - Bureau of Criminal Identification 3,834,787 604,267 4,439,054
+11 General
+12 General Revenues 5,354,455 331,878 5,686,333
+13 Other Funds
+14 Rhode Island Capital Plan Funds
+15 Building Renovations and Repairs 2,525,000 0 2,525,000
+16 Total - General 7,879,455 331,878 8,211,333
+17 Grand Total - Attorney General 52,487,807 438,500 52,926,307
+18 Corrections
+19 Central Management
+20 General Revenues 24,875,748 1,110,252 25,986,000
+21 Federal Funds 0 177,680 177,680
+22 Total – Central Management 24,875,748 1,287,932 26,163,680
+23 Parole Board
+24 General Revenues 1,673,257 (61,155) 1,612,102
+25 Custody and Security
+26 General Revenues 182,260,831 (2,486,473) 179,774,358
+27 Federal Funds 1,371,846 1,201,698 2,573,544
+28 Other Funds
+29 Rhode Island Capital Plan Funds
+30 Intake Service Center HVAC 27,818,335 (782,805) 27,035,530
+31 Total - Custody and Security 211,451,012 (2,067,580) 209,383,432
+32 Institutional Support
+33 General Revenues 40,099,600 724,402 40,824,002
+34 Other Funds
+LC004135 - Page 32 of 51
+
+1 Rhode Island Capital Plan Funds
+2 Asset Protection 8,277,650 2,100,000 10,377,650
+3 Correctional Facilities – Renovations 3,179,677 (3,179,677) 0
+4 Total - Institutional Support 51,556,927 (355,275) 51,201,652
+5 Institutional Based Rehab/Population Management
+6 General Revenues 15,027,101 (468,665) 14,558,436
+7 Provided that $1,050,000 be allocated to Crossroads Rhode Island for sex offender
+8 discharge planning.
+9 The director of the department of corrections shall provide to the speaker of the house and
+10 president of the senate at least every ninety (90) days beginning September 1, 2022, a report on
+11 efforts to modernize the correctional industries program. The report shall, at minimum, provide
+12 data on the past ninety (90) days regarding program participation; changes made in programming
+13 to more closely align with industry needs; new or terminated partnerships with employers,
+14 nonprofits, and advocacy groups; current program expenses and revenues; and the employment
+15 status of all persons on the day of discharge from department care who participated in the
+16 correctional industries program.
+17 Federal Funds 386,256 391,550 777,806
+18 Restricted Receipts 1,300,000 193,379 1,493,379
+19 Total - Institutional Based Rehab/Population
+20 Mgt. 16,713,357 116,264 16,829,621
+21 Healthcare Services
+22 General Revenues 37,051,880 3,124,127 40,176,007
+23 Community Corrections
+24 General Revenues 23,026,186 (288,024) 22,738,162
+25 Federal Funds 0 47,814 47,814
+26 Restricted Receipts 3,091 (604) 2,487
+27 Total - Community Corrections 23,029,277 (240,814) 22,788,463
+28 Grand Total - Corrections 366,351,458 1,803,499 368,154,957
+29 Judiciary
+30 Supreme Court
+31 General Revenues
+32 General Revenues 36,665,481 1,811,372 38,476,853
+33 Provided however, that no more than $1,430,073 in combined total shall be offset to the
+34 public defender’s office, the attorney general’s office, the department of corrections, the department
+LC004135 - Page 33 of 51
+
+1 of children, youth and families, and the department of public safety for square-footage occupancy
+2 costs in public courthouses and further provided that $500,000 be allocated to the Rhode Island
+3 Coalition Against Domestic Violence for the domestic abuse court advocacy project pursuant to §
+4 12-29-7 and that $90,000 be allocated to Rhode Island Legal Services, Inc. to provide housing and
+5 eviction defense to indigent individuals.
+6 Defense of Indigents 7,875,432 (20,000) 7,855,432
+7 Federal Funds 205,395 (74,085) 131,310
+8 Restricted Receipts 4,312,243 (59,477) 4,252,766
+9 Other Funds
+10 Rhode Island Capital Plan Funds
+11 Judicial Complexes - HVAC 500,000 5,885 505,885
+12 Judicial Complexes Asset Protection 1,500,000 22,618 1,522,618
+13 Judicial Complexes Fan Coil Unit
+14 Replacements 500,000 3,082 503,082
+15 Garrahy Courthouse Restoration 1,125,000 18,183 1,143,183
+16 Total - Supreme Court 52,683,551 1,707,578 54,391,129
+17 Judicial Tenure and Discipline
+18 General Revenues 188,686 89 188,775
+19 Superior Court
+20 General Revenues 30,216,228 66,823 30,283,051
+21 Restricted Receipts 325,000 0 325,000
+22 Total - Superior Court 30,541,228 66,823 30,608,051
+23 Family Court
+24 General Revenues 29,167,951 66,679 29,234,630
+25 Federal Funds 5,392,549 (421,847) 4,970,702
+26 Total - Family Court 34,560,500 (355,168) 34,205,332
+27 District Court
+28 General Revenues 17,697,776 73,018 17,770,794
+29 Federal Funds 696,951 (374,123) 322,828
+30 Restricted Receipts 60,000 0 60,000
+31 Total - District Court 18,454,727 (301,105) 18,153,622
+32 Traffic Tribunal
+33 General Revenues 11,704,985 36,532 11,741,517
+34 Workers' Compensation Court
+LC004135 - Page 34 of 51
+
+1 Restricted Receipts 11,090,756 (7,217) 11,083,539
+2 Grand Total - Judiciary 159,224,433 1,147,532 160,371,965
+3 Military Staff
+4 General Revenues 3,424,058 84,034 3,508,092
+5 Federal Funds 28,982,412 38,249,854 67,232,266
+6 Restricted Receipts
+7 RI Military Family Relief Fund 55,000 0 55,000
+8 RING Counterdrug Program 11,000 0 11,000
+9 Other Funds
+10 Rhode Island Capital Plan Funds
+11 Aviation Readiness Center 4,538,673 2,979,941 7,518,614
+12 Asset Protection 2,564,675 1,707,192 4,271,867
+13 Quonset Airport Runway Reconstruction 446,663 380,922 827,585
+14 Counter-Drug Training Facility 1,025,250 1,558,558 2,583,808
+15 Squadron Ops Facility (Air Guard) 600,000 0 600,000
+16 Quonset Air National Guard HQ Facility 0 1,893,948 1,893,948
+17 Grand Total - Military Staff 41,647,731 46,854,449 88,502,180
+18 Public Safety
+19 Central Management
+20 General Revenues 1,899,154 9,487,402 11,386,556
+21 Provided that $400,000 $558,089 shall be allocated to support the Family Service of Rhode
+22 Island’s GO Team program of on-scene support to children who are victims of violence and other
+23 traumas. It is also provided that $9,047,396 shall be allocated as the state contribution for the
+24 statewide body-worn camera program, subject to all program and reporting rules, regulations,
+25 policies, and guidelines prescribed in the Rhode Island General Laws. Notwithstanding the
+26 provision of § 35-3-15 of the general laws, all unexpended or unencumbered balances as of June
+27 30, 2026 from this appropriation are hereby reappropriated to fiscal year 2027.
+28 Federal Funds
+29 Federal Funds 18,479,969 (4,076,435) 14,403,534
+30 Federal Funds – State Fiscal Recovery Fund
+31 Support for Survivors of Domestic Violence 29,753 4,501,209 4,530,962
+32 Restricted Receipts 738,584 220,244 958,828
+33 Total - Central Management 21,147,460 10,132,420 31,279,880
+34 E-911 Emergency Telephone System
+LC004135 - Page 35 of 51
+
+1 Restricted Receipts 10,730,138 243,942 10,974,080
+2 Security Services
+3 General Revenues 33,685,555 (1,309,484) 32,376,071
+4 Municipal Police Training Academy
+5 General Revenues 349,440 16,020 365,460
+6 Federal Funds 417,455 71,773 489,228
+7 Total - Municipal Police Training Academy 766,895 87,793 854,688
+8 State Police
+9 General Revenues 96,907,970 1,162,633 98,070,603
+10 Federal Funds 8,126,146 2,732,983 10,859,129
+11 Restricted Receipts 2,845,158 0 2,845,158
+12 Other Funds
+13 Airport Corporation Assistance 151,310 (540) 150,770
+14 Road Construction Reimbursement 3,355,100 2,200,000 5,555,100
+15 Weight and Measurement Reimbursement 402,401 226,281 628,682
+16 Rhode Island Capital Plan Funds
+17 DPS Asset Protection 1,205,000 1,911,587 3,116,587
+18 Southern Barracks 16,750,000 (20) 16,749,980
+19 Training Academy Upgrades 1,550,000 325,148 1,875,148
+20 Statewide Communications System Network 245,048 (245,048) 0
+21 Total - State Police 131,538,133 8,313,024 139,851,157
+22 Grand Total - Public Safety 197,868,181 17,467,695 215,335,876
+23 Office of Public Defender
+24 General Revenues 18,178,679 11,095 18,189,774
+25 Federal Funds 85,035 0 85,035
+26 Grand Total - Office of Public Defender 18,263,714 11,095 18,274,809
+27 Emergency Management Agency
+28 General Revenues 7,457,256 186,926 7,644,182
+29 Provided that of this general revenue amount, $250,000 is to be used to cover security
+30 expenses incurred by state agencies associated with the FIFA 2026 World Cup that would not be
+31 reimbursed by other available funding sources. All unexpended or unencumbered balances of this
+32 designation, as of June 30, 2026, shall be reappropriated to the ensuing fiscal year and made
+33 immediately available for the same purpose.
+34 Federal Funds 34,906,616 12,840,348 47,746,964
+LC004135 - Page 36 of 51
+
+1 Restricted Receipts 428,308 213,109 641,417
+2 Other Funds
+3 Rhode Island Capital Plan Funds
+4 RI Statewide Communications Infrastructure 315,404 85,162 400,566
+5 RI Statewide Communications Network Tower 550,000 0 550,000
+6 State Emergency Ops Center 0 64,000 64,000
+7 Grand Total - Emergency Management
+8 Agency 43,657,584 13,389,545 57,047,129
+9 Environmental Management
+10 Office of the Director
+11 General Revenues 9,446,875 (127,764) 9,319,111
+12 Of this general revenue amount, $180,000 is appropriated to the conservation districts and
+13 $100,000 is appropriated to the Wildlife Rehabilitators Association of Rhode Island for a
+14 veterinarian at the Wildlife Clinic of Rhode Island.
+15 Federal Funds 354,975 329,383 684,358
+16 Restricted Receipts 5,930,220 1,150,812 7,081,032
+17 Total - Office of the Director 15,732,070 1,352,431 17,084,501
+18 Natural Resources
+19 General Revenues 32,325,750 80,705 32,406,455
+20 Provided that of this general revenue amount, $150,000 is to be used for marine mammal
+21 response activities in conjunction with matching federal funds.
+22 Federal Funds 31,528,201 264,097 31,792,298
+23 Restricted Receipts 6,185,022 721,371 6,906,393
+24 Other Funds
+25 DOT Recreational Projects 762,000 26,547 788,547
+26 Blackstone Bike Path Design 1,000,000 0 1,000,000
+27 Rhode Island Capital Plan Funds
+28 Dam Repair 6,815,000 (6,422,589) 392,411
+29 Fort Adams Rehabilitation 500,000 216,595 716,595
+30 Port of Galilee 20,500,000 (5,779,101) 14,720,899
+31 Newport Pier Upgrades 500,000 502,328 1,002,328
+32 Recreation Facilities Asset Protection 750,000 0 750,000
+33 Recreational Facilities Improvements 2,900,000 4,735,607 7,635,607
+34 Natural Resources Office and Visitor's Center 1,836,709 97,368 1,934,077
+LC004135 - Page 37 of 51
+
+1 Fish & Wildlife Maintenance Facilities 200,000 19,291 219,291
+2 Marine Infrastructure/Pier Development 700,000 752,413 1,452,413
+3 Total - Natural Resources 106,502,682 (4,785,368) 101,717,314
+4 Environmental Protection
+5 General Revenues 16,607,743 219,983 16,827,726
+6 Federal Funds 12,825,343 2,885,397 15,710,740
+7 Restricted Receipts 12,660,382 62,782 12,723,164
+8 Other Funds
+9 Transportation MOU 95,967 (35,866) 60,101
+10 Total - Environmental Protection 42,189,435 3,132,296 45,321,731
+11 Grand Total - Environmental Management 164,424,187 (300,641) 164,123,546
+12 Coastal Resources Management Council
+13 General Revenues 3,904,812 269,201 4,174,013
+14 Federal Funds 3,331,166 (222,509) 3,108,657
+15 Restricted Receipts 624,768 (288,957) 335,811
+16 Other Funds
+17 Rhode Island Capital Plan Funds
+18 South Coast Restoration Project 7,000,000 0 7,000,000
+19 Pawcatuck Resiliency Elevation Study 0 50,000 50,000
+20 Grand Total - Coastal Resources Mgmt.
+21 Council 14,860,746 (192,265) 14,668,481
+22 Transportation
+23 Central Management
+24 Federal Funds 13,777,360 91,840 13,869,200
+25 Other Funds
+26 Gasoline Tax 9,004,830 (1,279,968) 7,724,862
+27 Total - Central Management 22,782,190 (1,188,128) 21,594,062
+28 Management and Budget
+29 Other Funds
+30 Gasoline Tax 3,839,065 1,635,875 5,474,940
+31 Infrastructure Engineering
+32 Federal Funds
+33 Federal Funds 460,804,783 107,234,705 568,039,488
+34 Federal Funds – State Fiscal Recovery Fund
+LC004135 - Page 38 of 51
+
+1 Municipal Roads Grant Program 0 11,421,717 11,421,717
+2 Washington Bridge Project 0 16,895,328 16,895,328
+3 Restricted Receipts 6,066,037 (4,166,072) 1,899,965
+4 Other Funds
+5 Gasoline Tax 88,272,135 (2,900,290) 85,371,845
+6 Provided that of this amount, $6,500,000 is appropriated to the Municipal Roads Grant
+7 Program known as RhodeRestore to provide funding to municipalities for the construction and
+8 maintenance of roads, sidewalks, and bridges. Provided that twenty-five percent (25%) of the funds
+9 shall be distributed equally to each city and town, and seventy-five percent (75%) shall be allocated
+10 proportionally based on each municipality’s share of municipally maintained road miles, as
+11 determined by the most recent data available from the Rhode Island department of transportation.
+12 Provided further that each municipality is required to provide a sixty-seven percent (67%) match.
+13 Provided that of this amount, sufficient funds from the Rhode Island public transit
+14 authority’s share of gasoline tax proceeds shall be allocated to the state paratransit program,
+15 including the expansion pilot program known as ride anywhere to ensure statewide paratransit
+16 services are maintained.
+17 Land Sale Revenue 6,239,422 (135,005) 6,104,417
+18 Tolling Revenue 10,000,000 (10,000,000) 0
+19 Rhode Island Capital Plan Funds
+20 Highway Improvement Program 115,617,814 (2,047,814) 113,570,000
+21 Bike Path Asset Protection 400,000 0 400,000
+22 RIPTA - Land and Buildings 6,905,927 (3,773,544) 3,132,383
+23 RIPTA - Pawtucket/Central Falls Bus Hub
+24 Passenger Facility 1,500,000 690,534 2,190,534
+25 RIPTA - Providence High-Capacity Transit
+26 Corridor Study 90,000 103,368 193,368
+27 RIPTA - Kingston Station Mobility Hub 0 1,431,933 1,431,933
+28 RIPTA - Pawtucket Bus Hub 0 126,000 126,000
+29 Total - Infrastructure Engineering 695,896,118 114,880,860 810,776,978
+30 Infrastructure Maintenance
+31 Other Funds
+32 Gasoline Tax 41,781,096 12,020,466 53,801,562
+33 The department of transportation will establish a municipal roadway database, which will
+34 include information concerning the name, condition, length, roadway infrastructure, and pedestrian
+LC004135 - Page 39 of 51
+
+1 features of each municipal roadway, updated annually by municipalities. The database will serve
+2 as a comprehensive and transparent list of municipal roadway conditions.
+3 Rhode Island Highway Maintenance
+4 Account 114,037,366 187,636,187 301,673,553
+5 Rhode Island Capital Plan Funds
+6 Maintenance Capital Equipment Replacement 1,800,000 1,858,569 3,658,569
+7 Maintenance Facilities Improvements 859,756 362,407 1,222,163
+8 Welcome Center 150,000 397,183 547,183
+9 Salt Storage Facilities 1,150,000 (36,338) 1,113,662
+10 Train Station Asset Protection 500,000 1,924,237 2,424,237
+11 Total - Infrastructure Maintenance 160,278,218 204,162,711 364,440,929
+12 Grand Total - Transportation 882,795,591 319,491,318 1,202,286,909
+13 Statewide Totals
+14 General Revenues 5,809,363,121 15,647,789 5,825,010,910
+15 Federal Funds 5,108,485,986 400,377,986 5,508,863,972
+16 Restricted Receipts 458,544,467 98,531,046 557,075,513
+17 Other Funds 2,959,985,019 317,131,609 3,277,116,628
+18 Statewide Grand Total 14,336,378,593 831,688,430 15,168,067,023
+19 SECTION 2. Each line appearing in section 1 of this article shall constitute an
+20 appropriation.
+21 SECTION 3. The general assembly authorizes the state controller to establish the internal
+22 service accounts shown below, and no other, to finance and account for the operations of state
+23 agencies that provide services to other agencies, institutions and other governmental units on a cost
+24 reimbursed basis. The purpose of these accounts is to ensure that certain activities are managed in
+25 a businesslike manner; promote efficient use of services by making agencies pay the full costs
+26 associated with providing the services; and allocate the costs of central administrative services
+27 across all fund types, so that federal and other non-general fund programs share in the costs of
+28 general government support. The controller is authorized to reimburse these accounts for the cost
+29 of work or services performed for any other department or agency subject to the following
+30 expenditure limitations:
+31 Account Expenditure Limit
+32 FY 2026 FY 2026 FY 2026
+33 Enacted Change FINAL
+34 State Assessed Fringe Benefit Internal
+LC004135 - Page 40 of 51
+
+1 Service Fund 37,255,808 94,704 37,350,512
+2 Administration Central Utilities Internal
+3 Service Fund 30,366,642 0 30,366,642
+4 State Central Mail Internal Service Fund 9,020,425 (835) 9,019,590
+5 State Telecommunications Internal
+6 Service Fund 3,426,061 3,173 3,429,234
+7 State Automotive Fleet Internal Service Fund 21,610,397 14,815 21,625,212
+8 Surplus Property Internal Service Fund 44,789 0 44,789
+9 Health Insurance Internal Service Fund 272,933,573 69,971,421 342,904,994
+10 Other Post-Employment Benefits Fund 63,854,008 (23,438,854) 40,415,154
+11 Capitol Police Internal Service Fund 1,659,403 188,969 1,848,372
+12 Corrections Central Distribution Center
+13 Internal Service Fund 8,679,440 79,813 8,759,253
+14 Correctional Industries Internal Service Fund 8,477,292 52,361 8,529,653
+15 Secretary of State Record Center Internal
+16 Service Fund 1,231,684 (76,237) 1,155,447
+17 Human Resources Internal Service Fund 18,711,878 (233,544) 18,478,334
+18 DCAMM Facilities Internal Service Fund 40,492,965 40,486 40,533,451
+19 Information Technology Internal
+20 Service Fund 70,587,805 102,554 70,690,359
+21 SECTION 4. Departments and agencies listed below may not exceed the number of full-
+22 time equivalent (FTE) positions shown below in any pay period. Full-time equivalent positions do
+23 not include limited period positions or, seasonal or intermittent positions whose scheduled period
+24 of employment does not exceed twenty-six consecutive weeks or whose scheduled hours do not
+25 exceed nine hundred and twenty-five (925) hours, excluding overtime, in a one-year period. Nor
+26 do they include individuals engaged in training, the completion of which is a prerequisite of
+27 employment. Provided, however, that the governor or designee, speaker of the house of
+28 representatives or designee, and the president of the senate or designee may authorize an adjustment
+29 to any limitation. Prior to the authorization, the state budget officer shall make a detailed written
+30 recommendation to the governor, the speaker of the house, and the president of the senate. A copy
+31 of the recommendation and authorization to adjust shall be transmitted to the chairman of the house
+32 finance committee, senate finance committee, the house fiscal advisor, and the senate fiscal advisor.
+33 State employees whose funding is from non-state general revenue funds that are time
+34 limited shall receive limited term appointment with the term limited to the availability of non-state
+LC004135 - Page 41 of 51
+
+1 general revenue funding source.
+2 FY 2026 FTE POSITION AUTHORIZATION
+3 Departments and Agencies Full-Time Equivalent
+4 Administration 684.6 683.6
+5 Provided that no more than 434.1 of the total authorization would be limited to positions
+6 that support internal service fund programs.
+7 Office of Energy Resources 17.0
+8 Business Regulation 155.0
+9 Rhode Island Cannabis Control Commission 26.0
+10 Executive Office of Commerce 5.0
+11 Housing 38.0
+12 Labor and Training 461.7
+13 Revenue 605.5
+14 Legislature 298.5
+15 Office of the Lieutenant Governor 8.0
+16 Office of the Secretary of State 62.0
+17 Office of the General Treasurer 92.0
+18 Board of Elections 13.0
+19 Rhode Island Ethics Commission 12.0
+20 Office of the Governor 45.0
+21 Commission for Human Rights 15.0
+22 Public Utilities Commission 57.0
+23 Executive Office of Health and Human Services 243.0
+24 Children, Youth and Families 713.5 719.5
+25 Health 572.6
+26 Human Services 779.0 789.0
+27 Office of Veterans Services 267.0
+28 Office of Healthy Aging 33.0
+29 Behavioral Healthcare, Developmental Disabilities and Hospitals 1,223.4
+30 Provided that 18.0 of the total authorization would be limited to independent facilitators
+31 positions to comply with the Consent Decree Addendum.
+32 Office of the Child Advocate 13.0
+33 Commission on the Deaf and Hard of Hearing 4.0
+34 Governor’s Commission on Disabilities 5.0
+LC004135 - Page 42 of 51
+
+1 Office of the Mental Health Advocate 6.0
+2 Elementary and Secondary Education 156.1
+3 Provided that 3.0 of the total authorization would be available only for positions that are
+4 supported by the healthy environments advance learning grant at the school building authority.
+5 School for the Deaf 61.0
+6 Davies Career and Technical School 125.0
+7 Office of Postsecondary Commissioner 48.0
+8 Provided that 1.0 of the total authorization would be available only for positions that are
+9 supported by third-party funds, 12.0 would be available only for positions at the state’s higher
+10 education centers located in Woonsocket and Westerly, 10.0 would be available only for positions
+11 at the nursing education center, and 9.0 would be available for the longitudinal data systems
+12 program.
+13 University of Rhode Island 2,671.0
+14 Provided that 378.8 of the total authorization would be available only for positions that are
+15 supported by third-party funds.
+16 Rhode Island College 949.2
+17 Provided that 76.0 of the total authorization would be available only for positions that are
+18 supported by third-party funds.
+19 Community College of Rhode Island 849.1
+20 Provided that 89.0 of the total authorization would be available only for positions that are
+21 supported by third-party funds.
+22 Rhode Island State Council on the Arts 10.0
+23 RI Atomic Energy Commission 8.6
+24 Historical Preservation and Heritage Commission 15.6
+25 Office of the Attorney General 268.1
+26 Corrections 1,461.0
+27 Judicial 749.3
+28 Military Staff 93.0
+29 Emergency Management Agency 38.0
+30 Public Safety 634.0 635.0
+31 Office of the Public Defender 104.0
+32 Environmental Management 439.0
+33 Coastal Resources Management Council 32.0
+34 Transportation 755.0
+LC004135 - Page 43 of 51
+
+1 Total 15,921.8 13,266.8
+2 Effective retroactively to July 1, 2025, the University of Rhode Island shall be exempt from
+3 any limitations imposed on full-time equivalent (FTE) positions.
+4 No agency or department may employ contracted employee services where contract
+5 employees would work under state employee supervisors without determination of need by the
+6 director of administration acting upon positive recommendations by the budget officer and the
+7 personnel administrator and fifteen (15) days after a public hearing.
+8 Nor may any agency or department contract for services replacing work done by state
+9 employees at that time without determination of need by the director of administration acting upon
+10 the positive recommendations of the state budget officer and the personnel administrator and thirty
+11 (30) days after a public hearing.
+12 SECTION 5. The appropriations from federal funds contained in section 1 shall not be
+13 construed to mean any federal funds or assistance appropriated, authorized, allocated or
+14 apportioned to the State of Rhode Island from the state fiscal recovery fund and capital projects
+15 fund enacted pursuant to the American Rescue Plan Act of 2021, P.L. 117-2 for fiscal year 2026
+16 except for those instances specifically designated.
+17 The State fiscal recovery fund and capital projects fund appropriations herein shall be made
+18 in support of the following projects:
+19 Federal Funds - State Fiscal Recovery Fund
+20 Department of Administration (DOA)
+21 DOA- Pandemic Recovery Office. These funds shall be allocated to finance the pandemic
+22 recovery office established within the department of administration.
+23 DOA - Public Health Response Warehouse Support. These funds shall be allocated to the
+24 proper storage of PPE and other necessary COVID-19 response related supplies.
+25 DOA - Community Learning Center Programming Support Grant. These funds shall be
+26 distributed to municipalities that have approved community learning center projects under the
+27 coronavirus capital projects fund community learning center municipal grant program. An equal
+28 amount of funding will be allocated to each approved community learning center project that
+29 reaches substantial completion as defined by the U.S. Department of Treasury by October 31, 2026.
+30 Municipalities with projects that do not reach substantial completion as defined by the U.S.
+31 Department of Treasury by October 31, 2026, shall return their funding no later than November 15,
+32 2026, for redistribution among other qualified community learning centers. These funds must be
+33 used to support the establishment of U.S. Department of the Treasury compliant health monitoring,
+34 work, and or education programming that will take place in a community learning center.
+LC004135 - Page 44 of 51
+
+1 DOA - Municipal Public Safety Infrastructure. These funds shall be used to provide
+2 matching support to cities and towns to make significant public safety facilities infrastructure
+3 improvements including new construction. Funding priority shall be based on project readiness and
+4 limited to those for which the total costs exceed $1.0 million. Matching funds to any municipality
+5 will be limited to $5.0 million for projects that serve a regional purpose and $1.0 million for others.
+6 DOA - ERP Implementation Support. These funds shall be used to support the
+7 implementation of a new cloud-based enterprise resource platform for the State of Rhode Island to
+8 more efficiently and strategically administer human resources, payroll, and finance operations.
+9 Office of Energy Resources (OER)
+10 OER - Electric Heat Pump Grant Program. These funds shall support a grant program
+11 within the office of energy resources to assist homeowners and small-to-mid-size business owners
+12 with the purchase and installation of high-efficiency electric heat pumps, with an emphasis on
+13 families in environmental justice communities, minority-owned businesses, and community
+14 organizations who otherwise cannot afford this technology. The office of energy resources shall
+15 report to the speaker of the house and senate president no later than April 1 of each year the results
+16 of this program, including but not limited to, the number of grants issued; amount of each grant and
+17 the average grant amount; and the expected cumulative carbon emissions reductions associated
+18 with heat pumps that received a grant.
+19 Department of Labor and Training (DLT)
+20 DLT - Enhanced Real Jobs. These funds shall support the real jobs Rhode Island program
+21 in the development of job partnerships, connecting industry employers adversely impacted by the
+22 pandemic to individuals enrolled in workforce training programs.
+23 DLT - Unemployment Insurance Trust Fund Contribution. The director of labor and
+24 training shall allocate these appropriations to the employment security fund prior to determining
+25 the experience rate for each eligible employer for calendar year 2023.
+26 Executive Office of Commerce (EOC)
+27 EOC - Bioscience Investments. These funds shall support a program to invest in the
+28 biosciences industry in Rhode Island in conjunction with the Rhode Island life science hub as
+29 established in chapter 99 of title 23. This program will include, but is not limited to, the
+30 development of one or more wet lab incubator spaces in collaboration with industry partners; the
+31 creation of a fund that will support wrap-around services to aid in the commercialization of
+32 technology and business development, growth of the biosciences talent pipeline, and support for
+33 staff to implement the bioscience investments initiative.
+34 EOC - Assistance to Impacted Industries. These funds shall be allocated to provide
+LC004135 - Page 45 of 51
+
+1 assistance to the tourism, hospitality, and events industries for outdoor and public space capital
+2 improvements and event programming.
+3 Executive Office of Housing
+4 Housing - Development of Affordable Housing. These funds shall expand a program at the
+5 Rhode Island housing and mortgage finance corporation to provide additional investments in (1)
+6 the development of affordable housing units in conjunction with general obligation bond funds and
+7 other sources of available financing according to guidelines approved by the coordinating
+8 committee of the housing resources commission or (2) site acquisition and predevelopment
+9 expenses for affordable housing. Of this amount, ten million dollars ($10,000,000) shall be
+10 available to Rhode Island housing and mortgage finance corporation to establish a pilot program
+11 that shall direct funds to support low income public housing through project-based rental assistance
+12 vouchers and financing for pre-development, improvement, and housing production costs. Within
+13 six (6) months, any money available for the pilot that is not yet allocated to viable projects, or
+14 which has been awarded to public housing authorities which are unable to demonstrate substantial
+15 completion of all work within eighteen (18) months of receipt of any such funds, shall be returned
+16 to this program and no longer be included in the pilot. Determination of viability and substantial
+17 completion under the pilot shall be at the sole discretion of the secretary of housing.
+18 Housing - Targeted Housing Development. These funds shall create a program at the
+19 department of housing to develop housing in targeted areas and/or priority projects. Of this overall
+20 program, twenty-two million dollars ($22,000,000) shall be allocated into a priority project fund
+21 that advances the following categories: permanent supportive housing, housing dedicated to
+22 vulnerable populations, individuals transitioning out of state care, and extremely low-income
+23 Rhode Islanders. Of this overall program, four million dollars ($4,000,000) shall be allocated to
+24 support the development of transit-oriented housing as approved by the secretary of housing.
+25 Housing - Site Acquisition. These funds shall be allocated to the Rhode Island housing and
+26 mortgage finance corporation toward the acquisition of properties for redevelopment as affordable
+27 and supportive housing to finance projects that include requirements for deed restrictions not less
+28 than thirty (30) years, and a non-recourse structure.
+29 Housing - Workforce Housing. These funds shall be allocated to the Rhode Island housing
+30 and mortgage finance corporation to support a program to increase the housing supply for families
+31 earning up to 120 percent of area median income.
+32 Housing - Home Repair and Community Revitalization. These funds shall expand the
+33 acquisition and revitalization program administered by the Rhode Island housing and mortgage
+34 finance corporation to finance the acquisition and redevelopment of blighted properties to increase
+LC004135 - Page 46 of 51
+
+1 the number of commercial and community spaces in disproportionately impacted communities and
+2 or to increase the development of affordable housing. Residential development will serve
+3 households earning no more than 80 percent of area median income. Commercial and community
+4 spaces must serve or meet the needs of residents of a census tract where at least 51 percent of the
+5 residents are low-and moderate-income persons. Of this amount, four million five hundred
+6 thousand dollars ($4,500,000) will support critical home repairs within the same communities.
+7 Housing - Predevelopment and Capacity Building. These funds shall support a program to
+8 increase contract staffing capacity to administer proposed affordable housing projects. These funds
+9 will support research and data analysis, stakeholder engagement, and the expansion of services for
+10 people experiencing homelessness.
+11 Housing - Municipal Planning. Of these funds, one million three hundred thousand dollars
+12 ($1,300,000) shall support a housing development-focused municipal fellows program within the
+13 department of housing and one million dollars ($1,000,000) shall support municipalities to study
+14 and implement zoning changes that up-zone or otherwise enable additional housing development
+15 in proximity to transit.
+16 Housing - Homelessness Assistance Program. These funds shall support a program to
+17 expand housing navigation, behavioral health, and stabilization services to address pandemic-
+18 related homelessness. The program will support services for people transitioning from
+19 homelessness to housing, including individuals transitioning out of the adult correctional
+20 institutions.
+21 Housing - Homelessness Infrastructure. These funds shall be used to support a program to
+22 respond to and prevent homelessness, including but not limited to, acquisition or construction of
+23 temporary or permanent shelter and other housing solutions and stabilization programs.
+24 Housing - Municipal Homelessness Support Initiative. These funds shall be used to support
+25 a program to award grants to cities and towns for public safety expenses and other municipal
+26 services that support individuals and families experiencing homelessness.
+27 Housing - Proactive Housing Development. These funds shall be used to support the
+28 creation, staffing, and initial activities of a proactive development subsidiary of the Rhode Island
+29 housing and mortgage finance corporation, established pursuant to § 42-55-5.1.
+30 Housing - Housing Related Infrastructure. These funds shall be allocated to the Rhode
+31 Island infrastructure bank as established in chapter 12.2 of title 46 to support physical infrastructure
+32 that is necessary to produce additional housing. All expenditures made with these funds must be
+33 for the pre-development and development of site-related infrastructure for housing that meets
+34 affordable housing pricing and/or income criteria and other criteria established by the department
+LC004135 - Page 47 of 51
+
+1 of housing.
+2 Housing - Statewide Housing Plan. These funds shall be allocated to the development of a
+3 statewide comprehensive housing plan to assess current and future housing needs, consider barriers
+4 to home ownership and affordability, and identify services needed for increased investments toward
+5 disproportionately impacted individuals and communities. These funds shall be used to support
+6 municipal planning efforts to identify and cultivate viable sites and housing projects.
+7 Quonset Development Corporation (QDC)
+8 QDC - Port of Davisville. These funds shall be allocated to expand a program developing
+9 port infrastructure and services at the Port of Davisville in Quonset in accordance with the
+10 corporation’s master plan.
+11 Executive Office of Health and Human Services (EOHHS)
+12 EOHHS - Certified Community Behavioral Clinics. These funds shall be allocated to a
+13 program to support certified community behavioral health clinics to bolster behavioral health
+14 supports, medical screening and monitoring, and social services to particularly vulnerable
+15 populations in response to a rise in mental health needs during the public health emergency.
+16 Department of Children, Youth and Families (DCYF)
+17 DCYF - Provider Workforce Stabilization. These funds shall be allocated to support
+18 workforce stabilization supplemental wage payments and sign-on bonuses to eligible direct care
+19 and supporting care staff of contracted service providers.
+20 DCYF - Psychiatric Treatment Facility. These funds shall be allocated to expand existing
+21 psychiatric residential treatment facility capacity to provide intensive residential treatment options
+22 for adolescent girls and young women who face severe and complex behavioral health challenges.
+23 Any funds that are unexpended shall be allocated to the construction of intensive residential
+24 treatment facilities that will provide female youth in Rhode Island more placement options to
+25 receive appropriate care for their individual levels of need.
+26 Department of Health (DOH)
+27 DOH - COVID-19 Operational Support. These funds shall be allocated to continue
+28 COVID-19 mitigation activities at the department of health and to address the public health impacts
+29 of the pandemic in Rhode Island.
+30 Department of Human Services (DHS)
+31 DHS - Child Care Support. To address the adverse impact the pandemic has had on the
+32 child care sector, the funds allocated to this program will provide retention bonuses for direct-care
+33 staff at child care centers and licensed family providers in response to pandemic-related staffing
+34 shortages and start up and technical assistance grants for family child care providers. Retention
+LC004135 - Page 48 of 51
+
+1 bonuses shall be paid monthly or as often as administratively feasible, but not less than quarterly.
+2 The director of the department of human services and the director of the department of children,
+3 youth and families may waive any fees otherwise assessed upon child care provider applicants who
+4 have been awarded the family child care provider incentive grant. The allocation to this program
+5 will also support quality improvements, the creation of a workforce registry, and additional funds
+6 for educational opportunities for direct care staff.
+7 DHS - SNAP Retail Incentive Pilot. The funds allocated to the Supplemental Nutritional
+8 Assistance Program (SNAP) Retail Incentive Pilot shall be used to reimburse the expenditures
+9 made from general revenue prior to January 1, 2025, in support of the Rhode Island Eat Well, Be
+10 Well Rewards Program. The Rhode Island Eat Well, Be Well Rewards Program is the first and
+11 only statewide retail SNAP incentive program in the United States and provides SNAP recipients
+12 an additional fifty cents ($0.50) for every one dollar ($1.00) of SNAP benefits spent on eligible
+13 fresh fruit and vegetable purchases, up to twenty-five dollars ($25).
+14 Department of Behavioral Healthcare, Developmental Disabilities and Hospitals
+15 (BHDDH)
+16 BHDDH - Crisis Intervention Trainings. To respond to the increased volume of mental-
+17 health related calls reported by police departments, these funds shall be allocated to the crisis
+18 intervention training program to provide training every three years for law enforcement as well as
+19 continuing education opportunities.
+20 BHDDH – 9-8-8 Hotline. These funds shall be allocated for the creation and operation of
+21 a 9-8-8 hotline to maintain compliance with the National Suicide Hotline Designation Act of 2020
+22 and the Federal Communications Commission-adopted rules to assure that all citizens receive a
+23 consistent level of 9-8-8 and crisis behavioral health services.
+24 Rhode Island Department of Elementary and Secondary Education (ELSEC)
+25 RIDE - Adult Education Providers. These funds shall be directly distributed through the
+26 office of adult education to nonprofit adult education providers to expand access to educational
+27 programs and literary services.
+28 RIDE - Out of School Time Education Providers. These funds shall be directly distributed
+29 through the office of student, community and academic supports to expand access to educational
+30 programs.
+31 Office of Postsecondary Commissioner (OPC)
+32 OPC - RI Reconnect. These funds shall support a program to improve postsecondary
+33 degree and credential attainment among working-age Rhode Islanders. The program will assist
+34 students in addressing barriers to education completion, particularly among communities of color
+LC004135 - Page 49 of 51
+
+1 and lower socio-economic strata. A portion of these funds will be used to address barriers to the
+2 attainment of teacher certification as a second language education teacher, grades PK-12, and as an
+3 all grades special education teacher.
+4 OPC - RIC Cybersecurity Center. These funds shall support the establishment of the
+5 institute for cybersecurity and emerging technologies at Rhode Island College, which will provide
+6 certificate, baccalaureate, and master’s level courses with focuses on research and developing
+7 highly skilled cybersecurity professionals. Funding shall be appropriated through the office of
+8 postsecondary commissioner.
+9 OPC - Fresh Start Scholarship. These funds shall support a program to provide scholarships
+10 to adult students with some college credits, but no degree, with a focus on students who dropped-
+11 out of the community college of Rhode Island. This program will target students who are not
+12 meeting satisfactory academic progress requirements, which makes them ineligible for federal
+13 financial assistance.
+14 Department of Public Safety (DPS)
+15 DPS - Support for Survivors of Domestic Violence. These funds shall be allocated to invest
+16 in the nonprofit community to provide additional housing, clinical and mental health services to
+17 victims of domestic violence and sexual assault. This includes increased investments for therapy
+18 and counseling, housing assistance, job training, relocation aid and case management.
+19 Department of Transportation (DOT)
+20 DOT - Municipal Roads Grant Program. These funds shall support a program to distribute
+21 grants with a required local match for the replacement, rehabilitation, preservation, and
+22 maintenance of existing roads, sidewalks, and bridges. These funds shall be distributed equally to
+23 each city and town provided that each municipality is required to provide a sixty-seven percent
+24 (67%) match.
+25 DOT - Washington Bridge Project. These funds shall support the non-federal share or
+26 matching requirement on federal funds for priority transportation projects, including but not limited
+27 to the Washington Bridge project.
+28 Federal Funds - Capital Projects Fund
+29 Department of Administration (DOA)
+30 DOA - CPF Administration. These funds shall be allocated to the department of
+31 administration to oversee the implementation of the capital projects fund award from the American
+32 Rescue Plan Act.
+33 DOA - Community Learning Center Municipal Grant Program. These funds shall be
+34 allocated to a program for cities and towns that renovate or build a community learning center that
+LC004135 - Page 50 of 51
+
+1 meets the work, education, and health monitoring requirements identified by the U.S. Department
+2 of the Treasury.
+3 Executive Office of Commerce (EOC)
+4 EOC - Broadband. These funds shall be allocated to the executive office of commerce to
+5 invest in broadband projects to provide high-speed, reliable internet to all Rhode Islanders. The
+6 secretary of commerce, in partnership with the director of business regulation, will run a series of
+7 requests for proposals for broadband infrastructure projects, providing funds to municipalities,
+8 public housing authorities, business cooperatives and local internet service providers for projects
+9 targeted at those underserved by the current infrastructure using the evidentiary bases authorized
+10 by the United States department of the treasury for the capital projects fund. These funds shall be
+11 used in accordance with the statewide broadband strategic plan and may not be obligated nor
+12 expended prior to its submission in accordance with the requirements of the Rhode Island
+13 broadband development program set forth in chapter 162 of title 42.
+14 SECTION 6. Notwithstanding any general laws to the contrary, the Rhode Island health
+15 and educational building corporation shall transfer to the state controller by June 30, 2026, the sum
+16 of two million five hundred thousand dollars ($2,500,000).
+17 SECTION 7. Notwithstanding any general laws to the contrary, the Rhode Island
+18 infrastructure bank shall transfer to the state controller by June 30, 2026, the sum of two million
+19 dollars ($2,000,000).
+20 SECTION 8. Notwithstanding any general laws to the contrary, the department of revenue
+21 shall transfer to the state controller by June 30, 2026, the sum of five million dollars ($5,000,000)
+22 from the Marijuana Trust Fund restricted receipt account.
+23 SECTION 9. This article shall take effect upon passage.
+========
+LC004135
+========
+LC004135 - Page 51 of 51

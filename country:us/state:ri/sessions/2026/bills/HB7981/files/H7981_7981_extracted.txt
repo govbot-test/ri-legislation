@@ -1,0 +1,186 @@
+Title: 
+Official Title: 
+Source: versions - 7981
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7981
+========
+LC005097
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO ELECTIONS -- RANKED CHOICE VOTING
+Introduced By: Representatives Kislak, McGaw, Stewart, Ajello, Knight, Cortvriend, and
+Tanzi
+Date Introduced: February 27, 2026
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative Findings and Purpose.
+2 (a) The General Assembly finds and declares that:
+3 (l) Ranked choice voting is an election method that empowers voters by giving them the
+4 option to rank candidates in order of preference;
+5 (2) Ranked choice voting has been used effectively in hundreds of elections for public
+6 office in the United States and around the world; and
+7 (3) Allowing localities to change their current methods of election to ranked choice voting
+8 may enhance voter choice, address the "spoiler'' effect, encourage a greater range of candidates to
+9 run for office, help reduce political polarization, and strengthen democracy by providing for
+10 broader and more inclusive political representation.
+11 (b) ln order to address the findings set forth in subsection (a), it is the purpose of this chapter
+12 to allow local jurisdictions to adopt ranked choice voting for local elections.
+13 SECTION 2. Title 17 of the General Laws entitled "ELECTIONS" is hereby amended by
+14 adding thereto the following chapter:
+15 CHAPTER 31
+16 RANKED CHOICE VOTING
+17 17-31-1. Definitions.
+18 For the purposes of this chapter, the following terms shall have the following meanings:
+19 (1) "Active candidate" means any candidate who has not been eliminated or elected.
+
+1 (2) "Active value'' (or "transfer value") means the proportion of a vote that a ballot will
+2 contribute to its highest-ranked active candidate.
+3 (3) "Election threshold" means the minimum whole number of votes that guarantees the
+4 election of a candidate to a seat based on the number of seats to be filled. To determine this
+5 threshold, divide the total number of valid votes cast, by the sum of one and the number of seats to
+6 be filled, round that number down to the nearest whole number, then add one vote.
+7 (4) "Inactive ballot" means a ballot that, during the round-by-round counting process,
+8 ceases to count for any candidate for the remainder of the counts processed for an election for an
+9 office.
+10 (5) "Overvote" means a voter assigns more than one candidate the same ranking on their
+11 ballot.
+12 (6) "Ranking" means the number available to be assigned by a voter to a candidate to
+13 express the voter's preference for that candidate. The number "l" is the highest ranking, followed
+14 by "2" and then "3" and so on.
+15 (7) "Round" means an instance of the sequence of voting tabulation described in §§ 17-31-
+16 4(a) or 17-31-4(b).
+17 (8) "Surplus fraction" means the proportion by which a winning candidate exceeds the
+18 election threshold. To determine the surplus fraction, subtract the election threshold from a winning
+19 candidate's vote total, then divide that number by the winning candidate's vote total, truncated after
+20 four (4) decimals.
+21 (9) "Undervote" means a ballot that does not rank any candidate in an election for a
+22 particular office.
+23 (10) "Vote total" means the total active value of all ballots counting for a candidate in a
+24 round of counting.
+25 17-31-2. Application of ranked choice voting.
+26 Any local jurisdiction, by a charter amendment approved by the provisions of this chapter
+27 and the voters, may allow for any local primary, general, or special election to be conducted by
+28 ranked choice voting, under the rules promulgated by the board of elections. This chapter shall not
+29 apply to any candidate whose sought after district represents more than one municipality, unless all
+30 municipalities adopted ranked choice voting. Notwithstanding any other laws to the contrary, any
+31 local body that conducts its general or special election by ranked choice voting may hold a
+32 nonpartisan general election. Such jurisdictions shall not hold a separate primary election.
+33 17-31-3. Ranked choice voting ballot.
+34 (a) In any ranked choice voting election, the ballot shall allow voters to rank candidates in
+LC005097 - Page 2 of 6
+
+1 order of preference.
+2 (b) In any single-winner ranked choice voting election, the ballot shall allow voters to rank
+3 five (5) candidates. Notwithstanding any laws to the contrary, in any multi-winner ranked choice
+4 voting election, each voter shall have only one vote, and the ballot shall allow voters to rank four
+5 (4) more candidates than the number of seats to be nominated or elected. If there are fewer
+6 candidates than the number of rankings required in this subsection, the number of rankings shall be
+7 reduced accordingly. The number of rankings allowed in an election for any given office shall be
+8 uniform for all voters voting on that office within the state.
+9 17-31-4. Round-by-round tabulation.
+10 (a) Single-winner tabulation. ln any election for one office conducted by ranked choice
+11 voting, each ballot counts as one vote for its highest-ranked active candidate. The candidate with
+12 the greatest number of votes at the end of the count is nominated or elected. The count proceeds in
+13 rounds as follows:
+14 (1) If there are more than two (2) active candidates, the active candidate with the fewest
+15 votes is eliminated, and votes for the eliminated candidate count for each ballot's next-ranked active
+16 candidate.
+17 (2) If there are two (2) or fewer active candidates, the candidate with the greatest number
+18 of votes is elected and the count is complete.
+19 (b) Multi-winner tabulation. In any election for more than one office conducted by ranked
+20 choice voting, each ballot counts, in whole or in part, for its highest-ranked active candidate in each
+21 round. Each ballot starts tabulation with an active value of one vote. Tabulation proceeds in rounds
+22 as follows:
+23 (1) Election round. If any active candidate's vote total equals or exceeds the election
+24 threshold or if any candidate remains active when the number of active candidates is fewer than or
+25 equal to the number of seats that have not yet been filled, that candidate is elected. If the elected
+26 candidate's vote total exceeds the election threshold, each ballot that helped elect that candidate is
+27 counted as follows:
+28 (i) The ballot receives a new active value by multiplying the ballot's current active value
+29 by the elected candidate's surplus fraction, truncated after four (4) decimals. The ballot then counts
+30 at this new active value for its next highest-ranked active candidate. If two (2) or more candidates'
+31 vote totals exceed the election threshold, each candidate's surplus votes are distributed
+32 simultaneously.
+33 (ii) The portion of the ballot's value that was required to elect the candidate continues to
+34 count for that candidate in order that the elected candidate's vote total equals the election threshold
+LC005097 - Page 3 of 6
+
+1 for the remainder of the tabulation.
+2 (iii) Elimination round. If no active candidate's vote total meets the election threshold and
+3 tabulation is not yet complete, the active candidate with the fewest votes is eliminated and votes
+4 for that candidate count at their current active value for each ballot's next highest-ranked active
+5 candidate.
+6 (3) Tabulation complete. Tabulation is complete if the number of elected candidates is
+7 equal to the number of seats to be filled and any votes exceeding the election threshold have been
+8 counted for each ballot's next highest-ranked active candidate.
+9 (c) Treatment of ballots.
+10 (1) An undervote is a ballot that does not rank any candidates in an election for a particular
+11 office. An undervote does not count as an active or inactive ballot in any round of tabulation of that
+12 election.
+13 (2) An inactive ballot is a ballot that during the round-by-round counting process, ceases
+14 to count for any candidate for the remainder of the counting process for an election to an office. A
+15 ballot becomes inactive when all candidates ranked on the ballot have become inactive.
+16 (3) An overvote occurs when a voter assigns more than one candidate the same ranking on
+17 their ballot. Any candidate included in an overvote shall be treated as inactive for the purposes of
+18 counting that ballot and the ballot shall continue to count for any remaining active candidates.
+19 (4) During the count, a ballot shall remain active and continue to count for its highest-
+20 ranked active candidate, notwithstanding any skipped or repeated rankings. A skipped ranking
+21 occurs when a voter leaves a ranking unassigned but ranks a candidate at a subsequent ranking. A
+22 repeated ranking occurs when a voter ranks the same candidate at multiple rankings.
+23 (5) If a candidate withdraws, dies, or for any reason becomes disqualified after the ballots
+24 have been printed, the candidate shall be treated as an eliminated candidate during the count unless
+25 a ranking for that candidate is to be deemed a ranking for a substitute candidate, pursuant to
+26 applicable law. To withdraw, a candidate or a candidate's authorized designee shall file a signed
+27 letter of withdrawal pursuant to § 17-14-15, any other provisions of applicable state law, or any
+28 applicable rules established by the board of elections or the secretary of state.
+29 (d) Ties. Notwithstanding § 17-15-33 or any provisions of the general laws to the contrary,
+30 if two (2) or more candidates are tied with the fewest number of votes, and tabulation cannot
+31 continue until the tie is resolved, the tie shall be resolved by lot. Election officials may resolve
+32 prospective ties between candidates prior to tabulation. The result of any tie resolution shall be
+33 recorded and reused in the event of a recount.
+34 17-31-5. Rulemaking and regulations.
+LC005097 - Page 4 of 6
+
+1 (a) Notwithstanding any law to the contrary, the state board of elections shall promulgate
+2 any rules and regulations necessary to implement this chapter.
+3 (b) Such rules and regulations shall include a process to release:
+4 (1) Unofficial preliminary round-by-round results starting on election night;
+5 (2) Unofficial preliminary ballot-level ranking data in a machine-readable and searchable
+6 open format immediately after the counting of ballots is complete; and
+7 (3) Official final round-by-round results and official final ballot-level ranking data in a
+8 machine-readable and searchable open format upon certification of the results.
+9 (c) Such rules and regulations shall also establish a voter education program, an election
+10 official training program, and a process to certify ranked choice voting counting tools for use in
+11 elections within the state.
+12 17-31-6. Severability.
+13 If any provision of this chapter, or the application of any provision of this chapter to any
+14 person, office, or circumstance, is held to be unconstitutional, the remainder of this chapter and the
+15 application of its provisions to any person, office, or circumstance, shall not be affected by the
+16 holding.
+17 SECTION 3. This act shall take effect on January 1, 2027.
+========
+LC005097
+========
+LC005097 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- RANKED CHOICE VOTING
+***
+1 This act would establish a system of ranked choice voting whenever a municipality's
+2 charter amendment is approved by its voters.
+3 This act would take effect on January 1, 2027.
+========
+LC005097
+========
+LC005097 - Page 6 of 6

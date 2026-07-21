@@ -1,0 +1,224 @@
+Title: 
+Official Title: 
+Source: versions - 7800
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7800
+========
+LC003143
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- RHODE ISLAND INFRASTRUCTURE
+BANK
+Introduced By: Representatives Cortvriend, Carson, Handy, Boylan, McGaw, and
+Kazarian
+Date Introduced: February 12, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 46-12.2-4.4 of the General Laws in Chapter 46-12.2 entitled "Rhode
+2 Island Infrastructure Bank" is hereby amended to read as follows:
+3 46-12.2-4.4. Establishment of the resilient rhody infrastructure fund.
+4 (a) There is hereby authorized and created within the Rhode Island infrastructure bank the
+5 resilient rhody infrastructure fund for the purpose of providing technical, administrative, and
+6 financial assistance to local governmental units for resiliency and stormwater abatement projects.
+7 The Rhode Island infrastructure bank shall review and approve all applications for projects to be
+8 financed through the resilient rhody infrastructure fund.
+9 The Rhode Island infrastructure bank shall promulgate rules and regulations to effectuate
+10 the provisions of this section which may include, without limitation, forms for financial assistance
+11 applications, loan agreements, and other instruments. All rules and regulations promulgated
+12 pursuant to this chapter shall be promulgated in accordance with the provisions of chapter 35 of
+13 title 42 (“administrative procedures”).
+14 (b) The Rhode Island infrastructure bank shall have all the powers necessary and
+15 convenient to carry out and effectuate the purposes and provisions of this section including, without
+16 limiting the generality of the preceding statement, the authority:
+17 (1) To receive and disburse such funds from the state and federal government as may be
+18 available for the purpose of the fund subject to the provisions of this section;
+
+1 (2) To make and enter into binding commitments to provide financial assistance to local
+2 governmental units from amounts on deposit in the fund;
+3 (3) To levy administrative fees on eligible borrowers as necessary to effectuate the
+4 provisions of this section, provided the fees have been previously authorized by an agreement
+5 between the Rhode Island infrastructure bank and the eligible borrower;
+6 (4) To engage the services of third-party vendors to provide professional services;
+7 (5) To establish one or more accounts within the fund; and
+8 (6) Such other authority as granted to the Rhode Island infrastructure bank under this
+9 chapter.
+10 (c) Subject to the provisions of this section and to any agreements with the holders of any
+11 bonds of the Rhode Island infrastructure bank or any trustee therefor, amounts held by the Rhode
+12 Island infrastructure bank for the account of the fund shall be applied by the Rhode Island
+13 infrastructure bank, either by direct expenditure, disbursement, or transfer to one or more other
+14 funds and accounts held by the Rhode Island infrastructure bank or maintained under any trust
+15 agreement pertaining to bonds, either alone or with other funds of the Rhode Island infrastructure
+16 bank, to the following purposes:
+17 (1) To provide financial assistance to local governmental units to finance costs of approved
+18 projects, as set forth in subsection (a) of this section, and to refinance the costs of the projects,
+19 subject to such terms and conditions, if any, as are determined by the Rhode Island infrastructure
+20 bank;
+21 (2) To fund reserves for bonds of the Rhode Island infrastructure bank and to purchase
+22 insurance and pay the premiums therefor, and pay fees and expenses of letters or lines of credit and
+23 costs of reimbursement to the issuers thereof for any payments made thereon or on any insurance,
+24 and to otherwise provide security for, and a source of payment for obligations of the Rhode Island
+25 infrastructure bank, by pledge, lien, assignment, or otherwise as provided in this chapter;
+26 (3) To pay expenses of the Rhode Island infrastructure bank in administering the fund;
+27 (4) To provide a reserve for, or to otherwise secure, amounts payable by borrowers on loans
+28 and obligations outstanding in the event of default thereof; amounts in any account in the fund may
+29 be applied to defaults on loans outstanding to the borrower for which the account was established
+30 and, on a parity basis with all other accounts, to defaults on any loans or obligations outstanding;
+31 and
+32 (5) To provide a reserve for, or to otherwise secure, by pledge, lien, assignment, or
+33 otherwise as provided in this chapter, any bonds of the Rhode Island infrastructure bank.
+34 (6) To provide financial support to local governmental units to support, develop, and
+LC003143 - Page 2 of 7
+
+1 implement risk interpretation tools to aid in:
+2 (i) Quantifying financial risk and the value of risk financing and transfer investments
+3 including, but not limited to, insurance and alternative methods of risk transfer to reduce costs
+4 associated with catastrophic event recovery; and
+5 (ii) Efforts that seek to ensure a property's insurability.
+6 (d) In addition to other remedies of the Rhode Island infrastructure bank under any loan
+7 agreement or otherwise provided by law, the Rhode Island infrastructure bank may also recover
+8 from a borrower, in an action in superior court, any amount due the Rhode Island infrastructure
+9 bank together with any other actual damages the Rhode Island infrastructure bank shall have
+10 sustained from the failure or refusal of the borrower to make the payments or abide by the terms of
+11 the loan agreement.
+12 (e) The Rhode Island infrastructure bank may create one or more loan loss reserve funds
+13 to serve as further security for any loans made by the Rhode Island infrastructure bank or any bonds
+14 of the Rhode Island infrastructure bank issued to fund energy efficiency improvements in public
+15 buildings in accordance with this section.
+16 (f) To the extent possible, and in accordance with law, the Rhode Island infrastructure bank
+17 shall encourage the use of project labor agreements for projects over ten million dollars
+18 ($10,000,000) and local hiring on projects funded under this section.
+19 SECTION 2. Chapter 46-12.2 of the General Laws entitled "Rhode Island Infrastructure
+20 Bank" is hereby amended by adding thereto the following section:
+21 46-12.2-28. Municipal resilience program -- Eligible costs.
+22 (a) Amounts designated by the Rhode Island infrastructure bank for the municipal
+23 resilience program and/or municipal resilience projects may be used by local governmental units
+24 for:
+25 (1) Resiliency related infrastructure planning processes;
+26 (2) Resiliency related insurability planning;
+27 (3) The support, development, and/or implementation of risk interpretation tools to aid in:
+28 (i) Quantifying financial risk and the value of risk financing and transfer investments
+29 including, but not limited to, insurance and alternative methods of risk transfer to reduce costs
+30 associated with catastrophic event recovery; and
+31 (ii) Efforts that seek to ensure a property's insurability.
+32 SECTION 3. Sections 46-23.3-2 and 46-23.3-4 of the General Laws in Chapter 46-23.3
+33 entitled "The Ocean State Climate Adaptation and Resilience Fund" are hereby amended to read as
+34 follows:
+LC003143 - Page 3 of 7
+
+1 46-23.3-2. Definitions.
+2 For the purposes of this chapter, the following words and phrases shall have the following
+3 meanings:
+4 (1) “Adaptation and resilience projects” means those projects on public land that protect or
+5 enhance coastal or riverine habitats to address climate change impacts. Adaptation and resilience
+6 projects include, but are not limited to: those projects that reduce the vulnerability of low-lying
+7 infrastructure on public land through measures that include removal and relocation of
+8 infrastructure; restoration of river and stream floodplains, including regrading of banks;
+9 revegetation; acquisition of that area of land necessary to maintain and preserve public access; and
+10 redesigning, resizing, and replacing culverts and bridge spans at existing wetland crossings; risk
+11 financing and transfer investment including, but not limited to, insurance and alternative methods
+12 of risk financing and transfer to protect nature-based solutions from catastrophic risk; and those
+13 efforts that seek to ensure a property's insurability.
+14 (2) “Bank” means the Rhode Island infrastructure bank.
+15 (3) “Climate change impacts” means and includes, but is not limited to: flooding, erosion,
+16 sea level rise, and storm surge.
+17 (4) “Council” means the coastal resources management council.
+18 (5) “Department” means the department of environmental management.
+19 (6) “Director” means the director of the department of environmental management.
+20 (7) “Infrastructure” means and includes, but is not limited to: roads, parking lots, and other
+21 paved surfaces; shoreline protection structures; buildings; water control structures; culverts; other
+22 structures; and remnants of development.
+23 (8) “Public land(s)” means property owned by state or municipal governments, including
+24 any quasi-public agencies thereof, public and private lands dedicated to public use, including lands
+25 that provide access to shorelines and riverbanks. Public lands include properties where the state or
+26 municipality holds an easement for public purposes.
+27 (9) “Shoreline protection structures” means and includes, but is not limited to: revetments,
+28 bulkheads, seawalls and floodwalls, breakwaters, jetties, and other structures, the purpose or effect
+29 of which is to control the erosion of coastal or river features, and includes, but is not limited to, any
+30 sheet pile walls, concrete or stone walls.
+31 46-23.3-4. Establishment — The Ocean State Climate Adaptation and Resilience
+32 fund.
+33 (a) Establishment. There is established within the Rhode Island infrastructure bank, the
+34 Ocean State Climate Adaptation and Resilience fund (the “OSCAR fund”).
+LC003143 - Page 4 of 7
+
+1 (b) Financing. The fund shall consist of the following sources:
+2 (1) Sums the general assembly may appropriate;
+3 (2) Monies received from federal, state, or other sources, including bond funds, for the
+4 purposes of the OSCAR fund;
+5 (3) Monies received from any private donor for the OSCAR fund; and
+6 (4) Any interest earned on the monies in the fund.
+7 (c) Allocation of OSCAR funds. OSCAR funds shall be used to carry out the purposes of
+8 this chapter as follows:
+9 (1) The administrative expenses required to carry out the activities of the program as
+10 described in this chapter shall not exceed fifty thousand dollars ($50,000) each for the Rhode Island
+11 infrastructure bank, coastal resources management council, and the department of environmental
+12 management annually, which sum shall not include the cost of issuing bonds or notes, if any. The
+13 department and the council shall be responsible for submitting annual budget requests for its
+14 administrative and implementation costs of the program to the bank;
+15 (2) The planning, design, engineering, construction, and monitoring of adaptation and
+16 resilience projects as defined in this chapter; and
+17 (3) The OSCAR projects approved by the department and the council upon
+18 recommendation of the technical advisory committee. Only grants approved through the process
+19 established by the department and council shall be eligible for funding under this program. Subject
+20 to the availability of funds in the OSCAR fund, the bank shall award funding upon receipt of written
+21 approval of the department and council; and
+22 (4) The support, development, and implementation of risk interpretation tools to aid in
+23 quantifying financial risk and the value of risk financing and transfer investments including, but
+24 not limited to, insurance and alternative methods of risk transfer in order to reduce costs associated
+25 with catastrophic event recovery.
+26 (d) OSCAR fund grants. Factors to be taken into consideration by the technical advisory
+27 committee for the purposes of granting monies to municipalities and the state for OSCAR grants,
+28 for determining the eligibility of projects for financial assistance, and in prioritizing the selection
+29 of projects by the technical committee shall include, but need not be limited to:
+30 (1) Consistency with the following where applicable: the council’s most recent projections
+31 for sea level rise, the coastal habitat restoration strategy, the state nonpoint source pollution control
+32 plan; and other applicable state and federal laws;
+33 (2) The ability and authority of the applicant to carry out and properly maintain the
+34 adaptation and resilience project;
+LC003143 - Page 5 of 7
+
+1 (3) Whether the project will enhance public access to public land;
+2 (4) The severity to, or the risk and/or extent of, infrastructure degradation on public land;
+3 (5) The extent of the use by the public of the public land;
+4 (6) The proposed milestones to ensure that the project is completed as designed and
+5 approved;
+6 (7) Whether the adaptation and resilience project can also be shown to create or replace
+7 habitat losses that benefit fish and wildlife resources;
+8 (8) Potential water quality improvements;
+9 (9) Potential improvements to fish and wildlife habitats for species that are identified as
+10 rare or endangered by the Rhode Island natural history survey or the Federal Endangered Species
+11 Act, 16 U.S.C. § 1531 et seq.;
+12 (10) The level and extent of collaboration by partners (e.g., municipality, nongovernment
+13 organization, watershed council, federal agency, etc.); and
+14 (11) Overall potential benefits to the public and estimated length of time frame of benefit;
+15 and
+16 (12) The insurability of the adaptation and resilience project.
+17 SECTION 4. This act shall take effect upon passage.
+========
+LC003143
+========
+LC003143 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO WATERS AND NAVIGATION -- RHODE ISLAND INFRASTRUCTURE
+BANK
+***
+1 This act would allow local government recipients of grant funds from the Rhode Island
+2 infrastructure bank's OSCAR fund, Rhode Island infrastructure fund, and municipal resilience
+3 program to use monies for insurability planning.
+4 This act would take effect upon passage.
+========
+LC003143
+========
+LC003143 - Page 7 of 7

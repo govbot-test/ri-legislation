@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - 7848
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7848
+========
+LC005618
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+UNFAIR SALES PRACTICES
+Introduced By: Representative Alex D. Marszalkowski
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 6-13 of the General Laws entitled "Unfair Sales Practices" is hereby
+2 amended by adding thereto the following section:
+3 6-13-22. Continuous glucose monitors.
+4 (a) Definition. For purposes of this section, "glucose monitor" means a device designed to
+5 be placed upon or into a person for the purpose of monitoring and recording blood glucose (sugar)
+6 levels in a person with diabetes mellitus. Said device consists of a sensory unit which monitors
+7 glucose levels and transmits readings to another (receiving) device. The receiving unit shows the
+8 user current glucose levels as well as past levels and calculates possible levels, warning user of low
+9 glucose levels that pose a safety risk to the individual user and also to the general public due to the
+10 possibility of the user becoming unconscious.
+11 (b) It shall be unlawful for any retailer, to sell within this state, any glucose monitors
+12 without having a replacement policy for glucose monitors that fail or are defective and any sensors
+13 thereto that provides for an immediate, point of sale replacement or replacement within twenty-
+14 four (24) hours at no charge to the consumer for any glucose monitors sold by the retailer.
+15 (c) Failure of the glucose monitor shall include the following defects:
+16 (1) Failure of the sensor unit to adhere to an individual due to the absence of adhesive;
+17 (2) Failure of the sensor to adhere upon placement of the device to the individual;
+18 (3) Failure of probe to enter the skin of the person and enter the subcutaneous tissue,
+
+1 rendering the device unable to function;
+2 (4) Failure to adhere to the individual under normal operating conditions and under normal
+3 daily use and activities within the intended usage time of the sensor unit; and
+4 (5) Failure of the device to communicate with a receiver for the following reasons:
+5 (i) The sensor claims to have been scanned by another receiving device and will not work
+6 with the intended receiver;
+7 (ii) The scanner prematurely stops working prior to its intended end of usage time, claiming
+8 it has reached its intended usage time but has not;
+9 (iii) The electronics malfunction thus rendering the device inoperable, including expired
+10 battery; and
+11 (iv) The receiving device fails due to electronic malfunction or the inability to be able to
+12 recharge the battery.
+13 (d) Retailers inventory. Retailers of glucose monitors shall maintain a sufficient inventory
+14 of the monitors or have sufficient replacement vendors to enable replacement within twenty-four
+15 (24) hours to any customer who has purchased a glucose monitor from the retailer. Any retailer
+16 unable to meet the immediate replacement request requirement shall, upon the valid request for
+17 replacement of a defective glucose monitor:
+18 (1) Obtain a replacement within twenty-four (24) hours of the request by the consumer;
+19 (2) Arrange for the delivery of a replacement glucose monitor to the consumer within
+20 twenty-four (24) hours; or
+21 (3) Inform and direct the customers to a location where a replacement glucose monitor may
+22 be obtained with the cost of the monitor being the responsibility of the retailer who sold the
+23 defective glucose monitor.
+24 (e) Notice. All retailers of glucose monitors shall display at the point of sale location a copy
+25 of this section of law and a sign explaining the customer's rights to a replacement glucose monitor
+26 pursuant to this section and the contact information for the customer protection division of the
+27 attorney general's office.
+28 (f) Reporting. Retailers affected by the provisions of this section shall annually report to
+29 the department of health:
+30 (1) The total number of glucose monitoring devices returned to their store;
+31 (2) The total number of glucose monitoring devices returned by the retailer to the
+32 manufacturers;
+33 (3) The number of replacement glucose monitors provided by the manufacturer; and
+34 (4) The total amount of time spent replacing the glucose monitors.
+LC005618 - Page 2 of 4
+
+1 (g) Exemptions. The provisions of the section shall not apply to:
+2 (1) Any device that receives signals including, but not limited to, cell phones; and
+3 (2) Any damage to a glucose monitor caused by misuse or mistreatment.
+4 (h) Penalties. Any person who violates the provisions of this section shall be guilty of a
+5 misdemeanor and shall pay a fine of five hundred dollars ($500).
+6 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC005618
+========
+LC005618 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+UNFAIR SALES PRACTICES
+***
+1 This act would require retailers of glucose monitors to provide a free, point of sale
+2 replacement for any broken or defective monitor within twenty-four (24) hours of the request.
+3 This act would take effect on January 1, 2027.
+========
+LC005618
+========
+LC005618 - Page 4 of 4

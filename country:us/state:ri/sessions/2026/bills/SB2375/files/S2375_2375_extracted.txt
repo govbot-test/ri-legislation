@@ -1,0 +1,933 @@
+Title: 
+Official Title: 
+Source: versions - 2375
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2375
+========
+LC004740
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- INSPECTOR GENERAL
+Introduced By: Senators Raptakis, Thompson, Paolino, de la Cruz, Rogers, E Morgan,
+and Patalano
+Date Introduced: January 30, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 9.4
+4 INSPECTOR GENERAL
+5 42-9.4-1. Purpose.
+6 The office of inspector general shall be an independent administrative agency charged with
+7 the purpose of preventing and detecting fraud, waste, abuse and mismanagement in the expenditure
+8 of public funds, whether federal, state, or local, and relating to any and all state programs and
+9 operations, as well as the procurement of any supplies, services, or construction, by agencies,
+10 bureaus, divisions, sections, departments, offices, commissions, institutions and activities of the
+11 State of Rhode Island, including those districts, authorities, or political subdivisions created by the
+12 general assembly, the governor, and any court, including any city or town within the State of Rhode
+13 Island. Investigations may include the expenditures by nongovernmental agencies of federal, state,
+14 and local public funds.
+15 42-9.4-2. Definitions.
+16 As used in this chapter, unless the context requires otherwise, the following terms shall
+17 have the following meanings:
+18 (1) "Construction" means the process of building, altering, repairing, improving, or
+19 demolishing any public structure or building, or other improvements of any kind to any public
+
+1 property.
+2 (2) "Contract" means all types of agreements, including grants and orders, for the purchase
+3 or disposal of supplies, services, construction, or any other item. It includes:
+4 (i) Awards;
+5 (ii) Contracts of a fixed-price, cost, cost-plus-a-fixed-fee, or incentive type;
+6 (iii) Contracts providing for the issuance of job or task orders;
+7 (iv) Leases;
+8 (v) Letter contracts;
+9 (vi) Purchase orders; and
+10 (vii) Construction management contracts. It also includes supplemental agreements to any
+11 of the foregoing agreements.
+12 (3) "Contractor" means any person, corporation, partnership, business, union, committee,
+13 or other organization entity or group of individuals, performing any tasks, or duties as defined under
+14 a written or oral contract with and for the State of Rhode Island or the joint committee on legislative
+15 services.
+16 (4) "Procurement" means the purchasing, buying, renting, leasing, or otherwise obtaining
+17 any supplies, services, or construction. It also includes all functions that pertain to the obtaining of
+18 any supply, service, or construction item, including a description of requirements, selection and
+19 solicitation of sources, preparation, and award of contract, and all phases of contract administration.
+20 (5) "Public funds" means state, federal or local funds, either appropriated, non-appropriated
+21 or given under right of grant.
+22 (6) "Services" means the rendering by a contractor of its time and effort, rather than the
+23 furnishing of a specific end product, other than reports which are merely incidental to the required
+24 performance of services.
+25 (7) "Supplies" means all property including, but not limited to, leases of real property,
+26 printing, and insurance, except land or permanent interest in land.
+27 42-9.4-3. Establishment of office -- Appointment and removal of inspector general.
+28 (a) There is hereby established an office of inspector general, (hereinafter referred to as the
+29 "office"). There shall be in the office an inspector general, who shall be the administrative head of
+30 the office and who shall be appointed by a majority vote of the governor, the attorney general, and
+31 the general treasurer for a five (5) year term to begin July 1 and end June 30, five (5) years later.
+32 The appointee shall serve no longer than two (2) terms. The person so appointed shall be selected
+33 without regard to political affiliation and with a demonstrated ability in more than one of the
+34 following areas: accounting, auditing, financial analysis, law, management analysis, public
+LC004740 - Page 2 of 28
+
+1 administration, investigation and criminal justice administration.
+2 (b) The selection process of a qualified inspector general shall include at least one public
+3 forum. If an inspector general is not selected within one month of a new inspector general's term,
+4 the governor shall appoint an inspector general. The inspector general shall have at least five (5)
+5 years' experience in accounting, criminal justice, or a closely related profession and a bachelor’s
+6 degree from an accredited college or university with a major in accounting, criminal justice, or a
+7 closely related field of study.
+8 (c) No inspector general shall hold, or be a candidate for, any other elective or appointed
+9 public office, while an inspector general and for one year prior. No inspector general shall hold a
+10 position in any political party or political committee, or participate in any political campaign of any
+11 candidate for public office, while an inspector general.
+12 (d) In case of a vacancy in the position of inspector general, their successor shall be
+13 appointed in the manner described in subsections (a) and (b) of this section, and shall serve from
+14 their date of appointment until the fifth June 30 following their appointment. If this vacancy is not
+15 filled within one month, then the governor shall appoint an inspector general.
+16 (e) The person so appointed may be removed from office for cause by a two-thirds (2/3)
+17 vote of the governor, the attorney general, the general treasurer, the lieutenant governor, secretary
+18 of state, the speaker and the minority leader of the house of representatives and the president and
+19 minority leader of the senate. Cause may include substantial neglect of duty, gross misconduct or
+20 conviction of a crime, whether or not it is work related. The reasons for removal of the inspector
+21 general shall be stated in writing and shall include the basis for such removal. The writing shall be
+22 a public document. The inspector general shall have ten (10) days to submit a written appeal, which
+23 shall be a public document. If no appeal is made, the inspector general shall be dismissed from
+24 office. If an appeal is made, a vote shall be taken in the senate and two-thirds (2/3) vote of the
+25 senate shall be required to dismiss the inspector general.
+26 42-9.4-4. Employees -- Appointment and removal, salaries, qualifications.
+27 (a) The inspector general may appoint and remove such employees as deemed necessary
+28 to perform the duties of the office including, but not limited to, assistant inspectors general, chief
+29 and deputy counsels, clerks, paralegals, accountants, auditors, financial management analysts and
+30 investigators. The inspector general may determine their salaries and duties; provided, however,
+31 that the total amount of all such salaries shall not exceed the sum appropriated therefore by the
+32 general assembly.
+33 (b) The inspector general shall file an annual personnel report not later than the first
+34 Wednesday in February with the senate and house finance committees containing the job
+LC004740 - Page 3 of 28
+
+1 classifications, duties and salary of each officer and employee within the office together with
+2 personnel regulations applicable to said officers and employees. The inspector general shall file
+3 amendments to such report with the senate and house finance committees whenever any change
+4 becomes effective.
+5 (c) No officer or employee of the office of inspector general shall hold, or be a candidate
+6 for, any elective public office, while an officer or employee, or for one year thereafter, nor shall
+7 they hold a position in any political party or political committee, or participate in any political
+8 campaign of any candidate for public office, while an officer or employee.
+9 42-9.4-5. Inspector general -- Salary and budget.
+10 The general assembly shall annually set the salary of the inspector general and shall
+11 appropriate sufficient funds for the total budget for the office.
+12 42-9.4-6. Rules and regulations.
+13 The office shall, pursuant to the provisions of chapter 35 of title 42, ("administrative
+14 procedures act"), promulgate rules and regulations which shall govern its proceedings.
+15 42-9.4-7. Duties.
+16 (a) The inspector general shall supervise, coordinate and/or conduct audits, criminal, civil
+17 and administrative investigations and inspections or oversight reviews, when necessary, relating to
+18 programs and operations listed in § 42-9.4-1. The inspector general shall review laws and
+19 regulations relating to programs and operations listed in § 42-9.4-1 and shall determine if public
+20 bodies listed in § 42-9.4-1 are in compliance, and shall make recommendations concerning the
+21 effect of such laws or regulations on the prevention and detection of fraud, waste and abuse. The
+22 inspector general may recommend policies that will assist in the prevention or detection of fraud,
+23 waste and abuse and mismanagement. The person in charge of, or the governing body of any public
+24 body listed in § 42-9.4-1, may request the assistance of the inspector general with respect to
+25 implementation of any reviews, audits, and/or investigations, as deemed appropriate, and
+26 implement suggested policy or procedure changes. In such events the inspector general may assign
+27 personnel to conduct, supervise, or coordinate such activity as deemed necessary and appropriate
+28 to perform their duties in a diligent and prudent manner. The inspector general may recommend
+29 policies for the conduct, supervision or coordination of relationships, between state and municipal
+30 agencies and other state and local governmental agencies, as well as federal governmental agencies
+31 and nongovernmental entities, with respect to all matters relating to the prevention and detection
+32 of fraud, waste, abuse and mismanagement in or relating to any and all programs and activities of
+33 the State of Rhode Island, as set forth in § 42-9.4-1.
+34 (b) The inspector general shall establish and maintain an information system to receive
+LC004740 - Page 4 of 28
+
+1 communications from the general public, relating to the duties of the office to guarantee the
+2 anonymity of the individual supplying the information, consisting of the transmission by email,
+3 regular mail or other electronic system that does not involve the use of a telephone line.
+4 42-9.4-8. Persons authorized to conduct audits – Reports of irregularities.
+5 Any qualified person duly authorized by the inspector to act as auditor may examine the
+6 books, papers, and documents of any public body having control of state or federal funds, and if
+7 the audit discloses any irregularities or improper handling of records or funds, the auditor shall
+8 report the same to the inspector general who shall, in turn, report such findings and
+9 recommendations to the director of administration.
+10 42-9.4-9. Inspection of records and papers –Investigations – Subpoenas.
+11 (a) The inspector general, in carrying out the duties outlined in this chapter, shall have
+12 access to all records, reports, audits, reviews, papers, books, documents, recommendations,
+13 correspondence, including information relative to the purchase of services or anticipated purchase
+14 of services from any contractor by any public body set forth in § 42-9.4-1, and any other data and
+15 material that is maintained by or available to any public body, regardless of the medium in which
+16 it is maintained which is, in any way, related to the programs and operations, with respect to the
+17 State of Rhode Island, including any local town, municipality or city.
+18 (b) The inspector general may request information, cooperation and assistance from any
+19 state or local governmental agency as may be necessary for carrying out their duties and
+20 responsibilities. Upon receipt of such request, each person in charge of, or the governing body of
+21 any public body set forth in § 42-9.4-1, shall furnish to the inspector general or their authorized
+22 agent or representative such information, cooperation, and assistance, including information
+23 relative to the purchase of services or anticipated purchase of services from any contractor by any
+24 public body within ten (10) business days of receipt of the inspector general’s request. If the request
+25 for the information requested cannot be complied with, within ten (10) business days, the senior
+26 official of the governmental agency shall notify the inspector general before the expiration of the
+27 ten (10) business days with the reason why the request cannot be complied within the time frame
+28 of this section, and shall provide a specific date for expected compliance.
+29 (c) The inspector general may initiate and conduct investigations, audits, and compliance
+30 reviews, and shall prepare detailed reports relating to findings and conclusions concerning the
+31 administration of the programs and operations of the applicable public bodies listed in § 42-9.4-1,
+32 as are in the judgment of the inspector general necessary and may conduct an examination of any
+33 public documents, and any information with respect to whether internal quality controls are in place
+34 and operating.
+LC004740 - Page 5 of 28
+
+1 (d) The inspector general shall have direct and prompt access to the head of any public
+2 body, set forth in § 42-9.4-1 when necessary, for any purpose pertaining to the performance of their
+3 duties and responsibilities under this chapter.
+4 (e) The inspector general may request the production, on a voluntary basis, of testimony or
+5 documents from any individual, firm or nongovernmental entity which relate to actions or matters
+6 that pertain to state or municipal governmental agencies as dictated by their duties and
+7 responsibilities.
+8 (f) (1) The inspector general may issue a subpoena for the production of all records, reports,
+9 audits, reviews, papers, books, documents, recommendations, correspondence and any other data
+10 and material relevant to any matter under audit or investigation, pursuant to the provisions of this
+11 chapter, no matter in which medium the information is maintained.
+12 (2) A subpoena may be issued only when a person, corporation or other entity under
+13 investigation or being audited, refuses to voluntarily comply with a request from the inspector
+14 general.
+15 (3) The subpoena shall be served in the same manner as a subpoena for the production of
+16 documents in civil cases issued on behalf of the State of Rhode Island, and all provisions of law
+17 relative to the subpoena, shall apply to a subpoena issued pursuant to this chapter. Any justice of
+18 the superior court may, upon application by the inspector general, issue an order to compel the
+19 production of records, reports, audits, reviews, papers, books, documents, recommendations,
+20 correspondence, and any other data and material, as aforesaid in the same manner and to the same
+21 extent as before said superior court. Any failure to obey the order may be punished by the superior
+22 court through contempt of court.
+23 (4) Any subpoena issued pursuant to this section shall not be made public by the inspector
+24 general or any officer or employee of that office, nor shall any documents or records provided
+25 pursuant to this section, be made public until such time as it is necessary for the inspector general
+26 to do so in the performance of their official duties. The production of documents or records pursuant
+27 to subpoena shall be governed by the same provisions with reference to secrecy, which govern the
+28 proceedings of a grand jury. Disclosure of such production, attendance, and testimony may be made
+29 to such members of the staff of the office of the inspector general as is deemed necessary in the
+30 performance of the inspector general's duties and responsibilities under this chapter, and such
+31 members of the staff may be present at the production of records.
+32 42-9.4-10. Subpoena for witness testimony and for release of material evidence.
+33 (a) Whenever the inspector general has reason to believe that a person has information or
+34 evidence in their possession, with respect to any matter which is within the inspector general’s
+LC004740 - Page 6 of 28
+
+1 jurisdiction to investigate, a subpoena must issue for the attendance and testimony under oath of
+2 any person as designated, or the surrender of identified items of evidence; provided, however, that
+3 the subpoena may be issued by the inspector general, only in the performance of official duties
+4 relating to the detection of fraud, waste, abuse and mismanagement. The subpoena for testimony
+5 or specific items identified as needed in support of an investigation shall include: the name and
+6 address of the prospective witness or specific items identified as needed for the investigation and
+7 the reasons for requesting a subpoena for testimony or production of items deemed necessary to
+8 support the investigation.
+9 (b) The inspector general, or any other person duly authorized by law, shall serve a
+10 subpoena. Once the subpoena is served, the serving officer shall annotate the time and date served,
+11 the person served and the location of service.
+12 (c) A witness required by subpoena to attend and testify under oath and/or produce books
+13 and records or other items as demanded, shall be given not less than forty-eight (48) hours' notice
+14 of the time and place for the taking of testimony or delivery of subpoenaed items, unless such notice
+15 shall unduly interfere with the conduct of the investigation.
+16 (d) The witness, at the time of service of a subpoena, shall be notified of the matter under
+17 investigation concerning which the witness will be required to testify. A subject of an investigation
+18 is a person whose conduct is within the scope of the investigation and is suspected of committing
+19 or being party to an offense under investigation. The failure to furnish the witness with any notice
+20 or information required to be given by this section shall cause the issued subpoena to be invalid.
+21 (e) A person subpoenaed to testify under oath shall appear and testify under oath at the
+22 time and place designated on the subpoena. In addition, the witness shall be notified that they have
+23 a right to consult with and to have an attorney present at the time their testimony is taken, and that
+24 they have a constitutional right not to furnish or produce evidence that may tend to incriminate
+25 them.
+26 (f) The terms of any such subpoena shall be reasonable and focused on specific testimony
+27 or evidence sought and shall directly relate to the matters under investigation. A subpoena issued
+28 that is broad in nature is not considered valid. No subpoena shall be issued for purposes of
+29 harassment or for any illegitimate or improper purpose. All constitutional and statutory rights and
+30 privileges which exist with respect to any subpoena issued by the inspector general, including the
+31 privilege against self-incrimination, shall have the same force and effect with any and all existing
+32 laws and constitutional rights.
+33 (g) A subpoenaed person may object to the subpoena served upon them, in advance of the
+34 return date of the subpoena, by a motion to quash filed in the superior court of the State of Rhode
+LC004740 - Page 7 of 28
+
+1 Island. The filing of a motion to quash shall stay all pending subpoenas, until further order of the
+2 superior court. Any justice of the superior court may, upon application by the inspector general,
+3 issue an order to compel the attendance of witnesses subpoenaed, and the giving of testimony under
+4 oath, in furtherance of any audit or investigation under this chapter in the same manner and to the
+5 same extent as before the superior court. Failure to obey any order of the court with respect to a
+6 subpoena may be punished by the court as contempt.
+7 (h) Any subpoena issued pursuant to this section shall not be made public by the inspector
+8 general or any persons subject to their direction or by any member of the inspector general's office
+9 designated to hear testimony under this section, and the same provisions with reference to secrecy,
+10 which govern grand jury proceedings, shall govern testimony given. Whoever violates the
+11 provisions of this subsection shall be punished by imprisonment for not more than six (6) months
+12 or by a fine of not more than one thousand dollars ($1,000), or both. Disclosure of such testimony
+13 may be made to such members of the staff of the office of inspector general, as is deemed necessary
+14 by the inspector general to assist in the performance of the office's duties and responsibilities and
+15 such members of the staff may be present at the taking of such testimony.
+16 42-9.4-11. Compact – Investigation.
+17 (a) The inspector general shall accept and may investigate or audit complaints or
+18 information from any individual, concerning the possible existence of any activity constituting
+19 fraud, waste, abuse and mismanagement, relating to programs and operations as set forth in § 42-
+20 9.4-1.
+21 (b) The inspector general shall not, after receipt of a complaint or information from an
+22 employee, contractor or private citizen who requests confidentiality, disclose the identity of that
+23 individual without their written consent, unless the inspector general determines such disclosure is
+24 necessary and unavoidable during the course of the investigation. In such event, the individual shall
+25 be notified immediately of the disclosure. The inspector general shall set up an anonymous hotline
+26 for reporting possible wrongdoings.
+27 (c) Employees are protected under chapter 50 of title 28, the ("Rhode Island
+28 whistleblower's protection act").
+29 42-9.4-12. Investigations or management advisory and consulting services upon
+30 request of governor or general assembly.
+31 The office of inspector general may, upon the written request of the governor or of the
+32 general assembly, conduct audits, provide management advisory and consulting services, or
+33 conduct investigations relative to the financial affairs or the economy and efficiency of
+34 management, or both, of any public bodies. “Public body” or “public bodies” under this chapter
+LC004740 - Page 8 of 28
+
+1 shall mean state agencies, bureaus, divisions, departments, offices, commissions, boards,
+2 institutions, including the public institutions of higher education, districts, authorities, quasi-
+3 agencies, or political subdivisions created by the general assembly, or the governor. “Public body”
+4 shall also include any city and town within the State of Rhode Island but municipal audits under
+5 this chapter shall only cover the expenditure of state or federal funds distributed by the state. Audits
+6 and investigations of public bodies may include the expenditures by nongovernmental agencies of
+7 federal, state, and local public funds. The office of inspector general may, from time to time, make
+8 such investigations and additional reports to the governor, the director of the department of
+9 administration, and the general assembly as deemed necessary or advisable.
+10 42-9.4-13. Inspection of records, papers, and witness testimony -- Investigations and
+11 subpoenas.
+12 (a) The inspector general, in carrying out the duties outlined in this chapter, shall have
+13 access to all records, reports, audits, reviews, papers, books, documents, recommendations,
+14 correspondence, including information relative to the purchase of goods or services or anticipated
+15 purchase of goods or services, from any agent, contractor, or vendor by any public body, as defined
+16 in § 35-7.1-1(f), and any other data and material that is maintained by or available to any public
+17 body regardless of the media in which it is maintained which is in any way related to the programs
+18 and operations with respect to public bodies.
+19 (b) The inspector general may request information and records, cooperation, and assistance
+20 from any state or local governmental agency as may be necessary for carrying out the inspector
+21 general’s duties and responsibilities. Upon receipt of such request, each person in charge of the
+22 public body shall furnish to the inspector general, or the inspector general’s authorized agent or
+23 representative, such information and records, cooperation and assistance, including information
+24 relative to the purchase of goods or services or anticipated purchase of goods or services from any
+25 contractor or vendor by any public body, within ten (10) business days of receipt of the inspector
+26 general’s request. If the public body is unable to comply with the request for records and/or
+27 information within (10) business days, the public body must notify the inspector general, prior to
+28 the expiration of the ten (10) business days, in writing as to the reason, or reasons, why the request
+29 cannot be fulfilled within this time and whether additional time is necessary.
+30 (c) The inspector general may initiate and conduct audits, investigations, and compliance
+31 reviews and shall prepare detailed findings, conclusions, and recommendations concerning the
+32 administration of programs or operations, and internal controls over processes of public bodies.
+33 (d) The inspector general shall have direct and prompt access to any public body, its agents,
+34 officers, and employees when necessary for any purpose pertaining to the performance of the
+LC004740 - Page 9 of 28
+
+1 inspector general’s duties and responsibilities under this chapter.
+2 (e) In furtherance of carrying out any of the duties of this chapter, the inspector general
+3 may request, with the written approval of the director of the department of administration and
+4 through an administrative subpoena, the attendance and testimony of witnesses and the production
+5 of books, records, and other evidence relevant to an active fraud investigation as described in this
+6 chapter. The subpoena shall specify the time, date, and place where the witness is to respond.
+7 Within twenty (20) days after the service of the subpoena or at any time before the return date
+8 specified in the subpoena, whichever period is shorter, the person served may file in a state superior
+9 court and serve upon the unit and the attorney general a civil petition for an order of the court
+10 modifying or setting aside the subpoena. The petition shall specify each ground upon which the
+11 petitioner is seeking relief. If a person neglects or refuses to comply with any request to provide
+12 testimony or produce books, records, and other evidence relevant to an investigation, the office of
+13 inspector general or the attorney general may petition the superior court for an order compelling
+14 the person to answer the request. Books, records, and other evidence obtained through an
+15 administrative subpoena that are not used in a court proceeding shall be destroyed as soon as
+16 practicable.
+17 42-9.4-14. Complaint -- Investigation.
+18 (a) The inspector general shall accept and may investigate or audit complaints or
+19 information from any identified individual concerning the possible existence of any activity
+20 constituting fraud, waste, abuse, or mismanagement relating to programs and operations of public
+21 bodies.
+22 (b) The inspector general shall not, after receipt of a complaint or information from an
+23 employee, contractor, or private citizen who requests confidentiality, disclose the identity of that
+24 individual, without the written consent of said individual, unless the inspector general determines
+25 such disclosure is necessary and unavoidable during the course of an investigation. In such event,
+26 the individual filing the complaint shall be notified, if possible, immediately of such disclosure.
+27 (c) Employees are protected under the chapter 50 of title 28 “Rhode Island Whistleblowers’
+28 Protection Act.”
+29 42-9.4-15. Coordination with other state agencies.
+30 The inspector general may coordinate with other state agencies that are responsible for
+31 investigating, auditing, reviewing, or evaluating the management of public bodies for the purpose
+32 of sharing information and avoiding duplication of effort.
+33 42-9.4-16. Reports to the attorney general or United States Attorney.
+34 (a) In carrying out their duties and responsibilities, the inspector general shall report to the
+LC004740 - Page 10 of 28
+
+1 attorney general, the United States Attorney or both whenever the inspector general has reasonable
+2 grounds to believe there has been a violation of federal or state criminal law. The attorney general
+3 shall institute appropriate proceedings in the furtherance of completing an investigation and, if
+4 warranted, refer the matter for prosecution.
+5 (b) The inspector general shall refer audit or investigative findings to the state ethics
+6 commission, or to any other federal, state or local agency, which has an interest in said findings.
+7 (c) Any referrals made under this section shall not be made public.
+8 42-9.4-17. Coordination with other state agencies.
+9 The inspector general may coordinate with other state agencies that are responsible for
+10 investigating, auditing, reviewing or evaluating the management of state agencies for the purpose
+11 of sharing information and avoiding duplication of effort.
+12 42-9.4-18. Management advisory and consulting services provided to public bodies.
+13 When requested in writing by a public body to the inspector general, the office of inspector
+14 general may provide management advisory or consulting services to the public body. Any such
+15 request must include the scope of services requested and a schedule for the work to be performed.
+16 42-9.4-19. Civil actions.
+17 (a) The inspector general shall have the authority to institute a civil recovery action, if
+18 authorized by the attorney general. In any case, where the inspector general has discovered
+19 fraudulent acts and believes that civil recovery proceedings may be appropriate, the matter shall be
+20 referred to the attorney general. The attorney general may institute whatever proceedings deemed
+21 appropriate, may refer the matter to another state or local agency, may authorize the initiation of
+22 appropriate civil proceedings by the inspector general, may retain the matter for further
+23 investigation, or may remand the matter back to the inspector general for further investigation.
+24 42-9.4-20. Annual and interim reports.
+25 (a) The office of inspector general shall, no later than April 1 of each year, prepare a written
+26 report summarizing the activities of the office for the prior calendar year. The office may also
+27 prepare interim reports. These reports shall be forwarded to the governor, lieutenant governor,
+28 attorney general, secretary of state, general treasurer and the general assembly, and shall be made
+29 available to the public.
+30 (b) The report shall include, but not be limited to:
+31 (1) A description of significant problems in the areas of fraud, waste and abuse within
+32 programs and operations within the jurisdiction of the office;
+33 (2) A description of the recommendations for corrective action made by the office during
+34 the reporting period with respect to significant deficiencies in the areas of fraud, waste and abuse;
+LC004740 - Page 11 of 28
+
+1 (3) The identification of each significant recommendation described in previous annual
+2 reports on which corrective action has not been completed;
+3 (4) A summary of matters referred to prosecuting authorities and the prosecutions and
+4 convictions which have resulted;
+5 (5) A summary of any matters concerning the recovery of monies as a result of a civil suit
+6 by the office or a referral to another agency for the purposes of such suit; and
+7 (6) A list of all audit reports completed by the office during the reporting period and a
+8 statement of recommendations of amendments to this chapter or the rules, regulations or procedures
+9 governing the office of inspector general which would improve the effectiveness or the operation
+10 of the office.
+11 (c) The head or governing body of each public body may, within sixty (60) days of receipt,
+12 comment upon any references to the public body contained within the report. The comment, if any,
+13 shall be forwarded to the governor, the attorney general, the general assembly and the office of
+14 inspector general.
+15 (d) The report of the inspector general shall be made public on the day of filing; provided,
+16 that the report shall not list the names of individuals or corporations, nor describe them with
+17 sufficient particularity as to readily identify them to the general public in those cases in which no
+18 official disposition has been made by the office of inspector general, the department of the attorney
+19 general or the local office of the United States Attorney.
+20 SECTION 2. Sections 22-13-1, 22-13-2, 22-13-3, 22-13-4, 22-13-9 and 22-13-10 of the
+21 General Laws in Chapter 22-13 entitled "Auditor General" are hereby amended to read as follows:
+22 22-13-1. Appointment — Qualifications — Oath — Bond — Office space — Rules
+23 and regulations.
+24 (a) The auditor general shall be appointed by the joint committee on legislative services,
+25 referred to in this chapter as “the committee.” inspector general and head a division within the
+26 office of the inspector general. At the time of appointment, the auditor general shall have had active
+27 experience in general accounting principles and practices in this state for a total period of at least
+28 five (5) years. Vacancies in the office shall be filled in the same manner as the original appointment.
+29 (b)(1) The committee inspector general shall employ qualified persons necessary for the
+30 efficient operation of the office and shall fix their duties and compensation and those persons shall
+31 be in the unclassified service.
+32 (2) No person shall be employed as an auditor who does not have adequate technical
+33 training and proficiency, and a baccalaureate degree from a college or university, and no person
+34 shall be employed or retained as legal advisor on either a full-time or a part-time basis who is not
+LC004740 - Page 12 of 28
+
+1 a member of the Rhode Island bar.
+2 (c) The auditor general, before entering upon the duties of his or her office, shall take and
+3 subscribe to the oath of office required of state officers by the state constitution.
+4 (d) The auditor general shall be covered by the state’s blanket position bond and
+5 conditioned that he or she will well and faithfully discharge the duties of his or her office; promptly
+6 report any delinquency or shortage discovered in any accounts and records audited by him or her;
+7 and promptly pay over and account for any and all funds that shall come into his or her hands as
+8 auditor.
+9 (e)(1) All auditors employed by the auditor general shall be covered by a blanket position
+10 bond. The bonds or bond shall meet and contain the same conditions as are required in the bond of
+11 the auditor general.
+12 (2) All bonds shall be filed with the committee inspector general. If an auditor is not
+13 covered in the blanket position bond, an individual bond shall be filed within thirty (30) days after
+14 the employee received notice of his or her employment. The amount of the bond shall be determined
+15 by the auditor general. Failure to file an individual bond or to be covered in the blanket position
+16 bond shall terminate his or her employment.
+17 (f) The annual premium of all bonds shall be paid out of any funds provided for the
+18 operation of the office of the inspector general.
+19 (g) The auditor general shall be provided with suitable quarters, but to facilitate auditing
+20 and to eliminate unnecessary traveling, the joint committee on legislative services inspector general
+21 may establish divisions, including a performance investigation division, and assign auditors to each
+22 division and determine their duties and the areas of the state to be served by the respective divisions.
+23 The auditor general shall be provided and furnished with any space that may be necessary to carry
+24 out his or her functions in other areas of the state.
+25 (h) The auditor general may make and enforce reasonable rules and regulations necessary
+26 to facilitate audits and investigations that the joint committee on legislative services inspector
+27 general authorizes the auditor general to perform. This includes the post-audit of the financial
+28 transactions and accounts of the state that is provided for by the finance committee of the house of
+29 representatives.
+30 (i) No full-time employee of the office of auditor general shall serve as an executive,
+31 officer, or employee of any political party committee, organization, or association. Neither the
+32 auditor general nor any employee of the auditor general shall become a candidate for election to
+33 public office unless he or she shall first resign from his or her office or employment.
+34 22-13-2. Termination of appointment.
+LC004740 - Page 13 of 28
+
+1 Failure on the part of the auditor general to perform the mandatory duties under the
+2 direction of the committee inspector general shall constitute cause for termination of appointment.
+3 The appointment of the auditor general may be terminated at any time by a majority vote of the
+4 joint committee on legislative services the inspector general.
+5 22-13-3. Salaries and expenses.
+6 (a) The expenses of the members of the committee shall be approved by the chairperson of
+7 the committee inspector general and paid from the appropriation for legislative expense the office
+8 of the inspector general.
+9 (b) The auditor general shall prepare and annually submit to the committee inspector
+10 general a proposed budget for the ensuing fiscal year. The committee inspector general shall review
+11 the budget request and may amend or change the budget request as it deems necessary. The budget
+12 request, as amended or changed by the committee inspector general, shall become the operating
+13 budget of the auditor general for the ensuing fiscal year; provided, that the budget so adopted may
+14 subsequently be amended under the same procedure.
+15 (c) Within the limitations of the approved operating budget, the salaries and expenses of
+16 the auditor general and his or her staff shall be paid from the appropriation for legislative expense
+17 or any other moneys appropriated by the legislature for that purpose the office of the inspector
+18 general. The joint committee on legislative services inspector general shall approve all bills for
+19 salaries and expenses.
+20 22-13-4. Definitions — Duties of auditor general — Investigations by committee.
+21 (a) The following words and phrases have the following meanings unless a different
+22 meaning is required by the context:
+23 (1) “Performance audit” means an examination of the effectiveness of administration and
+24 its efficiency and adequacy in terms of the program of the state agency authorized by law to be
+25 performed. The “performance audit” may also include a review of the agency in terms of
+26 compliance with federal and state laws and executive orders relating to equal employment
+27 opportunities and the set aside for minority businesses.
+28 (2) “Political subdivision” means a separate agency or unit of local government created or
+29 established by law and includes, but is not limited to, the following and the officers of the following:
+30 authority, board, branch, bureau, city, commission, council, consolidated government, county,
+31 department, district, institution, metropolitan government, municipality, office, officer, public
+32 corporation, town, or village.
+33 (3) “Post-audit” means an audit made at some point after the completion of a transaction
+34 or a group of transactions.
+LC004740 - Page 14 of 28
+
+1 (4) “State agency” means a separate agency or unit of state government created or
+2 established by law and includes, but is not limited to, the following and the officers of the following:
+3 authority, board, branch, bureau, commission, council, department, division, institution, office,
+4 officer, or public corporation, as the case may be, except any agency or unit within the legislative
+5 branch of state government.
+6 (b) The auditor general shall make post-audits and performance audits of public records
+7 and perform related duties as prescribed by the committee inspector general. He or she shall
+8 perform his or her duties independently but under the general policies established by the committee
+9 inspector general.
+10 (c)(1) The auditor general shall have the power and duty to make post-audits and
+11 performance audits of the accounts and records of all state agencies, including the board of
+12 governors for higher education and the board of regents for elementary and secondary education,
+13 as defined in this section.
+14 (2) The auditor general shall have the power, when requested by a majority of the
+15 committee the inspector general, to make post-audits and performance audits of accounts and
+16 records of any other public body or political subdivision, or any association or corporation created
+17 or established by any general or special law of the general assembly, or any person, association, or
+18 corporation to which monies of the state have been appropriated by the general assembly. Nothing
+19 in the subdivision shall be construed to apply to public utilities.
+20 (3) The auditor general shall perform or have performed annually a complete post-audit of
+21 the financial transactions and accounts of the state when approved by the chairperson of the joint
+22 committee on legislative services inspector general.
+23 (d) The committee inspector general may at any time, without regard to whether the
+24 legislature is then in session or out of session, take under investigation any matter within the scope
+25 of an audit either completed or then being conducted by the auditor general, and in connection with
+26 that investigation may exercise the powers of subpoena vested by law in a standing committee of
+27 the legislature the office of the inspector general.
+28 (e)(1) The auditor general may, when directed by the committee inspector general,
+29 designate and direct any auditor employed by him or her to audit any accounts or records within
+30 the power of the auditor general to audit. The auditor shall report his or her findings for review by
+31 the auditor general, who shall prepare the audit report.
+32 (2) The audit report shall make special mention of:
+33 (i) Any violation of the laws within the scope of the audit; and
+34 (ii) Any illegal or improper expenditure, any improper accounting procedures, all failures
+LC004740 - Page 15 of 28
+
+1 to properly record financial transactions, and all other inaccuracies, irregularities, shortages, and
+2 defalcations.
+3 (3) At the conclusion of the audit, the auditor general or his or her designated representative
+4 will conduct an exit conference with the official whose office or department is subject to audit and
+5 submit to him or her a draft report which includes a list of findings and recommendations. If an
+6 official is not available for the exit conference, delivery of the draft report is presumed to be
+7 sufficient notice. The official must submit to the auditor general within sixty (60) days after the
+8 receipt of the draft report his or her written reply as to:
+9 (i) Acceptance and plan of implementation of each recommendation;
+10 (ii) Reason(s) for non-acceptance of a recommendation.
+11 (4) Should the auditor general determine that the written explanation or rebuttal of the
+12 official whose office is subject to audit is unsatisfactory, he or she shall, as soon as practicable,
+13 report his or her findings to the joint committee on legislative services inspector general.
+14 (f) A copy of the audit report shall be submitted to each member of the committee.
+15 (g) If the auditor general discovers any errors, unusual practices, or any other discrepancies
+16 in connection with his or her audit or post-audit of a state agency or state officers, the auditor
+17 general shall, as soon as practicable, notify in writing the president of the senate and the speaker of
+18 the house of representatives, respectively.
+19 (h) The auditor general shall annually review the capital development program to
+20 determine: (1) the status of all projects included in the program; (2) whether the funds are being
+21 properly expended for their intended purposes; (3) the completion date or projected completion
+22 date of the projects; (4) which projects require professional services and to determine the identity
+23 of individuals or firms appointed; and (5) the expended and unexpended funds. This report shall be
+24 annually submitted to the general assembly on the first Wednesday in February.
+25 (i) The auditor general shall supervise, coordinate, and/or conduct investigations and
+26 inspections or oversight reviews with the purpose of preventing and detecting fraud, waste, abuse
+27 and mismanagement in the expenditure of public funds.
+28 22-13-9. Access to executive sessions of a public agency — Access to records —
+29 Disclosure by the auditor general.
+30 (a) Whenever a public agency goes into executive session, the auditor general or his or her
+31 designated representative shall be permitted to attend the executive session or if the auditor general
+32 or his or her designee is not in attendance at the executive session, the auditor general or his or her
+33 designee, upon written request, shall be furnished with copies of all data or materials furnished to
+34 the members of the public agency at the executive session. If the auditor general or his or her
+LC004740 - Page 16 of 28
+
+1 designee attends the executive session, the auditor general shall be furnished the same data in the
+2 same form and at the same time as members of the public agency.
+3 (b) Within three (3) working days of a written request by the auditor general, the public
+4 agency shall furnish a copy, whether approved by the agency or not, of the minutes of any meeting,
+5 including any executive session of the public agency.
+6 (c) The auditor general shall have full and unlimited access to any and all records of any
+7 public agency, in whatever form or mode the records may be, unless the auditor general’s access
+8 to the records is specifically prohibited or limited by federal or state law. In no case shall any
+9 confidentiality provisions of state law be construed to restrict the auditor general’s access to the
+10 records; provided, the auditor general’s access to any confidential data shall not in any way change
+11 the confidential nature of the data obtained. Where an audit or investigative finding emanates from
+12 confidential data, specific confidential information will not be made public. The records shall
+13 include those in the immediate possession of a public agency as well as records which the agency
+14 itself has a right to. In the event of a dispute between the agency involved and the auditor general
+15 as to whether or not the data involved are confidential by law, the matter will be referred to the
+16 attorney general for resolution.
+17 (d)(1) If in the course of an executive session any fact comes to the attention of the auditor
+18 general or his or her designated representative, which in his or her judgment constitutes an
+19 impropriety, irregularity, or illegal transaction, or points to the onset of an impropriety or illegal
+20 transaction, then the auditor general shall disclose that information to the joint committee on
+21 legislative services inspector general, the director of administration, and the chairperson of the
+22 public agency involved. Where the facts or the data upon which the facts are based are deemed
+23 confidential pursuant to the provisions of federal or state law, the auditor general’s access to the
+24 information shall not in any way change the confidential nature of the data obtained.
+25 (2) In the event of a dispute between the agency involved and the auditor general as to
+26 whether or not the data involved are confidential by law, the matter will be referred to the attorney
+27 general for resolution.
+28 (e) The auditor general or his or her designated representative shall be immune from any
+29 liability to any party for claims arising out of disclosure authorized by this section.
+30 (f) For the purposes of this section, the phrase “public agency” shall include the following:
+31 the Rhode Island industrial building authority, the Rhode Island recreational building authority, the
+32 Rhode Island commerce corporation, the Rhode Island industrial facilities corporation, the Rhode
+33 Island refunding bond authority, the Rhode Island housing and mortgage finance corporation, the
+34 Rhode Island resource recovery corporation, the Rhode Island public transit authority, the Rhode
+LC004740 - Page 17 of 28
+
+1 Island student loan authority, the water resources board, the Rhode Island health and educational
+2 building corporation, the Rhode Island turnpike and bridge authority, the Narragansett Bay
+3 commission, the convention center authority, their successors and assigns, and any other body
+4 corporate and politic which has been or which is subsequently created or established within this
+5 state.
+6 22-13-10. Audit of information security systems.
+7 (a) The general assembly recognizes that the security of government computer systems is
+8 essential to ensuring the stability and integrity of vital information gathered and stored by
+9 government for the benefit of the citizenry and the breach of security over computer systems
+10 presents a risk to the health, safety, and welfare of the public. It is the intent of the legislature to
+11 insure that government computer systems and information residing on these systems are protected
+12 from unauthorized access, compromise, sabotage, hacking, viruses, destruction, illegal use, cyber
+13 attack or any other act which might jeopardize or harm the computer systems and the information
+14 stored on them.
+15 (b) In conjunction with the powers and duties outlined in this chapter, the auditor general
+16 may conduct reviews and assessments of the various government computer systems and the security
+17 systems established to safeguard these computer systems. Computer systems subject to this section
+18 shall include systems which pertain to federal, state, or local programs, and quasi-governmental
+19 bodies, and the computer systems of any entity or program which is subject to audit by the office
+20 of the auditor general. The auditor general’s review may include an assessment of system
+21 vulnerability, network penetration, potential security breaches, and susceptibility to cyber attack
+22 and cyber fraud.
+23 (c) In the event the review by the auditor general indicates a computer system is vulnerable,
+24 or security over the system is lacking, those findings shall not be disclosed publicly and shall not
+25 be considered public records. Notwithstanding any other provision of law to the contrary, the
+26 workpapers developed in connection with the review of the computer system and the security over
+27 the system shall not be deemed public records and are not subject to disclosure. The auditor
+28 general’s findings may be disclosed at the discretion of the auditor general to the chief information
+29 officer of the state as well as the joint committee on legislative services inspector general. Unless
+30 the auditor general authorizes the release of information or findings gathered in the conduct of a
+31 review of computer system security, all such information shall be deemed classified, confidential,
+32 secret, and non-public.
+33 (d) In order to maintain the integrity of the computer system, the auditor general may
+34 procure the services of specialists in information security systems or other contractors deemed
+LC004740 - Page 18 of 28
+
+1 necessary in conducting reviews under this section, and in procuring those services shall be exempt
+2 from the requirements of the state purchasing law or regulation.
+3 (e) Any outside contractor or vendor hired to provide services in the review of the security
+4 of a computer system shall be bound by the confidentiality provisions of this section.
+5 SECTION 3. Chapter 35-7.1 of the General Laws entitled "The Office of Internal Audit
+6 and Program Integrity" is hereby repealed in its entirety.
+7 CHAPTER 35-7.1
+8 The Office of Internal Audit and Program Integrity
+9 35-7.1-1. Establishment of office of internal audit and program integrity.
+10 (a) There is hereby established within the office of management and budget an office of
+11 internal audit and program integrity. Within the office of internal audit and program integrity, there
+12 shall be a chief, appointed by the director of administration, who shall be the administrative head
+13 of the office. The person so selected to be the chief shall be selected without regard to political
+14 affiliation and with a demonstrated ability in the following areas: accounting, auditing, financial
+15 analysis, investigation, management analysis, and public administration. The office of internal
+16 audit and program integrity will report to the office of management and budget director. Any
+17 reference in general law to the “bureau of audits” or “office of internal audit” shall mean the office
+18 of internal audit and program integrity.
+19 (b) The purpose of the office is to prevent and detect fraud, waste, abuse, and
+20 mismanagement in the expenditure of public funds including:
+21 (1) All state programs and operations;
+22 (2) The procurement of any supplies, services, or construction by state agencies, bureaus,
+23 divisions, sections, departments, offices, commissions, institutions, and activities of the state; and
+24 (3) The procurement or expenditure of public funds by organizations or individuals.
+25 (c) The chief of the office of internal audit and program integrity shall not hold, or be a
+26 candidate for, any elective or any other appointed public office while a chief. No current chief shall
+27 hold a position in any political party or political committee, or, aside from voting, actively engage
+28 in the political campaign of any candidate for public office that may cause a real or perceived
+29 conflict of interest, or participate as a board member of any entity that receives state or federal
+30 funding.
+31 (d) No employee of the office of internal audit and program integrity shall hold, or be a
+32 candidate for, any elective public office while an employee, nor shall they hold a position in any
+33 political party or political committee or, aside from voting, actively engage in a political campaign
+34 of any candidate for public office that may cause a real or perceived conflict of interest, or
+LC004740 - Page 19 of 28
+
+1 participate as a board member of any not for profit entity that receives state or federal funding.
+2 (e) The office of internal audit and program integrity is authorized to conduct audits of any
+3 state department, state agency, or private entity that is a recipient of state funding or state grants.
+4 In addition, the office of internal audit and program integrity is authorized, but not limited to,
+5 evaluating the efficiency of operations and internal controls, preventing and detecting fraud, waste,
+6 abuse, or mismanagement in the expenditure of public funds, whether federal, state, or local, that
+7 are related to any and all state programs and operations as well as the procurement of any goods,
+8 services, or construction, by public bodies. As deemed necessary or expedient by the office of
+9 internal audit and program integrity, audits may be made relative to the financial affairs or the
+10 economy and efficiency of management of each department, agency, or public body. The office of
+11 internal audit and program integrity shall determine which such audits shall be performed in
+12 accordance with a risk-based evaluation.
+13 (f) “Public body” or “public bodies” under this chapter shall mean state agencies, bureaus,
+14 divisions, departments, offices, commissions, boards, institutions, including the public institutions
+15 of higher education, districts, authorities, quasi-agencies, or political subdivisions created by the
+16 general assembly, or the governor. “Public body” shall also include any city and town within the
+17 state of Rhode Island but municipal audits under this chapter shall only cover the expenditure of
+18 state or federal funds distributed by the state. Audits and investigations of public bodies may
+19 include the expenditures by nongovernmental agencies of federal, state, and local public funds.
+20 35-7.1-2. Duties.
+21 (a) The chief of internal audit and program integrity shall supervise, coordinate, and/or
+22 conduct audits, civil and administrative investigations, and inspections or oversight reviews, when
+23 necessary, relating to expenditure of state or federal funds, or to any and all state programs and
+24 operations, as well as the procurement of any supplies, services, or construction, by public bodies.
+25 In the course of an audit or investigation, the office of internal audit and program integrity shall
+26 review statutes and regulations of the public body and shall determine if such a public body is in
+27 compliance and shall make recommendations concerning the efficiency of operations, and the
+28 effect of such statutes or regulations on internal controls and the prevention and detection of fraud,
+29 waste, and abuse. The chief of internal audit and program integrity may recommend policies or
+30 procedures that may strengthen internal controls, or assist in the prevention or detection of fraud,
+31 waste, and abuse or mismanagement.
+32 (b) The person, or persons, with legal authority for any public body may request the
+33 assistance of the office of internal audit and program integrity. Any such request must include the
+34 scope of services requested and the work to be performed. In such events, the chief, with the
+LC004740 - Page 20 of 28
+
+1 approval of the director of management and budget, may assign personnel to conduct, supervise,
+2 or coordinate such activity as deemed necessary and appropriate to perform their duties in a diligent
+3 and prudent manner. The expenses for any such assistance requested by the public body shall be
+4 reimbursed by the public body to the office of internal audit and program integrity. The chief may
+5 recommend policies for the conduct, supervision, or coordination of the relationship, between state
+6 and other state, local governmental agencies as well as federal governmental agencies and
+7 nongovernmental entities with respect to all matters relating to the prevention and detection of
+8 fraud, waste, abuse, or mismanagement in or relating to any and all programs and activities of the
+9 state of Rhode Island.
+10 (c) When it is determined by the office of internal audit and program integrity that an audit
+11 is necessary because there is sufficient evidence to believe that there may have been fiscal
+12 impropriety, wrongdoing, or fiscal mismanagement by any agent, employee, board member, or
+13 commissioner of any public body, the office of internal audit and program integrity may conduct a
+14 forensic examination of such entity. All costs associated with the forensic examination shall be
+15 paid, as deemed appropriate, either by the examined entity or by an appropriation by the general
+16 assembly. Such costs shall include, but not be limited to, the following expenses:
+17 (1) One hundred percent (100%) of the total salaries and benefits paid to the examining
+18 personnel of the office of internal audit and program integrity engaged in those examinations;
+19 (2) All costs associated with the procurement of a forensic consultant;
+20 (3) All costs associated with a consultant that provides expertise pertinent to the examinee’s
+21 operations;
+22 (4) All reasonable administrative and technology costs related to the forensic examination
+23 process. Technology costs shall include the actual cost of software and hardware utilized in the
+24 examination process and the cost of training examination personnel in the proper use of the software
+25 and hardware.
+26 (d) The chief of internal audit and program integrity, or their designee, may investigate
+27 reports of any person who, either prior to, or at the time of, or subsequent to the application for
+28 public assistance:
+29 (1) Willfully makes a false statement or misrepresentation;
+30 (2) Impersonates someone else;
+31 (3) Willfully fails to disclose a material fact regarding eligibility or other fraudulent means;
+32 or
+33 (4) Secures, aids, or abets, or attempts to secure, aid, or abet, others in securing public
+34 assistance (including Supplemental Nutrition Assistance Program (SNAP) or Medicaid) through
+LC004740 - Page 21 of 28
+
+1 fraudulent actions.
+2 (e) The chief of internal audit and program integrity, or their designee, is authorized to:
+3 (1) Coordinate, conduct, and/or support investigations aimed at preventing and detecting,
+4 fraud, waste, abuse, and mismanagement in public assistance programs;
+5 (2) Coordinate and support state and local efforts to investigate and eliminate fraud in
+6 public assistance programs;
+7 (3) Work to recover both state and federal funds related to fraudulent activities.
+8 (f) In the course of these investigations, the office of internal audit and program integrity
+9 shall collaborate with local law enforcement agencies, the Rhode Island department of human
+10 services, the Rhode Island state police, the Rhode Island attorney general, or other local, state, and
+11 federal entities as needed to complete the investigations.
+12 (g) The office shall identify methods to implement innovative technology and data sharing
+13 in order to detect, analyze, and prevent fraud, waste, and abuse.
+14 35-7.1-3. Investigations or management advisory and consulting services upon
+15 request of governor or general assembly.
+16 The office of internal audit and program integrity may, upon the written request of the
+17 governor or of the general assembly, conduct audits, provide management advisory and consulting
+18 services, or conduct investigations relative to the financial affairs or the economy and efficiency of
+19 management, or both, of any public bodies as defined in § 35-7.1-1(f). The office of internal audit
+20 and program integrity may, from time to time, make such investigations and additional reports to
+21 the governor, the director of the department of administration, the director of the office of
+22 management and budget, and the general assembly as deemed necessary or advisable.
+23 35-7.1-4. Management advisory and consulting services provided to public bodies.
+24 When requested in writing by a public body to the chief, the office of internal audit and
+25 program integrity may provide management advisory or consulting services to the public body.
+26 Any such request must include the scope of services requested and a schedule for the work to be
+27 performed.
+28 35-7.1-5. Persons authorized to conduct audits — Reports of irregularities.
+29 Any qualified person duly authorized by the director of management and budget to act as
+30 auditor may examine the books, papers, and documents of any public body having control of state
+31 or federal funds, and if the audit discloses any irregularities or improper handling of records or
+32 funds, the auditor shall report the same to the chief who shall, in turn, report such findings and
+33 recommendations to the director of management and budget, who shall further report to the director
+34 of administration.
+LC004740 - Page 22 of 28
+
+1 35-7.1-6. Inspection of records, papers, and witness testimony — Investigations and
+2 subpoenas.
+3 (a) The chief, in carrying out the duties outlined in this chapter, shall have access to all
+4 records, reports, audits, reviews, papers, books, documents, recommendations, correspondence,
+5 including information relative to the purchase of goods or services or anticipated purchase of goods
+6 or services, from any agent, contractor, or vendor by any public body, as defined in § 35-7.1-1(f),
+7 and any other data and material that is maintained by or available to any public body regardless of
+8 the media in which it is maintained which is in any way related to the programs and operations with
+9 respect to public bodies.
+10 (b) The chief may request information and records, cooperation, and assistance from any
+11 state or local governmental agency as may be necessary for carrying out the chief’s duties and
+12 responsibilities. Upon receipt of such request, each person in charge of the public body shall furnish
+13 to the chief, or the chief’s authorized agent or representative, such information and records,
+14 cooperation and assistance, including information relative to the purchase of goods or services or
+15 anticipated purchase of goods or services from any contractor or vendor by any public body, within
+16 ten (10) business days of receipt of the chief’s request. If the public body is unable to comply with
+17 the request for records and/or information within (10) business days, the public body must notify
+18 the chief, prior to the expiration of the ten (10) business days, in writing as to the reason, or reasons,
+19 why the request cannot be fulfilled within this time and whether additional time is necessary.
+20 (c) The chief may initiate and conduct audits, investigations, and compliance reviews and
+21 shall prepare detailed findings, conclusions, and recommendations concerning the administration
+22 of programs or operations, and internal controls over processes of public bodies.
+23 (d) The chief shall have direct and prompt access to any public body, its agents, officers,
+24 and employees when necessary for any purpose pertaining to the performance of the chief’s duties
+25 and responsibilities under this chapter.
+26 (e) In furtherance of carrying out any of the duties of this chapter, the chief may request,
+27 with the written approval of the director of the department of administration and through an
+28 administrative subpoena, the attendance and testimony of witnesses and the production of books,
+29 records, and other evidence relevant to an active fraud investigation as described in this chapter.
+30 The subpoena shall specify the time, date, and place where the witness is to respond. Within twenty
+31 (20) days after the service of the subpoena or at any time before the return date specified in the
+32 subpoena, whichever period is shorter, the person served may file in a state superior court and serve
+33 upon the unit and the attorney general a civil petition for an order of the court modifying or setting
+34 aside the subpoena. The petition shall specify each ground upon which the petitioner is seeking
+LC004740 - Page 23 of 28
+
+1 relief. If a person neglects or refuses to comply with any request to provide testimony or produce
+2 books, records, and other evidence relevant to an investigation, the office of internal audit and
+3 program integrity or the attorney general may petition the superior court for an order compelling
+4 the person to answer the request. Books, records, and other evidence obtained through an
+5 administrative subpoena that are not used in a court proceeding shall be destroyed as soon as
+6 practicable.
+7 35-7.1-7. Complaint — Investigation.
+8 (a) The chief shall accept and may investigate or audit complaints or information from any
+9 identified individual concerning the possible existence of any activity constituting fraud, waste,
+10 abuse, or mismanagement relating to programs and operations of public bodies.
+11 (b) The chief shall not, after receipt of a complaint or information from an employee,
+12 contractor, or private citizen who requests confidentiality, disclose the identity of that individual,
+13 without the written consent of said individual, unless the chief determines such disclosure is
+14 necessary and unavoidable during the course of an investigation. In such event, the individual filing
+15 the complaint shall be notified, if possible, immediately of such disclosure.
+16 (c) Employees are protected under the chapter 50 of title 28 “Rhode Island Whistleblowers’
+17 Protection Act.”
+18 35-7.1-8. Reports to the state police.
+19 In carrying out the chief’s duties and responsibilities, the chief shall report to the Rhode
+20 Island state police whenever the chief has reasonable grounds to believe there has been a violation
+21 of federal or state criminal law. The chief shall also refer findings to the state ethics commission,
+22 or to any other federal, state, or local agency with an interest in said findings, in the discretion of
+23 the chief. Any referrals made under this section shall not be made public by the office of internal
+24 audit and program integrity.
+25 35-7.1-9. Coordination with other state agencies.
+26 The chief may coordinate with other state agencies that are responsible for investigating,
+27 auditing, reviewing, or evaluating the management of public bodies for the purpose of sharing
+28 information and avoiding duplication of effort.
+29 35-7.1-10. Audit and annual reports.
+30 (a) The office of internal audit and program integrity shall prepare an annual report
+31 summarizing the activities of the office of internal audit and program integrity for the prior fiscal
+32 year. The office of internal audit and program integrity may also prepare interim performance
+33 reports. These reports shall be presented to the director of management and budget. The annual
+34 reports shall be posted on the office’s website.
+LC004740 - Page 24 of 28
+
+1 (b) The annual report shall include, but not be limited to: a general description of significant
+2 problems in the areas of efficiencies, internal controls, fraud, waste, and abuse within programs
+3 and operations within the jurisdiction of the office; a general description of the recommendations
+4 for corrective actions made by the office during the reporting period with respect to significant
+5 deficiencies in the areas of efficiencies, internal controls, fraud, waste, and abuse; the identification
+6 of each significant recommendation described in previous annual reports on which corrective action
+7 has not been completed; a summary of matters referred to prosecuting authorities; a summary of
+8 any matters concerning the recovery of monies as a result of an audit finding or civil suit or a
+9 referral to another agency for the purposes of such suit; a list of all audit reports completed by the
+10 office during the reporting period; and a statement of recommendations of amendment to this
+11 chapter or the rules, regulations, or procedures governing the office of internal audit and program
+12 integrity that would improve the effectiveness or the operations of the office.
+13 (c) The annual report of the office of internal audit and program integrity shall be made
+14 public on the day of filing.
+15 (d) At the conclusion of each formal audit, the office of internal audit and program integrity
+16 shall produce an audit report which contains, but is not limited to, the scope of the audit, findings,
+17 and recommendations. Within twenty (20) calendar days following the date of the issuance of the
+18 management-response copy of the draft audit report, the head of the department, agency, public
+19 body, or private entity audited shall respond, in writing, to each recommendation made in the audit
+20 report. This response shall address the department’s, agency’s, or public body’s or private entity’s
+21 plan of corrective action, the party responsible to implement the corrective action plan, and the
+22 anticipated date to complete the implementation of the corrective action; and, if applicable, the
+23 reasons for disagreement with any recommendation proposed in the audit report and justification
+24 of management’s acceptance of risk. The office of internal audit and program integrity may perform
+25 follow-up procedures for the purpose of determining whether the department, agency, public body,
+26 or private entity has implemented, in an efficient and effective manner, its plan of correction action
+27 for the recommendations proposed in the audit report or addressed the risk discussed in the audit
+28 report.
+29 (e) Copies of each audit report, inclusive of management’s responses noted in subsection
+30 (d) shall be submitted to the chairpersons of the house finance committee, and the senate finance
+31 committee and posted on the office’s website.
+32 35-7.1-11. Civil actions.
+33 The chief of the office of internal audit and program integrity shall have the authority to
+34 initiate civil recovery actions. In any case where the office of internal audit and program integrity
+LC004740 - Page 25 of 28
+
+1 has discovered fraudulent acts and believes that civil recovery proceedings may be appropriate, the
+2 chief may authorize the initiation of appropriate civil proceedings or refer the case to the
+3 appropriate state agency for civil recovery.
+LC004740 - Page 26 of 28
+
+1 SECTION 4. This act shall take effect upon passage.
+========
+LC004740
+========
+LC004740 - Page 27 of 28
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- INSPECTOR GENERAL
+***
+1 This act would establish the office of inspector general as an independent administrative
+2 agency charged with the responsibility to investigate, detect, and prevent fraud, waste, abuse, and
+3 mismanagement in the expenditure of public funds. This act would merge the auditor general and
+4 office of internal audit and program integrity into the office of inspector general.
+5 This act would take effect upon passage.
+========
+LC004740
+========
+LC004740 - Page 28 of 28

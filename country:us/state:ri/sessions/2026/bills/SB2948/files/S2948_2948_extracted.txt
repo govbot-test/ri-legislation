@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - 2948
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2948
+========
+LC005839
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SUSPENSION OR REVOCATION OF
+LICENSES -- VIOLATIONS
+Introduced By: Senators LaMountain, Dimitri, and Bissaillon
+Date Introduced: March 04, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 31-11-7 of the General Laws in Chapter 31-11 entitled "Suspension
+2 or Revocation of Licenses — Violations" is hereby amended to read as follows:
+3 31-11-7. Authority of division of motor vehicles to suspend license.
+4 (a)(1) The division of motor vehicles is authorized to suspend the license of an operator or
+5 chauffeur without preliminary hearing upon a showing by its records or other sufficient evidence
+6 that the licensee:
+7 (i) Has been adjudicated by a court of competent jurisdiction to have:
+8 (A) Committed an offense for which mandatory revocation or suspension of license is
+9 required upon conviction or adjudication;
+10 (B) Committed with such frequency of offenses against traffic regulations governing the
+11 movement of vehicles as to indicate a disrespect for traffic laws and a disregard for the safety of
+12 other persons on the highways;
+13 (C) Been a reckless or negligent driver of a motor vehicle;
+14 (D) Permitted an unlawful or fraudulent use of a license;
+15 (E) Committed an offense in another state which, if committed in this state, would be
+16 grounds for suspension or revocation;
+17 (F) Committed any offense enumerated in § 31-9-1;
+18 (ii) Is the subject of an order issued pursuant to § 14-1-67; or
+
+1 (iii) Poses an imminent safety risk to the general public as determined by the application
+2 of objectively ascertainable standards.
+3 (2) The medical advisory board of the division of motor vehicles is authorized to suspend
+4 the license of an operator or chauffeur upon a showing by its records or other sufficient evidence
+5 that the operator poses an imminent safety risk to the general public pursuant to § 31-10-44.
+6 (2)(3) Except for paragraph (1)(ii) of this subsection, the suspension shall be for any length
+7 of time, not exceeding one year, that the division of motor vehicles shall determine is necessary in
+8 order to protect public safety based upon its findings of the circumstances under which the offense
+9 was committed, the likelihood of recurrence, and the deterrent effect that might reasonably be
+10 expected to result from the hardship a suspension or prospective suspension would entail. Any
+11 license suspended pursuant to paragraph (1)(ii) of this subsection shall be for the length of time set
+12 forth in the court order.
+13 (b) Upon suspending the license of any person as authorized by subsection (a) of this
+14 section, the division of motor vehicles shall immediately notify the licensee in writing of the factual
+15 and legal basis for the suspension, the procedure for requesting a hearing, and the rights afforded
+16 the individual pursuant to subsections (d) — (f) of this section. When physical or mental fitness is
+17 the basis for the suspension determination, the notice shall reference the specific functional
+18 standard promulgated pursuant to § 31-10-44(b), which was relied upon by the division of motor
+19 vehicles. Upon his or her request the division of motor vehicles shall afford the licensee an
+20 opportunity for a hearing as early as practical and no later than twenty (20) days after receipt of the
+21 request.
+22 (c) Except as authorized in subsection (a) of this section, whenever the division of motor
+23 vehicles proposes to suspend the license of any person, the division of motor vehicles shall afford
+24 a hearing to the licensee prior to suspending the person’s license. When a licensee requests a
+25 hearing, no action to suspend his or her license shall be taken until a hearing decision has been
+26 rendered in accordance with subsections (d) — (f) of this section. The division of motor vehicles
+27 shall notify the licensee in writing of the factual and legal basis for the proposed suspension, the
+28 procedure for requesting a hearing, and the rights afforded the individual pursuant to subsections
+29 (d) — (f) of this section. When physical or mental fitness is the basis for the suspension
+30 recommendation, the notice shall reference the specific functional standard promulgated pursuant
+31 to § 31-10-44(b), which was relied upon by the division of motor vehicles.
+32 (d) The division of motor vehicles shall ensure that the hearing procedures afforded
+33 pursuant to subsection (b) and (c) of this section provide for: (1) an in person hearing before an
+34 impartial decision-maker; (2) the opportunity to compel the production of documents and
+LC005839 - Page 2 of 5
+
+1 witnesses, including members of the division of motor vehicles ’s Medical Advisory Board; (3) the
+2 opportunity to confront and cross-examine witnesses; (4) access to all of the evidence upon which
+3 the division of motor vehicles relied in making its determination to suspend; and (5) the right to
+4 present any and all relevant evidence including the right to obtain and present the results of a
+5 recently administered road test. During any hearing, the division of motor vehicles shall bear the
+6 burden of proof as to the existence of the grounds for the suspension. The division of motor vehicles
+7 shall further ensure that during a hearing to determine the physical or mental fitness of a licensee,
+8 proof of the lack of physical or mental fitness shall be by clear and convincing evidence. The
+9 presumption of inability to operate a motor vehicle with safety established by the functional
+10 standards promulgated pursuant to § 31-10-44(b), shall be rebuttable by evidence that
+11 notwithstanding an individual’s functional limitation, he or she is able to safely operate a motor
+12 vehicle.
+13 (e) For the purpose of the hearing procedures described in subsection (d) of this section,
+14 the administrator of the division of motor vehicles or his or her duly authorized agent may
+15 administer oaths and may issue subpoenas for the attendance of witnesses and the production of
+16 relevant books and papers, and may require a reexamination of the licensee.
+17 (f) After the hearing conducted pursuant to subsection (d) of this section, the division of
+18 motor vehicles shall issue a written decision based solely on the evidence adduced at the hearing
+19 and containing the legal and factual basis for the determination. The division of motor vehicles may
+20 either rescind its order of suspension, determine suspension is not warranted; may continue,
+21 modify, or extend the suspension of the license; or may revoke the license.
+22 SECTION 2. Section 31-10-44 of the General Laws in Chapter 31-10 entitled "Operators’
+23 and Chauffeurs’ Licenses" is hereby amended to read as follows:
+24 31-10-44. Medical advisory board.
+25 (a) There shall be established within the division of motor vehicles a medical advisory
+26 board to function solely as an advisory panel to the administrator of the division of motor vehicles
+27 on the subjects of physical and mental fitness standards for licensure to operate a motor vehicle and
+28 eligibility standards for disability parking privileges. When any person’s eligibility or continuing
+29 eligibility for a license is questioned on the grounds of physical or mental fitness, the administrator
+30 of the division of motor vehicles may consult with relevant specialist members of the medical
+31 advisory board in determining that person’s qualifications to operate a motor vehicle. The
+32 administrator of the division of motor vehicles may also consult with relevant specialist members
+33 of the medical advisory board in making determinations of eligibility for disability parking
+34 privileges. If ordered by a court of competent jurisdiction, the medical advisory board shall permit
+LC005839 - Page 3 of 5
+
+1 the continued use of an ignition interlock system and may also order substance use counseling.
+2 (b) In accordance with chapter 35 of title 42, the administrator of the division of motor
+3 vehicles shall establish by regulations functional standards for determining physical and mental
+4 fitness for motor vehicle licensure. The promulgated standards will be based on current medical
+5 knowledge and objective data regarding fitness to safely operate motor vehicles, and will conform
+6 to the requirements of the Americans With Disabilities Acts and chapter 87 of title 42. In
+7 developing those functional standards the administrator of the division of motor vehicles shall
+8 consult with knowledgeable health and rehabilitation professionals including the Medical Society
+9 of Rhode Island and the medical advisory board.
+10 (c) The medical board shall consist of a physician in general practice, a neurologist, a
+11 psychiatrist, an optometrist, and an orthopedic physician who shall be appointed by the governor;
+12 a physician from the Rhode Island department of health designated by the director of health who
+13 shall serve ex officio; and two (2) members of the general public approved by the governor, one of
+14 whom shall be representative of the elderly, and one of whom shall be representative of the people
+15 who are disabled. These members shall be appointed for a period of three (3) years.
+16 (d) Any physician or optometrist who diagnoses a physical or mental condition which in
+17 the physician’s or optometrist’s judgment will significantly impair the person’s ability to operate
+18 safely a motor vehicle may voluntarily report the person’s name and other information relevant to
+19 the condition to the medical advisory board within the division of motor vehicles.
+20 (e) Any physician or optometrist reporting in good faith and exercising due care shall have
+21 immunity from any liability, civil or criminal, that otherwise might result by reason of his or her
+22 actions pursuant to this section. No cause of action may be brought against any physician or
+23 optometrist for not making a report pursuant to this section.
+24 (f) For the purposes of this section, a “physician” is any person practicing medicine
+25 requiring a license pursuant to chapter 37 of title 5, and an “optometrist” is any person as defined
+26 in § 5-35-1.
+27 (g) Members of the medical board shall not be compensated for their services on the board.
+28 They shall meet at the request of the administrator of the division of motor vehicles at a time
+29 convenient to them.
+30 SECTION 3. This act shall take effect upon passage.
+========
+LC005839
+========
+LC005839 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SUSPENSION OR REVOCATION OF
+LICENSES -- VIOLATIONS
+***
+1 This act would allow the medical advisory board of the division of motor vehicles to
+2 suspend the license of an operator or chauffeur upon a showing by its records or other sufficient
+3 evidence that the operator poses an imminent safety risk to the general public pursuant to § 31-10-
+4 44. Additionally this act would authorize the medical advisory board within the division of motor
+5 vehicles to order an operator to continue to use an ignition interlock system and order substance
+6 use counseling.
+7 This act would take effect upon passage.
+========
+LC005839
+========
+LC005839 - Page 5 of 5

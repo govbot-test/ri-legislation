@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - 7187
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7187
+========
+LC004118
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- BENEFIT DETERMINATION AND UTILIZATION
+REVIEW ACT
+Introduced By: Representatives Edwards, Bennett, Potter, Carson, Fogarty, and Casimiro
+Date Introduced: January 21, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 27-18.9 of the General Laws entitled "Benefit Determination and
+2 Utilization Review Act" is hereby amended by adding thereto the following section:
+3 27-18.9-17. Utilization review decisions.
+4 (a) A utilization review decision shall not retrospectively deny coverage for healthcare
+5 services provided to a covered person, when prior approval has been obtained from the insurer or
+6 its designee for those services, unless the approval was based upon fraudulent, materially
+7 inaccurate, or misrepresented information submitted by the covered person, authorized person, or
+8 the provider.
+9 (b) For health benefit plans issued or renewed on or after January 1, 2027, an insurer shall
+10 not require or conduct a prospective or concurrent review for a prescription medicine:
+11 (1) That is used in the treatment of alcohol or opioid use disorder;
+12 (2) That contains Methadone, Buprenorphine or Naltrexone; or
+13 (3) That was approved before January 1, 2027, by the United States Food and Drug
+14 Administration for the mitigation of opioid withdrawal symptoms.
+15 (c) In conducting utilization reviews for Medicaid benefits, each Medicaid managed care
+16 organization shall use the medical necessity criteria selected by the Rhode Island division of
+17 insurance for making determinations of medical necessity and clinical appropriateness pursuant to
+18 the utilization review plan.
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC004118
+========
+LC004118 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- BENEFIT DETERMINATION AND UTILIZATION
+REVIEW ACT
+***
+1 This act would prohibit healthcare insurers from requiring or conducting a review for
+2 prescription medicine that is used in the treatment of alcohol or opioid use disorder, that contains
+3 Methadone, Burenorphine, or Naltrexone or that was approved for the mitigation of opioid
+4 withdrawal symptoms, commencing January 1, 2027.
+5 This act would take effect upon passage.
+========
+LC004118
+========
+LC004118 - Page 3 of 3

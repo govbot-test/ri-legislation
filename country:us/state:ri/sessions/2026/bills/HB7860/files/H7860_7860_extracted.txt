@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - 7860
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7860
+========
+LC005386
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- FIRE INSURANCE POLICIES AND RESERVES
+Introduced By: Representative Stephen M. Casey
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 27-5 of the General Laws entitled "Fire Insurance Policies and
+2 Reserves" is hereby amended by adding thereto the following section:
+3 27-5-3.10. Minimum limitations standards for structural property claims --
+4 Disclosures -- Void contractual shortening -- Claim closure restrictions.
+5 (a) Applicability. This section applies to any claim, including claims asserted by an insured,
+6 claimant, beneficiary, or assignee, for loss of or damage to real property, structures, buildings,
+7 dwellings, improvements to real property, or any part thereof, arising under any property insurance
+8 policy issued, delivered, renewed, or in effect in this state, including surplus lines policies.
+9 (b) Minimum limitations standards; voidness. No policy provision, endorsement,
+10 condition, limitation, agreement, discount, premium credit, or other consideration shall shorten the
+11 time within which an insured, beneficiary, claimant, or assignee may pursue benefits, invoke
+12 appraisal, or commence an action or otherwise assert a right to payment or performance, including
+13 any right to supplemental payment, reopened claim benefits, or additional benefits for the same
+14 occurrence, to recover amounts due, to less than the minimum limitations standards established by
+15 this section and §§ 27-5-3, 27-5-9.1, and 9-1-13(a), as applicable. Any such provision or attempt is
+16 void and unenforceable as against public policy.
+17 (c) Fire or lightning claims. Claims caused by fire or lightning shall not be limited to a
+18 period shorter than twenty-four (24) months next after inception of the loss as provided in § 27-5-
+19 3. For purposes of this subsection, “inception of the loss” means the first day on which direct
+
+1 physical damage caused by fire or lightning was discovered or reasonably should have been
+2 discovered.
+3 (d) All other structural property damage claims. For any claim for loss of or damage to real
+4 property, structures, buildings, dwellings, or improvements to real property arising from any peril
+5 or cause other than fire or lightning, the minimum limitations period shall be ten (10) years next
+6 after inception of the loss, consistent with § 9-1-13(a), unless a shorter limitations period is
+7 expressly provided by statute. For progressive, hidden, or intermittent damage, “inception of the
+8 loss” means the first day on which the direct physical damage was discovered or in the exercise of
+9 reasonable diligence should have been discovered.
+10 (e) Payments; claim closure; restrictive legends prohibited. No insurer, and no person or
+11 entity acting directly or indirectly on behalf of or at the direction of an insurer, shall state, imply,
+12 or represent that a claim is closed, satisfied, settled in full, paid in full, or otherwise extinguished,
+13 or that any right or benefit is waived, by reason of including, but not limited to, any payment, partial
+14 payment, claim-file status designation, internal notation, payment instrument legend, restrictive
+15 endorsement, or other unilateral act, absent a formal written release executed pursuant to chapter
+16 9.1 of title 27 (“unfair claims settlement practices act”) and executed by the claimant or insured,
+17 witnessed by at least one disinterested adult witness, and notarized by a notary who is not an
+18 employee, agent, adjuster, or vendor of the insurer.
+19 (f) Neglect; resulting damage. Nothing in this section shall relieve an insurer of liability
+20 for direct physical damage proximately caused by a covered peril; however, an insurer may deny
+21 coverage only for additional or resulting damage, and only to the extent proven to have been caused
+22 by the claimant’s neglect in failing to take reasonable and necessary precautions to protect the
+23 property from further damage after the claimant knew or reasonably should have known of the
+24 damage.
+25 (g) Required disclosures. The director of business regulation shall require that every insurer
+26 providing coverage for structural property damage claims in this state, including surplus lines
+27 carriers, provide written notice to the insured or claimant that accurately states the applicable
+28 minimum limitations standards under this section and §§ 27-5-3 and 9-1-13(a), as applicable, and
+29 that issuance, acceptance, endorsement, negotiation, or deposit of any payment does not constitute
+30 full and final settlement absent a formal written release executed in strict compliance with chapter
+31 9.1 of title 27 (“unfair claims settlement practices act”), if enacted. The notice shall be provided at
+32 first notice of loss and again with any payment issued.
+33 (h) Department of business regulation form approval. The director of the department of
+34 business regulation shall not approve, and shall withdraw approval of, any form, endorsement,
+LC005386 - Page 2 of 4
+
+1 condition, limitation, or claims-handling notice for any policy providing coverage on any dwelling,
+2 residential structure, or commercial structure in this state that contains any provision inconsistent
+3 with this section.
+4 (i) Enforcement; cumulative remedies. A violation of this section, or any attempt to
+5 circumvent this section, including through any third-party administrator, vendor, independent
+6 adjuster, consultant, engineer, or other intermediary, shall constitute an unfair or deceptive act or
+7 practice and an unfair claims settlement practice, enforceable by the department of business
+8 regulation, the attorney general, and any private party as otherwise provided by law, including
+9 under chapter 13.1 of title 6 (“deceptive trade practices”), chapter 9.1 of title 27 (“unfair claims
+10 settlement practices act”), and § 9-1-33. The remedies for violations of this section are cumulative
+11 and in addition to any other remedies available at law or in equity.
+12 (j) Rules and regulations. The director of business regulation is authorized and directed to
+13 promulgate rules and regulations to implement and enforce this section, including standardized
+14 disclosure language, font size, and placement on declarations pages and claim communications.
+15 SECTION 2. This act shall take effect upon passage.
+========
+LC005386
+========
+LC005386 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- FIRE INSURANCE POLICIES AND RESERVES
+***
+1 This act would establish minimum limitations standards for structural property damage
+2 claims, and would void any policy provision, endorsement, condition, limitation, agreement, or
+3 claim practice that shortens those standards. This act would further prohibit insurers and insurer-
+4 affiliated claim handlers from treating any payment as a full settlement or claim closure absent a
+5 formal written release and settlement agreement executed by the claimant or insured, and notarized,
+6 consistent with chapter 9.1 of title 27 (“unfair claims settlement practices act”), and require clear
+7 disclosures to insureds and claimants regarding applicable time limitations and claim rights.
+8 This act would take effect upon passage.
+========
+LC005386
+========
+LC005386 - Page 4 of 4

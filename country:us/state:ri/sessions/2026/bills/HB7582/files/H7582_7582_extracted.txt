@@ -1,0 +1,186 @@
+Title: 
+Official Title: 
+Source: versions - 7582
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7582
+========
+LC004775
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO EDUCATION -- HEALTH AND SAFETY OF PUPILS
+Introduced By: Representatives Cotter, Read, Chippendale, Casimiro, Fogarty, Donovan,
+Shallcross Smith, Potter, Furtado, and Noret
+Date Introduced: February 06, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 16-21 of the General Laws entitled "Health and Safety of Pupils" is
+2 hereby amended by adding thereto the following section:
+3 16-21-44. School air quality.
+4 (a) The following words and phrases when used in this section shall have the following
+5 meanings:
+6 (1) "Certified testing, adjusting, and balancing technician" means;
+7 (i) A technician, tradesperson, or apprentice certified to perform testing, adjusting, and
+8 balancing of heating, ventilation, and air conditioning systems by the Associated Air Balance
+9 Council, the National Environmental Balancing Bureau, or the testing, adjusting and balancing
+10 bureau; or
+11 (ii) A person certified to perform ventilation assessments of heating, ventilation, and air
+12 conditioning systems through a certification body accredited in accordance with the ISO/IEC 17024
+13 personnel certification standard.
+14 (2) "HVAC " means heating, ventilation and air conditioning.
+15 (3) "MERV " means minimum efficiency reporting value.
+16 (4) "PM2.5 " means particles less than two and one-half (2.5) micrometers in diameter.
+17 (5) "PM10 " means particles less than ten (10) micrometers in diameter.
+18 (6) "Professional engineering standards" means nationally recognized, science-based
+19 technical standards for the design, operation, maintenance, and performance of indoor spaces,
+
+1 developed through an accredited consensus process, as in effect at the time the inspection,
+2 evaluation, or work is performed. Relevant standards include, but are not limited to,
+3 ANSI/ASHRAE Standard 62.1 (ventilation for acceptable indoor air quality), ANSI/ASHRAE
+4 Standard 55 (thermal environmental conditions for human occupancy), and ASHRAE Standard 241
+5 (control of infectious aerosols).
+6 (7) "Qualified personnel" means either;
+7 (i) A certified testing, adjusting, and balancing technician; or
+8 (ii) A skilled and trained workforce under the supervision of a certified testing, adjusting,
+9 and balancing technician.
+10 (8) "Skilled and trained workforce" means a workforce, managed in conformance with the
+11 Davis-Bacon Act, 40 U.S.C. §§ 3141 through 3148, in which at least sixty percent (60%) of the
+12 workers are graduates of or registered in and attending an apprenticeship program registered with
+13 the department of labor and training, division of apprenticeship training.
+14 (9) "Verification" means the process of evaluating a system, component, or product to
+15 determine whether it complies with specified requirements, design specifications, or regulations.
+16 (b) The department of health shall establish guidelines for indoor air quality in schools,
+17 including recommended thresholds and/or rates for environmental conditions that directly affect
+18 health and learning. Required areas of focus include:
+19 (1) Temperature;
+20 (2) Humidity;
+21 (3) Carbon dioxide;
+22 (4) PM2.5;
+23 (5) PM10;
+24 (6) Ventilation; and
+25 (7) Filtration.
+26 (c) The department of education school building authority, as part of the needs survey
+27 outlined in § 16-105-3, shall expand services to include uniform inspection and evaluation of the
+28 indoor air quality within each school building, including heating, ventilation and air conditioning
+29 systems when present. The inspection shall be conducted in conjunction with local school boards,
+30 and shall identify any deficiencies from the department of health recommendations established
+31 pursuant to the provisions of subsection (b) of this section, as well as other conditions that may
+32 affect building performance or occupant health. Implementation of the expanded assessment scope
+33 under this subsection, including HVAC and indoor air quality-related evaluations, shall be subject
+34 to the availability of state funding appropriated for statewide school facility assessments. Inspection
+LC004775 - Page 2 of 6
+
+1 results shall include estimated costs to address identified issues through capital construction,
+2 renovation, maintenance, or other school facility investments, as outlined in §16-105-3. The
+3 inspection and evaluation shall be performed by qualified personnel at least once every five (5)
+4 years. The department of education shall define the assessment procedures and data collection
+5 methods, which shall include, but not be limited to, the following:
+6 (1) Environmental measurements including air temperature, humidity, carbon dioxide,
+7 PM2.5, and PM10 under occupied conditions;
+8 (2) Evaluation of filtration levels and maintenance practices;
+9 (3) Verification of the physical condition and operational performance of ventilation
+10 system components, in accordance with professional engineering standards; and
+11 (4) Verification that required maintenance of ventilation systems has been performed in
+12 accordance with professional engineering standards.
+13 (d) The department of education shall make the inspection and evaluation results easily
+14 available online and send the test results directly to:
+15 (1) Each school's principal;
+16 (2) The department of elementary and secondary education; and
+17 (3) The appropriate local school board.
+18 (e) All schools with HVAC systems shall install filtration that achieves MERV levels of
+19 thirteen (13) to the extent determined to be feasible and appropriate for the existing HVAC system,
+20 as determined by the school board, in accordance with the latest professional engineering standards
+21 and recommendations. If it is determined by the school board that the existing HVAC system is not
+22 designed to achieve MERV levels of thirteen (13), the school shall install filtration that achieves
+23 the highest level feasible without significantly reducing the lifespan or performance of the existing
+24 HVAC system. School personnel shall inspect and replace filters as recommended by manufacturer
+25 guidelines. All HVAC adjustments shall be performed by qualified personnel.
+26 (f) The department of education, in coordination with the department of health, shall submit
+27 a report to the general assembly within one year of the effective date of this section with
+28 recommendations to improve indoor air quality in public schools. The report shall provide an
+29 update on indoor air quality procedures, guidelines, and best practices, along with the status of
+30 funding necessary to support expanded indoor air quality and HVAC improvements and
+31 assessments in schools. The report shall also utilize data collected as part of the needs survey
+32 outlined in §16-105-3. Thereafter, the needs survey and corresponding report shall be conducted
+33 on a five (5) year cycle, consistent with § 16-105-3, subject to the availability of funding.
+34 (g) The department of education shall designate and publicly identify a point of contact to
+LC004775 - Page 3 of 6
+
+1 receive and respond to concerns related to indoor air quality and ventilation systems in public
+2 schools.
+3 (h) The department of health and department of education are hereby authorized to
+4 promulgate rules and regulations necessary to carry out the purposes of this section.
+5 SECTION 2. Section 16-7-44 of the General Laws in Chapter 16-7 entitled "Foundation
+6 Level School Support [See Title 16 Chapter 97 — The Rhode Island Board of Education Act]" is
+7 hereby amended to read as follows:
+8 16-7-44. School housing project costs.
+9 (a) School housing project costs, the date of completion of school housing projects, and the
+10 applicable amount of school housing project cost commitments shall be in accordance with the
+11 regulations of the commissioner of elementary and secondary education and the provisions of §§
+12 16-7-35 — 16-7-47; provided, however, that school housing project costs shall include the purchase
+13 of sites, buildings, and equipment, the construction of buildings, and additions or renovations of
+14 existing buildings and/or facilities. School housing project costs shall include the cost of interest
+15 payment on any bond issued after July 1, 1988, provided that such bond is approved by the voters
+16 on or before June 30, 2003, or issued by a municipal public building authority or by the appropriate
+17 approving authority on or before June 30, 2003. Except as provided in § 16-7-41(d), for those
+18 projects approved after June 30, 2003, interest payments may only be included in project costs
+19 provided that the bonds for these projects are issued through the Rhode Island health and
+20 educational building corporation. School housing project costs shall exclude: (1) Any bond
+21 issuance costs incurred by the municipality or regional school district; (2) Demolition costs for
+22 buildings, facilities, or sites deemed surplus by the school committee; and (3) Restrictions pursuant
+23 to § 16-7-44.1. A building, facility, or site is declared surplus by a school committee when the
+24 committee no longer has such building, facility, or site under its direct care and control and transfers
+25 control to the municipality, § 16-2-15. The council on elementary and secondary education will
+26 promulgate rules and regulations for the administration of this section. These rules and regulations
+27 may provide for the use of lease revenue bonds, capital leases, or capital reserve funding, to finance
+28 school housing provided that the term of any bond, or capital lease shall not be longer than the
+29 useful life of the project and these instruments are subject to the public review and voter approval
+30 otherwise required by law for the issuance of bonds or capital leases. Cities or towns issuing bonds,
+31 or leases issued by a municipal public buildings authority for the benefit of a local community
+32 pursuant to chapter 50 of title 45 shall not require voter approval. Effective January 1, 2008, and
+33 except for interim finance mechanisms, refunding bonds, borrowing from the school building
+34 authority capital fund, and bonds issued by the Rhode Island health and educational building
+LC004775 - Page 4 of 6
+
+1 corporation to finance school housing projects for towns, cities, or regional school districts
+2 borrowing for which has previously been authorized by an enabling act of the general assembly,
+3 all bonds, notes, and other forms of indebtedness issued in support of school housing projects shall
+4 require passage of an enabling act by the general assembly.
+5 (b) Enhanced reimbursement for indoor air quality improvements.
+6 (1) The council of elementary and secondary education shall provide an enhanced
+7 temporary school housing aid reimbursement rate of five percent (5%) for approved school
+8 construction projects that include eligible indoor air quality improvements.
+9 (2) Eligible indoor air quality improvements may include, but shall not be limited to:
+10 (i) HVAC repairs, upgrades, and/or replacements;
+11 (ii) Increased ventilation;
+12 (iii) Air filtration or air cleaning technologies; and
+13 (iv) Other building system improvements demonstrated to improve indoor air quality.
+14 SECTION 3. This act shall take effect upon passage.
+========
+LC004775
+========
+LC004775 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- HEALTH AND SAFETY OF PUPILS
+***
+1 This act would require inspections and evaluations of the indoor air quality of each school
+2 building, including heating, ventilation and air conditioning systems. The act would also identify
+3 schools that may be eligible for an enhanced temporary school housing aid reimbursement rate of
+4 five percent (5%) for approved school construction projects that include eligible indoor air quality
+5 improvements.
+6 This act would take effect upon passage.
+========
+LC004775
+========
+LC004775 - Page 6 of 6

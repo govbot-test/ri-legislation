@@ -1,0 +1,543 @@
+Title: 
+Official Title: 
+Source: versions - 3212  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3212 SUBSTITUTE A
+========
+LC006163/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO UNIFORM COMMERCIAL CODE -- SECURED TRANSACTIONS
+Introduced By: Senators Britto, McKenney, Burke, Murray, DiPalma, Felag,
+LaMountain, and DiMario
+Date Introduced: April 14, 2026
+Referred To: Senate Commerce
+(Secretary of State)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 6A-9-510 and 6A-9-516 of the General Laws in Chapter 6A-9
+2 entitled "Secured Transactions" are hereby amended to read as follows:
+3 6A-9-510. Effectiveness of filed record.
+4 (a) Filed record effective if authorized. A filed record is effective only to the extent that it
+5 was filed by a person that may file it under § 6A-9-509 or by the filing office under § 6A-9-513.1.
+6 (b) Authorization by one secured party of record. A record authorized by one secured party
+7 of record does not affect the financing statement with respect to another secured party of record.
+8 (c) Continuation statement not timely filed. A continuation statement that is not filed within
+9 the six-month period prescribed by § 6A-9-515(d) is ineffective.
+10 6A-9-516. What constitutes filing; effectiveness of filing.
+11 (a) What constitutes filing. Except as otherwise provided in subsection (b), communication
+12 of a record to a filing office and tender of the filing fee or acceptance of the record by the filing
+13 office constitutes filing.
+14 (b) Refusal to accept record; filing does not occur. Filing does not occur with respect to a
+15 record that a filing office refuses to accept because:
+16 (1) The record is not communicated by a method or medium of communication authorized
+17 by the filing office;
+18 (2) An amount equal to or greater than the applicable filing fee is not tendered;
+19 (3) The filing office is unable to index the record because:
+
+1 (i) In the case of an initial financing statement, the record does not provide a name for the
+2 debtor;
+3 (ii) In the case of an amendment or information statement, the record:
+4 (A) Does not identify the initial financing statement as required by § 6A-9-512 or § 6A-9-
+5 518, as applicable; or
+6 (B) Identifies an initial financing statement whose effectiveness has lapsed under § 6A-9-
+7 515;
+8 (iii) In the case of an initial financing statement that provides the name of a debtor identified
+9 as an individual or an amendment that provides a name of a debtor identified as an individual which
+10 was not previously provided in the financing statement to which the record relates, the record does
+11 not identify the debtor’s surname; or
+12 (iv) In the case of a record filed or recorded in the filing office described in § 6A-9-
+13 501(a)(1), the record does not provide a sufficient description of the real property to which it relates;
+14 (4) In the case of an initial financing statement or an amendment that adds a secured party
+15 of record, the record does not provide a name and mailing address for the secured party of record;
+16 (5) In the case of an initial financing statement or an amendment that provides a name of a
+17 debtor which was not previously provided in the financing statement to which the amendment
+18 relates, the record does not:
+19 (i) Provide a mailing address for the debtor; or
+20 (ii) Indicate whether the name provided as the name of the debtor is the name of an
+21 individual or an organization;
+22 (6) In the case of an assignment reflected in an initial financing statement under § 6A-9-
+23 514(a) or an amendment filed under § 6A-9-514(b), the record does not provide a name and mailing
+24 address for the assignee; or
+25 (7) In the case of a continuation statement, the record is not filed within the six-month
+26 period prescribed by § 6A-9-515(d).; or
+27 (8) In the case of an initial financing statement or an amendment that provides a name of a
+28 debtor which was not previously provided in the financing statement to which the amendment
+29 relates, was not communicated to the filing office by a trusted filer and the office reasonably
+30 believes that the record was caused to be communicated to it with the intent to harass or defraud
+31 the person identified as a debtor. The intent to harass or defraud is presumed to exist if any one or
+32 more of the following circumstances exist:
+33 (i) The filing office has reasonable cause to believe the record is materially false or
+34 unauthorized;
+LC006163/SUB A - Page 2 of 16
+
+1 (ii) The record asserts a claim against a current or former employee or officer of a federal,
+2 state, county, or other local governmental unit that relates to the performance of the officer's or
+3 employee's public duties, and for which the filer does not hold a properly executed security
+4 agreement or judgment from a court of competent jurisdiction;
+5 (iii) The record indicates that the debtor and the secured party are substantially the same or
+6 that an individual debtor is a transmitting utility.
+7 The filing office has no duty to form a belief as to whether a record was caused to be
+8 communicated with the intent to harass or defraud the person identified as debtor and has no duty
+9 to investigate or ascertain facts relevant to whether such intent was present.
+10 (c) Rules applicable to subsection (b). For purposes of subsection (b):
+11 (1) A record does not provide information if the filing office is unable to read or decipher
+12 the information; and
+13 (2) A record that does not indicate that it is an amendment or identify an initial financing
+14 statement to which it relates, as required by § 6A-9-512, 6A-9-514, or 6A-9-518, is an initial
+15 financing statement.
+16 (d) Refusal to accept record; record effective as filed record. A record that is communicated
+17 to the filing office with tender of the filing fee, but which the filing office refuses to accept for a
+18 reason other than one set forth in subsection (b), is effective as a filed record except as against a
+19 purchaser of the collateral which gives value in reasonable reliance upon the absence of the record
+20 from the files.
+21 (e) A record that the filing office initially refuses to accept under subsection (b)(8) of this
+22 section, but that it later accepts after it receives additional information is effective as if the office
+23 had not initially refused to accept it, except as against a purchaser of the collateral that gives value
+24 in reasonable reliance upon the absence of the record from the files.
+25 SECTION 2. Section 6-1-1.1 of the General Laws in Chapter 6-1 entitled "Filing of Trade
+26 Name" is hereby amended to read as follows:
+27 6-1-1.1. Definitions.
+28 For purposes of this chapter, the following definitions apply:
+29 (1) “Business” means an occupation, profession, or employment engaged in for the purpose
+30 of seeking a profit.
+31 (2) “Department” means the department of state.
+32 (3) “Distinguishable upon the record” means the standard used by the department of state
+33 in its name availability guidelines for domestic entities.
+34 (4) “Electronic transmission” means any form of communication, not directly involving
+LC006163/SUB A - Page 3 of 16
+
+1 the physical transmission of paper, that creates a record that may be retained, retrieved, and
+2 reviewed by a recipient thereof, and that may be directly reproduced in paper form by such a
+3 recipient through an automated process.
+4 (5) “Filing” means delivered to the secretary of state in either paper format or electronic
+5 transmission through a medium provided and authorized by the secretary of state.
+6 (6) “Municipality” means and includes any city or town within the state.
+7 (7) “Person” means any individual, partnership, limited liability company, or corporation
+8 conducting or having an interest in a business in the state.
+9 (8) “Signature” or “signed” or “executed” means an original signature, facsimile, or an
+10 electronically transmitted signature submitted through a medium provided and authorized by the
+11 secretary of state.
+12 (9) "Solicitation" means a communication or advertisement from a nongovernment third-
+13 party entity that is directed to a business that purports to:
+14 (i) Notify the business of an operating requirement including, but not limited to, filing
+15 documents with or retrieving documents from the secretary of state; or
+16 (ii) Offer a service that relates to filing documents with, producing documents for, or
+17 reporting information to the secretary of state.
+18 (9)(10) “Trade name” means a word(s) or names(s), or any combination of a word(s) or
+19 name(s), used by a person to identify the person’s business that:
+20 (i) Is not, or does not include, the true and real name of all persons conducting the business;
+21 or
+22 (ii) Includes words that suggest additional parties of interest such as “company,” “and
+23 sons,” or “and associates.”
+24 (10)(11) “True and real name” means:
+25 (i) The last name of an individual coupled with the first name, middle names, initials, or
+26 any combination thereof; or
+27 (ii) The designation or identifying name by which an individual is best known and called
+28 in the business community where that individual transacts business, if this designation or
+29 identifying name is used as that individual’s legal signature.
+30 SECTION 3. Chapter 6-1 of the General Laws entitled "Filing of Trade Name" is hereby
+31 amended by adding thereto the following section:
+32 6-1-10. Prohibition on deceptive solicitations sent to businesses.
+33 (a) An electronic or mailed solicitation as defined in this chapter shall:
+34 (1) Include the following statement: "THIS IS AN ADVERTISEMENT. THIS OFFER IS
+LC006163/SUB A - Page 4 of 16
+
+1 NOT BEING MADE BY, OR ON BEHALF OF, ANY GOVERNMENT AGENCY. YOU ARE
+2 NOT REQUIRED TO MAKE ANY PAYMENT OR TAKE ANY OTHER ACTION IN
+3 RESPONSE TO THIS OFFER."
+4 (i) The statement must be placed at the top of a physical document or the beginning of an
+5 electronic communication and must be in at least twenty-four (24) point font;
+6 (ii) All other text in the document must be smaller than the statement required by this
+7 section.
+8 (2) Provide information indicating where an individual can directly file a document with
+9 the secretary of state or other state agency or retrieve a copy or certified copy of a certificate or
+10 public record;
+11 (3) Disclose the name and physical address of the nongovernment third-party entity
+12 sending the solicitation. The physical address must not be a post office box or mail forwarding
+13 service; and
+14 (4) For a mailed solicitation, prominently display in capital letters on the envelope or outer
+15 wrapper the words "THIS IS NOT A GOVERNMENT DOCUMENT."
+16 (b) The overall design and language of a solicitation as defined in this chapter shall not:
+17 (1) Create the impression that the solicitation is an official government notice or document;
+18 (2) Incorporate the Rhode Island state seal or other logo or branding of the state or any
+19 state agency; or
+20 (3) Indicate or imply a legal duty to act on the solicitation or a penalty for failure to act on
+21 the solicitation.
+22 (c) The attorney general may enforce a violation of this section as an unlawful act or
+23 practice under chapter 13.1 of title 6.
+24 (d) Any business may bring action under § 6-13.1-5.2 for a violation of this section as an
+25 unlawful act or practice under chapter 13.1 of title 6.
+26 (e) A solicitation as defined in this chapter shall not include:
+27 (1) A request for bona fide services that is initiated by a consumer;
+28 (2) Advertising or marketing sent by a regulated institution as defined in § 19-1-1; or
+29 (3) Advertising or marketing to a person with whom the solicitor has a bona fide,
+30 preexisting business relationship.
+31 SECTION 4. Chapter 6A-9 of the General Laws entitled "Secured Transactions" is hereby
+32 amended by adding thereto the following section:
+33 6A-9-513.1. Termination of wrongfully filed financing statement -- Reinstatement.
+34 (a) Trusted Filer. “Trusted filer” means a regulated institution as defined in § 19-1-1 or a
+LC006163/SUB A - Page 5 of 16
+
+1 representative of a regulated institution. If a regulated institution is attempting to file a financing
+2 statement and is organized under the law of a governmental unit other than this state, the filing
+3 office may request the regulated institution or its representative to provide verification of regulation
+4 or license in the jurisdiction under whose law the institution is organized.
+5 (b) Affidavit of wrongful filing. A person identified as debtor in a filed financing statement
+6 may deliver to the filing office a sworn notarized affidavit that identifies the financing statement
+7 by file number, indicates the affiant’s mailing address, and states that the affiant believes that the
+8 filed record identifying the affiant as debtor was not authorized to be filed and was caused to be
+9 communicated to the office with the intent to harass or defraud the affiant. The office may reject
+10 an affidavit that is incomplete or that it believes was delivered to it with the intent to harass or
+11 defraud the secured party. The secretary of state shall adopt a form of affidavit for use under this
+12 section.
+13 (c) Termination statement by filing office. Subject to subsection (k) of this section, if an
+14 affidavit is delivered to the filing office under subsection (b) of this section, the office shall
+15 promptly file a termination statement with respect to the financing statement identified in the
+16 affidavit. The termination statement must identify by its file number the initial financing statement
+17 to which it relates and must indicate that it was filed pursuant to this section. A termination
+18 statement filed under this subsection is not effective until sixty (60) days after it is filed.
+19 (d) No fee charged or refunded. The filing office shall not charge a fee for the filing of an
+20 affidavit under subsection (b) of this section or a termination statement under subsection (c) of this
+21 section. The office shall not return any fee paid for filing the financing statement identified in the
+22 affidavit, whether or not the financing statement is reinstated under subsection (g) of this section.
+23 (e) Notice of termination statement. On the same day that a filing office files a termination
+24 statement under subsection (c) of this section, it shall send to the secured party of record for the
+25 financing statement to which the termination statement relates a notice stating that the termination
+26 statement has been filed and will become effective sixty (60) days after filing. The notice shall be
+27 sent by certified mail, return receipt requested, to the address provided for the secured party of
+28 record in the financing statement with a copy sent by electronic mail to the electronic mail address
+29 provided by the secured party of record, if any.
+30 (f) Administrative review; action for reinstatement. A secured party that believes in good
+31 faith that the filed record identified in an affidavit delivered to the filing office under subsection (b)
+32 of this section was authorized to be filed and was not caused to be communicated to the office with
+33 the intent to harass or defraud the affiant may:
+34 (1) Before the termination statement takes effect, request that the office conduct an
+LC006163/SUB A - Page 6 of 16
+
+1 expedited review of the filed record and any documentation provided by the secured party. The
+2 office may as a result of this review remove from the record the termination statement filed by it
+3 under subsection (c) of this section before it takes effect and conduct an administrative review
+4 under subsection (k) of this section.
+5 (2) At any time, file an action against the office seeking reinstatement of the financing
+6 statement to which the filed record relates. The action must be filed before the expiration of six
+7 months after the date on which the termination stated filed under subsection (c) of this section
+8 becomes effective. If the affiant is not named as a defendant in the action, the secured party shall
+9 send a copy of the complaint to the affiant at the address indicated in the affidavit. The exclusive
+10 venue for the action shall be in the Rhode Island superior court for the county where the filing
+11 office in which the financing statement was filed is located. The action shall be considered by the
+12 court on an expedited basis.
+13 (g) Office to file notice of action for reinstatement. Within ten (10) days after being served
+14 with process in an action under subsection (f) of this section, the filing office shall file a notice
+15 indicating that the action has been commenced. The notice must indicate the file number of the
+16 initial financing statement to which it relates.
+17 (h) Action for reinstatement successful. If, in an action under subsection (f) of this section,
+18 the court determines that the financing statement was authorized to be filed and was not caused to
+19 be communicated to the office with the intent to harass or defraud the affiant, it shall order that the
+20 financing statement be reinstated. If an order of reinstatement is issued by the court, the office shall
+21 promptly file a record that identifies by its file number the initial financing statement to which the
+22 record relates and indicates that the financing statement has been reinstated.
+23 (i) Effect of reinstatement. Upon the filing of a record reinstating a financing statement
+24 under subsection (h) of this section the effectiveness of the financing statement is reinstated and
+25 the financing statement shall be considered never to have been terminated under this section. A
+26 continuation statement filed as provided in § 6A-9-515(d) after the effective date of a termination
+27 statement filed under subsection (c) or (k) of this section becomes effective if the financing
+28 statement is reinstated.
+29 (j) Liability for wrongful filing. If, in an action under subsection (f) of this section, the
+30 court determines that the filed record identified in an affidavit delivered to the filing office under
+31 subsection (b) of this section was caused to be communicated to the filing office with the intent to
+32 harass or defraud the affiant, the secretary of state’s office and the affiant may recover from the
+33 secured party that filed the action the costs and expenses, including reasonable attorneys’ fees, that
+34 the secretary of state’s office and the affiant incurred in the action. This recovery is in addition to
+LC006163/SUB A - Page 7 of 16
+
+1 any recovery to which the affiant is entitled under § 6A-9-625.
+2 (k) Procedure for record filed by trusted filer. If an affidavit delivered to a filing office
+3 under subsection (b) of this section relates to a filed record communicated to the office by a trusted
+4 filer, the office shall promptly send to the secured party of record a notice stating that the affidavit
+5 has been delivered to it and that it is conducting an administrative review to determine whether the
+6 record was caused to be communicated with the intent to harass or defraud the affiant. The notice
+7 shall be sent by certified mail, return receipt requested, to the address provided for the secured party
+8 in the financing statement with a copy sent by electronic mail to the electronic mail address
+9 provided by the secured party of record, if any, and a copy shall be sent in the same manner to the
+10 affiant. The administrative review shall be conducted on an expedited basis and the office may
+11 require the affiant and the secured party of record to provide any additional information that the
+12 office deems appropriate. If the office concludes that the record was caused to be communicated
+13 with the intent to harass or defraud the affiant, it shall promptly file a termination statement under
+14 subsection (b) of this section that will be effective immediately and send to the secured party of
+15 record the notice required by subsection (e) of this section. The secured party may thereafter file
+16 an action for reinstatement under subsection (f) of this section and the provisions of subsections (g)
+17 through (j) of this section are applicable.
+18 SECTION 5. Title 7 of the General Laws entitled "CORPORATIONS, ASSOCIATIONS,
+19 AND PARTNERSHIPS" is hereby amended by adding thereto the following chapter:
+20 CHAPTER 17
+21 DECEPTIVE SOLICITATIONS SENT TO BUSINESSES
+22 7-17-1. Prohibition on deceptive solicitations sent to businesses.
+23 (a) For purposes of this chapter, "solicitation" shall be construed to mean a communication
+24 or advertisement from a nongovernment third-party entity that is directed to a business that purports
+25 to:
+26 (1) Notify the business of an operating requirement including, but not limited to, filing
+27 documents with or retrieving documents from the secretary of state; or
+28 (2) Offer a service that relates to filing documents with, producing documents for, or
+29 reporting information to the secretary of state.
+30 (b) For purposes of this chapter, all entity formations authorized under title 7 shall be
+31 considered a business that receives solicitations from a nongovernment third-party entity.
+32 (c) An electronic or mailed solicitation include the following statement:
+33 (1) "THIS IS AN ADVERTISEMENT. THIS OFFER IS NOT BEING MADE BY, OR
+34 ON BEHALF OF, ANY GOVERNMENT AGENCY. YOU ARE NOT REQUIRED TO MAKE
+LC006163/SUB A - Page 8 of 16
+
+1 ANY PAYMENT OR TAKE ANY OTHER ACTION IN RESPONSE TO THIS OFFER."
+2 (i) The statement must be placed at the top of a physical document or the beginning of an
+3 electronic communication and must be in at least twenty-four (24) point font;
+4 (ii) All other text in the document must be smaller than the statement required by this
+5 section.
+6 (2) Provide information indicating where an individual can directly file a document with
+7 the secretary of state or other state agency or retrieve a copy or certified copy of a certificate or
+8 public record;
+9 (3) Disclose the name and physical address of the nongovernment third-party entity
+10 sending the solicitation. The physical address must not be a post office box or mail forwarding
+11 service; and
+12 (4) For a mailed solicitation, prominently display in capital letters on the envelope or outer
+13 wrapper the words "THIS IS NOT A GOVERNMENT DOCUMENT."
+14 (c) The overall design and language of a solicitation shall not:
+15 (1) Create the impression that the solicitation is an official government notice or document;
+16 (2) Incorporate the Rhode Island state seal or other logo or branding of the state or any
+17 state agency; or
+18 (3) Indicate or imply a legal duty to act on the solicitation or a penalty for failure to act on
+19 the solicitation.
+20 7-17-2. Investigations and enforcement
+21 The attorney general may enforce a violation of § 7-17-1 as an unlawful act or practice
+22 under chapter 13.1 of title 6.
+23 7-17-3. Private actions.
+24 Any business may bring action under § 6-13.1-5.2 for a violation of § 7-17-1 as an unlawful
+25 act or practice under chapter 13.1 of title 6.
+26 7-17-4. Exemption.
+27 A solicitation does not include:
+28 (1) A request for bona fide services that is initiated by a consumer;
+29 (2) Advertising or marketing sent by a regulated institution as defined in § 19-1-1; or
+30 (3) Advertising or marketing to a person with whom the solicitor has a bona fide,
+31 preexisting business relationship.
+32 SECTION 6. Title 7 of the General Laws entitled "CORPORATIONS, ASSOCIATIONS,
+33 AND PARTNERSHIPS" is hereby amended by adding thereto the following chapter:
+34 CHAPTER 18
+LC006163/SUB A - Page 9 of 16
+
+1 UNAUTHORIZED FILING
+2 7-18-1. Unauthorized entity formation.
+3 (a) For purposes of this section:
+4 (1) "Complainant" means a person, director, officer, manager, member, or other authorized
+5 representative of an entity, as hereinafter defined, who submits an affidavit of unauthorized
+6 formation related to that entity to the secretary of state as prescribed in subsection (e) of this section;
+7 and
+8 (2) "Entity" means a business corporation, a nonprofit corporation, a limited liability
+9 partnership, a limited liability company, or a limited partnership as defined in chapters 1.2, 6, 12.1,
+10 13.1, and 16 of title 7, respectively.
+11 (b) A complainant may submit an affidavit of unauthorized formation to the secretary of
+12 state if the complainant alleges that an entity made a materially false statement when procuring
+13 either its articles of incorporation, articles of organization, or articles of formation submitted to the
+14 secretary of state. A complainant who knowingly submits an affidavit of unauthorized formation
+15 to the secretary of state under false pretenses may be found guilty of a crime in accordance with §
+16 11-18-1.
+17 (c) An entity formation shall be considered unauthorized if a materially false statement is
+18 made when procuring either its articles of incorporation, articles of organization, or articles of
+19 formation submitted to the secretary of state by using the complainant's identity without the
+20 complainant's permission or consent.
+21 (d) Complainant shall file an affidavit of unauthorized formation on a form provided by
+22 the secretary of state.
+23 (e) The secretary of state may determine an entity formation as unauthorized upon receipt
+24 of a duly complete affidavit of unauthorized formation that satisfies all requirements in this section
+25 and in conjunction with:
+26 (1) A review of any application, report, affidavit, or other document(s) submitted by the
+27 complainant to the secretary of state;
+28 (2) A review of any application, report, affidavit, or other document(s) submitted by the
+29 entity's officer(s), board of directors, authorized representative, or registered agent to the secretary
+30 of state;
+31 (3) Evidence of any police report submitted by the complainant to the secretary of state
+32 and/or of the police report number indicated on the affidavit of unauthorized formation submitted
+33 by the complainant;
+34 (4) Evidence that the complainant has reported the unauthorized formation to the United
+LC006163/SUB A - Page 10 of 16
+
+1 States Federal Trade Commission; and
+2 (5) Any other reasonable additional documentary evidence requested by the secretary of
+3 state.
+4 (f) Upon receipt of an affidavit of unauthorized formation submitted by a complainant
+5 pursuant to this section, the secretary of state shall review the affidavit within five (5) business days
+6 and confirm the affidavit satisfies the requirements of this section or:
+7 (1) The secretary of state may ask the complainant to submit additional information or may
+8 propound interrogatories that may be reasonably necessary and proper to enable the secretary of
+9 state to ascertain whether the formation referenced in the affidavit complied with the applicable
+10 provisions of title 7 to which the affidavit applies. The interrogatories must be answered within ten
+11 (10) business days after their mailing, and the answers to the interrogatories must be full and
+12 complete and made in writing and under oath. If the interrogatories are directed to an individual
+13 they must be answered by him or her, and if directed to an entity they must be answered by an
+14 officer, general partner, or authorized representative. Each individual or entity that fails or refuses
+15 to answer truthfully and fully within the time period prescribed by this section, is guilty of a
+16 misdemeanor and upon conviction of it may be fined in any amount not exceeding five hundred
+17 dollars ($500). Interrogatories propounded by the secretary of state and the answers to the
+18 interrogatories are not open to public inspection, nor may the secretary of state disclose any facts
+19 or information obtained from them except insofar as the secretary's official duty requires the facts
+20 or information to be made public or in the event the interrogatories or their answers are required
+21 for evidence in any criminal proceedings or any other action by this state.
+22 (2) The secretary of state may reject an affidavit of unauthorized formation if the
+23 complainant fails to complete the affidavit and/or respond to a request for additional information
+24 or interrogatories.
+25 (g) The secretary of state shall notify the complainant within ten (10) business days after
+26 receipt of an affidavit of unauthorized formation and/or requested additional information or
+27 answers to issued interrogatories, determining to:
+28 (1)(i)Accept the allegation(s) submitted by the complainant in the affidavit of unauthorized
+29 formation and deem the incorporation, organization, or formation null and void, thereby removing
+30 the incorporation, organization, or formation document(s) and complainant's name and/or address
+31 from the corporate record; or
+32 (ii) If an entity's articles of incorporation, organization, or formation document(s) are
+33 declared as an unauthorized by the secretary of state and an authorized person representing the
+34 entity disagrees with the secretary of state's determination, they can appeal to the superior court of
+LC006163/SUB A - Page 11 of 16
+
+1 the county in which the registered office of the entity is located, or is proposed to be situated by
+2 filing with the clerk of the court a petition setting forth a copy of the articles of incorporation,
+3 organization, or formation document(s) sought to be filed and a copy of the written disapproval of
+4 the document by the secretary of state; at which time the matter may be tried de novo by the court,
+5 and the court shall either sustain the action of the secretary of state or direct the secretary to take
+6 any action that the court deems proper;
+7 (2) Reject the allegation(s) submitted by the complainant in the affidavit of unauthorized
+8 formation, either due to the complainant not fulfilling the requirements stipulated in this section,
+9 and/or after determining the entity's incorporation, organization, or formation was authorized and
+10 valid;
+11 (i) If the secretary of state declines the allegation(s) submitted by the complainant in an
+12 affidavit of unauthorized formation as described in this section, the complainant may:
+13 (A) Resubmit an affidavit of unauthorized formation to the secretary of state; or
+14 (B) Appeal to the superior court of the county in which the registered office of the entity
+15 is, or is proposed to be, situated by filing with the clerk of the court a petition setting forth a copy
+16 of the articles of incorporation, organization, or formation document(s) sought to be filed and a
+17 copy of the written disapproval of the document by the secretary of state; at which time the matter
+18 may be tried de novo by the court, and the court shall either sustain the action of the secretary of
+19 state or direct the secretary to take any action that the court deems proper.
+20 (h) The secretary of state may refer to the attorney general or state police the allegation(s)
+21 submitted by the complainant in the affidavit of unauthorized formation for any potential criminal
+22 investigation.
+23 (i) The secretary of state may promulgate rules and regulations for the application of this
+24 section pursuant to chapter 35 of title 42 ("administrative procedures.").
+25 7-18-2. Unauthorized entity reporting.
+26 (a) For purposes of this section:
+27 (1) "Complainant" means a person, director, officer, manager, member, or other authorized
+28 representative of an entity, as hereinafter defined who submits an affidavit of unauthorized
+29 reporting to the secretary of state as prescribed in subsection (e) of this section related to that entity;
+30 and
+31 (2) "Entity" means a business corporation, a nonprofit corporation, a limited liability
+32 partnership, a limited liability company, or a limited partnership as defined in this title in chapters
+33 1.2, 6, 12.1, 13.1, and 16 of title 7, respectively.
+34 (b) A complainant may submit an affidavit of unauthorized reporting to the secretary of
+LC006163/SUB A - Page 12 of 16
+
+1 state if the complainant alleges that a materially false statement was made on any application,
+2 report, affidavit, or other document(s) submitted to the secretary of state. A complainant who
+3 knowingly submits an affidavit of unauthorized reporting to the secretary of state under false
+4 pretenses may be found guilty of a crime in accordance with § 11-18-1.
+5 (c) An entity's application, report, affidavit, or other document(s) submitted to the secretary
+6 of state shall be considered unauthorized if a materially false statement was made in any
+7 application, report, affidavit, or other document(s) submitted to the secretary of state without the
+8 complainant's permission or consent.
+9 (d) The secretary of state may determine an entity's filed application, report, affidavit, or
+10 other document(s) as unauthorized upon receipt of a duly complete affidavit of unauthorized
+11 reporting that satisfies all requirements in this section and in conjunction with:
+12 (1) A review of any application, report, affidavit, or other document(s) submitted by the
+13 complainant to the secretary of state;
+14 (2) A review of any application, report, affidavit, or other document(s) submitted by the
+15 entity's officer(s), board of directors, authorized representative, or registered agent to the secretary
+16 of state;
+17 (3) Evidence of any police report submitted by the complainant to the secretary of state
+18 and/or of the police report number indicated on the affidavit of unauthorized reporting submitted
+19 by the complainant;
+20 (4) Evidence that the complainant has reported the unauthorized reporting to the United
+21 States Federal Trade Commission; and
+22 (5) Any other reasonable additional documentary evidence requested by the secretary of
+23 state.
+24 (e) Complainant shall file an affidavit of unauthorized reporting on a form provided by the
+25 secretary of state.
+26 (f) Upon receipt of an affidavit of unauthorized reporting submitted by a complainant
+27 pursuant to this section, the secretary of state shall review the affidavit within five (5) business days
+28 and confirm the affidavit satisfies the requirements of this section or:
+29 (1) The secretary of state may ask the complainant to submit additional information or may
+30 propound interrogatories that may be reasonably necessary and proper to enable the secretary of
+31 state to ascertain whether the formation referenced in the affidavit complied with the applicable
+32 provisions of title 7 to which the affidavit applies. The interrogatories must be answered within ten
+33 (10) business days after their mailing, and the answers to the interrogatories must be full and
+34 complete and made in writing and under oath. If the interrogatories are directed to an individual
+LC006163/SUB A - Page 13 of 16
+
+1 they must be answered by him or her, and if directed to an entity they must be answered by an
+2 officer, general partner, or authorized representative. Each individual or entity that fails or refuses
+3 to answer truthfully and fully within the time prescribed by this section, is guilty of a misdemeanor
+4 and upon conviction of it may be fined in any amount not exceeding five hundred dollars ($500).
+5 Interrogatories propounded by the secretary of state and the answers to the interrogatories are not
+6 open to public inspection, nor may the secretary of state disclose any facts or information obtained
+7 from them except insofar as the secretary's official duty requires the facts or information to be made
+8 public or in the event the interrogatories or their answers are required for evidence in any criminal
+9 proceedings or any other action by this state.
+10 (2) The secretary of state may reject an affidavit of unauthorized reporting if the
+11 complainant fails to complete the affidavit and/or respond to a request for additional information
+12 or interrogatories.
+13 (g) The secretary of state shall notify the complainant within ten (10) business days after
+14 receipt of an affidavit of unauthorized reporting and/or requested additional information or answers
+15 to issued interrogatories, determining to:
+16 (1)(i) Accept the allegation(s) submitted by the complainant in the affidavit of unauthorized
+17 reporting and deem the application, report, affidavit, or other document(s) null and void, thereby
+18 removing them from the entity's record; or
+19 (ii) If an entity's application, report, affidavit, or other document(s) are declared as an
+20 unauthorized reporting by the secretary of state and an authorized person representing the entity
+21 disagrees with the secretary of state's determination, they can appeal to the superior court of the
+22 county in which the registered office of the entity is located, or is proposed to be situated by filing
+23 with the clerk of the court a petition setting forth a copy of the entity's application, report, affidavit,
+24 or other document(s) sought to be filed and a copy of the written disapproval of the document by
+25 the secretary of state; at which time the matter may be tried de novo by the court, and the court
+26 shall either sustain the action of the secretary of state or direct the secretary to take any action that
+27 the court deems proper;
+28 (2) Reject the allegation(s) submitted by the complainant in the affidavit of unauthorized
+29 reporting, either due to the complainant not fulfilling the requirements stipulated in this section
+30 and/or after determining an entity's application, report, affidavit, or other document(s) is authorized
+31 and valid;
+32 (i) If the secretary of state declines the allegation(s) submitted by the complainant in an
+33 affidavit of unauthorized reporting as described in this section, the complainant may:
+34 (A) Resubmit an affidavit of unauthorized reporting to the secretary of state; or
+LC006163/SUB A - Page 14 of 16
+
+1 (B) Appeal to the superior court of the county in which the registered office of the entity is
+2 located, or is proposed to be located, situated by filing with the clerk of the court a petition setting
+3 forth a copy of the articles or other document sought to be filed and a copy of the written disapproval
+4 of the document by the secretary of state; at which time the matter may be tried de novo by the
+5 court, and the court shall either sustain the action of the secretary of state or direct the secretary to
+6 take any action that the court deems proper.
+7 (h) The secretary of state may refer to the attorney general or state police the allegation(s)
+8 submitted by the complainant in the affidavit of unauthorized reporting for any potential criminal
+9 investigation.
+10 (i) The secretary of state may promulgate rules and regulations for the application of this
+11 section pursuant to chapter 35 of title 42 ("administrative procedures").
+12 SECTION 7. This act shall take effect on July 1, 2026.
+========
+LC006163/SUB A
+========
+LC006163/SUB A - Page 15 of 16
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO UNIFORM COMMERCIAL CODE -- SECURED TRANSACTIONS
+***
+1 This act would make a series of amendments and add new provisions of law to address
+2 business identity theft and deceptive solicitations sent to businesses and the unauthorized formation
+3 of entities.
+4 This act would take effect on July 1, 2026.
+========
+LC006163/SUB A
+========
+LC006163/SUB A - Page 16 of 16

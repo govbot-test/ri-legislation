@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - 3338
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3338
+========
+LC006555
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- IMPERSONATION AND IDENTITY FRAUD
+Introduced By: Senators LaMountain, Burke, Tikoian, and Gallo
+Date Introduced: June 01, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 11-49.1-2 and 11-49.1-3 of the General Laws in Chapter 11-49.1
+2 entitled "Impersonation and Identity Fraud" are hereby amended to read as follows:
+3 11-49.1-2. Definitions.
+4 As used in this chapter:
+5 (1) “Document-making implement” means any implement, impression, electronic device,
+6 or computer hardware or software, that is specifically configured or primarily used for making an
+7 identification document, a false identification document, or another document-making implement;
+8 (2) “Identification document” means a document made or card issued by or under the
+9 authority of the United States Government, a state, political subdivision of a state, a foreign
+10 government, political subdivision of a foreign government, an international governmental or an
+11 international quasi-governmental organization which, when completed with information
+12 concerning a particular individual, is of a type intended or commonly accepted for the purpose of
+13 identification of individuals;
+14 (3) “Digital forgery” means a person:
+15 (i) Participates in the generation, creation, or distribution of a forged digital likeness of a
+16 person or entity as genuine to facilitate fraud; and
+17 (ii) Knows or reasonably should know the visual representation or audio recording is a
+18 forged digital likeness.
+19 (4) "Forged digital likeness" means a computer- or other electronic system-generated visual
+
+1 representation of an actual and identifiable individual or audio recording of an actual and
+2 identifiable individual's voice that:
+3 (i) Has been created, adapted or modified to closely resemble a genuine visual
+4 representation or audio record of the individual;
+5 (ii) Is likely to deceive a reasonable person to believe that the visual representation or audio
+6 recording is genuine;
+7 (iii) Is created and distributed without the consent of the depicted individual; and
+8 (iv) The creation and distribution without the consent of the depicted individual or entity
+9 is not otherwise protected by state or federal law.
+10 (5) "Entity" means any corporation, limited liability company, trust, estate, partnership,
+11 incorporated or unincorporated association or organization, and any other legal entity or
+12 combination of entities, including any state, or municipal government and any subdivision, branch,
+13 department, or agency thereof.
+14 (3)(6) “Means of identification” means any name, or number, or other data unique to a
+15 person or entity that may be used, alone or in conjunction with any other information, to identify a
+16 specific individual or entity, including any:
+17 (i) Name, social security number, date of birth, official state or government issued driver’s
+18 license or identification number, alien registration number, government passport number, employer
+19 or taxpayer identification number, logo, trademark, or other mark used to identify an entity;
+20 (ii) Unique biometric data, such as fingerprint, voice print, retina or iris image, or other
+21 unique physical representation;
+22 (iii) Unique electronic identification number, address, or routing code; or
+23 (iv) Telecommunication identifying information or access device as defined in 18 U.S.C.
+24 § 1029(e).
+25 (4) “Produce” means to manufacture, alter, authenticate, or assemble an identification
+26 document;
+27 (5) “State” includes any state of the United States, the District of Columbia, the
+28 Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United
+29 States; and
+30 (6) “Financial information” means any of the following information identifiable to an
+31 individual that concerns the amount and/or condition of an individual’s assets, liabilities or credit:
+32 (i) Account numbers and balances;
+33 (ii) Transactional information concerning any account; or
+34 (iii) Codes, passwords, social security numbers, tax identification numbers, driver’s license
+LC006555 - Page 2 of 5
+
+1 numbers or any other information held for the purpose of account access or transaction initiation
+2 or processing.
+3 (7) “Elderly adult” means a person sixty (60) years of age or older.
+4 11-49.1-3. Identity fraud.
+5 (a) Any person who shall:
+6 (1) knowingly Knowingly and without lawful authority produce an identification document
+7 or a false identification document;
+8 (2) knowingly Knowingly transfer an identification document or a false identification
+9 document knowing that the document was stolen obtained or produced without lawful authority;
+10 (3) knowingly Knowingly possess with intent to use unlawfully or transfer unlawfully five
+11 (5) or more identification documents (other than those issued lawfully for the use of the possessor)
+12 or false identification documents;
+13 (4) knowingly Knowingly possess an identification document (other than one issued
+14 lawfully for the use of the possessor) or a false identification document, or financial information
+15 with the intent that the document or financial information be used to defraud the United States, the
+16 State of Rhode Island, any political subdivision of it or any public or private entity or person;
+17 (5) knowingly Knowingly transfer, or possess a document-making implement with the
+18 intent that the document-making implement will be used in the production of a false identification
+19 document or another document-making implement which will be so used;
+20 (6) knowingly Knowingly possess a false identification document that is or appears to be
+21 a genuine identification document of the United States, the State of Rhode Island or any political
+22 subdivision of it or any public or private entity or person, living or dead which is stolen or produced
+23 without lawful authority knowing that the document was stolen or produced without such authority;
+24 or
+25 (7) Knowingly impersonate an entity or person, living or dead, with intent to defraud or
+26 injure any individual, business, or the State of Rhode Island, any political subdivision thereof, or
+27 any city or town;
+28 (8) Knowingly engage in digital forgery; or
+29 (7)(9) knowingly Knowingly transfer or use with intent to defraud, without lawful
+30 authority, a means of identification or financial information of another person living or dead, with
+31 the intent to commit, or to aid or abet, any unlawful activity that constitutes a violation of federal,
+32 state or local law; shall be guilty of a felony and shall be subject to the penalties set forth in § 11-
+33 49.1-4.
+34 (b) The provisions of this section shall not apply to any person who has not reached his or
+LC006555 - Page 3 of 5
+
+1 her twenty-first (21st) birthday who misrepresents or misstates his or her age through the
+2 presentation of any document in order to enter any premises licensed for the retail sale of alcoholic
+3 beverages for the purpose of purchasing or having served or delivered to him or her alcoholic
+4 beverages or attempting to purchase or have another person purchase for him or her any alcoholic
+5 beverage pursuant to § 3-8-6.
+6 (c) Exceptions. This section shall not apply to:
+7 (1) A constitutionally protected activity;
+8 (2) A law enforcement officer engaged in the performance of the law enforcement officer's
+9 official duties;
+10 (3) A provider or developer of any technology used in the creation of a visual representation
+11 or audio recording; or
+12 (4) An activity otherwise protected by state or federal law.
+13 SECTION 2. This act shall take effect upon passage.
+========
+LC006555
+========
+LC006555 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- IMPERSONATION AND IDENTITY FRAUD
+***
+1 This act would protect individuals and businesses from those who knowingly impersonate
+2 an entity with the intent of facilitating fraud. This act would also protect individuals and businesses
+3 from digital forgery.
+4 This act would take effect upon passage.
+========
+LC006555
+========
+LC006555 - Page 5 of 5

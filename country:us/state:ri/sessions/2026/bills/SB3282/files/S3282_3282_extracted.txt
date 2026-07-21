@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - 3282
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3282
+========
+LC006468
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- MEDICARE SUPPLEMENT INSURANCE POLICIES
+Introduced By: Senators Lawson, and Murray
+Date Introduced: May 12, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-18.2-3 of the General Laws in Chapter 27-18.2 entitled "Medicare
+2 Supplement Insurance Policies" is hereby amended to read as follows:
+3 27-18.2-3. Standards for policy provisions.
+4 (a) No Medicare supplement insurance policy or certificate in force in the state shall contain
+5 benefits that duplicate benefits provided by Medicare.
+6 (b) Notwithstanding any other provision of law of this state, a Medicare supplement policy
+7 or certificate shall not exclude or limit benefits for loss incurred more than six (6) months from the
+8 effective date of coverage because it involved a preexisting condition. The policy or certificate shall
+9 not define a preexisting condition more restrictively than a condition for which medical advice was
+10 given or treatment was recommended by or received from a physician within six (6) months before
+11 the effective date of coverage.
+12 (c) The commissioner shall adopt reasonable regulations to establish specific standards for
+13 policy provisions of Medicare supplement policies and certificates. Those standards shall be in
+14 addition to and in accordance with the applicable laws of this state, including but not limited to §§
+15 27-18-3(a) and 42-62-12 and regulations promulgated pursuant to those sections. No requirement
+16 of this title or chapter 62 of title 42 relating to minimum required policy benefits, other than the
+17 minimum standards contained in this chapter, shall apply to Medicare supplement policies and
+18 certificates. The standards may cover, but not be limited to:
+19 (1) Terms of renewability;
+
+1 (2) Initial and subsequent conditions of eligibility;
+2 (3) Nonduplication of coverage;
+3 (4) Probationary periods;
+4 (5) Benefit limitations, exceptions, and reductions;
+5 (6) Elimination periods;
+6 (7) Requirements for replacement;
+7 (8) Recurrent conditions; and
+8 (9) Definitions of terms.
+9 (d) The commissioner may adopt reasonable regulations that specify prohibited policy
+10 provisions not specifically authorized by statute, if, in the opinion of the commissioner, those
+11 provisions are unjust, unfair, or unfairly discriminatory to any person insured or proposed to be
+12 insured under a Medicare supplement policy or certificate.
+13 (e) The commissioner shall adopt reasonable regulations to establish minimum standards
+14 for premium rates, benefits, claims payment, marketing practices, and compensation arrangements
+15 and reporting practices for Medicare supplement policies and certificates.
+16 (f) The commissioner may adopt any reasonable regulations necessary to conform
+17 Medicare supplement policies and certificates to the requirements of federal law and regulations
+18 promulgated pursuant to federal law, including but not limited to:
+19 (1) Requiring refunds or credits if the policies or certificates do not meet loss ratio
+20 requirements;
+21 (2) Establishing a uniform methodology for calculating and reporting loss ratios;
+22 (3) Assuring public access to policies, premiums, and loss ratio information of issuers of
+23 Medicare supplement insurance;
+24 (4) Establishing a process for approving or disapproving policy forms and certificate forms
+25 and proposed premium increases;
+26 (5) Establishing a policy for holding public hearings prior to approval of premium increases
+27 that may include the applicant’s provision of notice of the proposed premium increase to all
+28 subscribers subject to the proposed increase, at least ten (10) days prior to the hearing; and
+29 (6) Establishing standards for Medicare select policies and certificates.
+30 (g) Each Medicare supplement Plan A policy or applicable certificate that an issuer
+31 currently, or at any time hereafter, makes available in this state shall be made available to any
+32 applicant under the age of sixty-five (65) who is eligible for Medicare due to a disability or end-
+33 stage renal disease, provided that the applicant submits their application during the first six (6)
+34 months immediately following the applicant’s initial eligibility for Medicare Part B, or alternate
+LC006468 - Page 2 of 4
+
+1 enrollment period as determined by the commissioner. The issuance or coverage of any Medicare
+2 supplement policy pursuant to this section shall not be conditioned on the medical or health status
+3 or receipt of health care by the applicant; and no insurer shall perform individual medical
+4 underwriting on any applicant in connection with the issuance of a policy pursuant to this
+5 subsection.
+6 (1) Any individual under the age of sixty-five (65) enrolled in a Medicare supplement Plan
+7 A by reason of disability or end-stage renal disease pursuant to subsection (g) of this section, shall
+8 receive a six-month (6) open enrollment period for any policy or applicable certificate that an issuer
+9 currently makes available in this state beginning on the first day of the month in which the
+10 individual both attains the age of sixty-five (65) and remains enrolled in Medicare Parts A & B.
+11 (h) Each year, for the duration of the Medicare Annual Enrollment Period (AEP) for
+12 coverage with an effective date of January 1 of the following year, an individual enrolled in a
+13 Medicare supplement policy or Medicare Advantage plan who has been covered by any Medicare
+14 supplement policy(s) or Medicare Advantage plan(s) or another form of credible coverage with no
+15 gap in coverage greater than ninety (90) days beginning from that individual’s Medicare Initial
+16 Enrollment Period (IEP) Medigap Open Enrollment Period, shall be afforded guaranteed issue
+17 rights for any available Medicare supplement policy or applicable certificate that an issuer currently
+18 makes available in this state.
+19 (1) The issuance or coverage of any Medicare supplement policy pursuant to subsection
+20 (h) of this section shall not be conditioned on the medical or health status or receipt of health care
+21 by the applicant and no issuer shall perform individual medical underwriting on any applicant in
+22 connection with the issuance of a policy pursuant to this subsection.
+23 (2) For those individuals under the age of sixty-five (65) enrolled in a Medicare Advantage
+24 or Medicare supplement Plan A due to a disability, pursuant to subsection (g) of this section the
+25 individual shall be afforded guaranteed issue rights for every Medicare supplement Plan A policy
+26 or applicable certificate that an issuer makes available in this state. Coverage shall be afforded
+27 pursuant to subsection (h)(1) of this section.
+28 SECTION 2. This act shall take effect upon passage.
+========
+LC006468
+========
+LC006468 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- MEDICARE SUPPLEMENT INSURANCE POLICIES
+***
+1 This act would expand guaranteed issue rights for Medigap plan enrollees who enroll
+2 outside of a plan’s initial enrollment period.
+3 This act would take effect upon passage.
+========
+LC006468
+========
+LC006468 - Page 4 of 4

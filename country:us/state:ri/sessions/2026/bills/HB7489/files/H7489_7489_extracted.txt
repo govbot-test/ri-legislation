@@ -1,0 +1,763 @@
+Title: 
+Official Title: 
+Source: versions - 7489
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7489
+========
+LC003893
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- MOTOR VEHICLE OFFENSES
+Introduced By: Representatives Noret, Read, Serpa, Hull, Dawson, Craven, Santucci,
+Corvese, Paplauskas, and Shanley
+Date Introduced: February 04, 2026
+Referred To: House Judiciary
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 31-27-2, 31-27-2.1 and 31-27-2.8 of the General Laws in Chapter
+2 31-27 entitled "Motor Vehicle Offenses" are hereby amended to read as follows:
+3 31-27-2. Driving under influence of liquor or drugs.
+4 (a) Whoever drives or otherwise operates any vehicle in the state while under the influence
+5 of any intoxicating liquor, drugs, toluene, or any controlled substance as defined in chapter 28 of
+6 title 21, or any combination of these, shall be guilty of a misdemeanor, except as provided in
+7 subsection (d)(3), and shall be punished as provided in subsection (d) of this section.
+8 (b)(1) Any person charged under subsection (a), whose blood alcohol concentration is eight
+9 one-hundredths of one percent (.08%) or more by weight, as shown by a chemical analysis of a
+10 blood, breath, or urine sample, shall be guilty of violating subsection (a). This provision shall not
+11 preclude a conviction based on other admissible evidence, including the testimony of a drug
+12 recognition expert or evaluator, certified pursuant to training approved by the Rhode Island
+13 department of transportation office on highway safety. Proof of guilt under this section may also
+14 be based on evidence that the person charged was under the influence of intoxicating liquor, drugs,
+15 toluene, or any controlled substance defined in chapter 28 of title 21, or any combination of these,
+16 to a degree that rendered the person incapable of safely operating a vehicle. The fact that any person
+17 charged with violating this section is, or has been, legally entitled to use alcohol or a drug shall not
+18 constitute a defense against any charge of violating this section.
+19 (2) [Deleted by P.L. 2021, ch. 170, § 1 and P.L. 2021, ch. 171, § 1.]
+
+1 (c) In any criminal prosecution for a violation of subsection (a), evidence as to the amount
+2 of intoxicating liquor, toluene, or any controlled substance as defined in chapter 28 of title 21, or
+3 any combination of these, in the defendant’s blood at the time alleged as shown by a chemical
+4 analysis of the defendant’s breath, blood, saliva or urine or other bodily substance, shall be
+5 admissible and competent, provided that evidence is presented that the following conditions have
+6 been complied with:
+7 (1) The defendant has consented to the taking of the test upon which the analysis is made.
+8 Evidence that the defendant had refused to submit to the test shall not be admissible unless the
+9 defendant elects to testify.
+10 (2) A true copy of the report of the test result was hand delivered at the location of the test
+11 or mailed within seventy-two (72) hours of the taking of the test to the person submitting to a breath
+12 test.
+13 (3) Any person submitting to a chemical test of blood, urine, saliva or other body fluids
+14 shall have a true copy of the report of the test result mailed to him or her within thirty (30) days
+15 following the taking of the test.
+16 (4) The test was performed according to methods and with equipment approved by the
+17 director of the department of health of the state of Rhode Island and by an authorized individual.
+18 (5) Equipment used for the conduct of the tests by means of breath analysis had been tested
+19 for accuracy within thirty (30) days preceding the test by personnel qualified as hereinbefore
+20 provided, and breathalyzer operators shall be qualified and certified by the department of health
+21 within three hundred sixty-five (365) days of the test.
+22 (6) The person arrested and charged with operating a motor vehicle while under the
+23 influence of intoxicating liquor, toluene, or any controlled substance as defined in chapter 28 of
+24 title 21 or any combination of these in violation of subsection (a), was afforded the opportunity to
+25 have an additional chemical test. The officer arresting or so charging the person shall have informed
+26 the person of this right and afforded him or her a reasonable opportunity to exercise this right, and
+27 a notation to this effect is made in the official records of the case in the police department. Refusal
+28 to permit an additional chemical test shall render incompetent and inadmissible in evidence the
+29 original report.
+30 (d)(1)(i) Every person found to have violated subsection (b)(1) shall be sentenced as
+31 follows: for a first violation whose blood alcohol concentration is eight one-hundredths of one
+32 percent (.08%), but less than one-tenth of one percent (.1%), by weight, or who has a blood presence
+33 of any scheduled controlled substance as defined in chapter 28 of title 21, shall be subject to a fine
+34 of not less than one hundred dollars ($100), nor more than three hundred dollars ($300); shall be
+LC003893 - Page 2 of 22
+
+1 required to perform ten (10) to sixty (60) hours of public community restitution, and/or shall be
+2 imprisoned for up to one year. The sentence may be served in any unit of the adult correctional
+3 institutions in the discretion of the sentencing judge and/or shall be required to attend a special
+4 course on driving while intoxicated or under the influence of a controlled substance; provided,
+5 however, that the court may permit a servicemember or veteran to complete any court-approved
+6 counseling program administered or approved by the Veterans’ Administration, and his or her
+7 driver’s license shall be suspended for thirty (30) days up to one hundred eighty (180) days. The
+8 sentencing judge or magistrate may shall prohibit that person from operating a motor vehicle,
+9 pursuant to subsection (d)(9) or (d)(10) of this section, that is not equipped with an ignition
+10 interlock system and/or blood and urine testing as provided in § 31-27-2.8 for a period of six (6)
+11 months.
+12 (ii) Every person convicted of a first violation whose blood alcohol concentration is one-
+13 tenth of one percent (.1%) by weight or above, but less than fifteen hundredths of one percent
+14 (.15%), or whose blood alcohol concentration is unknown, shall be subject to a fine of not less than
+15 one hundred ($100) dollars, nor more than four hundred dollars ($400), and shall be required to
+16 perform ten (10) to sixty (60) hours of public community restitution and/or shall be imprisoned for
+17 up to one year. The sentence may be served in any unit of the adult correctional institutions in the
+18 discretion of the sentencing judge. The person’s driving license shall be suspended for a period of
+19 three (3) months to twelve (12) months. The sentencing judge shall require attendance at a special
+20 course on driving while intoxicated or under the influence of a controlled substance and/or
+21 alcoholic or drug treatment for the individual; provided, however, that the court may permit a
+22 servicemember or veteran to complete any court-approved counseling program administered or
+23 approved by the Veterans’ Administration. The sentencing judge or magistrate may shall prohibit
+24 that person from operating a motor vehicle that is not equipped with an ignition interlock system
+25 and/or blood and urine testing as provided in § 31-27-2.8, for a period of not less than six (6) months
+26 and up to a period of twenty-four (24) months.
+27 (iii) Every person convicted of a first offense whose blood alcohol concentration is fifteen
+28 hundredths of one percent (.15%) or above, or who is under the influence of a drug, toluene, or any
+29 controlled substance as defined in subsection (b)(1), shall be subject to a fine of five hundred dollars
+30 ($500) and shall be required to perform twenty (20) to sixty (60) hours of public community
+31 restitution and/or shall be imprisoned for up to one year. The sentence may be served in any unit
+32 of the adult correctional institutions in the discretion of the sentencing judge. The person’s driving
+33 license shall be suspended for a period of three (3) months to eighteen (18) months. The sentencing
+34 judge shall require attendance at a special course on driving while intoxicated or under the influence
+LC003893 - Page 3 of 22
+
+1 of a controlled substance and/or alcohol or drug treatment for the individual; provided, however,
+2 that the court may permit a servicemember or veteran to complete any court-approved counseling
+3 program administered or approved by the Veterans’ Administration. The sentencing judge or
+4 magistrate shall prohibit that person from operating a motor vehicle, pursuant to subsection (d)(9)
+5 or (d)(10) of this section, that is not equipped with an ignition interlock system and/or blood and
+6 urine testing as provided in § 31-27-2.8 for a period of not less than nine (9) months and up to a
+7 period of twenty-four (24) months.
+8 (2)(i) Every person convicted of a second violation within a ten-year (10) period with a
+9 blood alcohol concentration of eight one-hundredths of one percent (.08%) or above, but less than
+10 fifteen hundredths of one percent (.15%), or whose blood alcohol concentration is unknown, or
+11 who has a blood presence of any controlled substance as defined in chapter 28 of title 21, and every
+12 person convicted of a second violation within a ten-year (10) period, regardless of whether the prior
+13 violation and subsequent conviction was a violation and subsequent conviction under this statute
+14 or under the driving under the influence of liquor or drugs statute of any other state, shall be subject
+15 to a mandatory fine of four hundred dollars ($400). The person’s driving license shall be suspended
+16 for a period of one year to two (2) years, and the individual shall be sentenced to not less than ten
+17 (10) days, nor more than one year, in jail. The sentence may be served in any unit of the adult
+18 correctional institutions in the discretion of the sentencing judge; however, not less than forty-eight
+19 (48) hours of imprisonment shall be served consecutively. The sentencing judge shall require
+20 alcohol or drug treatment for the individual; provided, however, that the court may permit a
+21 servicemember or veteran to complete any court-approved counseling program administered or
+22 approved by the Veterans’ Administration and shall prohibit that person from operating a motor
+23 vehicle, pursuant to subsection (d)(9) or (d)(10) of this section, that is not equipped with an ignition
+24 interlock system and/or blood and urine testing as provided in § 31-27-2.8 for a period of not less
+25 than twelve (12) months and up to a period of twenty-four (24) months.
+26 (ii) Every person convicted of a second violation within a ten-year (10) period whose blood
+27 alcohol concentration is fifteen hundredths of one percent (.15%) or above, by weight as shown by
+28 a chemical analysis of a blood, breath, or urine sample, or who is under the influence of a drug,
+29 toluene, or any controlled substance as defined in subsection (b)(1), shall be subject to mandatory
+30 imprisonment of not less than six (6) months, nor more than one year; a mandatory fine of not less
+31 than one thousand dollars ($1,000); and a mandatory license suspension for a period of two (2)
+32 years from the date of completion of the sentence imposed under this subsection. The sentencing
+33 judge shall require alcohol or drug treatment for the individual; provided, however, that the court
+34 may permit a servicemember or veteran to complete any court approved counseling program
+LC003893 - Page 4 of 22
+
+1 administered or approved by the Veterans’ Administration. The sentencing judge or magistrate
+2 shall prohibit that person from operating a motor vehicle, pursuant to subsection (d)(9) or (d)(10)
+3 of this section, that is not equipped with an ignition interlock system and/or blood and urine testing
+4 as provided in § 31-27-2.8 for a period of not less than eighteen (18) months and up to a period of
+5 twenty-four (24) months.
+6 (3)(i) Every person convicted of a third or subsequent violation within a ten-year (10)
+7 period with a blood alcohol concentration of eight one-hundredths of one percent (.08%) or above,
+8 but less than fifteen hundredths of one percent (.15%), or whose blood alcohol concentration is
+9 unknown or who has a blood presence of any scheduled controlled substance as defined in chapter
+10 28 of title 21, regardless of whether any prior violation and subsequent conviction was a violation
+11 and subsequent conviction under this statute or under the driving under the influence of liquor or
+12 drugs statute of any other state, shall be guilty of a felony and be subject to a mandatory fine of
+13 four hundred ($400) dollars. The person’s driving license shall be suspended for a period of two
+14 (2) years to three (3) years, and the individual shall be sentenced to not less than one year and not
+15 more than three (3) years in jail. The sentence may be served in any unit of the adult correctional
+16 institutions in the discretion of the sentencing judge; however, not less than forty-eight (48) hours
+17 of imprisonment shall be served consecutively. The sentencing judge shall require alcohol or drug
+18 treatment for the individual; provided, however, that the court may permit a servicemember or
+19 veteran to complete any court-approved counseling program administered or approved by the
+20 Veterans’ Administration, and shall prohibit that person from operating a motor vehicle, pursuant
+21 to subsection (d)(9) or (d)(10) of this section, that is not equipped with an ignition interlock system
+22 and/or blood and urine testing as provided in § 31-27-2.8 for a period of not less than twelve (12)
+23 months and up to a period of forty-eight (48) months.
+24 (ii) Every person convicted of a third or subsequent violation within a ten-year (10) period
+25 whose blood alcohol concentration is fifteen hundredths of one percent (.15%) or above by weight
+26 as shown by a chemical analysis of a blood, breath, or urine sample, or who is under the influence
+27 of a drug, toluene, or any controlled substance as defined in subsection (b)(1), shall be subject to
+28 mandatory imprisonment of not less than three (3) years, nor more than five (5) years; a mandatory
+29 fine of not less than one thousand dollars ($1,000), nor more than five thousand dollars ($5,000);
+30 and a mandatory license suspension for a period of three (3) years from the date of completion of
+31 the sentence imposed under this subsection. The sentencing judge shall require alcohol or drug
+32 treatment for the individual. The sentencing judge or magistrate shall prohibit that person from
+33 operating a motor vehicle, pursuant to subsection (d)(9) or (d)(10) of this section, that is not
+34 equipped with an ignition interlock system and/or blood and urine testing as provided in § 31-27-
+LC003893 - Page 5 of 22
+
+1 2.8 for twenty-four (24) to forty-eight (48) months.
+2 (iii) In addition to the foregoing penalties, every person convicted of a third or subsequent
+3 violation within a ten-year (10) period, regardless of whether any prior violation and subsequent
+4 conviction was a violation and subsequent conviction under this statute or under the driving under
+5 the influence of liquor or drugs statute of any other state, shall be subject, in the discretion of the
+6 sentencing judge, to having the vehicle owned and operated by the violator seized and sold by the
+7 state of Rhode Island, with all funds obtained by the sale to be transferred to the general fund.
+8 (4) Whoever drives or otherwise operates any vehicle in the state while under the influence
+9 of any intoxicating liquor, drugs, toluene, or any controlled substance as defined in chapter 28 of
+10 title 21, or any combination of these, when his or her license to operate is suspended, revoked, or
+11 cancelled for operating under the influence of a narcotic drug or intoxicating liquor, shall be guilty
+12 of a felony punishable by imprisonment for not more than three (3) years and by a fine of not more
+13 than three thousand dollars ($3,000). The court shall require alcohol and/or drug treatment for the
+14 individual; provided, the penalties provided for in this subsection (d)(4) shall not apply to an
+15 individual who has surrendered his or her license and served the court-ordered period of suspension,
+16 but who, for any reason, has not had his or her license reinstated after the period of suspension,
+17 revocation, or suspension has expired; provided, further, the individual shall be subject to the
+18 provisions of subsection (d)(2)(i), (d)(2)(ii), (d)(3)(i), (d)(3)(ii), or (d)(3)(iii) regarding subsequent
+19 offenses, and any other applicable provision of this section.
+20 (5)(i) For purposes of determining the period of license suspension, a prior violation shall
+21 constitute any charge brought and sustained under the provisions of this section or § 31-27-2.1.
+22 (ii) Any person over the age of eighteen (18) who is convicted under this section for
+23 operating a motor vehicle while under the influence of alcohol, other drugs, or a combination of
+24 these, while a child under the age of thirteen (13) years was present as a passenger in the motor
+25 vehicle when the offense was committed shall be subject to immediate license suspension pending
+26 prosecution. Any person convicted of violating this section shall be guilty of a misdemeanor for a
+27 first offense and may be sentenced to a term of imprisonment of not more than one year and a fine
+28 not to exceed one thousand dollars ($1,000). Any person convicted of a second or subsequent
+29 offense shall be guilty of a felony offense and may be sentenced to a term of imprisonment of not
+30 more than five (5) years and a fine not to exceed five thousand dollars ($5,000). The sentencing
+31 judge shall also order a license suspension of up to two (2) years, require attendance at a special
+32 course on driving while intoxicated or under the influence of a controlled substance, and alcohol
+33 or drug education and/or treatment. The individual may also be required to pay a highway
+34 assessment fee of no more than five hundred dollars ($500) and the assessment shall be deposited
+LC003893 - Page 6 of 22
+
+1 in the general fund.
+2 (6)(i) Any person convicted of a violation under this section shall pay a highway
+3 assessment fine of five hundred dollars ($500) that shall be deposited into the general fund. The
+4 assessment provided for by this subsection shall be collected from a violator before any other fines
+5 authorized by this section.
+6 (ii) Any person convicted of a violation under this section shall be assessed a fee of eighty-
+7 six dollars ($86).
+8 (7)(i) If the person convicted of violating this section is under the age of eighteen (18)
+9 years, for the first violation he or she shall be required to perform ten (10) to sixty (60) hours of
+10 public community restitution and the juvenile’s driving license shall be suspended for a period of
+11 six (6) months, and may be suspended for a period up to eighteen (18) months. The sentencing
+12 judge or magistrate shall prohibit the person from operating a motor vehicle that is not equipped
+13 with an ignition interlock system and/or blood and urine testing as provided in § 31-27-2.8 for a
+14 period of twelve (12) months. The sentencing judge shall also require attendance at a special course
+15 on driving while intoxicated or under the influence of a controlled substance and alcohol or drug
+16 education and/or treatment for the juvenile. The juvenile may also be required to pay a highway
+17 assessment fine of no more than five hundred dollars ($500) and the assessment imposed shall be
+18 deposited into the general fund.
+19 (ii) If the person convicted of violating this section is under the age of eighteen (18) years,
+20 for a second or subsequent violation regardless of whether any prior violation and subsequent
+21 conviction was a violation and subsequent conviction under this statute or under the driving under
+22 the influence of liquor or drugs statute of any other state, he or she shall be subject to a mandatory
+23 suspension of his or her driving license until such time as he or she is twenty-one (21) years of age
+24 and may, in the discretion of the sentencing judge, also be sentenced to the Rhode Island training
+25 school for a period of not more than one year and/or a fine of not more than five hundred dollars
+26 ($500). The sentencing judge or magistrate shall prohibit the person from operating a motor vehicle
+27 that is not equipped with an ignition interlock system and/or blood and urine testing as provided in
+28 § 31-27-2.8 for a period of twenty-four (24) months.
+29 (8) Any person convicted of a violation under this section may undergo a clinical
+30 assessment at the community college of Rhode Island’s center for workforce and community
+31 education. Should this clinical assessment determine problems of alcohol, drug abuse, or
+32 psychological problems associated with alcoholic or drug abuse, this person shall be referred to an
+33 appropriate facility, licensed or approved by the department of behavioral healthcare,
+34 developmental disabilities and hospitals, for treatment placement, case management, and
+LC003893 - Page 7 of 22
+
+1 monitoring. In the case of a servicemember or veteran, the court may order that the person be
+2 evaluated through the Veterans’ Administration. Should the clinical assessment determine
+3 problems of alcohol, drug abuse, or psychological problems associated with alcohol or drug abuse,
+4 the person may have their treatment, case management, and monitoring administered or approved
+5 by the Veterans’ Administration.
+6 (9) Notwithstanding any other sentencing and disposition provisions contained in this
+7 chapter, if the judge or magistrate makes a finding beyond a reasonable doubt that a motorist was
+8 operating a vehicle in the state while under the influence of drugs, toluene, or any controlled
+9 substance as evidenced by the presence of controlled substances on or about the person or vehicle,
+10 or other reliable indicia or articulable conditions thereof, but not intoxicating liquor based on a
+11 preliminary breath test, results from a breathalyzer that indicates no blood alcohol concentration,
+12 or both, the judge or magistrate may exercise his or her discretion and eliminate the requirement of
+13 an ignition interlock system; provided, that blood and/or urine testing is mandated as a condition
+14 to operating a motor vehicle as provided in § 31-27-2.8 for a period of not less than six (6) months
+15 and up to a period of twenty-four (24) months.
+16 (10) Notwithstanding any other sentencing and disposition provisions contained in this
+17 chapter, if the judge or magistrate makes a finding beyond a reasonable doubt that a motorist was
+18 operating a vehicle in the state while under the influence of drugs, toluene, or any controlled
+19 substance as evidenced by the presence of controlled substances on or about the person or vehicle,
+20 or other reliable indicia or articulable conditions thereof and intoxicating liquor based on a
+21 preliminary breath test, results from a breathalyzer that indicates blood alcohol concentration, or
+22 both, the judge or magistrate may shall require an ignition interlock system in addition to blood
+23 and/or urine testing as a condition to operating a motor vehicle as provided in § 31-27-2.8. The
+24 ignition interlock system and blood and/or urine testing requirements shall be for a period of time
+25 as mandated in subsections (d)(1)(i), (d)(1)(ii), (d)(1)(iii), (d)(2)(i), (d)(2)(ii), (d)(3)(i) and (d)(3)(ii)
+26 of this section.
+27 (e) Percent by weight of alcohol in the blood shall be based upon milligrams of alcohol per
+28 one hundred cubic centimeters (100 cc) of blood.
+29 (f)(1) There is established an alcohol and drug safety unit within the division of motor
+30 vehicles to administer an alcohol safety action program. The program shall provide for placement
+31 and follow-up for persons who are required to pay the highway safety assessment. The alcohol and
+32 drug safety action program will be administered in conjunction with alcohol and drug programs
+33 licensed by the department of behavioral healthcare, developmental disabilities and hospitals.
+34 (2) Persons convicted under the provisions of this chapter shall be required to attend a
+LC003893 - Page 8 of 22
+
+1 special course on driving while intoxicated or under the influence of a controlled substance, and/or
+2 participate in an alcohol or drug treatment program, which course and programs must meet the
+3 standards established by the Rhode Island department of behavioral healthcare, developmental
+4 disabilities and hospitals; provided, however, that the court may permit a servicemember or veteran
+5 to complete any court-approved counseling program administered or approved by the Veterans’
+6 Administration. The course shall take into consideration any language barrier that may exist as to
+7 any person ordered to attend, and shall provide for instruction reasonably calculated to
+8 communicate the purposes of the course in accordance with the requirements of the subsection.
+9 Any costs reasonably incurred in connection with the provision of this accommodation shall be
+10 borne by the person being retrained. A copy of any violation under this section shall be forwarded
+11 by the court to the alcohol and drug safety unit. In the event that persons convicted under the
+12 provisions of this chapter fail to attend and complete the above course or treatment program, as
+13 ordered by the judge, then the person may be brought before the court, and after a hearing as to
+14 why the order of the court was not followed, may be sentenced to jail for a period not exceeding
+15 one year.
+16 (3) The alcohol and drug safety action program within the division of motor vehicles shall
+17 be funded by general revenue appropriations.
+18 (g) The director of the department of health is empowered to make and file with the
+19 secretary of state regulations that prescribe the techniques and methods of chemical analysis of the
+20 person’s body fluids or breath and the qualifications and certification of individuals authorized to
+21 administer this testing and analysis.
+22 (h) Jurisdiction for misdemeanor violations of this section shall be with the district court
+23 for persons eighteen (18) years of age or older and to the family court for persons under the age of
+24 eighteen (18) years. The courts shall have full authority to impose any sentence authorized and to
+25 order the suspension of any license for violations of this section. Trials in superior court are not
+26 required to be scheduled within thirty (30) days of the arraignment date.
+27 (i) No fines, suspensions, assessments, alcohol or drug treatment programs, course on
+28 driving while intoxicated or under the influence of a controlled substance, public community
+29 restitution, or jail provided for under this section can be suspended.
+30 (j) An order to attend a special course on driving while intoxicated, that shall be
+31 administered in cooperation with a college or university accredited by the state, shall include a
+32 provision to pay a reasonable tuition for the course in an amount not less than twenty-five dollars
+33 ($25.00), and a fee of one hundred seventy-five dollars ($175), which fee shall be deposited into
+34 the general fund.
+LC003893 - Page 9 of 22
+
+1 (k) For the purposes of this section, any test of a sample of blood, breath, or urine for the
+2 presence of alcohol that relies in whole or in part upon the principle of infrared light absorption is
+3 considered a chemical test.
+4 (l) If any provision of this section, or the application of any provision, shall for any reason
+5 be judged invalid, such a judgment shall not affect, impair, or invalidate the remainder of the
+6 section, but shall be confined in this effect to the provision or application directly involved in the
+7 controversy giving rise to the judgment.
+8 (m) For the purposes of this section, “servicemember” means a person who is presently
+9 serving in the armed forces of the United States, including the Coast Guard, a reserve component
+10 thereof, or the National Guard. “Veteran” means a person who has served in the armed forces,
+11 including the Coast Guard of the United States, a reserve component thereof, or the National Guard,
+12 and has been discharged under other than dishonorable conditions.
+13 (n) In addition to any other fines and highway assessments, any person found in violation
+14 of this section shall pay a one hundred dollar ($100) assessment to the ignition interlock system
+15 fund established in § 31-27-2.10.
+16 31-27-2.1. Refusal to submit to chemical test.
+17 (a) Any person who operates a motor vehicle within this state shall be deemed to have
+18 given his or her consent to chemical tests of his or her breath, blood, saliva and/or urine for the
+19 purpose of determining the chemical content of his or her body fluids or breath. No more than two
+20 (2) complete tests, one for the presence of intoxicating liquor and one for the presence of toluene
+21 or any controlled substance, as defined in § 21-28-1.02, shall be administered at the direction of a
+22 law enforcement officer having reasonable grounds to believe the person to have been driving a
+23 motor vehicle within this state while under the influence of intoxicating liquor, toluene, or any
+24 controlled substance, as defined in chapter 28 of title 21, or any combination of these. The director
+25 of the department of health is empowered to make and file, with the secretary of state, regulations
+26 that prescribe the techniques and methods of chemical analysis of the person’s body fluids or breath
+27 and the qualifications and certification of individuals authorized to administer the testing and
+28 analysis.
+29 (b) If a person, for religious or medical reasons, cannot be subjected to blood tests, the
+30 person may file an affidavit with the division of motor vehicles stating the reasons why he or she
+31 cannot be required to take blood tests and a notation to this effect shall be made on his or her
+32 license. If that person is asked to submit to chemical tests as provided under this chapter, the person
+33 shall only be required to submit to chemical tests of his or her breath, saliva or urine. When a person
+34 is requested to submit to blood tests, only a physician or registered nurse, or a medical technician
+LC003893 - Page 10 of 22
+
+1 certified under regulations promulgated by the director of the department of health, may withdraw
+2 blood for the purpose of determining the alcoholic content in it. This limitation shall not apply to
+3 the taking of breath, saliva or urine specimens. The person tested shall be permitted to have a
+4 physician of his or her own choosing, and at his or her own expense, administer chemical tests of
+5 his or her breath, blood, saliva and/or urine in addition to the tests administered at the direction of
+6 a law enforcement officer. If a person, having been placed under arrest, refuses upon the request of
+7 a law enforcement officer to submit to the tests, as provided in § 31-27-2, none shall be given.
+8 (1) At the initial traffic tribunal appearance, the magistrate shall review the incident, action,
+9 and/or arrest reports submitted by the law enforcement officer to determine if there exists
+10 reasonable grounds to believe that the person had been driving a motor vehicle while under the
+11 influence of intoxicating liquor, toluene, or any controlled substance as defined in chapter 28 of
+12 title 21, or any combination thereof. The magistrate shall also determine if the person had been
+13 informed of the penalties incurred as a result of failing to submit to a chemical test as provided in
+14 this section and that the person had been informed of the implied consent notice contained in
+15 subsection (c)(10) of this section. For the purpose of this subsection only, “driving a motor vehicle
+16 while under the influence of any controlled substance as defined in chapter 28 of title 21” shall be
+17 indicated by the presence or aroma of a controlled substance on or about the person or vehicle of
+18 the individual refusing the chemical test or other reliable indicia or articulable conditions that the
+19 person was impaired due to their intake of a controlled substance.
+20 (2) If the magistrate determines that subsection (b)(1) of this section has been satisfied they
+21 shall promptly order that the person’s operator’s license or privilege to operate a motor vehicle in
+22 this state be immediately suspended. Said suspension shall be subject to the hardship provisions
+23 enumerated in § 31-27-2.8.
+24 (c) A traffic tribunal judge or magistrate, or a district court judge or magistrate, pursuant
+25 to the terms of subsection (d) of this section, shall order as follows:
+26 (1) Impose, for the first violation, a fine in the amount of two hundred dollars ($200) to
+27 five hundred dollars ($500) and shall order the person to perform ten (10) to sixty (60) hours of
+28 public community restitution. The person’s driving license in this state shall be suspended for a
+29 period of six (6) months to one year. The traffic tribunal judge or magistrate shall require attendance
+30 at a special course on driving while intoxicated or under the influence of a controlled substance
+31 and/or alcohol or drug treatment for the individual. The Following the initial suspension of the
+32 person’s operator’s license, the traffic tribunal judge or magistrate may shall prohibit that person
+33 from operating a motor vehicle that is not equipped with an ignition interlock system and/or blood
+34 and urine testing as provided in § 31-27-2.8 for a period of not less than six (6) months and for up
+LC003893 - Page 11 of 22
+
+1 to a period of twelve (12) months.
+2 (2) Every person convicted of a second violation within a ten-year (10) period, except with
+3 respect to cases of refusal to submit to a blood test, shall be guilty of a misdemeanor; shall be
+4 imprisoned for not more than six (6) months; shall pay a fine in the amount of six hundred dollars
+5 ($600) to one thousand dollars ($1,000); perform sixty (60) to one hundred (100) hours of public
+6 community restitution; and the person’s driving license in this state shall be suspended for a period
+7 of one year to two (2) years. The judge or magistrate shall require alcohol and/or drug treatment
+8 for the individual. The Following the initial suspension of the person’s operator’s license, the
+9 sentencing judge or magistrate shall prohibit that person from operating a motor vehicle that is not
+10 equipped with an ignition interlock system and/or blood and urine testing as provided in § 31-27-
+11 2.8 for a period of not less than twelve (12) months and for up to a period of forty-eight (48) months.
+12 (3) Every person convicted for a third or subsequent violation within a ten-year (10) period,
+13 except with respect to cases of refusal to submit to a blood test, shall be guilty of a misdemeanor;
+14 and shall be imprisoned for not more than one year; fined eight hundred dollars ($800) to one
+15 thousand dollars ($1,000); shall perform not less than one hundred (100) hours of public community
+16 restitution; and the person’s operator’s license in this state shall be suspended for a period of two
+17 (2) years to five (5) years. The Following the initial suspension of the person’s operator’s license
+18 the sentencing judge or magistrate shall prohibit that person from operating a motor vehicle that is
+19 not equipped with an ignition interlock system and/or blood and urine testing as provided in § 31-
+20 27-2.8 for a period of not less than twenty-four (24) months and up to a period of one hundred
+21 twenty (120) months. The judge or magistrate shall require alcohol or drug treatment for the
+22 individual. Provided, that prior to the reinstatement of a license to a person charged with a third or
+23 subsequent violation within a three-year (3) period, a hearing shall be held before a judge or
+24 magistrate. At the hearing, the judge or magistrate shall review the person’s driving record, his or
+25 her employment history, family background, and any other pertinent factors that would indicate
+26 that the person has demonstrated behavior that warrants the reinstatement of his or her license.
+27 (4) For a second violation within a ten-year (10) period with respect to a case of a refusal
+28 to submit to a blood test, a fine in the amount of six hundred dollars ($600) to one thousand dollars
+29 ($1,000); the person shall perform sixty (60) to one hundred (100) hours of public community
+30 restitution; and the person’s driving license in this state shall be suspended for a period of two (2)
+31 years. The judicial officer shall require alcohol and/or drug treatment for the individual. The
+32 Following the initial suspension of the person’s operator’s license the sentencing judicial officer
+33 shall prohibit that person from operating a motor vehicle that is not equipped with an ignition
+34 interlock system as provided in § 31-27-2.8. Such a violation with respect to refusal to submit to a
+LC003893 - Page 12 of 22
+
+1 chemical blood test shall be a civil offense for a period of not less than twelve (12) months and for
+2 up to a period of twenty-four (24) months.
+3 (5) For a third or subsequent violation within a ten-year (10) period with respect to a case
+4 of a refusal to submit to a blood test, a fine in the amount of eight hundred dollars ($800) to one
+5 thousand dollars ($1,000); the person shall perform not less than one hundred (100) hours of public
+6 community restitution; and the person’s driving license in this state shall be suspended for a period
+7 of two (2) to five (5) years. The Following the initial suspension of the person’s operator’s license
+8 the sentencing judicial officer shall prohibit that person from operating a motor vehicle that is not
+9 equipped with an ignition interlock system as provided in § 31-27-2.8 for a period of forty-eight
+10 (48) months. The judicial officer shall require alcohol and/or drug treatment for the individual.
+11 Such a violation with respect to refusal to submit to a chemical test of blood shall be a civil offense.
+12 Provided, that prior to the reinstatement of a license to a person charged with a third or subsequent
+13 violation within a three-year (3) period, a hearing shall be held before a judicial officer. At the
+14 hearing, the judicial officer shall review the person’s driving record, his or her employment history,
+15 family background, and any other pertinent factors that would indicate that the person has
+16 demonstrated behavior that warrants the reinstatement of their license.
+17 (6) For purposes of determining the period of license suspension, a prior violation shall
+18 constitute any charge brought and sustained under the provisions of this section or § 31-27-2.
+19 (7) In addition to any other fines, a highway safety assessment of five hundred dollars
+20 ($500) shall be paid by any person found in violation of this section, the assessment to be deposited
+21 into the general fund. The assessment provided for by this subsection shall be collected from a
+22 violator before any other fines authorized by this section.
+23 (8) In addition to any other fines and highway safety assessments, a two-hundred-dollar
+24 ($200) assessment shall be paid by any person found in violation of this section to support the
+25 department of health’s chemical testing programs outlined in §§ 31-27-2(f) and 31-27-2(g), that
+26 shall be deposited as general revenues, not restricted receipts.
+27 (9) No fines, suspensions, assessments, alcohol or drug treatment programs, course on
+28 driving while intoxicated or under the influence of a controlled substance, or public community
+29 restitution provided for under this section can be suspended.
+30 (10) Implied consent notice for persons eighteen (18) years of age or older: “Rhode Island
+31 law requires you to submit to a chemical test of your blood, breath, saliva, or urine for the purpose
+32 of determining the chemical content of your body fluids or breath. If you refuse this testing, certain
+33 penalties can be imposed and include the following: for a first offense, your Rhode Island driver’s
+34 license or privilege to operate a motor vehicle in this state can be suspended for six (6) months to
+LC003893 - Page 13 of 22
+
+1 one year or modified to permit operation in connection with an ignition interlock device and/or
+2 blood and urine testing for a period specified by law; a fine from two hundred dollars ($200) to five
+3 hundred dollars ($500) can be imposed; and you can be ordered to perform ten (10) to sixty (60)
+4 hours of community service and attend a special course on driving while intoxicated or under the
+5 influence of a controlled substance and/or alcohol or drug treatment. You shall pay a one hundred
+6 dollar ($100) assessment to the ignition interlock system fund. If you have had one or more previous
+7 offenses within the past ten (10) years, your refusal to submit to a chemical test of breath or urine
+8 at this time can have criminal penalties, including incarceration up to six (6) months for a second
+9 offense and up to one year for a third or subsequent offense, and can carry increased license
+10 suspension or and a mandatory ignition interlock and/or blood and urine testing periods, fines, and
+11 community service. All violators shall pay a five hundred dollar ($500) highway safety assessment
+12 fee, a two hundred dollar ($200) department of health chemical testing programs assessment fee,
+13 and a license reinstatement fee. Refusal to submit to a chemical test of blood shall not subject you
+14 to criminal penalties for the refusal itself, but if you have one or more previous offenses other civil
+15 penalties may increase. You have the right to be examined at your own expense by a physician
+16 selected by you. If you submit to a chemical test at this time, you have the right to have an additional
+17 chemical test performed at your own expense. You will be afforded a reasonable opportunity to
+18 exercise these rights. Access to a telephone will be made available for you to make those
+19 arrangements. You may now use a telephone.”
+20 Use of this implied consent notice shall serve as evidence that a person’s consent to a
+21 chemical test is valid in a prosecution involving driving under the influence of liquor, controlled
+22 substances, and/or drugs.
+23 (11) In addition to any other fines and highway assessments, any person found in violation
+24 of this section shall pay a one hundred dollar ($100) assessment to the ignition interlock system
+25 fund established in § 31-27-2.10.
+26 (d) Upon suspending or refusing to issue a license or permit as provided in subsection (a),
+27 the traffic tribunal or district court shall immediately notify the person involved in writing, and
+28 upon his or her request, within fifteen (15) days, afford the person an opportunity for a hearing as
+29 early as practical upon receipt of a request in writing. Upon a hearing, the judge may administer
+30 oaths and may issue subpoenas for the attendance of witnesses and the production of relevant books
+31 and papers. If the judge finds after the hearing that:
+32 (1) The law enforcement officer making the sworn report had reasonable grounds to believe
+33 that the arrested person had been driving a motor vehicle within this state while under the influence
+34 of intoxicating liquor, toluene, or any controlled substance, as defined in chapter 28 of title 21, or
+LC003893 - Page 14 of 22
+
+1 any combination of these;
+2 (2) The person, while under arrest, refused to submit to the tests upon the request of a law
+3 enforcement officer;
+4 (3) The person had been informed of his or her rights in accordance with § 31-27-3; and
+5 (4) The person had been informed of the penalties contained in the implied consent notice
+6 set forth in subsection (c)(10) of this section, the judge shall sustain the violation. The judge shall
+7 then impose the penalties set forth in subsection (c) of this section. Action by the judge must be
+8 taken within seven (7) days after the hearing or it shall be presumed that the judge has refused to
+9 issue his or her order of suspension.
+10 (e) For the purposes of this section, any test of a sample of blood, breath, or urine for the
+11 presence of alcohol that relies, in whole or in part, upon the principle of infrared light absorption is
+12 considered a chemical test.
+13 (f) If any provision of this section, or the application of any provision, shall, for any reason,
+14 be judged invalid, the judgment shall not affect, impair, or invalidate the remainder of the section,
+15 but shall be confined in this effect to the provisions or application directly involved in the
+16 controversy giving rise to the judgment.
+17 31-27-2.8. Ignition interlock system and/or blood and urine testing imposed as a part
+18 of sentence — Requirements.
+19 (a) Any person subject to suspension pursuant to §§ 31-27-2.1(b)(1) and 31-27-2.1(b)(2)
+20 or convicted under the provisions of § 31-27-2(d)(1), § 31-27-2(d)(2), § 31-27-2(d)(3)(i), or § 31-
+21 27-2(d)(3)(ii), or whose violation is sustained under the provisions of §§ 31-27-2.1(b)(1) and 31-
+22 27-2.1(b)(2), may shall be prohibited by the sentencing judge or magistrate from operating a motor
+23 vehicle that is not equipped with an ignition interlock system as provided by law, and/or blood and
+24 urine testing by a licensed physician with knowledge and clinical experience in the diagnosis and
+25 treatment of drug-related disorders, a licensed or certified psychologist, social worker, or EAP
+26 professional with like knowledge, or a substance abuse counselor certified by the National
+27 Association of Alcohol and Drug Abuse Counselors (all of whom shall be licensed in Rhode
+28 Island), pursuant to this section.
+29 (1) Notwithstanding any other sentencing and disposition provisions contained in this
+30 chapter, if a Rhode Island traffic tribunal magistrate makes a finding that a motorist was operating
+31 a vehicle in the state while under the influence of drugs, toluene, or any controlled substance as
+32 evidenced by the presence of controlled substances on or about the person or vehicle, or other
+33 reliable indicia or articulable conditions thereof, but not intoxicating liquor based on a preliminary
+34 breath test, results from a breathalyzer that indicates no blood alcohol concentration or both, the
+LC003893 - Page 15 of 22
+
+1 magistrate may exercise his or her discretion and eliminate the requirement of an ignition interlock
+2 system; provided, that blood and/or urine testing is mandated as a condition to operating a motor
+3 vehicle as provided in this section and as provided in §§ 31-27-2 and 31-27-2.1.
+4 (2) Notwithstanding any other sentencing and disposition provisions contained in this
+5 chapter, if a Rhode Island traffic tribunal magistrate makes a finding that a motorist was operating
+6 a vehicle in the state while under the influence of drugs, toluene, or any controlled substance as
+7 evidenced by the presence of controlled substances on or about the person or vehicle, or other
+8 reliable indicia or articulable conditions thereof and intoxicating liquor based on a preliminary
+9 breath test, results from a breathalyzer that indicates blood alcohol concentration or both, the
+10 magistrate may require an ignition interlock system in addition to blood and/or urine testing as a
+11 condition to operating a motor vehicle as provided in this section and as provided in §§ 31-27-2
+12 and 31-27-2.1.
+13 (b) Notwithstanding any other provisions contained in this chapter, any mandatory period
+14 of license suspension shall, upon request, be reduced by the imposition of an ignition interlock
+15 system and/or blood and urine testing ordered by the court or traffic tribunal as follows:
+16 (1) For a violation of § 31-27-2(d)(1), a person shall be subject to a minimum thirty-day
+17 (30) license suspension and an imposition of an ignition interlock system and/or blood and urine
+18 testing for three (3) months to one year the period provided in § 31-27-2(d)(1).
+19 (2) For a violation of § 31-27-2.1(c)(1), a person shall be subject to a minimum thirty-day
+20 (30) license suspension and an imposition of an ignition interlock system and/or blood and urine
+21 testing for a the period of six (6) months to two (2) years provided in § 31-27-2.1(c)(1).
+22 (3) For a violation of § 31-27-2(d)(2), a person shall be subject to a minimum forty-five-
+23 day (45) license suspension and an imposition of an ignition interlock system and/or blood and
+24 urine testing for a the period of six (6) months to two (2) years provided in § 31-27-2(d)(2).
+25 (4) For a violation of § 31-27-2.1(c)(2), a person shall be subject to a minimum sixty-day
+26 (60) license suspension and an imposition of an ignition interlock system and/or blood and urine
+27 testing for a the period of one to four (4) years provided in § 31-27-2.1(c)(2).
+28 (5) For a violation of § 31-27-2(d)(3), a person shall be subject to a minimum sixty-day
+29 (60) license suspension and imposition of an ignition interlock system and/or blood and urine
+30 testing for a the period of one to four (4) years provided in § 31-27-2(d)(3).
+31 (6) For a violation of § 31-27-2.1(c)(3), a person shall be subject to a minimum ninety-day
+32 (90) license suspension and imposition of an ignition interlock system and/or blood and urine
+33 testing for a the period of two (2) to ten (10) years provided in § 31-27-2.1(c)(3).
+34 (7) No license suspension shall be subject to more than a thirty-day (30) license suspension
+LC003893 - Page 16 of 22
+
+1 based solely upon the imposition of an ignition interlock system.
+2 (i) If a conviction pursuant to § 31-27-2(d)(1) or § 31-27-2.1(c)(1) is a first offense, or upon
+3 an initial suspension pursuant to § 31-27-2.1(b)(1), where there has been a finding or determination
+4 that the motorist was under the influence of intoxicating liquor only, the magistrate shall, upon
+5 request, immediately grant a conditional hardship license after a finding of need pursuant to this
+6 section and upon proof of the installation of an ignition interlock device.
+7 (ii) If a conviction pursuant to § 31-27-2(d)(1) or § 31-27-2.1(c)(1) is a first offense, or
+8 upon an initial suspension pursuant to § 31-27-2.1(b)(1), where there has been a finding or
+9 determination that the motorist was under the influence of drugs, toluene, or a controlled substance,
+10 but not intoxicating liquor, the judge or magistrate shall, upon request immediately grant a
+11 conditional hardship license after a finding of need pursuant to this section and upon proof of blood
+12 and urine testing pursuant to this section.
+13 (iii) If a conviction pursuant to § 31-27-2(d)(1) or § 31-27-2.1(c)(1) is a first offense, or
+14 upon an initial suspension pursuant to § 31-27-2.1(b)(1), where there has been a finding or
+15 determination that the motorist was under the influence of intoxicating liquor, toluene, a controlled
+16 substance, or any combination thereof, the magistrate shall, upon request immediately grant a
+17 conditional hardship license after a finding of need pursuant to this section and upon proof of the
+18 installation of an ignition interlock device, subject also to the following testing:
+19 (A) The testing of either blood or urine is being performed by or monitored by a licensed
+20 physician with knowledge and clinical experience in the diagnosis and treatment of drug-related
+21 disorders, a licensed or certified psychologist, social worker, or EAP professional with like
+22 knowledge, or a substance abuse counselor certified by the National Association of Alcohol and
+23 Drug Abuse Counselors (all of whom shall be licensed in Rhode Island).
+24 (B) The motorist is required to pay for the substance abuse professional, any testing,
+25 retesting, monitoring, and reporting costs of the blood and urine testing.
+26 (C) Samples are to be collected, tested and confirmed by a federally certified laboratory by
+27 means of gas chromatography/mass spectrometry or technology recognized as being at least as
+28 scientifically accurate.
+29 (D) Samples are to be taken weekly for the first sixty (60) days, thereafter in accordance
+30 with the recommendation of the substance abuse professional. The samples taken thereafter may
+31 be ordered randomly, but must be provided by the motorist within twenty-four (24) hours of the
+32 request. The substance abuse professional shall report to the department of the attorney general
+33 within twenty-four (24) hours any failure by the motorist to comply with a request for a sample.
+34 (E) A positive test of urine or blood that evidences any controlled substances shall be
+LC003893 - Page 17 of 22
+
+1 reported by the substance abuse professional to the motorist and to the department of the attorney
+2 general within twenty-four (24) hours of receipt of the results. The motorist may, at his or her own
+3 expense, have an opportunity to have the sample retested or reevaluated by an independent testing
+4 facility which shall provide the result directly to the substance abuse professional. The attorney
+5 general may request, at any time, a copy of any or all test results from the substance abuse
+6 professional, who shall forward the requested results within forty-eight (48) hours.
+7 (F) Upon completion of the license suspension, conditional hardship, ignition interlock and
+8 substance abuse testing periods, a finalized report shall be presented to the department of motor
+9 vehicles prior to any license reinstatement.
+10 (G) If a judge or magistrate determines that a motorist either failed, without good cause, to
+11 comply with a sample request or tested positive for any controlled substance, he or she may exercise
+12 his or her discretion and revoke the conditional hardship license, extend the time period for the
+13 ignition interlock system and/or substance abuse testing for an additional period of up to twelve
+14 (12) months and/or impose an additional loss of license for up to twenty-four (24) months.
+15 (H) A motorist who has failed, without good cause, to comply with a sample request or
+16 tested positive for any controlled substance for a second time within twelve (12) months of the first
+17 failure and/or positive test determination shall be guilty of a misdemeanor punishable by up to one
+18 year imprisonment, or a fine of up to one thousand dollars ($1,000), or both.
+19 (c) However, in any case where a motorist is convicted of an alcohol-related offense
+20 pursuant to the provisions of this chapter, the judge or magistrate may exercise his or her discretion
+21 in the granting of the hardship license by imposing up to a ninety (90) day loss of license prior to
+22 any imposition of the hardship license. The hardship license shall be valid for twelve (12)
+23 continuous hours per day for any valid reason approved in advance by the sentencing judge or
+24 magistrate, which shall include employment, medical appointments, job training, schooling, or
+25 religious purposes. The hardship license shall not be for less than twelve (12) continuous hours per
+26 day. A judicial officer shall have discretion to set the period for which a conditional hardship license
+27 grant will last, but in no event will the granted period be less than thirty (30) days nor more than
+28 the maximum period of ignition interlock or blood and/or urine testing as provided for the specific
+29 violation. A hardship license shall only be granted in conjunction with the installation of an ignition
+30 interlock device and/or blood and urine testing. Any conditional driving privileges must be set by
+31 the sentencing judge or magistrate after a hearing in which the motorist must provide proof of
+32 employment status and hours of employment, or any other legitimate reasons justifying a hardship
+33 license. These shall include, but not be limited to, any unemployment training, schooling, medical
+34 appointments, therapy treatments, or any other valid requests set forth by sworn affidavit. Once
+LC003893 - Page 18 of 22
+
+1 said hardship period has concluded, the motorist must still be subject to the conditions of the
+2 ignition interlock system and/or blood and urine testing as set forth under this section for the period
+3 of time as directed by the court. Any individual who violates the requirements of this subsection
+4 shall be subject to the penalties enumerated in § 31-11-18.1.
+5 (d) Any person convicted of an offense of driving under the influence of liquor or drugs
+6 resulting in death, § 31-27-2.2; driving under the influence of liquor or drugs resulting in serious
+7 bodily injury, § 31-27-2.6; driving to endanger resulting in death, § 31-27-1; or driving to endanger
+8 resulting in serious bodily injury, § 31-27-1.1; may, in addition to any other penalties provided by
+9 law, be prohibited from operating a motor vehicle that is not equipped with an approved ignition
+10 interlock system and/or blood and urine testing for one to five (5) years.
+11 (e) Any person who operates a motor vehicle with a suspended license during the period
+12 of suspension, and the reason for the suspension was due to a conviction of driving under the
+13 influence of drugs or alcohol or a sustained violation or conviction of refusal to submit to a chemical
+14 test, shall be subject to the further use of the ignition interlock system and/or blood and urine testing
+15 for a period of six (6) months subsequent to the penalties enumerated in § 31-11-18.1.
+16 (f) When the court orders the use of an ignition interlock system, the judge or magistrate
+17 shall cause an appropriate notation to be made on the person’s record that clearly sets forth the
+18 requirement for, and the period of the use of, the ignition interlock system.
+19 (g) In addition to the requirements of subsection (f) of this section, the court or traffic
+20 tribunal shall:
+21 (1) Require proof of the installation of the ignition interlock system and periodic reporting
+22 by the person for the purpose of verification of the proper operation of the ignition interlock system;
+23 (2) Require the person to have the ignition interlock system monitored for the proper use
+24 and accuracy by a person, firm, corporation, or other association to be approved by the division of
+25 motor vehicles at least once every six (6) months, or more frequently as the circumstances may
+26 require; and
+27 (3) Require the person to pay the reasonable cost of leasing or buying, monitoring, and
+28 maintenance of the ignition interlock system.
+29 (4) The requirements under subsection (g) of this section shall be the responsibility of the
+30 probation department or justice assistance, if the individual is under their control, or the division of
+31 motor vehicles if the individual is not monitored as a condition of the individual’s plea or finding
+32 of guilt.
+33 (h) Any person granted a conditional hardship license upon proof of installation of an
+34 ignition interlock device, may operate that motor vehicle during the entire twelve-hour (12) period
+LC003893 - Page 19 of 22
+
+1 of operation granted by the sentencing judge or magistrate including during the scope of the
+2 person’s employment and/or any other valid reason approved by the sentencing judge or magistrate.
+3 The sentencing judge or magistrate shall have discretion to determine which days of the week a
+4 person granted a conditional hardship license may operate the motor vehicle.
+5 (i) If a person is required, in the course of the person’s employment, to operate a motor
+6 vehicle owned or provided by the person’s employer, the person may operate that motor vehicle in
+7 the course of the person’s employment without installation of an ignition interlock system if the
+8 court makes specific findings expressly permitting the person to operate, in the course of the
+9 person’s employment, a motor vehicle that is not equipped with an ignition interlock system.
+10 (j)(1) Any person subject to an ignition interlock order and/or blood and urine testing who
+11 violates such order shall be guilty of a misdemeanor punishable by up to one year imprisonment,
+12 or a fine of up to one thousand dollars ($1,000), or both.
+13 (2) For a second violation within six (6) months from entry of the order, the person
+14 violating the order shall be imprisoned for a term of not less than ten (10) days and not more than
+15 one year.
+16 (k) For the purposes of this subsection, a violation of the interlock order, includes, but is
+17 not limited to:
+18 (1) Altering, tampering, or in any way attempting to circumvent the operation of an ignition
+19 interlock system that has been installed in the motor vehicle of a person under this section;
+20 (2) Operating a motor vehicle that is not equipped with an ignition interlock system; or
+21 (3) Soliciting or attempting to have another person start a motor vehicle equipped with an
+22 ignition interlock system for the purpose of providing an operable motor vehicle to a person who
+23 is prohibited from operating a motor vehicle that is not equipped with an ignition interlock system.
+24 (l) Any person who attempts to start, or starts, a motor vehicle equipped with an ignition
+25 interlock system, tampers with, or in any way attempts to circumvent, the operation of an ignition
+26 interlock system that has been installed in the motor vehicle for the purpose of providing an
+27 operable motor vehicle to a person who is prohibited from operating a motor vehicle that is not
+28 equipped with an ignition interlock system, shall be guilty of a misdemeanor punishable by up to
+29 one year imprisonment or a fine of up to one thousand dollars ($1,000), or both.
+30 (m) Any ignition interlock system installed pursuant to the provisions of this chapter shall
+31 be equipped with a camera in order to accurately identify the driver who provides a breath sample.
+32 The provisions of subsections (k) and (l) of this section shall apply to the function of the camera,
+33 and any blocking or moving of the camera as installed shall be considered a violation of subsection
+34 (k)(1) of this section.
+LC003893 - Page 20 of 22
+
+1 SECTION 2. Chapter 31-27 of the General Laws entitled "Motor Vehicle Offenses" is
+2 hereby amended by adding thereto the following section:
+3 31-27-2.10. Ignition interlock system fund.
+4 (a) This section shall be administered by the office of the general treasurer.
+5 (b) The office shall designate a program administrator and shall promulgate rules and
+6 regulations in accordance with chapter 42 of title 35 ("administrative procedures") necessary to
+7 carry out the purposes of this section.
+8 (c) There is hereby created an ignition interlock system fund to be administered by the
+9 office of the general treasurer to provide funding for indigent defendants as defined in § 12-15-8
+10 who are required to comply with provisions of §§ 31-27-2, 31-27-2.1 and 31-27-2.8 relating to
+11 ignition interlock systems and who are unable to pay for the system and qualify for such status by
+12 showing proof of participation in a public assistant program including, but not limited to, the
+13 following: Supplemental Nutritional Assistance Program (SNAP), Supplemental Social Security
+14 Income (SSI), Low Income Home Energy Assistance Program (LIHEAP), Temporary Assistance
+15 for Needy Families (TANF), Veterans Pension, and similar programs.
+16 SECTION 3. This act shall take effect upon passage.
+========
+LC003893
+========
+LC003893 - Page 21 of 22
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- MOTOR VEHICLE OFFENSES
+***
+1 This act would require that any person convicted of a charge of driving under the influence
+2 or refusal to submit to a chemical test, have an ignition interlock system installed in their vehicle
+3 as part of any sentence before being eligible for a license reinstatement.
+4 This act would take effect upon passage.
+========
+LC003893
+========
+LC003893 - Page 22 of 22

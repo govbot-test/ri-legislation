@@ -1,0 +1,1166 @@
+Title: 
+Official Title: 
+Source: versions - 8128
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8128
+========
+LC005945
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PUBLIC ACCOUNTANCY
+Introduced By: Representative Stephen M. Casey
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 5-3.1-3, 5-3.1-4, 5-3.1-5, 5-3.1-7, 5-3.1-8, 5-3.1-9, 5-3.1-11, 5-3.1-
+2 12, 5-3.1-14, 5-3.1-15, 5-3.1-16, 5-3.1-18, 5-3.1-19 and 5-3.1-20 of the General Laws in Chapter
+3 5-3.1 entitled "Public Accountancy" are hereby amended to read as follows:
+4 5-3.1-3. Definitions.
+5 As used in this chapter, unless the context requires otherwise, the following terms are
+6 construed as follows:
+7 (1) “Active individual participant” means an individual who is actively engaged in the firm
+8 or its affiliated entities and whose primary occupation consists of providing client services or
+9 participating in the management of the firm.
+10 (2) “AICPA” means the American Institute of Certified Public Accountants.
+11 (3) “Attest” means providing the following services:
+12 (i) Any audit or other engagement to be performed in accordance with the Statements on
+13 Auditing Standards (SAS);
+14 (ii) Any review of a financial statement to be performed in accordance with the Statement
+15 on Standards for Accounting and Review Services (SSARS);
+16 (iii) Any examination of prospective financial information to be performed in accordance
+17 with the Statements on Standards for Attestation Engagements (SSAE);
+18 (iv) Any engagement to be performed in accordance with the standards of the public
+19 company accounting oversight board PCAOB;
+
+1 (v) Any examination, review, or agreed-upon procedures engagement to be performed in
+2 accordance with the SSAE, other than an examination described in subsection (1)(iii); and
+3 (vi) The statements on standards specified in this definition shall be adopted by reference
+4 by the board pursuant to rulemaking and shall be those developed for general application by
+5 recognized national accountancy organizations, such as the American Institute of Certified Public
+6 Accountants AICPA, and the Public Company Accounting Oversight Board PCAOB.
+7 (2)(4) “Authority” means an authority to practice as a public accountant in this state granted
+8 by the public accountants advisory commission under former § 5-3-6 (P.L. 1962, chapter 228,
+9 Section 1, as amended by P.L. 1970, chapter 272, Section 1).
+10 (5) “Baccalaureate degree” means a post-secondary bachelor’s degree awarded by a college
+11 or university for completion of a course of study.
+12 (3)(6) “Board” means the board of accountancy, a public authority created by § 5-3.1-4.
+13 (4) “Certificate” means a certificate as certified public accountant issued under this chapter
+14 or corresponding provisions of prior law, or a corresponding certificate as certified public
+15 accountant issued after examination under the law of any other state.
+16 (5)(7) “Certified public accountant” or “CPA” means a person holding a certificate license
+17 issued under this chapter or corresponding provisions of prior law or under the accountancy act or
+18 similar law of any other state.
+19 (8) “CPA Exam” means the Uniform Certified Public Accountant Examination
+20 administered by the AICPA and NASBA.
+21 (6)(9) “Compilation” means providing a service to be performed in accordance with the
+22 Statement on Standards for Accounting and Review Services (SSARS), as adopted by the American
+23 Institute of Certified Public Accountants AICPA, that is presenting in the form of financial
+24 statements, information that is the representation of management without undertaking to express
+25 any assurance on the statements.
+26 (7)(10) “Entity” includes a general partnership, limited-liability company, limited-liability
+27 partnership, corporation, sole proprietor, trust, and joint venture and other professional business
+28 structures.
+29 (8) “Good moral character” for purposes of this section, means lack of a history of
+30 dishonest or felonious acts.
+31 (11) “License” means the license issued under this chapter to a certified public accountant
+32 and the permit issued under this chapter to a public accountant.
+33 (9)(12) “Licensee” means the holder of a certificate, license authority, or permit issued
+34 under this chapter or under the prior laws of this state.
+LC005945 - Page 2 of 33
+
+1 (10)(13) “Majority” refers to more than fifty percent (50%) ownership in terms of financial
+2 interests and voting rights.
+3 (14) “NASBA” means the National Association of State Boards of Accountancy.
+4 (15) “PCAOB” means the Public Company Accounting Oversight Board.
+5 (11)(16) “Peer review” means a study, appraisal, or review of one or more aspects of the
+6 professional work of a practice unit engaged in the practice of public accountancy in this state, by
+7 a licensee or licensees who are not affiliated with the practice unit being reviewed.
+8 (12) “Permit” means a permit to practice public accountancy issued under § 5-3.1-7, § 5-
+9 3.1-8, or § 5-3.1-9, or under corresponding provisions of prior law, or under corresponding
+10 provisions of the law of any other state.
+11 (17) “Post-baccalaureate degree” means a master’s degree, doctor of philosophy (Ph.D),
+12 juris doctor (J.D.) or other graduate degree awarded by a college or university for completion of a
+13 course of study.
+14 (13)(18) “Practice of (or practicing) public accounting or accountancy” means the
+15 performance of, or the offering to perform, in an independent posture, for a client or potential client,
+16 one or more kinds of services involving the use of accounting or auditing skills, in connection with
+17 the issuance of reports as defined in subsection (17)(23).
+18 (14)(19) “Practice unit” OR “CPA Firm” means a sole proprietorship, corporation, general
+19 partnership, limited-liability company, limited-liability partnership, or other entity engaged in the
+20 practice of public accounting in this state. For the purpose of this chapter, the office of the auditor
+21 general is considered a practice unit.
+22 (20) “Practice unit permit” means a permit issued to a practice unit engaged in the practice
+23 of public accounting in this state.
+24 (15)(21) “Principal residence place of business” means the state in which a person has the
+25 right to register to vote for, or the right to vote in, general elections and in which he or she qualifies
+26 to file a resident state income tax return office location designated by the licensee for purposes of
+27 mobility practice privileges and reciprocity.
+28 (16)(22) “Public accountant” or “PA” means a person holding an authority as a public
+29 accountant issued under the prior laws of this state.
+30 (17)(23) “Report” means an opinion, report, or other form of language that states or implies
+31 assurance as to the reliability of the attested information or compiled financial statements and that
+32 also includes, or is accompanied by, a statement or implication that the person or practice unit
+33 issuing the financial statements has special knowledge or competence in accounting or auditing. A
+34 statement or implication of special knowledge or competence may arise from use by the issuer of
+LC005945 - Page 3 of 33
+
+1 the report of names or titles indicating that the issuer is an accountant or auditor, or from the
+2 language of the report itself. The term “report” includes any form of language that disclaims an
+3 opinion when that language is conventionally understood to imply any positive assurance as to the
+4 reliability of the attested information or compiled financial statements referred to and/or any special
+5 competence on the part of the person or practice unit issuing that language; and it also includes any
+6 other form of language that is conventionally understood to imply that assurance and/or special
+7 knowledge or competence.
+8 (18)(24) “State” means the states any states of the United States, the District of Columbia,
+9 Puerto Rico, Guam, and the U.S. Virgin Islands, and the Commonwealth of the Northern Mariana
+10 Islands. The term “this state” means the state of Rhode Island.
+11 (19)(25) “Substantial equivalency” means a determination by the board of accountancy
+12 that the education, examination, and experience requirements contained in the statutes and
+13 administrative rules of another state or foreign jurisdiction are comparable to or exceed the
+14 education, examination, and experience requirements included in this chapter in the Uniform
+15 Accountancy Act or that an individual CPA’s education, examination, and experience
+16 qualifications are comparable to or exceed the education, examination, and experience
+17 requirements contained in this chapter the Uniform Accountancy Act. In ascertaining substantial
+18 equivalency as used in this chapter, the board shall take into account the qualifications without
+19 regard to the sequence in which experience, education, or examination requirements were attained.
+20 5-3.1-4. Board of accountancy.
+21 (a) There is created a board of accountancy in and for the state of Rhode Island, to be
+22 known as the Rhode Island board of accountancy. The board shall consist of five (5) members. All
+23 members shall be appointed by the governor. Membership of the board shall consist of three (3)
+24 four (4) members who hold certificates and valid permits active licenses to practice as certified
+25 public accountants in this state and who are in public practice as certified public accountants in this
+26 state, and one member who holds an authority and a valid permit to practice as a public accountant
+27 in this state unless the governor shall not be able to find a qualified appointee within the class of
+28 public accountants at which time the governor shall appoint a certified public accountant. All four
+29 (4) of those members shall have at least ten (10) years’ experience in a full-time practice of public
+30 accountancy. The fifth member shall be from the public sector and shall have professional or
+31 practical experience in the use of accounting services and financial statements as to be qualified to
+32 evaluate whether the qualifications, activities, and professional practice of those persons and firms
+33 regulated under this chapter conform with the standards established to protect the public interest.
+34 The board member from the public sector shall be designated as the public’s member to the board
+LC005945 - Page 4 of 33
+
+1 for the term of service appointed. Except as provided, the term of the members of the board shall
+2 be five (5) years. No member of the board shall be associated in the practice of accountancy, either
+3 individually or as a member of a firm, with any other member of the board. The members of the
+4 Rhode Island board of accountancy appointed and serving under prior law on July 1, 1995, shall
+5 serve out the terms for which they were originally appointed as members of the board created by
+6 this section. Vacancies occurring during any term shall be filled by appointment by the governor
+7 for the unexpired term. Upon the expiration of his or her their term of office, a member shall
+8 continue to serve until his or her their successor has been appointed and has assumed office. The
+9 governor shall remove from the board any member whose certificate, authority, or permit license
+10 has been revoked, suspended, or not renewed. No person who has served two (2) consecutive,
+11 complete terms is eligible for reappointment. Serving the remainder of an unexpired term upon
+12 appointment by the governor to fill a vacancy on the board shall not be considered as serving a
+13 complete term.
+14 (b) The board shall elect annually from among its members a chairperson and any other
+15 officers that it deems appropriate. The board shall meet at any times and places that are fixed by
+16 the board and in any event shall meet no less than four (4) times each year. Three (3) members of
+17 the board shall constitute a quorum for the transaction of business. The board shall have a seal
+18 which shall be judicially noticed. The board shall retain or arrange for the retention of all
+19 applications and documents under oath that are filed with the board, and shall maintain a registry
+20 of the names and addresses of all licensees. The board shall keep records of its proceedings, and in
+21 any proceeding in court, civil or criminal, arising out of, or founded upon, any provision of this
+22 chapter, copies of the records certified as correct under the seal of the board are admissible in
+23 evidence.
+24 (c) Each member of the board shall be reimbursed for actual and necessary expenses
+25 incurred in the discharge of those duties, but shall not receive compensation for their services on
+26 the board.
+27 (d) All fees and monies derived under the provisions of this chapter shall be paid to, and
+28 received by, the general treasurer of the state of Rhode Island, who shall keep the monies in a
+29 restricted receipt account. All monies in the restricted receipt account shall be used to reimburse
+30 the board for expenses incurred in the administration and enforcement of this chapter. The board
+31 treasurer is authorized and directed to draw orders upon the general treasurer for payment from the
+32 restricted receipt account upon receipt by the board treasurer of vouchers authenticated by the
+33 chairperson, vice chairperson, or secretary of the board.
+34 (e) The board shall maintain on its website an annual report of its activities with the
+LC005945 - Page 5 of 33
+
+1 governor and the general assembly of this state. The report shall include, but not be limited to, a
+2 statement of all receipts and disbursements and a listing of all current licensees.
+3 (f) The board shall prescribe any rules and regulations not inconsistent with the provisions
+4 of this chapter that it deems consistent with, or required by, the public welfare and policy
+5 established in § 5-3.1-2. Those rules and regulations may include:
+6 (1) Rules and regulations of procedure for governing the conduct of matters before the
+7 board;
+8 (2) Rules and regulations of professional conduct for establishing and maintaining high
+9 standards of competence and integrity in the profession of public accounting;
+10 (3) Rules and regulations governing educational and experience requirements for the
+11 issuance of certificates licenses;
+12 (4) Rules and regulations establishing requirements for continuing education to promote
+13 the professional competence of holders of permits, which the board may require those holders to
+14 meet as a condition of their continuing in the practice of public accounting;
+15 (5) Rules and regulations governing practice units engaged in the practice of public
+16 accounting, including, but not limited to, rules and regulations concerning the style, name, title,
+17 and affiliation with any other organization, and establishing reasonable standards as to professional
+18 liability insurance;
+19 (6) Rules and regulations for reviewing and monitoring professional performance and
+20 conducting peer reviews;
+21 (7) Any other rules and regulations that the board deems necessary or appropriate in
+22 exercising its functions under this chapter.
+23 (g) The promulgation of any rule, regulation, or amendment to it under subsection (f) of
+24 this section, or under any other provision of this chapter, shall be in accordance with § 42-35-3.
+25 (h) The board may employ or utilize any personnel and arrange for or accept any assistance,
+26 legal or otherwise, that it requires for the performance of its duties. It may also establish one or
+27 more advisory committees as it deems necessary in the performance of its duties. The authority and
+28 term of that advisory committee may be permanent or temporary in nature as determined by the
+29 board.
+30 (i) In addition to its rulemaking authority, the board has the power to take all action that is
+31 necessary and proper to effectuate the purposes of this chapter, including the power to:
+32 (1) Sue and be sued in its official name as an agency of this state;
+33 (2) Investigate all complaints and charges of unprofessional conduct, including, but not
+34 limited to, conduct specified under § 5-3.1-12, against any licensee or any applicant for a certificate
+LC005945 - Page 6 of 33
+
+1 license or permit, and to hold hearings, in accordance with the provisions of § 5-3.1-14, to
+2 determine whether those complaints and charges are substantiated;
+3 (3) Appoint one or more members of the board, legal counsel, and/or an independent
+4 investigator to act on behalf of the board in investigating the conduct of any licensee, or of any
+5 applicant for a certificate licenses or permit, or, in the alternative, to appoint a probable-cause
+6 committee to investigate that conduct on its behalf, the committee to be comprised of licensees in
+7 good standing, as the board determines; and
+8 (4) Issue subpoenas, administer oaths, and summon and examine witnesses in connection
+9 with any investigation conducted under authority of this chapter. If a subpoena is disobeyed, the
+10 board may invoke the aid of any court of competent jurisdiction in this state to require the
+11 attendance and testimony of witnesses and the production of documentary evidence.
+12 (j) The board and its members and agents are immune from personal liability for actions
+13 taken in good faith in the discharge of the board’s responsibilities, and the state of Rhode Island
+14 shall indemnify the board and those members and agents for, and hold them harmless from, any
+15 and all costs, damages, and reasonable attorney’s fees arising from, or related in any way, to claims
+16 or actions against them as to matters to which the immunity applies.
+17 (k) The board shall adopt rules and regulations to implement substantial equivalency
+18 individual mobility practice privileges as set forth in § 5-3.1-7(g) § 5-3.1-5(f).
+19 5-3.1-5. Certified public accountants General requirements for certified public
+20 accountants licensure.
+21 (a) Application for a CPA license, initial or reciprocal, shall be made as instructed by the
+22 board and include payment of the required fee, as determined by the board by rule or regulation.
+23 Upon application for a certificate and payment of the required fee, the board shall issue a certificate
+24 to any person who:
+25 (b) To be eligible for initial licensure as a CPA in this state, an applicant shall satisfy all
+26 applicable requirements of this chapter, and demonstrate eligibility for CPA licensure through one
+27 of the following pathways:
+28 (1) Is of good moral character;
+29 (2) Has a principal residence in Rhode Island as defined in § 5-3.1-3 or a primary place of
+30 employment in Rhode Island;
+31 (1) A post-baccalaureate degree, conferred by a college or university acceptable to the
+32 board, the total educational program to include an accounting concentration or equivalent and
+33 courses in any related subjects that the board determines to be appropriate; evidence of passing
+34 scores on the CPA exam; and one year of experience in providing any type of service or advice
+LC005945 - Page 7 of 33
+
+1 involving the use of accounting, attest, management advisory, financial advisory, tax, or consulting
+2 skills, all of which were verified by a licensee, meeting requirements prescribed by the board by
+3 rule.
+4 (3)(2) Has received a A baccalaureate degree and completion of an additional thirty (30)
+5 semester credit hours both conferred by from a college or university acceptable to the board, the
+6 total educational program of which includes an accounting concentration or its equivalent and
+7 courses in any related subjects that the board determines to be appropriate; evidence of passing
+8 scores on the CPA exam; and one year of experience in providing any type of service or advice
+9 involving the use of accounting, attest, management advisory, financial advisory, tax, or consulting
+10 skills, all of which were verified by a licensee, meeting requirements prescribed by the board by
+11 rule.
+12 (3) A baccalaureate degree conferred by a college or university acceptable to the board, the
+13 total educational program of which includes an accounting concentration or its equivalent and
+14 courses in any related subjects that the board determines to be appropriate; evidence of passing
+15 scores on the CPA exam; and two (2) years of experience in providing any type of service or advice
+16 involving the use of accounting, attest, management advisory, financial advisory, tax, or consulting
+17 skills, all of which were verified by a licensee, meeting requirements prescribed by the board by
+18 rule.
+19 provided, the education requirement for a certificate shall be at least one hundred fifty (150)
+20 semester hours of college education, including a baccalaureate or higher degree conferred by a
+21 college or university acceptable to the board, the total educational program of which includes an
+22 accounting concentration or equivalent as determined by board rule to be appropriate; provided,
+23 that a candidate who has not met the one-hundred-fifty-hour (150) education requirement may sit
+24 for an examination if the candidate has, at the time of the examination, completed not less than one
+25 hundred twenty (120) semester hours of education, provided that such candidate who successfully
+26 passes the examination will not be eligible to receive a certificate until the applicant completes the
+27 one-hundred-fifty-hour (150) education requirement and the experience requirement;
+28 (4) Has passed examinations in accounting and auditing and any related subjects that the
+29 board deems appropriate and specifies by rule;
+30 (5) Has one year of experience in providing any type of service or advice involving the use
+31 of accounting, attest, management advisory, financial advisory, tax, or consulting skills, all of
+32 which were verified by a licensee, meeting requirements prescribed by the board by rule. This
+33 experience would be acceptable if it was gained through employment in government, industry,
+34 academia, or public practice. After December 31, 1999, the person must also have completed one
+LC005945 - Page 8 of 33
+
+1 hundred fifty (150) hours or received a master’s or doctorate degree in accounting, business
+2 administration, or other related curriculum from a college or university recognized by the board;
+3 and have satisfactorily completed any number of semester hours in accounting, auditing, and other
+4 business courses that are prescribed by board rules and regulations; and
+5 (6) If an out-of-state individual:
+6 (i) Has passed all parts of the uniform certified public accountant examination in another
+7 jurisdiction, but has not received a certificate or similar certification in that jurisdiction;
+8 (ii) Has established a principal residence in Rhode Island or a primary place of employment
+9 in Rhode Island preparatory to seeking a certificate from this state;
+10 (iii) Has complied with the longer of:
+11 (A) The experience requirement in the jurisdiction in which the uniform examination was
+12 taken; or
+13 (B) The Rhode Island experience requirement;
+14 (iv) Has complied with the educational requirements under subsection (a)(3); and
+15 (v) Has satisfactorily complied with any other requirements that the board by rule or
+16 regulation reasonably determines to be appropriate.
+17 (b) The board, in its discretion, may accept the educational credits of any person who is a
+18 candidate for a certificate if it is satisfied, by appropriate means of evaluation, that the credits are
+19 an acceptable substitute for the credit requirements of subsection (a)(3). The board, in its discretion,
+20 may waive the residency or primary place of employment requirements relating to the issuance of
+21 a certificate as stated in subsections (a)(2) and (a)(6).
+22 The examinations described in subsection (a)(4) are held by the board and shall take place as often
+23 as the board determines to be desirable, but in any event not less frequently than once each year.
+24 The board shall prescribe by rule the procedures to be followed in applying for and conducting the
+25 examinations and the methods to be used in grading the examinations and determining a passing
+26 grade.
+27 (c) Examination requirement
+28 (1) In situations where a candidate is enrolled in a dual degree program, and the
+29 baccalaureate degree is conferred at or after the completion of the master’s degree, the candidate is
+30 eligible to sit for the CPA exam upon completion of the baccalaureate degree requirements
+31 including the accounting concentration or equivalent and courses in any related subjects that the
+32 board determines to be appropriate. However, that candidate will not be eligible to receive a license
+33 until they pass the CPA exam and complete all applicable education and experience requirements
+34 set forth in this section.
+LC005945 - Page 9 of 33
+
+1 (2) The board may make use of any or all parts of the uniform certified public accountant
+2 examination CPA Exam and advisory grading service provided by the American Institute of
+3 Certified Public Accountants AICPA and NASBA, and may contract with third parties to perform
+4 any administrative services with respect to the examinations that the board deems appropriate to
+5 assist it in performing its duties under this section. The board shall prescribe by rule the methods
+6 of applying for and conducting the examination, the required content of the exam, which sections
+7 are required, the setting and payment of fees, methods for grading and determining a passing grade,
+8 and penalties for anyone found to have cheated on any part of a CPA exam.
+9 (d) The board may, by rule or regulation, provide for the granting of credit to a candidate
+10 for the satisfactory completion by the candidate of an examination, in any one or more of the
+11 subjects referred to in subsection (a)(4), that is given by the licensing authority in any other state.
+12 Any rules and regulations shall include the requirement that any examination approved as a basis
+13 for the granting of credit is, in the judgment of the board at the time of the granting of the credit, at
+14 least as thorough as the most recent examination given by the board in the subject or subjects tested.
+15 The board may also, by rule or regulation, prescribe terms and conditions under which a candidate
+16 who passes the examination in one or more of the subjects referred to in subsection (a)(4) may be
+17 reexamined in the remaining subjects, with credit given for the subjects previously passed. It also
+18 may provide by rule or regulation for a reasonable waiting period for a candidate’s reexamination
+19 in a subject previously failed. Subject to the preceding and to any other rules and regulations that
+20 the board may adopt governing reexaminations, a candidate is entitled to any number of
+21 reexaminations. Except as the board may provide by a rule or regulation in order to prevent what it
+22 determines to be undue hardship to candidates, a candidate granted credit for satisfactory
+23 examination in any one or more of the subjects referred to in subsection (a)(4) shall have met the
+24 educational requirement of subsection (a)(3) or (a)(5) of this section in effect on the date of the
+25 examination by which the candidate successfully completes the examination under subsection
+26 (a)(4).
+27 (e) The board shall charge each candidate for a certificate a fee for the initial examination
+28 under subsection (a), for reexamination under subsection (d) for each subject in which the candidate
+29 is reexamined, and for evaluation of a candidate’s educational qualifications under subsection (b).
+30 The applicable fee shall be paid by the candidate at the time of application for the examination,
+31 reexamination, or evaluation. Fees for examination, reexamination, and evaluation of educational
+32 qualifications shall be determined by the board and prescribed in the rules and regulations issued
+33 by the board. The liability of the board to a candidate taking an examination or reexamination is
+34 limited to the amount of the fee received for the examination.
+LC005945 - Page 10 of 33
+
+1 (f) Persons who on July 1, 1995, hold a certificate issued under the laws of this state prior
+2 to that date are not required to obtain an additional certificate under this chapter, but are subject to
+3 all the provisions of this chapter; the certificate previously issued is, for all purposes, considered a
+4 certificate issued under this chapter and subject to the provisions of this chapter. Reinstatement
+5 power is vested in the board as to those certificates suspended or revoked prior to July 1, 1995, and
+6 the holder of those certificates may have them reissued upon application for reissuance in
+7 accordance with § 5-3.1-15. Persons holding certificates on July 1, 1995, who are estopped from
+8 obtaining a permit under government employment restrictions may apply for a permit under § 5-
+9 3.1-7 within one year following termination of that employment, and upon obtaining the permit
+10 may engage in the practice of public accounting in this state as a certified public accountant subject
+11 to the provisions of this chapter.
+12 (g)(1)(d) The board shall, upon application for a certificate and payment of a fee to be
+13 determined by the board and promulgated by rule or regulation, issue a certificate to a holder of a
+14 certificate issued by another state, provided that: Reciprocal licensure: A CPA who holds a valid
+15 license in good standing issued by another state and who desires to practice in this state may qualify
+16 for reciprocity as follows:
+17 (1) Meeting the individual mobility practice privilege requirements set forth in subsection
+18 (f) of this section; or
+19 (2) If the applicant does not qualify for reciprocity under subsection (f) of this section, the
+20 applicant must submit an application that includes evidence of:
+21 (i) Passing the CPA exam;
+22 (ii) After passing the CPA exam and within ten (10) years immediately preceding the
+23 application, having at least four (4) years of experience in providing any type of service or advice
+24 involving the use of accounting, attest, management advisory, financial advisory, tax, or consulting
+25 skills, all of which were verified by a licensee, meeting requirements prescribed by the board by
+26 rule; and
+27 (iii) If the applicant’s license in another state was issued more than four (4) years prior to
+28 the application for issuance of a license under this section, evidence that the applicant has fulfilled
+29 the requirements of continuing professional education that would have been applicable under § 5-
+30 3.1-7.
+31 (3) A CPA licensed by another state who established their principal place of business in
+32 this state shall apply for a CPA license in this state prior to establishing such principal place of
+33 business.
+34 (i) The applicant meets all current requirements in this state at the time application is made;
+LC005945 - Page 11 of 33
+
+1 and
+2 (ii) At the time of the issuance of the applicant’s certificate in the other state, the applicant
+3 met all requirements then applicable in this state unless reciprocity is allowed under the substantial
+4 equivalency standard in § 5-3.1-7.
+5 (2) If the holder of a certificate issued by another state meets all current requirements in
+6 this state except the educational or experience requirements of this state as prescribed in this
+7 section, or passed the examination under different credit provisions then applicable in this state, the
+8 board shall issue a certificate to the applicant upon application for the certificate and upon payment
+9 of the required fee, provided that:
+10 (i) The applicant has four (4) years of experience of the type described in subsection (a)(5)
+11 or meets comparable requirements prescribed by the board by rule within the ten (10) years
+12 immediately prior to the application; or
+13 (ii) The applicant has five (5) years of experience in the practice of public accountancy
+14 over a longer or earlier period and has completed fifteen (15) current semester hours of accounting,
+15 auditing, and any other related subject that the board specifies by rule, at an accredited institution,
+16 and has one year of current experience in the practice of public accountancy.
+17 (h)(4) An applicant for issuance of a certificate under this section license by reciprocity
+18 shall list in the application all other states in which the applicant has applied for or holds a certificate
+19 license. Each applicant for or holder of a certificate license issued under this section shall, within
+20 thirty (30) days of the occurrence of that event, notify the board, in writing, of the issuance, denial,
+21 revocation, or suspension of a certificate license by any other state, or of the commencement of a
+22 disciplinary or enforcement action against the applicant or holder by any other state.
+23 (e) Submission of an application for a license by any person who is not a resident of this
+24 state, constitutes the appointment of the secretary of state as an agent for the applicant for service
+25 of process in any action or proceeding arising out of any transaction or operation connected with
+26 or incidental to the practice of public accounting in this state by the applicant.
+27 (f) Individual mobility practice privilege:
+28 (1) Notwithstanding any other provision of law, an individual who holds a valid license in
+29 good standing as a CPA from any state and whose principal place of business is not in this state,
+30 who offers or renders professional services in this state, whether in person, by mail, telephone, or
+31 electronic means, shall be granted practice privileges in this state and no notice, fee, or other
+32 submission shall be required from any such individual, provided that:
+33 (i) At the time of initial licensure, such individual was required to show evidence of having
+34 met the requirements of one of the three (3) pathways set forth in subsection (b) of this section; or
+LC005945 - Page 12 of 33
+
+1 (ii) Such individual held an active license as a CPA in good standing from any state as of
+2 December 31, 2024, and as of such date, had practice privileges in this state.
+3 (2) Any individual licensee of another state exercising the privilege afforded under this
+4 subsection and the CPA firm that employs that licensee hereby simultaneously consent, as a
+5 condition of the granting of this privilege:
+6 (i) To the personal and subject-matter jurisdiction and disciplinary authority of the board;
+7 (ii) To comply with this chapter and the board’s rules;
+8 (iii) That, in the event the license from the state of the individual’s principal place of
+9 business is no longer valid, the individual will cease offering or rendering professional services in
+10 this state individually and on behalf of a CPA firm; and
+11 (iv) To the appointment of the board that issued their license as their agent upon whom
+12 process may be served in any action or proceeding by this board against the licensee.
+13 (3) A licensee of this state offering or rendering services or using their CPA title in another
+14 state shall be subject to disciplinary action in this state for an act committed in another state for
+15 which the licensee would be subject to discipline for an act committed in the other state.
+16 (4) An individual who has been granted practice privileges under this subsection who
+17 performs any attest and/or compilation service as defined in § 5-3.1-3 may only do so through a
+18 CPA Firm which meets the requirements of § 5-3.1-9.
+19 (5) The board may rely on the NASBA National Qualification Appraisal Service to
+20 determine which other jurisdictions licensees’ or individuals may be eligible for individual mobility
+21 practice privilege in this state.
+22 (i)(g) In accordance with § 28-5.1-14, The the board may refuse to grant a certificate on
+23 the grounds of failure to satisfy the good moral character requirement only license based upon a
+24 history of dishonest or felonious acts, or disciplinary actions by another state or federal agency if
+25 there is a substantial connection between the lack of good moral character of the applicant prior
+26 criminal or administrative disciplinary history of the applicant and the professional responsibilities
+27 of a licensee as determined by the board. and if the finding by the board of lack of good moral
+28 character is supported by clear and convincing evidence. When an applicant is found to be
+29 unqualified for a certificate because of lack of good moral character license under this section, the
+30 board shall furnish the applicant a statement containing the findings of the board, a complete record
+31 of the evidence upon which the determination was based, and a notice of the applicant’s right of
+32 appeal to request a hearing on the refusal to grant a license.
+33 5-3.1-7. Permits for public accountants and certified public accountants License term,
+34 fees, continuing education requirements, and renewals.
+LC005945 - Page 13 of 33
+
+1 (a) Annual permits to engage in the practice of public accounting in this state shall be issued
+2 by the board, upon application for the permit and payment of the required fee, to certified public
+3 accountants qualified under § 5-3.1-5 or eligible under the substantial equivalency standard set out
+4 in subsection (g), and to public accountants qualified under § 5-3.1-6. Effective January 1, 2009,
+5 all permits All licenses issued by the board shall be valid for a period of three (3) years and shall
+6 expire upon the last day of June of the year in which the permit license is scheduled to expire. To
+7 transition existing licensees to a three-year (3) licensing cycle, the board shall have the authority
+8 and discretion in 2008 to issue permits under this section that are valid for one, two (2), or three (3)
+9 years. All such permits issued during 2008 shall expire upon the last day of June of the year in
+10 which the permit is scheduled to expire. The board’s authority to issue permits valid for one or two
+11 (2) years shall cease as of December 31, 2008.
+12 (b) A certified public accountant who holds a permit issued by another state and who
+13 desires to practice in this state shall apply for a permit in this state if that person does not qualify
+14 for reciprocity under the substantial equivalency standard set out in subsection (g). Upon the date
+15 of filing the completed application with the board, the applicant is deemed qualified to practice,
+16 and may practice, public accounting in this state pending board review of the application; provided,
+17 that the applicant meets all other applicable requirements under this chapter. Submission of the
+18 application constitutes the appointment of the secretary of state as an agent for the applicant for
+19 service of process in any action or proceeding arising out of any transaction or operation connected
+20 with or incidental to the practice of public accounting in this state by the applicant.
+21 (c)(b) Applications for renewal of a permit license under this section shall be submitted to
+22 the board, by February 15 of the year in which the permit is scheduled to expire in accordance with
+23 the board’s instructions and regulations, and shall be accompanied by evidence that the applicant
+24 has satisfied the continuing professional education requirements promulgated by board regulation.
+25 That evidence shall be in a form that the board requires. Failure to furnish that evidence constitutes
+26 grounds for refusal to renew the permit license unless the board in its discretion determines that the
+27 failure was due to reasonable cause or excusable neglect.
+28 (d)(c) Applications for renewal of a permit license under this section shall also identify any
+29 practice unit with which the applicant is affiliated. In the event the practice unit fails to comply
+30 with § 5-3.1-9 or § 5-3.1-10, the board may refuse to renew the applicant’s individual permit license
+31 if the board determines that the applicant was personally and substantially responsible for the
+32 failure of the practice unit to meet the requirements of §§ 5-3.1-9 and 5-3.1-10.
+33 (e)(d) All applicants for a permit license under this section chapter shall list in the
+34 application all other states in which the applicant has applied for or holds a permit license to
+LC005945 - Page 14 of 33
+
+1 practice. Each applicant for, or holder of, a permit license issued under this section chapter, or and
+2 any individual who has entered the state under the provisions of substantial equivalency individual
+3 mobility practice privileges pursuant to § 5-3.1-5(f), shall, within thirty (30) days of the occurrence
+4 of the event, notify the board in writing:
+5 (1) Of the issuance, denial, revocation, or suspension of any certificate, license, degree, or
+6 permit by any other state; or
+7 (2) Of the commencement of any disciplinary or enforcement action against the applicant,
+8 holder, or individual by any other state.
+9 (f)(e) Fees for the issuance and renewal of permits licenses under this section shall be
+10 established from time to time by the board. In no case shall the three-year (3) renewal fee be less
+11 than three hundred seventy-five dollars ($375). The required fee shall be paid by the applicant at
+12 the time the application is filed with the board.
+13 (g) Substantial equivalency.
+14 (1) An individual having a valid certificate or license as a certified public accountant from
+15 any state whose licensure requirements are determined to be substantially equivalent with the
+16 conditions of this section shall have all the privileges of certificate holders and licensees of this
+17 state without the need to obtain a certificate or permit from this state under this section as long as
+18 the conditions of this section are met. The individual must have one year or more of experience.
+19 This experience shall include providing any type of service or advice involving the use of
+20 accounting, attest, management advisory, financial advisory, tax, or consulting skills all of which
+21 was verified by a licensee, meeting requirements prescribed by the board by rule. This experience
+22 is acceptable if it was gained through employment in government, industry, academia, or public
+23 practice. Notwithstanding any other provision of law, an individual who offers or renders
+24 professional services, whether in person, by mail, telephone, or electronic means, under this section
+25 shall be granted practice privileges in this state and no notice or other submission shall be provided
+26 by any such individual. Such an individual shall be subject to the requirements in subsection (g)(3).
+27 If this individual is responsible for supervising attest services and signs or authorizes another
+28 licensee to sign the accountant’s report on the financial statements on behalf of the firm, this
+29 individual shall meet the experience requirements set out in the professional standards for such
+30 services. If this individual is responsible for signing or authorizing another licensee to sign the
+31 accountant’s report on the financial statements on behalf of the firm, this individual shall meet the
+32 experience requirements set out in the professional standards for such services. The board may use
+33 the NASBA National Qualification Appraisal Service to determine which other states have
+34 substantial equivalence with this chapter.
+LC005945 - Page 15 of 33
+
+1 (2) An individual who holds a valid certificate or license as a certified public accountant
+2 from any state that the NASBA National Qualification Appraisal Service has not verified to be in
+3 substantial equivalence with the CPA licensure requirements of the AICPA/NASBA Uniform
+4 Accountancy Act shall be presumed to have qualifications substantially equivalent to this state’s
+5 requirements and shall have all the privileges of certificate holders and licenses of this state without
+6 the need to obtain a certificate or permit under this section if such individual obtains from the
+7 NASBA National Qualification Appraisal Service verification that such individual’s CPA
+8 qualifications are substantially equivalent to the CPA licensure requirements of the
+9 AICPA/NASBA Uniform Accountancy Act. Any individual who passed the Uniform CPA
+10 Examination and holds a valid license issued by any other state prior to January 1, 2012, may be
+11 exempt from the education requirement in § 5-3.1-5(a)(3) for purposes of this section.
+12 (3) Any individual licensee of another state exercising the privilege afforded under this
+13 section and the CPA firm that employs that licensee hereby simultaneously consents, as a condition
+14 of the granting of this privilege:
+15 (i) To the personal and subject-matter jurisdiction and disciplinary authority of the board;
+16 (ii) To comply with this chapter and the board’s rules;
+17 (iii) That, in the event the certificate or license from the state of the individual’s principal
+18 place of business is no longer valid, the individual will cease offering or rendering professional
+19 services in this state individually and on behalf of a CPA firm; and
+20 (iv) To the appointment of the board that issued their license as their agent upon whom
+21 process may be served in any action or proceeding by this board against the licensee.
+22 (4) A licensee of this state offering or rendering services or using their CPA title in another
+23 state shall be subject to disciplinary action in this state for an act committed in another state for
+24 which the licensee would be subject to discipline for an act committed in the other state.
+25 5-3.1-8. Permits for accountants licensed by foreign countries Licenses for
+26 accountants licensed by foreign countries.
+27 (a) An annual limited permit to engage in the practice of public accounting in this state A
+28 CPA license may be issued by the board, upon application for the permit license and payment of
+29 the required fee, to any person who is the holder of a certificate, license, or degree from a foreign
+30 country constituting a recognized qualification for the practice of public accounting in that country
+31 substantially equivalent foreign designation, provided that:
+32 (1) The board determines that the foreign designation:
+33 (i) Was duly issued by a foreign authority that regulates the practice of public accountancy,
+34 and the foreign designation has not expired or been revoked or suspended;
+LC005945 - Page 16 of 33
+
+1 (ii) Entitles the holder to issue reports upon financial statements; and
+2 (iii) Was issued upon the basis of education, examination and experience requirements as
+3 established by the foreign authority or by law;
+4 (2) The applicant:
+5 (i) Received the designation, based on educational and examination standards substantially
+6 equivalent to those in effect in this state, at the time the foreign designation was granted;
+7 (ii) Completed an experience requirement, substantially equivalent to the requirement set
+8 out in § 5-3.1-5, in the jurisdiction which granted the foreign designation or has completed four (4)
+9 years of professional experience in this state; or meets equivalent requirements prescribed by the
+10 board by rule, within the ten (10) years immediately preceding the application; and
+11 (iii) Passed a uniform qualifying examination in national standards and an examination on
+12 the laws, regulations and code of ethical conduct in effect in this state as prescribed by the board
+13 by rule.
+14 (3) In making its determination regarding compliance with this section, the board may rely
+15 on the recommendations of the International Qualifications Appraisal Board jointly established by
+16 NASBA and AICPA to evaluate whether a foreign designation is substantially equivalent to the
+17 credentialing standards used in the United States.
+18 (1) The board determines that the requirements for obtaining the certificate, license, or
+19 degree are substantially equivalent to those prescribed under this chapter for obtaining a certificate
+20 in this state; (2) The certificate, license, or degree at the time of application is then in full force and
+21 effect; and (3) The applicant meets all other requirements under this section.
+22 (4) In the event the board determines that the requirements for obtaining the certificate,
+23 license, or degree are not substantially equivalent to those prescribed in this chapter for obtaining
+24 a certificate in this state, the board may require, as a condition to granting a permit under this
+25 section, that the applicant pass the written examinations required of candidates license, the
+26 applicant shall be required to satisfy all requirements for initial licensure for a certificate under §
+27 5-3.1-5(a)(4) § 5-3.1-5.
+28 (b) Any permit license issued under this section shall be issued in the name of the applicant
+29 followed by the recognized accounting designation by which he or she is known in the country
+30 where licensed, translated into the English language, followed by the name of the country. Annual
+31 limited permits to engage in the practice of public accounting qualify the holder to practice public
+32 accounting in this state solely as to matters concerning residents, governments, and corporations or
+33 other business entities, including the divisions, subsidiaries, or any affiliates of the business entity,
+34 of the foreign country in which the holder is licensed to practice public accounting. A person who
+LC005945 - Page 17 of 33
+
+1 is issued a permit under this section, when engaging in the practice of public accounting in this
+2 state, shall only use the title under which he or she is generally known in his or her own country,
+3 translated into the English language and indicating after the title the name of the country from
+4 which he or she received his or her certificate, license, or degree.
+5 (b) All annual limited permits issued under this section shall expire on the last day of June
+6 of each year and may be renewed for a period of one year in accordance with subsection (c) of this
+7 section. in accordance with this chapter and shall be issued subject to the same terms and conditions,
+8 fees, renewal and continuing education requirements set forth in § 5-3.1-7.
+9 (c) Submission of the application for original issuance or renewal of an annual limited
+10 permit a license constitutes the appointment of the secretary of state as an agent for the applicant
+11 for service of process in any action or proceeding arising out of any transaction or operation
+12 connected with or incidental to the practice of public accounting in this state by the applicant.
+13 (c) Applications for renewal of an annual limited permit are submitted to the board by
+14 February 15 of each year and shall be accompanied by evidence of satisfaction of the continuing
+15 professional education requirements promulgated by board regulation. The evidence shall be in any
+16 form that the board requires. Failure to furnish the evidence constitutes grounds for refusal to renew
+17 the permit unless the board in its discretion determines that the failure was due to reasonable cause
+18 or excusable neglect. Notwithstanding the preceding, the board, in its discretion, may waive the
+19 above continuing education requirements if:
+20 (1) The licensing authority of the foreign country in which the holder of the annual limited
+21 permit is licensed has established requirements for continuing education for practitioners of public
+22 accounting;
+23 (2) The applicant has filed with the board an affidavit stating that he or she is in compliance
+24 with those continuing education requirements at the time of the application for renewal; and
+25 (3) The board determines that the continuing education requirements are substantially
+26 equivalent to those promulgated by the board under this chapter.
+27 (d) An application for a permit license under this section shall list all other jurisdictions,
+28 foreign and domestic in which the applicant has applied for or holds a designation, certificate,
+29 license, or degree to practice public accountancy or a permit to practice. Each applicant for or
+30 holder of a permit license under this section shall, within thirty (30) days of the occurrence of the
+31 event, notify the board in writing:
+32 (1) Of the issuance, denial, revocation, or suspension of the certificate, license, degree, or
+33 permit; or
+34 (2) Of the commencement of any disciplinary or enforcement action against the applicant
+LC005945 - Page 18 of 33
+
+1 or holder by any jurisdiction.
+2 (e) An applicant under this section shall also list in the application the address of every
+3 office established or maintained in this state for the limited practice of public accounting. All of
+4 those offices shall be under the direct supervision of an accountant licensed either by this state or
+5 by a foreign country who holds an annual limited permit to practice issued under this section, and
+6 shall be designated by the name and title of the accountant. If applicable, the title is translated into
+7 the English language and followed by the name of the foreign country where the accountant is
+8 licensed. All applicants for or holders of a permit under this section shall notify the board, in
+9 writing, within thirty (30) days of the occurrence of the event:
+10 (1) Of any change in the number or location of offices within this state required to be listed
+11 in the application; and
+12 (2) Of any change in the identities of the persons supervising those offices.
+13 comply with the practice unit requirements, as applicable, set forth in §§ 5-3.1-9 and 5-3.1-10.
+14 (f) The board shall charge a fee to each person who makes application for original issuance
+15 or renewal of a permit license under this section. The fee shall be paid in U.S. currency at the time
+16 the application is made. Fees charged under this section shall be established by the board.
+17 5-3.1-9. Permits for practice units.
+18 (a) Permits to engage in the practice of public accounting in this state as a practice unit
+19 shall be issued by the board, upon application therefore and payment of the required fee, to an entity
+20 that demonstrates its qualifications in accordance with this chapter. or to certified public accounting
+21 firms originally licensed in another state that establish an office in this state. A practice unit must
+22 hold a permit issued under this section in order to provide attest and compilation services as defined
+23 or to use the title “CPAs” or “CPA firm.”
+24 (b) The following entities must hold a permit issued under this section:
+25 (1) Any firm with an office in this state performing attest or compilation services as defined
+26 in § 5-3.1-3;
+27 (2) Any firm with an office in this state that uses the title “CPA” or “CPA Firm”; or
+28 (3) Any firm that does not have an office in this state but offers or renders attest or
+29 compilation services, as defined in § 5-3.1-3, for clients in this state.
+30 (c) A firm which is not subject to the requirements of subsection (b) of this section may
+31 perform non-attest and non-compilation professional services while using the title “CPA” or “CPA
+32 Firm” in this state without a permit issued under this section only if:
+33 (1) It performs such services through an individual with individual mobility practice
+34 privileges under § 5-3.1-5(f); and
+LC005945 - Page 19 of 33
+
+1 (2) It can lawfully do so in the state where said individuals with individual mobility practice
+2 privileges have their principal place of business.
+3 (d) An applicant entity for initial issuance or renewal of a permit to practice under this
+4 section shall be required to register identify each office of the firm within this state with the board
+5 and to show that all attest and compilation services as defined in this chapter rendered in this state
+6 are under the charge of a person holding a valid certificate license issued under this chapter, or the
+7 corresponding provision of prior law or some other state.
+8 (b)(e) An entity shall satisfy the following requirements:
+9 (1) For corporations, general partnerships, joint ventures, limited-liability partnerships, and
+10 limited-liability companies and any entity not structured as a sole proprietorship:
+11 (i) The principal purpose and business of the partnership entity must be to furnish public
+12 accounting services to the public not inconsistent with this chapter and the rules and regulations of
+13 the board;
+14 (ii) A majority of the ownership of the entity, in terms of financial interests and voting
+15 rights of all partners, shareholders, or members, belongs to holders of a certificate who shall hold
+16 a certificate and a permit CPA license from some state, and such partners, shareholders, or
+17 members, whose principal place of business is in this state and who perform professional services
+18 in this state, hold a valid permit license issued under this chapter or are public accountants
+19 registered under § 5-3.1-7 this chapter. Although firms may include non-licensee owners, the firm
+20 and its ownership and all parties must comply with rules promulgated by the board. For firms of
+21 public accountants, a majority of the ownership of the firm, in terms of financial interests and voting
+22 rights, must belong to holders of public accountant permits and CPA licenses under this chapter. §
+23 5-3.1-7, and provided, that any Any such entity, as defined by this subsection, may include non-
+24 licensee owners, provided that:
+25 (A) The entity designates a licensee of this state who is responsible for the proper
+26 registration of the firm and identifies that individual to the board;
+27 (B) All non-licensee owners are active individual participants in the entity or its affiliated
+28 entities;
+29 (C) The entity complies with other requirements as the board may impose by rule;
+30 (D) Any individual licensee who is responsible for supervising attest and compilation
+31 services and signs or authorizes another licensee to sign the accountant’s report on the financial
+32 statements on behalf of the firm, shall meet the experience requirements as set out in professional
+33 standards for such services;
+34 (E) Any individual licensee who signs or authorizes another licensee to sign the
+LC005945 - Page 20 of 33
+
+1 accountant’s report on the financial statements on behalf of the firm shall meet the experience
+2 requirement as set out in professional standards for these services;
+3 (iii) At least one partner, shareholder, or member must be a certified public accountant or
+4 a public accountant holding a certificate or authority under this chapter and a permit license to
+5 practice in this state under § 5-3.1-7 this chapter; and
+6 (iv) The address of every office of the entity located in this state must be listed in the
+7 application for the permit.
+8 (2) For a sole proprietorship:
+9 (i) The principal purpose and business of the sole proprietorship must be to furnish public
+10 accounting services to the public not inconsistent with this chapter and the rules and regulations of
+11 the board;
+12 (ii) The sole proprietor must be a certified public accountant or a public accountant holding
+13 a certificate or authority license under this chapter and a permit to practice in this state under § 5-
+14 3.1-7;
+15 (iii) The address of every office of the sole proprietorship located in this state must be listed
+16 in the application for the permit;
+17 (iv) Any individual licensee who is responsible for supervising attest and compilation
+18 services and signs or authorizes another licensee to sign the accountant’s report on the financial
+19 statements on behalf of the sole proprietor shall meet the experience requirements as set out in
+20 professional standards for these services; and
+21 (v) Any individual licensee who signs or authorizes another licensee to sign the
+22 accountant’s report on the financial statements on behalf of the firm shall meet the experience
+23 requirement as set out in professional standards for these services.
+24 (c)(f) Application for a permit under this section must be made upon the affidavit of the
+25 partner, shareholder, member, or sole proprietor who holds a permit license to practice in this state
+26 under § 5-3.1-7 this chapter as a certified public accountant or a public accountant. All applications
+27 for a permit under this section must include, in addition to any other information required by this
+28 chapter or by rule or regulation of the board to be stated in the application, a list of all other states
+29 in which the entity has applied for or holds a permit. Upon receipt of the application, the board
+30 shall determine whether the entity is eligible for a permit. In the event the board determines the
+31 entity is ineligible for a permit under this section, that determination shall be stated in writing and
+32 delivered to the applicant at the address that is stated in the application.
+33 (d)(g) All applicants for, or holders of, a permit under this section shall notify the board in
+34 writing within thirty (30) days of the occurrence of the event:
+LC005945 - Page 21 of 33
+
+1 (1) Of any change in the identities of the partners, officers, directors, or shareholders who
+2 are personally engaged in this state in the practice of public accounting;
+3 (2) Of any change in the number or location of offices within this state required to be listed
+4 in the application pursuant to this section;
+5 (3) Of any change in the identities of the persons supervising the offices;
+6 (4) Of any issuance, denial, revocation, or suspension of a permit by any other state. The
+7 board may prescribe fees that are to be paid by the applicants or holders upon the notification; and
+8 (5) Of a reduction below a majority of the ownership in the entity in terms of financial
+9 interests and voting rights.
+10 (e)(h) All permits issued by the board under this section subsequent to January 1, 2009,
+11 shall be valid for a period of three (3) years and shall expire on the last day of June of the year in
+12 which the permit is scheduled to expire unless the permit is renewed in accordance with the
+13 provisions of this section. To transition existing licensees to a three-year (3) licensing cycle, the
+14 board shall have the authority and discretion in 2008 to issue permits under this section that are
+15 valid for one, two (2), or three (3) years. All permits issued during 2008 shall expire upon the last
+16 day of June of the year in which the permit is scheduled to expire. The board’s authority to issue
+17 permits valid for one or two (2) years shall cease as of December 31, 2008.
+18 Effective January 1, 2009, permits issued pursuant to this section may be renewed for a
+19 period of three (3) years, and the renewed permit shall expire on the last day of June of the year in
+20 which the renewed permit is scheduled to expire, unless the renewed permit is again renewed by
+21 its holder. All applications for renewal of permits under this section shall be submitted to the board
+22 by February 15 June 30 of the year in which a permit or renewed permit is scheduled to expire. All
+23 applicants for permit renewal shall satisfy the peer-review requirements prescribed in § 5-3.1-10.
+24 (f)(i) Fees to be paid upon application for initial issuance or renewal of a permit under this
+25 section shall be established, from time to time, by the board. Fees shall be paid at the time the
+26 application is filed with the board.
+27 (g)(j) An annual permit to engage in the practice of public accounting in this state shall be
+28 issued by the board, upon application for it and payment of the required fee, to the office of the
+29 auditor general, provided the office is in compliance with § 5-3.1-10.
+30 (h)(k) An entity that falls out of compliance with the provisions of this section due to
+31 changes in firm ownership or personnel, after receiving or renewing a permit, shall take corrective
+32 action to bring the firm into compliance as quickly as possible. The board may grant a reasonable
+33 period of time for a firm to take the corrective action. Failure to bring the firm into compliance
+34 within a reasonable period as defined by the board will result in the suspension or revocation of the
+LC005945 - Page 22 of 33
+
+1 permit.
+2 (l) CPA firm mobility. Exercise of individual mobility practice privileges under § 5-3.1-
+3 5(f) by an eligible CPA will not require the practice unit that the individual is associated with to
+4 obtain a Rhode Island practice unit permit, so long as the practice unit complies with all applicable
+5 provisions in this section and further provided that:
+6 (1) The CPA firm shall be deemed to have consented to the personal and subject matter
+7 jurisdiction and disciplinary authority of the board;
+8 (2) The CPA firm must comply with all applicable provisions of this chapter and the board's
+9 rules;
+10 (3) In the event the practice unit permit or its equivalent issued by the jurisdiction of the
+11 CPA firm’s principal place of business is no longer valid, the CPA firm will cease offering or
+12 rendering professional services in this state;
+13 (4) The CPA firm shall be deemed to have consented to the appointment of the board of
+14 the jurisdiction of the CPA firm’s principal place of business as its agent upon whom process may
+15 be served in any action or proceeding by this board against the firm; and
+16 (5) The CPA firm must obtain a Rhode Island practice unit permit before establishing any
+17 physical office in this state and/or offering attest or compilation services.
+18 5-3.1-11. Hearing on denial by board.
+19 Any person or practice unit aggrieved by a decision of the board not to: (1) issue a
+20 certificate under § 5-3.1-5 license, (2) issue a practice unit permit to practice under § 5-3.1-7, § 5-
+21 3.1-8, or § 5-3.1-9, or (3) renew license or practice unit any permit, as the case may be, may request
+22 a hearing before the board on the denial. The request shall be in the form of a written petition,
+23 containing any information that the board by rule or regulation requires, and shall be submitted to
+24 the board within ten (10) days of the board’s written decision denying the certificate, permit, or
+25 renewal license or practice unit permit.
+26 5-3.1-12. Revocation or suspension of certificate, authority, or permit Revocation or
+27 suspension of license or practice unit.
+28 (a) After notice and a hearing as provided in § 5-3.1-14, the board may:
+29 (1) Suspend or revoke any certificate license issued under § 5-3.1-5, this chapter or any
+30 predecessor provision, and any authority as a public accountant issued under the prior laws of this
+31 state;
+32 (2) Revoke or suspend any practice unit permit issued under § 5-3.1-7, § 5-3.1-8, § 5-3.1-
+33 9 this chapter, or their predecessor provisions; and
+34 (3) Reprimand or censure in writing; limit the scope of practice; impose an administrative
+LC005945 - Page 23 of 33
+
+1 fine penalty upon, not to exceed one thousand dollars ($1,000); or place on probation, all with or
+2 without terms, conditions, or limitations, a licensee, for any of the causes specified in subsection
+3 (b).
+4 (b) The board may take action specified in subsection (a) for any one or more of the
+5 following causes:
+6 (1) Fraud or deceit in obtaining a certificate license or practice unit permit under this
+7 chapter;
+8 (2) Dishonesty, fraud, or gross negligence in the practice of public accounting or in the
+9 filing, or failing to file, the licensee’s own income tax returns;
+10 (3) Violation of any of the provisions of this chapter;
+11 (4) Violation of any rules and regulations, including, but not limited to, any rules of
+12 professional conduct promulgated by the board under the authority granted by this chapter;
+13 (5) Conviction of, or pleading guilty or nolo contendere to, a crime or an act constituting a
+14 crime of forgery, embezzlement, obtaining money under false pretenses, bribery, larceny, extortion,
+15 conspiracy to defraud, misappropriation of funds, tax evasion, or any other similar offense, in a
+16 court of competent jurisdiction of this or any other state or in federal court;
+17 (6) Cancellation, revocation, or suspension of, or refusal to renew, the licensee’s certificate
+18 license or practice unit permit from another state by the other state for any cause other than failure
+19 to pay a fee or to meet the requirements of continuing education in that other state;
+20 (7) Suspension or revocation of the right to practice public accounting before any state or
+21 federal agency;
+22 (8) As to accountants licensed by foreign countries, cancellation, revocation, suspension,
+23 or refusal to renew the person’s certificate, license, or degree evidencing his or her their
+24 qualification to practice public accounting by the foreign country issuing the certificate, license, or
+25 degree, the certificate, license, or degree having qualified the accountant for issuance of an annual
+26 limited permit to practice a license under § 5-3.1-8;
+27 (9) Failure to furnish the board, or any persons acting on behalf of the board, any
+28 information that is legally requested by the board;
+29 (10) Any conduct reflecting adversely upon the licensee’s fitness to engage in the practice
+30 of public accountancy; and
+31 (11) Any other conduct discreditable to the public accounting profession.
+32 5-3.1-14. Initiation of proceedings — Hearings before board — Appeals — Notice to
+33 other states.
+34 (a) The board may initiate proceedings under this chapter against a licensee either on its
+LC005945 - Page 24 of 33
+
+1 own motion, on the complaint of any person, upon the finding of probable cause by a probable-
+2 cause committee appointed by the board pursuant to § 5-3.1-4, or upon receiving notification from
+3 another state board of accountancy of its decision to:
+4 (1) Revoke, suspend, or refuse to renew the practice privileges granted in that state to the
+5 licensee; or
+6 (2) Censure in writing, limit the scope of practice, impose an administrative fine penalty
+7 upon, or place on probation the licensee.
+8 (b) A written notice stating the nature of the charge or charges against the licensee and the
+9 time and place of the hearing before the board on the charges shall be served on the licensee not
+10 less than twenty (20) days prior to the date of the hearing either personally or by mailing a copy of
+11 the notice by certified mail, return receipt requested, to the address of the licensee last known to
+12 the board.
+13 (c) If, after being served with the notice of hearing as provided for in this section, the
+14 licensee fails to appear at the hearing and to defend against the stated charges, the board may
+15 proceed to hear evidence against the licensee and may enter an order that is justified by the
+16 evidence. That order is final unless the licensee petitions for a review of it as provided in this
+17 chapter; provided, that within thirty (30) days from the date of any order, upon a showing of good
+18 cause for failing to appear and defend, the board may reopen the proceedings and may permit the
+19 licensee to submit evidence in his, her, or its behalf.
+20 (d)(1) At any hearing under this section, the licensee may:
+21 (i) Appear in person or be represented by counsel;
+22 (ii) Produce evidence and witnesses on his, her, or its behalf;
+23 (iii) Cross-examine witnesses; and
+24 (iv) Examine any evidence that is produced.
+25 (2) A partnership may be represented before the board by counsel or by any partner. A
+26 corporation may be represented before the board by counsel or by any shareholder or member of
+27 the corporation. A sole proprietorship may be represented before the board by counsel or by the
+28 sole proprietor. The licensee is entitled, on written application to the board, to the issuance of
+29 subpoenas to compel the attendance of witnesses on the licensee’s behalf.
+30 (e) The board or any member of the board may issue subpoenas to compel the attendance
+31 of witnesses and the production of documents, and may administer oaths, take testimony, hear
+32 proofs, and receive exhibits in evidence in connection with or upon a hearing under this chapter. In
+33 case of disobedience to a subpoena, the board may petition the superior court to require the
+34 attendance and testimony of witnesses and the production of documentary evidence.
+LC005945 - Page 25 of 33
+
+1 (f) The board shall not be bound by strict rules of procedure or by the laws of evidence in
+2 the conduct of its proceedings, but any determination of the board shall be based upon sufficient
+3 legal evidence to sustain the determination.
+4 (g) A stenographic record of all hearings under this section shall be kept and a transcript
+5 filed with the board.
+6 (h) At all hearings, the attorney general of this state, or any other legal counsel that is
+7 assigned or employed, shall appear and represent the board.
+8 (i) The decision of the board shall be made by vote in accordance with rules and regulations
+9 established under § 5-3.1-4.
+10 (j) Any appeal from the decision of the board, by a person or persons adversely affected by
+11 the decision, shall be governed by § 42-35-15.
+12 (k) On rendering a decision to: (1) Revoke or suspend a certificate license issued under the
+13 laws of this state; (2) Revoke or suspend an authority as a public accountant issued under the prior
+14 laws of this state; (3) Revoke, suspend, or refuse to renew a permit issued under the laws of this
+15 state; or (4) Censure in writing, limit the scope of practice of, impose an administrative fine penalty
+16 upon, or place on probation a licensee, the board shall examine its records to determine whether
+17 the licensee holds a certificate license or a permit to practice in any other state. If the board
+18 determines that the licensee in fact holds a certificate license or permit, the board shall immediately
+19 notify the board of accountancy of the other state by mail of its decision under this section, and
+20 shall include in the notice an indication as to whether or not the licensee has appealed that decision.
+21 In the alternative, the board may report such disciplinary actions to a multistate enforcement
+22 information network.
+23 (l)(k) The board may, in its discretion, order any licensee against whom proceedings have
+24 been initiated under § 5-3.1-12 or § 5-3.1-13 to reimburse the board for any fees, expenses, and
+25 costs incurred by the board in connection with those proceedings, including attorney’s fees. Those
+26 fees shall be paid within thirty (30) days from the date they are assessed and may be reviewed in
+27 accordance with § 42-35-15.
+28 5-3.1-15. Reinstatement.
+29 (a) Upon application in writing or after hearing pursuant to notice, the board may:
+30 (1) Reissue a certificate license to a certified public accountant whose certificate license
+31 has been revoked or suspended;
+32 (2) Reissue an authority to a public accountant whose authority has been revoked or
+33 suspended; and
+34 (3) Modify the suspension of or reissue any practice unit permit that has been revoked or
+LC005945 - Page 26 of 33
+
+1 suspended or that the board has previously refused to renew.
+2 (b) The board shall specify by rule the manner in which applications under this section are
+3 made; the time within which they are made; and the circumstances in which hearings will be held
+4 on the applications.
+5 5-3.1-16. Acts declared unlawful.
+6 (a) Except as permitted by the board pursuant to § 5-3.1-18(b), no person shall hold himself
+7 or herself themself out to the public as a certified public accountant or assume or use the designation
+8 “certified public accountant” or “CPA” or any other title, designation, words, letters, abbreviation,
+9 sign, card, or device tending to indicate that the person is a certified public accountant or CPA,
+10 unless that person has been issued a permit to practice under § 5-3.1-7 this chapter or exercising
+11 individual mobility practice privileges under § 5-3.1-5(f).
+12 (b) No entity shall provide attest or compilation services or assume or use the designation
+13 “certified public accountants” or “CPAs” or any other title, designation, words, letters,
+14 abbreviation, sign, card, or device tending to indicate that the practice unit is composed of certified
+15 public accountants or CPAs, unless:
+16 (1) The practice unit holds a permit to practice or qualifies for firm mobility under § 5-3.1-
+17 9; and
+18 (2) Ownership of the firm is in accord with this chapter and rules promulgated by the board.
+19 (c) No person shall hold himself or herself themself out to the public as a public accountant,
+20 or assume or use the designation “public accountant” or “PA” or any other title, designation, words,
+21 letters, abbreviation, sign, card, or device tending to indicate that the person is a public accountant
+22 or PA, unless that person holds an authority as a public accountant and a permit to practice in this
+23 state issued under § 5-3.1-7 § 5-3.1-6. This subsection does not apply to those persons qualified
+24 under subsection (a) of this section to hold themselves out to the public as certified public
+25 accountants and to use the designation “certified public accountant” or “CPA.”
+26 (d) No entity shall provide attest or compilation services or assume or use the designation
+27 “public accountants” or “PAs” or any other title, designation, words, letters, abbreviation, sign,
+28 card, or device tending to indicate that the practice unit is composed of public accountants or PAs,
+29 unless the practice unit holds a permit to practice under § 5-3.1-9.
+30 (e) No person or entity not holding a valid permit shall assume or use the title or designation
+31 “certified accountant,” “chartered accountant,” “enrolled accountant,” “licensed accountant,”
+32 “registered accountant,” “accredited accountant,” or any other title or designation likely to be
+33 confused with “certified public accountant” or “public accountant,” any of the abbreviations “CA,”
+34 “RA,” “LA,” “AA,” or similar abbreviation likely to be confused with “CPA” or “PA”; provided,
+LC005945 - Page 27 of 33
+
+1 that anyone who holds a permit to practice license under § 5-3.1-7 this chapter may hold himself
+2 or herself themself out to the public as an “accountant” or “auditor.” The title “Enrolled Agent” or
+3 the abbreviation “EA” may only be used by those individuals so designated by the Internal Revenue
+4 Service. In addition, the board may at its discretion allow titles or abbreviations to be used that do
+5 not mislead the public and for which appropriate certification or accreditation by a national
+6 organization can be demonstrated.
+7 (f) No person or entity shall prepare or attempt to prepare, or sign, affix, or associate the
+8 person’s or entity’s name or any trade name used by him, her, the person or it entity in the person’s
+9 or entity’s business or profession or practice unit to any attest or compilation reports unless the
+10 individual holds a permit to practice license issued under § 5-3.1-7 or § 5-3.1-8 this chapter, or is
+11 exercising individual mobility practice privileges under § 5-3.1-5(f) and unless the practice unit
+12 holds a permit to practice or qualifies for firm mobility under § 5-3.1-9.
+13 (g) No Unless authorized by this chapter no person or entity not holding a license or permit
+14 to practice under this chapter shall hold himself, herself themself, or itself the entity out to the
+15 public as an “accountant” or “auditor,” whether or not the term is accompanied by any other
+16 description or designation, on any sign, card, or letterhead, or in any advertisement or directory.
+17 (h) No person or entity holding a permit shall assume or use a professional or firm name
+18 or designation that is misleading about the legal form of the firm, or the persons who are partners,
+19 officers, members, managers, or shareholders of the firm, or about any other matter; provided,
+20 however, that names of one or more former partners, members, managers, or shareholders may be
+21 included in the name of a firm or its successor.
+22 (i) No person or entity shall hold himself, herself, or itself themselves or the entity out to
+23 the public as being qualified for the practice of public accounting unless the person or entity holds
+24 a permit to practice authorized under this chapter.
+25 (j) The provisions of subsections (a), (c), and (e) of this section do not prohibit any
+26 accountant licensed by a foreign country who holds an annual limited permit a license to engage in
+27 the practice of public accounting under § 5-3.1-8 from using the accounting designation by which
+28 he or she is they are known in his or her their own country, translated into the English language,
+29 followed by the name of the country from which his or her their certificate, license, or degree was
+30 issued, as required by § 5-3.1-8.
+31 (k) Any person or practice unit found to have violated any provision of this section by a
+32 court of competent jurisdiction is liable to the board for reasonable attorney’s fees in connection
+33 with the proceeding in which the finding was made.
+34 (l)(1) A licensee, practice unit, or affiliated entity shall not directly or indirectly for a
+LC005945 - Page 28 of 33
+
+1 commission, recommend or refer to a client any product or service, or for a commission,
+2 recommend or refer any product or service to be supplied by a client, or receive a commission,
+3 when the licensee, practice unit, or affiliated entity also performs for that client any attest or
+4 compilation services or reports. This prohibition applies during the period in which the licensee or
+5 practice unit or affiliated entity is engaged to perform any services listed above and the period
+6 covered by any historical financial statements involved in such listed services.
+7 (2) A licensee, practice unit, or affiliated entity who or that is not prohibited by this section
+8 from performing services for or receiving a commission, and who is paid or expects to be paid a
+9 commission, shall disclose that fact to any person or entity to whom the licensee, practice unit, or
+10 affiliated entity recommends or refers a product or service to which the commission relates. The
+11 disclosure must be made in writing contemporaneously with or prior to the referral or
+12 recommendation.
+13 (3) Any licensee, practice unit, or affiliated entity who or that accepts a referral fee for
+14 recommending or referring any service of a licensee to any person or entity or who pays a referral
+15 fee to obtain a client shall disclose the acceptance or payment to the client. The disclosure must be
+16 made, in writing, contemporaneously with or prior to the referral or recommendation.
+17 (4) For purposes of this subsection (l), an “affiliated entity” is defined as an entity in which
+18 the licensee, and/or any member and/or employee of the practice unit, has more than an aggregate
+19 twenty percent (20%) direct or indirect financial interest.
+20 (5) A licensee or practice unit in public practice who or that is not prohibited by this section
+21 from performing service for or receiving a commission shall comply with all applicable federal and
+22 state securities laws, rules promulgated thereunder, and registration requirements.
+23 (m)(1) A licensee, practice unit, or affiliated entity shall not: perform for a contingent fee
+24 any professional services for, or receive such a fee from, a client for whom the licensee or practice
+25 unit performs any attest or compilation services or reports; or prepare an original or amended tax
+26 return or claim for a tax refund for a contingent fee for any client.
+27 (2) The prohibitions in subsection (l)(1) apply during the period in which the licensee is
+28 engaged to perform any of the services listed above and the period covered by any historical
+29 financial statements involved in any such listed services.
+30 (3) Except as stated in the next sentence, a “contingent fee” is a fee established for the
+31 performance of any service pursuant to an arrangement in which no fee will be charged unless a
+32 specified finding or result is attained, or in which the amount of the fee is otherwise dependent
+33 upon the finding or result of such service. Solely for purposes of this section, fees are not regarded
+34 as being contingent if fixed by courts or other public authorities, or, in tax matters, if determined
+LC005945 - Page 29 of 33
+
+1 based on the results of judicial proceedings or the findings of governmental agencies. A licensee’s
+2 fees may vary depending, for example, on the complexity of services rendered.
+3 (4) For purposes of this subsection (m), an “affiliated entity” is defined as any entity in
+4 which the licensee, or any member or employee of the practice unit, has more than an aggregate
+5 twenty percent (20%) direct or indirect financial interest.
+6 (5) Any licensee who receives a contingent fee pursuant to this section shall comply with
+7 all applicable federal and state securities laws, rules promulgated thereunder, and registration
+8 requirements, and the code of professional conduct adopted by this board by rule.
+9 5-3.1-18. Exceptions — Acts not prohibited.
+10 (a) Nothing contained in this chapter shall be construed as prohibiting any person not a
+11 certified public accountant or public accountant from serving as an employee of or an assistant to
+12 a licensee; provided, that the employee or assistant shall not issue any accounting or financial
+13 statement or report over his or her their name.
+14 (b) Nothing contained in this chapter shall be construed as prohibiting any person who is
+15 the holder of a certificate or permit license issued by this state or any other state that has not been
+16 revoked or suspended by the board or board of accountancy of the other state from assuming or
+17 using the designation “certified public accountant” or “CPA” or any other title, designation, words,
+18 letters, sign, card, or device tending to indicate that the person is a certified public accountant;
+19 provided, that the provisions of this subsection shall not be construed to authorize the use of those
+20 designations in connection with the practice of public accounting in this state unless the person
+21 using the designations holds a permit to practice license issued by the board.
+22 (c) Nothing contained in this chapter or in any other law of this state shall be construed as
+23 prohibiting a licensee or any employee of a licensee from disclosing any information in confidence
+24 to other licensees engaged in conducting peer reviews, or any of their employees or agents, in
+25 connection with peer reviews that are conducted under the auspices of a recognized professional
+26 association or under this chapter.
+27 (d) Nothing contained in this chapter or in any other law of this state shall be construed as
+28 prohibiting a licensee or any employee of a licensee from disclosing any information in confidence
+29 to any employee, representative, officer, or committee member of a recognized professional
+30 association or to the board or any of its employees or committees in connection with a professional
+31 ethics investigation held under the auspices of the professional association or the board.
+32 (e) The provisions of § 5-3.1-16(f) and (g) do not prohibit any officer, employee, partner,
+33 or principal of any entity from affixing his or her their signature to any statement or report in
+34 reference to the affairs of that entity with any wording designating the position, title, or office that
+LC005945 - Page 30 of 33
+
+1 he or she holds they hold in that entity, or from describing himself or herself themself by the
+2 position, title, or office that he or she holds they hold in the entity; nor do those provisions prohibit
+3 any act of a public official or a public employee in the performance of his or her their duties as a
+4 public official or public employee.
+5 (f) Nothing contained in this chapter shall be construed as prohibiting any person or entity
+6 not holding a permit under this chapter from offering or rendering to the public bookkeeping
+7 services, including devising and installing systems; recording and presentation of financial
+8 information or data; preparing financial statements or similar services; preparation of tax returns;
+9 or the furnishing of advice on tax matters; provided, that no person or entity shall perform a report
+10 on any attest or compilation services nor shall any person or entity attempt to prepare or prepare a
+11 report in any manner having the appearance or import of any attest or compilation report
+12 enumerated in this subsection so as to mislead the public.
+13 5-3.1-19. Injunction against unlawful acts Cease and desist authority – Injunction
+14 against unlawful acts.
+15 (a) If the board has reason to believe that any person, firm, corporation, or association is
+16 conducting any activities requiring licensure under this chapter without obtaining a license or
+17 practice unit permit, or who after the denial, suspension, or revocation of a license or practice unit
+18 permit conducts any activities requiring licensure under this chapter, the board may issue its order
+19 to that person, firm, corporation, or association commanding them to appear before the board at a
+20 hearing to be held not sooner than ten (10) days nor later than twenty (20) days after issuance of
+21 that order to show cause why the board should not issue an order to that person to cease and desist
+22 from the violation of the provisions of this chapter.
+23 (1) The order to show cause may be served on any person, firm, corporation, or association
+24 named in the order in the same manner that a summons in a civil action may be served, or by
+25 mailing a copy of the order, certified mail, return receipt requested, to that person at any address at
+26 which the person has done business or at which they live. If upon that hearing the board is satisfied
+27 that the person is in fact violating any provision of this chapter, then the board may order that
+28 person, in writing, to cease and desist from that violation.
+29 (2) All hearings shall be governed in accordance with chapter 35 of title 42 (“administrative
+30 procedures”). If that person fails to comply with an order of the board after being afforded a hearing,
+31 the superior court in Providence has jurisdiction upon complaint of the board to restrain and enjoin
+32 that person from violating this chapter.
+33 (b) Whenever, in the judgment of the board, any person or entity has engaged, or is about
+34 to engage, in any acts or practices that constitute, or will constitute, a violation of this chapter, the
+LC005945 - Page 31 of 33
+
+1 board may make application to the superior court for an order enjoining those acts or practices.
+2 Upon a showing by the board that the person or entity has engaged, or is about to engage, in any of
+3 those acts or practices, an injunction, restraining order, or any other order that may be appropriate
+4 shall be granted by the court without bond. In any instance of the granting of an injunction or order
+5 by the superior court under this section, the court shall award the board reasonable attorney’s fees.
+6 5-3.1-20. Penalty for violations.
+7 (a) Administrative penalties:
+8 (1) After notice and hearing as provided in § 5-3.1-14, the board is authorized to impose
+9 an administrative penalty not exceeding one thousand dollars ($1,000) for each violation of this
+10 chapter or the board’s rules and regulations by a licensee or practice unit.
+11 (2) Unregistered activity: If a person or business entity practices or offers to practice public
+12 accounting in this state in violation of this chapter, the board, after notice and hearing in accordance
+13 with this chapter and chapter 35 of title 42, may issue an order imposing an administrative penalty
+14 not exceeding two thousand five hundred dollars ($2,500) for each violation.
+15 (3) When assessing penalties, the board shall set the amount after taking into account
+16 factors including, but not limited to the seriousness of the violation; the economic benefit resulting
+17 from the violation; the history of violations; and other matters the board considers appropriate.
+18 (a)(b) Criminal penalties. Any person or entity who or that violates any provision of this
+19 chapter shall be guilty of a misdemeanor, and upon conviction, shall be subject to:
+20 (1) In the case of an individual, a fine of not more than one thousand dollars ($1,000), or
+21 imprisonment for not more than one year, or both; or
+22 (2) In the case of an entity, a fine of not more than five thousand dollars ($5,000).
+23 (b)(c) Whenever the board has reason to believe that any person or entity is liable to
+24 punishment under this section, it may certify the facts to the attorney general of this state who may,
+25 in his or her their discretion, cause appropriate proceedings to be brought.
+26 SECTION 2. This act shall take effect upon passage.
+========
+LC005945
+========
+LC005945 - Page 32 of 33
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- PUBLIC ACCOUNTANCY
+***
+1 This act would update the state’s public accountancy act for consistency with the 9th
+2 edition of the Uniform Accountancy Act, as issued by NASBA and AICPA in July 2025.
+3 This act would take effect upon passage.
+========
+LC005945
+========
+LC005945 - Page 33 of 33
