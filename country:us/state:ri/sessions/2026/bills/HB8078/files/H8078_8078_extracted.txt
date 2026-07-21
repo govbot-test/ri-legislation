@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - 8078
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8078
+========
+LC005631
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- COUNTY GRAND JURIES
+Introduced By: Representatives McEntee, Caldwell, Bennett, Spears, O'Brien, and
+Shanley
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 12-11-1 of the General Laws in Chapter 12-11 entitled "County
+2 Grand Juries" is hereby amended to read as follows:
+3 12-11-1. Number of members.
+4 The grand jury shall consist of not less than thirteen (13) nor more than twenty-three (23)
+5 persons. Whenever the attorney general shall by motion in writing make application to any justice
+6 of the superior court for a grand jury to consist of twenty-three (23) persons, the motion shall
+7 immediately be granted. A county grand jury may issue reports consistent with the provisions of §
+8 12-11.1-6.
+9 SECTION 2. Section 12-11.1-1 of the General Laws in Chapter 12-11.1 entitled "Statewide
+10 Grand Juries" is hereby amended to read as follows:
+11 12-11.1-1. Statewide grand jury — Size and powers.
+12 A statewide grand jury shall consist of not less than thirteen (13) nor more than twenty-
+13 three (23) persons. The jurisdiction of a statewide grand jury shall extend throughout the state and
+14 it may investigate and return indictments for crimes committed any place within the state, and may
+15 issue reports consistent with the provisions of § 12-11.1-6. A statewide grand jury shall in all other
+16 respects possess the usual powers and duties of county grand juries.
+17 SECTION 3. Chapter 12-11.1 of the General Laws entitled "Statewide Grand Juries" is
+18 hereby amended by adding thereto the following section:
+19 12-11.1-6. Grand jury reports.
+
+1 (a) The grand jury may, at any time during its term, submit a grand jury report to the
+2 presiding justice of the superior court concerning any matter involving a person subject to the
+3 Rhode Island code of ethics, as set forth in § 36-14-4, or that the grand jury determines is a matter
+4 of public concern. A grand jury report may be submitted only upon the concurrence of twelve (12)
+5 or more jurors and shall be signed by each concurring juror.
+6 (b) The presiding justice shall examine the report and the minutes of the grand jury and,
+7 except as otherwise provided in this section, shall order the report accepted as a public record only
+8 if the superior court is satisfied that the report complies with the provisions of subsection (a) of this
+9 section and that:
+10 (1) The report is based on facts revealed in the course of a statewide or county grand jury
+11 investigation and is supported by a preponderance of the evidence presented to the grand jury;
+12 (2) Each person or entity named in the report and whose conduct is the subject of the report,
+13 was afforded a reasonable opportunity to testify before the grand jury prior to the filing of the
+14 report; and
+15 (3) The report does not contain material that:
+16 (i) Is privileged or otherwise confidential under established law;
+17 (ii) Is not reasonably related to the subject matter of the report;
+18 (iii) Discloses the identity of a confidential informant; or
+19 (iv) Prejudices the fair adjudication of a criminal matter.
+20 (c) If the presiding justice determines that the report contains any material described in
+21 subsection (b)(3) of this section, the court shall order appropriate redactions prior to accepting the
+22 report as a public record. If the presiding justice determines that the filing of such a report as a
+23 public record may prejudice the fair adjudication of a pending criminal matter, the court shall order
+24 the report sealed, and the report shall not be subject to release, subpoena, or public inspection during
+25 the pendency of that criminal matter except upon order of the superior court.
+26 (d) Within thirty (30) days after receiving a report prepared pursuant to subsection (a) of
+27 this section, the presiding justice shall notify in writing all persons or entities named in the grand
+28 jury report and whose conduct is the subject of the grand jury report to give such persons or entities
+29 a reasonable opportunity to review the grand jury report and submit a written response. Any such
+30 response shall be submitted to the presiding justice within thirty (30) days after issuance of the
+31 court’s written notification and shall state whether the respondent objects to the issuance of the
+32 grand jury report, to the inclusion of the respondent’s name, or is seeking any other relief. Any
+33 proceedings pursuant to this subsection shall remain sealed until ordered otherwise by the presiding
+34 justice.
+LC005631 - Page 2 of 4
+
+1 (e) Where the presiding justice enters an order accepting a grand jury report pursuant to
+2 subsection (b) of this section, all persons or entities named in the report shall have thirty (30) days
+3 prior to the report’s filing as a public record to appeal the order to the supreme court. Failure of the
+4 presiding justice to accept and file as a public record a report submitted under this section may be
+5 appealed by the attorney general to the supreme court.
+6 SECTION 4. This act shall take effect upon passage.
+========
+LC005631
+========
+LC005631 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- COUNTY GRAND JURIES
+***
+1 This act would permit grand juries to issue reports and would provide for a process for
+2 review and acceptance by the superior court.
+3 This act would take effect upon passage.
+========
+LC005631
+========
+LC005631 - Page 4 of 4

@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - 7129
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7129
+========
+LC003776
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+Introduced By: Representatives Speakman, Ajello, Morales, Felix, Alzate, Stewart, Cruz,
+Furtado, and Giraldo
+Date Introduced: January 15, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 34-18 of the General Laws entitled "Residential Landlord and Tenant
+2 Act" is hereby amended by adding thereto the following section:
+3 34-18-63. Prohibition on algorithmic rent setting.
+4 (a) Definitions. As used in this section:
+5 (1) “Nonpublic competitor data” means information not available to the general public
+6 including, but not limited to, actual rent amounts, occupancy levels, lease start and end dates, or
+7 other similar data, regardless of whether the information is:
+8 (i) Attributable to a specific competitor or anonymized; and
+9 (ii) Derived from, shared by, or otherwise provided by another person or entity that
+10 competes in the same or a related residential rental market.
+11 (2) “Revenue management device” means a device, system, or software, commonly known
+12 as revenue management or rent optimization software, that uses one or more programmed or
+13 automated processes to perform calculations using nonpublic competitor data concerning local or
+14 statewide rental rates or occupancy levels for the purpose of advising a landlord on:
+15 (i) Whether to leave a residential dwelling unit vacant; or
+16 (ii) The amount of rent that the landlord may charge or obtain for a residential dwelling
+17 unit.
+18 The term “revenue management device” includes any product or service that incorporates
+19 such a device, but does not include:
+
+1 (A) A report or publication that presents existing rental data in an aggregated or historical
+2 manner and does not recommend or determine rental rates or occupancy levels for future leases; or
+3 (B) A product or system used solely for the purpose of establishing rent or income limits
+4 in accordance with the guidelines of a local, state, or federal affordable housing program.
+5 (b) Prohibited conduct.
+6 It shall be unlawful for any person or entity to use a revenue management device or
+7 nonpublic competitor data to set, recommend, or determine rental rates or occupancy levels for
+8 residential dwelling units within the state.
+9 (c) Enforcement.
+10 (1) A violation of this section shall constitute an unfair or deceptive trade act or practice
+11 under chapter 13.1 of title 6.
+12 (2) The attorney general is authorized to investigate and enforce this section and to seek all
+13 remedies available under chapter 13.1 of title 6, including injunctive relief, civil penalties,
+14 restitution, and costs.
+15 (3) Nothing in this section shall be construed to limit any private right of action otherwise
+16 available under state law.
+17 SECTION 2. This act shall take effect upon passage.
+========
+LC003776
+========
+LC003776 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- RESIDENTIAL LANDLORD AND TENANT ACT
+***
+1 This act would amend the residential landlord and tenant act to prohibit the use of
+2 algorithmic renting-setting software that relies on nonpublic competitor data to determine rental
+3 prices or occupancy levels for residential dwelling units in Rhode Island.
+4 This act would take effect upon passage.
+========
+LC003776
+========
+LC003776 - Page 3 of 3

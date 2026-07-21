@@ -1,0 +1,192 @@
+Title: 
+Official Title: 
+Source: versions - 8098
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8098
+========
+LC005919
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SUPER SPEEDER
+ACCOUNTABILITY ACT
+Introduced By: Representatives Casimiro, Kislak, Donovan, Spears, Read, Potter, Alzate,
+Slater, Knight, and Stewart
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and purpose.
+2 (1) It is the intent of the legislature to keep the public safe when on the road. Excessive
+3 speeding is a leading cause of traffic fatalities and injuries. Nationwide, speed was a component in
+4 twenty-nine percent (29%) of all crash fatalities in 2022. Speeding drivers negatively impact all
+5 who use the road, including pedestrians, bikers, and other forms of transportation. The legislature
+6 finds that solutions are needed to keep the public safe on the road and to change public behavior.
+7 (2) Intelligent Speed Assistance (ISA) devices offer an improved solution to address
+8 excessive speeding. Tools utilized to reduce speeding on roadways often include issuing traffic
+9 fines, suspending licenses, and impounding cars, but these solutions are no longer effective to
+10 address excessive, repeated speeding. Traffic fines do not substantially deter speeding or change
+11 behavior, and most drivers with a suspended license continue to drive. According to the American
+12 Association of Motor Vehicle Administrators, more than seventy percent (70%) of people with
+13 suspended licenses continue to drive during the suspension period.
+14 (3) ISA technology enables individuals to continue driving, issues a meaningful penalty
+15 and facilitates driver education and training to create safer driving habits. By leveraging technology
+16 to enable individuals to continue driving, while preventing speeding, the legislature intends to
+17 enhance road safety to promote safer driving habits and keep the public safe, all of which work to
+18 directly address the issue of speeding on our roads
+
+1 (4) The Legislature finds that utilizing ISA devices for high-risk drivers, particularly those
+2 with repeated speed-related violations, can prevent recidivism and provide long term traffic safety
+3 improvements.
+4 SECTION 2. Title 31 of the General Laws entitled "MOTOR AND OTHER VEHICLES"
+5 is hereby amended by adding thereto the following chapter:
+6 CHAPTER 27.2
+7 SUPER SPEEDER ACCOUNTABILITY ACT
+8 31-27.2-1. Short title.
+9 This chapter shall be known and may be cited as the "Super Speeder Accountability Act."
+10 31-27.2-2. Definitions.
+11 As used in this chapter:
+12 (1) "Department" means the department of motor vehicles, which oversees drivers
+13 licensing and license suspensions resulting from failure to pay fines or appear in traffic court.
+14 (2) "Eligible offender" means a person whose license has been suspended due to a district
+15 court conviction or administrative finding by the traffic tribunal of excessive speeding, racing, or
+16 reckless driving where speed was a factor, or a person who has been convicted of multiple moving
+17 offenses and is subject to the provisions of § 31-27-24.
+18 (3) "Excessive speeding" means traveling at twenty miles per hour (20 mph) or greater in
+19 excess of the posted speed limit, if the posted speed limit is forty miles per hour (40 mph) or less;
+20 and thirty miles per hour (30 mph) or greater in excess of the posted speed limit, if the posted speed
+21 limit is greater than forty miles per hour (40 mph).
+22 (4) "Intelligent speed assistance device" or "ISA device" means an aftermarket device that
+23 uses GPS to actively limit the vehicle's speed to posted or pre-set speed limits. Devices shall be
+24 tamper resistant and capable of reporting attempts to disable or circumvent functionality. Active
+25 "intelligent speed assistance device" shall not include any technology that is provided by the vehicle
+26 manufacturer as a component of a new motor vehicle and that controls or affects the speed of a
+27 motor vehicle.
+28 (5) "Rhode Island traffic tribunal" means the court which has original jurisdiction over civil
+29 traffic offenses committed in Rhode Island.
+30 31-27.2-3. Mandatory use of ISA devices.
+31 (a) The Rhode Island traffic tribunal or district court shall require installation and use of an
+32 ISA device as a condition for license reinstatement for any eligible offender.
+33 (1) If a person's license has been suspended pursuant to the provisions of this chapter, the
+34 terms of restricted or revoked license reinstatement shall require the person to use a properly
+LC005919 - Page 2 of 6
+
+1 functioning intelligent speed assistance device while operating a motor vehicle.
+2 (2) If a person has been convicted of multiple moving offenses and is subject to the
+3 provisions of § 31-27-34, the person shall be ordered to install an ISA device as a condition of
+4 keeping operating privileges.
+5 (3) A person subject to the requirements in subsection (a) of this section shall not operate
+6 any motor vehicle without a properly functioning ISA device installed in the vehicle for the duration
+7 of the restricted license.
+8 (4) A person subject to the requirements in subsection (a) of this section shall provide proof
+9 of ISA installation to the traffic tribunal through a form approved by the department from an ISA
+10 vendor.
+11 (b) The offender shall bear the cost of leasing, installing, removing and maintaining the
+12 ISA device.
+13 (c) The ISA device shall be operational on any vehicle the offender operates for a period
+14 of not less than twelve (12) months following reinstatement.
+15 31-27.2-4. Certification and installation.
+16 (a) To be eligible to install, repair, maintain, monitor, or remove an intelligent speed
+17 assistance device, an entity shall apply to the department and meet the requirements as provided in
+18 this section.
+19 (b) An applicant seeking approval to install the device shall submit a declaration to the
+20 department that the device is an intelligent speed assistance device as defined in this chapter.
+21 (c) To maintain eligibility under this section, a certified ISA or ignition interlock device
+22 provider or installer shall submit the results of a criminal background check to the department
+23 annually for any individual that is hired to install, repair, maintain, monitor, or remove the device.
+24 (d) Only certified ISA devices and installers of ISA devices and ignition interlock devices
+25 shall be used to meet the requirements of this chapter.
+26 (e) The department shall adopt regulations governing the certification of ISA device
+27 providers and installers.
+28 31-27.2-5. Program administration.
+29 The department shall establish procedures for issuing restricted licenses:
+30 (1) Notifying offenders of ISA requirements;
+31 (2) Verifying installation and continued functionality of ISA devices; and
+32 (3) Monitoring compliance and responding to violations.
+33 31-27.2-6. Penalties for noncompliance.
+34 (a) A person who is restricted to the use of a vehicle equipped with an intelligent speed
+LC005919 - Page 3 of 6
+
+1 assistance device is noncompliant if the restricted driver:
+2 (1) Tampers with the device or any components of the device, or otherwise interferes with
+3 the proper functionality of the device, by modifying, detaching, disconnecting, or otherwise
+4 disabling it to allow the restricted driver to operate the vehicle;
+5 (2) Has, directs, authorizes, or requests another person to tamper with the ISA device or
+6 any components of the device, or otherwise interfere with the proper functionality of the device, by
+7 modifying, detaching, disconnecting, or otherwise disabling it to allow the restricted driver to
+8 operate the vehicle;
+9 (3) Operates a vehicle without a required ISA device; or
+10 (4) Fails to return the device to the vendor upon program completion.
+11 (b) Penalties for noncompliance under this chapter shall be:
+12 (1) Immediate re-suspension or revocation of driving privileges; and
+13 (2) Extension of the ISA requirement for an additional six (6) months;
+14 (c) If an individual is found to be noncompliant and chooses to instead cede all driving
+15 privileges, the individual's license is suspended or revoked entirely and shall submit an affidavit of
+16 nondriving to the department.
+17 (d) Non-restricted license reinstatement shall not occur until the user has satisfied the
+18 period of time required by the court or department to use the device without incurring additional
+19 time penalties or has completed the required time utilizing the device following additional time
+20 penalties.
+21 31-27.2-7. Liability clarifications.
+22 (a) A manufacturer, distributor or retailer of a motor vehicle shall not be liable for any loss,
+23 injury, or damages caused by the design, manufacture, installation, improper installation, use, or
+24 misuse of an aftermarket intelligent speed assistance device. Provided, however, liability does exist
+25 if the manufacturer, distributor or retailer of a motor vehicle knowingly engages in a repair or
+26 update to the aftermarket intelligent speed assistance device and such repair or update proximately
+27 causes loss, injury or damage.
+28 (b) Nothing in this chapter requires a manufacturer, distributor or retailer of a motor vehicle
+29 to manufacture, distribute, or offer for sale a motor vehicle that includes or is compatible with an
+30 aftermarket intelligent speed assistance device.
+31 (c) Nothing in this chapter prohibits a lessor or lienholder from requiring that a motor
+32 vehicle lessee or owner notify the lessor or lienholder that an aftermarket intelligent speed
+33 assistance device has been installed on a motor vehicle that is subject to a lease or finance
+34 agreement.
+LC005919 - Page 4 of 6
+
+1 31-27.2-8. Data collection.
+2 (a) All data collected pursuant to the provisions of this chapter shall be securely maintained
+3 by the ISA device provider. Data related to violations involving tampering with, circumventing, or
+4 removing the ISA device shall be sent by notice to the department or the judge who ordered the
+5 installation of the device.
+6 (b) Data collected pursuant to the provisions of this chapter may only be disclosed under
+7 the following circumstances:
+8 (1) When required by a court order;
+9 (2) As directed by a state statute or regulation.
+10 (3) With the department or provided to the traffic court in cases involving alleged violations
+11 for tampering with, circumventing, or removing the device; or
+12 (4) If the data is depersonalized and aggregated for research or evaluation purposes.
+13 31-27.2-9. Reporting and evaluation.
+14 (a) The department shall submit an annual report to the governor, speaker of the house and
+15 the senate president summarizing program data, including recidivism rates, and user compliance.
+16 (b) The department may adjust implementation based on findings and emerging best
+17 practices in ISA technology.
+18 31-27.2-10. Rulemaking authority.
+19 The department is authorized to promulgate rules and regulations to implement the
+20 provisions of this chapter.
+21 SECTION 3. This act shall take effect upon passage..
+========
+LC005919
+========
+LC005919 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MOTOR AND OTHER VEHICLES -- SUPER SPEEDER
+ACCOUNTABILITY ACT
+***
+1 This act would establish the Super Speeder Accountability Act to be used as a sentencing
+2 option or enhancement for drivers charged with certain driving violations, including reckless
+3 driving and multiple moving offenses, subject to the provisions of § 31-27-24.
+4 This act would take effect upon passage.
+========
+LC005919
+========
+LC005919 - Page 6 of 6

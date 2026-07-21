@@ -1,0 +1,546 @@
+Title: 
+Official Title: 
+Source: versions - 7877
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7877
+========
+LC004495
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- APPLIANCE AND EQUIPMENT
+ENERGY AND WATER EFFICIENCY STANDARDS ACT OF 2021
+Introduced By: Representatives Handy, Bennett, Speakman, McGaw, Cortvriend, Kislak,
+Tanzi, Cruz, Potter, and McNamara
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 39-27.1-2, 39-27.1-3, 39-27.1-4, 39-27.1-5, 39-27.1-6 and 39-27.1-
+2 7 of the General Laws in Chapter 39-27.1 entitled "Appliance and Equipment Energy and Water
+3 Efficiency Standards Act of 2021" are hereby amended to read as follows:
+4 39-27.1-2. Definitions.
+5 (a) For purposes of this chapter, the following definitions apply:
+6 (1) "Agency" means the Rhode Island office of energy resources.
+7 (1)(2) “Commercial dishwasher” means a machine designed to clean and sanitize plates,
+8 pots, pans, glasses, cups, bowls, utensils, and trays by applying sprays of detergent solution (with
+9 or without blasting media granules) and a sanitizing rinse.
+10 (2)(3) “Commercial fryer” means an appliance, including a cooking vessel, in which oil is
+11 placed to such a depth that the cooking food is essentially supported by displacement of the cooking
+12 fluid rather than by the bottom of the vessel. Heat is delivered to the cooking fluid by means of an
+13 immersed electric element of band-wrapped vessel (electric fryers) or by heat transfer from gas
+14 burners through either the walls of the fryer or through tubes passing through the cooking fluid (gas
+15 fryers).
+16 (3)(4) “Commercial hot-food holding cabinet” means a heated, fully enclosed compartment
+17 with one or more solid or transparent doors designed to maintain the temperature of hot food that
+18 has been cooked using a separate appliance. “Commercial hot-food holding cabinet” does not
+
+1 include heated glass merchandizing cabinets, drawer warmers, or cook-and-hold appliances.
+2 (4)(5) “Commercial oven” means a chamber designed for heating, roasting, or baking food
+3 by conduction, convection, radiation, and/or electromagnetic energy.
+4 (5)(6) “Commercial steam cooker,” also known as “compartment steamer,” means a device
+5 with one or more food-steaming compartments in which the energy in the steam is transferred to
+6 the food by direct contact. Models may include countertop models, wall-mounted models, and floor
+7 models mounted on a stand, pedestal, or cabinet-style base.
+8 (6)(7) “Commissioner” means the commissioner of energy resources at the Rhode Island
+9 office of energy resources, appointed pursuant to § 42-140-4.
+10 (7)(8) “Compensation” means money or any other valuable thing, regardless of form,
+11 received or to be received by a person for services rendered.
+12 (9) “Computer server” means a computer that provides services and manages networked
+13 resources for client devices (e.g., desktop computers, notebook computers, thin clients, wireless
+14 devices, personal digital assistants, internet protocol telephones, other computer servers, or other
+15 network devices).
+16 (10) “Computer server power supply unit” means a device that converts AC or DC input
+17 power to one or more DC power outputs for the purpose of powering a computer server and that is
+18 self-contained, physically separable from the motherboard and that connects to the system via a
+19 removable or hard-wired electrical connection.
+20 (11) The following definitions refer to expanded scope electric motors:
+21 (i) “Electric motor’’ means a machine that converts electrical power into rotational
+22 mechanical power.
+23 (ii) “Expanded scope electric motor” means an electric motor meeting the definition of
+24 “small, non-small-electric-motor electric motor” as defined in Appendix B to Subpart B of Part 431
+25 of Title 10 of the Code of Federal Regulations as in effect on January 1, 2025 “Uniform Test
+26 Method for Measuring the Efficiency of Electric Motors,” excluding any motor incorporated into
+27 a product to which a federal energy conservation standard applies under 10 C.F.R. Parts 430 or
+28 431.
+29 (8)(12) “Electric vehicle supply equipment” means the conductors, including the
+30 ungrounded, grounded, and equipment grounding conductors, the electric vehicle connectors,
+31 attachment plugs, and all other fittings, devices, power outlets, or apparatuses installed specifically
+32 for the purpose of delivering energy from the premises wiring to the electric vehicle. Excludes
+33 conductors, connectors, and fittings that are part of a vehicle.
+34 (13) The following definitions refer to commercial and industrial fans and blowers:
+LC004495 - Page 2 of 16
+
+1 (i) “Fan’’ or ‘‘blower’’ means a rotary bladed machine used to convert electrical or
+2 mechanical power to air power, with an energy output limited to 25 kJ/kg of air. It consists of an
+3 impeller, a shaft and bearings and/or driver to support the impeller, as well as a structure or housing.
+4 A fan or blower may include a transmission, driver, and/or motor controller.
+5 (ii) “Air circulating fan” means a fan that has no provision for connection to ducting or
+6 separation of the fan inlet from its outlet using a pressure boundary, operates against zero external
+7 static pressure loss and is not a jet fan or a ceiling fan.
+8 (iii) “Jet fan” means a fan designed and marketed specifically for producing a high velocity
+9 air jet in a space to increase its air momentum. Jet fans are rated using thrust. Inlets and outlets are
+10 not ducted but may include acoustic silencers.
+11 (iv) “Ceiling fan” means a nonportable device that is suspended from a ceiling for
+12 circulating air via the rotation of fan blades. For the purpose of this definition: Circulating air means
+13 the discharge of air in an upward or downward direction. A ceiling fan that has a ratio of fan blade
+14 span (in inches) to maximum rotation rate (in revolutions per minute) greater than 0.06 provides
+15 circulating air.
+16 (v) “Housed centrifugal air circulating fan” means a housed air circulating fan head with a
+17 centrifugal or radial impeller in which airflow exits into a housing that is generally scroll shaped to
+18 direct the air through a single, narrow fan outlet.
+19 (vi) “Air circulating fan discharge area” means the area of a circle having a diameter equal
+20 to the blade tip diameter.
+21 (vii) “Air circulating fan outlet area” means the gross inside area measured at the plane of
+22 the outlet opening.
+23 (viii) “Equivalent diameter” means the diameter (D) of a circle with the same area as
+24 another geometric shape. For a rectangular cross section with width a and height b, the equivalent
+25 diameter is given as D = (4ab/π)0.5
+26 (ix) “General fan or blower” means a fan or blower that is not an air circulating fan.
+27 (x) “Radial-housed-unshrouded fan” means a radial fan with impeller blades attached to a
+28 backplate and hub (i.e., open radial blade) or a hub only (i.e., open paddle wheel) and with an open
+29 front at the impeller’s inlet.
+30 (xi) “Rimmed radial-unshrouded fan” means a radial-housed unshrouded fan having a
+31 vertical rim on both sides of the impeller.
+32 (xii) “Duty point” means a single airflow, pressure point, and fan air density within the
+33 fan’s operating range.
+34 (9)(14) The following definitions refer to “faucets”:
+LC004495 - Page 3 of 16
+
+1 (i) “Faucet” means a private lavatory faucet, residential kitchen faucet, metering faucet,
+2 public lavatory faucet, or replacement aerator for a private lavatory, public lavatory, or residential
+3 kitchen faucet;
+4 (ii) “Public lavatory faucet” means a fitting designed to be installed in nonresidential
+5 bathrooms that are exposed to walk-in traffic;
+6 (iii) “Metering faucet” means a fitting that, when turned on, will gradually shut itself off
+7 over a period of several seconds; and
+8 (iv) “Replacement aerator” means an aerator sold as a replacement, separate from the
+9 faucet to which it is intended to be attached.
+10 (10)(15) The following definitions refer to “gas fireplaces”:
+11 (i) “Decorative gas fireplace” means a vented fireplace, including appliances that are
+12 freestanding, recessed, zero clearance, or a gas fireplace insert, that is fueled by natural gas or
+13 propane, is marked for decorative use only, and is not equipped with a thermostat or intended for
+14 use as a heater;
+15 (ii) “Gas fireplace” means a decorative gas fireplace or a heating gas fireplace; and
+16 (iii) “Heating gas fireplace” means a vented fireplace, including appliances that are
+17 freestanding, recessed, zero clearance, or a gas fireplace insert, that is fueled by natural gas or
+18 propane and is not a decorative fireplace.
+19 (11)(16) “Portable electric spa” means a factory-built electric spa or hot tub that may or
+20 may not include any combination of integral controls, water heating, or water circulating
+21 equipment.
+22 (12)(17) “Residential ventilating fan” means a ceiling or wall-mounted fan, or remotely
+23 mounted in-line fan, designed to be used in a bathroom or utility room for the purpose of moving
+24 air from inside the building to the outdoors.
+25 (13)(18) The following definitions refer to “showerheads”:
+26 (i) “Showerhead” means an accessory to a supply fitting for spraying water onto a bather,
+27 typically from an overhead position and includes a hand-held showerhead, but does not include a
+28 safety showerhead; and
+29 (ii) “Hand-held showerhead” means a showerhead that can be held or fixed in place for the
+30 purpose of spraying water onto a bather and that is connected to a flexible hose.
+31 (14)(19) The following definitions refer to “spray sprinkler bodies”:
+32 (i) “Pressure regulator” means a device that maintains constant operating pressure
+33 immediately downstream from the device, given higher pressure upstream; and
+34 (ii) “Spray sprinkler body” means the exterior case or shell of a sprinkler incorporating a
+LC004495 - Page 4 of 16
+
+1 means of connection to the piping system designed to convey water to a nozzle or orifice.
+2 (20) The following definitions apply to state regulated battery charger systems:
+3 (i) "Battery" or "battery pack" means an assembly of one or more rechargeable cells
+4 intended to provide electrical energy to a product, and may be in one of the following forms:
+5 (A) Detachable battery. A battery that is contained in a separate enclosure from the product
+6 and is intended to be removed or disconnected from the product for recharging; or
+7 (B) Integral battery. A battery that is contained within the product and is not removed from
+8 the product for charging purposes.
+9 (ii) "Battery charger system (BCS)" means a battery charger coupled with its battery or
+10 batteries or battery chargers coupled with their batteries, which together are referred to as battery
+11 charger systems. This term covers all rechargeable batteries or devices incorporating a rechargeable
+12 battery and the chargers used with them. Battery charger systems include, but are not limited to:
+13 (A) Electronic devices with a battery that are normally charged from AC line voltage or
+14 DC input voltage through an internal or external power supply and a dedicated battery charger;
+15 (B) The battery and battery charger components of devices that are designed to run on
+16 battery power during part or all of their operations;
+17 (C) Dedicated battery systems primarily designed for electrical or emergency backup;
+18 (D) Devices whose primary function is to charge batteries, along with the batteries they are
+19 designed to charge. These units include chargers for power tool batteries and chargers for
+20 automotive, AA, AAA, C, D, or 9V rechargeable batteries, as well as chargers for batteries used in
+21 larger industrial motive equipment and à la carte chargers.
+22 (E) The charging circuitry of battery charger systems may or may not be located within the
+23 housing of the end-use device itself. In many cases, the battery may be charged with a dedicated
+24 external charger and power supply combination that is separate from the device that runs on power
+25 from the battery
+26 (15)(21) The following definitions refer to “urinals” and “water closets”:
+27 (i) “Dual-flush effective flush volume” means the average flush volume of two (2) reduced
+28 flushes and one full flush;
+29 (ii) “Dual-flush water closet” means a water closet incorporating a feature that allows the
+30 user to flush the water closet with either a reduced or a full volume of water;
+31 (iii) “Plumbing fixture” means an exchangeable device that connects to a plumbing system
+32 to deliver and drain away water and waste;
+33 (iv) “Trough-type urinal” means a urinal designed for simultaneous use by two (2) or more
+34 persons;
+LC004495 - Page 5 of 16
+
+1 (v) “Urinal” means a plumbing fixture that receives only liquid body waste and conveys
+2 the waste through a trap into a drainage system; and
+3 (vi) “Water closet” means a plumbing fixture having a water-containing receptor that
+4 receives liquid and solid body waste through an exposed integral trap into a drainage system.
+5 (16)(22) The following definitions refer to “water coolers”:
+6 (i) “Cold only units” dispense cold water only;
+7 (ii) “Cook and cold units” dispense both cold and room-temperature water;
+8 (iii) “Hot and cold units” dispense both hot and cold water. Provided further that certain
+9 units also offer room-temperature water;
+10 (iv) “On demand” means the water cooler heats water as it is requested, which typically
+11 takes a few minutes to deliver;
+12 (v) “Storage-type” means thermally conditioned water is stored in a tank in the water cooler
+13 and is available instantaneously. Point-of-use, dry storage compartment, and bottled water coolers
+14 are included in this category; and
+15 (vi) “Water cooler” means a freestanding device that consumes energy to cool and/or heat
+16 potable water.
+17 (vii) “WaterSense” means a partnership program by the U.S. Environmental Protection
+18 Agency. Independent, third-party licensed certifying bodies certify that products meet EPA criteria
+19 for water efficiency and performance by following testing and certification protocols specific to
+20 each product category. Products that are certified to meet EPA specifications are allowed to bear
+21 the WaterSense label. (42 U.S.C. § 6294a (Energy Star Program).
+22 39-27.1-3. Scope.
+23 (a) The provisions of this chapter apply to:
+24 (1) Computer server power supply units;
+25 (1)(2) Commercial dishwashers;
+26 (2)(3) Commercial fryers;
+27 (3)(4) Commercial hot-food holding cabinets;
+28 (5) Commercial and industrial fans and blowers;
+29 (4)(6) Commercial ovens;
+30 (5) (7) Commercial steam cookers;
+31 (8) Expanded scope electric motors;
+32 (6)(9) Electric vehicle supply equipment;
+33 (7)(10) Faucets;
+34 (8)(11) Gas fireplaces;
+LC004495 - Page 6 of 16
+
+1 (9)(12) Portable electric spas;
+2 (10)(13) Residential ventilating fans;
+3 (11)(14) Showerheads;
+4 (12)(15) Spray sprinkler bodies;
+5 (16) State-regulated battery charger systems;
+6 (13)(17) Urinals;
+7 (14)(18) Water closets; and
+8 (15)(19) Water coolers.
+9 (b) The provisions of this chapter do not apply to:
+10 (1) New products manufactured in the state and sold outside the state;
+11 (2) New products manufactured outside the state and sold at wholesale inside the state for
+12 final retail sale and installation outside the state;
+13 (3) Products installed in mobile manufactured homes at the time of construction; or
+14 (4) Products designed expressly for installation and use in recreational vehicles.
+15 39-27.1-4. Standards.
+16 (a) Not later than one year after the date of enactment of this chapter, the commissioner
+17 shall adopt regulations, in accordance with the provisions of chapter 35 of title 42, establishing
+18 minimum efficiency standards for the types of new products set forth in § 39-27.1-3.
+19 (b) The regulations shall provide for the following minimum efficiency standards:
+20 (1) Commercial dishwashers included in the scope of the ENERGY STAR Program
+21 Requirements Product Specification for Commercial Dishwashers, Version 2.0, shall meet the
+22 qualification criteria of that specification;
+23 (2) Commercial fryers included in the scope of the ENERGY STAR Program
+24 Requirements Product Specification for Commercial Fryers, Version 2.0 Version 3.0, shall meet
+25 the qualification criteria of that specification;
+26 (3) Commercial hot-food holding cabinets shall meet the qualification criteria of the
+27 ENERGY STAR Program Requirements Product Specification for Commercial Hot Food Holding
+28 Cabinets, Version 2.0;
+29 (4) Commercial ovens included in the scope of the ENERGY STAR Program
+30 Requirements Product Specification for Commercial Ovens, Version 2.2 Version 3.0, shall meet
+31 the qualification criteria of that specification;
+32 (5) Commercial steam cookers shall meet the requirements of the ENERGY STAR
+33 Program Requirements Product Specification for Commercial Steam Cookers, Version 1.2;
+34 (6) Electric vehicle supply equipment included in the scope of the ENERGY STAR
+LC004495 - Page 7 of 16
+
+1 Program Requirements Product Specification for Electric Vehicle Supply Equipment, Version 1.0
+2 (Rev. Apr-2017), shall meet the qualification criteria of that specification;
+3 (7) Faucets, except for metering faucets, shall meet the standards shown in this subsection
+4 when tested in accordance with Appendix S to Subpart B of Part 430 of Title 10 of the Code of
+5 Federal Regulations and compliance with those requirements shall be — “Uniform Test Method
+6 for Measuring the Water Consumption of Faucets and Showerheads” — as in effect on January 1,
+7 2020 and compliance with those requirements shall be:
+8 (i) Lavatory faucets and replacement aerators shall not exceed a maximum flow rate of one
+9 and five-tenths gallons per minute (1.5 gpm) at sixty pounds per square inch (60 psi) included in
+10 the scope of the WaterSense Specification for Lavatory Faucets, Version 1.0, shall meet a
+11 maximum flow rate of one and two-tenths gallons per minute (1.2 gpm) and meet the performance
+12 criteria and other certification criteria of that specification;
+13 (ii) Residential kitchen faucets and replacement aerators shall not exceed a maximum flow
+14 rate of one and eight-tenths gallons per minute (1.8 gpm) at sixty pounds per square inch (60 psi),
+15 with optional temporary flow of two and two-tenths gallons per minute (2.2 gpm), provided they
+16 default to a maximum flow rate of one and eight-tenths gallons per minute (1.8 gpm) at sixty pounds
+17 per square inch (60 psi) after each use; and
+18 (iii) Public lavatory faucets and replacement aerators shall not exceed a maximum flow
+19 rate of five-tenths gallons per minute (0.5 gpm) at sixty pounds per square inch (60 psi);
+20 (iv) Metering faucets shall not exceed a volumetric measure of water of 0.20 gallons per
+21 activation cycle and shall have no maximum flow rate specified (ie: gallons per minute) when tested
+22 in accordance with Clause 5.4.2.3.1 b) of ASME A112.18.1/CSA B125.1.
+23 (8) Gas fireplaces shall comply with the following requirements:
+24 (i) Gas fireplaces shall be capable of automatically extinguishing any pilot flame when the
+25 main gas burner flame is established and when it is extinguished;
+26 (ii) Gas fireplaces must prevent any ignition source for the main gas burner flame from
+27 operating continuously for more than seven (7) days;
+28 (iii) Decorative gas fireplaces must have a direct vent configuration, unless marked for
+29 replacement use only; and
+30 (iv) Heating gas fireplaces shall have a fireplace efficiency greater than or equal to fifty
+31 percent (50%) when tested in accordance with CSA P.4.1-15, “Testing Method for Measuring
+32 Annual Fireplace Efficiency”;
+33 (9) Portable electric spas shall meet the requirements of the “American National Standard
+34 for Portable Electric Spa Energy Efficiency” (ANSI/APSP/ICC 14-2019);
+LC004495 - Page 8 of 16
+
+1 (10) In-line residential ventilating fans shall have a fan motor efficacy of no less than two
+2 and eight-tenths (2.8) cubic feet per minute per watt. All other residential ventilating fans shall have
+3 a fan motor efficacy of no less than one and four-tenths (1.4) cubic feet per minute per watt for
+4 airflows less than ninety (90) cubic feet per minute and no less than two and eight-tenths (2.8) cubic
+5 feet per minute per watt for other airflows when tested in accordance with Home Ventilation
+6 Institute Publication 916 “HVI Airflow Test Procedure”;
+7 (11) Showerheads shall not exceed a maximum flow rate of two gallons per minute (2.0
+8 gpm) at eighty pounds per square inch (80 psi) when tested in accordance with Appendix S to
+9 Subpart B of Part 430 of Title 10 of the Code of Federal Regulations and compliance with those
+10 requirements shall be — “Uniform Test Method for Measuring the Water Consumption of Faucets
+11 and Showerheads” — as in effect on January 1, 2020 included in the scope of the WaterSense
+12 Specification for Showerheads Version 1.1 shall meet a maximum flow rate of one and eight-tenths
+13 gallons per minute (1.8 gpm) and meet the performance criteria and other certification criteria of
+14 that specification;
+15 (12) Spray sprinkler bodies that are not specifically excluded from the scope of the
+16 WaterSense Specification for Spray Sprinkler Bodies, Version 1.0, shall include an integral
+17 pressure regulator and shall meet the water efficiency and performance criteria and other
+18 requirements of that specification;
+19 (13) Urinals and water closets, other than those designed and marketed exclusively for use
+20 at prisons or mental health facilities, shall meet the standards shown in subsections (b)(13)(i)
+21 through (b)(13)(iv) of this section when tested in accordance with Appendix T to Subpart B of Part
+22 430 of Title 10 of the Code of Federal Regulations — “Uniform Test Method for Measuring the
+23 Water Consumption of Water Closets and Urinals” — as in effect on January 1, 2020, and water
+24 closets shall pass the waste extraction test for water closets (Section 7.9) of the American Society
+25 of Mechanical Engineers (ASME) A112.19.2/CSA B45.1-2018:
+26 (i) Wall-mounted urinals, except for trough-type urinals, shall have a maximum flush
+27 volume of five-tenths (0.5) gallons per flush;
+28 (ii) Floor-mounted urinals, except for trough-type urinals, shall have a maximum flush
+29 volume of five-tenths (0.5) gallons per flush;
+30 (iii) Water closets, except for dual-flush tank-type water closets, shall have a maximum
+31 flush volume of one and twenty-eight hundredths (1.28) gallons per flush; and
+32 (iv) Dual-flush tank-type water closets shall have a maximum dual flush effective flush
+33 volume of one and twenty-eight hundredths (1.28) gallons per flush;
+34 (14) Water coolers included in the scope of the ENERGY STAR Program Requirements
+LC004495 - Page 9 of 16
+
+1 Product Specification for Water Coolers, Version 2.0, shall have on mode with no water draw
+2 energy consumption less than or equal to the following values as measured in accordance with the
+3 test requirements of that program:
+4 (i) Sixteen hundredths kilowatt hours (0.16 KWh) per day for cold-only units and cook and
+5 cold units;
+6 (ii) Eighty-seven hundredths kilowatt hours (0.87 KWh) per day for storage type hot and
+7 cold units; and
+8 (iii) Eighteen hundredths kilowatt hours (0.18 KWh) per day for on demand hot and cold
+9 units.
+10 (15) Computer server power supply units for computer servers included in the scope of the
+11 ENERGY STAR Program Requirements Product Specification for Computer Servers, Version 4.0,
+12 shall meet the certification criteria of that specification.
+13 (16) The regulations shall provide for the following minimum efficiency standards:
+14 (i) Commercial and industrial fans and blowers shall comply with the following
+15 requirements:
+16 (A) Air circulating fans shall have a minimum efficiency (Effcirc), in cubic feet per minute
+17 per watt, at maximum speed of greater than or equal to the sum of sixteen times D to the fifth power
+18 and two hundred times D to the fourth power, all divided by Q squared, when tested in accordance
+19 with Appendix B to Subpart J of Part 431 of Title 10 of the Code of Federal Regulations as in effect
+20 on January 1, 2025, “Uniform Test Method for the Measurement of Energy Consumption of Air
+21 Circulating Fans,” Effcirc is the minimum efficacy for air circulating fans (CFM/W). D is the
+22 impeller diameter for unhoused fans, and the lesser of impeller diameter and equivalent diameter
+23 for housed fans (inches). Q is the air circulating fan airflow rate, determined by the referenced test
+24 procedure at the maximum fan speed (cfm).
+25 (B) Represented values of performance ratings for air circulating fans used to demonstrate
+26 compliance with the efficacy requirements shall be determined in accordance with 10 C.F.R. §
+27 429.69, “Certification, Compliance, and Enforcement for Consumer Products and Commercial and
+28 Industrial Equipment” as in effect on January 1, 2025.
+29 (C) The standards for air circulating fans do not apply to:
+30 (I) Housed centrifugal air circulating fans;
+31 (II) Air circulating fans with input power less than two hundred watts (200W) at maximum
+32 speed; or
+33 (III) Air circulating fans where water is evaporated in the air stream of the fan.
+34 (D) General fans and blowers within the scope of 10 C.F.R. § 431.174(a) as in effect on
+LC004495 - Page 10 of 16
+
+1 January 1, 2025, shall have a fan energy index (FEI) no less than 1.05 at each duty point for which
+2 the fan is offered for sale when tested in accordance with Appendix A to Subpart J of Part 431 of
+3 Title 10 of the Code of Federal Regulations as in effect on January 1, 2025, “ Uniform Test Method
+4 for the Measurement of Energy Consumption of Fans and Blowers Other Than Air Circulating Fans
+5 including, but not limited to, provisions on alternative efficiency determination methods (AEDMs)
+6 and additional testing requirements concerning selection of models to be tested if an AEDM is to
+7 be applied in 10 C.F.R. § 429.69 and § 429.70 as in effect on January 1, 2025. General fans and
+8 blowers may also be tested in accordance with Sections 6.4 and 6.5 of ANSI/AMCA Standard 214-
+9 21, Test Procedure for Calculating Fan Energy Index (FEI) for Commercial and Industrial Fans and
+10 Blowers.”
+11 (E) The standards for general fans and blowers do not apply to:
+12 (I) Fans and blowers embedded in the equipment listed in paragraph (a)(3) of 10 C.F.R. §
+13 431.174(a)(3) as in effect on January 1, 2025;
+14 (II) Fans and blowers embedded in equipment other than the equipment listed [subsection
+15 5(a)] that are available only as part of a manufactured assembly that includes functions other than
+16 air movement or as a replacement part for that assembly;
+17 (III) Any other fan type listed as exempt in 10 C.F.R. § 431.174(a) as in effect on January
+18 1, 2025;
+19 (IV) Radial-housed-unshrouded fans; or
+20 (V) Rimmed radial-unshrouded fans.
+21 (VI) A fan or blower shall be deemed to be offered for sale at a duty point if:
+22 (aa) The selection software provided by the manufacturer or seller returns such fan or
+23 blower as recommended for use at such duty point; or
+24 (bb) The manufacturer or seller otherwise knowingly sells a fan or blower to an end user
+25 who intends to use the fan or blower at such duty point.
+26 (17) Expanded scope electric motors with a power rating of greater than or equal to twenty-
+27 five hundredths (0.25) horsepower and less than or equal to three (3) horsepower shall meet the
+28 minimum efficiency standards outlined in “Energy Conservation Program: Energy Conservation
+29 Standards for Expanded Scope Electric Motors” (88 Fed. Reg. 87062, published December 15,
+30 2023) when tested in accordance with Appendix B to Subpart B of Part 431 of Title 10 of the Code
+31 of Federal Regulations as in effect on January 1, 2025.
+32 (18) Large battery charger systems and battery backup or UPS systems shall meet the
+33 requirements of § 39-27.1-2(20) and compliance with those requirements shall be as measured in
+34 accordance with test methods prescribed in § 1604(w) of those regulations.
+LC004495 - Page 11 of 16
+
+1 (i) The rules shall define “large battery charger system” and “battery backup or
+2 uninterruptible power supply charger (UPS)” to have the same meaning as set forth in § 39-27.1-
+3 2(20).
+4 39-27.1-5. Implementation.
+5 (a) No commercial dishwasher, commercial fryer, commercial hot-food holding cabinet,
+6 commercial oven, commercial steam cooker, electric vehicle supply equipment, faucet, gas
+7 fireplace, portable electric spa, residential ventilating fan, showerhead, spray sprinkler body, urinal,
+8 water closet, or water cooler manufactured on or after January 1, 2023, may be sold or offered for
+9 sale, lease, or rent in the state unless the new product meets the requirements of the standards
+10 provided in this chapter.
+11 (b) One year after the date upon which the sale or offering for sale of certain products
+12 becomes subject to the requirements of subsection (a) of this section, no such products may be
+13 installed for compensation in the state unless the efficiency of the new product meets or exceeds
+14 the efficiency standards provided in § 39-27.1-4.
+15 (c) No commercial dishwasher, commercial oven, computer server power supply unit,
+16 faucet, general fan or blower, or showerhead manufactured on or after January 1, 2028, may be
+17 sold or offered for sale, lease, or rent in the state unless the new product meets the requirements of
+18 the standards provided in this chapter. On or after January 1, 2029, no new expanded scope electric
+19 motor may be sold or offered for sale, lease, or rent in the state unless the new product meets the
+20 requirements of the standards provided in § 39-27.1-4.
+21 39-27.1-6. New and revised standards.
+22 (a) The commissioner may adopt regulations, in accordance with the provisions of chapter
+23 35 of title 42, to establish increased efficiency standards for the products listed or incorporated in
+24 § 39-27.1-3. In considering the new or amended standards, the commissioner shall set efficiency
+25 standards upon a determination that increased efficiency standards would serve to promote energy
+26 or water conservation in the state and would be cost effective for consumers who purchase and use
+27 these new products; provided that, no new or increased efficiency standards shall become effective
+28 within one year following the adoption of any amended regulations establishing such increased
+29 efficiency standards.
+30 (b) If any of the energy or water conservation standards issued or approved for publication
+31 by the Office of the United States Secretary of Energy as of January 19, 2025, pursuant to the
+32 Energy Policy and Conservation Act (Parts 430-431 of Title 10 of the Code of Federal Regulations),
+33 are withdrawn, repealed, or otherwise voided, the minimum energy or water efficiency level
+34 permitted for products previously subject to federal energy or water conservation standards in this
+LC004495 - Page 12 of 16
+
+1 state shall be the applicable federal standards as of January 19, 2025, and no such new product may
+2 be sold or offered for sale, lease or rent in this state unless it meets or exceeds such standards. This
+3 section shall not apply to any federal energy or water conservation standard set aside by a court
+4 upon the petition of a person who will be adversely affected, as provided in 42 U.S.C. § 6306(b).
+5 39-27.1-7. Testing — Certification — Labeling — Enforcement.
+6 (a) The manufacturers of products covered by this chapter shall test samples of their
+7 products in accordance with the test procedures adopted pursuant to this chapter. The commissioner
+8 may adopt updated test methods when new versions of test procedures become available.
+9 (b) Manufacturers of new products covered by § 39-27.1-3 shall certify to the
+10 commissioner that the products are in compliance with the provisions of this chapter. The
+11 certifications shall be based on test results. The commissioner shall promulgate regulations
+12 governing the certification of the products and shall coordinate with the certification programs of
+13 other states and federal agencies with similar standards.
+14 (c) Manufacturers of new products covered by § 39-27.1-3 shall identify each product
+15 offered for sale or installation in the state as in compliance with the provisions of this chapter by
+16 means of a mark, label, or tag on the product and packaging at the time of sale or installation. The
+17 commissioner shall promulgate regulations governing the identification of the products and
+18 packaging, which shall be coordinated to the greatest practical extent with the labeling programs
+19 of other states and federal agencies with equivalent efficiency standards. The commissioner shall
+20 allow the use of existing marks, labels, or tags, that connote compliance with the efficiency
+21 requirements of this chapter.
+22 (d) The commissioner may test products covered by § 39-27.1-3. If products so tested are
+23 found not to be in compliance with the minimum efficiency standards established under § 39-27.1-
+24 4, the commissioner shall:
+25 (1) Charge the manufacturer of such product for the cost of product purchase and testing;
+26 and
+27 (2) Make information available to the attorney general and the public on products found
+28 not to be in compliance with the standards.
+29 (e) With prior notice and at reasonable and convenient hours, the commissioner may cause
+30 periodic inspections to be made of distributors or retailers of new products covered by § 39-27.1-3
+31 in order to determine compliance with the provisions of this chapter. The commissioner shall also
+32 coordinate with the state building code standards committee regarding inspections prior to
+33 occupancy of newly constructed buildings containing new products that are also covered by chapter
+34 27.3 of title 23.
+LC004495 - Page 13 of 16
+
+1 (f) The commissioner shall investigate complaints received concerning violations of this
+2 chapter and shall report the results of the investigations to the attorney general. The attorney general
+3 may institute proceedings to enforce the provisions of this chapter. Any manufacturer, distributor,
+4 or retailer, or any person who installs a product covered by this chapter for compensation, who or
+5 that violates any provision of this chapter shall be issued a warning by the commissioner for any
+6 first violation and subject to a civil penalty of up to one hundred dollars ($100) for each offense.
+7 Repeat violations shall be subject to a civil penalty of not more than five hundred dollars ($500)
+8 for each offense. Each violation shall constitute a separate offense, and each day that the violation
+9 continues shall constitute a separate offense. Penalties assessed under this subsection are in addition
+10 to costs assessed under subsection (d) of this section.
+11 (g) The commissioner may adopt such further regulations as necessary to ensure the proper
+12 implementation and enforcement of the provisions of this chapter.
+13 (h) The manufacturers of products covered by this chapter shall test samples of their
+14 products in accordance with the test procedures found in the Energy Policy and Conservation Act
+15 (Parts 430-431 of Title 10 of the Code of Federal Regulations) as of January 19, 2025, in accordance
+16 with the federal test procedures as in place on January 19, 2025. Rhode Island Energy may adopt
+17 updated test methods by regulation when new versions of test methods become available or when
+18 an alternative test method has been adopted by another state or the federal government.
+19 (i) Manufacturers of new products covered by this chapter shall certify that such products
+20 are in compliance with the provisions of this chapter to the Modernized Appliance Efficiency
+21 Database System, the State Appliance Standards Database, and the Certified Products Directory,
+22 or to an approved third-party database as determined by the Rhode Island office of energy
+23 resources. Such certifications shall be based on test results. The agency may promulgate regulations
+24 further governing the certification of such products and may coordinate with the certification
+25 programs of other states and federal agencies with similar standards.
+26 (j) Initial test requirements for general fans and blowers. Unless the commissioner amends
+27 the requirements pursuant to this section, for general fans and blowers, test results may be based
+28 on a single unit (sample) or may include use of an alternative efficiency determination method, in
+29 accordance with the requirements of 10 C.F.R. § 429.69 and § 429.70 (88 Fed. Reg. 27312, 27387–
+30 27389, published May 1, 2023, with technical amendments at 88 Fed. Reg. 53371, 53375-53377,
+31 published August 8, 2023), as existing at the time of enactment.
+32 (k) Labels for commercial and industrial fans and blowers. For general fans and blowers
+33 and air circulating fans, the following information shall be legibly and conspicuously displayed in
+34 an accessible place on each physical unit:
+LC004495 - Page 14 of 16
+
+1 (1) Manufacturer's name or brand name or trademark (i.e., either the name, brand, or
+2 trademark of the listed manufacturer) as provided pursuant to the provisions of § 39-27.1-7(c);
+3 (2) Model number; and
+4 (3) Date or date code of manufacture, indicating year and month.
+5 (l) Additional requirements applicable to fans and blowers. Testing of general fans and
+6 blowers and air circulating fans shall be performed by a laboratory that:
+7 (1) Has proof of compliance with ISO/IEC 17025 “General requirements for the
+8 competence of testing and calibration laboratories” from a third-party accreditation body; and
+9 (2) Is accredited by AMCA International Inc. to perform testing in accordance with at least
+10 one of the following:
+11 (i) ANSI/AMCA Standard 210 “Laboratory Methods of Testing Fans for Certified
+12 Aerodynamic Performance Rating”;
+13 (ii) ISO Standard 5801, “Fans -- Performance testing using standardized airways”;
+14 (iii) ANSI/AMCA Standard 230 “Laboratory Methods of Testing Air Circulating Fans for
+15 Rating and Certification.”
+16 SECTION 2. This act shall take effect upon passage.
+========
+LC004495
+========
+LC004495 - Page 15 of 16
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- APPLIANCE AND EQUIPMENT
+ENERGY AND WATER EFFICIENCY STANDARDS ACT OF 2021
+***
+1 This act would establish minimum energy and water efficiency standards for appliance and
+2 specified equipment purchased or installed after January 1, 2025.
+3 This act would take effect upon passage.
+========
+LC004495
+========
+LC004495 - Page 16 of 16

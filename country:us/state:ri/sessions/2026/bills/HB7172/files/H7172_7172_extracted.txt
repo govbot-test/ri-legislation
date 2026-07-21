@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - 7172
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7172
+========
+LC004043
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- HEALTH CARE AND SOCIAL SERVICES
+TRANSACTION REVIEW AND SIGNIFICANT EQUITY INVESTOR DISCLOSURE ACT
+Introduced By: Representatives Casimiro, Giraldo, Donovan, Read, Spears, Shallcross
+Smith, Potter, and Hopkins
+Date Introduced: January 21, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds that:
+3 (1) Private equity and similar investment structures increasingly own or control entities
+4 delivering health care and essential social services in this state;
+5 (2) Certain transactions involving changes in ownership or control may materially affect
+6 cost, access, quality, workforce stability, and continuity of care or services; and
+7 (3) Transparency regarding ownership, governance, and financial structure is necessary to
+8 protect the public interest.
+9 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+10 amended by adding thereto the following chapter:
+11 CHAPTER 17.31
+12 HEALTH CARE AND SOCIAL SERVICES TRANSACTION REVIEW AND SIGNIFICANT
+13 EQUITY INVESTOR DISCLOSURE ACT
+14 23-17.31-1. Short title.
+15 This chapter shall be known and may be cited as the “Health Care and Social Services
+16 Transaction Review and Significant Equity Investor Disclosure Act.”
+17 23-17.31-2. Definitions.
+18 As used in this chapter:
+
+1 (1) “Control” means the power, directly or indirectly, to direct or cause the direction of the
+2 management or policies of an entity, whether through ownership of voting securities, contract,
+3 governance rights, management agreement, or otherwise.
+4 (2) “Covered care entity” means any of the following operating in this state:
+5 (i) A healthcare facility or healthcare provider licensed, certified, or registered by the
+6 department of health pursuant to title 23;
+7 (ii) A behavioral health organization, residential facility, program, or provider licensed,
+8 certified, or funded by the department of behavioral healthcare, developmental disabilities, and
+9 hospitals pursuant to title 40.1; or
+10 (iii) A residential facility, group home, residential treatment facility, or program licensed,
+11 certified, or approved by the department of children, youth, and families pursuant to title 42.
+12 (3) “Management services organization” or “MSO” means an entity that provides
+13 management, administrative, financial, or operational services to a covered care entity or provider
+14 organization for compensation.
+15 (4) “Material change” means any merger, acquisition, consolidation, affiliation, purchase,
+16 sale, transfer of assets, change in ownership, change in control, or other transaction that results in:
+17 (i) A change of ownership or control of a covered care entity; or
+18 (ii) A transaction involving a significant equity investor that affects ownership,
+19 governance, or control of a covered care entity, provider organization, or MSO.
+20 (5) “Private equity company” means any company or group of related entities that raises
+21 or manages capital and acquires, directly or indirectly, an ownership interest in a covered care
+22 entity, provider organization, or MSO for the purpose of investment or financial return, including
+23 through affiliated funds or holding companies; provided, however, that this term shall not include
+24 venture capital firms exclusively funding startups or other early-stage businesses.
+25 (6) “Provider organization” means any corporation, partnership, limited liability company,
+26 association, or other entity that contracts with, employs, manages, or organizes one or more covered
+27 care entities.
+28 (7) “Significant equity investor” means:
+29 (i) Any private equity company with a direct or indirect ownership interest in a covered
+30 care entity, provider organization, or MSO; or
+31 (ii) Any investor or group of investors that holds, directly or indirectly, ten percent (10%)
+32 or more of the equity, profits, or governance rights of a covered care entity, provider organization,
+33 or MSO.
+34 23-17.31-3. Notice of material change.
+LC004043 - Page 2 of 5
+
+1 (a) Except as provided in § 23-17.31-7, a party to a material change involving a covered
+2 care entity shall file written notice with the department of health and the department of attorney
+3 general not less than sixty (60) days prior to the effective date of the material change.
+4 (b) The notice shall include:
+5 (1) Identification of all parties and controlling persons or entities;
+6 (2) A description of the transaction structure and related agreements;
+7 (3) Post-transaction ownership, management, and governance structure; and
+8 (4) Identification of any significant equity investor.
+9 (c) Filing under this section shall not constitute approval unless approval is otherwise
+10 required by law.
+11 23-17.31-4. Enhanced disclosures for significant equity investor transactions.
+12 (a) For any material change involving a significant equity investor, the department of
+13 health, in consultation with the department of attorney general and the applicable licensing agency,
+14 may require submission of additional information including, but not limited to:
+15 (1) Capital structure of the significant equity investor;
+16 (2) Ownership and management structure;
+17 (3) Sources and uses of transaction financing;
+18 (4) Audited financial statements or equivalent financial information; and
+19 (5) Management services, lease, or related-party agreements.
+20 (b) The departments may require periodic post-transaction reporting for a period not to
+21 exceed five (5) years to assess impacts on service availability, cost, workforce stability, and
+22 continuity of care.
+23 23-17.31-5. Confidentiality.
+24 Confidential commercial or financial information submitted pursuant to this chapter shall
+25 be protected from public disclosure to the extent permitted by law; provided, however, that a public
+26 summary may be issued that omits such information.
+27 23-17.31-6. Enforcement.
+28 (a) Failure to comply with this chapter shall be subject to a civil penalty not to exceed ten
+29 thousand dollars ($10,000) per day, enforceable by the attorney general.
+30 (b) The department of health may promulgate rules and regulations in consultation with
+31 other affected state agencies.
+32 23-17.31-7. Coordination with existing law.
+33 (a) Nothing in this chapter shall be construed to modify, limit, or supersede chapter 17.14
+34 of title 23 (“the hospital conversions act”), which shall control where applicable.
+LC004043 - Page 3 of 5
+
+1 (b) Compliance with any healthcare pre-merger notification rule and regulation adopted by
+2 the department of attorney general shall satisfy the notice requirements of this chapter to the extent
+3 the same information is required.
+4 (c) The department of health, the department of attorney general, and any other licensing
+5 agency may permit concurrent filings and shall deem compliance with duplicative statutory or
+6 regulatory requirements satisfied.
+7 SECTION 3. This act shall take effect upon passage.
+========
+LC004043
+========
+LC004043 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- HEALTH CARE AND SOCIAL SERVICES
+TRANSACTION REVIEW AND SIGNIFICANT EQUITY INVESTOR DISCLOSURE ACT
+***
+1 This act would create and establish the health care and social services transaction review
+2 and significant equity investor disclosure act to require advance notice and enhanced disclosure of
+3 material changes involving significant equity investors to existing state licensing and approval
+4 authorities.
+5 This act would take effect upon passage.
+========
+LC004043
+========
+LC004043 - Page 5 of 5

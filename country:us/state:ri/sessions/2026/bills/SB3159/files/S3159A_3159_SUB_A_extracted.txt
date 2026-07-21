@@ -1,0 +1,239 @@
+Title: 
+Official Title: 
+Source: versions - 3159  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3159 SUBSTITUTE A
+========
+LC006053/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RESIDENTIAL REUSE
+INCENTIVE ACT
+Introduced By: Senators Bissaillon, LaMountain, and DiMario
+Date Introduced: March 27, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 64.35
+4 RESIDENTIAL REUSE INCENTIVE ACT
+5 42-64.35-1. Short title.
+6 This chapter shall be known and may be cited as the “Residential Reuse Incentive Act.”
+7 42-64.35-2. Definitions.
+8 For purposes of this chapter:
+9 (1) “Adaptive reuse” means the conversion of an existing structure from the use for which
+10 it was constructed to a new use by maintaining elements of the structure and adapting the elements
+11 to a new use.
+12 (2) “Affordable housing” means “affordable housing” as defined by § 42-128-8.1.
+13 (3) “Applicant” means a developer, owner, or tenant, or both, applying for a residential
+14 reuse incentive under this chapter.
+15 (4) “Construction worker” means any laborer, mechanic, or machine operator employed
+16 by a contractor or subcontractor in connection with the construction, alteration, repair, demolition,
+17 reconstruction, or other improvements to real property.
+18 (5) “Corporation” means the Rhode Island commerce corporation established pursuant to
+
+1 § 42-64-4.
+2 (6) “Developer” means a person, firm, business, partnership, association, political
+3 subdivision, or other entity that proposes to divide, divides, or causes to be divided real property
+4 into a subdivision or proposes to build or builds a building or buildings or otherwise improves land
+5 or existing structures, which division, building, or improvement qualifies for benefits under this
+6 chapter.
+7 (7) “Development” means the improvement of land through the carrying out of building,
+8 engineering, or other operations in, on, over, or under land, or the making of any material change
+9 in the use of any buildings or land for the purposes of accommodating land uses.
+10 (8) “Hard construction costs” means the direct contractor costs for labor, material,
+11 equipment, and services associated with an approved project, contractor’s overhead and profit, and
+12 other direct construction costs.
+13 (9) “Health or education worker” means an individual who is employed on a full-time or
+14 part-time basis in the field of education or healthcare by a public or private employer located within
+15 the State of Rhode Island including, but not limited to, employment as a teacher, instructional staff
+16 member, school support staff member, nurse, or medical technician.
+17 (10) “Housing land bank” means the housing land bank program established at the
+18 corporation pursuant to § 42-55.2-1.
+19 (11) “HUD” means the United States Department of Housing and Urban Development.
+20 (12) “Mixed use” means a development comprising both commercial and residential
+21 components.
+22 (13) “Project” means qualified residential reuse project defined in subsection (15) of this
+23 section.
+24 (14) “Project financing gap” means the part of the total project cost that remains to be
+25 financed after all other sources of capital have been accounted for to include, but not be limited to,
+26 developer-contributed capital, which shall be defined through rules and regulations promulgated
+27 by the corporation.
+28 (15) “Qualified residential reuse project” means a specific construction project or
+29 improvement, including lands, buildings, improvements, real and personal property or any interest
+30 therein, including lands under water, riparian rights, space rights and air rights, acquired, owned,
+31 leased, developed or redeveloped, constructed, reconstructed, rehabilitated or improved,
+32 undertaken by a developer, owner or tenant, or both, within a specific geographic area, meeting the
+33 requirements of this chapter, as set forth in an application made to the corporation.
+34 (16) “Residential” means a development of residential dwelling units.
+LC006053/SUB A - Page 2 of 7
+
+1 42-64.35-3. Establishment of program – Uses – Eligibility.
+2 (a) The residential reuse incentive program is hereby established as a program under the
+3 jurisdiction and administration of the corporation. The program may provide low-interest loans,
+4 subordinate debt, equity investments, or competitive program grants consisting of support to
+5 qualified residential reuse projects meeting the requirements of this chapter. On an annual basis,
+6 the corporation shall confer with the executive office of housing and the department of
+7 administration regarding the availability of funds for the program.
+8 (b) To be eligible as a qualified residential reuse project, an applicant’s chief executive
+9 officer or equivalent officer shall demonstrate to the corporation that:
+10 (1) There is a project financing gap that, after taking into account all available private and
+11 public funding sources, the project is not likely to be accomplished by private enterprise without
+12 receiving support under this chapter; and
+13 (2) The project fulfills the state’s policy objectives and priorities as set forth in section (d)
+14 of this section.
+15 (c) In awarding support under this chapter, the corporation shall give priority to any project
+16 that:
+17 (1) Utilizes a real estate asset held by the housing land bank;
+18 (2) Utilizes non-competitive federal low-income housing tax credits (commonly referred
+19 to as “4% credits”);
+20 (3) Demonstrates a partnership between an employer or association of employers of health
+21 or education workers in need of housing, and a labor union or association of labor unions
+22 representing health or education workers, to implement a marketing preference for health or
+23 education workers; provided that the marketing preference must be implemented in accordance
+24 with fair housing laws and, if applicable, Section 42 of the Internal Revenue Code (26 U.S.C. §
+25 42); or
+26 (4) Utilizes funds awarded under the Housing 2030 Public Developer Program or a
+27 successor initiative that requires a housing authority as defined in § 45-25-3 to develop net new
+28 rental units for low- or moderate- income households
+29 (d) Qualified residential reuse projects shall conform to the following standards and
+30 requirements:
+31 (1) The project shall be multi-family residential or mixed-use development.
+32 (2) At least twenty percent (20%) of the dwelling units offered for rent or for sale shall be
+33 affordable housing, as defined in § 42-128-8.1, or, in the case of dwelling units for rent, at least ten
+34 percent (10%) of the dwelling units in the project shall be housing for which the rent, heat, and
+LC006053/SUB A - Page 3 of 7
+
+1 utilities other than telephone constitute no more than thirty percent (30%) of gross annual
+2 household income for a household with fifty percent (50%) or less of area median income, adjusted
+3 for family size, all as determined and certified by an approved monitoring agent pursuant to § 45-
+4 53-3.2.
+5 (3) Where the budget for the hard construction costs of a project is in excess of twenty-five
+6 million dollars ($25,000,000), all construction workers on that project providing services in
+7 connection with the project shall be paid in accordance with the wages and benefits required
+8 pursuant to chapter 13 of title 37 (“ labor and payment of debts by contractors”) and all contractors
+9 and subcontractors shall file certified payrolls on a monthly basis for all work completed in the
+10 preceding month on a uniform form prescribed by the director of labor and training.
+11 (4) Where the budget for the hard construction costs of a project is in excess ten million
+12 dollars ($10,000,000), the applicant shall ensure that one hundred percent (100%) of the hours
+13 worked on the project shall be performed by all trade construction contractors and subcontractors
+14 who have or are affiliated with an apprenticeship program as defined in 29 C.F.R. § 29 et seq., for
+15 the craft employed. Additionally, the applicant shall ensure that all bidding documents for the work
+16 to be performed on the project includes express and conspicuous language evidencing the
+17 requirement found in this subsection. As part of its contract with the construction manager and/or
+18 general contractor, the applicant shall require that not less than ten percent (10%) of the total hours
+19 worked by the contractors’ and subcontractors' employees on the project are completed by
+20 apprentices registered in the aforementioned apprenticeship programs.
+21 (5) The applicant shall demonstrate senior debt co-investment from a union pension fund
+22 or co-mingled fund of union pension fund investments with a track record of successful investment
+23 in both new construction and substantial rehabilitation of affordable housing.
+24 (6) The applicant shall ensure that any contractor and/or subcontractors on this project
+25 shall:
+26 (i) Have all valid and effective registrations and/or licenses required to carry out their
+27 construction contracts.
+28 (ii) Ensure that all craft labor employed on the project have completed at least an OSHA
+29 ten (10) hour training course for safety established by the U.S. Department of Labor, Occupational
+30 Safety & Health Administration.
+31 (iii) Comply with all state, federal and local laws including, but not limited to, providing
+32 workers’ compensation insurance, prompt payment of wages and benefits, and proper classification
+33 of workers and employees as employees as opposed to independent contractors.
+34 (A) Any person that does not have a current registration with the State of Rhode Island
+LC006053/SUB A - Page 4 of 7
+
+1 contractors’ registration and licensing board and a properly filed notice of designation as an
+2 independent contractor pursuant to § 28-29-17.1 shall be presumed to be an employee.
+3 (B) A person shall only be considered an independent contractor if, when the person is
+4 performing work at the site the person is free from direct control and direction in connection with
+5 completing the person's scope of work, both pursuant to the person's contract, if applicable, and in
+6 the actual performance of the work.
+7 (iv) Not hire and/or utilize any contractor or subcontractor that has:
+8 (A) Been debarred or suspended by any federal, state or local government agency or
+9 authority in the past three (3) years;
+10 (B) Had any type of business, contracting or trade license, registration, or other certification
+11 revoked or suspended in the past three (3) years; or
+12 (C) Been found in violation of any tax laws, prompt payment laws, wage and hour laws,
+13 prevailing wage laws, environmental laws or others, where the result of the violation was the
+14 payment of a fine, back pay damages or any other type of penalty in the amount of one thousand
+15 dollars ($1,000) or more within the last five (5) years.
+16 42-64.35-4. Establishment of the fund -- Composition.
+17 (a) There is hereby established at the corporation a restricted account known as the
+18 residential reuse incentive fund (the “fund”) in which all amounts appropriated for the program
+19 created under this chapter and any returns on investments from the fund shall be deposited. The
+20 fund shall be exempt from attachment, levy, or any other process at law or in equity and the
+21 corporation may pay, reserve, and/or pledge money from the fund to provide competitive program
+22 grants or loan or equity investments in qualified residential reuse projects.
+23 (b) The fund shall consist of:
+24 (1) Money appropriated in the state budget to the fund;
+25 (2) Money made available to the fund through federal programs or private contributions;
+26 (3) Repayments of principal and interest from loans made from the fund;
+27 (4) Proceeds from the sale, disposition, lease, or rental of collateral related to financial
+28 assistance provided under this chapter;
+29 (5) Application or other fees paid to the fund to process requests for financial assistance;
+30 (6) Recovery made by the corporation on the sale of an appreciated asset in which the
+31 corporation has acquired an interest under this chapter; and
+32 (7) Any other money made available to the fund.
+33 42-64.35-5. Applications -- Powers of corporation -- Reports.
+34 (a) An applicant seeking support as provided in § 42-64.35-3 shall submit a request to the
+LC006053/SUB A - Page 5 of 7
+
+1 corporation pursuant to an application procedure prescribed by the corporation.
+2 (b) Any approval for funding under this chapter shall only be granted by the corporation
+3 and shall require the concurrence of the secretary of housing.
+4 (c) The corporation may set the terms and conditions for support provided pursuant to the
+5 provisions of this chapter. Subject to the provisions as provided in subsection (b) of this section,
+6 any decision to grant or deny support lies within the sole discretion of the corporation.
+7 (d) The corporation shall publish a report on the fund at the end of each fiscal year. The
+8 report shall contain information on the commitment, disbursement, and use of funds allocated under
+9 the fund. The report shall also, to the extent practicable, track the economic impact of projects that
+10 have been completed using the fund. The report is due no later than sixty (60) days after the end of
+11 the fiscal year and shall be provided to the speaker of the house of representatives, the president of
+12 the senate, and the secretary of housing.
+13 42-64.35-6. Implementation guidelines, directives, criteria, rules, regulations.
+14 The corporation shall adopt implementation guidelines, directives, criteria, rules, and
+15 regulations pursuant to chapter 35 of this title ("administrative procedures") as are necessary for
+16 the implementation of the corporation’s responsibilities under this chapter and impose such fees
+17 and charges as are necessary to pay for the administration and implementation of this program.
+18 Rules and regulations shall permit projects receiving support under this chapter to:
+19 (1) Apply for and receive support from any other local, state, or federal program; and
+20 (2) Receive investment through federally-insured or credit-enhanced mortgage financing,
+21 mortgage-backed securities, taxable bond financing, and other financing structures.
+22 42-64.35-7. Program integrity.
+23 Program integrity being of paramount importance, the corporation shall establish
+24 procedures to ensure ongoing compliance with the terms and conditions of the program established
+25 herein, including procedures to safeguard the expenditure of public funds and to ensure that the
+26 funds further the objectives of the program.
+27 42-64.35-8. Sunset.
+28 (a) The provisions of this chapter shall sunset and expire on December 31, 2035.
+29 (b) No funding, credits, or incentives shall be authorized or authorized to be reserved
+30 pursuant to this chapter after December 31, 2035.
+31 SECTION 2. This act shall take effect upon passage.
+========
+LC006053/SUB A
+========
+LC006053/SUB A - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RESIDENTIAL REUSE
+INCENTIVE ACT
+***
+1 This act would create a state program to provide loans, grants, or investments to convert
+2 existing buildings into multi-family or mixed-use housing, including adaptive reuse projects. It
+3 requires a share of units to be affordable and sets labor, wage, and apprenticeship standards for
+4 larger projects. It also establishes a dedicated fund, oversight, and reporting, and sunsets the
+5 program after 2035.
+6 This act would take effect upon passage.
+========
+LC006053/SUB A
+========
+LC006053/SUB A - Page 7 of 7

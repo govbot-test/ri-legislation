@@ -1,0 +1,322 @@
+Title: 
+Official Title: 
+Source: versions - 2867  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2867 SUBSTITUTE A
+========
+LC005696/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- CONFIDENTIALITY OF HEALTH
+CARE COMMUNICATIONS AND INFORMATION ACT
+Introduced By: Senator Melissa A. Murray
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 5-37.3-4 of the General Laws in Chapter 5-37.3 entitled
+2 "Confidentiality of Health Care Communications and Information Act" is hereby amended to read
+3 as follows:
+4 5-37.3-4. Limitations on and permitted disclosures.
+5 (a)(1) Except as provided in subsection (b), or as specifically provided by the law, a
+6 patient’s confidential healthcare information shall not be released or transferred without the written
+7 consent of the patient, or his or her authorized representative, on a consent form meeting the
+8 requirements of subsection (d). A copy of any notice used pursuant to subsection (d) and of any
+9 signed consent shall, upon request, be provided to the patient prior to his or her signing a consent
+10 form. Any and all managed care entities and managed care contractors writing policies in the state
+11 shall be prohibited from providing any information related to enrollees that is personal in nature
+12 and could reasonably lead to identification of an individual and is not essential for the compilation
+13 of statistical data related to enrollees, to any international, national, regional, or local medical-
+14 information database. This provision shall not restrict or prohibit the transfer of information to the
+15 department of health to carry out its statutory duties and responsibilities.
+16 (2) Any person who violates the provisions of this section may be liable for actual and
+17 punitive damages.
+18 (3) The court may award a reasonable attorney’s fee at its discretion to the prevailing party
+
+1 in any civil action under this section.
+2 (4) Any person who knowingly and intentionally violates the provisions of this section
+3 shall, upon conviction, be fined not more than five thousand ($5,000) dollars for each violation, or
+4 imprisoned not more than six (6) months for each violation, or both.
+5 (5) Any contract or agreement that purports to waive the provisions of this section shall be
+6 declared null and void as against public policy.
+7 (b) No consent for release or transfer of confidential healthcare information shall be
+8 required in the following situations for disclosure:
+9 (1) To a physician, dentist, or other medical personnel who believes, in good faith, that the
+10 information is necessary for diagnosis or treatment of that individual in a medical or dental
+11 emergency;
+12 (2) To medical and dental peer-review boards, or the board of medical licensure and
+13 discipline, or board of examiners in dentistry;
+14 (3) To qualified personnel for the purpose of conducting scientific research, management
+15 audits, financial audits, program evaluations, actuarial, insurance underwriting, or similar studies;
+16 provided, that personnel shall not identify, directly or indirectly, any individual patient in any report
+17 of that research, audit, or evaluation, or otherwise disclose patient identities in any manner;
+18 (4)(i) By a healthcare provider to To appropriate law enforcement personnel by a healthcare
+19 provider, or to a person if the healthcare provider believes that person, or his or her family, is in
+20 danger from a patient; or to appropriate law enforcement personnel if the patient has, or is
+21 attempting to obtain, narcotic drugs from the healthcare provider illegally; or to appropriate law
+22 enforcement personnel, or appropriate child-protective agencies, if the patient is a minor child or
+23 the parent or guardian of said child and/or the healthcare provider believes, after providing
+24 healthcare services to the patient, that the child is, or has been, physically, psychologically, or
+25 sexually abused and neglected as reportable pursuant to § 40-11-3; or to appropriate law
+26 enforcement personnel or the office of healthy aging if the patient is an elder person and the
+27 healthcare provider believes, after providing healthcare services to the patient, that the elder person
+28 is, or has been, abused, neglected, or exploited as reportable pursuant to § 42-66-8; or to
+29 (ii) To report allegations of abuse, neglect, mistreatment, exploitation, death, or violation
+30 of rights of a person who receives or has received services or treatment through an organization
+31 licensed by the department of behavioral healthcare, developmental disabilities and hospitals
+32 (BHDDH); or is otherwise approved to operate as a facility pursuant to § 40.1-5-2;
+33 (iii) To produce records to BHDDH immediately upon a written demand from BHDDH to
+34 a BHDDH-licensed organization or BHDDH-designated facility in furtherance of BHDDH’s
+LC005696/SUB A - Page 2 of 10
+
+1 investigation of alleged abuse, neglect, mistreatment, exploitation, death, or violation of rights.
+2 (iv) To law enforcement personnel in the case of a gunshot wound reportable under § 11-
+3 47-48, or to patient emergency contacts and certified peer recovery specialists notified in the case
+4 of an opioid overdose reportable under § 23-17.26-3;
+5 (ii)(v) A healthcare provider may disclose protected health information in response to a
+6 law enforcement official’s request for such information for the purpose of identifying or locating a
+7 suspect, fugitive, material witness, or missing person, provided that the healthcare provider may
+8 disclose only the following information:
+9 (A) Name and address;
+10 (B) Date and place of birth;
+11 (C) Social security number;
+12 (D) ABO blood type and RH factor;
+13 (E) Type of injury;
+14 (F) Date and time of treatment;
+15 (G) Date and time of death, if applicable; and
+16 (H) A description of distinguishing physical characteristics, including height, weight,
+17 gender, race, hair and eye color, presence or absence of facial hair (beard or moustache), scars, and
+18 tattoos.
+19 (I) Except as permitted by this subsection, the healthcare provider may not disclose for the
+20 purposes of identification or location under this subsection any protected health information related
+21 to the patient’s DNA or DNA analysis, dental records, or typing, samples, or analysis of body fluids
+22 or tissue;
+23 (iii)(vi) A healthcare provider may disclose protected health information in response to a
+24 law enforcement official’s request for such information about a patient who is, or is suspected to
+25 be, a victim of a crime, other than disclosures that are subject to subsection (b)(4)(vii)(x), if:
+26 (A) The patient agrees to the disclosure; or
+27 (B) The healthcare provider is unable to obtain the patient’s agreement because of
+28 incapacity or other emergency circumstances provided that:
+29 (1) The law enforcement official represents that the information is needed to determine
+30 whether a violation of law by a person other than the victim has occurred, and such information is
+31 not intended to be used against the victim;
+32 (2) The law enforcement official represents that immediate law enforcement activity that
+33 depends upon the disclosure would be materially and adversely affected by waiting until the patient
+34 is able to agree to the disclosure; and
+LC005696/SUB A - Page 3 of 10
+
+1 (3) The disclosure is in the best interests of the patient as determined by the healthcare
+2 provider in the exercise of professional judgment;
+3 (iv)(vii) A healthcare provider may disclose protected health information about a patient
+4 who has died to a law enforcement official for the purpose of alerting law enforcement of the death
+5 of the patient if the healthcare provider has a suspicion that such death may have resulted from
+6 criminal conduct;
+7 (v)(viii) A healthcare provider may disclose to a law enforcement official protected health
+8 information that the healthcare provider believes in good faith constitutes evidence of criminal
+9 conduct that occurred on the premises of the healthcare provider;
+10 (vi)(ix)(A) A healthcare provider providing emergency health care in response to a medical
+11 emergency, other than such emergency on the premises of the covered healthcare provider, may
+12 disclose protected health information to a law enforcement official if such disclosure appears
+13 necessary to alert law enforcement to:
+14 (1) The commission and nature of a crime;
+15 (2) The location of such crime or of the victim(s) of such crime; and
+16 (3) The identity, description, and location of the perpetrator of such crime.
+17 (B) If a healthcare provider believes that the medical emergency described in subsection
+18 (b)(4)(vi)(ix)(A) is the result of abuse, neglect, or domestic violence of the individual in need of
+19 emergency health care, subsection (b)(4)(vi)(ix)(A) does not apply and any disclosure to a law
+20 enforcement official for law enforcement purposes is subject to subsection (b)(4)(vii)(x);
+21 (vii)(x)(A) Except for reports permitted by subsection (b)(4)(i), a healthcare provider may
+22 disclose protected health information about a patient the healthcare provider reasonably believes to
+23 be a victim of abuse, neglect, or domestic violence to law enforcement or a government authority,
+24 including a social-service or protective-services agency, authorized by law to receive reports of
+25 such abuse, neglect, or domestic violence:
+26 (1) To the extent the disclosure is required by law and the disclosure complies with, and is
+27 limited to, the relevant requirements of such law;
+28 (2) If the patient agrees to the disclosure; or
+29 (3) To the extent the disclosure is expressly authorized by statute or regulation and:
+30 (i) The healthcare provider, in the exercise of professional judgment, believes the
+31 disclosure is necessary to prevent serious harm to the patient or other potential victims; or
+32 (ii) If the patient is unable to agree because of incapacity, a law enforcement or other public
+33 official authorized to receive the report represents that the protected health information for which
+34 disclosure is sought is not intended to be used against the patient and that an immediate enforcement
+LC005696/SUB A - Page 4 of 10
+
+1 activity that depends upon the disclosure would be materially and adversely affected by waiting
+2 until the patient is able to agree to the disclosure.
+3 (B) A healthcare provider that makes a disclosure permitted by subsection (b)(4)(vii)(x)(A)
+4 must promptly inform the patient that such a report has been, or will be, made, except if:
+5 (1) The healthcare facility, in the exercise of professional judgment, believes informing the
+6 patient would place the individual at risk of serious harm; or
+7 (2) The healthcare provider would be informing a personal representative, and the
+8 healthcare provider reasonably believes the personal representative is responsible for the abuse,
+9 neglect, or other injury, and that informing such person would not be in the best interests of the
+10 individual as determined by the covered entity in the exercise of professional judgment;
+11 (viii)(xi) The disclosures authorized by this subsection shall be limited to the minimum
+12 amount of information necessary to accomplish the intended purpose of the release of information;
+13 (xii) If any staff member of the department of behavioral healthcare, developmental
+14 disabilities and hospitals (BHDDH) makes a written demand for records pursuant to title 40.1 in
+15 furtherance of BHDDH’s investigation of alleged abuse, neglect, mistreatment, exploitation, death,
+16 or violation of rights of an individual who has received or is receiving services from either a facility
+17 or program subject to licensure or other approval pursuant to title 40.1, the records identified in
+18 such written demand shall be immediately produced to BHDDH; provided, however, that:
+19 (A) The BHDDH written demand for records shall include notice that BHDDH is
+20 investigating alleged abuse, neglect, mistreatment, exploitation, death, or violation of rights of a
+21 patient or client of the facility, program or organization, and the demand shall include the patient's
+22 or client's name, if known by BHDDH;
+23 (xiii) BHDDH may file in the superior court a petition for writ of mandamus or similar
+24 petition as the court may allow if the recipient of the written demand for records fails to comply;
+25 (xiv) For purposes of this section, BHDDH is designated as a health oversight agency
+26 pursuant to 42 CFR § 164.512, and is designated as both a social service agency and protective
+27 services agency.
+28 (5) Between, or among, qualified personnel and healthcare providers within the healthcare
+29 system for purposes of coordination of healthcare services given to the patient and for purposes of
+30 education and training within the same healthcare facility;
+31 (6) To third-party health insurers, including to utilization review agents as provided by §
+32 23-17.12-9(c)(4), third-party administrators licensed pursuant to chapter 20.7 of title 27, and other
+33 entities that provide operational support to adjudicate health insurance claims or administer health
+34 benefits;
+LC005696/SUB A - Page 5 of 10
+
+1 (7) To a malpractice insurance carrier or lawyer if the healthcare provider has reason to
+2 anticipate a medical-liability action;
+3 (8)(i) To the healthcare provider’s own lawyer or medical-liability insurance carrier if the
+4 patient whose information is at issue brings a medical-liability action against a healthcare provider.
+5 (ii) Disclosure by a healthcare provider of a patient’s healthcare information that is relevant
+6 to a civil action brought by the patient against any person or persons other than that healthcare
+7 provider may occur only under the discovery methods provided by the applicable rules of civil
+8 procedure (federal or state). This disclosure shall not be through ex parte contacts and not through
+9 informal ex parte contacts with the provider by persons other than the patient or his or her legal
+10 representative.
+11 Nothing in this section shall limit the right of a patient, or his or her attorney, to consult
+12 with that patient’s own physician and to obtain that patient’s own healthcare information;
+13 (9) To public-health authorities in order to carry out their functions as described in this title
+14 and titles 21 and 23 and rules promulgated under those titles. These functions include, but are not
+15 restricted to, investigations into the causes of disease, the control of public-health hazards,
+16 enforcement of sanitary laws, investigation of reportable diseases, certification and licensure of
+17 health professionals and facilities, review of health care such as that required by the federal
+18 government and other governmental agencies;
+19 (10) To the state medical examiner in the event of a fatality that comes under his or her
+20 jurisdiction;
+21 (11) In relation to information that is directly related to a current claim for workers’
+22 compensation benefits or to any proceeding before the workers’ compensation commission or
+23 before any court proceeding relating to workers’ compensation;
+24 (12) To the attorneys for a healthcare provider whenever that provider considers that
+25 release of information to be necessary in order to receive adequate legal representation;
+26 (13) By a healthcare provider to appropriate school authorities of disease, health screening,
+27 and/or immunization information required by the school; or when a school-age child transfers from
+28 one school or school district to another school or school district;
+29 (14) To a law enforcement authority to protect the legal interest of an insurance institution,
+30 agent, or insurance-support organization in preventing and prosecuting the perpetration of fraud
+31 upon them;
+32 (15) To a grand jury, or to a court of competent jurisdiction, pursuant to a subpoena or
+33 subpoena duces tecum when that information is required for the investigation or prosecution of
+34 criminal wrongdoing by a healthcare provider relating to his, her or its provisions of healthcare
+LC005696/SUB A - Page 6 of 10
+
+1 services and that information is unavailable from any other source; provided, that any information
+2 so obtained, is not admissible in any criminal proceeding against the patient to whom that
+3 information pertains;
+4 (16) To the state board of elections pursuant to a subpoena or subpoena duces tecum when
+5 that information is required to determine the eligibility of a person to vote by mail ballot and/or the
+6 legitimacy of a certification by a physician attesting to a voter’s illness or disability;
+7 (17) To certify, pursuant to chapter 20 of title 17, the nature and permanency of a person’s
+8 illness or disability, the date when that person was last examined and that it would be an undue
+9 hardship for the person to vote at the polls so that the person may obtain a mail ballot;
+10 (18) To the central cancer registry;
+11 (19) To the Medicaid fraud control unit of the attorney general’s office for the investigation
+12 or prosecution of criminal or civil wrongdoing by a healthcare provider relating to his, her, or its
+13 provision of healthcare services to then-Medicaid-eligible recipients or patients, residents, or
+14 former patients or residents of long-term residential-care facilities; provided, that any information
+15 obtained shall not be admissible in any criminal proceeding against the patient to whom that
+16 information pertains;
+17 (20) To the state department of children, youth and families pertaining to the disclosure of
+18 healthcare records of children in the custody of the department;
+19 (21) To the foster parent, or parents, pertaining to the disclosure of healthcare records of
+20 children in the custody of the foster parent, or parents; provided, that the foster parent or parents
+21 receive appropriate training and have ongoing availability of supervisory assistance in the use of
+22 sensitive information that may be the source of distress to these children;
+23 (22) A hospital may release the fact of a patient’s admission and a general description of a
+24 patient’s condition to persons representing themselves as relatives or friends of the patient or as a
+25 representative of the news media. The access to confidential healthcare information to persons in
+26 accredited educational programs under appropriate provider supervision shall not be deemed
+27 subject to release or transfer of that information under subsection (a);
+28 (23) To the workers’ compensation fraud prevention unit for purposes of investigation
+29 under §§ 42-16.1-12 — 42-16.1-16. The release or transfer of confidential healthcare information
+30 under any of the above exceptions is not the basis for any legal liability, civil or criminal, nor
+31 considered a violation of this chapter; or
+32 (24) To a probate court of competent jurisdiction, petitioner, respondent, and/or their
+33 attorneys, when the information is contained within a decision-making assessment tool that
+34 conforms to the provisions of § 33-15-47.
+LC005696/SUB A - Page 7 of 10
+
+1 (c) Third parties receiving, and retaining, a patient’s confidential healthcare information
+2 must establish at least the following security procedures:
+3 (1) Limit authorized access to personally identifiable confidential healthcare information
+4 to persons having a “need to know” that information; additional employees or agents may have
+5 access to that information that does not contain information from which an individual can be
+6 identified;
+7 (2) Identify an individual, or individuals, who have responsibility for maintaining security
+8 procedures for confidential healthcare information;
+9 (3) Provide a written statement to each employee or agent as to the necessity of maintaining
+10 the security and confidentiality of confidential healthcare information, and of the penalties provided
+11 for in this chapter for the unauthorized release, use, or disclosure of this information. The receipt
+12 of that statement shall be acknowledged by the employee or agent, who signs and returns the
+13 statement to his or her employer or principal, who retains the signed original. The employee or
+14 agent shall be furnished with a copy of the signed statement; and
+15 (4) Take no disciplinary or punitive action against any employee or agent solely for
+16 bringing evidence of violation of this chapter to the attention of any person.
+17 (d) Consent forms for the release or transfer of confidential healthcare information shall
+18 contain, or in the course of an application or claim for insurance be accompanied by a notice
+19 containing, the following information in a clear and conspicuous manner:
+20 (1) A statement of the need for and proposed uses of that information;
+21 (2) A statement that all information is to be released or clearly indicating the extent of the
+22 information to be released; and
+23 (3) A statement that the consent for release or transfer of information may be withdrawn at
+24 any future time and is subject to revocation, except where an authorization is executed in connection
+25 with an application for a life or health insurance policy in which case the authorization expires two
+26 (2) years from the issue date of the insurance policy, and when signed in connection with a claim
+27 for benefits under any insurance policy, the authorization shall be valid during the pendency of that
+28 claim. Any revocation shall be transmitted in writing.
+29 (e) Except as specifically provided by law, an individual’s confidential healthcare
+30 information shall not be given, sold, transferred, or in any way relayed to any other person not
+31 specified in the consent form or notice meeting the requirements of subsection (d) without first
+32 obtaining the individual’s additional written consent on a form stating the need for the proposed
+33 new use of this information or the need for its transfer to another person.
+34 (f) Nothing contained in this chapter shall be construed to limit the permitted disclosure of
+LC005696/SUB A - Page 8 of 10
+
+1 confidential healthcare information and communications described in subsection (b).
+2 (g) On or before December 31, 2027, the director of BHDDH shall submit to the governor,
+3 the speaker of the house, and the president of the senate, a report which shall include, at a minimum,
+4 the number of written demands for records made by BHDDH pursuant to this section, the number
+5 of petitions for writ of mandamus (or petitions of similar purpose) filed by BHDDH pursuant to
+6 this section, and the results or decisions of such filed petitions, and any recommendations as to the
+7 continuation of, or amendments to, the amended provisions of this section.
+8 SECTION 2. This act shall take effect upon passage.
+========
+LC005696/SUB A
+========
+LC005696/SUB A - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- CONFIDENTIALITY OF HEALTH
+CARE COMMUNICATIONS AND INFORMATION ACT
+***
+1 This act would provide conditions under which BHDDH has the authority to compel certain
+2 healthcare providers to finish requested healthcare records without violating The Health Insurance
+3 Portability and Accountability Act.
+4 This act would take effect upon passage.
+========
+LC005696/SUB A
+========
+LC005696/SUB A - Page 10 of 10

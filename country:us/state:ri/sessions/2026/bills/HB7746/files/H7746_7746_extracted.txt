@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - 7746
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7746
+========
+LC003734
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+RHODE ISLAND CHILDREN’S ONLINE SAFETY ACT
+Introduced By: Representatives Caldwell, Cotter, Spears, Speakman, Shanley, Giraldo,
+Roberts, Read, Slater, and Knight
+Date Introduced: February 12, 2026
+Referred To: House Innovation, Internet, & Technology
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 6 of the General Laws entitled "COMMERCIAL LAW — GENERAL
+2 REGULATORY PROVISIONS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 48.2
+4 RHODE ISLAND CHILDREN'S ONLINE SAFETY ACT
+5 6-48.2-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Children’s Online
+7 Safety Act."
+8 6-48.2-2. Definitions.
+9 As used in this chapter:
+10 (1) "Connected" means that a covered minor and/or the covered minor’s parent or legal
+11 guardian has previously approved a connection with another user authorizing or permitting the
+12 other user to privately contact the covered minor.
+13 (2) "Covered minor" means any user who is determined by an operator, through one or
+14 more commercially reasonable age-verification methods, to be under eighteen (18) years of age.
+15 (3) "Financial transaction" means a transaction between users involving any form of
+16 currency, including virtual currency used within a covered platform, whether or not the currency
+17 may be converted to fiat currency.
+18 (4) "Operator" means any person, business, corporation, partnership, association, or other
+
+1 legal entity that operates or provides a covered platform.
+2 (5) "Parent" means a parent or legal guardian.
+3 (6) "Covered platform" means a public or semi-public website, online service, online
+4 application, or mobile application that is used by a covered minor in this state and that allows users
+5 to create profiles, post content viewable by other users, and socially interact with other users as a
+6 significant part of the platform’s functionality.
+7 (7) "Tag" means identifying a second user in posted content in a manner that links to that
+8 user’s profile.
+9 (8) "User" means an individual who uses a covered platform and is not acting as an operator
+10 or as an agent of an operator.
+11 6-48.2-3. Privacy by default for covered minors.
+12 (a) No operator shall offer a covered platform in this state without implementing
+13 commercially reasonable age-verification measures to determine whether a user is a covered minor.
+14 (b) The attorney general shall promulgate regulations identifying commercially reasonable
+15 and technically feasible age-verification methods, taking into consideration:
+16 (1) The size and resources of the operator;
+17 (2) The nature and audience of the covered platform; and
+18 (3) Prevailing industry standards.
+19 (c) For any user determined to be a covered minor, an operator shall, by default, ensure
+20 that users who are not connected to the covered minor may not:
+21 (1) Communicate directly with the covered minor;
+22 (2) View the covered minor’s profile;
+23 (3) Tag the covered minor in posted content; or
+24 (4) Engage in a financial transaction with the covered minor.
+25 (d) A parent of a covered minor may override the default settings provided in subsection
+26 (c) of this section.
+27 (e) An operator shall notify the parent of a covered minor whenever the minor attempts to
+28 modify the default settings, and the parent shall approve or deny the request.
+29 6-48.2-4. Parental approvals.
+30 (a) For covered minors under thirteen (13) years of age, an operator shall require parental
+31 approval for all new connections.
+32 (b) Operators shall provide parents with a readily accessible mechanism to view all
+33 connections associated with a covered minor’s account.
+34 (c) For all covered minors, parental approval shall be required for all financial transactions,
+LC003734 - Page 2 of 4
+
+1 and parents shall have access to a transaction history at all times.
+2 6-48.2-5. Prohibition on dark patterns.
+3 It shall be unlawful for an operator to deploy any user interface, design, or mechanism that
+4 intentionally subverts or impairs the rights or protections afforded to covered minors or their
+5 parents under this chapter.
+6 6-48.2-6. Nondiscrimination.
+7 An operator shall not withhold, degrade, increase the cost of, or otherwise discriminate
+8 against a user for purposes of compliance with this chapter.
+9 6-48.2-7. Scope.
+10 (a) This chapter applies to conduct occurring wholly or partly within the State of Rhode
+11 Island.
+12 (b) Nothing in this chapter shall be construed to impose liability inconsistent with 15 U.S.C.
+13 § 6502 and regulations promulgated pursuant to 5 USC § 553.
+14 6-48.2-8. Rulemaking authority.
+15 The attorney general is authorized to promulgate rules and regulations necessary to
+16 implement and enforce this chapter.
+17 6-48.2-9. Enforcement and remedies.
+18 (a) The attorney general may bring an action in the name of the state to enforce this chapter.
+19 (b) Remedies shall include injunctive relief, restitution, disgorgement, civil penalties not
+20 exceeding five thousand dollars ($5,000) per violation, and any other relief deemed appropriate by
+21 the court.
+22 (c) The attorney general shall maintain a website to receive complaints, information, and/or
+23 referrals from members of the public concerning an operator's or covered platforms alleged
+24 compliance or noncompliance with the provisions of this chapter.
+25 6-48.2-10. Severability.
+26 If any provision of this chapter or the application thereof is held invalid, such invalidity
+27 shall not affect other provisions or applications of the chapter.
+28 SECTION 2. This act shall take effect upon passage.
+========
+LC003734
+========
+LC003734 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+RHODE ISLAND CHILDREN’S ONLINE SAFETY ACT
+***
+1 This act would provide protections to children using online platforms by requiring
+2 platforms to turn off open chats by default for young users, and requires parent to approve children's
+3 financial transactions on gaming and social media sites.
+4 This act would take effect upon passage.
+========
+LC003734
+========
+LC003734 - Page 4 of 4

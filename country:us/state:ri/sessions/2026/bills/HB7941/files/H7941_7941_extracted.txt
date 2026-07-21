@@ -1,0 +1,409 @@
+Title: 
+Official Title: 
+Source: versions - 7941
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7941
+========
+LC004637
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+Introduced By: Representatives Hopkins, Phillips, Casimiro, and Place
+Date Introduced: February 27, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-18-61 of the General Laws in Chapter 27-18 entitled "Accident
+2 and Sickness Insurance Policies" is hereby amended to read as follows:
+3 27-18-61. Prompt processing of claims.
+4 (a) A healthcare entity or health plan operating in the state shall pay all complete claims
+5 for covered healthcare services submitted to the healthcare entity or health plan by a healthcare
+6 provider or by a policyholder within forty (40) calendar days following the date of receipt of a
+7 complete written claim or within thirty (30) fourteen (14) calendar days following the date of
+8 receipt of a complete electronic claim. Each health plan shall establish a written standard defining
+9 what constitutes a complete claim and shall distribute this standard to all participating providers.
+10 (b) If the healthcare entity or health plan denies or pends a claim, the healthcare entity or
+11 health plan shall have thirty (30) fourteen (14) calendar days from receipt of the claim to notify in
+12 writing the healthcare provider or policyholder of any and all reasons for denying or pending the
+13 claim and what, if any, additional information is required to process the claim. No healthcare entity
+14 or health plan may limit the time period in which additional information may be submitted to
+15 complete a claim.
+16 (c) A healthcare provider or policyholder may seek review of a claim that has been denied
+17 in part or in whole within sixty (60) days of receipt of denial. The payor shall bear the burden of
+18 establishing legitimacy of denial.
+19 (d) If the denial of a claim is overturned, the payor shall remit the full amount due on the
+
+1 claim and an administrative penalty, established by the secretary of the executive office of health
+2 and human services (EOHHS), reflecting the costs incurred by the healthcare provider.
+3 (c)(e) Any claim that is resubmitted by a healthcare provider or policyholder shall be
+4 treated by the healthcare entity or health plan pursuant to the provisions of subsection (a) of this
+5 section.
+6 (d)(f) A healthcare entity or health plan that fails to reimburse the healthcare provider or
+7 policyholder after receipt by the healthcare entity or health plan of a complete claim within the
+8 required timeframes shall pay to the healthcare provider or the policyholder who submitted the
+9 claim, in addition to any reimbursement for healthcare services provided, interest which shall
+10 accrue at the rate of twelve percent (12%) per annum commencing on the thirty-first (31st) day
+11 after receipt of a complete electronic claim or on the forty-first (41st) day after receipt of a complete
+12 written claim, and ending on the date the payment is issued to the healthcare provider or the
+13 policyholder.
+14 (e)(g) Exceptions to the requirements of this section are as follows:
+15 (1) No healthcare entity or health plan operating in the state shall be in violation of this
+16 section for a claim submitted by a healthcare provider or policyholder if:
+17 (i) Failure to comply is caused by a directive from a court or federal or state agency;
+18 (ii) The healthcare entity or health plan is in liquidation or rehabilitation or is operating in
+19 compliance with a court-ordered plan of rehabilitation; or
+20 (iii) The healthcare entity or health plan’s compliance is rendered impossible due to matters
+21 beyond its control that are not caused by it.
+22 (2) No healthcare entity or health plan operating in the state shall be in violation of this
+23 section for any claim: (i) Initially submitted more than ninety (90) days after the service is rendered,
+24 or (ii) Resubmitted more than ninety (90) days after the date the healthcare provider received the
+25 notice provided for in subsection (b) of this section; provided, this exception shall not apply in the
+26 event compliance is rendered impossible due to matters beyond the control of the healthcare
+27 provider and were not caused by the healthcare provider.
+28 (3) No healthcare entity or health plan operating in the state shall be in violation of this
+29 section while the claim is pending due to a fraud investigation by a state or federal agency.
+30 (4) No healthcare entity or health plan operating in the state shall be obligated under this
+31 section to pay interest to any healthcare provider or policyholder for any claim if the director of
+32 business regulation finds that the entity or plan is in substantial compliance with this section. A
+33 healthcare entity or health plan seeking such a finding from the director shall submit any
+34 documentation that the director shall require. A healthcare entity or health plan that is found to be
+LC004637 - Page 2 of 12
+
+1 in substantial compliance with this section shall thereafter submit any documentation that the
+2 director may require on an annual basis for the director to assess ongoing compliance with this
+3 section.
+4 (5) A healthcare entity or health plan may petition the director for a waiver of the provision
+5 of this section for a period not to exceed ninety (90) days in the event the healthcare entity or health
+6 plan is converting or substantially modifying its claims processing systems.
+7 (f)(h) For purposes of this section, the following definitions apply:
+8 (1) “Claim” means: (i) A bill or invoice for covered services; (ii) A line item of service; or
+9 (iii) All services for one patient or subscriber within a bill or invoice.
+10 (2) “Date of receipt” means the date the healthcare entity or health plan receives the claim
+11 whether via electronic submission or as a paper claim.
+12 (3) “Healthcare entity” means a licensed insurance company or nonprofit hospital or
+13 medical or dental service corporation or plan or health maintenance organization, or a contractor
+14 as described in § 23-17.13-2(2) [repealed], that operates a health plan.
+15 (4) “Healthcare provider” means an individual clinician, either in practice independently
+16 or in a group, who provides healthcare services, and otherwise referred to as a non-institutional
+17 provider.
+18 (5) “Healthcare services” include, but are not limited to, medical, mental health, substance
+19 abuse, dental, and any other services covered under the terms of the specific health plan.
+20 (6) “Health plan” means a plan operated by a healthcare entity that provides for the delivery
+21 of healthcare services to persons enrolled in those plans through:
+22 (i) Arrangements with selected providers to furnish healthcare services; and/or
+23 (ii) Financial incentive for persons enrolled in the plan to use the participating providers
+24 and procedures provided for by the health plan.
+25 (7) “Policyholder” means a person covered under a health plan or a representative
+26 designated by that person.
+27 (8) “Substantial compliance” means that the healthcare entity or health plan is processing
+28 and paying ninety-five percent (95%) or more of all claims within the time frame provided for in
+29 subsections (a) and (b) of this section.
+30 (g)(i) Any provision in a contract between a healthcare entity or a health plan and a
+31 healthcare provider that is inconsistent with this section shall be void and of no force and effect.
+32 (j) Failure of a healthcare entity or healthcare plan to comply with this section shall
+33 constitute a violation subject to penalty as determined by the secretary of the EOHHS.
+34 (k) The secretary of the EOHHS shall promulgate rules, regulations, and penalty schedules
+LC004637 - Page 3 of 12
+
+1 necessary to carry out the provisions of this section.
+2 SECTION 2. Section 27-19-52 of the General Laws in Chapter 27-19 entitled "Nonprofit
+3 Hospital Service Corporations" is hereby amended to read as follows:
+4 27-19-52. Prompt processing of claims.
+5 (a) A healthcare entity or health plan operating in the state shall pay all complete claims
+6 for covered healthcare services submitted to the healthcare entity or health plan by a healthcare
+7 provider or by a policyholder within forty (40) calendar days following the date of receipt of a
+8 complete written claim or within thirty (30) fourteen (14) calendar days following the date of
+9 receipt of a complete electronic claim. Each health plan shall establish a written standard defining
+10 what constitutes a complete claim and shall distribute this standard to all participating providers.
+11 (b) If the healthcare entity or health plan denies or pends a claim, the healthcare entity or
+12 health plan shall have thirty (30) fourteen (14) calendar days from receipt of the claim to notify in
+13 writing the healthcare provider or policyholder of any and all reasons for denying or pending the
+14 claim and what, if any, additional information is required to process the claim. No healthcare entity
+15 or health plan may limit the time period in which additional information may be submitted to
+16 complete a claim.
+17 (c) A healthcare provider or policyholder may seek review of a claim that has been denied
+18 in part or in whole within sixty (60) days of receipt of denial. The payor shall bear the burden of
+19 establishing legitimacy of denial.
+20 (d) If the denial of a claim is overturned, the payor shall remit the full amount due on the
+21 claim and an administrative penalty, established by the secretary of the executive office of health
+22 and human services (EOHHS), reflecting the costs incurred by the healthcare provider.
+23 (c)(e) Any claim that is resubmitted by a healthcare provider or policyholder shall be
+24 treated by the healthcare entity or health plan pursuant to the provisions of subsection (a) of this
+25 section.
+26 (d)(f) A healthcare entity or health plan that fails to reimburse the healthcare provider or
+27 policyholder after receipt by the healthcare entity or health plan of a complete claim within the
+28 required timeframes shall pay to the healthcare provider or the policyholder who submitted the
+29 claim, in addition to any reimbursement for healthcare services provided, interest that shall accrue
+30 at the rate of twelve percent (12%) per annum commencing on the thirty-first (31st) day after receipt
+31 of a complete electronic claim or on the forty-first (41st) day after receipt of a complete written
+32 claim, and ending on the date the payment is issued to the healthcare provider or the policyholder.
+33 (e)(g) Exceptions to the requirements of this section are as follows:
+34 (1) No healthcare entity or health plan operating in the state shall be in violation of this
+LC004637 - Page 4 of 12
+
+1 section for a claim submitted by a healthcare provider or policyholder if:
+2 (i) Failure to comply is caused by a directive from a court or federal or state agency;
+3 (ii) The healthcare provider or health plan is in liquidation or rehabilitation or is operating
+4 in compliance with a court-ordered plan of rehabilitation; or
+5 (iii) The healthcare entity or health plan’s compliance is rendered impossible due to matters
+6 beyond its control that are not caused by it.
+7 (2) No healthcare entity or health plan operating in the state shall be in violation of this
+8 section for any claim: (i) Initially submitted more than ninety (90) days after the service is rendered,
+9 or (ii) Resubmitted more than ninety (90) days after the date the healthcare provider received the
+10 notice provided for in § 27-18-61(b); provided, this exception shall not apply in the event
+11 compliance is rendered impossible due to matters beyond the control of the healthcare provider and
+12 were not caused by the healthcare provider.
+13 (3) No healthcare entity or health plan operating in the state shall be in violation of this
+14 section while the claim is pending due to a fraud investigation by a state or federal agency.
+15 (4) No healthcare entity or health plan operating in the state shall be obligated under this
+16 section to pay interest to any healthcare provider or policyholder for any claim if the director of the
+17 department of business regulation finds that the entity or plan is in substantial compliance with this
+18 section. A healthcare entity or health plan seeking such a finding from the director shall submit any
+19 documentation that the director shall require. A healthcare entity or health plan that is found to be
+20 in substantial compliance with this section shall after this submit any documentation that the
+21 director may require on an annual basis for the director to assess ongoing compliance with this
+22 section.
+23 (5) A healthcare entity or health plan may petition the director for a waiver of the provision
+24 of this section for a period not to exceed ninety (90) days in the event the healthcare entity or health
+25 plan is converting or substantially modifying its claims processing systems.
+26 (f)(h) For purposes of this section, the following definitions apply:
+27 (1) “Claim” means:
+28 (i) A bill or invoice for covered services;
+29 (ii) A line item of service; or
+30 (iii) All services for one patient or subscriber within a bill or invoice.
+31 (2) “Date of receipt” means the date the healthcare entity or health plan receives the claim
+32 whether via electronic submission or has a paper claim.
+33 (3) “Healthcare entity” means a licensed insurance company or nonprofit hospital or
+34 medical or dental service corporation or plan or health maintenance organization, or a contractor
+LC004637 - Page 5 of 12
+
+1 as described in § 23-17.13-2(2), that operates a health plan.
+2 (4) “Healthcare provider” means an individual clinician, either in practice independently
+3 or in a group, who provides healthcare services, and referred to as a non-institutional provider.
+4 (5) “Healthcare services” include, but are not limited to, medical, mental health, substance
+5 abuse, dental, and any other services covered under the terms of the specific health plan.
+6 (6) “Health plan” means a plan operated by a healthcare entity that provides for the delivery
+7 of healthcare services to persons enrolled in those plans through:
+8 (i) Arrangements with selected providers to furnish healthcare services; and/or
+9 (ii) Financial incentive for persons enrolled in the plan to use the participating providers
+10 and procedures provided for by the health plan.
+11 (7) “Policyholder” means a person covered under a health plan or a representative
+12 designated by that person.
+13 (8) “Substantial compliance” means that the healthcare entity or health plan is processing
+14 and paying ninety-five percent (95%) or more of all claims within the time frame provided for in §
+15 27-18-61(a) and (b).
+16 (g)(i) Any provision in a contract between a healthcare entity or a health plan and a
+17 healthcare provider that is inconsistent with this section shall be void and of no force and effect.
+18 (j) Failure of a healthcare entity or healthcare plan to comply with this section shall
+19 constitute a violation subject to penalty as determined by the secretary of the EOHHS.
+20 (k) The secretary of the EOHHS shall promulgate rules, regulations, and penalty schedules
+21 necessary to carry out the provisions of this section.
+22 SECTION 3. Section 27-20-47 of the General Laws in Chapter 27-20 entitled "Nonprofit
+23 Medical Service Corporations" is hereby amended to read as follows:
+24 27-20-47. Prompt processing of claims.
+25 (a) A healthcare entity or health plan operating in the state shall pay all complete claims
+26 for covered healthcare services submitted to the healthcare entity or health plan by a healthcare
+27 provider or by a policyholder within forty (40) calendar days following the date of receipt of a
+28 complete written claim or within thirty (30) fourteen (14) calendar days following the date of
+29 receipt of a complete electronic claim. Each health plan shall establish a written standard defining
+30 what constitutes a complete claim and shall distribute the standard to all participating providers.
+31 (b) If the healthcare entity or health plan denies or pends a claim, the healthcare entity or
+32 health plan shall have thirty (30) fourteen (14) calendar days from receipt of the claim to notify in
+33 writing the healthcare provider or policyholder of any and all reasons for denying or pending the
+34 claim and what, if any, additional information is required to process the claim. No healthcare entity
+LC004637 - Page 6 of 12
+
+1 or health plan may limit the time period in which additional information may be submitted to
+2 complete a claim.
+3 (c) A healthcare provider or policyholder may seek review of a claim that has been denied
+4 in part or in whole within sixty (60) days of receipt of denial. The payor shall bear the burden of
+5 establishing legitimacy of denial.
+6 (d) If the denial of a claim is overturned, the payor shall remit the full amount due on the
+7 claim and an administrative penalty, established by the secretary of the executive office of health
+8 and human services (EOHHS), reflecting the costs incurred by the healthcare provider.
+9 (c)(e) Any claim that is resubmitted by a healthcare provider or policyholder shall be
+10 treated by the healthcare entity or health plan pursuant to the provisions of subsection (a) of this
+11 section.
+12 (d)(f) A healthcare entity or health plan which fails to reimburse the healthcare provider or
+13 policyholder after receipt by the healthcare entity or health plan of a complete claim within the
+14 required timeframes shall pay to the healthcare provider or the policyholder who submitted the
+15 claim, in addition to any reimbursement for healthcare services provided, interest that shall accrue
+16 at the rate of twelve percent (12%) per annum commencing on the thirty-first (31st) day after receipt
+17 of a complete electronic claim or on the forty-first (41st) day after receipt of a complete written
+18 claim, and ending on the date the payment is issued to the healthcare provider or the policyholder.
+19 (e)(g) Exceptions to the requirements of this section are as follows:
+20 (1) No healthcare entity or health plan operating in the state shall be in violation of this
+21 section for a claim submitted by a healthcare provider or policyholder if:
+22 (i) Failure to comply is caused by a directive from a court or federal or state agency;
+23 (ii) The healthcare entity or health plan is in liquidation or rehabilitation or is operating in
+24 compliance with a court-ordered plan of rehabilitation; or
+25 (iii) The healthcare entity or health plan’s compliance is rendered impossible due to matters
+26 beyond its control that are not caused by it.
+27 (2) No healthcare entity or health plan operating in the state shall be in violation of this
+28 section for any claim: (i) Initially submitted more than ninety (90) days after the service is rendered,
+29 or (ii) Resubmitted more than ninety (90) days after the date the healthcare provider received the
+30 notice provided for in § 27-18-61(b); provided, this exception shall not apply in the event
+31 compliance is rendered impossible due to matters beyond the control of the healthcare provider and
+32 were not caused by the healthcare provider.
+33 (3) No healthcare entity or health plan operating in the state shall be in violation of this
+34 section while the claim is pending due to a fraud investigation by a state or federal agency.
+LC004637 - Page 7 of 12
+
+1 (4) No healthcare entity or health plan operating in the state shall be obligated under this
+2 section to pay interest to any healthcare provider or policyholder for any claim if the director of the
+3 department of business regulation finds that the entity or plan is in substantial compliance with this
+4 section. A healthcare entity or health plan seeking such a finding from the director shall submit any
+5 documentation that the director shall require. A healthcare entity or health plan that is found to be
+6 in substantial compliance with this section shall after this submit any documentation that the
+7 director may require on an annual basis for the director to assess ongoing compliance with this
+8 section.
+9 (5) A healthcare entity or health plan may petition the director for a waiver of the provision
+10 of this section for a period not to exceed ninety (90) days in the event the healthcare entity or health
+11 plan is converting or substantially modifying its claims processing systems.
+12 (f)(h) For purposes of this section, the following definitions apply:
+13 (1) “Claim” means: (i) A bill or invoice for covered services; (ii) A line item of service; or
+14 (iii) All services for one patient or subscriber within a bill or invoice.
+15 (2) “Date of receipt” means the date the healthcare entity or health plan receives the claim
+16 whether via electronic submission or has a paper claim.
+17 (3) “Healthcare entity” means a licensed insurance company or nonprofit hospital or
+18 medical or dental service corporation or plan or health maintenance organization, or a contractor
+19 as described in § 23-17.13-2(2), that operates a health plan.
+20 (4) “Healthcare provider” means an individual clinician, either in practice independently
+21 or in a group, who provides healthcare services, and referred to as a non-institutional provider.
+22 (5) “Healthcare services” include, but are not limited to, medical, mental health, substance
+23 abuse, dental, and any other services covered under the terms of the specific health plan.
+24 (6) “Health plan” means a plan operated by a healthcare entity that provides for the delivery
+25 of healthcare services to persons enrolled in the plan through:
+26 (i) Arrangements with selected providers to furnish healthcare services; and/or
+27 (ii) Financial incentive for persons enrolled in the plan to use the participating providers
+28 and procedures provided for by the health plan.
+29 (7) “Policyholder” means a person covered under a health plan or a representative
+30 designated by that person.
+31 (8) “Substantial compliance” means that the healthcare entity or health plan is processing
+32 and paying ninety-five percent (95%) or more of all claims within the time frame provided for in §
+33 27-18-61(a) and (b).
+34 (g)(i) Any provision in a contract between a healthcare entity or a health plan and a
+LC004637 - Page 8 of 12
+
+1 healthcare provider that is inconsistent with this section shall be void and of no force and effect.
+2 (j) Failure of a healthcare entity or healthcare plan to comply with this section shall
+3 constitute a violation subject to penalty as determined by the secretary of the EOHHS.
+4 (k) The secretary of the EOHHS shall promulgate rules, regulations, and penalty schedules
+5 necessary to carry out the provisions of this section.
+6 SECTION 4. Section 27-41-64 of the General Laws in Chapter 27-41 entitled "Health
+7 Maintenance Organizations" is hereby amended to read as follows:
+8 27-41-64. Prompt processing of claims.
+9 (a) A healthcare entity or health plan operating in the state shall pay all complete claims
+10 for covered healthcare services submitted to the healthcare entity or health plan by a healthcare
+11 provider or by a policyholder within forty (40) calendar days following the date of receipt of a
+12 complete written claim or within thirty (30) fourteen (14) calendar days following the date of
+13 receipt of a complete electronic claim. Each health plan shall establish a written standard defining
+14 what constitutes a complete claim and shall distribute this standard to all participating providers.
+15 (b) If the healthcare entity or health plan denies or pends a claim, the healthcare entity or
+16 health plan shall have thirty (30) fourteen (14) calendar days from receipt of the claim to notify in
+17 writing the healthcare provider or policyholder of any and all reasons for denying or pending the
+18 claim and what, if any, additional information is required to process the claim. No healthcare entity
+19 or health plan may limit the time period in which additional information may be submitted to
+20 complete a claim.
+21 (c) A healthcare provider or policyholder may seek review of a claim that has been denied
+22 in part or in whole within sixty (60) days of receipt of denial. The payor shall bear the burden of
+23 establishing legitimacy of denial.
+24 (d) If the denial of a claim is overturned, the payor shall remit the full amount due on the
+25 claim and an administrative penalty, established by the secretary of the executive office of health
+26 and human services (EOHHS), reflecting the costs incurred by the healthcare provider.
+27 (c)(e) Any claim that is resubmitted by a healthcare provider or policyholder shall be
+28 treated by the healthcare entity or health plan pursuant to the provisions of subsection (a) of this
+29 section.
+30 (d)(f) A healthcare entity or health plan that fails to reimburse the healthcare provider or
+31 policyholder after receipt by the healthcare entity or health plan of a complete claim within the
+32 required timeframes shall pay to the healthcare provider or the policyholder who submitted the
+33 claim, in addition to any reimbursement for healthcare services provided, interest that shall accrue
+34 at the rate of twelve percent (12%) per annum commencing on the thirty-first (31st) day after receipt
+LC004637 - Page 9 of 12
+
+1 of a complete electronic claim or on the forty-first (41st) day after receipt of a complete written
+2 claim, and ending on the date the payment is issued to the healthcare provider or the policyholder.
+3 (e)(g) Exceptions to the requirements of this section are as follows:
+4 (1) No healthcare entity or health plan operating in the state shall be in violation of this
+5 section for a claim submitted by a healthcare provider or policyholder if:
+6 (i) Failure to comply is caused by a directive from a court or federal or state agency;
+7 (ii) The healthcare entity or health plan is in liquidation or rehabilitation or is operating in
+8 compliance with a court-ordered plan of rehabilitation; or
+9 (iii) The healthcare entity or health plan’s compliance is rendered impossible due to matters
+10 beyond its control that are not caused by it.
+11 (2) No healthcare entity or health plan operating in the state shall be in violation of this
+12 section for any claim: (i) Initially submitted more than ninety (90) days after the service is rendered,
+13 or (ii) Resubmitted more than ninety (90) days after the date the healthcare provider received the
+14 notice provided for in § 27-18-61(b); provided, this exception shall not apply in the event
+15 compliance is rendered impossible due to matters beyond the control of the healthcare provider and
+16 were not caused by the healthcare provider.
+17 (3) No healthcare entity or health plan operating in the state shall be in violation of this
+18 section while the claim is pending due to a fraud investigation by a state or federal agency.
+19 (4) No healthcare entity or health plan operating in the state shall be obligated under this
+20 section to pay interest to any healthcare provider or policyholder for any claim if the director of the
+21 department of business regulation finds that the entity or plan is in substantial compliance with this
+22 section. A healthcare entity or health plan seeking that finding from the director shall submit any
+23 documentation that the director shall require. A healthcare entity or health plan that is found to be
+24 in substantial compliance with this section shall submit any documentation the director may require
+25 on an annual basis for the director to assess ongoing compliance with this section.
+26 (5) A healthcare entity or health plan may petition the director for a waiver of the provision
+27 of this section for a period not to exceed ninety (90) days in the event the healthcare entity or health
+28 plan is converting or substantially modifying its claims processing systems.
+29 (f)(h) For purposes of this section, the following definitions apply:
+30 (1) “Claim” means: (i) A bill or invoice for covered services; (ii) A line item of service; or
+31 (iii) All services for one patient or subscriber within a bill or invoice.
+32 (2) “Date of receipt” means the date the healthcare entity or health plan receives the claim
+33 whether via electronic submission or as a paper claim.
+34 (3) “Healthcare entity” means a licensed insurance company or nonprofit hospital or
+LC004637 - Page 10 of 12
+
+1 medical or dental service corporation or plan or health maintenance organization, or a contractor
+2 as described in § 23-17.13-2(2) [repealed] that operates a health plan.
+3 (4) “Healthcare provider” means an individual clinician, either in practice independently
+4 or in a group, who provides healthcare services, and is referred to as a non-institutional provider.
+5 (5) “Healthcare services” include, but are not limited to, medical, mental health, substance
+6 abuse, dental, and any other services covered under the terms of the specific health plan.
+7 (6) “Health plan” means a plan operated by a healthcare entity that provides for the delivery
+8 of healthcare services to persons enrolled in the plan through:
+9 (i) Arrangements with selected providers to furnish healthcare services; and/or
+10 (ii) Financial incentive for persons enrolled in the plan to use the participating providers
+11 and procedures provided for by the health plan.
+12 (7) “Policyholder” means a person covered under a health plan or a representative
+13 designated by that person.
+14 (8) “Substantial compliance” means that the healthcare entity or health plan is processing
+15 and paying ninety-five percent (95%) or more of all claims within the time frame provided for in §
+16 27-18-61(a) and (b).
+17 (g)(i) Any provision in a contract between a healthcare entity or a health plan and a
+18 healthcare provider that is inconsistent with this section shall be void and of no force and effect.
+19 (j) Failure of a healthcare entity or healthcare plan to comply with this section shall
+20 constitute a violation subject to penalty as determined by the secretary of the EOHHS.
+21 (k) The secretary of the EOHHS shall promulgate rules, regulations, and penalty schedules
+22 necessary to carry out the provisions of this section.
+23 SECTION 5. This act shall take effect upon passage.
+========
+LC004637
+========
+LC004637 - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES
+***
+1 This act would require insurers to pay electronic claims for healthcare coverage within
+2 fourteen (14) calendar days of receipt. This act would further permit healthcare providers to dispute
+3 claim denials within sixty (60) days. This act would empower the secretary of the EOHHS to
+4 establish penalties for violations of this section.
+5 This act would take effect upon passage.
+========
+LC004637
+========
+LC004637 - Page 12 of 12

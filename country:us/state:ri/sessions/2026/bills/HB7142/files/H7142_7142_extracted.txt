@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - 7142
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7142
+========
+LC003885
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND
+HOSPITALS -- CERTIFIED COMMUNITY BEHAVIORAL HEALTH CLINICS
+ACCOUNTABILITY AND OVERSIGHT ACT
+Introduced By: Representatives Casimiro, J. Brien, Fascia, Chippendale, Paplauskas,
+Place, Hopkins, Alzate, and Solomon
+Date Introduced: January 16, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 40.1 of the General Laws entitled "BEHAVIORAL HEALTHCARE,
+2 DEVELOPMENTAL DISABILITIES AND HOSPITALS" is hereby amended by adding thereto
+3 the following chapter:
+4 CHAPTER 8.6
+5 CERTIFIED COMMUNITY BEHAVIORAL HEALTH CLINICS ACCOUNTABILITY AND
+6 OVERSIGHT ACT
+7 40.1-8.6-1. Short title.
+8 This act shall be known and may be cited as the "Certified Community Behavioral Health
+9 Clinics Accountability and Oversight Act."
+10 40.1-8.6-2. Purpose.
+11 The purpose of this chapter is to ensure transparency, fiscal responsibility, and service
+12 quality by certified community behavioral health clinics (CCBHCs) operating in Rhode Island. It
+13 establishes standards for oversight and requires regular reporting on established federal and state
+14 performance metrics, including those utilized by the Substance Abuse and Mental Health Services
+15 Administration (SAMHSA).
+16 40.1-8.6-3. Definitions.
+17 As used in this chapter:
+18 (1) "CCBHC" means a certified community behavioral health clinic as defined pursuant to
+
+1 § 40.1-8.5-8 as recognized by the department of behavioral healthcare, developmental disabilities
+2 and hospitals (BHDDH) and/or funded through the U.S. Department of Health and Human
+3 Services.
+4 (2) "EOHHS" means the Rhode Island executive office of health and human services.
+5 (3) "Joint oversight committee on CCBHCs" or “joint oversight committee” means the
+6 legislative body established under this chapter.
+7 40.1-8.6-4. Transparency and reporting requirements.
+8 (a) Financial disclosures. CCBHCs shall submit annual, audited financial reports to
+9 EOHHS and the joint oversight committee including, but not limited to:
+10 (1) Total revenue and expenditures;
+11 (2) Executive compensation;
+12 (3) Administrative overhead; and
+13 (4) Programmatic spending.
+14 (b) Performance Metrics. Each CCBHC shall report annually on the following metrics:
+15 (1) Metrics established by SAMHSA for CCBHCs including, but not limited to:
+16 (i) Access to care to include wait times for services;
+17 (ii) Engagement in care to include follow-up after hospitalization;
+18 (iii) Service penetration rates for high-need populations;
+19 (iv) Outcomes on mental health and substance use treatment goals; and
+20 (v) Mobile response and stabilization services (MRSS) utilization and outcomes.
+21 (2) State-determined metrics, which may include:
+22 (i) Patient satisfaction scores;
+23 (ii) Emergency department diversion outcomes;
+24 (iii) Staff-to-client ratios; and
+25 (iv) Coordination with schools, primary care, and other local systems.
+26 (c) Data submission. All required reports shall be:
+27 (1) Filed with EOHHS by December 31 of each year; and
+28 (2) Made publicly available on the EOHHS website within thirty (30) days of submission.
+29 40.1-8.6-5. Joint oversight committee on CCBHCs.
+30 (a) Establishment. There is hereby created a joint oversight committee of the general
+31 assembly on CCBHC Oversight.
+32 (b) Membership.
+33 (1) The joint oversight committee shall consist of eight (8) members:
+34 (i) Four (4) members of the house of representatives appointed by the speaker of the house
+LC003885 - Page 2 of 4
+
+1 no more than three (3) of whom shall be from the same political party; and
+2 (ii) Four (4) members of the senate appointed by the senate president, no more than three
+3 (3) of whom shall be from the same political party;
+4 (2) Appointments shall reflect bipartisan representation and include members from
+5 committees related to health, finance, and oversight.
+6 (c) Powers and duties. The joint oversight committee shall have the following powers and
+7 duties:
+8 (1) Review annual CCBHC financial and performance reports;
+9 (2) Hold public hearings and receive testimony from relevant stakeholders;
+10 (3) Evaluate the impact of CCBHCs on state behavioral health policy; and
+11 (4) Recommend legislative or regulatory changes as needed.
+12 40.1-8.6-6. Annual report by EOHHS.
+13 The secretary of the EOHHS shall:
+14 (1) Submit a written report to the speaker of the house, the senate president, and the joint
+15 oversight committee by January 31 of each year
+16 (2) This report shall summarize:
+17 (i) Statewide performance of all certified CCBHCs;
+18 (ii) Compliance with financial and performance reporting standards; and
+19 (iii) Recommendations for quality improvement, funding models, and regulation.
+20 40.1-8.6-7. Implementation -- Rules and regulations.
+21 EOHHS shall:
+22 (1) Promulgate rules and regulations to implement and enforce the reporting requirements
+23 of this chapter; and
+24 (2) Establish a standardized format and platform for annual CCBHC reporting.
+25 40.1-8.6-8. Severability.
+26 If any provision of this chapter or its application is held invalid, the invalidity does not
+27 affect other provisions or applications of this chapter.
+28 SECTION 2. This act shall take effect upon passage.
+========
+LC003885
+========
+LC003885 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BEHAVIORAL HEALTHCARE, DEVELOPMENTAL DISABILITIES AND
+HOSPITALS -- CERTIFIED COMMUNITY BEHAVIORAL HEALTH CLINICS
+ACCOUNTABILITY AND OVERSIGHT ACT
+***
+1 This act would create the certified community behavioral health clinic accountability and
+2 oversight act to ensure transparency, fiscal responsibility, and service quality by certified
+3 community behavioral health clinics.
+4 This act would take effect upon passage.
+========
+LC003885
+========
+LC003885 - Page 4 of 4

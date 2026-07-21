@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - 7862
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7862
+========
+LC005437
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- HEALTHCARE ACCESSIBILITY AND QUALITY
+ASSURANCE ACT
+Introduced By: Representative Mia A. Ackerman
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+(by request)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 27-18.8 of the General Laws entitled "Healthcare Accessibility and
+2 Quality Assurance Act" is hereby amended by adding thereto the following section:
+3 27-18.8-3.1. Unilateral modification of provider contracts prohibited.
+4 (a) No healthcare entity, as defined in § 27-18.8-2, including any affiliate, subsidiary, or
+5 contracted vendor acting on behalf of the healthcare entity, that offers, issues, or renews a health
+6 plan in this state, shall unilaterally modify, amend, or reinterpret any material term or condition of
+7 a contract with a healthcare provider, during the term of such contract.
+8 (b) For purposes of this section, a "material term or condition" means and includes, but is
+9 not limited to, changes to reimbursement methodologies or underlying fee schedules; payment
+10 terms; carrier policies, protocols, or procedures; definitions of covered services or covered sites of
+11 service; utilization review requirements, prior authorization requirements, or medical necessity
+12 criteria; quality management or quality improvement requirements; credentialing requirements;
+13 billing or documentation requirements; clinical policy bulletins or coverage determination or
+14 covered preventive health services.
+15 (c) Material terms and conditions shall include any policy, protocol, fee schedule, provider
+16 manual, or guidance incorporated by reference into the contract, whether issued electronically or
+17 otherwise.
+18 (d) A healthcare entity may implement changes to a health carrier contract only:
+
+1 (1) Upon the mutual written agreement of the healthcare entity and the healthcare provider;
+2 or
+3 (2) Where such change is expressly required by state or federal law.
+4 (e) Any change not required by law shall not take effect until the renewal of the contract
+5 term and then only if the healthcare entity has provided written notice of the proposed change at
+6 least ninety (90) days before the renewal.
+7 SECTION 2. This act shall take effect upon passage.
+========
+LC005437
+========
+LC005437 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- HEALTHCARE ACCESSIBILITY AND QUALITY
+ASSURANCE ACT
+***
+1 This act would prohibit a healthcare entity from unilaterally modifying amending or
+2 reinterpreting any material term or condition of a contact with a healthcare provider during the term
+3 of such contact.
+4 This act would take effect upon passage.
+========
+LC005437
+========
+LC005437 - Page 3 of 3

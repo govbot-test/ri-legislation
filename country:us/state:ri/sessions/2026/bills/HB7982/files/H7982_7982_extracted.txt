@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - 7982
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7982
+========
+LC003509
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO GENERAL ASSEMBLY -- GOVERNMENT PERFORMANCE AUDIT AND
+ACCOUNTABILITY ACT
+Introduced By: Representatives Cortvriend, Speakman, Spears, McGaw, Kislak, and
+Tanzi
+Date Introduced: February 27, 2026
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Purpose.
+2 The purpose of chapter 13.1 of title 22 is to strengthen the oversight capacity of the office
+3 of the auditor general ("OAG") created pursuant to the provisions of chapter 13 of title 22 ("Auditor
+4 General") by establishing a dedicated performance audit division to evaluate the economy,
+5 efficiency, and effectiveness of state programs and expenditures, and to ensure timely and
+6 appropriate corrective actions, in a manner that complements, and does not duplicate, existing
+7 internal control and program integrity activities within state agencies.
+8 SECTION 2. Legislative findings.
+9 The general assembly hereby finds and declares:
+10 (1) The Rhode Island office of the auditor general (OAG) performs high-quality and
+11 nationally respected financial and compliance audits that safeguard the accuracy of state
+12 accounting, ensure proper use of state and federal funds, and protect the fiscal integrity of
+13 government operations. These audits-focused on financial statements, transactions, internal
+14 controls, and compliance-are distinct from performance audits, which evaluate whether state
+15 programs operate efficiently, effectively, economically, and in accordance with legislative intent.
+16 (2) State government responsibilities, fiscal exposure, and operational risks have expanded
+17 dramatically over the past two decades, including multi-billion-dollar Medicaid program
+18 expenditures, increasing IT system complexity, major modernization projects, growing
+
+1 cybersecurity threats, data integrity and interoperability challenges, and heightened federal
+2 reporting and compliance obligations, yet the OAG has not received a meaningful staffing increase
+3 in more than twenty years.
+4 (3) The OAG is statutorily responsible and professionally capable of conducting both
+5 financial and performance audits; however, the office currently employs only one performance
+6 auditor, limiting its ability to evaluate program and operational effectiveness or to ensure timely
+7 corrective actions. While the OAG may recommend improvements, it cannot require agencies to
+8 implement corrective operational changes.
+9 (4) Despite severe under-resourcing, the OAG has demonstrated the value of performance-
+10 based oversight-identifying millions of dollars in Medicaid payments on behalf of individuals no
+11 longer residing in Rhode Island and uncovering administrative weaknesses, outdated processes,
+12 and insufficient outcome tracking in a 2024 review of childcare subsidy programs. These examples
+13 show the substantial public benefit that could be achieved with a fully resourced performance audit
+14 function.
+15 (5) Other states have strengthened accountability and improved government effectiveness
+16 through dedicated performance audit entities-including Washington's Joint Legislative Audit and
+17 Review Committee, North Carolina's State Auditor, and Massachusetts' State Auditor-
+18 demonstrating that independent, well-resourced performance auditing reduces inefficiency,
+19 prevents waste, and improves program outcomes.
+20 (6) Establishing a dedicated performance audit division within the OAG is necessary to
+21 ensure Rhode Island's programs and expenditures are managed efficiently, effectively, and in
+22 alignment with legislative intent, and to provide the General Assembly and the public with
+23 independent, data-driven oversight of state operations.
+24 (7) Performance auditing consistently yields significant fiscal returns. National studies
+25 show that performance audit offices typically return between three ($3.00) and ten dollars ($10.00)
+26 in savings or avoided costs for every one dollar invested, and Rhode Island's recent audits have
+27 already identified millions in recoverable payments and avoided expenditures. Strengthening
+28 performance auditing is therefore a fiscally responsible investment for the state.
+29 SECTION 3. Title 22 of the General Laws entitled "GENERAL ASSEMBLY" is hereby
+30 amended by adding thereto the following chapter:
+31 CHAPTER 13.1
+32 GOVERNMENT AUDIT AND ACCOUNTABILITY ACT
+33 22-13.1-1. Short title.
+34 This chapter shall be known and may be cited as the "Government Audit and
+LC003509 - Page 2 of 5
+
+1 Accountability Act."
+2 22-13.1-2. Establishment of performance audit division.
+3 (a) There is hereby established within the office of the auditor general ("OAG") a
+4 performance audit division ("division") responsible for planning, conducting, and reporting on
+5 performance audits of state agencies and, consistent with existing statutory authority under § 35-7-
+6 11, contractors or other entities receiving state or federal funds. Performance audits conducted
+7 under this chapter shall complement and not duplicate existing internal audit, program integrity, or
+8 oversight activities within state agencies.
+9 (b) The division shall be staffed with no fewer than five (5) full-time equivalent (FTE)
+10 positions dedicated to performance audit functions, including a chief performance auditor and
+11 necessary analysts/auditors, and may be expanded as necessary to meet audit requirements.
+12 (c) The auditor general may engage outside contractors or consultants for specialized audits
+13 or subject-matter expertise.
+14 22-13.1-3. Duties.
+15 The performance audit division shall:
+16 (1) Prepare and publish an annual performance audit plan, starting on November 1, 2026,
+17 or as soon as practicable after division staffing is complete, and annually thereafter, identifying
+18 proposed audit entities based on fiscal materiality, program risk, and public interest, and prioritizing
+19 those that involve the highest potential fiscal impact, including but not limited to Medicaid,
+20 procurement, and information technology projects.
+21 (2) Conduct audits in accordance with generally accepted government auditing standards
+22 ("GAGAS") issued by the U.S. Government Accountability Office.
+23 (3) Evaluate whether agencies and contractors or other entities receiving state or federal
+24 funds:
+25 (i) Operate efficiently and effectively;
+26 (ii) Achieve intended outcomes; and
+27 (iii) Adhere to applicable state and federal statutes and regulations.
+28 (4) Recommend corrective actions and follow up on prior audit recommendations.
+29 (5) Provide public reports starting on November 1, 2027, or as soon as practicable
+30 thereafter, to the general assembly, the governor, and the public detailing audit findings,
+31 recommendations, and the status of agency compliance.
+32 (6) Conduct reviews focused on systems and processes rather than individual employee
+33 performance.
+34 22-13.1-4. Corrective action and oversight.
+LC003509 - Page 3 of 5
+
+1 (a) Each audited entity shall, within sixty (60) days of receiving a performance audit report,
+2 submit to the OAG, the joint committee on legislative services, the house committee on finance,
+3 and the senate committee on finance, a corrective action plan ("CAP") describing actions being
+4 taken and timelines for addressing deficiencies.
+5 (b) The OAG shall monitor implementation of CAPs and report annually on agency
+6 compliance to the joint committee on legislative services and the house and senate finance
+7 committees.
+8 (c) If an audited entity fails to make reasonable progress on a corrective action plan, or if
+9 a performance audit identifies a potential violation of state or federal law or material financial harm
+10 to the state resulting from contractor practices, the auditor general may refer the matter to the Rhode
+11 Island attorney general for further review and enforcement under existing statutory authority.
+12 22-13.1-5. Budget and staffing.
+13 Costs of the additional FTEs, contractor services, equipment, training, and any necessary
+14 office space shall be included in the general revenue appropriation for the office of the auditor
+15 general.
+16 22-13.1-6. Independence and access.
+17 The OAG shall have unrestricted access to records, data, and personnel of all state agencies
+18 and contractors as necessary to perform its duties under this chapter. Nothing in this section shall
+19 be construed to alter statutory protections for confidential or proprietary information, which shall
+20 be protected consistent with state and federal law.
+21 SECTION 4. This act shall take effect upon passage.
+========
+LC003509
+========
+LC003509 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO GENERAL ASSEMBLY -- GOVERNMENT PERFORMANCE AUDIT AND
+ACCOUNTABILITY ACT
+***
+1 This act would establish a performance audit division within the office of the auditor
+2 general. The purpose of the performance audit division would include preparing an annual
+3 performance audit plan, conducting audits in accordance with Generally Accepted Government
+4 Auditing Standards, evaluating agencies and contractors receiving state or federal funds, and
+5 publishing a public report containing the divisions’ findings and recommendations.
+6 This act would take effect upon passage.
+========
+LC003509
+========
+LC003509 - Page 5 of 5

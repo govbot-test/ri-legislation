@@ -1,0 +1,230 @@
+Title: 
+Official Title: 
+Source: versions - 7173  as amended
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7173 AS AMENDED
+========
+LC004181
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- FACILITATING BUSINESS RAPID
+RESPONSE TO STATE DECLARED DISASTER ACT OF 2024
+Introduced By: Representatives Kennedy, Cotter, Fellela, Serpa, Diaz, Ackerman,
+Edwards, Solomon, Azzinaro, and O'Brien
+Date Introduced: January 21, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 5-94-2 of the General Laws in Chapter 5-94 entitled "Facilitating
+2 Business Rapid Response to State Declared Disaster Act of 2024" is hereby amended to read as
+3 follows:
+4 5-94-2. Definitions.
+5 As used in this chapter, the following terms shall have the following meanings:
+6 (1) “Critical infrastructure” means property and equipment located in this state that is
+7 owned or used by communications networks, cable, video, wireless or broadband networks; gas
+8 and electric distribution systems and water pipelines, railways, public roads and bridges and related
+9 support facilities that service multiple customers or citizens including, but not limited to, real and
+10 personal property such as buildings, offices, lines, poles, pipes, structures, and equipment.
+11 (2) “Declared state disaster or emergency” means a disaster or emergency event for which
+12 a governor’s state of emergency proclamation has been issued or for which a presidential
+13 declaration of a federal major disaster or emergency has been issued.
+14 (3) “Disaster or emergency-related work” means repairing, renovating, installing, building,
+15 rendering services or other business activities that relate to critical infrastructure that has been
+16 damaged, destroyed, or lost as a result of the declared state disaster or emergency during the disaster
+17 period.
+18 (4) “Disaster period” means a period that begins within ten (10) days of the first day of the
+
+1 governor’s proclamation or the president’s declaration (whichever occurs first) and that extends for
+2 a period of sixty (60) calendar days after the end of the declared disaster or emergency period.
+3 (5) “Out-of-state business” means a business entity that, except for disaster or emergency-
+4 related work, has no presence in the state and conducts no business in the state whose services are
+5 requested by a registered business or by a state or local government for purposes of performing
+6 disaster or emergency-related work in the state. This definition shall also include a business entity
+7 that is affiliated with the registered business in the state solely through common ownership. The
+8 “out-of-state business” has no registrations or tax filings or nexus in the state prior to the declared
+9 state disaster or emergency, other than disaster or emergency-related work during the tax year
+10 immediately preceding the declared state disaster or emergency.
+11 (6) “Out-of-state employee” means an employee who does not work in the state, except for
+12 disaster or emergency-related work during the disaster response period.
+13 (7) “Registered business in the state” or “registered business” means a business entity that
+14 is currently registered to do business in the state prior to the declared state disaster or emergency.
+15 SECTION 2. Sections 6-11.2-2, 6-11.2-6 and 6-11.2-8 of the General Laws in Chapter 6-
+16 11.2 entitled "Purchase and Sale of Regulated Metals" are hereby amended to read as follows:
+17 6-11.2-2. Definitions.
+18 (a) “Electronic Reporting System” means an electronic process that records, reports,
+19 processes, stores and sends data and digital images of transactions in accordance with § 6-11.2-6.
+20 (b) The word “person(s),” when used in this chapter, shall include any individual(s),
+21 partnership(s), association(s), and corporation(s).
+22 (c) “Public property” means property owned and maintained by a municipality, the state,
+23 the United States, or any quasi-governmental entity, and shall include, but not be limited to, items
+24 associated with public streets and sidewalks as follows:
+25 (1) Manhole covers, or other types of utility access covers including, but not limited to,
+26 water maintenance covers;
+27 (2) Highway and street signs;
+28 (3) Street light poles and fixtures;
+29 (4) Guardrails for bridges, highways, and roads;
+30 (5) Historical, commemorative, and memorial markers and plaques; and
+31 (6) Traffic directional and control signs and light signals.
+32 (d) “Regulated metals property” means all ferrous and nonferrous metals, including, but
+33 not limited to, copper, copper alloy, bronze and aluminum, not including aluminum beverage
+34 containers, as well as any component of a cable, broadband, wireless, or wired communications
+LC004181 - Page 2 of 7
+
+1 device or facility.
+2 (e) “Secondary metals recycler” means any person, firm or corporation in the state that is
+3 engaged, from a fixed location or otherwise, in the business of paying compensation for regulated
+4 metals that has served its original economic purposes, whether or not engaged in the business of
+5 performing the manufacturing process by which regulated metals are converted into raw materials
+6 products consisting of prepared grades and having an existing or potential economic value.
+7 6-11.2-6. Payment.
+8 Payment in full made for all material purchased pursuant to this chapter may be made by
+9 check, wire transfer, cash, or any other legal means. Every person licensed under this chapter shall,
+10 prior to issuing any payment, notify the seller of the material of the requirement to notify the police
+11 department of receipt of materials listed under § 6-11.2-8.
+12 6-11.2-8. Holding period for property acquired by licensee.
+13 (a) Every person licensed under this chapter shall keep, for a period of three (3) days, and
+14 shall immediately notify the police department of the following property:
+15 (1) Property purchased or received consisting of brass, bronze, copper, cast iron, stainless
+16 steel, and/or wrought iron:
+17 (1)(i) Statues and sculptures;
+18 (2)(ii) Weathervanes;
+19 (3)(iii) Downspouts;
+20 (4)(iv) Handrails;
+21 (5)(v) Decorative fencing;
+22 (6)(vi) Grave markers, sculptures, plaques and vases, the appearance of which suggest that
+23 the articles have been obtained from a cemetery; and
+24 (7)(vii) Beer kegs.
+25 (2) Property which is known or reasonably should be known as ordinarily used by, belongs
+26 to, or is identified with markings indicating ownership by a telephone, telegraph, cable, broadband,
+27 Internet, wireless communication, gas, water, or electric light company. For the purposes of this
+28 section, evidence that the insulating casing of a regulated metals property was burned, smoldered
+29 off, or otherwise obfuscated shall create a presumption that the secondary metals recycler should
+30 have known the material is a regulated metals property.
+31 (b) During said holding period, property shall be kept separate and distinct and shall not be
+32 disfigured or treated in any manner to alter or destroy its identity.
+33 SECTION 3. Section 11-35-4 of the General Laws in Chapter 11-35 entitled "Public
+34 Utilities" is hereby amended to read as follows:
+LC004181 - Page 3 of 7
+
+1 11-35-4. Injuries to electric or communication lines.
+2 Every person who shall wantonly or willfully and maliciously cut, destroy, break down, or
+3 injure, or attempt to cut, destroy, break down, or injure any machine, appliance, or apparatus used
+4 for generating electric currents or any electric wire or other appliance or apparatus used for the
+5 purpose of conducting or transmitting electric currents for using and furnishing power, motive
+6 power, light, or heat, or used for the purpose of transmitting intelligence by means of cable,
+7 broadband, Internet, wireless, telegraphic or telephonic apparatus or by means of fire-alarm signals,
+8 burglar-alarm signals, police signals, railway signals, or other apparatus or appliance for the
+9 transmission of intelligence, or shall cut, destroy, break down, or injure or shall attempt to cut,
+10 destroy, break down, or injure any pole, bracket, insulator or other device, apparatus, or appliance
+11 for supporting or carrying any electric wire, or shall do any other act interrupting or intended to
+12 interrupt the transmission of the electric current over any electric wire, shall be liable to indictment
+13 for it, and upon conviction shall be fined not exceeding three thousand dollars ($3,000) or
+14 imprisoned not exceeding two (2) years; provided, that nothing in this section shall be construed to
+15 authorize or permit the attachment, erection, use, operation, or maintenance of any electric wire,
+16 apparatus, pole, bracket, insulator, or other device or appliance, upon the property of any person or
+17 corporation, without the consent of the owner or owners; nor to prevent any properly authorized
+18 person from removing any electric wire, apparatus, pole, bracket, insulator, or other device or
+19 appliance for the purpose of permitting the passage of any building or structure, the moving of
+20 which has been duly authorized by any city or town council.
+21 SECTION 4. Section 45-24-41 of the General Laws in Chapter 45-24 entitled "Zoning
+22 Ordinances" is hereby amended to read as follows:
+23 45-24-41. General provisions — Variances.
+24 (a) An application for relief from the literal requirements of a zoning ordinance because of
+25 hardship may be made by any person, group, agency, or corporation by filing with the zoning
+26 enforcement officer or agency an application describing the request and supported by any data and
+27 evidence as may be required by the zoning board of review or by the terms of the ordinance. The
+28 zoning enforcement officer or agency shall immediately transmit each application received to the
+29 zoning board of review and a copy of each application to the planning board or commission.
+30 (b) A zoning ordinance shall provide that the zoning board of review, immediately upon
+31 receipt of an application for a variance in the application of the literal terms of the zoning ordinance,
+32 may request that the planning board or commission and/or staff report its findings and
+33 recommendations, including a statement on the general consistency of the application with the
+34 goals and purposes of the comprehensive plan of the city or town, in writing, to the zoning board
+LC004181 - Page 4 of 7
+
+1 of review within thirty (30) days of receipt of the application from that board. The zoning board
+2 shall hold a public hearing on any application for variance in an expeditious manner, after receipt,
+3 in proper form, of an application, and shall give public notice at least fourteen (14) days prior to
+4 the date of the hearing in a newspaper of local circulation in the city or town. Notice of hearing
+5 shall be sent by first-class mail to the applicant, and to at least all those who would require notice
+6 under § 45-24-53. The notice shall also include the street address of the subject property. A zoning
+7 ordinance may require that a supplemental notice, that an application for a variance is under
+8 consideration, be posted at the location in question. The posting is for information purposes only
+9 and does not constitute required notice of a public hearing. The same notice shall be posted in the
+10 town or city clerk’s office and one other municipal building in the municipality and the municipality
+11 must make the notice accessible on the municipal home page of its website at least fourteen (14)
+12 days prior to the hearing. For any notice sent by first-class mail, the sender of the notice shall submit
+13 a notarized affidavit to attest to such mailing. The cost of newspaper and mailing notification shall
+14 be borne by the applicant.
+15 (c) A zoning ordinance may provide for unified development review, pursuant to § 45-24-
+16 46.4. Requests for dimensional and use variances submitted under a unified development review
+17 provision of a zoning ordinance shall be submitted as part of the subdivision or land development
+18 application to the administrative officer of the planning board or commission, pursuant to § 45-24-
+19 46.4(a). All subdivision or land development applications submitted under the unified development
+20 review provisions of a zoning ordinance shall have a public hearing, which shall meet the
+21 requirements of § 45-23-50.1(d).
+22 (d) In granting a variance, the zoning board of review, or, where unified development
+23 review is enabled pursuant to § 45-24-46.4, the planning board or commission, shall require that
+24 evidence to the satisfaction of the following standards is entered into the record of the proceedings:
+25 (1) That the hardship from which the applicant seeks relief is due to the unique
+26 characteristics of the subject land or structure and not to the general characteristics of the
+27 surrounding area; and is not due to a physical or economic disability of the applicant, excepting
+28 those physical disabilities addressed in § 45-24-30(a)(16);
+29 (2) That the hardship is not the result of any prior action of the applicant; and
+30 (3) That the granting of the requested variance will not alter the general character of the
+31 surrounding area or impair the intent or purpose of the zoning ordinance or the comprehensive plan
+32 upon which the ordinance is based.
+33 (4) [Deleted by P.L. 2023, ch. 304, § 1 and P.L. 2023, ch. 305, § 1.]
+34 (e) The zoning board of review, or, where unified development review is enabled pursuant
+LC004181 - Page 5 of 7
+
+1 to § 45-24-46.4, the planning board or commission, shall, in addition to the above standards, require
+2 that evidence is entered into the record of the proceedings showing that:
+3 (1) In granting a use variance, the subject land or structure cannot yield any beneficial use
+4 if it is required to conform to the provisions of the zoning ordinance. Nonconforming use of
+5 neighboring land or structures in the same district and permitted use of lands or structures in an
+6 adjacent district shall not be considered in granting a use variance; and
+7 (2) In granting a dimensional variance, that the hardship suffered by the owner of the
+8 subject property if the dimensional variance is not granted amounts to more than a mere
+9 inconvenience, meaning that relief sought is minimal to a reasonable enjoyment of the permitted
+10 use to which the property is proposed to be devoted. The fact that a use may be more profitable or
+11 that a structure may be more valuable after the relief is granted is not grounds for relief. The zoning
+12 board of review, or, where unified development review is enabled pursuant to § 45-24-46.4, the
+13 planning board or commission has the power to grant dimensional variances where the use is
+14 permitted by special-use permit.
+15 (f) Notwithstanding the provisions of subsections (d) and (e) of this section, a municipality
+16 may also grant a variance or other form of zoning relief for the protection of critical infrastructure
+17 as defined in § 5-94-2 upon the finding that the property has been subject to or is at a reasonably
+18 foreseeable risk of vandalism, trespass, theft, or damage by extreme weather or climate change
+19 related disaster.
+20 SECTION 5. This act shall take effect on January 1, 2027.
+========
+LC004181
+========
+LC004181 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- FACILITATING BUSINESS RAPID
+RESPONSE TO STATE DECLARED DISASTER ACT OF 2024
+***
+1 This act would incorporate broadband, internet, and wireless means into the crime of
+2 injuring electric and communication lines, authorize municipalities to grant zoning relief for the
+3 protection of critical infrastructure that has been or is reasonably at risk of vandalism, trespass,
+4 theft, or damage by extreme weather or climate change related disaster, and include wireless
+5 communication infrastructure in the definitions of critical infrastructure for disaster response and
+6 for obligations related to purchase and sale of regulated metals.
+7 This act would take effect on January 1, 2027.
+========
+LC004181
+========
+LC004181 - Page 7 of 7

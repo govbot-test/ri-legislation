@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - 7504
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7504
+========
+LC004493
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- CATASTROPHE SAVINGS ACCOUNTS ACT
+Introduced By: Representatives Kennedy, Azzinaro, Fogarty, Tanzi, Carson, Cortvriend,
+Speakman, Craven, McEntee, and Edwards
+Date Introduced: February 04, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 73
+4 CATASTROPHE SAVINGS ACCOUNTS ACT
+5 44-73-1. Short title.
+6 This chapter shall be known and may be cited as the "Catastrophe Savings Account Act."
+7 44-73-2. Definitions.
+8 As used in this chapter:
+9 (1) “Catastrophe savings account” means a regular savings account or money market
+10 account established by a resident taxpayer to pay for qualified catastrophe expenses.
+11 (2) “Catastrophic event” means windstorms, cyclones, earthquakes, hurricanes, ice storms,
+12 tornadoes, high winds, floods, hail storms, and any other weather events or occurrences; provided
+13 that, such event or occurrence has been declared as a disaster or emergency by the governor.
+14 (3) “Qualified catastrophe expenses” means:
+15 (i) A qualified deductible paid for damage resulting from a catastrophic event; and
+16 (ii) Expenses incurred in repairing or replacing damage to a taxpayer's primary residence
+17 as a result of a catastrophic event that are not covered by a homeowner's insurance policy.
+18 (4) “Qualified deductible” means the deductible for the homeowner's insurance policy of
+19 the taxpayer covering catastrophic event damage for his or her primary residence. If such policy
+
+1 provides for more than one deductible, the deductible with the highest amount shall constitute the
+2 qualified deductible.
+3 44-73-3. Establishment of account.
+4 A taxpayer may establish one catastrophe savings account pursuant to this chapter which
+5 shall be labeled as a catastrophe savings account and shall specify that the purpose of the account
+6 is to cover qualified catastrophe expenses. No more than one catastrophe savings account pursuant
+7 to this chapter shall be established for a primary residence.
+8 44-73-4. Limitations on contributions.
+9 (a) For a taxpayer whose qualified deductible is one thousand dollars ($1,000) or less, the
+10 total amount that may be contributed to a catastrophe savings account shall not exceed two thousand
+11 dollars ($2,000).
+12 (b) For a taxpayer whose qualified deductible is greater than one thousand dollars ($1,000),
+13 the total amount that may be contributed to a catastrophe savings account shall not exceed the lesser
+14 of twice the amount of the taxpayer's qualified deductible or twenty-five thousand dollars
+15 ($25,000).
+16 (c) For a self-insured taxpayer who chooses not to obtain insurance on his or her primary
+17 residence, the total amount that may be contributed to a catastrophe savings account shall not
+18 exceed two hundred fifty thousand dollars ($250,000); provided, however, that in no case shall the
+19 amount contributed to the catastrophe savings account exceed the fair market value of the taxpayer's
+20 primary residence.
+21 44-73-5. Deduction for contributions.
+22 (a) An individual taxpayer shall be allowed a deduction from the tax imposed pursuant to
+23 this title 44 for amounts contributed to a catastrophe savings account in accordance with this
+24 chapter.
+25 (b) All interest income earned by a catastrophe savings account in compliance with this
+26 chapter shall be exempt from the tax imposed pursuant this title 44.
+27 44-73-6. Distributions.\.
+28 A distribution from a catastrophe savings account shall be included in the income of the
+29 taxpayer unless the amount of the distribution is used to cover qualified catastrophe expenses;
+30 provided, however, that no such amount shall be included in the income of the taxpayer if the
+31 qualified catastrophe expenses of the taxpayer during the taxable year are equal to or greater than
+32 the aggregate distributions from such account during the taxable year. If the aggregate distributions
+33 during the taxable year from such account exceed the qualified catastrophe expenses of the taxpayer
+34 during the taxable year, the amount otherwise included in the taxpayer's income shall be reduced
+LC004493 - Page 2 of 4
+
+1 by the amount of the distributions for qualified catastrophe expenses and the amount of interest
+2 income earned by the catastrophe savings account.
+3 44-73-7. Excess contributions.
+4 If a taxpayer contributes in excess of the limits provided in this chapter and claimed a
+5 deduction pursuant to § 44-73-5, the taxpayer shall withdraw the amount of the excess contributions
+6 and include that amount in the income of the taxpayer in the year of withdrawal.
+7 44-73-8. Death of taxpayer.
+8 If a taxpayer who owns a catastrophe savings account dies, the taxpayer's account shall be
+9 included in the income of the person who receives the account, unless that person is the surviving
+10 spouse of the taxpayer. Upon the death of such a surviving spouse, the amount in the account shall
+11 be included in the income of the person who receives the account.
+12 44-73-9. Rules and regulations.
+13 The division of taxation shall promulgate any rules and regulations necessary to implement
+14 and administer the provisions of this chapter.
+15 SECTION 2. This act shall take effect on July 1, 2026, and shall be applicable to taxable
+16 years beginning on or after January 1, 2027.
+========
+LC004493
+========
+LC004493 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- CATASTROPHE SAVINGS ACCOUNTS ACT
+***
+1 This act would establish the catastrophe savings account act.
+2 This act would take effect on July 1, 2026, and would be applicable to taxable years
+3 beginning on or after January 1, 2027.
+========
+LC004493
+========
+LC004493 - Page 4 of 4

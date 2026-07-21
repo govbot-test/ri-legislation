@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - 7878
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7878
+========
+LC005687
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- ENERGY STORAGE SYSTEMS
+ACT
+Introduced By: Representatives Speakman, and Boylan
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 39-33-1, 39-33-2 and 39-33-3 of the General Laws in Chapter 39-
+2 33 entitled "Energy Storage Systems Act" are hereby amended to read as follows:
+3 39-33-1. Definitions.
+4 As used in this chapter:
+5 (1) "Constrained feeder" means a distribution feeder owned and/or operated by an electric
+6 distribution company as defined in § 39-1-2 which feeder is eighty percent (80%) or higher load
+7 constrained.
+8 (2) “Commission” means the public utilities commission.
+9 (2)(3) “Energy storage system” means any technology capable of converting electrical
+10 energy to some form of stored energy for reconversion to electrical energy at a later time.
+11 (3)(4) “Long-duration energy storage system” means energy storage systems that are
+12 capable of permanently displacing fossil fuel energy systems designed to store energy or necessary
+13 for balancing intermittent renewable energy resources.
+14 39-33-2. Storage tariff.
+15 (a) No later than September 1, 2024, the public utilities commission shall engage
+16 stakeholders to adopt a framework for an energy storage system tariff for energy storage systems
+17 connected to the electric distribution system.
+18 (1) The tariff framework should, at a minimum, address the ability of energy storage
+
+1 systems to charge from and discharge to the electric distribution system.
+2 (2) The commission shall set a schedule that is designed to result in a model tariff no later
+3 than May 1, 2025, consistent with the tariff framework.
+4 (3) Following that date, if the commission finds that the energy storage system tariff can
+5 be implemented without inequitable cross subsidization between customers, each electric
+6 distribution company as defined in § 39-1-2 that has greater than one hundred thousand (100,000)
+7 customers shall file the model tariff for review and approval by the public utilities commission in
+8 a contested proceeding. Otherwise, the model tariff shall be included as part of the electric
+9 distribution company’s next general rate filing.
+10 (b) Notwithstanding subsection (a) of this section, no later than September 30, 2026, each
+11 electric distribution company as defined in § 39-1-2 that has greater than one hundred thousand
+12 (100,000) customers shall file an energy storage system tariff for review and approval by the
+13 commission in a contested proceeding which tariff shall contain the following provisions:
+14 (1) The owner/operator of an energy storage system shall be compensated one hundred and
+15 eighty-five dollars per nameplate kilowatt capacity ($185/kW) per year for a system no greater than
+16 five megawatts (5 MW) in size and connected to a constrained feeder. This tariff shall be effective
+17 until one hundred megawatts (100 MW) of energy storage systems have been connected to
+18 constrained feeders at which point the commission may extend the tariff, revise the tariff or
+19 discontinue the tariff. The tariff shall provide for this compensation for ten (10) years following the
+20 energy storage system’s receipt of authorization to interconnect.
+21 (2) The tariff may require that the energy storage system discharge at certain times during
+22 the day and at certain times during the year to maximize the benefits to the grid. The tariff may not
+23 require systems to discharge more than seventy (70) times per year. The owners/operators of the
+24 energy storage system shall pay the G-32 rate (or, if the G-32 rate is discontinued, the most
+25 comparable rate class then existing) when charging. The tariff may provide for financial penalties
+26 for energy storage systems failing to comply with the discharging requirements.
+27 (3) The tariff shall provide that the determination of whether an energy storage system is
+28 proposed to be connected to a constrained feeder shall be made when the owner/operator of the
+29 energy storage system files its interconnection application with the electric distribution company
+30 and the energy storage system shall not lose eligibility for this tariff program following the
+31 eligibility determination and for ten (10) years after the receipt of authorization to interconnect.
+32 (4) The tariff shall provide for the execution of a contract between the owner/operator of
+33 the energy storage system and the electric distribution company reflecting the operational and
+34 compensation terms of the energy storage system.
+LC005687 - Page 2 of 4
+
+1 (5) The tariff may contain any other provisions which are reasonable and necessary to
+2 facilitate a tariff program on the terms set forth in subsections (2)(b)(1) through (2)(b)(4) of this
+3 section.
+4 39-33-3. Interconnection.
+5 (a) No later than September 1, 2024, the commission shall commence a process, which
+6 includes stakeholder engagement, to adopt a framework for an interconnection tariff for energy
+7 storage systems connected to the electric distribution system that recognizes the flexible operating
+8 characteristics of energy storage systems.
+9 (b) Following the public utilities commission’s adoption of a framework, which shall be
+10 completed no later than May 1, 2025, each electric distribution company as defined in § 39-1-2 that
+11 has greater than one hundred thousand (100,000) customers shall file a proposed energy storage
+12 system interconnection tariff for review and approval in a contested proceeding.
+13 No later than September 30, 2026, each electric distribution company as defined in § 39-
+14 1-2 that has greater than one hundred thousand (100,000) customers shall file a proposed energy
+15 storage system interconnection tariff for review and approval by the commission in a contested
+16 proceeding. The tariff shall regulate the interconnection of energy storage systems in a manner
+17 commensurate with the manner in which the Narragansett Electric Company Standards for
+18 Connecting Distributed Generation (R.I.P.U.C. No. 2258) regulates distributed generation. The
+19 tariff may contain provisions which are reasonable and necessary to regulate interconnection of
+20 energy storage systems and, more specifically, the tariff may address concepts such as
+21 import/export capacity and operating profiles and schedules.
+22 SECTION 2. Chapter 39-33 of the General Laws entitled "Energy Storage Systems Act" is
+23 hereby amended by adding thereto the following section:
+24 39-33-6. Legislative purpose.
+25 The purpose of this chapter is to facilitate and promote the installation of energy storage
+26 systems in the State of Rhode Island. Energy storage systems are capable of delivering significant
+27 benefits to the electric power system. Energy storage systems can reduce the market price for
+28 electricity, improve power quality by charging and discharging as needed, avoid the need for new
+29 capacity investments, and supply backup power during grid outages.
+30 SECTION 3. This act shall take effect upon passage.
+========
+LC005687
+========
+LC005687 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- ENERGY STORAGE SYSTEMS
+ACT
+***
+1 This act would amend the Energy Storage Act of 2024 to require that the electric
+2 distribution company and the public utilities commission promulgate tariffs to address
+3 interconnection of energy storage systems and to provide compensation for at least one hundred
+4 megawatts (100 MW) of energy storage systems sited in the state.
+5 This act would take effect upon passage.
+========
+LC005687
+========
+LC005687 - Page 4 of 4

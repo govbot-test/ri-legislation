@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - 8194
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8194
+========
+LC005582
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- REAL ESTATE CONVEYANCE TAX
+Introduced By: Representatives Messier, and Alzate
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 44-25-1 of the General Laws in Chapter 44-25 entitled "Real Estate
+2 Conveyance Tax" is hereby amended to read as follows:
+3 44-25-1. Tax imposed — Payment — Burden.
+4 (a) There is imposed, on each deed, instrument, or writing by which any lands, tenements,
+5 or other realty sold is granted, assigned, transferred, or conveyed, to, or vested in, the purchaser or
+6 purchasers, or any other person or persons, by his, her, or their direction, or on any grant,
+7 assignment, transfer, or conveyance or such vesting, by such persons that has the effect of making
+8 any real estate company an acquired real estate company, when the consideration paid exceeds one
+9 hundred dollars ($100), a tax at the rate of three dollars and seventy-five cents ($3.75) for each five
+10 hundred dollars ($500), or fractional part of it, that is paid for the purchase of property or the interest
+11 in an acquired real estate company (inclusive of the value of any lien or encumbrance remaining at
+12 the time the sale, grant, assignment, transfer, or conveyance or vesting occurs, or in the case of an
+13 interest in an acquired real estate company, a percentage of the value of such lien or encumbrance
+14 equivalent to the percentage interest in the acquired real estate company being granted, assigned,
+15 transferred, conveyed, or vested). The tax is payable at the time of making, the execution, delivery,
+16 acceptance, or presentation for recording of any instrument affecting such transfer, grant,
+17 assignment, transfer, conveyance, or vesting. In the absence of an agreement to the contrary, the
+18 tax shall be paid by the grantor, assignor, transferor, or person making the conveyance or vesting.
+19 (b) In addition to the tax imposed by subsection (a), there is imposed, on each deed,
+
+1 instrument, or writing by which any residential real property sold is granted, assigned, transferred,
+2 or conveyed to, or vested in, the purchaser or purchasers, or any other person or persons, by his,
+3 her, or their direction, or on any grant, assignment, transfer, or conveyance or such vesting, by such
+4 persons that has the effect of making any real estate company an acquired real estate company,
+5 when the consideration paid exceeds eight hundred thousand dollars ($800,000), a tax at the rate of
+6 three dollars and seventy-five cents ($3.75) for each five hundred dollars ($500), or fractional part
+7 of it, of the consideration in excess of eight hundred thousand dollars ($800,000) that is paid for
+8 the purchase of residential real property or the interest in an acquired real estate company (inclusive
+9 of the value of any lien or encumbrance remaining at the time the sale, grant, assignment, transfer,
+10 or conveyance or vesting occurs, or in the case of an interest in an acquired real estate company, a
+11 percentage of the value of such lien or encumbrance equivalent to the percentage interest in the
+12 acquired real estate company being granted, assigned, transferred, conveyed, or vested). The tax
+13 imposed by this subsection shall be paid at the same time, to the same municipalities and in the
+14 same manner as the tax imposed by subsection (a) For tax years beginning on or after January 1,
+15 2026, the threshold of eight hundred thousand dollars ($800,000) provided pursuant to this section
+16 shall be adjusted by the percentage increase in the Consumer Price Index for all Urban Consumers
+17 (CPI-U) as published by the United States Department of Labor Statistics determined as of
+18 September 30 of the prior calendar years. Said adjustment shall be compounded annually and shall
+19 be rounded up to the nearest five-dollar ($5.00) increment. In no event shall the threshold in any
+20 tax year be less than the prior tax year.
+21 (c) In the event no consideration is actually paid for the lands, tenements, or realty, the
+22 instrument or interest in an acquired real estate company of conveyance shall contain a statement
+23 to the effect that the consideration is such that no documentary stamps are required.
+24 (d) The tax shall be distributed as follows:
+25 (1) With respect to the tax imposed by subsection (a): the tax administrator shall contribute
+26 to the distressed community relief program the sum of fifty cents ($.50) per three dollars and
+27 seventy-five cents ($3.75) of the face value of the stamps to be distributed pursuant to § 45-13-12,
+28 and to the housing resources and homelessness restricted receipt account established pursuant to §
+29 42-128-2 the sum of fifty cents ($.50) per three dollars and seventy-five cents ($3.75) of the face
+30 value of the stamps. The state shall retain ninety-five cents ($.95) for state use. The balance of the
+31 tax shall be retained by the municipality collecting the tax.
+32 (2) With respect to the tax imposed by subsection (b): the tax administrator shall contribute
+33 to the housing production fund the sum of two dollars and fifty cents ($2.50) per three dollars and
+34 seventy-five cents ($3.75) to be distributed pursuant to § 42-128-2.1, and to the housing resources
+LC005582 - Page 2 of 5
+
+1 and homelessness restricted receipt account the sum of one dollar and twenty-five cents ($1.25) to
+2 be distributed pursuant to § 42-128-2.
+3 (3) Notwithstanding the above, in the case of the tax on the grant, transfer, assignment, or
+4 conveyance or vesting with respect to an acquired real estate company, the tax shall be collected
+5 by the tax administrator and shall be distributed to the municipality where the real estate owned by
+6 the acquired real estate company is located; provided, however, in the case of any such tax collected
+7 by the tax administrator, if the acquired real estate company owns property located in more than
+8 one municipality, the proceeds of the tax shall be allocated amongst said municipalities in the
+9 proportion the assessed value of said real estate in each such municipality bears to the total of the
+10 assessed values of all of the real estate owned by the acquired real estate company in Rhode Island.
+11 Provided, however, in fiscal years 2004 and 2005, from the proceeds of this tax, the tax
+12 administrator shall deposit as general revenues the sum of ninety cents ($.90) per two dollars and
+13 thirty cents ($2.30) of the face value of the stamps. The balance of the tax on the purchase of
+14 property shall be retained by the municipality collecting the tax. The balance of the tax on the
+15 transfer with respect to an acquired real estate company, shall be collected by the tax administrator
+16 and shall be distributed to the municipality where the property for which interest is sold is
+17 physically located. Provided, however, that in the case of any tax collected by the tax administrator
+18 with respect to an acquired real estate company where the acquired real estate company owns
+19 property located in more than one municipality, the proceeds of the tax shall be allocated amongst
+20 the municipalities in proportion that the assessed value in any such municipality bears to the
+21 assessed values of all of the real estate owned by the acquired real estate company in Rhode Island.
+22 (e) For purposes of this section, the term “acquired real estate company” means a real estate
+23 company that has undergone a change in ownership interest if (1) The change does not affect the
+24 continuity of the operations of the company; and (2) The change, whether alone or together with
+25 prior changes has the effect of granting, transferring, assigning, or conveying or vesting,
+26 transferring directly or indirectly, 50% or more of the total ownership in the company within a
+27 period of three (3) years. For purposes of the foregoing subsection (e)(2), a grant, transfer,
+28 assignment, or conveyance or vesting, shall be deemed to have occurred within a period of three
+29 (3) years of another grant(s), transfer(s), assignment(s), or conveyance(s) or vesting(s) if during the
+30 period the granting, transferring, assigning, or conveying party provides the receiving party a
+31 legally binding document granting, transferring, assigning, or conveying or vesting the realty or a
+32 commitment or option enforceable at a future date to execute the grant, transfer, assignment, or
+33 conveyance or vesting.
+34 (f) A real estate company is a corporation, limited liability company, partnership, or other
+LC005582 - Page 3 of 5
+
+1 legal entity that meets any of the following:
+2 (1) Is primarily engaged in the business of holding, selling, or leasing real estate, where
+3 90% or more of the ownership of the real estate is held by 35 or fewer persons and which company
+4 either (i) Derives 60% or more of its annual gross receipts from the ownership or disposition of real
+5 estate; or (ii) Owns real estate the value of which comprises 90% or more of the value of the entity’s
+6 entire tangible asset holdings exclusive of tangible assets that are fairly transferrable and actively
+7 traded on an established market; or
+8 (2) Ninety percent or more of the ownership interest in such entity is held by 35 or fewer
+9 persons and the entity owns as 90% or more of the fair market value of its assets a direct or indirect
+10 interest in a real estate company. An indirect ownership interest is an interest in an entity 90% or
+11 more of which is held by 35 or fewer persons and the purpose of the entity is the ownership of a
+12 real estate company.
+13 (g) In the case of a grant, assignment, transfer, or conveyance or vesting that results in a
+14 real estate company becoming an acquired real estate company, the grantor, assignor, transferor, or
+15 person making the conveyance or causing the vesting, shall file or cause to be filed with the division
+16 of taxation, at least five (5) days prior to the grant, transfer, assignment, or conveyance or vesting,
+17 notification of the proposed grant, transfer, assignment, or conveyance or vesting, the price, terms
+18 and conditions thereof, and the character and location of all of the real estate assets held by the real
+19 estate company and shall remit the tax imposed and owed pursuant to subsection (a). Any such
+20 grant, transfer, assignment, or conveyance or vesting which results in a real estate company
+21 becoming an acquired real estate company shall be fraudulent and void as against the state unless
+22 the entity notifies the tax administrator in writing of the grant, transfer, assignment, or conveyance
+23 or vesting as herein required in subsection (g) and has paid the tax as required in subsection (a).
+24 Upon the payment of the tax by the transferor, the tax administrator shall issue a certificate of the
+25 payment of the tax which certificate shall be recordable in the land evidence records in each
+26 municipality in which such real estate company owns real estate. Where the real estate company
+27 has assets other than interests in real estate located in Rhode Island, the tax shall be based upon the
+28 assessed value of each parcel of property located in each municipality in the state of Rhode Island.
+29 SECTION 2. This act shall take effect upon passage.
+========
+LC005582
+========
+LC005582 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- REAL ESTATE CONVEYANCE TAX
+***
+1 This act would require that the tax imposed be paid to the same municipalities.
+2 This act would take effect upon passage.
+========
+LC005582
+========
+LC005582 - Page 5 of 5

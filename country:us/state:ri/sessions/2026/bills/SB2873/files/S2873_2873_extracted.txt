@@ -1,0 +1,142 @@
+Title: 
+Official Title: 
+Source: versions - 2873
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2873
+========
+LC005458
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO EDUCATION -- HEALTH AND SAFETY OF PUPILS
+Introduced By: Senators DiPalma, Thompson, Murray, Valverde, Ujifusa, and Lauria
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 16-21 of the General Laws entitled "Health and Safety of Pupils" is
+2 hereby amended by adding thereto the following section:
+3 16-21-44. School air quality.
+4 (a) The following words and phrases when used in this section shall have the following
+5 meanings:
+6 (1) "Certified testing, adjusting, and balancing technician" means;
+7 (i) A technician, tradesperson, or apprentice certified to perform testing, adjusting, and
+8 balancing of heating, ventilation, and air conditioning systems by the Associated Air Balance
+9 Council, the National Environmental Balancing Bureau, or the testing, adjusting and balancing
+10 bureau; or
+11 (ii) A person certified to perform ventilation assessments of heating, ventilation, and air
+12 conditioning systems through a certification body accredited in accordance with the ISO/IEC 17024
+13 personnel certification standard.
+14 (2) "HVAC " means heating, ventilation and air conditioning.
+15 (3) "MERV " means minimum efficiency reporting value.
+16 (4) "PM2.5 " means particles less than two and one-half (2.5) micrometers in diameter.
+17 (5) "PM10 " means particles less than ten (10) micrometers in diameter.
+18 (6) "Professional engineering standards" means nationally recognized, science-based
+19 technical standards for the design, operation, maintenance, and performance of indoor spaces,
+
+1 developed through an accredited consensus process, as in effect at the time the inspection,
+2 evaluation, or work is performed. Relevant standards include, but are not limited to,
+3 ANSI/ASHRAE Standard 62.1 (ventilation for acceptable indoor air quality), ANSI/ASHRAE
+4 Standard 55 (thermal environmental conditions for human occupancy), and ASHRAE Standard 241
+5 (control of infectious aerosols).
+6 (7) "Qualified personnel" means either;
+7 (i) A certified testing, adjusting, and balancing technician; or
+8 (ii) A skilled and trained workforce under the supervision of a certified testing, adjusting,
+9 and balancing technician.
+10 (8) "Skilled and trained workforce" means a workforce, managed in conformance with the
+11 Davis-Bacon Act, 40 U.S.C. §§ 3141 through 3148, in which at least sixty percent (60%) of the
+12 workers are graduates of or registered in and attending an apprenticeship program registered with
+13 the department of labor and training, division of apprenticeship training.
+14 (9) "Verification" means the process of evaluating a system, component, or product to
+15 determine whether it complies with specified requirements, design specifications, or regulations.
+16 (b) The department of health shall establish guidelines for indoor air quality in schools,
+17 including recommended thresholds and/or rates for environmental conditions that directly affect
+18 health and learning. Required areas of focus include:
+19 (1) Temperature;
+20 (2) Humidity;
+21 (3) Carbon dioxide;
+22 (4) PM2.5;
+23 (5) PM10;
+24 (6) Ventilation; and
+25 (7) Filtration.
+26 (c) The department of education school building authority, as part of the needs survey
+27 outlined in § 16-105-3, shall expand services to include uniform inspection and evaluation of the
+28 indoor air quality within each school building, including heating, ventilation and air conditioning
+29 systems when present. The inspection shall be conducted in conjunction with local school boards,
+30 and shall identify any deficiencies from the department of health recommendations established
+31 pursuant to the provisions of subsection (b) of this section, as well as other conditions that may
+32 affect building performance or occupant health. Implementation of the expanded assessment scope
+33 under this subsection, including HVAC and indoor air quality-related evaluations, shall be subject
+34 to the availability of state funding appropriated for statewide school facility assessments. Inspection
+LC005458 - Page 2 of 5
+
+1 results shall include estimated costs to address identified issues through capital construction,
+2 renovation, maintenance, or other school facility investments, as outlined in §16-105-3. The
+3 inspection and evaluation shall be performed by qualified personnel at least once every five (5)
+4 years. The department of education shall define the assessment procedures and data collection
+5 methods, which shall include, but not be limited to, the following:
+6 (1) Environmental measurements including air temperature, humidity, carbon dioxide,
+7 PM2.5, and PM10 under occupied conditions;
+8 (2) Evaluation of filtration levels and maintenance practices;
+9 (3) Verification of the physical condition and operational performance of ventilation
+10 system components, in accordance with professional engineering standards; and
+11 (4) Verification that required maintenance of ventilation systems has been performed in
+12 accordance with professional engineering standards.
+13 (d) The department of education shall make the inspection and evaluation results easily
+14 available online and send the test results directly to:
+15 (1) Each school's principal;
+16 (2) The department of elementary and secondary education; and
+17 (3) The appropriate local school board.
+18 (e) All schools with HVAC systems shall install filtration that achieves MERV levels of
+19 thirteen (13) to the extent determined to be feasible and appropriate for the existing HVAC system,
+20 as determined by the school board, in accordance with the latest professional engineering standards
+21 and recommendations. If it is determined by the school board that the existing HVAC system is not
+22 designed to achieve MERV levels of thirteen (13), the school shall install filtration that achieves
+23 the highest level feasible without significantly reducing the lifespan or performance of the existing
+24 HVAC system. School personnel shall inspect and replace filters as recommended by manufacturer
+25 guidelines. All HVAC adjustments shall be performed by qualified personnel.
+26 (f) The department of education, in coordination with the department of health, shall submit
+27 a report to the general assembly within one year of the effective date of this section with
+28 recommendations to improve indoor air quality in public schools. The report shall provide an
+29 update on indoor air quality procedures, guidelines, and best practices, along with the status of
+30 funding necessary to support expanded indoor air quality and HVAC improvements and
+31 assessments in schools. The report shall also utilize data collected as part of the needs survey
+32 outlined in §16-105-3. Thereafter, the needs survey and corresponding report shall be conducted
+33 on a five (5) year cycle, consistent with § 16-105-3, subject to the availability of funding.
+34 (g) The department of education shall designate and publicly identify a point of contact to
+LC005458 - Page 3 of 5
+
+1 receive and respond to concerns related to indoor air quality and ventilation systems in public
+2 schools.
+3 (h) The department of health and department of education are hereby authorized to
+4 promulgate rules and regulations necessary to carry out the purposes of this section.
+5 SECTION 2. This act shall take effect upon passage.
+========
+LC005458
+========
+LC005458 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- HEALTH AND SAFETY OF PUPILS
+***
+1 This act would require inspections and evaluations of the indoor air quality of each school
+2 building, including heating, ventilation and air conditioning systems. The department of health
+3 would establish guidelines for indoor air quality in schools, including recommended thresholds and
+4 rates for environmental conditions that directly affect health and learning. The department of
+5 education in coordination with the department of health, shall submit a report to the general
+6 assembly within one year of the effective date of this section, with recommendations to improve
+7 indoor air quality in public schools.
+8 This act would take effect upon passage.
+========
+LC005458
+========
+LC005458 - Page 5 of 5

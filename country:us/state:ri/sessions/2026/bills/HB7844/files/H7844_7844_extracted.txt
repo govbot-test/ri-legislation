@@ -1,0 +1,709 @@
+Title: 
+Official Title: 
+Source: versions - 7844
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7844
+========
+LC005385
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CORPORATIONS, ASSOCIATIONS, AND PARTNERSHIPS -- RHODE
+ISLAND BUSINESS CORPORATION ACT
+Introduced By: Representative Stephen M. Casey
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 7-1.2-1401, 7-1.2-1418 and 7-1.2-1501 of the General Laws in
+2 Chapter 7-1.2 entitled "Rhode Island Business Corporation Act" are hereby amended to read as
+3 follows:
+4 7-1.2-1401. Admission of foreign corporation and other entities.
+5 (a) No foreign corporation has the right to transact business in this state until it has procured
+6 a certificate of authority to do so from the secretary of state. No foreign corporation is entitled to
+7 procure a certificate of authority under this chapter to transact any business in this state which a
+8 corporation organized under this chapter is not permitted to transact. A foreign corporation may
+9 not be denied a certificate of authority because the laws of the state or country under which the
+10 corporation is organized governing its organization and internal affairs differ from the laws of this
+11 state, and nothing contained in this chapter authorizes this state to regulate the organization or the
+12 internal affairs of the corporation.
+13 (b) Without excluding other activities which may not constitute transacting business in this
+14 state, a foreign corporation is not considered to be transacting business in this state, for the purposes
+15 of this chapter, because of carrying on in this state any one or more of the following activities:
+16 (1) Maintaining or defending any action or suit or any administrative or arbitration
+17 proceeding, or effecting the settlement of the suit or the settlement of claims or disputes.
+18 (2) Holding meetings of its directors or shareholders or carrying on other activities
+
+1 concerning its internal affairs.
+2 (3) Maintaining bank accounts.
+3 (4) Maintaining offices or agencies for the transfer, exchange, and registration of its
+4 securities, or appointing and maintaining trustees or depositaries with relation to its securities.
+5 (5) Effecting sales through independent contractors.
+6 (6) Soliciting or procuring orders, whether by mail or through employees or agents or
+7 otherwise, where the orders require acceptance outside of this state before becoming binding
+8 contracts.
+9 (7) Creating, as borrower or lender, or acquiring indebtedness or mortgages or other
+10 security interests in real or personal property.
+11 (8) Securing or collecting debts or enforcing any rights in property securing the debts.
+12 (9) Transacting any business in interstate commerce.
+13 (10) Conducting an isolated transaction completed within a period of thirty (30) days and
+14 not in the course of a number of repeated transactions of like nature.
+15 (11) Acting as a general partner of a limited partnership which has filed a certificate of
+16 limited partnership as provided in § 7-13-8 or has registered with the secretary of state as provided
+17 in § 7-13-49.
+18 (12) Acting as a member of a limited liability company which has registered with the
+19 secretary of state as provided in § 7-16-49.
+20 (c) Any “other entity”, as defined in § 7-16-5.1(a), Massachusetts trust or business trust
+21 established by law of any other state, desiring to do business in this state, is deemed to be a foreign
+22 corporation and is required to register under, and comply with the provisions of, this chapter.
+23 (d) For purposes of this chapter, a foreign corporation may be deemed to be transacting
+24 business in this state regardless of whether the foreign corporation maintains a physical presence
+25 in this state.
+26 (e) For purposes of this chapter, “physical presence” means maintaining an office, place of
+27 business, warehouse, employees, or physical agents regularly present within this state, owning or
+28 leasing real property within this state, or otherwise having a fixed location within this state. The
+29 absence of a physical presence does not, by itself, exempt any foreign corporation from the
+30 requirement to procure a certificate of authority prior to transacting business in this state.
+31 (f) Notwithstanding subsection (b) of this section, a foreign corporation that does not
+32 maintain a physical presence in this state, as defined in subsection (e) of this section, shall be
+33 deemed to be transacting business in this state if it advertises, offers, provides, performs,
+34 administers, or arranges for services to be performed for persons in this state, or if it receives
+LC005385 - Page 2 of 20
+
+1 compensation, directly or indirectly, for services provided to persons in this state or for services
+2 performed in this state. This subsection includes, without limitation, insurers and all persons or
+3 entities performing insurance claim handling services affecting risks, claims, or property in this
+4 state, as such terms are defined in § 6-13.1-1, and applies regardless of any license, registration,
+5 certificate of authority, appointment, or other authorization issued by the department of business
+6 regulation or any other agency of this state.
+7 (g) A foreign corporation that maintains a physical presence in this state, as defined in
+8 subsection (e) of this section, is subject to the requirements of this chapter only if it engages in
+9 business activities beyond those enumerated in subsection (b) of this section.
+10 (h) For purposes of this section, “insurance claim handling services” means activities
+11 including, but not limited to, acting as an appraiser, adjusting, appraising, determining causation,
+12 estimating, evaluating, inspecting, investigating, negotiating, recommending repair or replacement,
+13 scoping, or settling an insurance claim, performed by an insurer or any person or entity acting
+14 directly or indirectly on behalf of or at the direction of an insurer.
+15 7-1.2-1418. Transacting business without certificate of authority.
+16 (a) No foreign corporation transacting business in this state without a certificate of
+17 authority is permitted to maintain any action, suit, or proceeding in any court of this state, until the
+18 corporation has obtained a certificate of authority. Nor may any action, suit, or proceeding be
+19 maintained in any court of this state by any successor or assignee of the corporation on any right,
+20 claim, or demand arising out of the transaction of business by the corporation in this state, until a
+21 certificate of authority has been obtained by the corporation or by its successor.
+22 (b) The failure of a foreign corporation to obtain a certificate of authority to transact
+23 business in this state does not impair the validity of any contract or act of the corporation, and does
+24 not prevent the corporation from defending any action, suit, or proceeding in any court of this state.
+25 (c) A foreign corporation which transacts business in this state without a certificate of
+26 authority is liable to this state, for the years or parts of years during which it transacted business in
+27 this state without a certificate of authority, in an amount equal to all fees and franchise taxes which
+28 would have been imposed upon the corporation had it duly applied for and received a certificate of
+29 authority to transact business in this state as required by this chapter and subsequently filed all
+30 reports required by this chapter, plus all penalties imposed by this chapter for failure to pay the fees
+31 and franchise taxes (collectively, the "arrearage"). In addition, the foreign corporation shall be
+32 liable for an additional civil fee equal to the total amount of said arrearage. The attorney general
+33 may bring proceedings to recover all amounts due this state under the provisions of this section.
+34 (d) The superior court has jurisdiction to enjoin any foreign corporation, or any agent of a
+LC005385 - Page 3 of 20
+
+1 foreign corporation, from transacting any business in this state if the corporation fails to comply
+2 with any section of this chapter applicable to it or if the corporation secured a certificate of the
+3 secretary of state under §§ 7-1.2-1405 and 7-1.2-1406 on the basis of false or misleading
+4 representations. The attorney general may, upon motion or upon the relation of proper parties,
+5 proceed for this purpose by complaint in any county in which the corporation is doing business.
+6 (e) Except as provided in this subsection, a foreign corporation that transacts business in
+7 this state without a certificate of authority shall, in addition to the amounts due under subsection
+8 (c) of this section, shall be subject to a civil penalty of three hundred dollars ($300) for each month
+9 or part thereof during which it transacts business in this state without a certificate of authority. This
+10 monthly civil penalty shall not apply if the foreign corporation procures a certificate of authority
+11 not later than ninety (90) days after the foreign corporation commenced transacting business in this
+12 state. The burden of proving the date of commencement and eligibility for this exception shall be
+13 on the foreign corporation.
+14 (f) In addition to the monthly civil penalty in subsection (e) of this section, the secretary of
+15 state may assess an enhanced civil penalty not to exceed twelve percent (12%) of the gross receipts
+16 generated from conducting business activities in this state during the period of noncompliance. For
+17 purposes of this subsection, “gross receipts” includes all compensation, fees, premiums,
+18 commissions, or other consideration received, directly or indirectly, from persons in this state or
+19 for services performed in this state. If the foreign corporation fails to produce records sufficient to
+20 determine gross receipts attributable to business conducted in this state, the secretary of state may
+21 estimate such gross receipts based on available information, and such estimate shall be presumed
+22 correct unless rebutted by the foreign corporation with competent evidence.
+23 (g) For purposes of subsections (e) and (f) of this section, a foreign corporation
+24 “commenced transacting business in this state” on the earliest date of:
+25 (1) Contracting with a person in this state;
+26 (2) Providing, performing, administering, or arranging for services to be performed in this
+27 state;
+28 (3) Receiving payment or other compensation from a person in this state; or
+29 (4) Otherwise engaging in repeated or continuous business activity in this state. Lack of
+30 physical presence shall not delay the commencement date.
+31 (h) No license, registration, certificate, appointment, authorization, or other approval
+32 issued by the department of business regulation or any other agency of this state shall be deemed
+33 to exempt any foreign corporation from compliance with this chapter, including the obligation to
+34 procure a certificate of authority and the penalties imposed by this section. This subsection
+LC005385 - Page 4 of 20
+
+1 expressly applies to insurers and all persons or entities performing insurance claim handling
+2 services.
+3 (i) In any action brought by a private party under §§ 6-13.1-5.2 or 9-1-33, a foreign
+4 corporation that was not duly authorized at the time the cause of action arose may cure such default
+5 by becoming duly authorized; provided, however, that such cure shall not operate to bar, dismiss,
+6 defeat, or otherwise impair any claim, remedy, or cause of action arising out of unauthorized
+7 activity or business activities conducted in this state during the period of noncompliance.
+8 (j) Any officer, director, or agent of a foreign corporation who knowingly authorizes,
+9 directs, or participates in the transaction of business in this state on behalf of a foreign corporation
+10 that has not procured a certificate of authority shall be jointly and severally liable for all civil
+11 penalties, fines, and arrearages imposed under this section, and for any damages awarded to a
+12 private party under §§ 6-13.1-5.2 or 9-1-33.
+13 (k) The secretary of state, or designee, is hereby authorized and empowered to summon
+14 witnesses and compel the production of all papers, books, documents, and records necessary to
+15 determine the gross receipts of any entity for the purpose of assessing the enhanced civil penalty
+16 under subsection (f) of this section. Any person who disobeys such a request may be held in
+17 contempt in the superior court in the same manner as provided in § 42-14-11.
+18 7-1.2-1501. Annual reports of domestic and foreign corporations.
+19 (a) Each domestic corporation, and each foreign corporation authorized to transact business
+20 in this state, shall file, within the time prescribed by this chapter, an annual report stating:
+21 (1) The name of the corporation and the state or country under the laws of which it is
+22 incorporated;
+23 (2) A brief statement of the character of the business in which the corporation is actually
+24 engaged in this state;
+25 (3) The names and respective addresses of the directors and officers of the corporation;
+26 (4) [Deleted by P.L. 2021, ch. 137, § 1 and P.L. 2021, ch. 138, § 1.]
+27 (5) A statement of the aggregate number of issued shares, itemized by classes, par value of
+28 shares, if any, and series, if any, within a class; and
+29 (6) Any additional information that is required by the secretary of state.
+30 (b) The annual report must be made on forms prescribed and furnished by the secretary of
+31 state, and the information contained therein must be given as of the date of the execution of the
+32 report. It must be executed on behalf of the corporation by its authorized representative, or, if the
+33 corporation is in the hands of a receiver or trustee, it must be executed on behalf of the corporation
+34 by the receiver or trustee.
+LC005385 - Page 5 of 20
+
+1 (c) The annual report of a domestic or foreign corporation must be delivered to the secretary
+2 of state between February 1 and May 1 of each year, except that the first annual report of a domestic
+3 or foreign corporation must be filed between February 1 and May 1 of the year following the
+4 calendar year in which its articles of incorporation were filed with or its certificate of authority was
+5 issued by the secretary of state. Proof to the satisfaction of the secretary of state that prior to May
+6 1 the report was deposited in the United States mail in a sealed envelope, properly addressed, with
+7 postage prepaid, is deemed to be a compliance with this requirement.
+8 (d) If the secretary of state finds that the annual report conforms to the requirements of this
+9 chapter, the secretary of state shall file the report. If the secretary of state finds that it does not
+10 conform, the secretary of state shall promptly return the report to the corporation for any necessary
+11 corrections, in which event the penalties subsequently prescribed for failure to file the report within
+12 the time previously provided do not apply if the report is corrected to conform to the requirements
+13 of this chapter and returned to the secretary of state within thirty (30) days from the date on which
+14 it was mailed to the corporation by the secretary of state.
+15 (e) Each corporation, domestic or foreign, that fails or refuses to file its annual report for
+16 any year within thirty (30) days after the time prescribed by this chapter is subject to a penalty of
+17 twenty-five dollars ($25.00) two hundred dollars ($200) per year.
+18 SECTION 2. Section 7-6-94 of the General Laws in Chapter 7-6 entitled "Rhode Island
+19 Nonprofit Corporation Act" is hereby amended to read as follows:
+20 7-6-94. Penalties imposed upon corporation.
+21 (a) Each domestic or foreign corporation that fails or refuses to file its annual report for
+22 any year within the time prescribed by this chapter is subject to a penalty of twenty-five dollars
+23 ($25.00) two hundred dollars ($200) for each year to be assessed by the secretary of state.
+24 (b) Each domestic or foreign corporation that fails or refuses to answer truthfully and fully
+25 within the time prescribed by this chapter interrogatories propounded by the secretary of state in
+26 accordance with the provisions of this chapter, is guilty of a misdemeanor and upon conviction may
+27 be fined in any amount not exceeding five hundred dollars ($500).
+28 SECTION 3. Section 7-12.1-913 of the General Laws in Chapter 7-12.1 entitled "Uniform
+29 Partnership Act" is hereby amended to read as follows:
+30 7-12.1-913. Annual report for secretary of state.
+31 (a) A limited liability partnership or registered foreign limited liability partnership shall
+32 deliver to the secretary of state for filing an annual report that states:
+33 (1) The name of the partnership or registered foreign partnership;
+34 (2) The street and mailing addresses of its principal office;
+LC005385 - Page 6 of 20
+
+1 (3) The name of at least one partner;
+2 (4) In the case of a foreign partnership, its jurisdiction of formation and any alternate name
+3 adopted under § 7-12.1-1006;
+4 (5) A brief statement of the character of the business in which the limited liability
+5 partnership is actually engaged in this state; and
+6 (6) Any additional information that is required by the secretary of state.
+7 (b) The annual report must be made on forms prescribed and furnished by the secretary of
+8 state, and the information in the annual report must be current as of the date the report is signed by
+9 the limited liability partnership or registered foreign limited liability partnership.
+10 (c) The first annual report must be filed with the secretary of state after February 1, and
+11 before May 1, of the year following the calendar year in which the limited liability partnership’s
+12 statement of qualification became effective or the registered foreign limited liability partnership
+13 registered to do business in this state. Subsequent annual reports must be filed with the secretary of
+14 state after February 1, and before May 1, of each calendar year thereafter. Proof to the satisfaction
+15 of the secretary of state that prior to May 1 the report was deposited in the United States mail in a
+16 sealed envelope, properly addressed, with postage prepaid, is deemed to be a compliance with this
+17 requirement.
+18 (d) If the secretary of state finds that the annual report conforms to the requirements of this
+19 chapter, the secretary of state shall file the report. If an annual report does not contain the
+20 information required by this section, the secretary of state promptly shall notify the reporting
+21 limited liability partnership or registered foreign limited liability partnership in a record and return
+22 the report for correction, in which event the penalties subsequently prescribed for failure to file the
+23 report within the time previously provided do not apply if the report is corrected to conform to the
+24 requirements of this chapter and returned to the secretary of state within thirty (30) days from the
+25 date on which it was mailed to the limited liability partnership by the secretary of state.
+26 (e) Each limited liability partnership, domestic or foreign, that fails or refuses to file its
+27 annual report for any year within thirty (30) days after the time prescribed by this chapter is subject
+28 to a penalty of twenty-five dollars ($25.00) two hundred dollars ($200) per year.
+29 SECTION 4. Section 7-13.1-212 of the General Laws in Chapter 7-13.1 entitled "Uniform
+30 Limited Partnership Act" is hereby amended to read as follows:
+31 7-13.1-212. Annual report for secretary of state.
+32 (a) A limited partnership or registered foreign limited partnership shall deliver to the
+33 secretary of state for filing an annual report that states:
+34 (1) The name of the partnership or foreign partnership;
+LC005385 - Page 7 of 20
+
+1 (2) The addresses of its principal office;
+2 (3) The name and address of each general partner;
+3 (4) In the case of a foreign partnership, its jurisdiction of formation and any alternate name
+4 adopted under § 7-13.1-1006(a);
+5 (5) A brief statement of the character of the business in which the limited partnership is
+6 actually engaged in this state; and
+7 (6) Any additional information that is required by the secretary of state.
+8 (b) The annual report must be made on forms prescribed and furnished by the secretary of
+9 state, and the information in the annual report must be current as of the date the report is signed by
+10 the limited partnership or registered foreign limited partnership.
+11 (c) The first annual report must be delivered to the secretary of state for filing after February
+12 1 and before May 1 of the year following the calendar year in which the limited partnership’s
+13 certificate of limited partnership became effective or the registered foreign limited partnership
+14 registered to do business in this state. Subsequent annual reports must be delivered to the secretary
+15 of state for filing after February 1 and before May 1 of each calendar year thereafter. Proof to the
+16 satisfaction of the secretary of state that prior to May 1 the report was deposited in the United States
+17 mail in a sealed envelope, properly addressed, with postage prepaid, is deemed to be a compliance
+18 with this requirement.
+19 (d) If the secretary of state finds that the annual report conforms to the requirements of this
+20 chapter, the secretary of state shall file the report. If an annual report does not contain the
+21 information required by this section, the secretary of state promptly shall notify the reporting
+22 limited partnership or registered foreign limited partnership in a record and return the report for
+23 correction, in which event the penalties subsequently prescribed for failure to file the report within
+24 the time previously provided do not apply if the report is corrected to conform to the requirements
+25 of this chapter and returned to the secretary of state within thirty (30) days from the date on which
+26 it was mailed to the limited partnership by the secretary of state.
+27 (e) Each limited partnership, domestic or foreign, that fails or refuses to file its annual
+28 report for any year within thirty (30) days after the time prescribed by this chapter is subject to a
+29 penalty of twenty-five dollars ($25.00) two hundred dollars ($200) per year.
+30 SECTION 5. Sections 7-16-49 and 7-16-66 of the General Laws in Chapter 7-16 entitled
+31 "The Rhode Island Limited Liability Company Act" are hereby amended to read as follows:
+32 7-16-49. Registration of foreign limited liability company.
+33 (a) Before transacting business in this state, a foreign limited liability company shall
+34 register with the secretary of state. For purposes of this section, a foreign limited liability company
+LC005385 - Page 8 of 20
+
+1 is deemed to be transacting business in this state regardless of whether it maintains a physical
+2 presence in this state, and includes repeated or continuous provision of services to persons in this
+3 state, the receipt of compensation from persons in this state, and the performance of insurance claim
+4 handling services affecting risks, claims, or property in this state.
+5 (b) In order to register, a foreign limited liability company shall submit to the secretary of
+6 state, in duplicate, an application for registration as a foreign limited liability company, signed by
+7 a person with authority to do so under the laws of the state or other jurisdiction of its organization
+8 and setting forth:
+9 (1) The name of the foreign limited liability company and, if different, the name under
+10 which it proposes to register and transact business in this state;
+11 (2) The state or other jurisdiction in which the foreign limited liability company is
+12 organized and date of the foreign limited liability company’s organization;
+13 (3) The name and address of the resident agent required by § 7-16-11;
+14 (4) A statement that the secretary of state is appointed the agent of the foreign limited
+15 liability company for service of process if at any time there is no resident agent or if the resident
+16 agent cannot be found or served following the exercise of reasonable diligence;
+17 (5) The address of any office required to be maintained in the state or other jurisdiction of
+18 its organization by the laws of that state or jurisdiction;
+19 (6) A mailing address for the foreign limited liability company;
+20 (7) A statement of whether the limited liability company is to be managed by its members
+21 or by one or more managers, and if the limited liability company has managers at the time of its
+22 application, the name and address of each manager;
+23 (8) Any additional information that may be necessary or appropriate in order to enable the
+24 secretary of state to determine whether the foreign limited liability company is entitled to transact
+25 business in this state; and
+26 (9) A statement indicating whether the company has been duly organized in its state of
+27 formation as a low-profit limited liability company.
+28 (c) A foreign limited liability company that transacts business in this state without
+29 registering as required by this section shall be subject to the same civil penalties, arrearage
+30 assessments, and enforcement provisions set forth in § 7-1.2-1418(c) through (h), as if the foreign
+31 limited liability company were a foreign corporation, and such provisions shall apply
+32 notwithstanding any license, registration, certificate, appointment, authorization, or other approval
+33 issued by the department of business regulation or any other agency of this state. This subsection
+34 expressly applies to insurers and all persons or entities performing insurance claim handling
+LC005385 - Page 9 of 20
+
+1 services.
+2 7-16-66. Annual report of domestic and foreign limited liability companies.
+3 (a) Each domestic limited liability company and each foreign limited liability company
+4 authorized to transact business in this state, shall file, between the first day of February and the first
+5 day of May in each year following the calendar year in which its original articles of organization
+6 or application for registration were filed with the secretary of state, an annual report setting forth:
+7 (1) The name and address of the principal office of the limited liability company;
+8 (2) The state or other jurisdiction under the laws of which it is formed;
+9 (3) [Deleted by P.L. 2021, ch. 137, § 3 and P.L. 2021, ch. 138, § 3.]
+10 (4) The current mailing address of the limited liability company and the name or title of a
+11 person to whom communications may be directed;
+12 (5) A brief statement of the character of the business in which the limited liability company
+13 is actually engaged in this state; and
+14 (6) Any additional information required by the secretary of state.
+15 (7) [Deleted by P.L. 2021, ch. 137, § 3 and P.L. 2021, ch. 138, § 3.]
+16 (b) The information in the annual report shall be given as of the date of the execution of
+17 the report. It shall be executed by an authorized person of the domestic limited liability company
+18 and by a person with authority to do so under the laws of the state or other jurisdiction of
+19 organization of a foreign limited liability company. Proof to the satisfaction of the secretary of state
+20 that prior to May 1 the report was deposited in the United States mail in a sealed envelope, properly
+21 addressed, with postage prepaid, is deemed to be timely filed.
+22 (c) If the secretary of state finds that the annual report conforms to the requirements of this
+23 chapter, the secretary of state shall file the report. If the secretary of state finds that it does not
+24 conform, the secretary of state shall promptly return the report to the limited liability company for
+25 any necessary corrections, in which event the penalties subsequently prescribed for failure to file
+26 the report within the time previously provided do not apply if the report is corrected to conform to
+27 the requirements of this chapter and returned to the secretary of state within thirty (30) days from
+28 the date on which it was mailed to the limited liability company by the secretary of state.
+29 (d) Each limited liability company, domestic or foreign, that fails or refuses to file its
+30 annual report for any year within thirty (30) days after the time prescribed by this chapter is subject
+31 to a penalty of twenty-five dollars ($25.00) two hundred dollars ($200) per year.
+32 SECTION 6. Sections 6-1-2, 6-1-4 and 6-1-6 of the General Laws in Chapter 6-1 entitled
+33 "Filing of Trade Name" are hereby amended to read as follows:
+34 6-1-2. Indexes — Filing fee — Certified copies as evidence.
+LC005385 - Page 10 of 20
+
+1 The secretary of state shall keep an online register of all persons filing certificates and of
+2 all names or styles assumed, referred to in this chapter, including trade name certificates and
+3 business activity certificates, and, for the indexing and filing of the certificates, the secretary of
+4 state shall charge and collect a fee of twenty dollars ($20.00). A copy of the certificate, duly
+5 certified to by the secretary of state, shall be presumptive evidence in all courts in this state of the
+6 facts contained in the certificate. The secretary of state shall charge and collect twenty dollars
+7 ($20.00) for the issuance of a letter of status, as issued by the secretary of state.
+8 6-1-4. Penalty for violations.
+9 Any person or persons carrying on, conducting, or transacting business as mentioned in
+10 this chapter who shall fail to comply with the provisions of this chapter shall be imprisoned not
+11 exceeding one year, or fined not exceeding five hundred dollars ($500). The civil penalties and
+12 enforcement provisions of § 6-1-4.1 shall be in addition to, and not in lieu of, the penalties set forth
+13 in this section.
+14 6-1-6. Failure to file.
+15 No person or persons carrying on, conducting, or transacting business under any trade name
+16 shall be entitled to maintain any suit in any of the courts of this state until such person or persons
+17 have properly completed the registration as provided for in §§ 6-1-1 and 6-1-2. No person carrying
+18 on, conducting, or transacting business that is required to file a business activity certificate under §
+19 6-1-1.2 shall be entitled to maintain any suit in any of the courts of this state until such person has
+20 properly completed the filing and renewal requirements of that section. Failure to complete this
+21 registration shall not impair the validity of any contract or act of such person or persons and shall
+22 not prevent such person or persons from defending any suit in any court of this state.
+23 SECTION 7. Chapter 6-1 of the General Laws entitled "Filing of Trade Name" is hereby
+24 amended by adding thereto the following sections:
+25 6-1-1.2. Business activity certificate -- Registration and annual renewal.
+26 (a) No person shall carry on, conduct, or transact a business in this state, as defined in § 6-
+27 1-1.1, whether under a trade name or under the person's true and real name, unless the person has
+28 filed with the secretary of state an executed application for a business activity certificate. A person
+29 that is duly registered, qualified, or authorized to do business in this state under title 7
+30 ("corporations, associations and partnerships") and is in good standing with the secretary of state,
+31 and whose registration, qualification, or authorization adequately identifies the business activities
+32 conducted in this state, shall be deemed to satisfy the requirements of this section and shall not be
+33 required to file a separate business activity certificate. For purposes of this section, “person”
+34 includes a natural person acting as a sole proprietor, whether or not such person holds any
+LC005385 - Page 11 of 20
+
+1 professional, occupational, or trade license issued by this state.
+2 (b) An application for a business activity certificate shall state:
+3 (1) The true and real name of the person conducting the business;
+4 (2) The post office address, email address, and municipality where the business activity is
+5 conducted;
+6 (3) The North American Industry Classification System (NAICS) code that best represents
+7 the business activity conducted; and
+8 (4) Any additional information required by the secretary of state. If the person conducts
+9 business under a trade name, the person shall also comply with § 6-1-1.
+10 (c) A business activity certificate shall be renewed annually in accordance with § 6-1-7(a),
+11 and the secretary of state may cancel a business activity certificate under the same circumstances
+12 and notice procedures applicable to trade names under § 6-1-7(b) through (d).
+13 (d) Failure to obtain or renew a business activity certificate as required by this section shall
+14 subject the person to the civil penalties and enforcement set forth in § 6-1-4.1, and shall additionally
+15 preclude the person from maintaining any suit in the courts of this state as provided in § 6-1-6.
+16 (e) For the avoidance of doubt, this section applies to individuals and sole proprietors
+17 conducting business in this state including, but not limited to, individuals who:
+18 (1) Provide services to persons in this state while not maintaining a physical presence in
+19 this state;
+20 (2) Hold professional licenses issued by this state, but do not maintain a physical office or
+21 business location in this state; or
+22 (3) Receive compensation from persons in this state for services performed, regardless of
+23 where such services are performed.
+24 (f) The requirement to file a business activity certificate under this section applies
+25 regardless of whether the person maintains a physical presence in this state, as defined in § 7-1.2-
+26 1401(e). This requirement applies to persons performing services directly or indirectly on behalf
+27 of an insurer or insurer-retained vendor for use in the investigation, negotiation, appraisal, or
+28 settlement of an insurance claim.
+29 6-1-4.1. Civil penalties for failure to register or renew.
+30 (a) Any person who carries on, conducts, or transacts business in this state in violation of
+31 §§ 6-1-1 or 6-1-1.2 shall be subject to:
+32 (1) Arrearage equal to all fees that would have been paid for the initial filing and all annual
+33 renewals due during the period of noncompliance, plus all penalties imposed for failure to pay such
+34 fees;
+LC005385 - Page 12 of 20
+
+1 (2) An additional civil fine equal to the total arrearage described in subsection (a)(1) of this
+2 section;
+3 (3) Except as provided in subsection (b) of this section, a civil penalty of three hundred
+4 dollars ($300) for each month or part thereof during which the person conducted business in this
+5 state without the required filing or renewal; and
+6 (4) An enhanced civil penalty not to exceed twelve percent (12%) of the gross receipts
+7 generated from conducting business activities in this state during the period of noncompliance.
+8 (b) The monthly civil penalty in subsection (a)(3) of this section, shall not apply if the
+9 person files the required certificate not later than ninety (90) days after the person commenced
+10 conducting business in this state. The burden of proving the date of commencement and eligibility
+11 for this exception shall be on the person.
+12 (c) The monthly civil penalty set forth in subsection (a)(3) of this section, shall not apply
+13 to any person who maintains both a principal residence and primary place of business within this
+14 state; provided that, such person files the required certificate under § 6-1-1.2 not later than one
+15 hundred eighty (180) days after commencing business in this state.
+16 (d) The secretary of state may assess the civil penalties under this section administratively
+17 and may require the production of records sufficient to determine gross receipts attributable to
+18 business conducted in this state. If the person fails to produce records sufficient to determine such
+19 gross receipts, the secretary of state may estimate gross receipts based on available information,
+20 and such estimate shall be presumed correct unless rebutted by the person with competent evidence.
+21 The attorney general may bring proceedings to recover all amounts due under this section and to
+22 enjoin violations of this chapter.
+23 (e) No license, registration, certificate, appointment, authorization, or other approval issued
+24 by the department of business regulation or any other agency of this state shall be deemed to exempt
+25 any person from compliance with this chapter or from the penalties imposed by this section. This
+26 section expressly applies to insurers and all persons or entities performing insurance claim handling
+27 services.
+28 (f) For purposes of this section, a person “commenced conducting business in this state”
+29 on the earliest date of any activity enumerated in § 7-1.2-1418(g).
+30 (g) For purposes of this section, “gross receipts” includes all compensation, fees,
+31 premiums, commissions, or other consideration received, directly or indirectly, from persons in this
+32 state or for services performed in this state.
+33 (h) The secretary of state, or designee, may summon witnesses and compel the production
+34 of papers, books, documents, and records necessary to determine gross receipts or compliance with
+LC005385 - Page 13 of 20
+
+1 this chapter. Any person who disobeys such a request may be held in contempt in the superior court
+2 in the same manner as provided in § 42-14-11.
+3 SECTION 8. Sections 6-13.1-1, 6-13.1-2 and 6-13.1-4 of the General Laws in Chapter 6-
+4 13.1 entitled "Deceptive Trade Practices" are hereby amended to read as follows:
+5 6-13.1-1. Definitions. [Effective January 1, 2026; Effective until March 31, 2026.]
+6 As used in this chapter:
+7 (1) “Documentary material” means the original or a copy of any book, record, report,
+8 memorandum, paper, communication, tabulation, map, chart, photograph, mechanical
+9 transcription, or other tangible document or recording wherever situated.
+10 (2) “Examination” of documentary material includes the inspection, study, or copying of
+11 any documentary material, and the taking of testimony under oath or acknowledgment in respect
+12 of any documentary material or copy of any documentary material.
+13 (3) “Insurance claim handling services” means activities including, but not limited to,
+14 acting as an appraiser, adjusting, appraising, determining causation, estimating, evaluating,
+15 inspecting, investigating, negotiating, recommending repair or replacement, scoping, or settling an
+16 insurance claim, performed by an insurer or any person or entity acting directly or indirectly on
+17 behalf of or at the direction of an insurer.
+18 (4) “Person” means natural persons, corporations, trusts, partnerships, incorporated or
+19 unincorporated associations, and any other legal entity.
+20 (4)(5) “Rebate” means the return of a payment or a partial payment that serves as a discount
+21 or reduction in price.
+22 (5)(6) “Trade” and “commerce” mean the advertising, offering for sale, sale, or distribution
+23 of any services and any property, tangible or intangible, real, personal, or mixed, and any other
+24 article, commodity, or thing of value wherever situate, and include any trade or commerce directly
+25 or indirectly affecting the people of this state.
+26 (6)(7) “Unfair methods of competition and unfair or deceptive acts or practices” means any
+27 one or more of the following:
+28 (i) Passing off goods or services as those of another;
+29 (ii) Causing likelihood of confusion or of misunderstanding as to the source, sponsorship,
+30 approval, or certification of goods or services;
+31 (iii) Causing likelihood of confusion or of misunderstanding as to affiliation, connection,
+32 or association with, or certification by, another;
+33 (iv) Using deceptive representations or designations of geographic origin in connection
+34 with goods or services;
+LC005385 - Page 14 of 20
+
+1 (v) Representing that goods or services have sponsorship, approval, characteristics,
+2 ingredients, uses, benefits, or quantities that they do not have or that a person has a sponsorship,
+3 approval, status, affiliation, or connection that he or she does not have;
+4 (vi) Representing that goods are original or new if they are deteriorated, altered,
+5 reconditioned, reclaimed, used, or secondhand; and if household goods have been repaired or
+6 reconditioned, without conspicuously noting the defect that necessitated the repair on the tag that
+7 contains the cost to the consumer of the goods;
+8 (vii) Representing that goods or services are of a particular standard, quality, or grade, or
+9 that goods are of a particular style or model, if they are of another;
+10 (viii) Disparaging the goods, services, or business of another by false or misleading
+11 representation of fact;
+12 (ix) Advertising goods or services with intent not to sell them as advertised;
+13 (x) Advertising goods or services with intent not to supply reasonably expectable public
+14 demand, unless the advertisement discloses a limitation of quantity;
+15 (xi) Making false or misleading statements of fact concerning the reasons for, existence of,
+16 or amounts of price reductions;
+17 (xii) Engaging in any other conduct that similarly creates a likelihood of confusion or of
+18 misunderstanding;
+19 (xiii) Engaging in any act or practice that is unfair or deceptive to the consumer;
+20 (xiv) Using any other methods, acts, or practices that mislead or deceive members of the
+21 public in a material respect;
+22 (xv) Advertising any brand name goods for sale and then selling substituted brand names
+23 in their place;
+24 (xvi) Failure to include the brand name and/or manufacturer of goods in any advertisement
+25 of the goods for sale, and, if the goods are used or secondhand, failure to include the information
+26 in the advertisement;
+27 (xvii) Advertising claims concerning safety, performance, and comparative price unless
+28 the advertiser, upon request by any person, the consumer council, or the attorney general, makes
+29 available documentation substantiating the validity of the claim;
+30 (xviii) Representing that work has been performed on or parts replaced in goods when the
+31 work was not in fact performed or the parts not in fact replaced;
+32 (xix) Failing to separately state the amount charged for labor and the amount charged for
+33 services when requested by the purchaser as provided for in § 44-18-12(b)(3);
+34 (xx) Advertising for sale at a retail establishment the availability of a manufacturer’s rebate
+LC005385 - Page 15 of 20
+
+1 by displaying the net price of the advertised item (the price of the item after the rebate has been
+2 deducted from the item’s price) in the advertisement, unless the amount of the manufacturer’s
+3 rebate is provided to the consumer by the retailer at the time of the purchase of the advertised item.
+4 It shall be the retailer’s burden to redeem the rebate offered to the consumer by the manufacturer;
+5 or
+6 (xxi) Advertising, displaying, or offering a price for live-event tickets or short-term lodging
+7 in violation of 16 C.F.R. Part 464.
+8 6-13.1-1. Definitions. [Effective March 31, 2026.]
+9 As used in this chapter:
+10 (1) “Documentary material” means the original or a copy of any book, record, report,
+11 memorandum, paper, communication, tabulation, map, chart, photograph, mechanical
+12 transcription, or other tangible document or recording wherever situated.
+13 (2) “Examination” of documentary material includes the inspection, study, or copying of
+14 any documentary material, and the taking of testimony under oath or acknowledgment in respect
+15 of any documentary material or copy of any documentary material.
+16 (3) “Insurance claim handling services” means activities including, but not limited to,
+17 acting as an appraiser, adjusting, appraising, determining causation, estimating, evaluating,
+18 inspecting, investigating, negotiating, recommending repair or replacement, scoping, or settling an
+19 insurance claim, performed by an insurer or any person or entity acting directly or indirectly on
+20 behalf of or at the direction of an insurer.
+21 (4) “Person” means natural persons, corporations, trusts, partnerships, incorporated or
+22 unincorporated associations, and any other legal entity.
+23 (4)(5) “Rebate” means the return of a payment or a partial payment that serves as a discount
+24 or reduction in price.
+25 (5)(6) “Trade” and “commerce” mean the advertising, offering for sale, sale, or distribution
+26 of any services and any property, tangible or intangible, real, personal, or mixed, and any other
+27 article, commodity, or thing of value wherever situate, and include any trade or commerce directly
+28 or indirectly affecting the people of this state.
+29 (6)(7) “Unfair methods of competition and unfair or deceptive acts or practices” means any
+30 one or more of the following:
+31 (i) Passing off goods or services as those of another;
+32 (ii) Causing likelihood of confusion or of misunderstanding as to the source, sponsorship,
+33 approval, or certification of goods or services;
+34 (iii) Causing likelihood of confusion or of misunderstanding as to affiliation, connection,
+LC005385 - Page 16 of 20
+
+1 or association with, or certification by, another;
+2 (iv) Using deceptive representations or designations of geographic origin in connection
+3 with goods or services;
+4 (v) Representing that goods or services have sponsorship, approval, characteristics,
+5 ingredients, uses, benefits, or quantities that they do not have or that a person has a sponsorship,
+6 approval, status, affiliation, or connection that the person does not have;
+7 (vi) Representing that goods are original or new if they are deteriorated, altered,
+8 reconditioned, reclaimed, used, or secondhand; and if household goods have been repaired or
+9 reconditioned, without conspicuously noting the defect that necessitated the repair on the tag that
+10 contains the cost to the consumer of the goods;
+11 (vii) Representing that goods or services are of a particular standard, quality, or grade, or
+12 that goods are of a particular style or model, if they are of another;
+13 (viii) Disparaging the goods, services, or business of another by false or misleading
+14 representation of fact;
+15 (ix) Advertising goods or services with intent not to sell them as advertised;
+16 (x) Advertising goods or services with intent not to supply reasonably expectable public
+17 demand, unless the advertisement discloses a limitation of quantity;
+18 (xi) Making false or misleading statements of fact concerning the reasons for, existence of,
+19 or amounts of price reductions;
+20 (xii) Engaging in any other conduct that similarly creates a likelihood of confusion or of
+21 misunderstanding;
+22 (xiii) Engaging in any act or practice that is unfair or deceptive to the consumer;
+23 (xiv) Using any other methods, acts, or practices that mislead or deceive members of the
+24 public in a material respect;
+25 (xv) Advertising any brand name goods for sale and then selling substituted brand names
+26 in their place;
+27 (xvi) Failure to include the brand name and/or manufacturer of goods in any advertisement
+28 of the goods for sale, and, if the goods are used or secondhand, failure to include the information
+29 in the advertisement;
+30 (xvii) Advertising claims concerning safety, performance, and comparative price unless
+31 the advertiser, upon request by any person, the consumer council, or the attorney general, makes
+32 available documentation substantiating the validity of the claim;
+33 (xviii) Representing that work has been performed on or parts replaced in goods when the
+34 work was not in fact performed or the parts not in fact replaced;
+LC005385 - Page 17 of 20
+
+1 (xix) Failing to separately state the amount charged for labor and the amount charged for
+2 services when requested by the purchaser as provided for in § 44-18-12(b)(3);
+3 (xx) Advertising for sale at a retail establishment the availability of a manufacturer’s rebate
+4 by displaying the net price of the advertised item (the price of the item after the rebate has been
+5 deducted from the item’s price) in the advertisement, unless the amount of the manufacturer’s
+6 rebate is provided to the consumer by the retailer at the time of the purchase of the advertised item.
+7 It shall be the retailer’s burden to redeem the rebate offered to the consumer by the manufacturer;
+8 (xxi) Advertising, displaying, or offering a price for live-event tickets or short-term lodging
+9 in violation of 16 C.F.R. Part 464; or
+10 (xxii) Engaging in any act or practice that is unfair or deceptive by a person advising or
+11 assisting any veteran filing a claim for disability benefits with the Department of Veterans Affairs.
+12 6-13.1-2. Unlawful acts or practices.
+13 Unfair methods of competition and unfair or deceptive acts or practices in the conduct of
+14 any trade or commerce are declared unlawful. Without limiting the generality of the foregoing, it
+15 shall constitute an unfair or deceptive act or practice for any person to conduct or transact business
+16 in this state while required to procure a certificate of authority or register with the secretary of state
+17 under title 7 ("corporations, associations and partnerships"), to file and maintain current annual
+18 reports under title 7 ("corporations, associations and partnerships"), or to file or renew any
+19 certificate required under chapter 1 of this title ("filing of trade name"), and to fail to do so. This
+20 provision shall apply notwithstanding § 6-13.1-4 and regardless of any license, registration,
+21 certificate, appointment, authorization, or other approval issued by the department of business
+22 regulation or any other agency of this state, and shall expressly apply to insurers and all persons or
+23 entities performing insurance claim handling services.
+24 6-13.1-4. Exemptions.
+25 (a) Nothing in this chapter shall apply to actions or transactions permitted under laws
+26 administered by the department of business regulation or other regulatory body or officer acting
+27 under statutory authority of this state or the United States.
+28 (b) For actions brought by the attorney general, the exemption in subsection (a) applies
+29 only if the person claiming the exemption shows that:
+30 (1) The person’s business activities are subject to regulation by a state or federal agency;
+31 and
+32 (2) The activity or conduct is in compliance with orders, including insurance bulletins, or
+33 rules of, or a statute administered by, a federal or state government agency.
+34 (c) The exemptions set forth in subsections (a) and (b) of this section shall not apply to any
+LC005385 - Page 18 of 20
+
+1 failure to procure a certificate of authority, register, file, maintain, renew, or otherwise comply with
+2 the secretary of state filing obligations imposed by title 7 ("corporations, associations and
+3 partnerships") or chapter 1 of this title ("trade name filing"). No license, registration, certificate,
+4 appointment, authorization, or other approval issued by the department of business regulation or
+5 any other agency of this state shall be deemed to exempt any person from the requirements of title
+6 7 ("corporations, associations and partnerships") or chapter 1 if this title ("trade name filing"), or
+7 from being subject to this chapter for violations arising from such noncompliance. This subsection
+8 expressly applies to insurers and all persons or entities performing insurance claim handling
+9 services.
+10 SECTION 9. Chapter 6-13.1 of the General Laws entitled "Deceptive Trade Practices" is
+11 hereby amended by adding thereto the following section:
+12 6-13.1-31. Mandatory disclosure of registration status.
+13 (a) Every person or entity required to procure a certificate of authority, file a business
+14 activity certificate, file a trade name certificate, register, file, maintain, renew, or otherwise comply
+15 with filing obligations imposed by title 7 ("corporations, associations and partnerships") or chapter
+16 1 of this title ("trade name filing") shall, upon the written request of any person with whom it is
+17 conducting or transacting business in this state, provide a valid certificate of good standing,
+18 certificate of authority, business activity certificate, trade name certificate, or letter of status, as
+19 issued by the secretary of state, within ten (10) business days, which may be satisfied by electronic
+20 delivery or by providing a direct link to the secretary of state's online business entity verification
+21 portal.
+22 (b) Failure to provide such documentation within the time required by subsection (a) of
+23 this section, shall constitute prima facie evidence of noncompliance with the filing obligations
+24 referenced in subsection (a) of this section, and shall constitute an unfair or deceptive act or practice
+25 under this chapter.
+26 SECTION 10. Severability.
+27 If any provision of this act or the application thereof to any person or circumstance is held
+28 invalid, such invalidity shall not affect the provisions or applications of this act which can be given
+29 effect without the invalid provision or application, and to this end the provisions of this act are
+30 declared to be severable.
+31 SECTION 11. This act shall take effect upon passage.
+========
+LC005385
+========
+LC005385 - Page 19 of 20
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CORPORATIONS, ASSOCIATIONS, AND PARTNERSHIPS -- RHODE
+ISLAND BUSINESS CORPORATION ACT
+***
+1 This act would strengthen consumer protections and promote fair competition by requiring
+2 businesses that conduct business in Rhode Island, including out-of-state entities and unincorporated
+3 operators, to register and maintain required filings with the secretary of state so that Rhode Island
+4 consumers and small businesses may readily identify responsible parties, verify good standing, and
+5 effectuate service of process. This act would further establish enhanced civil penalties for
+6 unauthorized business activity, increase annual report penalties, and provide that noncompliance
+7 with secretary of state filing obligations constitutes an unfair or deceptive act or practice.
+8 This act would take effect upon passage.
+========
+LC005385
+========
+LC005385 - Page 20 of 20

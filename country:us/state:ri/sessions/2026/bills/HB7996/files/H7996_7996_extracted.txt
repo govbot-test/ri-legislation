@@ -1,0 +1,1278 @@
+Title: 
+Official Title: 
+Source: versions - 7996
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7996
+========
+LC004941
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- DEPARTMENT OF
+ENVIRONMENTAL MANAGEMENT
+Introduced By: Representatives Edwards, Cortvriend, Carson, Bennett, Cotter, Kennedy,
+Azzinaro, Donovan, Spears, and Tanzi
+Date Introduced: February 27, 2026
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 42-17.1 of the General Laws entitled "Department of Environmental
+2 Management" is hereby amended by adding thereto the following sections:
+3 42-17.1-1.1. Definitions.
+4 For the purpose of this chapter:
+5 (1) “Bureau” means the bureau of coastal resources management within the department of
+6 environmental management established pursuant to § 42-17.1-4.
+7 (2) “Community advisory board” means the advisory board established pursuant to § 42-
+8 17.1-6.1.
+9 (3) “Department” means the department of environmental management.
+10 (4) “Director” means the director of the department of environmental management or the
+11 director’s duly authorized agent.
+12 (5) “Environmental justice focus area” means a census tract that meets one or more of the
+13 following criteria:
+14 (i) Annual median household income is not more than sixty-five percent (65%) of the
+15 statewide annual median household income;
+16 (ii) The population of minorities, as defined by § 37-14.1-3, is equal to or greater than forty
+17 percent (40%) of the population;
+18 (iii) Twenty-five percent (25%) or more of the households lack English language
+
+1 proficiency; or
+2 (iv) Minorities, as defined by § 37-14.1-3, comprise twenty-five percent (25%) or more of
+3 the population and the annual median household income of the municipality in the proposed area
+4 does not exceed one hundred fifty percent (150%) of the statewide annual median household
+5 income.
+6 42-17.1-5.1. Bureau of coastal resources management – deputy director.
+7 (a) Within the bureau of coastal resources management established pursuant to § 42-17.1-
+8 4, there shall be a deputy director who shall be in the unclassified service and report to the director
+9 and who shall:
+10 (1) Collaborate with the director to execute all powers, duties and functions for coastal
+11 resources management;
+12 (2) Prepare an annual budget to address the needs of coastal resources management
+13 programs; and
+14 (3) Subject to the authority of the director, exercise all powers, duties and functions
+15 previously vested in, administered by and/or executed by the coastal resources management
+16 council, its executive director, and/or staff.
+17 42-17.1-6.1. Community advisory board.
+18 (a) There is hereby established a community advisory board within the bureau of coastal
+19 resources management, which is to work at the direction of the director to advise the director and
+20 the bureau regarding policy initiatives and program improvements.
+21 (1) The community advisory board shall consist of six (6) appointed or elected members
+22 of local government and four (4) members of the public, all appointed by the governor with the
+23 advice and consent of the senate.
+24 (i) The community advisory board shall consist of the following members of local
+25 government: Three (3) appointed or elected officials in a municipality of fewer than twenty-five
+26 thousand (25,000) in population according to the most recent census; and three (3) appointed or
+27 elected officials in a municipality of more than twenty-five thousand (25,000) in population
+28 according to the most recent census; provided, of the six (6) members who shall be appointed or
+29 elected local government officials, three (3) members shall be appointed or elected officials of a
+30 coastal community, and one member shall be an appointed or elected official in Washington county
+31 or Newport county. Further, the governor shall specify to the senate the appointed or elected office
+32 that each municipal appointment holds, the population of the municipality represented, and the
+33 member being appointed or replaced.
+34 (ii) The community advisory board shall consist of the following public members: four (4)
+LC004941 - Page 2 of 36
+
+1 members of the public with expertise in coastal policy or residing in or representing indigenous
+2 and/or environmental justice focus areas; provided, two (2) members shall reside in a coastal
+3 community.
+4 (2) The community advisory board shall hold a public hearing with prior written notice at
+5 least twice annually.
+6 (3) Elected or appointed local government officials shall hold their seats on the community
+7 advisory board for only so long as they remain in their elected or appointed office. Each municipal
+8 appointment shall cease if the appointed or elected official shall no longer hold or change the office
+9 which they held upon appointment.
+10 (4) All members of the community advisory board shall serve until their successors are
+11 appointed and qualified. Annually in January, the governor shall appoint, with the advice and
+12 consent of the senate, a member to succeed the members whose terms shall then next expire for a
+13 term of three (3) years commencing on the first day of February next following and until their
+14 successor is named and qualified. A member shall be eligible for successive appointments. A
+15 vacancy other than by expiration shall be filled in the manner of the original appointment but only
+16 for the unexpired portion of the term.
+17 (5) If the governor fails to make an appointment or fill an existing vacancy as provided in
+18 this section, the director shall make such appointment in accordance with this section and for the
+19 same terms specified in this section within thirty (30) days, but without advice and consent of the
+20 senate.
+21 (6) The members of the community advisory board shall receive no compensation.
+22 (7) The director or designee shall serve ex officio as chairperson of the community advisory
+23 board. The community advisory board shall annually elect the vice-chairperson and secretary.
+24 SECTION 2. Section 42-17.1-4 of the General Laws in Chapter 42-17.1 entitled
+25 "Department of Environmental Management" is hereby amended to read as follows:
+26 42-17.1-4. Divisions within department.
+27 Within the department of environmental management there are established the following
+28 divisions:
+29 (1) A division of parks and recreation that shall carry out those functions of the department
+30 relating to the operation and maintenance of parks and recreation areas and the establishment and
+31 maintenance of such additional recreation areas as may from time to time be acquired and such
+32 other functions and duties as may, from time to time, be assigned by the director;
+33 (2) A division of fish and wildlife management that shall carry out those functions of the
+34 department relating to the administration and management of hunting and freshwater fishing; the
+LC004941 - Page 3 of 36
+
+1 preservation of wetlands, marsh lands, freshwater lakes, streams, ponds, and wildlife; and such
+2 other related functions and duties as may be assigned by the director;
+3 (3) A division of agriculture that shall carry out those functions of the department relating
+4 to agriculture, and such other functions and duties as may from time to time be assigned by the
+5 director, including, but not limited to, plant industry, farm viability, marketing and promotion,
+6 farmland ecology and protection, plant and animal health and quarantine, pesticides, mosquito
+7 abatement, pest survey and response, food policy and security, and, in collaboration with the
+8 department of health, public health as it relates to farm production and direct marketing of farm
+9 products, and those agreed upon through memorandum of agreement with the department of health
+10 or other state agencies. The department of health shall continue to act as the lead agency for all
+11 public health issues in the state pursuant to chapter 1 of title 23. Nothing herein contained shall
+12 limit the department of health’s statutory authority, nor shall any provision herein be construed as
+13 a limitation upon the statutory authority of the department of health granted to the department under
+14 title 23, nor shall any provision herein be construed to limit the authority of the department of
+15 environmental management to enter into memoranda of agreement with any governmental agency.
+16 The chief of the division of agriculture shall report directly to the director;
+17 (4)(i) A division of coastal resources that shall carry out those functions of the department
+18 relating to harbors and harbor lines, pilotage, flood control, shore development, construction of port
+19 facilities, and the registration of boats and such other functions and duties as may, from time to
+20 time, be assigned by the director, except that the division shall not be responsible for the functions
+21 of inspection of dams and reservoirs, approving plans for construction or improvement of dams,
+22 reservoirs, and other structures in non-tidal waters, and the operation of stream-gauging stations in
+23 cooperation with the United States Geological Survey, and provided, further, that the division and
+24 its staff shall be responsible through the director of environmental management to the coastal
+25 resources management council, and the chief and the staff of the division shall serve as staff to the
+26 council;
+27 (ii) Within the division of coastal resources, there is established the bureau of coastal
+28 resources management. Notwithstanding any provision of law to the contrary, all powers, duties
+29 and functions previously vested in, and/or administered by and/or executed by the coastal resources
+30 management council, its executive director and/or staff including, but not limited to, those powers
+31 and duties in chapter 23 of title 46 entitled (“coastal resources management council”) are hereby
+32 transferred to and shall be exercised by the bureau of coastal resources management. All general
+33 laws governing the powers, duties, and functions vested in, administered by, or executed by the
+34 department shall be transferred to the bureau including, but not limited to, those provided for in
+LC004941 - Page 4 of 36
+
+1 chapter 17.1 of title 42 entitled (“department of environmental management”); chapter 17.6 of title
+2 42 entitled (“administrative penalties for environmental violations”); and chapter 17.7 of title 42
+3 entitled (“administrative adjudication for environmental matters”).
+4 (iii) Except as provided in this chapter, all existing duly promulgated regulations, guidance,
+5 policies, and special area management plans of the coastal resources management council shall
+6 continue in validity and enforceability by the department. Further, all prior actions of the coastal
+7 resources management council including, but not limited to, the issuance of determinations,
+8 permits, assents, licenses, enforcement actions, federal consistency determinations, and
+9 certifications shall be considered valid and enforceable by the department.
+10 (iv) All state and federal funds appropriated, allocated or transferred by the general
+11 assembly and/or any federal agency to the coastal resources management council or its executive
+12 director or staff including, but not limited to, all state, federal and local funds received, appropriated
+13 or allocated to or by the coastal resources management council are hereby transferred to and shall
+14 be administered by the department for the purposes conditioned by the receipt of such funds.
+15 (v) All references in the general laws to the coastal resources management council
+16 including, but not limited to, "coastal resources management council,” "council,” "subcommittees,”
+17 "commissioner,” "chairperson,” "executive director,” "council staff" its board, members, director,
+18 and staff, shall hereafter refer to the department.
+19 (vi)(A) Notwithstanding any law to the contrary, all employees of the coastal resources
+20 management council shall be considered employees of the bureau and retain civil service status,
+21 title, rate of pay and benefits. The director may engage additional staff as the director deems
+22 necessary to carry out the department’s duties.
+23 (B) There is hereby created the position(s) of staff attorney(s) within the bureau. The
+24 director shall hire at least one full-time staff attorney. The staff attorney(s) shall serve in the
+25 unclassified service.
+26 (vii) Within ninety (90) business days of the date of passage of this act, the department
+27 shall put out for notice and comment revisions of its coastal resources management program
+28 (referred to as "red book") and management procedures in order to implement the programmatic
+29 change from the council to the department. Within seven (7) days of promulgation of the revised
+30 coastal resources management program (referred to as "red book") and management procedures,
+31 the department shall submit a coastal zone management act program change request to the National
+32 Oceanic and Atmospheric Administration (NOAA) for its approval of the amendments to this
+33 statute and corresponding changes to the Rhode Island coastal resources management program.
+34 This section shall take effect upon NOAA's approval.
+LC004941 - Page 5 of 36
+
+1 (5) A division of planning and development that shall carry out those functions of the
+2 department relating to planning, programming, acquisition of land, engineering studies, and such
+3 other studies, as the director may direct, and that shall work with the Rhode Island board of
+4 education, with educational institutions at all levels, and with the public in the dissemination of
+5 information and education relating to natural resources, and shall perform the publication and
+6 public relations functions of the department, the functions of inspection of dams and reservoirs,
+7 approving plans for construction or improvement of dams, reservoirs, and other structures in non-
+8 tidal waters, and the operation of stream-gauging stations in cooperation with the United States
+9 Geological Survey;
+10 (6) A division of enforcement that shall enforce all of the laws and regulations of the
+11 department and the coastal resources management council, that shall cooperate with the other
+12 enforcement agencies of the state and its municipalities, and that shall administer all of the policing,
+13 enforcing, licensing, registration, and inspection functions of the department and such other
+14 functions and duties as may, from time to time, be assigned by the director;
+15 (7) A division of forest environment that shall carry out those functions of the department
+16 relating to the administration of forests and natural areas, including programs for utilization,
+17 conservation, forest fire protection, and improvements of these areas; assisting other agencies and
+18 local governments in urban programs relating to trees, forests, green belts, and environment and
+19 such other functions and duties as may, from time to time, be assigned by the director;
+20 (8)(i) A division of boating safety that shall carry out those functions of the department
+21 relating to the development and administration of a coordinated, safe boating program in
+22 accordance with the Model Safe Boating Act of 1971 as approved by the National Association of
+23 State Boating Law Administrators.
+24 (ii) Administration of the division of boating safety shall be the responsibility of the state
+25 boating law administrator whose duties shall include:
+26 (A) The enforcement of all laws relating to the act; and
+27 (B) The powers vested in the state boating law administrator and boating safety
+28 enforcement officer shall include the enforcement of laws, rules, and regulations relating to
+29 “Regulation of Boats,” chapter 22 of title 46, and shall also include the power to:
+30 (I) Execute all warrants and search warrants for the violation of laws, rules, and regulations
+31 relating to the act.
+32 (II) Serve subpoenas issued for the trial of all offenses hereunder.
+33 (III) To carry firearms or other weapons, concealed or otherwise, in the course of, and in
+34 performance of, their duties under this chapter.
+LC004941 - Page 6 of 36
+
+1 (IV) To arrest without warrant and on view any person found violating any law, rule, or
+2 regulation relating to the act; take that person before a court having jurisdiction for trial; detain that
+3 person in custody at the expense of the state until arraignment; and to make and execute complaints
+4 within any district to the justice or clerk of the court against any person for any of the offenses
+5 enumerated under the act committed within the district.
+6 (V) Boating safety enforcement officers shall not be required to give surety for costs upon
+7 any complaint made by them.
+8 (iii) The development and administration of a coordinated, safe boating program.
+9 (iv) The establishment and enforcement of such rules and regulations as are deemed
+10 necessary to achieve the purposes of the Model Safe Boating Act as approved by the state boating
+11 law administrators.
+12 (v) The state boating law administrator shall serve as the liaison to the United States Coast
+13 Guard; and
+14 (9) A division of marine fisheries management that shall carry out those functions of the
+15 department relating to the administration, management, and harvest of marine animal and plant
+16 species found in Rhode Island marine waters, including, but not limited to: stock assessments of
+17 marine species; harvest of marine species regulated under a regional federal fisheries management
+18 plan; the review of aquaculture applications before the CRMC; a commercial fishing licensing
+19 program; fixing seasons, bag limits, size limits, possession limits, and methods of taking on any
+20 marine plant and animal species; and such other related functions and duties as may be assigned by
+21 the director.
+22 SECTION 3. Sections 46-23-1, 46-23-6, 46-23-6.1, 46-23-6.2, 46-23-7, 46-23-7.1, 46-23-
+23 7.2, 46-23-7.4, 46-23-7.5, 46-23-8, 46-23-9, 46-23-10, 46-23-13, 46-23-14, 46-23-15, 46-23-15.1,
+24 46-23-16, 46-23-18, 46-23-18.1, 46-23-18.2, 46-23-18.3, 46-23-18.4, 46-23-18.5, 46-23-18.6, 46-
+25 23-20, 46-23-21, 46-23-22, 46-23-23, 46-23-24 and 46-23-25 of the General Laws in Chapter 46-
+26 23 entitled "Coastal Resources Management Council" are hereby amended to read as follows:
+27 46-23-1. Legislative findings.
+28 (a)(1) Under article 1, § 17 of the Rhode Island Constitution, the people shall continue to
+29 enjoy and freely exercise all the rights of fishery, and the privileges of the shore, to which they
+30 have been heretofore entitled under the charter and usages of this state, including, but not limited
+31 to, fishing from the shore, the gathering of seaweed, leaving the shore to swim in the sea and
+32 passage along the shore; and they shall be secure in their rights to use and enjoyment of the natural
+33 resources of the state with due regard for the preservation of their values; and it is the duty of the
+34 general assembly to provide for the conservation of the air, land, water, plant, animal, mineral and
+LC004941 - Page 7 of 36
+
+1 other natural resources of the state, and to adopt all means necessary and proper by law to protect
+2 the natural environment of the people of the state by providing adequate resource planning for the
+3 control and regulation of the use of the natural resources of the state and for the preservation,
+4 regeneration, and restoration of the natural environment of the state.
+5 (2) The general assembly recognizes and declares that the coastal resources of Rhode
+6 Island, a rich variety of natural, commercial, industrial, recreational, and aesthetic assets, are of
+7 immediate and potential value to the present and future development of this state; that unplanned
+8 or poorly planned development of this basic natural environment has already damaged or destroyed,
+9 or has the potential of damaging or destroying, the state’s coastal resources, and has restricted the
+10 most efficient and beneficial utilization of these resources; that it shall be the policy of this state to
+11 preserve, protect, develop, and, where possible, restore the coastal resources of the state for this
+12 and succeeding generations through comprehensive and coordinated long range planning and
+13 management designed to produce the maximum benefit for society from these coastal resources;
+14 and that preservation and restoration of ecological systems shall be the primary guiding principle
+15 upon which environmental alteration of coastal resources will be measured, judged, and regulated.
+16 (b)(1) That effective implementation of these policies is essential to the social and
+17 economic well-being of the people of Rhode Island because the sea and its adjacent lands are major
+18 sources of food and public recreation, because these resources are used by and for industry,
+19 transportation, waste disposal, and other purposes, and because the demands made on these
+20 resources are increasing in number, magnitude, and complexity; and that these policies are
+21 necessary to protect the public health, safety, and general welfare. Pursuant to 16 U.S.C. § 1452
+22 (“The Coastal Zone Management Act”), the general assembly hereby directs the council bureau of
+23 coastal resources management, established pursuant to § 42-17.1-4, (referred to as “CRMC” the
+24 “bureau”) to exercise effectively its responsibilities in the coastal zone through the development
+25 and implementation of management programs to achieve wise use of the land and water resources
+26 of the coastal zone.
+27 (2) Furthermore, that implementation of these policies is necessary in order to secure the
+28 rights of the people of Rhode Island to the use and enjoyment of the natural resources of the state
+29 with due regard for the preservation of their values, and in order to allow the general assembly to
+30 fulfill its duty to provide for the conservation of the air, land, water, plant, animal, mineral, and
+31 other natural resources of the state, and to adopt all means necessary and proper by law to protect
+32 the natural environment of the people of the state by providing adequate resource planning for the
+33 control and regulation of the use of the natural resources of the state and for the preservation,
+34 regeneration, and restoration of the natural environment of the state.
+LC004941 - Page 8 of 36
+
+1 (c) That these policies can best be achieved through the creation of a coastal resources
+2 management council the bureau as the principal mechanism for management of the state’s coastal
+3 resources.
+4 (d) The general assembly recognizes and declares that maintenance dredging is required to
+5 remove natural silt accumulations; Rhode Island has not had a general maintenance dredging policy
+6 and programs for ports, port facilities, channels, harbors, public and private marinas and boating
+7 facilities, recreational facilities and habitat areas; other major coastal states have maintenance
+8 dredging policies and in-water maintenance dredge disposal sites; as a result of the lack of a general
+9 maintenance dredging policy and program and as a result there has been:
+10 (1) A decrease in the depth of the Providence Channel from forty-four (44) feet in 1971 to
+11 twenty-four (24) feet in 1996;
+12 (2) Navigational restrictions on ocean going vessels through the state’s waterways and
+13 channels; and
+14 (3) A decrease in the number of available slips and moorings at marinas throughout the
+15 state; and the lack of a maintenance dredging policy and programs have significant adverse
+16 environmental and economic effects on the state and therefore it is in the best interest of the state,
+17 the cities and towns of the state, and the citizens thereof for the state to have a general maintenance
+18 dredging policy and programs to resolve issues related to dredge maintenance and disposal and
+19 avoid future significant direct and indirect adverse impact on the environment and economy of the
+20 state.
+21 (e) The coastal resources management council bureau is hereby designated as the lead state
+22 agency for purposes of dredging in tidal waters and as such shall have the following duties and
+23 responsibilities:
+24 (1) To coordinate the interest of the state with regard to dredging;
+25 (2) To formulate and adopt a state policy with regard to dredging which integrates those
+26 interests;
+27 (3) To cooperate with, negotiate, and to enter into agreements on behalf of the state with
+28 the federal government and with other public bodies and private parties with regard to dredging;
+29 (4) To act as the initial and primary point of contact for all applications to the state for
+30 dredging projects in tidal waters;
+31 (5) To develop, prepare, adopt pursuant to § 46-23-11, implement, and maintain a
+32 comprehensive plan for dredge material management; and
+33 (6) To cooperate and coordinate with the departments of environmental management,
+34 transportation, administration, and health, and the economic development corporation in the
+LC004941 - Page 9 of 36
+
+1 conduct of these duties and responsibilities.
+2 (f)(1) The legislature recognizes that under Article I, § 17, the submerged lands of the state
+3 are impressed with a public trust and that the state is responsible for the protection of the public’s
+4 interest in these lands. The state maintains title in fee to all soil within its boundaries that lies below
+5 the high water mark, and it holds that land in trust for the use of the public. In benefiting the public,
+6 the state preserves certain public rights which include, but are not limited to, fishery, commerce,
+7 and navigation in these waters and the submerged lands that they cover.
+8 (2) Since its establishment in 1971, the CRMC The bureau has had the authority is
+9 authorized to manage and plan for the preservation of the coastal resources of the state including,
+10 but not limited to, submerged lands. The legislature hereby declares that, in light of the unique size,
+11 scope, and overall potential impact upon the environment of large scale filling projects involving
+12 twenty-five (25) acres or more, any lease of tidal lands, or any license to use those lands, is subject
+13 to approval, disapproval, or conditional approval by the direct enactment of the general assembly
+14 by legislative action. The CRMC bureau shall review all requests for leases, licenses to use the
+15 land, and other authority to use the land made by any applicant prior to presentation of the request
+16 to the general assembly, and the CRMC bureau shall make recommendations on the request to the
+17 general assembly. With the exception of any and all projects to fill land of twenty-five (25) acres
+18 or more, the general assembly hereby recognizes and declares that the CRMC bureau is delegated
+19 the sole and exclusive authority for the leasing of submerged and filled lands and giving licenses
+20 for the use of that land. Accordingly, the CRMC bureau will develop, coordinate, and adopt a
+21 system for the leasing of submerged and filled lands, and licenses for the use of that land, and will
+22 ensure that all leases and licenses are consistent with the public trust. Pursuant thereto, the CRMC
+23 bureau shall impose a maximum fee of eighty thousand dollars ($80,000) per annum for any
+24 transatlantic cable that makes landfall in Rhode Island. All such fees collected shall be deposited
+25 into the Bays, Rivers and Watersheds Fund, established pursuant to § 46-31-12.1, and shall be
+26 disbursed according to the purposes of that fund. Nothing contained in this subsection negates,
+27 repeals, or alters the provisions, processes, and requirements for the leasing of submerged land for
+28 the conduct of aquaculture as set out under chapter 10 of title 20. Therefore, nothing in this chapter
+29 shall be construed to limit or impair the authority of the state, or any duly established agency of the
+30 state, to regulate filling or dredging affecting tidal lands owned by the state or any other entity, and
+31 nothing in this chapter shall be construed to limit or impair the obligation of the applicant to obtain
+32 all applicable regulatory approvals. Specifically, and without limiting the foregoing, nothing in this
+33 subsection negates, repeals, or alters the provisions, processes, and requirements for water quality
+34 certification contained in chapter 12 of this title.
+LC004941 - Page 10 of 36
+
+1 (3) Definitions.
+2 (i) “Bureau of coastal resources management” or “bureau” means the subdivision of the
+3 department of environmental management established pursuant to § 42-17.1-4.
+4 (ii) “Filled land” means portions of tidal lands which have been rendered by the acts of
+5 man to be no longer subject to tidal action or beneath tidal waters.
+6 (iii) “Mean high water” means a line of contour representing the 18.6 year average as
+7 determined by the metonic cycle and/or its equivalent as evidenced by the records, tidal datum, and
+8 methodology of the United States Coastal Geodetic Survey within the National Oceanic and
+9 Atmospheric Administration.
+10 (iv) “Tidal Lands” means those lands that are below the mean high water.
+11 46-23-6. Powers and duties — Rights-of-way.
+12 In order to properly manage coastal resources the council bureau has the following powers
+13 and duties:
+14 (1) Planning and management.
+15 (i) The primary responsibility of the council bureau shall be the continuing planning for
+16 and management of the resources of the state’s coastal region. The council bureau shall be able to
+17 make any studies of conditions, activities, or problems of the state’s coastal region needed to carry
+18 out its responsibilities.
+19 (ii) The resources management process shall include the following basic phases:
+20 (A) Identify all of the state’s coastal resources, water, submerged land, air space, fin fish,
+21 shellfish, minerals, physiographic features, and so forth.
+22 (B) Evaluate these resources in terms of their quantity, quality, capability for use, and other
+23 key characteristics.
+24 (C) Determine the current and potential uses of each resource.
+25 (D) Determine the current and potential problems of each resource.
+26 (E) Formulate plans and programs for the management of each resource, identifying
+27 permitted uses, locations, protection measures, and so forth.
+28 (F) Carry out these resources management programs through implementing authority and
+29 coordination of state, federal, local, and private activities.
+30 (G) Formulation of standards where these do not exist, and reevaluation of existing
+31 standards.
+32 (H) To develop comprehensive programs for dredging in tidal waters and related beneficial
+33 use, disposal, monitoring dewatering and transportation of dredge materials.
+34 (I) To accept and administer loans and grants from the federal government and from other
+LC004941 - Page 11 of 36
+
+1 sources, public or private, for the carrying out of any of its functions, which loans or grants shall
+2 not be expended for other than the purposes for which provided.
+3 (J) To encourage, participate in, or conduct studies, investigations, research, and
+4 demonstrations relating to dredging, disposal of dredge materials and transportation thereof in the
+5 tidal waters of the state as the coastal resources management council bureau may deem advisable
+6 and necessary for the discharge of its duties under this chapter.
+7 (K) To collect and disseminate information relating to dredging, disposal of dredge
+8 materials and transportation thereof within the tidal waters of the state.
+9 (L) To work with the appropriate federal and state agencies to develop as provided for in
+10 this chapter and in chapter 6.1 of this title, a comprehensive plan for dredging in tidal waters and
+11 related beneficial use, disposal, monitoring dewatering and transportation of dredge materials.
+12 (M) To apply for, accept and expend grants and bequests of funds, for the purpose of
+13 carrying out the lawful responsibilities of the coastal resources management council bureau.
+14 (iii) An initial series of resources management activities shall be initiated through this basic
+15 process, then each phase shall continuously be recycled and used to modify the council’s bureau’s
+16 resources management programs and keep them current.
+17 (iv) Planning and management programs shall be formulated in terms of the characteristics
+18 and needs of each resource or group of related resources. However, all plans and programs shall be
+19 developed around basic standards and criteria, including:
+20 (A) The need and demand for various activities and their impact upon ecological systems.
+21 (B) The degree of compatibility of various activities.
+22 (C) The capability of coastal resources to support various activities.
+23 (D) Water quality standards set by the director of the department of environmental
+24 management.
+25 (E) Consideration of plans, studies, surveys, inventories, and so forth prepared by other
+26 public and private sources.
+27 (F) Consideration of contiguous land uses and transportation facilities.
+28 (G) Whenever possible consistency with the state guide plan.
+29 (v) The council bureau shall prepare, adopt, administer, and cause to be implemented,
+30 including specifically through its powers of coordination as set forth in subdivision (3) of this
+31 section, a marine resources development plan and such special area management plans as the
+32 council bureau may determine to be appropriate or desirable as follows:
+33 (A) Marine resources development plan.
+34 (I) The purpose of the marine resources development plan shall be to provide an integrated
+LC004941 - Page 12 of 36
+
+1 strategy for: (a) improving the health and functionality of Rhode Island’s marine ecosystem; (b)
+2 providing for appropriate marine-related economic development; and (c) promoting the use and
+3 enjoyment of Rhode Island’s marine resources by the people of the state.
+4 (II) The marine resources development plan shall include specific goals and objectives
+5 necessary to accomplish its purposes, performance measures to determine progress toward
+6 achieving such goals and objectives, and an implementation program.
+7 (III) The marine resources development plan shall be prepared in cooperation with the
+8 department of environmental management, the statewide planning program, and the commerce
+9 corporation, with the involvement of such other state agencies as may be appropriate, and with such
+10 technical support as may be necessary and appropriate from the Narragansett Bay Estuary Program,
+11 the Coastal Institute at the University of Rhode Island, and Rhode Island Sea Grant.
+12 (IV) The plan shall be responsive to the requirements and principles of the federal coastal
+13 zone management act as amended, including, but not limited to, the expectations of the act for
+14 incorporating the federal Clean Water Act into coastal zone management programs.
+15 (V) The marine resources development plan shall take into account local land use
+16 management responsibilities as provided for under title 45 and harbor management responsibilities,
+17 and the preparation of the plan shall include opportunities for involvement and/or comment by
+18 cities and towns.
+19 (VI) The marine resources development plan shall be adopted by the council in accordance
+20 with the provisions of this subsection by July 1, 2005, shall as appropriate incorporate the
+21 recommendations of the Governor’s Narragansett Bay and Watershed Planning Commission, and
+22 shall be made consistent with systems level plans as appropriate, in order to effectuate the purposes
+23 of systems level planning. The council bureau shall update the marine resources development plan
+24 at least once every five (5) years.
+25 (VII) The council bureau shall administer its programs, regulations, and implementation
+26 activities in a manner consistent with the marine resources development plan.
+27 (VIII) The marine resources development plan and any updates thereto shall be adopted as
+28 appropriate as elements of the state guide plan pursuant to § 42-11-10.
+29 (B) Special area management plans.
+30 (I) The council bureau shall adopt such special area management plans as deemed
+31 necessary and desirable to provide for the integration and coordination of the protection of natural
+32 resources, the promotion of reasonable coastal-dependent economic growth, and the improved
+33 protection of life and property in the specific areas designated council bureau as requiring such
+34 integrated planning and coordination.
+LC004941 - Page 13 of 36
+
+1 (II) The integrated planning and coordination herein specified shall include, but not be
+2 limited to, federal agencies, state agencies, boards, commissions, and corporations, including
+3 specifically the commerce corporation, and cities and towns, shall utilize to the extent appropriate
+4 and feasible the capacities of entities of higher education, including Rhode Island Sea Grant, and
+5 shall provide for the participation of advocacy groups, community-based organizations, and private
+6 persons.
+7 (III) The council bureau shall administer its programs, regulations, and implementation
+8 activities in a manner consistent with special area management plans.
+9 (IV) Special area management plans and any updates thereto shall be adopted as
+10 appropriate as elements of the state guide plan pursuant to § 42-11-10.
+11 (2) Implementation.
+12 (i) The council bureau is authorized to formulate policies and plans and to adopt regulations
+13 necessary to implement its various management programs. With respect to such policies and plans
+14 which relate to matters where the coastal resources management council bureau and the department
+15 of environmental management have concurrent jurisdiction and upon formulation of the plans and
+16 regulations, the council bureau shall, prior to adoption, submit the proposed plans or regulations to
+17 the director of the department of environmental management for the director’s review. The director
+18 shall review and submit comments to the council bureau within thirty (30) days of submission to
+19 the director by the council bureau. The comments of the director shall include findings with regard
+20 to the consistency of the policies, plans and/or regulations with the requirements of laws
+21 administered by the department. The council bureau shall consider the director’s comments prior
+22 to adoption of any such policies, plans or regulations and shall respond in writing to findings of the
+23 director with regard to the consistency of said policies, plans and/or regulations with the
+24 requirements of laws administered by the department.
+25 (ii)(A) The council bureau shall have exclusive jurisdiction below mean high water for all
+26 development, operations, and dredging, consistent with the requirements of chapter 6.1 of this title
+27 and except as necessary for the department of environmental management to exercise its powers
+28 and duties and to fulfill its responsibilities pursuant to §§ 42-17.1-2 and 42-17.1-24, and any
+29 person, firm, or governmental agency proposing any development or operation within, above, or
+30 beneath the tidal water below the mean high water mark, extending out to the extent of the state’s
+31 jurisdiction in the territorial sea, shall be required to demonstrate that its proposal would not:
+32 (I) Conflict with any resources management plan or program;
+33 (II) Make any area unsuitable for any uses or activities to which it is allocated by a
+34 resources management plan or program adopted by the council bureau; or
+LC004941 - Page 14 of 36
+
+1 (III) Significantly damage the environment of the coastal region.
+2 (B) The council bureau shall be authorized to approve, modify, set conditions for, or reject
+3 any such proposal.
+4 (iii) The authority of the council bureau over land areas (those areas above the mean high
+5 water mark) shall be limited to two hundred feet (200′) from the coastal physiographic feature or
+6 to that necessary to carry out effective resources management programs. This shall be limited to
+7 the authority to approve, modify, set conditions for, or reject the design, location, construction,
+8 alteration, and operation of specified activities or land uses when these are related to a water area
+9 under the agency’s jurisdiction, regardless of their actual location. The council’s bureau’s authority
+10 over these land uses and activities shall be limited to situations in which there is a reasonable
+11 probability of conflict with a plan or program for resources management or damage to the coastal
+12 environment. These uses and activities are:
+13 (A) Power generating over forty megawatts (40 MW) and desalination plants.
+14 (B) Chemical or petroleum processing, transfer, or storage.
+15 (C) Minerals extraction.
+16 (D) Shoreline protection facilities and physiographical features, and all directly associated
+17 contiguous areas which are necessary to preserve the integrity of the facility and/or features.
+18 (E) Coastal wetlands and all directly associated contiguous areas which are necessary to
+19 preserve the integrity of the wetlands including any freshwater wetlands located in the vicinity of
+20 the coast. The actual determination of freshwater wetlands located in coastal vicinities and under
+21 the jurisdiction of the coastal resources management council shall be designated on such maps that
+22 are agreed to in writing and made available for public use by the coastal resources management
+23 council and the director, department of environmental management, within three (3) months of
+24 [August 6, 1996]. The CRMC bureau shall have exclusive jurisdiction over the wetlands areas
+25 described in this section notwithstanding any provision of chapter 1, title 2 or any other provision,
+26 except as provided in subsection (iv) of this section. Within six (6) months of [August 6, 1996] the
+27 council in cooperation with the director shall develop rules and regulations for the management
+28 and protection of freshwater wetlands, affected by an aquaculture project, outside of those
+29 freshwater wetlands located in the vicinity of the coast and under the exclusive jurisdiction of the
+30 director of the department of environmental management. For the purpose of this chapter, a “coastal
+31 wetland” means any salt marsh bordering on the tidal waters of this state, whether or not the tidal
+32 waters reach the littoral areas through natural or artificial watercourses, and those uplands directly
+33 associated and contiguous thereto which are necessary to preserve the integrity of that marsh.
+34 Marshes shall include those areas upon which grow one or more of the following: smooth cordgrass
+LC004941 - Page 15 of 36
+
+1 (spartina alterniflora), salt meadow grass (spartina patens), spike grass (distichlis spicata), black
+2 rush (juncus gerardi), saltworts (salicornia spp.), sea lavender (limonium carolinianum), saltmarsh
+3 bulrushes (scirpus spp.), hightide bush (iva frutescens), tall reed (phragmites communis), tall
+4 cordgrass (spartina pectinata), broadleaf cattail (typha latifolia), narrowleaf cattail (typha
+5 angustifolia), spike rush (eleocharis rostellata), chairmaker’s rush (scirpus amercana), creeping
+6 bentgrass (agrostis palustris), sweet grass (hierochloe odorata), and wild rye (etlymus virginicus).
+7 (F) Sewage treatment and disposal and solid waste disposal facilities.
+8 (G) Beneficial use, dewatering, and disposal of dredged material of marine origins, where
+9 such activities take place within two hundred feet (200′) of mean high water or a coastal
+10 physiographic feature, or where there is a reasonable probability of conflict with a plan or program
+11 for resources management or damage to the coastal environment.
+12 (iv) Notwithstanding the provisions of subsections (ii) and (iii) above, the department of
+13 environmental management shall maintain jurisdiction over the administration of chapter 1, title 2,
+14 including permitting of freshwater wetlands alterations and enforcement, with respect to all
+15 agricultural activities undertaken by a farmer, as that term is defined in § 2-1-22(j), wherever
+16 located; provided, however, that with respect to activities located partially or completely within
+17 two hundred feet (200′) of the coastal physiographic feature, the department shall exercise
+18 jurisdiction in consultation with the council bureau.
+19 (3) Coordination. The council bureau has the following coordinating powers and duties:
+20 (i) Functioning as a binding arbitrator in any matter of dispute involving both the resources
+21 of the state’s coastal region and the interests of two (2) or more municipalities or state agencies.
+22 (ii) Consulting and coordinating actions with local, state, regional, and federal agencies
+23 and private interests.
+24 (iii) Conducting or sponsoring coastal research.
+25 (iv) Advising the governor, the general assembly, and the public on coastal matters.
+26 (v) Serving as the lead state agency and initial and primary point of contact for dredging
+27 activities in tidal waters and in that capacity, integrating and coordinating the plans and policies of
+28 other state agencies as they pertain to dredging in order to develop comprehensive programs for
+29 dredging as required by subparagraph (1)(ii)(H) of this section and chapter 6.1 of this title. The
+30 Rhode Island resource recovery corporation prior to purchasing cover material for the state landfill
+31 shall first contact the CRMC bureau to see if there is a source of suitable dredged material available
+32 which shall be used in place of the purchase cover material. Other state agencies engaged in the
+33 process of dump closures shall also contact the CRMC bureau to see if there is a source of suitable
+34 dredged material available, which shall be used in place of the purchase cover material. In addition,
+LC004941 - Page 16 of 36
+
+1 cities and towns may contact the CRMC bureau prior to closing city or town controlled dump sites
+2 to see if there is a source of suitable dredge material available, which may be used in place of the
+3 purchase cover material.
+4 (vi) Acting as the state’s representative to all bodies public and private on all coastal and
+5 aquaculture related matters.
+6 (4) Operations. The council bureau is authorized to exercise the following operating
+7 functions, which are essential to management of coastal resources:
+8 (i) Issue, modify, or deny permits for any work in, above, or beneath the areas under its
+9 jurisdiction, including conduct of any form of aquaculture.
+10 (ii) Issue, modify, or deny permits for dredging, filling, or any other physical alteration of
+11 coastal wetlands and all directly related contiguous areas which are necessary to preserve the
+12 integrity of the wetlands, including, but not limited to, the transportation and disposal of dredge
+13 materials in the tidal waters.
+14 (iii) Grant licenses, permits, and easements for the use of coastal resources which are held
+15 in trust by the state for all its citizens, and impose fees for private use of these resources.
+16 (iv) Determining the need for and establishing pierhead, bulkhead, and harbor lines.
+17 (v) Enforcing and implementing riparian rights in the tidal waters after judicial decisions.
+18 (vi) The council bureau may require an owner or operator of a commercial wharf or pier of
+19 a marine commercial facility, as defined in 300.3 of the Rhode Island coastal resources
+20 management program, but not including those facilities defined in 300.4 of the Rhode Island coastal
+21 resources management program, and which is capable of offloading cargo, and is or will be subject
+22 to a new use or a significant intensification of an existing use, to demonstrate that the commercial
+23 wharf or pier is fit for that purpose. For the purposes of this subsection, a “commercial wharf or
+24 pier” means a pier, bulkhead, wharf, docking facility, or underwater utilities. The council bureau
+25 may order said owner or operator to provide an engineering certification to the council’s bureau’s
+26 satisfaction that the commercial wharf or pier is fit for the new use or intensification of an existing
+27 use. If the council bureau determines that the commercial wharf or pier is not fit, it may order the
+28 owner or operator to undertake the necessary work to make the commercial wharf or pier safe,
+29 within a reasonable time frame. If the council bureau determines that the commercial wharf or pier,
+30 because of its condition, is an immediate threat to public health and safety it may order the
+31 commercial wharf or pier closed until the necessary work to make the commercial wharf or pier
+32 safe has been performed and approved by the council bureau. All work performed must conform
+33 to the council’s bureau’s management program. The council bureau is also given the authority to
+34 develop regulations to carry out this provision and to impose administrative penalties of five
+LC004941 - Page 17 of 36
+
+1 thousand dollars ($5,000) per day up to a maximum of twenty thousand dollars ($20,000) consistent
+2 with § 46-23-7.1 where there has been a violation of the orders under this provision.
+3 (5) Rights-of-way.
+4 (i) The council bureau is responsible for the designation of all public rights-of-way to the
+5 tidal water areas of the state, and shall carry on a continuing discovery of appropriate public rights-
+6 of-way to the tidal water areas of the state.
+7 (ii) The council bureau shall maintain a complete file of all official documents relating to
+8 the legal status of all public rights-of-way to the tidal water areas of the state.
+9 (iii)(A) The council bureau has the power to designate for acquisition and development,
+10 and posting, and all other functions of any other department for tidal rights-of-way and land for
+11 tidal rights-of-way, parking facilities, and other council bureau related purposes.
+12 (B) Further, the council bureau has the power to develop and prescribe a standard sign to
+13 be used by the cities and towns to mark designated rights-of-way.
+14 (iv) In conjunction with this subdivision, every state department controlling state-owned
+15 land close to or adjacent to discovered rights-of-way is authorized to set out the land, or so much
+16 of the land that may be deemed necessary for public parking.
+17 (v) No use of land for public parking shall conflict with existing or intended use of the land,
+18 and no improvement shall be undertaken by any state agency until detailed plans have been
+19 submitted to and approved by the governing body of the local municipality.
+20 (vi) In designating rights-of-way, the council bureau shall consider the following matters
+21 in making its designation:
+22 (A) Land evidence records;
+23 (B) The exercise of domain over the parcel such as maintenance, construction, or upkeep;
+24 (C) The payment of taxes;
+25 (D) The creation of a dedication;
+26 (E) Public use;
+27 (F) Any other public record or historical evidence such as maps and street indexes;
+28 (G) Other evidence as set out in § 42-35-10.
+29 (vii) A determination by the council bureau that a parcel is a right-of-way shall be decided
+30 by substantial evidence. A copy of the final council bureau determination, and all official
+31 documents related to the council bureau determination, shall be provided to the municipality in
+32 which the right-of-way is located.
+33 (viii) Municipalities shall be required to identify and maintain a current list of public rights-
+34 of-way to the tidal water areas in their municipality that have been designated by the council bureau
+LC004941 - Page 18 of 36
+
+1 in accordance with this section. Municipal identification of the council’s bureau’s designated public
+2 rights-of-way shall also be incorporated and displayed on official maps in accordance with § 45-
+3 23.1-1. Non-compliance with this municipal responsibility shall have no effect on the council
+4 bureau designation process or final determinations by the council bureau that are set forth in this
+5 section.
+6 (ix) The council bureau shall be notified whenever by the judgment of the governing body
+7 of a coastal municipality, a public right-of-way to tidal water areas located in such municipality has
+8 ceased to be useful to the public, and such governing body proposes an order of abandonment of
+9 such public right-of-way. Said notice shall be given not less than sixty (60) days prior to the date
+10 of such abandonment.
+11 (6) Preexisting residential boating facilities.
+12 (i) The council is hereby authorized and empowered to issue assent for preexisting
+13 residential boating facilities constructed prior to January 1, 1985. These assents may be issued for
+14 preexisting residential boating facilities, even though such facilities do not meet current standards
+15 and policies of the council; provided, however, that the council finds that such facilities do not pose
+16 any significant risk to the coastal resources of the state of Rhode Island and do not endanger human
+17 safety.
+18 (ii) In addition to the above criteria, the applicant shall provide clear and convincing
+19 evidence that:
+20 (A) The facility existed in substantially the same configuration as it now exists prior to
+21 January 1, 1985;
+22 (B) The facility is presently intact and functional; and
+23 (C) The facility presents no significant threat to the coastal resources of the state of Rhode
+24 Island or human safety.
+25 (iii) The applicant, to be eligible for this provision, shall apply no later than January 31,
+26 1999.
+27 (iv) The council is directed to develop rules and regulations necessary to implement this
+28 subdivision.
+29 (v) It is the specific intent of this subsection to require that all preexisting residential
+30 boating facilities constructed on January 1, 1985, or thereafter conform to this chapter and the plans,
+31 rules and regulations of the council bureau.
+32 (7) Lease of filled lands which were formerly tidal lands to riparian or littoral owners.
+33 (i) Any littoral or riparian owner in this state who desires to obtain a lease from the state
+34 of Rhode Island of any filled lands adjacent to his or her upland shall apply to the council bureau,
+LC004941 - Page 19 of 36
+
+1 which may make the lease. Any littoral or riparian owner who wishes to obtain a lease of filled
+2 lands must obtain pre-approval, in the form of an assent, from the council bureau. Any lease granted
+3 by the council bureau shall continue the public’s interest in the filled lands including, but not limited
+4 to, the rights of navigation, fishery, and commerce. The public trust in the lands shall continue and
+5 run concurrently with the leasing of the lands by the state to private individuals, corporations, or
+6 municipalities. Upon the granting of a lease by the council bureau, those rights consistent with the
+7 public trust and secured by the lease shall vest in the lessee. The council bureau may approve a
+8 lease of filled lands for an initial term of up to fifty (50) years, with, or without, a single option to
+9 renew for an additional term of up to fifty (50) years.
+10 (ii) The lessor of the lease, at any time, for cause, may by express act cancel and annul any
+11 lease previously made to the riparian owner when it determines that the use of the lands is violating
+12 the terms of the lease or is inconsistent with the public trust, and upon cancellation the lands, and
+13 rights in the land so leased, shall revert to the state.
+14 (8) “Marinas” as defined in the coastal resources management program in effect as of June
+15 1, 1997, are deemed to be one of the uses consistent with the public trust. Subdivision (7) is not
+16 applicable to:
+17 (i) Any riparian owner on tidal waters in this state (and any successor in interest to the
+18 owner) which has an assent issued by the council to use any land under water in front of his or her
+19 lands as a marina, which assent was in effect on June 1, 1997;
+20 (ii) Any alteration, expansion, or other activity at a marina (and any successor in interest)
+21 which has an assent issued by the council, which assent was in effect on June 1, 1997; and
+22 (iii) Any renewal of assent to a marina (or successor in interest), which assent was issued
+23 by the council and in effect on June 1, 1997.
+24 (9) “Recreational boating facilities” including marinas, launching ramps, and recreational
+25 mooring areas, as defined by and properly permitted by the council bureau, are deemed to be one
+26 of the uses consistent with the public trust. Subdivision (7) is not applicable to:
+27 (i) Any riparian owner on tidal waters in this state (and any successor in interest to the
+28 owner) which has an assent issued by the council to use any land under water in front of his or her
+29 lands as a recreational boating facility; any alteration, expansion or other activity at a recreational
+30 boating facility (and any successor in interest) which has an assent issued by the council, which
+31 assent was in effect as of June 1, 1997; and
+32 (ii) Any renewal of assent to a recreational boating facility (or successor in interest), which
+33 assent was issued by the council and in effect on June 1, 1997.
+34 46-23-6.1. Newport “cliff walk” — Public right-of-way — Legal studies.
+LC004941 - Page 20 of 36
+
+1 The council bureau is hereby directed to carry out any and all legal studies which it shall
+2 deem necessary in order to designate the Newport “cliff walk”, so called, as a public right-of-way
+3 pursuant to § 46-23-6(5).
+4 46-23-6.2. Abandonment of rights-of-way.
+5 No city or town shall abandon a right-of-way designated as such by the council bureau
+6 unless the council bureau approved the abandonment.
+7 46-23-7. Violations.
+8 (a)(1) In any instances wherein there is a violation of the coastal resources management
+9 program, or a violation of regulations or decisions of the council bureau, the commissioner of
+10 coastal resources management deputy director of the bureau of coastal resources management shall
+11 have the power to order any person to cease and desist or to remedy any violation of any provisions
+12 of this chapter, or any rule, regulation, assent, order, or decision of the council bureau whenever
+13 the commissioner deputy director of coastal resources management the bureau of coastal resources
+14 management shall have reasonable grounds to believe that such violation has occurred.
+15 (2) Council Bureau staff, conservation officers within the department of environmental
+16 management, and state and municipal police shall be empowered to issue written cease and desist
+17 orders in any instance where activity is being conducted which constitutes a violation of any
+18 provisions of this chapter, or any rule, regulation, assent, order, or decision of the council bureau.
+19 (3) Conservation officers within the department of environmental management, council
+20 bureau staff, and state and municipal police shall have authority to apply to a court of competent
+21 jurisdiction for a warrant to enter on private land to investigate possible violations of this chapter;
+22 provided, that they have reasonable grounds to believe that a violation has been committed, is being
+23 committed, or is about to be committed.
+24 (b) Any order or notice issued pursuant to subsection (a) shall be eligible for recordation
+25 under chapter 13 of title 34, and shall be recorded in the land evidence records in the city/town
+26 wherein the property subject to the order is located, and any subsequent transferee of the property
+27 shall be responsible for complying with the requirements of the order and notice.
+28 (c) The coastal resources management council bureau shall discharge of record any notice
+29 filed pursuant to subsection (b) within thirty (30) days after the violation has been remedied.
+30 46-23-7.1. Administrative penalties.
+31 Any person who violates, or refuses or fails to obey, any notice or order issued pursuant to
+32 § 46-23-7(a); or any assent, order, or decision of the council bureau, may be assessed an
+33 administrative penalty by the chairperson or executive director deputy director of the bureau in
+34 accordance with the following:
+LC004941 - Page 21 of 36
+
+1 (1) The chairperson or executive director deputy director of the bureau is authorized to
+2 assess an administrative penalty of not more than ten thousand dollars ($10,000) for each violation
+3 of this section, and is authorized to assess additional penalties of not more than one thousand
+4 ($1,000) for each day during which this violation continues after receipt of a cease-and-desist order
+5 from the council bureau pursuant to § 46-23-7(a), but in no event shall the penalties in aggregate
+6 exceed fifty thousand dollars ($50,000). Prior to the assessment of a penalty under this subdivision,
+7 the property owner or person committing the violation shall be notified by certified mail or personal
+8 service that a penalty is being assessed. The notice shall include a reference to the section of the
+9 law, rule, regulation, assent, order, or permit condition violated; a concise statement of the facts
+10 alleged to constitute the violation; a statement of the amount of the administrative penalty assessed;
+11 and a statement of the party’s right to an administrative hearing.
+12 (2) The party shall have twenty-one (21) days from receipt of the notice within which to
+13 deliver to the council bureau a written request for a hearing. This request shall specify in detail the
+14 statements contested by the party. The executive deputy director of the bureau shall designate a
+15 person to act as hearing officer. If no hearing is requested, then after the expiration of the twenty-
+16 one (21) day period, the council bureau shall issue a final order assessing the penalty specified in
+17 the notice. The penalty is due when the final order is issued. If the party shall request a hearing,
+18 any additional daily penalty shall not commence to accrue until the council bureau issues a final
+19 order.
+20 (3) If a violation is found to have occurred, the council bureau may issue a final order
+21 assessing not more than the amount of the penalty specified in the notice. The penalty is due when
+22 the final order is issued.
+23 (4) The party may within thirty (30) days appeal the final order, of fine assessed by the
+24 council bureau to the superior court which shall hear the assessment of the fine de novo.
+25 46-23-7.2. Proceedings for enforcement.
+26 The superior court shall have jurisdiction to enforce the provisions of this chapter, the
+27 coastal resource management program, or any rule, regulation, assent, or order issued pursuant
+28 thereto. Proceedings under this section may follow the course of equity, and shall be instituted and
+29 prosecuted in the name of and at the direction of the chairperson and council deputy director of the
+30 bureau by the attorney general or counsel designated by the council bureau. Proceedings provided
+31 in this section shall be in addition to, and may be utilized in lieu of, other administrative or judicial
+32 proceedings authorized by this chapter.
+33 46-23-7.4. Penalty for blocking or posting of rights-of-way.
+34 Any person who shall post or block any tidal water, public right-of-way, as designated by
+LC004941 - Page 22 of 36
+
+1 the council bureau, shall be punished by a fine not exceeding one thousand dollars ($1,000) or by
+2 imprisonment for not more than three (3) months or both; and each day the posting or blocking
+3 continues or is repeated shall be deemed a separate offense. The chairperson deputy director of the
+4 council bureau, through council’s the bureau’s legal counsel or the attorney general, may apply to
+5 any court of competent jurisdiction for an injunction to prevent the unlawful posting or blocking of
+6 any tidal water, public right-of-way.
+7 46-23-7.5. Prosecution of criminal violations.
+8 The chairperson and anyone designated by the chairperson deputy director of the bureau
+9 or the deputy director’s designee, without being required to enter into any recognizance or to give
+10 surety for cost, may institute proceedings in the name of the state. It shall be the duty of the attorney
+11 general and/or the solicitor of the city or town in which the alleged violation has occurred to conduct
+12 the prosecution of all the proceedings. The chairperson deputy director may delegate his or her
+13 authority to bring prosecution by complaint and warrant to any law enforcement officials authorized
+14 by law to bring complaints for the issuance of search or arrest warrants pursuant to chapters 5 and
+15 6 of title 12.
+16 46-23-8. Gifts, grants, and donations.
+17 The council bureau is authorized to receive any gifts, grants, or donations made for any of
+18 the purposes of its program, which shall be deposited as general revenues, and to disburse and
+19 administer the gifts, grants, or donations amounts appropriated in accordance with the terms
+20 thereof. The council bureau is authorized to receive any sums provided by an applicant for use by
+21 the council bureau in its hearing process, which shall be deposited as general revenues, and to
+22 disburse and administer the general revenue amounts appropriated in accordance with the rules and
+23 regulations promulgated by the council bureau.
+24 46-23-9. Subpoena.
+25 The council bureau is hereby authorized and empowered to summon witnesses and issue
+26 subpoenas in substantially the following form:
+27 Sc.
+28 To _______________________________________ of
+29 _______________________________________ greeting:
+30 You are hereby required, in the name of the state of Rhode Island, to make your appearance
+31 before the commission on _______________________________________ in the
+32 _______________________________________ city of
+33 _______________________________________ on the
+34 _______________________________________ day of
+LC004941 - Page 23 of 36
+
+1 _______________________________________ to give evidence of what you know relative to a
+2 matter upon investigation by the commission on _______________________________________
+3 and produce and then and there have and give the following:
+4 Hereof fail not, as you will answer to default under the penalty of the law in that behalf
+5 made and provided.
+6 Dated at _______________________________________ the
+7 _________________________________________ day of
+8 _________________________________________ in the year
+9 _________________________________________.
+10 46-23-10. Cooperation of departments.
+11 All other departments and agencies and bodies of state government are hereby authorized
+12 and directed to cooperate with and furnish such information as the council bureau shall require.
+13 46-23-13. Application and hearing fees.
+14 The council bureau shall be authorized to establish reasonable fees for applications and
+15 hearings. All fees collected by the council bureau, including fees collected for leases, shall be
+16 deposited as general revenues. The state controller is hereby authorized and directed to draw his or
+17 her orders upon the general treasurer for payment of such sum or sums as may be necessary from
+18 time to time and upon receipt by him or her of duly authenticated vouchers presented by the
+19 commissioner of coastal resources management deputy director of the bureau.
+20 46-23-14. Expert testimony.
+21 The council bureau shall be authorized to engage its own expert and outside consultants,
+22 and the council bureau shall be empowered to use that testimony in making its decisions.
+23 46-23-15. Federal grants and interstate cooperation.
+24 The council bureau is authorized to accept any federal grants. It is further given the power
+25 to administer land and water use regulations as necessary to fulfill their responsibilities under the
+26 Federal Coastal Zone Management Act, 16 U.S.C. § 1451 et seq., and to acquire fee simple and
+27 less than fee simple interests under any federal or state program. The council bureau is authorized
+28 to coordinate and cooperate with other states in furtherance of its purposes. The council bureau
+29 may expend those grants and appropriations. The coastal resources management council bureau for
+30 the purposes of the federal Coastal Zone Management Act, 16 U.S.C. § 1451 et seq., is the coastal
+31 zone agency under §§ 301 through 313 and §§ 318 and 6217 of said act.
+32 46-23-15.1. Coordination of harbor safety and enforcement patrols.
+33 Coastal municipalities which share a common boundary along their public waters may
+34 enter into a binding memorandum of agreement allowing for harbormasters and other officials
+LC004941 - Page 24 of 36
+
+1 charged with enforcement of harbor management plan harbor ordinances from one coastal
+2 municipality to enforce the harbor ordinances of the bordering coastal municipality upon the public
+3 waters of the bordering coastal municipality when the coastal municipalities have harbor
+4 management plans approved by the coastal resources management council bureau and the
+5 memorandum of agreement is approved by the respective town or city councils. This binding
+6 memorandum of agreement shall specify how each coastal municipality is to receive any fines
+7 collected under this reciprocal enforcement agreement and the jurisdiction in which any disputes
+8 arising out of this reciprocal enforcement agreement shall be litigated.
+9 46-23-16. Length of permits, licenses, and easements.
+10 The council bureau is authorized to grant permits, licenses, and easements for any term of
+11 years or in perpetuity. Permits, licenses, or easements which are issued by the council for the filling
+12 of the submerged or submersible lands of the state of Rhode Island remain subject to the public
+13 trust, and no title is conveyed by such documents. All such permits, licenses, and easements shall
+14 clearly state that no title is being conveyed. Permits, licenses or easements issued by the council
+15 bureau are valid only with the conditions and stipulation under which they are granted and imply
+16 no guarantee of renewal. The initial application or an application for renewal may be subject to
+17 denial or modification. If an application is granted, said permit, license and easement may be
+18 subject to revocation and/or modification for failure to comply with the conditions and stipulations
+19 under which the same was issued or for other good cause. The division of coastal resources of the
+20 department of environmental management shall transfer all of the records and files of the former
+21 division of harbours and rivers to the council bureau.
+22 46-23-18. Prohibited activities.
+23 (a) No person, either as principal, agent or servant nor any firm, corporation, or any other
+24 entity shall, without a permit issued by the coastal resources management council bureau, construct
+25 a marina within two thousand feet (2000′) of a shellfish management area as defined by rules and
+26 regulations of the department of environmental management. Such permit shall include any permit
+27 required under subsection (b).
+28 (b) No person, either as principal, agent, or servant, or any firm, corporation or any other
+29 entity, shall, within the tidal waters of the state, conduct or cause to conduct dredging,
+30 transportation and/or disposal of dredge materials without a permit issued by the coastal resources
+31 management council bureau, a water quality certification issued by the department of
+32 environmental management pursuant to chapter 12 of this title and any permit required by the army
+33 corps of engineers. In addition, no person, either as principal, agent, or servant, nor any firm,
+34 corporation or any other entity, shall dispose of dredge materials other than in tidal waters without
+LC004941 - Page 25 of 36
+
+1 any permit, approval or certification that may otherwise be required.
+2 46-23-18.1. Permitting.
+3 (a) Any person, either as principal, agent, or servant, or any firm, corporation or any other
+4 entity desiring to conduct any activity or activities specified in § 46-23-18 shall file an application
+5 for a permit with the coastal resources management council bureau upon forms furnished by coastal
+6 resources management council bureau.
+7 (b) A hearing shall be held on the application within thirty (30) days of filing.
+8 (c) The applicant shall bear the burden of proving that the activity or activities specified in
+9 the application will cause no significant adverse impact upon the environment or natural resources
+10 of the state, and the coastal resources management council bureau shall be empowered to deny the
+11 application if the applicant does not demonstrate, in addition to other requirements of this chapter,
+12 that the activity or activities will not:
+13 (i) Significantly adversely affect any shellfish management area as designated by the
+14 department of environmental management or the marine fisheries council;
+15 (ii) Be in a significant conflict with the marine ecology within or adjacent to the state’s
+16 territorial waters; or
+17 (iii) Significantly harm or destroy existing fishing grounds.
+18 (d) With respect to an application seeking a permit from the coastal resources management
+19 council bureau to conduct or cause to conduct dredging, transportation and/or disposal of dredge
+20 material, the applicant shall also satisfy the council bureau that the proposal in the application is
+21 consistent with a comprehensive program developed pursuant to § 46-23-6(1)(ii)(H).
+22 (e) In determining whether an applicant has met the burden of proof under subsection (c),
+23 the coastal resources management council bureau shall apply standards that conform with the
+24 federal Environmental Protection Agency’s applicable standards and guidelines for the
+25 management of dredge materials, including, but not limited to, the federal Environmental
+26 Protection Agency’s rules, regulations and guidelines for deviating from said standards.
+27 (f) The applicant shall, at least three (3) days before commencing any dredging, give
+28 written notice to the coastal resources management council bureau of the intent to commence the
+29 activities specified in the permit.
+30 46-23-18.2. Rules and regulations.
+31 The council bureau, upon recommendation by the coastal resources advisory committee
+32 community advisory board established pursuant to § 42-17.1-6.1, shall issue reasonable rules and
+33 regulations governing the dredging, transporting and disposal of all dredge materials in accordance
+34 with this chapter.
+LC004941 - Page 26 of 36
+
+1 46-23-18.3. Sites for disposal of spoil from dredge operations, selection.
+2 (a) The council, upon recommendation of the coastal resources advisory committee, on or
+3 before the first day of January, 1999 and the bureau periodically thereafter as necessary, shall
+4 consistent with the comprehensive programs required in § 46-23-6(1)(ii)(H) identify and establish
+5 one or more in-water disposal sites to be used for the purpose of disposal of dredge materials from
+6 marinas and yacht clubs.
+7 (b) The council, upon recommendation of the coastal resources advisory committee, on or
+8 before the first day of January, 2002 and the bureau periodically thereafter as necessary, shall
+9 consistent with the comprehensive programs required in § 46-23-6(1)(ii)(H) identify and establish
+10 one or more in-water disposal sites to be used for the purpose of disposal of dredge materials from
+11 all sources not otherwise delineated in (a) above.
+12 46-23-18.4. Enforcement.
+13 The provisions of §§ 46-23-18 through 46-23-18.3 shall be enforced by the coastal
+14 resources management council bureau. Nothing herein shall be deemed to abrogate the department
+15 of environmental management’s authority to enforce its water quality standards adopted pursuant
+16 to § 46-12-3(7) or (24).
+17 46-23-18.5. Fees for disposal.
+18 The council bureau is authorized to impose a fee of not less than thirty-five dollars ($35.00)
+19 per cubic yard for the disposal of dredge materials at the sites established by the council bureau
+20 pursuant to § 46-23-18.3. The amount of the fee established by the council bureau pursuant to the
+21 section shall be reviewed by the council bureau on an annual basis and revised as the council bureau
+22 deems necessary, but in no event shall the fee be set at an amount less than thirty-five dollars
+23 ($35.00) per cubic yard of material.
+24 46-23-18.6. Coastal Resources Management Council Dredge Fund Bureau of Coastal
+25 Resources Management Dredge Fund.
+26 There is hereby created a separate fund to be held by the coastal resources management
+27 council bureau of coastal resources management within the department of environmental
+28 management to be known as the dredge fund. All amounts pursuant to § 46-23-18.5 must be
+29 deposited into the fund and shall not be deposited into the general fund of the state, and shall be
+30 kept by the general treasurer of the state in a separate fund for the coastal resources management
+31 council bureau, and shall be paid out by the treasurer upon the order of the council bureau, without
+32 the necessity of appropriation or re-appropriation by the general assembly. Funds must be used to
+33 create additional dredging and disposal options and for the management of said disposal options.
+34 46-23-20. Administrative hearings.
+LC004941 - Page 27 of 36
+
+1 All contested cases, all contested enforcement proceedings, and all contested
+2 administrative fines shall be heard by the bureau administrative hearing officers, or by
+3 subcommittees as provided in § 46-23-20.1, pursuant to the regulations promulgated by the council;
+4 provided, however, that no proceeding and hearing prior to the appointment of the hearing officers
+5 shall be subject to the provisions of this section. Notwithstanding the foregoing, the commissioner
+6 deputy director of coastal resources management the bureau shall be authorized, in his or her
+7 discretion, to resolve contested licensing and enforcement proceedings through informal
+8 disposition pursuant to regulations promulgated by the council bureau.
+9 46-23-21. Notice of permit — Recordation.
+10 A notice of permit shall be eligible for recordation under chapter 13 of title 34 as
+11 determined by the executive deputy director of the bureau, and shall be recorded at the expense of
+12 the applicant in the land evidence records of the city or town where the property subject to permit
+13 is located, and any subsequent transferee of the property shall be responsible for complying with
+14 the terms and conditions of the permit. The clerk of the various cities and towns shall record any
+15 orders, findings, or decisions of the council bureau at no expense to the council bureau.
+16 46-23-22. Solid waste disposal licenses — Hearings.
+17 The chairperson deputy director of the coastal resources management council bureau and
+18 the commissioner of the environmental protection branch of the department of environmental
+19 management shall coordinate concurrent hearings on solid waste disposal license applications;
+20 provided, however, that the chairperson deputy director and the commissioner of the environmental
+21 protection branch of the department of environmental management may designate a hearing officer
+22 or subcommittee to hear all matters pertaining to the application and; provided further, that the
+23 hearing officer may be from the department of environmental management, the coastal resources
+24 management council bureau, hearing officer, a subcommittee, or an ad hoc hearing officer. The
+25 commissioner deputy director of the bureau coastal resources management with the approval of the
+26 chairperson may waive jurisdiction in those instances where the commissioner deputy director finds
+27 that there is no substantive coastal resources issue or that another agency or branch has adjudicated
+28 or addressed the issue.
+29 46-23-23. Municipal comprehension plan consideration.
+30 The coastal resources management council bureau shall conform to the requirements of the
+31 Comprehensive Planning and Land Use Regulation Act, § 45-22.2.
+32 46-23-24. Lien on property.
+33 The executive deputy director of the bureau may record the notice of fee or final order of
+34 fine as a lien on the subject property in the land evidence records of the town or city in which said
+LC004941 - Page 28 of 36
+
+1 property is located. Recordation of said fee or final order of fine shall be the only manner by which
+2 said lien may be perfected against the subject property.
+3 46-23-25. Issuance of beach vehicle registration permits.
+4 (a) The coastal resources management council bureau may issue beach vehicle registration
+5 permits in accordance with § 31-8-1.1 of the general laws and adopt regulations that the council
+6 bureau deems necessary to carry out the provisions of this section. The council bureau may appoint
+7 responsible citizens or corporations of the state, engaged in operating sporting goods stores to act
+8 as agents with authority to issue permits in the manner and under the conditions as set forth below.
+9 Before an appointment shall occur, that citizen or corporation of the state shall deliver to the council
+10 bureau a bond with a surety company authorized to do business in the state of Rhode Island. The
+11 requirements and conditions of the bond shall be established by the regulations.
+12 (b) Any person or corporation appointed by the council as provided in section (a) above
+13 shall, upon the application of any person entitled to receive a permit under this chapter and upon
+14 payment of the specified permit fee, register and issue to the person a beach vehicle registration
+15 permit in the form prescribed and furnished by the council bureau. The permit shall bear the name,
+16 place of residence, and signature of the registrant, and the vehicle make, model, year, and license
+17 plate number and shall authorize the registrant to own and operate a beach vehicle in the state of
+18 Rhode Island during those seasons and in those manners and according to those conditions as shall
+19 be provided by regulations established by the council bureau.
+20 SECTION 4. Sections 46-23-2, 46-23-2.1, 46-23-3, 46-23-4, 46-23-4.1, 46-23-5, 46-23-
+21 12, 46-23-20.1, 46-23-20.2, 46-23-20.3, 46-23-20.4, 46-23-20.5 and 46-23-20.6 of the General
+22 Laws in Chapter 46-23 entitled "Coastal Resources Management Council" are hereby repealed.
+23 46-23-2. Coastal resources management council created — Appointment of members.
+24 (a) There is hereby created the coastal resources management council. The coastal
+25 resources management council shall consist of ten (10) members. Nine (9) members shall be
+26 appointed by the governor, with advice and consent of the senate, and one member shall serve ex
+27 officio. All current appointments to the coastal resources management council made by the
+28 governor with advice and consent of the senate are hereby validated and ratified and those
+29 appointees shall serve until a new seven-member (7) council is selected pursuant to subsection (b)
+30 of this section or for the remainder of their term, whichever shall occur first.
+31 (1) Six (6) of the members shall be appointed or elected officials of local government: three
+32 (3) of whom shall be appointed or elected officials in a municipality of fewer than twenty-five
+33 thousand (25,000) in population, three (3) of whom shall be appointed or elected officials in a
+34 municipality of more than twenty-five thousand (25,000) in population. The populations are to be
+LC004941 - Page 29 of 36
+
+1 determined by the latest federal census. Elected or appointed municipal officials shall hold seats on
+2 the council only so long as they remain in their elected or appointed office. Each municipal
+3 appointment shall cease if the appointed or elected official shall no longer hold or change the office
+4 which they held upon appointment. At least five (5) out of the six (6) appointed or elected members
+5 must be appointed or elected in a coastal municipality. When the governor submits his or her
+6 appointments to the senate for advice and consent, the governor shall specify the appointed or
+7 elected office that each municipal appointment holds; the population of the municipality
+8 represented; and the member being replaced.
+9 (2) — (4) [Deleted by P.L. 2025, ch. 304, § 1 and P.L. 2025, ch. 313, § 1.]
+10 (b) Notwithstanding subsection (a) of this section, on March 1, 2026, all current members
+11 of the coastal resources management council shall have their terms expire. In anticipation thereof,
+12 prior to March 1, 2026, the governor shall appoint a coastal resources management council that
+13 shall consist of seven (7) voting members, one of whom shall be the director of the department of
+14 environmental management who shall serve ex officio. The six (6) remaining members shall be
+15 public members appointed by the governor with the advice and consent of the senate. All appointed
+16 members shall possess background, qualifications, and expertise in environmental and coastal
+17 management matters, provided that one of whom shall be an engineer; one of whom shall be a
+18 coastal biologist; and one of whom shall be a representative of an environmental organization.
+19 Current or past service on the coastal resources management council shall not disqualify an
+20 individual from reappointment pursuant to this subsection. Notwithstanding the foregoing, if the
+21 seven-member (7) council is not seated by March 1, 2026, in accordance with this section, the
+22 members appointed pursuant to subsection (a) of this section shall continue to serve until such time
+23 as all members are appointed and confirmed in accordance with this section.
+24 (c) In addition to the foregoing voting members, the coastal resources management council
+25 may include a varying number of other members who may serve in an advisory capacity without
+26 the right to vote and who may be invited to serve by either the governor or the voting members.
+27 These advisory members may represent the federal agencies such as the navy, coast guard, corps
+28 of engineers, public health service, and the Federal Water Pollution Control Administration, and
+29 such regional agencies as the New England River Basins Commission and the New England
+30 Regional Commission and any other group or interest not otherwise represented.
+31 (d) There may be established a coastal resources advisory committee which committee,
+32 appointed by the executive director of the coastal resources management council, may include, but
+33 not be limited to, representation from the following groups: one of whom may be a representative
+34 of the university of Rhode Island graduate school of oceanography and the college of resources
+LC004941 - Page 30 of 36
+
+1 development, one of whom may be a representative of the Sea Grant National College Program,
+2 one of whom may be a representative of the army corps of engineers, one of whom may be a
+3 representative of the federal environmental protection agency’s Narragansett Bay laboratory, one
+4 of whom shall be a representative of the coastal resources management council, one of whom may
+5 be the director of the department of environmental management; one of whom may be a member
+6 of the Rhode Island Marine Trade Association and one of whom may be a representative of a
+7 regional environmental group. The coastal resources management council shall have the authority
+8 to appoint such additional members to the advisory committee as is deemed necessary or advisable
+9 by the advisory committee or the council. It shall be the responsibility of the committee to advise
+10 the coastal resources management council on environmental coastal resources management issues
+11 relating to dredging and permitting related thereto, including, but not limited to, those issues
+12 defined in §§ 46-23-18.1 — 46-23-18.3, inclusive.
+13 (e) The council shall have the authority to form committees of other advisory groups as
+14 needed from both its own members and others.
+15 46-23-2.1. Members — Term of office — Vacancies.
+16 (a)(1) Subject to the provisions of § 46-23-2, all members shall serve until their successors
+17 are appointed and qualified.
+18 (2) Term limits on the coastal resources management council shall be determined by the
+19 governor as follows: Two (2) appointees shall serve an initial term of three (3) years and shall be
+20 eligible for reappointment in accordance with this section; two (2) appointees shall serve an initial
+21 term of two (2) years and shall be eligible for reappointment in accordance with this section; and
+22 two (2) appointees shall serve an initial term of one year and shall be eligible for reappointment in
+23 accordance with this section.
+24 (3) After the expiration of the terms of all initial members pursuant to this subsection,
+25 succeeding appointments shall be for a term of three (3) years, and during the month of January,
+26 the governor shall appoint, with the advice and consent of the senate, a member to succeed the
+27 member whose term will then next expire for a term of three (3) years commencing on the first day
+28 of February next following and until a successor is named and qualified.
+29 (b) The members are eligible for successive appointments.
+30 (c) Elected or appointed municipal officials shall hold seats on the coastal resources
+31 management council, only so long as they remain in their elected or appointed office.
+32 (d) A vacancy other than by expiration shall be filled in the manner of the original
+33 appointment but only for the unexpired portion of the term. Any person appointed to fill said
+34 vacancy shall complete the unexpired term and shall then be eligible for reappointment pursuant to
+LC004941 - Page 31 of 36
+
+1 this section. The governor shall have the power to remove their appointee for just cause.
+2 46-23-3. Oath of members.
+3 Each appointed member of the council, before entering upon his or her duties, shall take
+4 an oath to administer the duties of his or her office faithfully and impartially, and the oath shall be
+5 filed in the office of the secretary of state.
+6 46-23-4. Officers of the council — Quorum and vote required for action.
+7 The governor shall select from the appointed members a chairperson and vice chairperson.
+8 The coastal resources management council shall thereupon select a secretary from among its
+9 membership or staff. The council may engage staff, including legal counsel, as it deems necessary.
+10 A quorum shall consist of six (6) members of the council provided, however, for the council
+11 appointed pursuant to § 46-23-2(b) a quorum shall consist of four (4) members of the council. A
+12 majority vote of those present shall be required for action.
+13 46-23-4.1. Executive director of coastal resources management.
+14 The governor shall appoint, with the advice and consent of the senate, an executive director
+15 of coastal resources management who shall be an employee of the council and who shall not be a
+16 member of the council. The executive director shall coordinate and liaison with the director of the
+17 department of environmental management, and the executive director’s staff shall be at the same
+18 staff level as the other executive directors, and the executive director shall work directly with the
+19 other division leaders. The executive director of coastal resources management shall be in the
+20 unclassified service. The primary duty and responsibility of the executive director shall be to
+21 continue planning for and management of the resources of the state’s coastal region.
+22 46-23-5. Expenses of members.
+23 (a) The members of the council and the chairperson shall not be compensated for their
+24 service on the board, but the members and chairperson shall be reimbursed for their actual expenses
+25 necessarily incurred in the performance of their duties.
+26 (b) [Deleted by P.L. 2005, ch. 117, art. 21, § 34.]
+27 46-23-12. Representation from coastal communities.
+28 Upon the expiration of a term of a member appointed by the governor, as an appointed or
+29 elected official of local government from a coastal municipality as set out in § 46-23-2, the governor
+30 shall appoint an appointed or elected official of a coastal municipality which, at the time of the
+31 governor’s appointment, has no appointed or ex officio representation on the council.
+32 46-23-20.1. Hearing officers — Appointment — Compensation — Subcommittee.
+33 (a) The governor, with the advice and consent of the senate, shall appoint two (2) hearing
+34 officers who shall be attorneys-at-law, who, prior to their appointment, shall have practiced law for
+LC004941 - Page 32 of 36
+
+1 a period of not less than five (5) years for a term of five (5) years; provided, however, that the initial
+2 appointments shall be as follows: one hearing officer shall be appointed for a term of three (3) years
+3 and one hearing officer shall be appointed for a term of five (5) years. The appointees shall be
+4 addressed as hearing officers.
+5 (b) The governor shall designate one of the hearing officers as chief hearing officer. The
+6 hearing officers shall hear proceedings as provided by this section, and the council, with the
+7 assistance of the chief hearing officer, may promulgate such rules and regulations as shall be
+8 necessary or desirable to effect the purposes of this section.
+9 (c) A hearing officer shall be devoted full time to these administrative duties, and shall not
+10 otherwise practice law while holding office nor be a partner nor an associate of any person in the
+11 practice of law.
+12 (d) Compensation for hearing officers shall be determined by the unclassified pay board.
+13 (e) Whenever the chairperson of the coastal resources management council or, in the
+14 absence of the chairperson, the commissioner of coastal resources makes a finding that the hearing
+15 officers are otherwise engaged and unable to hear a matter in a timely fashion, he or she may
+16 appoint a subcommittee which will act as hearing officers in any contested case coming before the
+17 council. The subcommittee shall consist of at least one member; provided, however, that in all
+18 contested cases an additional member shall be a resident of the coastal community affected. The
+19 city or town council of each coastal community shall, at the beginning of its term of office, appoint
+20 a resident of that city or town to serve as an alternate member of the aforesaid subcommittee should
+21 there be no existing member of the coastal resources management council from that city or town
+22 available to serve on the subcommittee. Any member of the subcommittee actively engaged in
+23 hearing a case shall continue to hear the case, even though his or her term may have expired, until
+24 the case is concluded and a vote taken thereon. Hearings before subcommittees shall be subject to
+25 all rules of practice and procedure as govern hearings before hearing officers.
+26 46-23-20.2. Clerk.
+27 The commissioner of coastal resources or his or her designee shall serve as clerk to the
+28 hearing officers. The clerk shall have general charge of the office, keep a full record of proceedings,
+29 file and preserve all documents and papers, prepare such papers and notices as may be required,
+30 and perform such other duties as required. The commissioner shall have the power to issue
+31 subpoenas for witnesses and documents and to administer oaths in all cases before any hearing
+32 officer or pertaining to the duties of his or her office.
+33 46-23-20.3. Prehearing procedure.
+34 (a) Prior to the commencement of any hearing, the hearing officer may in his or her
+LC004941 - Page 33 of 36
+
+1 discretion direct the parties or their attorneys to appear before him or her for such conferences as
+2 shall be necessary. At the conferences, the hearing officer may order any party to file, prior to the
+3 commencement of any formal hearing, exhibits that the party intends to use in the hearing, and the
+4 names and addresses of witnesses that the party intends to produce in its direct case, together with
+5 a short statement of the testimony of each witness. Following entry of an order, a party shall not be
+6 permitted, except in the discretion of the hearing officer, to introduce into evidence, in the party’s
+7 direct case, exhibits which are not filed in accordance with the order. At the conference, the hearing
+8 officer may designate a date before which he or she requires any party to specify what issues are
+9 conceded, and further proof of conceded issues shall not be required. The hearing officer shall also
+10 require the parties to simplify the issues, to consider admissions of fact and of documents which
+11 will avoid unnecessary proof, and to limit the number of expert witnesses. The hearing officer shall
+12 enter an order reciting the concessions and agreements made by the parties, and shall enter an order
+13 on such other matters as are pertinent to the conduct of the hearing, and unless modified, the hearing
+14 shall be conducted by the order.
+15 (b) The hearing officer may also order the parties to file, prior to the commencement of
+16 any hearing, the testimony of any or all of their respective witnesses, and to submit the testimony
+17 to the hearing officer and the opposing party or the opposing counsel by such date as the hearing
+18 officer shall determine. The witness shall testify under oath, and all of the testimony shall be in a
+19 question and answer format. Save for good cause shown, said testimony shall be the direct
+20 examination of the witness; provided, however, that the witness shall be available at the hearing
+21 for cross-examination by the opposing party or opposing counsel.
+22 (c) The council, with the assistance of the chief hearing officer, shall promulgate, by
+23 regulation, such other prehearing procedures and/or hearing procedures as deemed necessary,
+24 including the use of portions of the superior court civil rules of discovery where such are not
+25 inconsistent with the applicable provisions of the Administrative Procedures Act, chapter 35 of title
+26 42.
+27 46-23-20.4. Hearings — Orders.
+28 (a) Subject to the provisions of this chapter, every hearing for the adjudication of a violation
+29 or for a contested matter shall be held before a hearing officer or a subcommittee. The chief hearing
+30 officer shall assign a hearing officer to each matter not assigned to a subcommittee. After due
+31 consideration of the evidence and arguments, the hearing officer shall make written proposed
+32 findings of fact and proposed conclusions of law which shall be made public when submitted to the
+33 council for review. The council may, in its discretion, adopt, modify, or reject the findings of fact
+34 and/or conclusions of law; provided, however, that any modification or rejection of the proposed
+LC004941 - Page 34 of 36
+
+1 findings of fact or conclusions of law shall be in writing and shall state the rationales therefor.
+2 (b) The director of the department of environmental management and the coastal resources
+3 management council shall promulgate such rules and regulations, not inconsistent with law, as to
+4 assure uniformity of proceedings as applicable.
+5 46-23-20.5. Ex parte consultations.
+6 Council members shall have no communication directly or indirectly, with a hearing officer
+7 relating to any issue of fact or of law on any matter then pending before the hearing officer.
+8 46-23-20.6. Oaths — Subpoenas — Powers of hearing officers.
+9 The hearing officers are hereby severally authorized and empowered to administer oaths,
+10 and the hearing officers, in all cases of every nature pending before them, are hereby authorized
+11 and empowered to summon and examine witnesses and to compel the production and examination
+12 of papers, books, accounts, documents, records, certificates and other legal evidence that may be
+13 necessary or proper for the determination and decision of any question before or the discharge of
+14 any duty required by law of the hearing officer. All subpoenas and subpoena duces tecum shall be
+15 signed by a hearing officer or the commissioner of coastal resources, and shall be served as
+16 subpoenas are served in civil cases in the superior court; and witnesses so subpoenaed shall be
+17 entitled to the same fees for attendance and travel as are provided for witnesses in civil cases in the
+18 superior court. In cases of contumacy or refusal to obey the command of the subpoena so issued,
+19 the superior court shall have jurisdiction upon application of the council with proof by affidavit of
+20 the fact, to issue a rule or order returnable, in not less than two (2) nor more than five (5) days,
+21 directing the person to show cause why he or she should not be adjudged in contempt. Upon return
+22 of such order, the justice, before whom the matter is brought for hearing, shall examine under oath
+23 the person, and the person shall be given an opportunity to be heard, and if the justice shall
+24 determine that the person has refused without reasonable cause or legal excuse to be examined or
+25 to answer legal or pertinent questions, he or she may impose a fine upon the offender or forthwith
+26 commit the offender to the adult correctional institutions, there to remain until he or she submits to
+27 do the act which he or she was so required to do, or is discharged according to law.
+28 SECTION 5. This act shall take effect upon passage.
+========
+LC004941
+========
+LC004941 - Page 35 of 36
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- DEPARTMENT OF
+ENVIRONMENTAL MANAGEMENT
+***
+1 This act would reorganize the coastal resources management council under the department
+2 of environmental management and create the bureau of coastal resources management.
+3 This act would take effect upon passage.
+========
+LC004941
+========
+LC004941 - Page 36 of 36

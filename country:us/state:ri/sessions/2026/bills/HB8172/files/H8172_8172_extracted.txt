@@ -1,0 +1,174 @@
+Title: 
+Official Title: 
+Source: versions - 8172
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8172
+========
+LC005496
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PRESCRIPTION DRUG SAVINGS AND
+TRANSPARENCY ACT OF 2026
+Introduced By: Representatives Tanzi, Giraldo, Handy, Alzate, Spears, Stewart, Kislak,
+Hull, Ajello, and Edwards
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and purpose.
+2 The general assembly finds and declares that:
+3 (1) The Rhode Island Medicaid program represents a substantial portion of the state budget
+4 and provides essential health coverage to children, seniors, people with disabilities, and low-income
+5 working families.
+6 (2) Prescription drug benefits account for a significant and growing share of Medicaid
+7 expenditures, and the structure used to administer those benefits directly affects program costs,
+8 transparency, administrative efficiency, and beneficiary access to medically necessary medications.
+9 (3) Several states, including Kentucky, West Virginia, Ohio, and Connecticut, have
+10 improved Medicaid prescription drug oversight by adopting consolidated prescription drug
+11 management approaches, including combinations of uniform preferred drug lists, consolidated
+12 pharmacy benefit management functions, and centralized administrative oversight.
+13 (4) Research, audits, and multi-state experience demonstrate that consolidated prescription
+14 drug management approaches can lower administrative costs for states, increase the share of
+15 manufacturer rebates returned to Medicaid, reduce administrative burdens for prescribers and
+16 pharmacies, and improve continuity of care for beneficiaries, particularly when individuals change
+17 plans or eligibility categories.
+18 (5) Audits and oversight reviews in multiple states have found that incomplete disclosure,
+
+1 contractual confidentiality provisions, and the routing or reclassification of Medicaid pharmacy-
+2 related payments through affiliates or non-pharmacy cost categories have impeded effective
+3 oversight, necessitating clear statutory authority for regulator access to relevant information.
+4 (6) The purpose of this act is to require an independent, comprehensive, and fiscally
+5 rigorous evaluation conducted by the office of the auditor general to determine whether Rhode
+6 Island would benefit from consolidating prescription drug management within the Medicaid
+7 program, and to ensure that such evaluation is based on complete and accurate information
+8 regarding Medicaid prescription drug expenditures.
+9 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+10 amended by adding thereto the following chapter:
+11 CHAPTER 106
+12 PRESCRIPTION DRUG SAVINGS AND TRANSPARENCY ACT OF 2026
+13 23-106-1. Short title.
+14 This act shall be known and may be cited as the "Prescription Drug Savings and
+15 Transparency Act of 2026."
+16 23-106-2. Authority to conduct independent study.
+17 (a) The office of the auditor general is authorized and directed to conduct a performance,
+18 financial, and/or cost-effectiveness study to evaluate whether Rhode Island would benefit from
+19 consolidated prescription drug management for the Medicaid program. As deemed necessary to
+20 conduct the study, the office of the auditor general may contract with an independent pharmacy
+21 pricing and audit consultant (PPAC) or other qualified external entities with expertise in Medicaid
+22 prescription drug management, pharmacy benefit audits, and fiscal analysis.
+23 (b) The study shall evaluate and compare, at a minimum, the following prescription drug
+24 management structures currently implemented by one or more state Medicaid programs:
+25 (1) Administration of the pharmacy benefit through Medicaid managed care organizations
+26 utilizing multiple pharmacy benefit managers and multiple preferred drug lists, representing Rhode
+27 Island’s current status quo;
+28 (2) Administration of the pharmacy benefit under a single, statewide preferred drug list,
+29 regardless of claims-processing or administrative structure including, but not limited to, models
+30 used in the states of Connecticut, Kentucky, and West Virginia;
+31 (3) Administration of the pharmacy benefit through a single state-contracted pharmacy
+32 benefit manager, such as in the state of Kentucky, through direct state contracting; and
+33 (4) Administration of the pharmacy benefit under a state-administered fee-for-service
+34 model, including through a fiscal agent or administrative services organization, such as in the state
+LC005496 - Page 2 of 6
+
+1 of Connecticut;
+2 (c) In conducting the study, the office of the auditor general shall retain full and
+3 independent authority to evaluate fiscal assumptions, cost estimates, methodologies, the receipt,
+4 allocation, and accounting of manufacturer rebates, administrative fees, and projected financial
+5 outcomes.
+6 23-106-3. Scope of analysis.
+7 The study required under this act shall evaluate the prescription drug management
+8 structures identified in § 23-106-2 and shall include, but not be limited to:
+9 (1) A comparison of current Medicaid prescription drug expenditures with projected
+10 expenditures under distinct prescription drug management models currently implemented by one
+11 or more state Medicaid programs, including fiscal impacts to the state budget;
+12 (2) An assessment of administrative costs, pricing transparency, rebate aggregation and
+13 retention, pharmacy reimbursement methodologies, and oversight implications;
+14 (3) An analysis of impacts on Medicaid beneficiary access, provider prescribing practices,
+15 utilization management requirements, and continuity of care;
+16 (4) A review of cost savings, health outcomes, and implementation challenges experienced
+17 by states that have adopted the structures identified in § 23-106-2; and
+18 (5) Recommendations for any statutory, regulatory, procurement, or contract changes
+19 necessary to implement any such structure within Medicaid, if determined to be in the best interest
+20 of the state.
+21 23-106-4. Required information.
+22 (a) Any private entity including, but not limited to, any pharmacy benefit manager,
+23 managed care organization, group purchasing organization, rebate aggregator, claims processor,
+24 administrator, subcontractor, affiliate, parent, subsidiary, or related entity, that receives, retains,
+25 administers, manages, negotiates, or is otherwise paid or reimbursed any funds, fees, rebates, price
+26 concessions, or other remuneration, directly or indirectly, in connection with prescription drug
+27 benefits provided under the Rhode Island Medicaid program, shall, notwithstanding any contractual
+28 provision to the contrary, upon request of the office of the auditor general or contractors working
+29 in conjunction with the auditor general for purposes of performing this study, provide timely,
+30 complete, and unredacted access to information, data, and records reasonably necessary to carry
+31 out the study required under this chapter.
+32 (b) Information subject to subsection (a) of this section shall include, but not be limited to,
+33 records relating to:
+34 (1) All Medicaid pharmacy claims, including ingredient costs, dispensing fees,
+LC005496 - Page 3 of 6
+
+1 administrative fees, utilization data, and any other amounts paid, received, retained, or transferred
+2 in connection with Medicaid prescription drug benefits;
+3 (2) All rebates, price concessions, discounts, administrative charges, service fees, data fees,
+4 or other forms of compensation or remuneration, regardless of how such amounts are characterized
+5 or reported;
+6 (3) Any arrangements, agreements, or transactions through which compensation related to
+7 Medicaid prescription drug benefits is assigned, shared, transferred, aggregated, retained, or
+8 reclassified, including amounts embedded in or attributed to non-pharmacy services or other cost
+9 categories;
+10 (4) All contracts, subcontracts, and amendments relating to Medicaid prescription drug
+11 benefits, including contracts with manufacturers, wholesalers, pharmacies, intermediaries, or
+12 affiliated entities;
+13 (5) Formularies, preferred drug lists, utilization management criteria, step therapy
+14 protocols, and prior authorization policies applicable to Medicaid prescription drug benefits; and
+15 (6) Any other information necessary to evaluate the fiscal, administrative, and operational
+16 impacts of consolidated prescription drug management within the Medicaid program.
+17 (c) Information provided pursuant to this section:
+18 (1) Shall be used solely for purposes of the study authorized by this chapter;
+19 (2) Shall be protected from public disclosure to the extent permitted by law, including as
+20 confidential commercial or proprietary information; provided that, such designations shall not be
+21 used to withhold information from the office of the auditor general; and provided, further, that
+22 aggregated or de-identified findings may be included in the final report; and
+23 (3) Shall be subject to appropriate data security and privacy protections.
+24 23-106-5. Enforcement.
+25 This chapter shall be enforced by the office of the auditor general and the attorney general.
+26 Nothing in this chapter shall be construed to limit or restrict the authority of the office of the auditor
+27 general, the attorney general, or any other state official under any other provision of law.
+28 23-106-6. Reporting.
+29 The office of the auditor general shall submit a written report of findings and
+30 recommendations, including any proposed legislation, to the speaker of the house of
+31 representatives, the president of the senate, and the chairs of the house and senate finance
+32 committees no later than March 31, 2027.
+33 23-106-7. Severability.
+34 If any provision of this chapter or its application to any person or circumstance is held
+LC005496 - Page 4 of 6
+
+1 invalid, the invalidity shall not affect other provisions or applications of the chapter.
+2 SECTION 3. This act shall take effect upon passage.
+========
+LC005496
+========
+LC005496 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PRESCRIPTION DRUG SAVINGS AND
+TRANSPARENCY ACT OF 2026
+***
+1 This act would establish the “Prescription Drug Savings and Transparency Act of 2026.”
+2 This act would authorize an independent, comprehensive study by the office of the auditor general
+3 to determine whether Rhode Island would benefit from adopting a consolidated prescription drug
+4 management program within the Medicaid program.
+5 This act would take effect upon passage.
+========
+LC005496
+========
+LC005496 - Page 6 of 6

@@ -1,0 +1,344 @@
+Title: 
+Official Title: 
+Source: versions - 7966
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7966
+========
+LC005697
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE EXTREME TEMPERATURE WORKER
+PROTECTION ACT
+Introduced By: Representatives Morales, Sanchez, Cruz, Potter, Tanzi, and Cotter
+Date Introduced: February 27, 2026
+Referred To: House Labor
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 106
+4 THE EXTREME TEMPERATURE WORKER PROTECTION ACT
+5 23-106-1. Short title.
+6 This chapter shall be known and may be cited as the “The Extreme Temperature Worker
+7 Protection Act.”
+8 23-106-2. Definitions.
+9 As used in this chapter, the following terms have the following meanings:
+10 (1) “Acclimatization” means the body’s temporary adaptation to work in the heat or cold
+11 as a person is exposed to heat or cold gradually over time. Acclimatization reduces the strain caused
+12 by heat stress or cold stress and enables individuals to work with less chance of heat illness or cold
+13 illness or injury. Acclimatization peaks in most people within seven (7) to fourteen (14) days of
+14 regular work for at least two (2) hours per day in the heat or cold.
+15 (2) “Cold illness” means a serious medical condition resulting from the body’s inability to
+16 cope with cold temperatures and includes, but is not limited to, trench foot, frostbite, hypothermia,
+17 and chilblains.
+18 (3) “Cool-down area” means an indoor or outdoor area that is blocked from direct sunlight
+
+1 and shielded from other high radiant heat sources and is either open to the air or provided with
+2 ventilation or cooling. A cool-down area does not include a location where environmental risk
+3 factors defeat the purpose of allowing the body to cool, where employees are exposed to unsafe or
+4 unhealth conditions, or where employees are deterred or discouraged from accessing or using the
+5 cool-down area.
+6 (4) “Drinking water” means potable water that is safe to drink and is cool sixty-six degrees
+7 Fahrenheit through seventy-seven degrees Fahrenheit (66°F - 77°F) or cold thirty-five degrees
+8 Fahrenheit through sixty-five degrees Fahrenheit (35°F - 65°F) in temperature.
+9 (5) “Emergency operations and essential service” means work in connection with an
+10 emergency that requires the involvement of law enforcement, emergency medical services,
+11 firefighting, rescue and evacuation operations, or emergency restoration of essential utilities or
+12 telecommunications.
+13 (6) “Employee” means any person providing labor or service within the scope of this
+14 chapter for remuneration for a private entity or business within the state, without regard to an
+15 individual’s immigration status and shall include, but not be limited to, private and public sector
+16 workers, part-time workers, independent contractors, day laborers, farmworkers, and other
+17 temporary and seasonal workers. The term shall also include individuals working for staffing
+18 agencies, contractors or subcontractors on behalf of the employer at any individual worksite, as
+19 well as any individual delivering goods or transporting people at, to or from the worksite on behalf
+20 of the employer, regardless of whether delivery or transport is conducted by an individual or entity
+21 that would otherwise be deemed an employer under this chapter.
+22 (7) “Employer” means an individual, partnership, association, corporation, limited liability
+23 company, business trust, legal representative, public entity, or any organized group acting as
+24 employer within the scope of this standard.
+25 (8) “Extreme cold temperature conditions” means working conditions where the work area
+26 temperature equals or is below thirty degrees Fahrenheit (30°F).
+27 (9) “Extreme heat conditions” means working conditions where the heat index of the work
+28 area equals or exceeds ninety degrees Fahrenheit (90°F).
+29 (10) “Heat illness” means a medical condition resulting from the body’s inability to cope
+30 with a particular heat load and includes, but is not limited to, heat cramps, heat exhaustion, heat
+31 syncope, and heat stroke.
+32 (11) “Heat index” means a measure of how hot it feels when relative humidity is taken into
+33 account along with the actual air temperature, which can be extrapolated from temperature and
+34 relative humidity using the national weather service heat index calculator.
+LC005697 - Page 2 of 10
+
+1 (12) “Increased risk factor” means that the initial heat trigger has been met and one of the
+2 following conditions exist:
+3 (i) An air quality advisory is in effect for the state or a locality or other area that includes
+4 the work area;
+5 (ii) A worker is scheduled or reasonably expected to work more than twelve (12) hours in
+6 the workday or shift;
+7 (iii) The employer or the safety protocols for equipment or work require the worker to wear
+8 vapor-impermeable clothing or personal protective equipment, including protective jackets, suits,
+9 or coveralls, thereby requiring an additional layer over regular clothes or covering all or almost all
+10 of the head and face; or
+11 (iv) The humidity level is above sixty-five percent (65%).
+12 (13) “Indoor” or “indoors” means an area under a ceiling or overhead covering that restricts
+13 airflow and has along its entire perimeter walls, door, windows, dividers, or other physical barriers
+14 that restrict airflow, whether open or closed.
+15 (14) “Initial cold trigger” or “initial cold temperature trigger” means a wind chill factor
+16 that reaches thirty degrees Fahrenheit (30°F) with twenty mile-per-hour (20 mph) winds.
+17 (15) “Initial heat trigger” means a heat index of eighty degrees Fahrenheit (80°F).
+18 (16) “Shade” or “shaded areas” means blockage of direct sunlight, such that objects do not
+19 cast a shadow in the area of blocked sunlight. Shade is not adequate when heat in the area of shade
+20 defeats the purpose of shade, which is to allow the body to cool. For example, a car sitting in the
+21 sun does not provide acceptable shade to a person inside it, unless the car is running with air
+22 conditioning. Shade may be provided by any natural or artificial means that does not expose
+23 employees to unsafe or unhealthy conditions and that does not deter or discourage access or use.
+24 (17) “Outdoor worksite” means work performed by employees in an outdoor environment,
+25 including locations to include sheds, tents, greenhouses, or other structures where work activities
+26 are conducted inside, but the temperature is not managed by devices that reduce heat or cold
+27 exposure and aid in heating or cooling, such as air conditioning systems or heaters.
+28 (18) “Personal protective equipment” or “PPE” means equipment, gear, uniforms, or
+29 clothing to protect the user against temperature injury or illness.
+30 (19) “Wind chill factor” means the measure of how cold the air feels on human skin due to
+31 the wind and temperature based on how quickly the body loses heat to the air.
+32 23-106-3. Scope.
+33 This chapter does not apply to:
+34 (1) Incidental extreme temperature exposures in which an employee is not required to
+LC005697 - Page 3 of 10
+
+1 perform work activities for more than fifteen (15) consecutive minutes per hour;
+2 (2) Emergency operations and essential services that are necessary to protect life or
+3 property; or
+4 (3) Employees who work from home or from another remote location of the employee’s
+5 choosing.
+6 23-106-4. Temperature-related injury and illness prevention plan.
+7 (a) The employer shall develop and implement a written worksite temperature-related
+8 injury and illness prevention plan (“TRIIPP”) to prevent and reduce employee exposure to extreme
+9 temperatures. The plan and related activities shall include, but not be limited to, the following:
+10 (1) The policies and procedures necessary to comply with the requirements of this chapter;
+11 (2) Identification of the temperature metrics and increased risk factors that the employer
+12 will monitor to comply with the heat and cold safety requirements of this chapter; and
+13 (3) Information on education and training including, but not limited to, emergency response
+14 plans, procedures, and relevant worksite contacts in case of an emergency.
+15 (b) The written TRIIPP shall be updated at least annually, when major work conditions
+16 change, and when a temperature-related injury or incident occurs.
+17 (c) An employer with ten (10) or more employees shall designate one or more temperature
+18 safety coordinators to implement and monitor the TRIIPP. The name of each temperature safety
+19 coordinator shall be documented in the TRIIPP and updated as necessary. The temperature safety
+20 coordinator shall ensure compliance with all aspects of the TRIIPP.
+21 23-106-5. Heat-stress specific standards.
+22 (a) The employer shall comply with the following requirements when employees are in an
+23 indoor or outdoor worksite and experiencing conditions at or exceeding the initial heat trigger:
+24 (1) The employer shall closely monitor temperatures and implement its workplace TRIIPP.
+25 If an employee exhibits signs or reports of symptoms of heat illness, the employers shall
+26 immediately provide appropriate first aid or emergency response.
+27 (2) The employer shall provide access to drinking water located as close as practicable to
+28 where employees are working. If drinking water is not plumbed or otherwise continuously supplied,
+29 it shall be provided in sufficient quantity so that a minimum of thirty-two (32) ounces of drinking
+30 water per hour is available per employee.
+31 (3) The employer shall allow and encourage preventative cool-down break in a cool-down
+32 area of no less than ten (10) minutes, in addition to the time needed to access the cool-down area,
+33 as needed and at any time the employee feels the onset of heat illness.
+34 (i) Employees who take a preventative cool-down break shall be monitored and asked about
+LC005697 - Page 4 of 10
+
+1 symptoms of heat illness.
+2 (ii) Employees shall be encouraged to remain in the cool-down area and shall not be
+3 ordered back to work until any signs or symptoms of heat illness have abated.
+4 (iii) Employees shall be compensated for their time spent on a preventative cool-down
+5 break. The preventative cool-down breaks required by this section may be provided concurrently
+6 with any other meal or rest period required by policy, rule or law if the timing of the preventative
+7 cool-down break coincides with an otherwise required meal or rest period. Except when such period
+8 coincides with an existing unpaid meal break, the preventative cool-down break shall be considered
+9 a work assignment and shall be compensated accordingly.
+10 (4) The employer shall ensure that adequate access to shade is available when temperatures
+11 reach or exceed the initial heat trigger.
+12 (i) Employees shall have access to shade as close as practicable to the worksite.
+13 (ii) The amount of shade shall be at least enough to accommodate the number of employees
+14 on recovery or rest breaks, with a minimum of four square feet (4 sq. ft.) per resting employee.
+15 (5) The employer shall provide, at no cost to the employee and to the extent practicable,
+16 the necessary personal protective equipment to withstand temperatures at or about the initial heat
+17 trigger.
+18 (6) Employees who spend more than sixty (60) minutes per day or shift in employer-
+19 provided vehicles, or whose worksite is considered an employer-provided vehicle, shall be
+20 provided with adequate air conditioning inside such vehicle. The air conditioning shall be
+21 maintained in accordance with to the manufacturer’s instructions and shall be capable of keeping
+22 temperatures below eighty degrees Fahrenheit (80°F).
+23 (7) The employer shall provide time for acclimatization of new and returning employees.
+24 (i) New employees and existing employees newly assigned to heat work, or absent from
+25 heat work for more than seven (7) days, shall work only twenty percent (20%) of their normal
+26 duration of their first day and shall gradually increase work duration over a two (2) week period.
+27 (b) The employer shall implement high heat procedures when employees are in an outdoor
+28 or indoor worksite and experiencing extreme heat conditions.
+29 (1) The employer shall ensure that each employee takes a minimum ten (10) minute net
+30 preventative cool-down break every two (2) hours.
+31 (i) Employees shall be compensated for their time spent on a preventative cool-down break.
+32 The preventative cool-down breaks required by this section may be provided concurrently with any
+33 other meal or rest period required by policy, rule or law if the timing of the preventative cool-down
+34 break coincides with an otherwise required meal or rest period. Except when such period coincides
+LC005697 - Page 5 of 10
+
+1 with an existing unpaid meal break, the preventative cool-down break shall be considered a work
+2 assignment and shall be compensated accordingly.
+3 (2) When the temperature equals or exceeds one hundred degrees Fahrenheit (100°F), the
+4 employer shall ensure that each employee takes a minimum fifteen (15) minute net preventative
+5 cool-down break every hour.
+6 (i) Employees shall be compensated for their time spent on a preventative cool-down break.
+7 The preventative cool-down breaks required by this section may be provided concurrently with any
+8 other meal or rest period required by policy, rule or law if the timing of the preventative cool-down
+9 break coincides with an otherwise required meal or rest period. Except when such period coincides
+10 with an existing unpaid meal break, the preventative cool-down break shall be considered a work
+11 assignment and shall be compensated accordingly.
+12 (3) Before a work shift, or upon determining that the high heat trigger has been met or
+13 exceeded, the employer shall notify workers of the following:
+14 (i) The importance of drinking plenty of water;
+15 (ii) Employees’ right to take rest breaks; and
+16 (iii) How to seek help and the procedures to follow in a heat emergency.
+17 23-106-6. Cold-stress specific standards.
+18 (a) An employer shall comply with the following requirements when employees are in an
+19 outdoor or indoor worksite and experiencing conditions at or below the initial cold trigger:
+20 (1) The employer shall closely monitor temperature and implement its workplace TRIIPP.
+21 If an employee exhibits signs or reports symptoms of cold illness, the employer shall immediately
+22 provide appropriate first aid or emergency response.
+23 (2) The employer shall provide access to drinking water located as close as practicable to
+24 where employees are working. If drinking water is not plumbed or otherwise continuously supplied,
+25 it shall be provided in sufficient quantity so that a minimum of thirty-two (32) ounces of drinking
+26 water per hour is available per employee. Drinking water shall not be frozen.
+27 (3) The employer shall allow and encourage preventative warm-up breaks of no less than
+28 ten (10) minutes every two (2) hours and at any time a worker feels the onset of cold illness.
+29 Preventative breaks may include access to warmth.
+30 (i) Employees who take a preventative warm-up break shall be monitored and asked
+31 whether they are experiencing signs or symptoms of cold illness.
+32 (ii) Employees shall be encouraged to remain in the warmth and shall not be ordered back
+33 to work until any signs or symptoms of cold illness have abated.
+34 (iii) Employees shall be compensated for their time spent on a preventative warm-up break.
+LC005697 - Page 6 of 10
+
+1 The preventative warm-up breaks required by this section may be provided concurrently with any
+2 other meal or rest period required by policy, rule or law if the timing of the preventative warm-up
+3 break coincides with an otherwise required meal or rest period. Except when the timing of the
+4 preventative warm-up break coincides with the existing unpaid meal break, the preventative warm-
+5 up break shall be considered a work assignment and shall be compensated accordingly.
+6 (4) The employer shall provide employees with access to warmth as follows:
+7 (i) A heated indoor area shall be made available to workers as close as practicable to the
+8 work areas; or
+9 (ii) Where the employer can demonstrate that it is infeasible or unsafe to provide a heated
+10 indoor area, or otherwise to provide a heated area on a continuous basis, the employer may utilize
+11 alternative procedures for providing access to warmth; provided that, such alternative procedures
+12 offer equivalent protection.
+13 (5) The employer shall provide, at no cost to the employee and to the extent practicable,
+14 the necessary personal protective equipment to withstand temperatures at or below the initial cold
+15 temperature trigger.
+16 (6) Employees who spend more than sixty (60) minutes per day or shift in employer-
+17 provided vehicles, or whose worksite is considered an employer-provided vehicle, shall be
+18 provided with an adequate heating system inside such vehicle. The heating system shall be
+19 maintained in accordance with the manufacturer’s instructions and shall be capable of maintaining
+20 temperatures above sixty degrees Fahrenheit (60°F).
+21 (b) The employer shall comply with the following requirements when employees are in an
+22 outdoor or indoor worksite and experiencing extreme cold temperature conditions:
+23 (1) The employer shall ensure that the employee takes a minimum ten (10) minute net
+24 preventative warm-up break every two (2) hours.
+25 (i) Employees shall be compensated for their time spent on a preventative warm-up break.
+26 The preventative warm-up breaks required by this section may be provided concurrently with any
+27 other meal or rest period required by policy, rule or law if the timing of the preventative warm-up
+28 break coincides with an otherwise required meal or rest period. Except when the timing of the
+29 preventative warm-up break coincides with the existing unpaid meal break, the preventative warm-
+30 up break shall be considered a work assignment and shall be compensated accordingly.
+31 (2) The employer shall ensure that if an employee’s skin, clothing or personal protective
+32 equipment becomes wet, the employee is immediately removed from the work area and taken to a
+33 warm-up area. The employee shall have the wet clothing or personal protective equipment removed
+34 and shall not to return to work until the items are dry or have been replaced.
+LC005697 - Page 7 of 10
+
+1 (3) The employer shall provide appropriate personal protective equipment to ensure that
+2 employees’ ears, face, hands, and feet are protected in extreme cold temperatures.
+3 23-106-7. Training.
+4 (a) Pursuant to a program established in furtherance of the provisions of § 23-106-4(a)(3),
+5 employers shall require supervisors and managers to:
+6 (1) Complete the department of health’s online public tutorial program quarterly to
+7 recognize the signs of overexposure to hot and cold temperatures, including injuries and illness
+8 caused by extreme temperatures;
+9 (2) Ensure that appropriate personal protective equipment is available, to include hats,
+10 gloves, winter coats, cooling vests, and sunscreen, as appropriate for the extreme temperatures; and
+11 (3) Ensure that heating and cooling equipment is maintained and functional.
+12 (b) Free and effective training on temperature safety shall be provided quarterly to
+13 employees who work in warehouses, in vehicles, or outdoors including, but not limited to,
+14 construction sites, farms, vineyards, and recreation and fishing sites. This training shall occur
+15 during work hours and include the following elements:
+16 (1) Informing and assisting employees in identifying the risk factors, signs, and symptoms
+17 of cold stress and heat-related illness, as well as the appropriate medical responses;
+18 (2) Informing employees of the paid rest breaks, adequate shade, warming or cooling
+19 stations, drinking water, personal protective equipment, heating and cooling equipment, and other
+20 protections which shall be provided;
+21 (3) Outlining and clarifying the employer’s procedures for monitoring temperature
+22 conditions and providing workers with the ability to participate in the monitoring process; and
+23 (4) Demonstrating the proper use of personal protective equipment, to include hats, gloves,
+24 winter coats, cooling vests, sunscreen, and related protective equipment.
+25 (c) The department of health shall create and implement an online public tutorial program
+26 for supervisors and managers that:
+27 (1) Teaches them to recognize the signs of overexposure to hot and cold temperatures,
+28 including injuries and illnesses caused by extreme temperatures; and
+29 (2) Instructs them on ensuring that appropriate personal protective equipment is available,
+30 including hats, gloves, winter coats, cooling vests, and sunscreen, as appropriate for extreme
+31 temperatures.
+32 23-106-8. Recordkeeping.
+33 Every employer shall collect and maintain data and records as required on all temperature-
+34 related illnesses and fatalities which occur at an outdoor or indoor worksite.
+LC005697 - Page 8 of 10
+
+1 23-106-9. Retaliation prohibited.
+2 (a) An employer shall not discharge, threaten, or otherwise discriminate or retaliate against
+3 an employee or any other person for asserting, supporting, reporting, or participating in or being
+4 asked to participate in the investigation or determination of claim violation or actionable under this
+5 chapter.
+6 (b) Violations of subsection (a) shall be an unlawful employment practice as set forth in §
+7 28-5-7.
+8 23-106-10. Rules and regulations.
+9 (a) The department of health, in consultation with the department of attorney general, may
+10 promulgate rules and regulations deemed necessary to carry out the provisions of this chapter.
+11 23-106-11. Enforcement.
+12 (a) The inspection, enforcement, and penalties for violations of the provisions of this
+13 chapter shall be in accordance with the provisions and procedures set forth in §§ 23-1-19 through
+14 23-1-25. In addition, the enforcement powers set forth in §§ 23-1.1-7 through 23-1.1-16 shall apply
+15 and shall be in addition to, and not in limitation of, any other provisions of the general laws
+16 pertaining to enforcement of the laws of this state.
+17 (b) Whenever the attorney general has reason to believe that any employer, or its agent, is
+18 using, has used, or is about to use any method, act, or practice declared to be unlawful by this
+19 chapter, and that proceedings would be in the public interest, the attorney general may bring an
+20 action in the name of the state against the employer, or its agent, to restrain by temporary or
+21 permanent injunction the use of the method, act, or practice, upon the giving of appropriate notice
+22 to that person and to seek any other relief that may be appropriate.
+23 23-106-12. Severability.
+24 If any provision of this chapter or any rule or regulation promulgated pursuant to the
+25 provisions of this chapter, or its application to any person or circumstance, is held invalid by a court
+26 of competent jurisdiction, the remainder of the chapter, rule, or regulation and the application of
+27 such provision to other persons or circumstances shall not be affected thereby. The invalidity of
+28 any section or sections or portion of any section of this chapter shall not affect the validity of the
+29 remainder of this chapter.
+30 SECTION 2. This act shall take effect upon passage.
+========
+LC005697
+========
+LC005697 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE EXTREME TEMPERATURE WORKER
+PROTECTION ACT
+***
+1 This act would require employers to protect workers from extreme heat and cold by
+2 implementing safety plans, providing paid rest breaks, shade or warmth, drinking water, and
+3 protective equipment, ensuring training, and recordkeeping.
+4 This act would take effect upon passage.
+========
+LC005697
+========
+LC005697 - Page 10 of 10

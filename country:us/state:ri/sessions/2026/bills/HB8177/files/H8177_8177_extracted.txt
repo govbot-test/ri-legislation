@@ -1,0 +1,350 @@
+Title: 
+Official Title: 
+Source: versions - 8177
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8177
+========
+LC005379
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- 988 CALL CENTER FUNDING
+AND OPERATIONS ACT
+Introduced By: Representatives Shallcross Smith, Casey, Cruz, Solomon, Casimiro,
+Fellela, Messier, Dawson, Ajello, and Biah
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds that:
+3 (1) Access to suicide prevention and behavioral health crisis intervention is essential to
+4 protecting public health and safety;
+5 (2) Congress enacted the National Suicide Hotline Designation Act of 2020, which
+6 authorized states to implement and fund a 988 crisis hotline;
+7 (3) The State of Rhode Island must create a reliable, sustainable funding source to support
+8 its 988 call center infrastructure;
+9 (4) The designated 988 call center must operate independently from state agencies and
+10 focus exclusively on the core responsibilities of answering 988 calls, texts, and chats, consistent
+11 with federal law; and
+12 (5) Consolidating all applicable revenue sources into a single restricted receipt fund will
+13 ensure fiscal integrity and long-term sustainability.
+14 SECTION 2. Title 39 of the General Laws entitled "PUBLIC UTILITIES AND
+15 CARRIERS" is hereby amended by adding thereto the following chapter:
+16 CHAPTER 21.3
+17 988 CALL CENTER FUNDING AND OPERATIONS ACT
+18 39-21.3-1. Definitions.
+
+1 As used in this chapter:
+2 (1) "988 call center" means the designated, non-governmental entity operating the federally
+3 approved in-state contact center for the National Suicide Prevention Lifeline, exclusively
+4 responsible for answering and responding to 988 contacts originating in Rhode Island.
+5 (2) "988 fee" means the monthly surcharge levied on telecommunications services to
+6 support the operation of 911 and/or first responder services and the 988 call center.
+7 (3) "Lifeline administrator" means the entity that contracts with the Substance Abuse and
+8 Mental Health Services Administration (SAMHSA) to oversee in excess of two hundred (200)
+9 contact centers and ensures they meets all requirements.
+10 (4) “Operator” means the nonprofit entity designated to oversee the 988 call center pursuant
+11 to § 39-21.3-4.
+12 (5) "Telecommunications provider" means any person or entity that provides commercial
+13 mobile radio service, interconnected VoIP service, or wireless telecommunications service to end
+14 users in the state.
+15 (6) "Subscriber" means a person or entity billed for telecommunications services with a
+16 service address in Rhode Island.
+17 39-21.3-2. 988 Call center – Restricted receipt account.
+18 (a) There is hereby established a restricted receipt account, known as the "988 call center
+19 fund," to be held and administered by the office of the general treasurer.
+20 (b) The fund shall consist of:
+21 (1) Revenue collected from the 988 fee established pursuant to § 39-21.1-14;
+22 (2) Legislative appropriations designated for 988 operations;
+23 (3) Federal block grant allocations or other federal funds specifically allocated for 988 or
+24 crisis hotline services; and
+25 (4) Interest or investment income earned on monies deposited in the fund.
+26 (c) The Rhode Island division of taxation shall deposit all remittances into the 988 call
+27 center fund.
+28 39-21.3-3. Authorized uses of the trust fund.
+29 (a) Monies in the 988 call center fund shall be used to support the 988 call center budget
+30 to:
+31 (1) Operate, staff, and maintain the 988 call center;
+32 (2) Acquire, upgrade, and maintain technology or telecommunications infrastructure for
+33 988 call center use;
+34 (3) Provide required training for call center staff in accordance with federal 988 program
+LC005379 - Page 2 of 11
+
+1 standards; and
+2 (4) Conduct public awareness and first responder outreach efforts about the availability
+3 and use of 988.
+4 (b) Monies shall not be used to:
+5 (1) Deliver or fund behavioral health treatment, case management, or clinical services;
+6 (2) Expand into service areas beyond those allowed by the National Suicide Hotline
+7 Designation Act or implementing SAMHSA guidance; or
+8 (3) Fund operations, staff, or administration of any state agency.
+9 39-21.3-4. Governance and independence of 988 call center operations.
+10 (a) The 988 call center shall be operated by a nonprofit entity appointed by the general
+11 assembly and approved by the lifeline administrator designated by SAMHSA in accordance with
+12 federal grant requirements.
+13 (b) The call center shall operate collaboratively with all Rhode Island executive
+14 departments and shall not be subject to oversight, direction, or operational control by any sole state
+15 agency.
+16 (c) The operator may establish an advisory board to promote compliance with national
+17 standards and best practices. An advisory board, if established at the direction of the operator, shall
+18 consist of professionals with expertise in children, adolescent, and adult behavioral health.
+19 39-21.3-5. Oversight and reporting.
+20 (a) The operator shall submit an annual report to the general assembly by February 1 of
+21 each year detailing:
+22 (1) Revenue by category including, but not limited to, 988 fees, grants, and appropriations;
+23 (2) Expenditures by category including, but not limited to, staffing, training, and
+24 technology; and
+25 (3) Service performance metrics including, but not limited to, call volume, wait times, and
+26 abandonments.
+27 (b) The Rhode Island auditor general shall conduct an annual audit of the 988 call center
+28 fund and provide the results to the speaker of the house; the president of the senate; the house of
+29 representatives finance committee chair; and the senate finance committee chair.
+30 SECTION 3. Section 35-4-27 of the General Laws in Chapter 35-4 entitled "State Funds"
+31 is hereby amended to read as follows:
+32 35-4-27. Indirect cost recoveries on restricted receipt accounts.
+33 Indirect cost recoveries of fifteen percent (15%) of cash receipts shall be transferred from
+34 all restricted receipt accounts, to be recorded as general revenues in the general fund. However,
+LC005379 - Page 3 of 11
+
+1 there shall be no transfer from cash receipts with restrictions received exclusively: (1) From
+2 contributions from nonprofit charitable organizations; (2) From the assessment of indirect cost-
+3 recovery rates on federal grant funds; or (3) Through transfers from state agencies to the department
+4 of administration for the payment of debt service. These indirect cost recoveries shall be applied to
+5 all accounts, unless prohibited by federal law or regulation, court order, or court settlement. The
+6 following restricted receipt accounts shall not be subject to the provisions of this section:
+7 Executive Office of Health and Human Services
+8 HIV Care Grant Drug Rebates
+9 Health System Transformation Project
+10 Rhode Island Statewide Opioid Abatement Account
+11 HCBS Support-ARPA
+12 HCBS Admin Support-ARPA
+13 Department of Human Services
+14 Organ Transplant Fund
+15 Veterans’ home — Restricted account
+16 Veterans’ home — Resident benefits
+17 Pharmaceutical Rebates Account
+18 Demand Side Management Grants
+19 Veteran’s Cemetery Memorial Fund
+20 Donations — New Veterans’ Home Construction
+21 Commodity Supplemental Food Program-Claims
+22 Department of Health
+23 Pandemic medications and equipment account
+24 Miscellaneous Donations/Grants from Non-Profits
+25 State Loan Repayment Match
+26 Healthcare Information Technology
+27 Department of Behavioral Healthcare, Developmental Disabilities and Hospitals
+28 Eleanor Slater non-Medicaid third-party payor account
+29 Hospital Medicare Part D Receipts
+30 RICLAS Group Home Operations
+31 Group Home Facility Improvement Fund
+32 Commission on the Deaf and Hard of Hearing
+33 Emergency and public communication access account
+34 Department of Environmental Management
+LC005379 - Page 4 of 11
+
+1 National heritage revolving fund
+2 Environmental response fund II
+3 Underground storage tanks registration fees
+4 De Coppet Estate Fund
+5 Rhode Island Historical Preservation and Heritage Commission
+6 Historic preservation revolving loan fund
+7 Historic Preservation loan fund — Interest revenue
+8 Department of Public Safety
+9 E-911 Uniform Emergency Telephone System
+10 Forfeited property — Retained
+11 988 Call Center Fund
+12 Forfeitures — Federal
+13 Forfeited property — Gambling
+14 Donation — Polygraph and Law Enforcement Training
+15 Rhode Island State Firefighter’s League Training Account
+16 Fire Academy Training Fees Account
+17 Attorney General
+18 Forfeiture of property
+19 Federal forfeitures
+20 Attorney General multi-state account
+21 Forfeited property — Gambling
+22 Department of Administration
+23 Health Insurance Market Integrity Fund
+24 RI Health Benefits Exchange
+25 Information Technology restricted receipt account
+26 Restore and replacement — Insurance coverage
+27 Convention Center Authority rental payments
+28 Investment Receipts — TANS
+29 OPEB System Restricted Receipt Account
+30 Grants Management Administration
+31 Office of Energy Resources
+32 OER Reconciliation Funding
+33 RGGI Executive Climate Change Coordinating Council Projects
+34 Electric Vehicle Charging Stations Operating and Maintenance Account
+LC005379 - Page 5 of 11
+
+1 Clean Transportation Programs
+2 Department of Housing
+3 Housing Resources and Homelessness Restricted Receipt Account
+4 Housing Production Fund
+5 Low-Income Housing Tax Credit Fund
+6 Department of Revenue
+7 Car Rental Tax/Surcharge-Warwick Share
+8 DMV Modernization Project
+9 Jobs Tax Credit Redemption Fund
+10 Legislature
+11 Audit of federal assisted programs
+12 Department of Children, Youth and Families
+13 Children’s Trust Accounts — SSI
+14 Military Staff
+15 RI Military Family Relief Fund
+16 RI National Guard Counterdrug Program
+17 Treasury
+18 Admin. Expenses — State Retirement System
+19 Retirement — Treasury Investment Options
+20 Defined Contribution — Administration - RR
+21 Violent Crimes Compensation — Refunds
+22 Treasury Research Fellowship
+23 Business Regulation
+24 Banking Division Reimbursement Account
+25 Office of the Health Insurance Commissioner Reimbursement Account
+26 Securities Division Reimbursement Account
+27 Commercial Licensing and Racing and Athletics Division Reimbursement Account
+28 Insurance Division Reimbursement Account
+29 Historic Preservation Tax Credit Account
+30 Rhode Island Cannabis Control Commission
+31 Marijuana Trust Fund
+32 Social Equity Assistance Fund
+33 Judiciary
+34 Arbitration Fund Restricted Receipt Account
+LC005379 - Page 6 of 11
+
+1 Third-Party Grants
+2 RI Judiciary Technology Surcharge Account
+3 Department of Elementary and Secondary Education
+4 Statewide Student Transportation Services Account
+5 School for the Deaf Fee-for-Service Account
+6 School for the Deaf — School Breakfast and Lunch Program
+7 Davies Career and Technical School Local Education Aid Account
+8 Davies — National School Breakfast & Lunch Program
+9 School Construction Services
+10 Office of the Postsecondary Commissioner
+11 Tuition Savings Program Fund
+12 Higher Education and Industry Center
+13 IGT STEM Scholarships
+14 Department of Labor and Training
+15 Job Development Fund
+16 Contractor Training Restricted Receipt Account
+17 Workers’ Compensation Administrative Account
+18 Rhode Island Council on the Arts
+19 Governors’ Portrait Donation Fund
+20 Statewide records management system account
+21 SECTION 4. Section 39-21.1-14 of the General Laws in Chapter 39-21.1 entitled "911
+22 Emergency Telephone Number Act" is hereby amended to read as follows:
+23 39-21.1-14. E-911 surcharge and first response surcharge.
+24 (a)(1) A monthly E-911 surcharge of fifty cents ($.50) is hereby levied upon each residence
+25 and business telephone line or trunk, or path and data, telephony, internet, voice over internet
+26 protocol (VoIP) wireline, line, trunk, or path in the state including PBX trunks and centrex
+27 equivalent trunks and each line or trunk serving, and upon each user interface number or extension
+28 number or similarly identifiable line, trunk, or path to or from a digital network (such as, but not
+29 exclusive of, integrated services digital network (ISDN), Flexpath, or comparable digital private
+30 branch exchange, or connecting to or from a customer-based or dedicated telephone switch site
+31 (such as, but not exclusive of, a private branch exchange (PBX)), or connecting to or from a
+32 customer-based or dedicated central office (such as, but not exclusive of, a centrex system but
+33 exclusive of trunks and lines provided to wireless communication companies) that can access to,
+34 connect with, or interface with the Rhode Island E-911 uniform emergency telephone system (RI
+LC005379 - Page 7 of 11
+
+1 E-911). In each instance where a surcharge is levied pursuant to this subsection (a)(1) there shall
+2 also be a monthly first response surcharge of fifty cents ($.50) and a monthly 988 surcharge of fifty
+3 cents ($.50) and a monthly 988 fee of ______cents ($.__). The surcharges shall be billed by each
+4 telecommunication services provider at the inception of services and shall be payable to the
+5 telecommunication services provider by the subscriber of the services.
+6 (2) A monthly E-911 surcharge of fifty cents ($.50) and a monthly 988 fee of ______cents
+7 ($.__) are is hereby levied on each wireless instrument, device, or means, including prepaid,
+8 cellular, telephony, internet, voice over internet protocol (VoIP), satellite, computer, radio,
+9 communication, data or data only wireless lines, or any other wireless instrument, device, or means
+10 that has access to, connects with, or activates or interfaces or any combination thereof with the E-
+11 911 uniform emergency telephone system. In each instance where a surcharge is levied pursuant to
+12 this subsection (a)(2) there shall also be a monthly first response surcharge of seventy-five cents
+13 ($.75). The surcharges shall be billed by each telecommunication services provider and shall be
+14 payable to the telecommunication services provider by the subscriber. Prepaid wireless
+15 telecommunications services shall not be included in this act, but shall be governed by chapter 21.2
+16 of this title. The E-911 uniform emergency telephone system shall establish, by rule or regulation,
+17 an appropriate funding mechanism to recover from the general body of ratepayers this surcharge.
+18 (b) The amount of the surcharges shall not be subject to the tax imposed under chapter 18
+19 of title 44 nor be included within the telephone common carrier’s gross earnings for the purpose of
+20 computing the tax under chapter 13 of title 44.
+21 (c) Each telephone common carrier and each telecommunication services provider shall
+22 establish a special account to which it shall deposit on a monthly basis the amounts collected as
+23 surcharges under this section.
+24 (d) The money collected by each telecommunication services provider shall be transferred
+25 within sixty (60) days after its inception of wireline, wireless, prepaid, cellular, telephony, voice
+26 over internet protocol (VoIP), satellite, computer, internet, or communications services in this state
+27 and every month thereafter, to the division of taxation, together with the accrued interest. The E-
+28 911 surcharge shall be deposited in a restricted-receipt account and used solely for the operation of
+29 the E-911 uniform emergency telephone system. The first response surcharge shall be deposited in
+30 the general fund; provided, however, that ten percent (10%) of the money collected from the first
+31 response surcharge shall be deposited in the information technology restricted receipt account
+32 (ITRR account) established pursuant to § 42-11-2.5(a). The 988 surcharge shall be deposited in the
+33 988 call center fund established pursuant to § 39-21.3-3. Any money not transferred in accordance
+34 with this subsection shall be assessed interest at the rate set forth in § 44-1-7 from the date the
+LC005379 - Page 8 of 11
+
+1 money should have been transferred.
+2 (e) Every billed subscriber-user shall be liable for any surcharge imposed under this section
+3 until it has been paid to the telephone common carrier or telecommunication services provider. Any
+4 surcharge shall be added to and shall be stated separately in the billing by the telephone common
+5 carrier or telecommunication services provider and shall be collected by the telephone common
+6 carrier or telecommunication services provider.
+7 (f) Each telephone common carrier and telecommunication services provider shall annually
+8 provide the E-911 uniform emergency telephone system division, or any other agency that may
+9 replace it, with a list of amounts uncollected, together with the names and addresses of its
+10 subscriber-users who can be determined by the telephone common carrier or telecommunication
+11 services provider to have not paid the E-911 surcharge.
+12 (g) Included within, but not limited to, the purposes for which the money collected from
+13 the E-911 surcharge may be used, are rent, lease, purchase, improvement, construction,
+14 maintenance, repair, and utilities for the equipment and site or sites occupied by the E-911 uniform
+15 emergency telephone system; salaries, benefits, and other associated personnel costs; acquisition,
+16 upgrade, or modification of PSAP equipment to be capable of receiving E-911 information,
+17 including necessary computer hardware, software, and database provisioning, addressing, and non-
+18 recurring costs of establishing emergency services; network development, operation, and
+19 maintenance; database development, operation, and maintenance; on-premise equipment
+20 maintenance and operation; training emergency service personnel regarding use of E-911;
+21 educating consumers regarding the operations, limitations, role, and responsible use of E-911;
+22 reimbursement to telephone common carriers or telecommunication services providers of rates or
+23 recurring costs associated with any services, operation, administration, or maintenance of E-911
+24 services as approved by the division; reimbursement to telecommunication services providers or
+25 telephone common carriers of other costs associated with providing E-911 services, including the
+26 cost of the design, development, and implementation of equipment or software necessary to provide
+27 E-911 service information to PSAPs, as approved by the division.
+28 (h) [Deleted by P.L. 2000, ch. 55, art. 28, § 1.]
+29 (i) Nothing in this section shall be construed to constitute rate regulation of wireless
+30 communication services carriers, nor shall this section be construed to prohibit wireless
+31 communication services carriers from charging subscribers for any wireless service or feature.
+32 (j) [Deleted by P.L. 2006, ch. 246, art. 4, § 1.]
+33 SECTION 5. This act shall take effect on July 1, 2027.
+LC005379 - Page 9 of 11
+
+========
+LC005379
+========
+LC005379 - Page 10 of 11
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- 988 CALL CENTER FUNDING
+AND OPERATIONS ACT
+***
+1 This act would establish a fund and the operations necessary for a 988 hotline for suicide
+2 prevention and behavioral health crisis management. This act would also instate a monthly
+3 surcharge on telephone lines to fund the 988 call center.
+4 This act would take effect on July 1, 2027.
+========
+LC005379
+========
+LC005379 - Page 11 of 11

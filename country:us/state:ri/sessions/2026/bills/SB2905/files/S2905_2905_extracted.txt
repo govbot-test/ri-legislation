@@ -1,0 +1,155 @@
+Title: 
+Official Title: 
+Source: versions - 2905
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2905
+========
+LC005475
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- DECARBONIZATION
+DEMONSTRATION INITIATIVE ACT OF 2026
+Introduced By: Senators Euer, Mack, DiMario, Valverde, Acosta, Gu, Kallman, and
+Pearson
+Date Introduced: March 04, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1.
+2 The general assembly finds and declares that:
+3 (1) The Act on Climate, chapter 6.2 of title 42, establishes legally binding greenhouse gas
+4 emissions reduction targets for the state;
+5 (2) Emissions from existing buildings, including large multi-unit residential buildings,
+6 represent a significant portion of statewide greenhouse gas emissions;
+7 (3) Ground-source geothermal heat pump systems and other deep-decarbonization
+8 measures can substantially reduce emissions from existing residential buildings;
+9 (4) A principal barrier to adoption of such systems is the cost and financial risk associated
+10 with obtaining detailed, site-specific feasibility proposals; and
+11 (5) Reducing this barrier through a feasibility-first financing approach will accelerate
+12 informed investment decisions, advance compliance with the Act on Climate, and generate data to
+13 support future decarbonization policy.
+14 SECTION 2. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+15 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+16 CHAPTER 6.3
+17 DECARBONIZATION DEMONSTRATION INITIATIVE ACT OF 2026
+18 42-6.3-1. Definitions.
+
+1 As used in this chapter:
+2 (1) "Applicant" means the owner, or an authorized agent of the owner, of a multi-unit
+3 residential dwelling containing greater than sixty-five thousand square feet (65,000 sq.ft.) of gross
+4 floor area.
+5 (2) "Feasibility proposal" means a detailed technical and economic assessment prepared by
+6 a qualified contractor evaluating the feasibility of converting an existing building to a geothermal
+7 heat pump system, including, but not limited to:
+8 (i) Estimated installation and operating costs;
+9 (ii) Anticipated energy savings and greenhouse gas emission reductions;
+10 (iii) Required changes to internal heating and cooling distribution systems;
+11 (iv) The provision of air conditioning in conjunction with heating; and
+12 (v) Impacts on tenant services, building operations, and cost allocation.
+13 (3) "Gross floor area" means the total enclosed floor area of a building, measured from the
+14 exterior faces of exterior walls, including residential units and common areas, but excluding
+15 parking areas not enclosed within the building envelope.
+16 (4) "Initial feasibility screening" means a preliminary assessment indicating that a building
+17 may be technically suitable for geothermal conversion.
+18 (5) "Office" means the Rhode Island office of energy resources.
+19 (6) "Qualified contractor" means a professional engineer, energy consultant, or geothermal
+20 contractor with demonstrated experience in geothermal system design, as approved by the office.
+21 42-6.3-2. Geothermal feasibility loan program established.
+22 (a) There is hereby established within the office a demonstration initiative known as the
+23 multi-unit residential geothermal feasibility loan program.
+24 (b) The program shall be administered by the office, in coordination with the Rhode Island
+25 infrastructure bank, and shall provide no-interest loans to eligible applicants for the sole purpose
+26 of obtaining feasibility proposals.
+27 42-6.3-3. Eligibility and application requirements.
+28 (a) To be eligible for a loan under this chapter, an applicant shall:
+29 (1) Own or control a multi-unit residential dwelling containing greater than sixty-five
+30 thousand square feet (65,000 sq.ft.) of gross floor area;
+31 (2) Submit an initial feasibility screening prepared by a qualified contractor indicating
+32 potential suitability for geothermal conversion; and
+33 (3) Provide any additional information as the office may require by rule.
+34 (b) The office may prioritize applications based on building size, age, energy use intensity,
+LC005475 - Page 2 of 5
+
+1 geographic distribution, housing type, or anticipated greenhouse gas reduction potential, consistent
+2 with the purposes of this chapter.
+3 42-6.3-4. Loan amount and permitted uses.
+4 (a) Loans issued under this chapter shall not exceed fifty thousand dollars ($50,000) per
+5 building provided, however, the loan may be up to seventy-five thousand dollars ($75,000) if the
+6 dwelling has greater than one-hundred thousand square feet (100,000 sq. ft.) of gross floor area.
+7 (b) Loan proceeds shall be used solely to pay for the preparation of a feasibility proposal
+8 by a qualified contractor.
+9 42-6.3-5. Loan terms - no-risk provisions.
+10 (a) Loans issued pursuant to this chapter shall bear no interest.
+11 (b) Repayment of a loan shall not be required if:
+12 (1) The feasibility proposal determines that geothermal conversion is not feasible; or
+13 (2) The applicant elects not to proceed with implementation due to the inability to obtain
+14 financing, investor approval, ownership approval, or other approvals beyond the applicant’s
+15 reasonable control.
+16 (c) If an applicant proceeds with geothermal conversion, the loan shall be due at the
+17 commencement of construction provided, however, the office may allow repayment of the
+18 feasibility loan through, or in conjunction with, existing state or utility clean-energy financing or
+19 incentive programs including, but not limited to, any clean energy program offered by the office of
+20 energy resources, approved by the commissioner of energy resources.
+21 42-6.3-6. Rules, regulations and administration.
+22 The office shall work in conjunction with the state building code standards committee and
+23 shall promulgate rules and regulations pursuant to chapter 42 of title 35 to implement and
+24 administer this chapter, including, but not limited to, contractor qualification standards, application
+25 procedures, loan documentation, and program oversight.
+26 42-6.3-7. Reporting.
+27 The office shall submit an annual report to the governor, the speaker of the house of
+28 representatives, and the president of the senate containing:
+29 (1) The number of applications received and approved;
+30 (2) The total amount of loans issued;
+31 (3) Feasibility outcomes and building characteristics;
+32 (4) Estimated energy savings and greenhouse gas emission reductions; and
+33 (5) Recommendations for continuation, modification, or expansion of the program as a tool
+34 to achieve the goals set by chapter 6.2 of title 42 ("act on climate").
+LC005475 - Page 3 of 5
+
+1 42-6.3-8. Appropriation -- Revolving fund established.
+2 (a) The general assembly shall consider annual recommendations by the office to
+3 appropriate out of any money in the treasury not otherwise appropriated in any given year, for the
+4 fiscal year commencing July 1, 2026, and each fiscal year thereafter, the sum (not to exceed five-
+5 hundred thousand dollars ($500,000)) as may be necessary to implement the provisions of this
+6 chapter.
+7 (b) Funds appropriated pursuant to this section shall be used solely for:
+8 (1) Feasibility loans issued under this chapter;
+9 (2) Reasonable administrative costs incurred by the office of energy resources and the
+10 Rhode Island infrastructure bank; and
+11 (3) Program evaluation and reporting required under § 42-6.3-7.
+12 (c) Any funds appropriated but not expended or encumbered at the end of a fiscal year shall
+13 remain available for expenditure in subsequent fiscal years for the purposes of this chapter.
+14 (d) Any funds repaid under this chapter shall be retained by the office and shall be re-lent
+15 by the office to new applicants on the same terms and conditions set forth herein.
+16 42-6.3-9. Severability.
+17 If any provision of this chapter or the application thereof to any person or circumstance is
+18 held invalid, such invalidity shall not affect other provisions or applications of the chapter which
+19 can be given effect without the invalid provision or application.
+20 SECTION 3. This act shall take effect upon passage.
+========
+LC005475
+========
+LC005475 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- DECARBONIZATION
+DEMONSTRATION INITIATIVE ACT OF 2026
+***
+1 This act would create the multi-unit residential decarbonization initiative program to
+2 provide revolving funding for feasibility studies to convert large, multi-family residential units to
+3 non-emitting renewable geothermal energy.
+4 This act would take effect upon passage.
+========
+LC005475
+========
+LC005475 - Page 5 of 5

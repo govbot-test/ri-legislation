@@ -1,0 +1,251 @@
+Title: 
+Official Title: 
+Source: versions - 7512
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7512
+========
+LC003737
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESS AND PROFESSIONS -- CONTRACTORS' REGISTRATION
+AND LICENSING BOARD
+Introduced By: Representative Stephen M. Casey
+Date Introduced: February 06, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 5-65-1 of the General Laws in Chapter 5-65 entitled "Contractors’
+2 Registration and Licensing Board" is hereby amended to read as follows:
+3 5-65-1. Definitions.
+4 As used in this chapter:
+5 (1) “Appurtenances” means any accessory improvement to real estate associated with a
+6 primary structure.
+7 (2) “Board” means the contractors’ registration and licensing board established pursuant to
+8 the provisions of § 5-65-14 or its designees.
+9 (3) “Claim” means that portion of a complaint that pertains to the complainant’s assertion
+10 that they are entitled to monetary damages, an order for specific performance of work and/or other
+11 contractual or equitable relief or remedies on account of allegations or disputes between themself
+12 and a contractor or themself and a subcontractor.
+13 (4) “Claim for retainage” means an allegation that a person seeking payment of retainage
+14 breached the person’s contract for the project; provided, however, that a “claim” related to a project
+15 with a contract value of not less than two hundred fifty thousand dollars ($250,000) shall be subject
+16 to the applicable dispute resolution procedure, notice, and other requirements in the contract for
+17 construction.
+18 (5) “Complaint” means a written complaint submitted to the board or office with
+
+1 allegations against or disputes involving a contractor, which may contain a claim component and/or
+2 allegations that a contractor has violated provisions of this chapter or the regulations promulgated
+3 hereunder.
+4 (6) “Contract for construction” means a contract for which a lien may be established under
+5 chapter 28 of title 34 or for state or municipal public works projects as defined in title 37 on a
+6 project for which the person on whose contract with the project owner has an original contract price
+7 of not less than two hundred fifty thousand dollars ($250,000); provided, however, that “contract
+8 for construction” shall not include a project containing, or designed to contain, at least one, but not
+9 more than four (4), dwelling units.
+10 (7)(i) “Contractor” means a person who, in the pursuit of an independent business,
+11 undertakes or offers to undertake or submits a bid, or for compensation and with or without the
+12 intent to sell the structure constructs, alters, repairs, improves, moves over public highways, roads,
+13 or streets, or demolishes a structure or to perform any work in connection with the construction,
+14 alteration, repair, improvement, moving over public highways, roads, or streets, or demolition of a
+15 structure, and the appurtenances thereto. For the purposes of this chapter, “appurtenances” includes,
+16 but is not limited to, the installation, alteration, or repair of wells connected to a structure consistent
+17 with chapter 13.2 of title 46, garage, carport, porch, patio, decks, docks, sheds, tents, gazebos,
+18 walkways, fencing, driveways, retaining walls, swimming pools, sidewalks, stone/masonry walls,
+19 and parking lots.
+20 (ii) “Contractor” also means any person who performs services as an “insurance adjuster”
+21 as defined in § 27-10-1.1, and who evaluates, inspects, opines upon, or recommends the feasibility,
+22 method, scope, or cost of repair or replacement of a building component regulated under the state
+23 building code, for use in the investigation, negotiation, appraisal, or settlement of an insurance
+24 claim, shall be deemed to be engaging in contractor activity and must be properly registered under
+25 this chapter unless otherwise licensed.
+26 (ii)(iii) “Contractor” includes, but is not limited to, any person who purchases or owns
+27 property and constructs, or for compensation arranges for the construction of, one or more
+28 structures.
+29 (iii)(iv) A certificate of registration is necessary for each “business entity” regardless of the
+30 fact that each entity may be owned by the same individual.
+31 (8) “Deliverable” means a project close-out document that shall be submitted by the person
+32 seeking payment of retainage under the person’s contract for construction; provided, however, that
+33 a lien waiver or release, which is a deliverable, shall comply with chapter 28 of title 34; provided,
+34 further, that “deliverable” shall not include any document affirming, certifying, or confirming
+LC003737 - Page 2 of 8
+
+1 completion or correction of labor, materials, or other items furnished or incomplete or defective
+2 work.
+3 (9) “Dwelling unit” means a single unit providing complete independent-living facilities
+4 for one or more persons, including permanent provisions for living, sleeping, eating, cooking, and
+5 sanitation.
+6 (10) “Hearing officer” means a person designated by the director of the department of
+7 business regulation or the director’s designee to hear contested cases, contested enforcement
+8 proceedings, contested administrative fines, and to render decisions or orders in accordance with
+9 the “administrative procedures act,” chapter 35 of title 42.
+10 (11) “Incomplete or defective work” means labor, materials, or any other item required for
+11 full performance by a person seeking payment of retainage that remains to be furnished by the
+12 person under the person’s contract for construction or that has been furnished by the person but
+13 requires correction, repair, further completion, revision, or replacement; provided, however, that
+14 “incomplete or defective work” shall not include deliverables or labor, materials, or any other item
+15 to be repaired or replaced after substantial or final completion pursuant to a warranty, guarantee,
+16 or other contractual obligation to correct defective work after substantial or final completion.
+17 (12) “Monetary damages” means the dollar amount required in excess of the contract
+18 amount necessary to provide the claimant with what was agreed to be provided under the terms of
+19 the contract reduced by any amount due and unpaid to the respondent inclusive of any and all
+20 awards and restitution.
+21 (13) “Office” means the state building office established pursuant to § 5-84-3.1.
+22 (14) “Person” means any natural person, joint venture, partnership, corporation, or other
+23 business or legal entity who or that enters into a contract for construction.
+24 (15) “Prime contractor” means a person who or that enters into a contract for construction
+25 with the project owner.
+26 (16) “Retainage” means a portion or percentage of a payment due pursuant to a contract
+27 for construction that is withheld to ensure full performance of the contract for construction.
+28 (17) “Staff” means any staff necessary to carry out the powers, functions, and duties of the
+29 board, or the office, including inspectors, hearing officers, and other supportive staff.
+30 (18) “State” means the state of Rhode Island.
+31 (19) “Structure” means (i) Any commercial building; or (ii) Any building containing one
+32 or more residences and their appurtenances. The board’s dispute resolution process shall apply only
+33 to residential structures containing dwelling units, as defined in the state building code, or
+34 residential portions of other types of buildings without regard to how many units any structure may
+LC003737 - Page 3 of 8
+
+1 contain. The board retains jurisdiction and may conduct hearings regarding violations against all
+2 contractors required to be registered or licensed by the board.
+3 (20) “Substantial completion” means the stage in the progress of the project when the work
+4 required by the contract for construction with the project owner is sufficiently complete in
+5 accordance with the contract for construction so that the project owner may occupy or utilize the
+6 work for its intended use; provided, further, that “substantial completion” may apply to the entire
+7 project or a phase of the entire project if the contract for construction with the project owner
+8 expressly permits substantial completion to apply to defined phases of the project.
+9 (21) “Violation” means a violation of any provision of this chapter or the regulations
+10 promulgated hereunder or any order of the board or office.
+11 SECTION 2. Section 5-65.1-2 of the General Laws in Chapter 5-65.1 entitled "Home
+12 Inspectors" is hereby amended to read as follows:
+13 5-65.1-2. Definitions.
+14 When used in this chapter:
+15 (1) “Associate home inspector” means a person who is employed by a licensed home
+16 inspector to conduct a home inspection of a residential building on behalf of a client for a fee under
+17 the direct supervision of the licensed home inspector and is licensed pursuant to the provisions of
+18 this chapter.
+19 (2) “Board” means the contractors’ registration and licensing board.
+20 (3) “Client” means any person who engages, or seeks to engage, the services of a home
+21 inspector for the purpose of obtaining an inspection of, and written report upon, the condition of a
+22 residential building.
+23 (4) “Home inspection” means an inspection and a written evaluation of the following
+24 readily visible and accessible components of a residential building: heating, cooling, plumbing, and
+25 electrical systems, structural components, foundation, roof, masonry structure, exterior and interior
+26 components, and any other related residential housing components, unless the scope of the
+27 inspection is otherwise clearly limited, in writing, in the inspection report. Unless otherwise
+28 expressly agreed to, in writing, a home inspection shall be based solely on observation of the readily
+29 visible and apparent condition of the foregoing components of a residential building as they exist
+30 on the date of the inspection, and it is not the purpose of the inspection to identify violations of, or
+31 noncompliance with, governmental codes or regulation. A home inspection shall, at a minimum,
+32 conform to any standards of practice promulgated by the board.
+33 (5) “Home inspector” means any person licensed as a home inspector to conduct a home
+34 inspection of a residential building on behalf of a client for a fee pursuant to the provisions of this
+LC003737 - Page 4 of 8
+
+1 chapter.
+2 (i) “Home inspector” also means any person who performs an inspection of commercial
+3 and residential structures, roofing systems, or building envelopes in connection as an “insurance
+4 adjuster” as defined in § 27-10-1.1, for an insurer or any insurer-retained vendor, where the results
+5 are used in the investigation, negotiation, appraisal, or settlement of an insurance claim, shall be
+6 licensed as a home inspector under this chapter unless exempt under another professional licensure
+7 statute.
+8 (6) “Public body” or “agency” means any executive, legislative, judicial, regulatory, or
+9 administrative body of the state or any political subdivision thereof, including, but not limited to:
+10 public officials elected or appointed; any department, division, agency, commission, board, office,
+11 bureau, authority; any school, fire, or water district; or other agency or quasi-public agency of state
+12 or local government that exercises governmental functions.
+13 (7) “Residential building” means a structure consisting of one or more residences and their
+14 appurtenances.
+15 SECTION 3. Section 27-10-1.1 of the General Laws in Chapter 27-10 entitled "Claim
+16 Adjusters" is hereby amended to read as follows:
+17 27-10-1.1. Definitions.
+18 (a) “Adjuster” means an individual licensed as either a public, company, or independent
+19 adjuster.
+20 (b) “Catastrophic disaster” according to the Federal Response Plan, means an event that
+21 results in large numbers of deaths and injuries; causes extensive damage or destruction of facilities
+22 that provide and sustain human needs; produces an overwhelming demand on state and local
+23 response resources and mechanisms; causes a severe long-term effect on general economic activity;
+24 and severely affects state, local, and private sector capabilities to begin and sustain response
+25 activities. A catastrophic disaster shall be declared by the President of the United States, the
+26 governor of the state, or the insurance commissioner.
+27 (c) “Company adjuster” means a person who:
+28 (1) Is an individual who contracts for compensation with insurers or self-insurers as an
+29 employee; and
+30 (2) Investigates, negotiates, or settles property, casualty, or workers’ compensation claims
+31 for insurers or for self-insurers as an employee.
+32 (d) “Department” means the insurance division of the department of business regulation.
+33 (e) “Home state” means the District of Columbia and any state or territory of the United
+34 States in which the adjuster’s principal place of residence or principal place of business is located.
+LC003737 - Page 5 of 8
+
+1 If neither the state in which the independent or company adjuster maintains the principal place of
+2 residence, nor the state in which the adjuster maintains the principal place of business, has a
+3 substantially similar law governing adjusters, the adjuster may declare another state in which it
+4 becomes licensed and acts as an independent or company adjuster to be the “home state.”
+5 (f) “Independent adjuster” means a person who:
+6 (1) Is an individual who contracts for compensation with insurers or self-insurers as an
+7 independent contractor; or
+8 (2) Investigates, negotiates, or settles property, casualty, or workers’ compensation claims
+9 for insurers or for self-insurers as an independent contractor.
+10 (g) “Insurance adjuster” means a person who:
+11 (1) On behalf of an insurer or any person or entity acting for or retained by an insurer,
+12 investigates, inspects, evaluates, measures, documents, reports upon, or provides opinions
+13 regarding damage, causation, scope of loss, repairability, replacement, or valuation of property,
+14 when such activity is undertaken in connection with the investigation, negotiation, appraisal, or
+15 settlement of an insurance claim.
+16 (2) The term “insurance adjuster” shall apply regardless of the title, designation, or
+17 description used by the person performing such services including, but not limited to, inspector,
+18 consultant, field representative, building consultant, or appraiser, and regardless of whether such
+19 services are performed directly for the insurer or indirectly through a vendor, contractor, or other
+20 third party.
+21 (3) Any person performing the activities described in this subsection without holding a
+22 license issued pursuant to this chapter shall be deemed to be acting as an unlicensed insurance
+23 adjuster.
+24 (g)(h) “Insurance commissioner” means the director of the department of business
+25 regulation or the director’s designee.
+26 (h)(i) “NAIC” means the National Association of Insurance Commissioners.
+27 (i)(j) “Public adjuster” means any person who, for compensation or any other thing of value
+28 on behalf of the insured:
+29 (1) Acts or aids, solely in relation to first-party claims arising under insurance contracts
+30 that insure the real or personal property of the insured, other than automobile, on behalf of an
+31 insured in negotiating for, or effecting the settlement of, a claim for loss or damage covered by an
+32 insurance contract;
+33 (2) Advertises for employment as a public adjuster of insurance claims or solicits business
+34 or represents themself to the public as a public adjuster of first-party insurance claims for losses or
+LC003737 - Page 6 of 8
+
+1 damages arising out of policies of insurance that insure real or personal property; or
+2 (3) Directly or indirectly solicits business, investigates or adjusts losses, or advises an
+3 insured about first-party claims for losses or damages arising out of policies of insurance that insure
+4 real or personal property for another person engaged in the business of adjusting losses or damages
+5 covered by an insurance policy, for the insured.
+6 (j)(k) “Uniform individual application” means the current version of the National
+7 Association of Insurance Commissioners (NAIC) Uniform Individual Application for resident and
+8 nonresident individuals.
+9 SECTION 4. This act shall take effect upon passage.
+========
+LC003737
+========
+LC003737 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESS AND PROFESSIONS -- CONTRACTORS' REGISTRATION
+AND LICENSING BOARD
+***
+1 This act would expand various definitions relative to contractors, home inspectors, and
+2 claim adjusters to provide clarity regarding licensed and unlicensed vendors, consultants, or third-
+3 party representatives.
+4 This act would take effect upon passage.
+========
+LC003737
+========
+LC003737 - Page 8 of 8

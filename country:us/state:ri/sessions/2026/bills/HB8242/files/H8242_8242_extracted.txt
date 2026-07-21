@@ -1,0 +1,187 @@
+Title: 
+Official Title: 
+Source: versions - 8242
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8242
+========
+LC005354
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- WELLNESS AND OVERSIGHT FOR
+PSYCHOLOGICAL RESOURCES ACT
+Introduced By: Representatives Shallcross Smith, Spears, Ackerman, Casimiro, Fellela,
+Donovan, Hull, Fogarty, and Read
+Date Introduced: March 06, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 63.3
+4 WELLNESS AND OVERSIGHT FOR PSYCHOLOGICAL RESOURCES ACT
+5 5-63.3-1. Short title.
+6 This chapter shall be known and may be cited as the “Wellness and Oversight for
+7 Psychological Resources Act”.
+8 5-63.3-2. Legislative purpose.
+9 It is the purpose of this chapter to safeguard individuals seeking therapy or psychotherapy
+10 services by ensuring these services are delivered by qualified, licensed, or certified professionals.
+11 This chapter is intended to protect consumers from unlicensed or unqualified providers, including
+12 unregulated artificial intelligence systems, while respecting individual choice and access to
+13 community-based and faith-based mental health support.
+14 5-63.3-3. Definitions.
+15 As used in this chapter, the following words and terms shall have the following meanings
+16 unless the context shall clearly indicate another or different meaning or intent:
+17 (1) "Administrative support" means tasks performed to assist a licensed professional in the
+18 delivery of therapy or psychotherapy services that do not involve communication. "Administrative
+
+1 support" includes, but is not limited to, the following:
+2 (i) Managing appointment scheduling and reminders;
+3 (ii) Processing billing and insurance claims; and
+4 (iii) Drafting general communications related to therapy logistics that do not include
+5 therapeutic advice.
+6 (2) "Artificial intelligence" means a machine-based system that, for explicit or implicit
+7 objectives, infers from the input it receives how to generate output such as predictions, content,
+8 recommendations, or decisions that can influence real or virtual environments. "Artificial
+9 intelligence" includes generative artificial intelligence, which consists of an automated computing
+10 system that, when prompted with human prompts, descriptions, or queries, can produce outputs
+11 that simulate human-produced content including, but not limited to, the following:
+12 (i) Textual outputs, such as short answers, essays, or poetry or longer compositions or
+13 answers;
+14 (ii) Image outputs, such as fine art, photographs, conceptual art, diagrams, or other images;
+15 (iii) Multimedia outputs, such as audio or video in the form of compositions or songs or
+16 short-form or long-form audio or video; and
+17 (iv) Other content that would be otherwise produced by human means.
+18 (3) "Consent" means a clear, explicit affirmative act by an individual that:
+19 (i) Unambiguously communicates the individual's express, freely given, informed,
+20 voluntary, specific, and unambiguous written agreement, including a written agreement provided
+21 by electronic means; and
+22 (ii) Is revocable by the individual. "Consent" does not include an agreement that is obtained
+23 by the following:
+24 (A) The acceptance of a general or broad terms of use agreement or a similar document
+25 that contains descriptions of artificial intelligence along with other unrelated information;
+26 (B) An individual hovering over, muting, pausing, or closing a given piece of digital
+27 content; or
+28 (C) An agreement obtained through the use of deceptive actions.
+29 (4) "Department" means the Rhode Island department health.
+30 (5) "Licensed professional" means an individual who holds a valid license issued by this
+31 state to provide therapy or psychotherapy services, including:
+32 (i) Advanced practice registered nurse (APRN) pursuant to § 40.1-5-2;
+33 (ii) Certified nurse practitioner (CNP) or certified clinical nurse specialist as defined under
+34 § 5-34-3 and pursuant to § 40.1-5-2;
+LC005354 - Page 2 of 6
+
+1 (iii) Clinical mental health counselor associate, or clinical mental health counselor pursuant
+2 to § 5-63.2-9;
+3 (iv) Marriage and family therapist associate, or marriage and family therapist, pursuant to
+4 § 5-63.2-10;
+5 (v) Mental health professional pursuant to § 40.1-5-2;
+6 (vi) Physician pursuant to chapter 37 of title 5;
+7 (vii) Psychiatric nurse clinician pursuant to § 40.1-5-2;
+8 (viii) Psychiatrist pursuant to § 40.1-5-2;
+9 (ix) Psychologist pursuant to § 40.1-5-2;
+10 (x) Qualified mental health professional (QMHP) pursuant to § 40.1-5-2; and
+11 (xi) Social worker pursuant to § 40.1-5-2.
+12 (6) "Peer support" means services provided by individuals with lived experience of mental
+13 health conditions or recovery from substance use that are intended to offer encouragement,
+14 understanding, and guidance without clinical intervention.
+15 (7) "Religious counseling" means counseling provided by clergy members, pastoral
+16 counselors, or other religious leaders acting within the scope of their religious duties if the services
+17 are explicitly faith-based and are not represented as clinical mental health services or therapy or
+18 psychotherapy services.
+19 (8) "Supplementary support" means tasks performed to assist a licensed professional in the
+20 delivery of therapy or psychotherapy services that do not involve therapeutic communication and
+21 that are not administrative support. "Supplementary support" includes, but is not limited to, the
+22 following:
+23 (i) Preparing and maintaining client records, including therapy notes;
+24 (ii) Analyzing anonymized data to track client progress or identify trends, subject to review
+25 by a licensed professional; and
+26 (iii) Identifying and organizing external resources or referrals for client use.
+27 (9) "Therapeutic communication" means any verbal, non-verbal, or written interaction
+28 conducted in a clinical or professional setting that is intended to diagnose, treat, or address an
+29 individual's mental, emotional, or behavioral health concerns. "Therapeutic communication"
+30 includes, but is not limited to:
+31 (i) Direct interactions with clients for the purpose of understanding or reflecting their
+32 thoughts, emotions, or experiences;
+33 (ii) Providing guidance, therapeutic strategies, or interventions designed to achieve mental
+34 health outcomes;
+LC005354 - Page 3 of 6
+
+1 (iii) Offering emotional support, reassurance, or empathy in response to psychological or
+2 emotional distress;
+3 (iv) Collaborating with clients to develop or modify therapeutic goals or treatment plans;
+4 and
+5 (v) Offering behavioral feedback intended to promote psychological growth or address
+6 mental health conditions.
+7 (10) "Therapy or psychotherapy services" means services provided to diagnose, treat, or
+8 improve an individual's mental health or behavioral health. "Therapy or psychotherapy services"
+9 does not include religious counseling or peer support.
+10 5-63.3-4. Permitted use of artificial intelligence.
+11 Artificial intelligence as defined in this chapter, may be used by a licensed professional to
+12 assist in providing administrative support or supplementary support in therapy or psychotherapy
+13 services where the licensed professional maintains full responsibility for all interactions, outputs,
+14 and data use associated with the system and satisfies the requirements of this section. No licensed
+15 professional shall be permitted to use artificial intelligence to assist in providing supplementary
+16 support in therapy or psychotherapy where the client's therapeutic session is recorded or transcribed
+17 unless:
+18 (1) The patient or the patient's legally authorized representative is informed in writing of
+19 the following:
+20 (i) That artificial intelligence will be used; and
+21 (ii) The specific purpose of the artificial intelligence tool or system that will be used; and
+22 (2) The patient or the patient's legally authorized representative provides consent to the use
+23 of artificial intelligence.
+24 5-63.3-5. Prohibition on unauthorized therapy services.
+25 An individual, corporation, or entity may not provide, advertise, or otherwise offer therapy
+26 or psychotherapy services, including through the use of Internet-based artificial intelligence, to the
+27 public in this state unless the therapy or psychotherapy services are conducted by an individual
+28 who is a licensed professional. A licensed professional may use artificial intelligence systems only
+29 to the extent the use meets the requirements of § 5-63.3-4. A licensed professional may not allow
+30 an artificial intelligence system to do any of the following:
+31 (1) Make independent therapeutic decisions;
+32 (2) Directly interact with clients in any form of therapeutic communication;
+33 (3) Generate therapeutic recommendations or treatment plans without review and approval
+34 by the licensed professional; or
+LC005354 - Page 4 of 6
+
+1 (4) Detect emotions or mental states.
+2 5-63.3-6. Disclosure of records and communications.
+3 All records kept by a licensed professional and all communications between an individual
+4 seeking therapy or psychotherapy services and a licensed professional shall be confidential and
+5 shall not be disclosed except as required under the confidentiality of health care communications
+6 and information act (chapter 37.3 of title 5).
+7 5-63.3-7. Enforcement and penalties.
+8 (a) The department shall have authority to investigate any actual, alleged, or suspected
+9 violation of this chapter.
+10 (b) Any individual, corporation, or entity found in violation of this chapter shall be subject
+11 to enforcement and discipline with penalties assessed based on the degree of harm and the
+12 circumstances of the violation pursuant to the enforcement and penalty provisions of chapter 63.2
+13 of title 5.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC005354
+========
+LC005354 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- WELLNESS AND OVERSIGHT FOR
+PSYCHOLOGICAL RESOURCES ACT
+***
+1 This act would establish an oversight process which would safeguard individuals seeking
+2 therapy or psychotherapy services by ensuring that the services are delivered by qualified, licensed,
+3 or certified professionals. In addition this act would protect consumers from unlicensed or
+4 unqualified providers, including unregulated artificial intelligence systems, while respecting
+5 individual choice and access to community-based and faith-based mental health support.
+6 This act would take effect upon passage.
+========
+LC005354
+========
+LC005354 - Page 6 of 6

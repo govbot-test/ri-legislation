@@ -1,0 +1,298 @@
+Title: 
+Official Title: 
+Source: versions - 7895
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7895
+========
+LC005717
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO EDUCATION -- SAFE SCHOOL TECHNOLOGY ACT OF 2026
+Introduced By: Representatives Caldwell, Knight, Read, Casimiro, Cotter, O'Brien,
+Speakman, Donovan, Kislak, and Spears
+Date Introduced: February 27, 2026
+Referred To: House Education
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title. This act shall be known and may be cited as the Safe School
+2 Technology Act of 2026.
+3 SECTION 2. Purpose. The purpose of this act is to ensure that Rhode Island schools remain
+4 focused on effective, developmentally appropriate instruction, grounded in evidence-based
+5 practices and respectful of student well-being and privacy.
+6 SECTION 3: Findings.
+7 The Rhode Island general assembly hereby finds as follows:
+8 (1) Online and digital products marketed to schools often provide unsafe, ineffective, and
+9 inappropriate experiences, and also collect and share student data without appropriate consent.
+10 (2) A lack of regulation has led to:
+11 (i) Technology companies marketing commercial products as educational with no
+12 accountability;
+13 (ii) Children being given devices without proof of developmental appropriateness;
+14 (iii) Collection and monetization of student data for non-educational purposes;
+15 (iv) Platforms with advertising, gamification, AI, chat features, and addictive design in
+16 classrooms;
+17 (v) Parents being excluded from decisions about their child’s digital exposure;
+18 (vi) Insufficient privacy and safety protections in school technology; and
+19 (vii) General increase of screen time, which research associates with elevated risks of
+
+1 psychological disorders, and other health risks.
+2 (3) Online and digital products do not prioritize student privacy or safety.
+3 (i) Nearly all online and digital school tech apps share students’ personal information with
+4 third parties.
+5 (ii) Nearly ninety percent (90%) of online and digital school tech products surveil or can
+6 surveil children outside school hours and deep into their private lives.
+7 (iii) Sixty percent (60%) of school apps send student data to third-party advertising
+8 platforms, and only fourteen percent (14%) of schools enable caregivers to consent to technology
+9 use.
+10 (iv) Schools and online and digital school tech companies are prime targets for
+11 cybercriminals.
+12 (4) Online and digital products used at school increase student screen time at the risk of
+13 students’ physical and mental health.
+14 (i) Recent surveys show that students spend 1-4 hours daily on screens at school.
+15 (ii) There is a sixty percent (60%) increase in psychological disorders in children who have
+16 more than 1-2 hours of screen time per day.
+17 (iii) Using a computer seven (7) hours a week or more triples the risk of nearsightedness.
+18 (5) Online and digital products are ineffective in producing positive learning outcomes.
+19 (i) A study called How We Learn by researchers for Scientific American Mind reviewed
+20 more than seven hundred (700) scientific articles on ten (10) common learning techniques to
+21 identify the most advantageous ways to study. Of those deemed most advantageous for learning,
+22 exactly Zero used any sort of advanced digital technology.
+23 (ii) The Organization for Economic Co-Operation and Development studied millions of
+24 High School students worldwide and found that those who used computers heavily at school do a
+25 lot worse in most learning outcomes, even after accounting for social background and student
+26 demographics.
+27 (iii) Research suggests that, on average, students using tablets in all or most of all of their
+28 classes have reading scores that are the equivalent of a full grade lower on assessments than students
+29 who never use tablets in their classrooms.
+30 (iv) Fourth-grade students who used tablets in all or almost all their classes had, on average,
+31 reading scores fourteen (14) points lower than those who never used them – a differential equivalent
+32 to an entire grade level.
+33 (v) When replication studies conducted by independent researchers were compared to
+34 research conducted by app developers, the developer studies tended to yield 80% higher academic
+LC005717 - Page 2 of 9
+
+1 gains.
+2 (vi) National assessment scores have declined in recent years, with mounting evidence
+3 suggesting a correlation between technology saturation and poor student outcomes, especially in
+4 early education.
+5 (6) States that have implemented a regulation to reduce screen use have seen positive
+6 results:
+7 (i) Texas (Frisco ISD): Certain elementary campuses replaced Chromebooks with hands-
+8 on, print-first instruction in K–4 and saw stronger engagement from struggling readers;
+9 (ii) Florida (Hillsborough County): Adopted a tiered tech access model where only grades
+10 6–12 received devices, and K–5 classrooms used paper-based curriculum, citing screen fatigue and
+11 disciplinary issues; and
+12 (iii) Private/Charter Schools: Some use no classroom screens in K–6 and limit device use
+13 in 7–12. These schools consistently outperform peers in academic measures.
+14 (7) Schools have been sued due to student access to digital platforms that expose minors to
+15 harmful or inappropriate content, without informed parental consent.
+16 SECTION 4. Title 16 of the General Laws entitled "EDUCATION" is hereby amended by
+17 adding thereto the following chapters:
+18 CHAPTER 117
+19 AGE-APPROPRIATE SCHOOL DEVICE ACT
+20 16-117-1. Definitions.
+21 As used in this chapter, the following words and terms shall have the following meanings
+22 unless the context clearly indicates otherwise:
+23 (1) "Caregiver" means a parent or guardian of a student who is authorized to make
+24 education decisions for the student.
+25 (2) "Digital device" means any electronic hardware used for instructional purposes that can
+26 access, process, store, or transmit data, including laptops, tablets, Chromebooks, smartphones, and
+27 similar internet-capable devices.
+28 (3) "One to one" means each student has their own dedicated digital device, such as a laptop
+29 or tablet, issued by the school for educational purposes.
+30 (4) "School technology" or "EdTech" means technology hardware and software that is
+31 marketed for use by students in schools and/or classrooms to facilitate learning.
+32 (5) "School-issued device" means any technological hardware that a school provides to
+33 individual students for their personal use on school property, at home, or both. "School-issued
+34 device" includes any laptop, tablet, or other technological device.
+LC005717 - Page 3 of 9
+
+1 (6) "Safety" means the absence of features likely to cause harm to students including, but
+2 not limited to, addictive design elements, inappropriate content exposure, or predatory data
+3 collection.
+4 (7) "Screen free" means the condition in which students do not have access to or use of
+5 school-issued or personal screen-based devices including, but not limited to, smartphones, tablets,
+6 laptops, and smartwatches.
+7 (8) "Social media" means a web-based or mobile platform:
+8 (i) That allows users to connect and interact socially with each other by creating a profile,
+9 sharing social connections, and posting content viewable by other users; and
+10 (ii) Where users can construct a public profile, populate a list of connections, and create
+11 content for others to see.
+12 16-117-2. Digital device set-up.
+13 A school shall ensure the following set-up and safety standards prior to the provision of a
+14 school-issued digital device to a student:
+15 (1) Enable screen time settings so caregivers may track and support healthy screen time
+16 practices;
+17 (2) Disable the camera to decrease cyberbullying opportunities and the sharing of sensitive
+18 imagery;
+19 (3) Block access to social media apps;
+20 (4) Configure all default privacy and safety settings to the highest level of privacy and
+21 safety;
+22 (5) Any school-issued digital device returned at the end of the school year shall have all
+23 personal information deleted prior to the subsequent provision of the device to another student.
+24 16-117-3. Caregiver rights.
+25 (a) A school shall provide equivalent non-digital resources in the case that an emancipated
+26 student, or caregiver of a non-emancipated student, chooses to:
+27 (1) Opt out of school-issued devices;
+28 (2) Opt out of school-issued devices being sent home; and
+29 (3) Opt out of online standardized testing.
+30 (b) A student who is opted out shall not be subject to retaliation or discrimination.
+31 CHAPTER 118
+32 ENSURING SAFE SCHOOL SOFTWARE ACT
+33 16-118-1. Definitions.
+34 As used in this chapter, the following words and terms shall have the following meanings
+LC005717 - Page 4 of 9
+
+1 unless the context clearly indicates otherwise:
+2 (1) “Addictive design feature'' means any feature or component of a digital or online
+3 product that encourages or increases a students’ frequency, time spent, or activity on the covered
+4 platform. Addictive design features include, but are not limited to:
+5 (i) Infinite scroll or autoplay;
+6 (ii) Points, badges and other rewards for time spent on the product or gamification;
+7 (iii) Notifications; and
+8 (iv) Push alerts that urge a user to spend more time engaged with the product when they
+9 are not actively using it.
+10 (2) “Caregiver” means a parent or guardian of a student who is authorized to make
+11 education decisions for the student.
+12 (3) “Compliance with existing laws” means the product complies with all state and federal
+13 regulatory, privacy and any other applicable laws.
+14 (4) "Education technology provider" means an entity that provides:
+15 (i) Devices or digital technologies used by a school pursuant to a contract with a school
+16 district or school board, with the intent to facilitate learning; or
+17 (ii) Free devices or online and digital products to the school district.
+18 (5) “Effectiveness” means a product is independently verified to provide superior learning,
+19 knowledge and skill acquisition above and beyond the non-digital and not-online method.
+20 (6) "Independently verified" means a product has been checked for its safety, effectiveness,
+21 and compliance by an impartial, separate third party who is not involved with its creation or
+22 management, ensuring objectivity and trust by removing potential bias from the original source.
+23 (7) “Instructional technology tool” means any student-facing software, application, or
+24 platform used in classrooms for teaching and learning purposes, which may collect, process, or
+25 transmit student data.
+26 (8) “School technology” or “EdTech” means technology hardware and software that is
+27 marketed for use by students in schools and/or classrooms to facilitate learning.
+28 (9) “Safety” means the absence of features likely to cause harm to students including, but
+29 not limited to, addictive design elements, inappropriate content exposure, or predatory data
+30 collection.
+31 (10) “Social media” means a web-based or mobile platform:
+32 (i) That allows users to connect and interact socially with each other by creating a profile,
+33 sharing social connections, and posting content viewable by other users; and
+34 (ii) Where users can construct a public profile, populate a list of connections, and create
+LC005717 - Page 5 of 9
+
+1 content for others to see.
+2 (11) "Student personal information" means any personally identifiable information
+3 collected through online or digital technology about a current or formerly enrolled individual
+4 student.
+5 (12) "Targeted advertising" means advertising that is presented to a student on the basis of
+6 information acquired, obtained or inferred over time from the student's online behavior, use of
+7 applications, or sharing of student personal information.
+8 16-118-2. Educational technology standards.
+9 (a) The Rhode Island attorney general in collaboration with the department of education
+10 shall set, and annually review, standards for safety, effectiveness and legal compliance needed for
+11 certification of an allowable instructional technology tool. These standards and the list of certified
+12 technology tools shall be easily accessible on the attorney general’s website.
+13 (b) Safety. A certified instructional technology tool shall:
+14 (1) Be explicitly designed for instructional use and employed intentionally to enhance
+15 student learning outcomes;
+16 (2) Be compliant with Rhode Island curriculum standards;
+17 (3) Prohibit the following design features:
+18 (i) Geolocation;
+19 (ii) Generative or conversational artificial intelligence;
+20 (iii) Targeted advertisements;
+21 (iv) Personalized recommendation systems;
+22 (v) Access to adult strangers; and
+23 (vi) Addictive design features.
+24 (c) Effectiveness. To be certified, an instructional technology tool shall be independently
+25 verified to provide instructional benefits that equal or exceed what is achievable through non-digital
+26 methods.
+27 (d) Compliance. To be certified, an instructional technology tool shall be fully compliant
+28 with state and federal privacy laws and shall guarantee compliance, in a legally binding manner,
+29 with the following;
+30 (1) Children's Online Privacy Protection Act, safe harbor certification (15 U.S.C. § 6501,
+31 et seq.);
+32 (2) Clear and easy-to-understand product information, in a manner that a person at a
+33 seventh grade reading level can reasonably understand;
+34 (3) Caregiver notification of all personal information collected through the use of the
+LC005717 - Page 6 of 9
+
+1 product and how the provider maintains, uses, and shares the personal information;
+2 (4) Facilitated access to, and correction of, student personal information by a student or a
+3 caregiver;
+4 (5) Upon the request of the school, school district, or caregiver, a student’s personal
+5 information shall be deleted, not just anonymized, within seven (7) days of a request;
+6 (6) To provide, directly to the student, caregiver, or through the school, access to an
+7 electronic copy of the student's personal information;
+8 (7) Assurance that a successor entity or third party with whom a provider may contract
+9 shall abide by the district contract;
+10 (8) An agreement regarding recourse to the school and caregivers in the case of a data
+11 breach or a breach of contract;
+12 (9) Assurance that the provider shall not:
+13 (i) Make changes to privacy policy without caregiver and district consent; or
+14 (ii) Transfer a student’s data to a successor entity without caregiver and district consent.
+15 (e) Data minimization. A contracted school technology provider shall not:
+16 (1) Collect data that is not essential for the tool to function effectively for the purpose for
+17 which it is contracted;
+18 (2) Collect the following data for any purpose:
+19 (i) Demographic data aside from the name and grade of the student;
+20 (ii) Behavioral or interactional data; or
+21 (iii) Sensitive health information.
+22 (3) Use collected data for any of the following purposes:
+23 (i) To sell, share or rent data to third parties; or
+24 (ii) To create student profiles for non-educational uses such as targeted advertising,
+25 disciplinary actions or discrimination.
+26 (f) Nothing in this chapter shall be construed to limit or alter obligations under the
+27 Individuals with Disabilities Education Act ("IDEA")(20 U.S.C. §1400 et seq.), Section 504 of the
+28 Rehabilitation Act (29 U.S.C. §794), or the Americans with Disabilities Act ("ADA")(42 U.S.C.
+29 §1214 et seq.). Schools must provide reasonable modifications and necessary assistive technology
+30 to ensure FAPE and equal access.
+31 16-118-3. Annual registration.
+32 (a) Annually, a provider of an instructional technology tool shall:
+33 (1) Register with the Rhode Island attorney general’s office;
+34 (2) Pay a registration fee of one hundred dollars ($100);
+LC005717 - Page 7 of 9
+
+1 (3) Provide the following information during registration:
+2 (i) The privacy policy and terms and conditions in use by the instructional technology tool;
+3 (ii) A guarantee that the product safety, efficacy and privacy standards are compliant with
+4 the guidelines set forth by the attorney general;
+5 (iii) A proper age category for use of the instructional technology tool;
+6 (iv) Acknowledgement that:
+7 (A) Instructional technology tools certified for use by Rhode Island schools are subject to
+8 random independent compliance audits hired by either the attorney general’s office or the
+9 department of elementary and secondary education;
+10 (B) Providers found to not be in compliance, whether by audit or other report, are subject
+11 to legal liability as unfair or deceptive act or practices under Section 5 of the Federal Trade
+12 Commission Act (15 U.S.C. § 45); and
+13 (C) The attorney general may maintain a civil action in the superior court to seek
+14 appropriate injunctive relief.
+15 (b) The attorney general’s office, in collaboration with the department of elementary and
+16 secondary education, shall create and make publicly available guidelines for acceptable student-
+17 facing instructional technology.
+18 (c) A list of certified instructional technologies shall be listed on the department of
+19 elementary and secondary education website.
+20 SECTION 5. This act shall take effect upon passage.
+========
+LC005717
+========
+LC005717 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- SAFE SCHOOL TECHNOLOGY ACT OF 2026
+***
+1 This act would establish the Safe School Technology Act of 2026. This act would ensure
+2 that Rhode Island schools remain focused on effective, developmentally appropriate instruction,
+3 grounded in evidence-based practices and respectful of student well-being and privacy.
+4 This act would take effect upon passage.
+========
+LC005717
+========
+LC005717 - Page 9 of 9

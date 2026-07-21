@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - 2800  SUB A as amended
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2800 SUBSTITUTE A AS AMENDED
+========
+LC004500/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- ABANDONED PROPERTY
+Introduced By: Senators Bissaillon, and LaMountain
+Date Introduced: March 04, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 34-44-12 of the General Laws in Chapter 34-44 entitled "Abandoned
+2 Property" is hereby amended to read as follows:
+3 34-44-12. Sale of building and property by receiver.
+4 (a) If a receiver appointed pursuant to § 34-44-4 files with the judge in the civil action
+5 described in § 34-44-4 a report indicating that the public nuisance has been abated, and if the judge
+6 confirms that the receiver has abated the public nuisance, and if the receiver or any interested party
+7 requests the judge to enter an order directing the receiver to sell the building and the property on
+8 which it is located, then the judge may enter that order after holding a hearing as described in
+9 subsection (c).
+10 (b)(1) If the abatement of the nuisance has not yet occurred; and
+11 (2) If the court approves the abatement plan presented by the receiver or any interested
+12 party; and
+13 (3) The building at the subject property is unoccupied, then the court may enter an order,
+14 upon the receiver’s recommendation, directing the receiver to sell the building and property upon
+15 which it is located after holding a hearing as described in subsection (c) of this section. Any sale
+16 order and sale deed under this subsection shall include a requirement that the transfer of the property
+17 include a reverter if the abatement plan is not completed in accordance with its terms and in the
+18 timeframe established in the plan. The abatement of the property by the purchaser shall be at the
+19 purchaser’s sole cost and expense.
+
+1 (c) The receiver or interested party requesting an order as described in subsection (a) or (b)
+2 of this section shall cause a notice of the date and time of a hearing on the request to be served on
+3 the owner of the building involved and all other interested parties in accordance with § 34-44-3.
+4 The judge in the civil action described in § 34-44-3 shall conduct the scheduled hearing. At the
+5 hearing, if the owner or any interested party objects to the sale of the building and the property, the
+6 burden of proof shall be upon the objecting person to establish, by a preponderance of the evidence,
+7 that the benefits of not selling the building and the property outweigh the benefits of selling them.
+8 If the judge determines that there is no objecting person, or if the judge determines that there is one
+9 or more objecting persons but no objecting person has sustained the burden of proof specified
+10 herein, the judge may enter an order directing the receiver to offer the building and the property for
+11 sale upon terms and conditions that the judge shall specify, and may further order the removal of
+12 any clouds on the title to the building and property by reason of any liens or encumbrances that are
+13 inferior to any claims of the receiver, as provided by § 34-44-6(9), or if the receivership action is
+14 pending in a court other than the superior court, the judge may order the receiver to petition the
+15 superior court to order the removal of any clouds on the title to the building or property. An order
+16 by the superior court to remove any cloud on the title to the building and property shall be binding
+17 upon all those claiming by, through, under, or by virtue of, any inferior liens or encumbrances.
+18 (d) The court may give priority in a sale to any party willing to:
+19 (1) Designate and deed restrict the property for low- and moderate-income housing, as
+20 defined in § 45-53-3; or
+21 (2) Resell the property at least ten percent (10%) below an appraised market value; or
+22 (3) Designate any residential units in the property for occupancy through any housing
+23 choice voucher program; or
+24 (4) Restrict use of the property to owner-occupancy for a period of not less than twenty-
+25 four (24) months from the date of the issuance of a certificate of occupancy.; or
+26 (5) Install an energy storage system, as defined in § 39-33-1, on the property.
+27 The waiver of any portion of the delinquent real estate taxes or zoning or minimum housing
+28 fines pursuant to subsection (e) of this section may qualify as a municipal subsidy under § 45-53-
+29 3.
+30 (e) If a sale of a building and the property on which it is located is ordered pursuant to
+31 subsections (a) — (d) and if the sale occurs in accordance with the terms and conditions specified
+32 by the judge in the judge’s order of sale, then the receiver shall distribute the proceeds of the sale
+33 and the balance of any funds that the receiver may possess, after the payment of the costs of the
+34 sale, in the following order of priority and in the described manner:
+LC004500/SUB A - Page 2 of 6
+
+1 (1) First, the amount due for delinquent taxes and assessments owed to this state or a
+2 political subdivision of this state;
+3 (2) Second, in satisfaction of any mortgage liability incurred by the receiver pursuant to §
+4 34-44-6, in their order of priority;
+5 (3) Third, any unreimbursed expenses and other amounts paid in accordance with § 34-44-
+6 6 by the receiver, and the fees of the receiver assessed pursuant to § 34-44-8; and
+7 (4) Fourth, the amount of any pre-receivership mortgages, liens, or other encumbrances, in
+8 their order of priority.
+9 (f) Following a distribution in accordance with subsection (e), the receiver shall request the
+10 judge in the civil action described in § 34-44-3 to enter an order terminating the receivership. If the
+11 judge determines that the sale of the building and the property on which it is located occurred in
+12 accordance with the terms and conditions specified by the judge in his or her order of sale under
+13 subsection (c) and that the receiver distributed the proceeds of the sale and the balance of any funds
+14 that the receiver possessed, after the payment of the costs of the sale, in accordance with subsection
+15 (e), and if the judge approves any final accounting required of the receiver, the judge may terminate
+16 the receivership.
+17 (g) If a judge in a civil action described in § 34-44-3 enters a declaration that a public
+18 nuisance has been abated by a receiver, and if, within three (3) days after the entry of the
+19 declaration, all costs, expenses, and approved fees of the receivership have not been paid in full,
+20 the judge may enter an order directing the receiver to sell the building involved and the property
+21 on which it is located. The order shall be entered, and the sale shall occur, only in compliance with
+22 subsections (b) — (d), as applicable.
+23 (h) An energy storage system, as defined in § 39-33-1, proposed to be located on a property
+24 for which a court of competent jurisdiction has made the necessary findings under § 34-44-4, shall
+25 be a by-right, permitted use under the zoning code for the municipality in which the energy storage
+26 system is proposed to be located. An energy storage system proposed to be located on such a
+27 property shall be deemed consistent with the municipality's comprehensive plan pursuant to § 45-
+28 23-60 and shall be deemed to have no significant negative environmental impacts pursuant to § 45-
+29 23-60. Subject to the provisions of this section, the proposed energy storage system shall proceed
+30 through the municipality's planning and zoning procedures generally applicable to a by-right use
+31 and the proposed energy storage system shall comply with the ordinance requirements set forth in
+32 the municipality's industrial and/or manufacturing zone provided; however, that the maximum
+33 structural lot coverage shall be sixty-five percent (65%) and the setbacks shall be forty feet (40')
+34 from all abutting structures specified in Groups A through R and S-1 as defined in section 302 of
+LC004500/SUB A - Page 3 of 6
+
+1 the International Building Code, and the maximum height of the energy storage system shall not
+2 exceed fifteen feet (15'). A municipality may grant a waiver or variance from these dimensional
+3 restrictions in its sole discretion and in accordance with existing law governing that discretion. This
+4 subsection (h) shall not apply in areas zoned for residential use only and shall not modify or alter
+5 the requirements of the municipality's generally applicable fire, safety or health code regulations.
+6 Any energy storage system constructed pursuant to this subsection shall not exceed five megawatts
+7 (5MW).
+8 SECTION 2. Section 42-140.5-9 of the General Laws in Chapter 42-140.5 entitled
+9 "Renewable Ready Program" is hereby amended to read as follows:
+10 42-140.5-9. Permitting of renewable energy resources Permitting of renewable energy
+11 resources and energy storage systems.
+12 (a) A renewable energy resource, as defined in § 39-26-5, and/or an energy storage system,
+13 as defined in § 39-33-1, proposed to be located on a previously contaminated property shall be a
+14 by-right, permitted use under the zoning code for the municipality in which the renewable energy
+15 resource and/or the energy storage system is proposed to be located. A renewable energy resource
+16 and/or an energy storage system proposed to be located on a previously contaminated property shall
+17 be deemed consistent with the municipality’s comprehensive plan pursuant to § 45-23-60 and shall
+18 be deemed to have no significant negative environmental impacts pursuant to § 45-23-60. The
+19 applicant shall bear the burden of establishing that the proposed site is a previously contaminated
+20 property.
+21 (b) A site shall be presumed to be a previously contaminated property if:
+22 (1) Any agency of the state or federal government has designated the property as such;
+23 (2) The applicant presents a phase I or phase II environmental site assessment evidencing
+24 the presence of one or more “hazardous substances” (as defined in 42 U.S.C. § 9601(14)) and/or
+25 “pollutant or contaminant” (as defined in 42 U.S.C. § 9601(33)) on the property; or
+26 (3) The property meets the definition of a “brownfield site” (as defined in 42 U.S.C. §
+27 9601(39)(A)).
+28 (c) Subject to the provisions of this section, the proposed renewable energy resource and/or
+29 the energy storage system shall proceed through the municipality’s planning and zoning procedures
+30 generally applicable to a by-right use and the proposed renewable energy resource and/or the
+31 energy storage system shall comply with the ordinance requirements set forth in the municipality’s
+32 industrial and/or manufacturing zone; provided, however, that the maximum structural lot coverage
+33 shall be seventy-five percent (75%).
+34 (d) Nothing in this section alters the eligibility requirements for the renewable ready fund
+LC004500/SUB A - Page 4 of 6
+
+1 as provided in § 42-140.5-6.
+2 SECTION 3. This act shall take effect upon passage.
+========
+LC004500/SUB A
+========
+LC004500/SUB A - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- ABANDONED PROPERTY
+***
+1 This act would provide that energy storage systems located on abandoned or contaminated
+2 property be permitted by right as a permitted use and not considered to have negative environmental
+3 impacts.
+4 This act would take effect upon passage.
+========
+LC004500/SUB A
+========
+LC004500/SUB A - Page 6 of 6

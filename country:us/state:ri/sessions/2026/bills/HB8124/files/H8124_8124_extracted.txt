@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - 8124
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8124
+========
+LC005742
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO MILITARY AFFAIRS AND DEFENSE -- RHODE ISLAND VETERANS
+HOME STAFFING SUPPORT ACT OF 2026
+Introduced By: Representatives Donovan, McGaw, Tanzi, Speakman, Casimiro, Cruz,
+Furtado, Ajello, and Giraldo
+Date Introduced: February 27, 2026
+Referred To: House Veterans` Affairs
+It is enacted by the General Assembly as follows:
+1 SECTION 1. This act shall be known and may be cited as the “Rhode Island Veterans’
+2 Home Staffing Support Act of 2026.”
+3 SECTION 2. Legislative Findings.
+4 The General Assembly finds and declares that:
+5 (1) The Rhode Island veterans home (“veterans home”) in Bristol is a state-operated long-
+6 term care facility providing skilled nursing, domiciliary care, and related services to Rhode Island
+7 veterans.
+8 (2) The veterans home is licensed as a nursing facility regulated by the Rhode Island
+9 department of health pursuant to state and federal standards.
+10 (3) Current operational capacity is below licensed capacity due to workforce shortages
+11 affecting nurses, certified nursing assistants, and essential support staff.
+12 (4) Workforce shortages are influenced by:
+13 (i) Regional wage competition documented by the United States Bureau of Labor Statistics;
+14 (ii) Long commute distances for many staff who reside outside Bristol County; and
+15 (iii) Insufficient affordable housing options near the veterans’ home campus.
+16 (5) Operating below licensed capacity reduces the federal per diem reimbursement
+17 available to the state for each occupied bed and increases the state’s per-resident cost by spreading
+18 fixed overhead across fewer residents.
+
+1 (6) Other states, including Connecticut, Minnesota, and Maine, have enacted laws to ensure
+2 their state veterans homes can safely operate at or near licensed capacity.
+3 (7) Timely analysis and coordinated corrective action to address staffing challenges at the
+4 veterans home are necessary to ensure safe operations and appropriate support for Rhode Island
+5 veterans.
+6 SECTION 3. Title 30 of the General Laws entitled "MILITARY AFFAIRS AND
+7 DEFENSE" is hereby amended by adding thereto the following chapter:
+8 CHAPTER 34
+9 THE RHODE ISLAND VETERANS HOME STAFFING SUPPORT ACT OF 2026
+10 30-34-1. Workforce analysis and corrective action plan.
+11 (a) Workforce analysis.
+12 (1) The department of administration acting as the coordinating agency, shall conduct a
+13 comprehensive workforce analysis of the veterans home in consultation with the department of
+14 health, the office of veterans services, and the administrator of the Rhode Island veterans home.
+15 The workforce analysis shall be completed no later than sixty (60) days after the effective date of
+16 this act.
+17 (2) The analysis shall address:
+18 (i) Wage competitiveness for all classifications relative to comparable long-term care
+19 facilities statewide and in neighboring states;
+20 (ii) Shift differentials, recruitment incentives, retention patterns, vacancy rates, and related
+21 workforce indicators;
+22 (iii) Transportation, commute, and housing barriers affecting recruitment and retention;
+23 (iv) Scheduling flexibility, career-advancement pathways, and professional-development
+24 supports;
+25 (v) Licensed bed capacity; operational bed capacity during the reporting year; staffing
+26 levels required to safely open additional beds; documented reasons for continued bed closures; and
+27 the resulting impact on access, waitlists, and per-resident cost.
+28 (vi) Relevant personnel and regulatory standards, including:
+29 (A) Applicable state personnel benchmarks under title 36 (“public officers and
+30 employees”); and
+31 (B) Federal and state nursing-facility staffing assessment and sufficiency requirements
+32 including, but not limited to, the provisions of 42 C.F.R. §§ 483.30 and 483.70(e).
+33 (b) Corrective action plan.
+34 (1) Within forty-five (45) days of completing the workforce analysis, the department of
+LC005742 - Page 2 of 5
+
+1 administration shall submit a corrective action plan, developed in consultation with the agencies
+2 listed in subsection (a) of this section, identifying:
+3 (i) Required wage or benefit adjustments, hiring incentives, or recruitment and retention
+4 strategies;
+5 (ii) Recommended job classification or pay grade changes for formal submission pursuant
+6 to § 30-34-2 of this chapter;
+7 (iii) A proposed timeline for implementation, identifying any recommendations requiring
+8 legislative appropriation or collective-bargaining action;
+9 (iv) A recommendation, made in consultation with the department of health, identifying
+10 which closed beds may be safely reopened consistent with licensure and staffing requirements,
+11 together with a proposed schedule for reopening such beds, subject to available appropriations; and
+12 (v) Any additional administrative or regulatory actions necessary for the department of
+13 administration to carry out the job classification updates required under the provisions of this
+14 chapter.
+15 (c) The department of administration may extend the deadline for submission of the
+16 corrective action plan only to the extent reasonably necessary to ensure accuracy and completeness;
+17 provided, however, that any such extension shall not delay or modify the deadlines set forth in §
+18 30-34-2 unless expressly authorized by the general assembly.
+19 30-34-2. Job classification review and updates.
+20 (a) Authority.
+21 Consistent with its authority under the provisions of chapter 4 of title 36 (“merit system”),
+22 the department of administration shall review and update job classifications and pay grades for
+23 applicable veterans home positions to support achieving full operational capacity.
+24 (b) Integration with corrective action plan.
+25 The review and updates required under this section shall be informed by the corrective
+26 action plan submitted pursuant to the provisions of § 30-34-1.
+27 (c) Timeline.
+28 The department of administration shall complete the classification and pay grade review
+29 and publish updated classifications no later than November 15, 2026, for consideration in the
+30 governor’s fiscal year 2027 budget proposal.
+31 (d) Legislative submission.
+32 Updated classifications and any associated fiscal implications shall be transmitted to the
+33 senate finance committee, the house finance committee, and relevant policy committees no later
+34 than November 25, 2026.
+LC005742 - Page 3 of 5
+
+1 (e) Scope and statewide classification neutrality.
+2 Nothing in this section shall be construed to require automatic or across-the-board wage,
+3 benefit, or classification adjustments for state employees outside the Rhode Island veterans home.
+4 Any broader statewide classification or compensation changes resulting from comparable duties,
+5 equity considerations, or collective bargaining shall be considered separately pursuant to applicable
+6 law, budgetary processes, and negotiated agreements.
+7 (f) Collective bargaining.
+8 Nothing in this section shall be construed to limit or override collective-bargaining rights
+9 under title 28.
+10 30-34-3. Reporting and fiscal implementation.
+11 (a) Public reporting.
+12 The workforce analysis and corrective action plan required under the provisions of this
+13 chapter shall be made publicly available upon submission and transmitted to the auditor general.
+14 (b) Fiscal implementation.
+15 Implementation of any recommendation requiring an appropriation or expenditure of state
+16 funds shall be subject to legislative approval through the annual budget or other applicable
+17 appropriations process.
+18 SECTION 4. This act shall take effect upon passage.
+========
+LC005742
+========
+LC005742 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO MILITARY AFFAIRS AND DEFENSE -- RHODE ISLAND VETERANS
+HOME STAFFING SUPPORT ACT OF 2026
+***
+1 This act would create The Rhode Island Veterans Home Staffing Support Act of 2026. This
+2 act would direct the department of administration to conduct a comprehensive workforce analysis
+3 of the veterans home in consultation with the department of health, the office of veterans services,
+4 and the administrator of the Rhode Island veterans home.
+5 This act would take effect upon passage.
+========
+LC005742
+========
+LC005742 - Page 5 of 5

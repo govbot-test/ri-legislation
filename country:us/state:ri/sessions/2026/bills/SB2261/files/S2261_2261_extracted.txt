@@ -1,0 +1,428 @@
+Title: 
+Official Title: 
+Source: versions - 2261
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2261
+========
+LC003903
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- FIRE INSURANCE POLICIES AND RESERVES
+Introduced By: Senators Appollonio, Murray, and Thompson
+Date Introduced: January 23, 2026
+Referred To: Senate Housing & Municipal Government
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 27-5-3 and 27-5-9.1 of the General Laws in Chapter 27-5 entitled
+2 "Fire Insurance Policies and Reserves" are hereby amended to read as follows:
+3 27-5-3. Form of standard policy.
+4 The form of the standard fire insurance policy of the state of Rhode Island, with permission
+5 to substitute for the word “company” or “companies” a more accurate descriptive term for the type
+6 of insurer, shall be as follows:
+7 No
+8 Space for insertion of name of company or companies issuing the policy and other matter
+9 permitted to be stated at the head of the policy.
+10 Space for listing amounts of insurance, rates, and premiums for the basic coverages insured
+11 under the standard form of policy and for additional coverages or perils insured under endorsements
+12 attached.
+13 In consideration of the provisions and stipulations herein or added hereto and of ...............
+14 dollars premium this company, for the term of ……………
+15 from the ………… day of ………………………………………………, 20 ……
+16 to the ………… day of ………………………………………………, 20 ………
+17 at 12:01 a.m. standard time at location of property involved,
+18 to an amount not exceeding ..................... dollars, does insure, .......................... and legal
+19 representatives, to the extent of the actual cash value of the property at the time of loss, but not
+
+1 exceeding the amount which it would cost to repair or replace the property with material of like
+2 kind and quality within a reasonable time after a loss, without allowance for any increased cost of
+3 repair or reconstruction by reason of any ordinance or law regulating construction or repair, and
+4 without compensation for loss resulting from interruption of business or manufacture, nor in any
+5 event for more than the interest of the insured, against all direct loss by fire and lightning, and by
+6 removal from the premises endangered by the perils insured against in this policy, except as
+7 hereinafter provided, to the property described hereinafter while located or contained as described
+8 in this policy, or pro rata for five (5) days at each proper place to which any of the property shall
+9 necessarily be removed for preservation from the perils insured against in this policy, but not
+10 elsewhere.
+11 Assignment of this policy shall not be valid except with the written consent of this
+12 company.
+13 This policy is made and accepted subject to the foregoing provisions and stipulations and
+14 those hereinafter stated, which are hereby made a part of this policy, together with such other
+15 provisions, stipulations, and agreements as may be added hereto, as provided in this policy.
+16 IN WITNESS WHEREOF, this company has executed and attested these presents;
+17 at ..........................................................................................................................................
+18 ………………………………… ..................................................
+19 Secretary President
+20 In the event the domicile state of the company issuing the policy requires a Rhode Island company
+21 to have a countersignature affixed by a licensed resident agent to a policy issued in that state then
+22 in accordance with the provisions of § 27-2-17, the form of the standard fire insurance policy shall
+23 in lieu of the foregoing execution and attestation clause contain the following execution and
+24 attestation clause: IN WITNESS WHEREOF, this company has executed and attested these
+25 presents; but this policy shall not be valid unless countersigned by the duly authorized agent of this
+26 company at .......................................................................................................................................
+27 ..........................................................................................................................................................
+28 ………………………………… ..................................................
+29 Secretary President
+30 Countersigned this .…………………... day of ……………………………………20 ..………….
+31 ..................................................
+32 Agent
+33 1 Concealment, This entire policy shall be void if, whether
+34 2 fraud. before or after a loss, the insured will-
+35 3 fully concealed or misrepresented any material
+36 4 fact or circumstance concerning this insurance or the subject
+LC003903 - Page 2 of 13
+
+1 5 thereof, or the interest of the insured therein, or in the case of
+2 6 any fraud or false swearing by the insured relating thereto.
+3 7 Uninsurable This policy shall not cover accounts, bills,
+4 8 and excepted currency, deeds, evidences of debt, money, or
+5 9 property. securities; nor, unless specifically named here-
+6 10 on in writing, bullion or manuscripts.
+7 11 Perils not This company shall not be liable for loss by
+8 12 included. fire or other perils insured against in this
+9 13 policy caused, directly or indirectly, by: (a)
+10 14 enemy attack by armed forces, including action taken by mili-
+11 15 tary, naval, or air forces in resisting an actual or an immediately
+12 16 impending enemy attack; (b) invasion; (c) insurrection; (d)
+13 17 rebellion; (e) revolution; (f) civil war; (g) usurped power; (h)
+14 18 order of any civil authority except acts of destruction at the time
+15 19 of and for the purpose of preventing the spread of fire, provided
+16 20 that this fire did not originate from any of the perils excluded
+17 21 by this policy; (i) neglect of the insured to use all reasonable
+18 22 means to save and preserve the property at and after a loss, or
+19 23 when the property is endangered by fire in neighboring prem-
+20 24 ises; (j) loss by theft.
+21 25 Other Insurance. Other insurance may be prohibited or the
+22 26 amount of insurance may be limited by an
+23 27 endorsement attached hereto.
+24 28 Conditions suspending or restricting insurance. Unless
+25 29 otherwise provided in writing and added hereto this company
+26 or companies shall not
+27 30 be liable for loss occurring:
+28 31 (a) While the hazard is increased by any means within the con-
+29 32 trol or knowledge of the insured; or
+30 33 (b) While a described building, whether intended for occupancy
+31 34 by owner or tenant, is vacant or unoccupied beyond a period of
+32 35 sixty (60) consecutive days or
+33 35A thirty (30) consecutive days subsequent to the date on which an
+34 35B order is issued by the local building inspector pursuant to
+LC003903 - Page 3 of 13
+
+1 § 23-27.3-124.2,
+2 35C whichever first occurs; or
+3 36 (c) As a result of explosion or riot, unless fire ensues, and in
+4 37 that event for loss by fire only.
+5 38 Other perils Any other peril to be insured against or sub-
+6 39 or subjects. ject of insurance to be covered in this policy
+7 40 shall be by endorsement in writing hereon or
+8 41 added hereto.
+9 42 Added provisions. The extent of the application of insurance
+10 43 under this policy and of the contribution to
+11 44 be made by this company in case of loss, and any other pro-
+12 45 vision or agreement not inconsistent with the provisions of this
+13 46 policy, may be provided for in writing and added hereto, but no
+14 47 provision may be waived except such as by the terms of this
+15 48 policy is subject to change.
+16 49 Waiver No permission affecting this insurance shall
+17 50 provisions. exist, or waiver of any provision is valid,
+18 51 unless granted herein or expressed in writing
+19 52 and added hereto. No provision, stipulation, or forfeiture shall
+20 53 be held to be waived by any requirement or proceeding on the
+21 54 part of this company relating to appraisal or to any examina-
+22 55 tion provided for herein.
+23 56 Cancellation This policy shall be cancelled at any time
+24 57 of policy. at the request of the insured, in which case
+25 58 this company shall, upon demand and sur-
+26 59 render of this policy, refund the excess of the paid premium
+27 above
+28 60 the customary short rates for the expired time. This pol-
+29 61 icy may be cancelled at any time by this company by giving
+30 62 to the insured a thirty (30) days’ written notice of cancellation except that when cancellation is
+31 for nonpayment of premium, a ten (10) days’ written notice shall be required with
+32 63 or without tender of the excess of the paid premium above the
+33 pro
+34 64 rata premium for the expired time.
+LC003903 - Page 4 of 13
+
+1 65 Notice of cancellation shall state that
+2 66 the excess premium (if not tendered) will be promptly
+3 67 re-funded.
+4 68 Mortgagee If loss hereunder is made payable, in whole
+5 69 interests and or in part, to a designated mortgagee not
+6 70 obligations. named herein as the insured, that interest in
+7 71 this policy may be cancelled by giving to that
+8 72 mortgagee a ten (10) days’ written notice of
+9 73 cancellation.
+10 74 If the insured fails to render proof of loss the mortgagee, upon
+11 75 notice, shall render proof of loss in the form herein specified
+12 76 within sixty (60) days thereafter and shall be subject to the pro-
+13 77 visions hereof relating to appraisal and time of payment and of
+14 78 bringing suit. If this company shall claim that no liability ex-
+15 79 isted as to the mortgagor or owner, it shall, to the extent of the pay-
+16 80 ment of loss to the mortgagee, be subrogated to all the mort-
+17 81 gagee's rights of recovery, but without impairing the mort-
+18 gagee's
+19 82 right to sue; or it may pay off the mortgage debt and require
+20 83 an assignment thereof and of the mortgage. Other provisions
+21 84 relating to the interests and obligations of the mortgagee may
+22 85 be added hereto by agreement in writing.
+23 86 Pro rata liability. This company shall not be liable for a
+24 87 greater proportion of any loss than the
+25 88 amount hereby insured shall bear to the whole insurance cover-
+26 89 ing the property against the peril involved, whether collectible
+27 or not.
+28 90 Requirements in The insured shall give immediate written
+29 91 case loss occurs. notice to this company notify this company as soon as practicable of any
+30 loss, once discovered, use reasonable methods to protect
+31 92 the property from further damage, forth
+32 with use reasonable efforts to preserve and
+33 93 separate the damaged and undamaged personal property, put
+34 94 it in the best possible order, furnish a complete inventory of
+LC003903 - Page 5 of 13
+
+1 95 the destroyed, damaged, and undamaged personal property, showing in
+2 96 detail quantities, costs, actual cash value and amount of loss
+3 97 claimed; and within sixty (60) days after the loss of a written request, unless such
+4 98 time is extended in writing by this company, the insured shall
+5 99 render to this company a proof of loss, signed and sworn to by
+6 100 the insured, stating the knowledge and belief of the insured as to
+7 101 the following: the time and origin of the loss, the interest of the
+8 102 insured and of all others in the property, the actual cash value of
+9 103 each item thereof and the amount of loss thereto, all encum-
+10 104 brances thereon, all other contracts of insurance, whether valid
+11 105 or not, covering any of the property, any changes in the title,
+12 106 use, occupation, location, possession, or exposures of the prop-
+13 107 erty since the issuing of this policy, and by whom and for what
+14 108 purpose any building herein described and the several parts
+15 109 thereof were occupied at the time of loss and whether or not it
+16 110 then stood on leased ground, and shall furnish a copy of all the
+17 111 descriptions and schedules in all policies and, if required, veri-
+18 112 fied plans and specifications of any building, fixtures, or machin-
+19 113 ery destroyed or damaged. The insured, as often as may be
+20 114 reasonably required, shall exhibit to any person designated by
+21 115 this company all that remains of any property herein described,
+22 116 and submit to examinations under oath by any person named by
+23 117 this company, and subscribe the same; and, as often as may be
+24 118 reasonably required, shall produce for examination all books of
+25 119 account, bills, invoices, and other vouchers, or certified copies
+26 120 thereof if the originals are lost, at such reasonable time and
+27 place as
+28 121 may be designated by this company or its representative, and
+29 114 prior to invoking a demand for appraisal as provided for
+30 115 herein, shall allow reasonable inspection of the damaged
+31 116 property by this company, all that remains of any property
+32 117 herein described, and submit to one examination under
+33 118 oath by this company, and
+34 122 119 shall permit extracts and copies thereof to be made, and as may be
+LC003903 - Page 6 of 13
+
+1 120 reasonably required, produce documentation to support any claim made,
+2 121 which may be reasonably obtainable and not financially burdensome,
+3 122 which shall occur at a mutually agreed upon time and place.
+4 123 Any examination under oath reasonably required pursuant to this section
+5 124 shall be conducted by telephone, through written questions propounded by
+6 125 this company, or by another method mutually agreed upon by the insured
+7 126 and this company. Any such written questions shall be answered in writing
+8 127 by the insured, subscribed by the insured, and sworn to before a notary public
+9 128 or other officer authorized to administer oaths.
+10 123 Appraisal. In case the insured and this company shall
+11 124 fail to agree as to the actual cash value or
+12 125 the amount of loss, then, on the written demand of either, each
+13 126 shall select a competent and disinterested appraiser and notify
+14 127 the other of the appraiser selected within twenty (20) days of
+15 128 that demand. The appraisers shall first select a competent and
+16 129 disinterested umpire; and failing for fifteen (15) days to agree
+17 130 upon the umpire, then, on request of the insured or this com-
+18 131 pany, the umpire shall be selected by a judge of a court of
+19 132 record in the state in which the property covered is located. The
+20 133 appraisers shall then appraise the loss, stating separately actual
+21 134 cash value and loss to each item; and, failing to agree, shall
+22 135 submit their differences, only, to the umpire. An award in writ-
+23 136 ing, so itemized, of any two (2) when filed with this company
+24 shall
+25 137 determine the amount of actual cash value and loss. Each
+26 138 appraiser shall be paid by the party selecting him or her and
+27 139 the expenses of appraisal and the umpire shall be paid by
+28 140 the parties equally.
+29 129 Appraisal. If the insured and this company fail to agree on the amount
+30 130 of loss, regardless of coverage acceptance, either party may demand
+31 131 appraisal in writing. A full or partial denial of coverage shall not relieve
+32 132 this company of its obligation to resolve scope of work disputes involving
+33 133 the extent and amount of loss through appraisal, if the insured demands appraisal.
+34 134 Within twenty (20) days of a demand for appraisal, each party shall select a competent
+LC003903 - Page 7 of 13
+
+1 135 and disinterested appraiser who, at the time of appointment, is at least eighteen
+2 136 (18) years of age, and has been a resident of Rhode Island for at least one year,
+3 137 and further, is knowledgeable in the calculation of replacement cost value and actual
+4 138 cash value under the regulations promulgated pursuant to § 27-9.1-8, or its successors.
+5 139 Additionally, the appraiser selected by this company shall be either an independent
+6 140 insurance adjuster or an attorney, both of whom require active licensure in the State of
+7 141 Rhode Island. The appraisers shall have fifteen (15) days from the date both appraisers
+8 142 are appointed to agree upon a competent and disinterested umpire.
+9 143 The umpire, at the time of appointment, shall be at least eighteen (18) years of age,
+10 144 and have been a resident of Rhode Island for at least one year, and shall either:
+11 145 (i) Be a disinterested person selected from the list of arbitrators
+12 146 maintained by the Superior Court for the Court Annexed Arbitration Program; or
+13 147 (ii) Be a disinterested person who does not hold an active company adjuster,
+14 148 independent adjuster, or public adjuster license and has not held such a license
+15 149 within the twelve (12) months preceding the date of appointment as umpire.
+16 150 If, for any reason, the appraisers fail to agree upon an umpire within the fifteen (15) days
+17 151 provided to them to do so, or if either party fails to appoint an appraiser within the required
+18 152 time, after the fifteenth day, either party may petition a court of record in this state
+19 153 pursuant to §§ 10-3-4 and 10-3-6, or its successors, for the appointment of an
+20 154 appraiser, an umpire, or both. If, at the time such petition is heard, either party has not appointed
+21 155 an appraiser, the court shall, upon the request of the aggrieved party, appoint the appraiser for
+22 156 the party that failed to timely name their appraiser, and the court shall concurrently appoint the
+23 157 umpire, to provide for a speedy and efficient resolution of the amount of loss in dispute. Once
+24 158 appointed, the appraisers shall appraise the loss by separately determining the replacement cost
+25 159 value, and if necessary, the actual cash value associated with the restoration of the property.
+26 160 The appraisers and umpire shall be promptly informed by the parties if the policy to which
+27 161 the appraisal has been invoked under is a replacement cost value or actual cash value policy.
+28 If the
+29 162 policy has replacement cost value coverage, then only the replacement cost value shall be
+30 163 calculated. If the policy has actual cash value coverage, then both the replacement cost value
+31 164 and actual cash values shall be calculated.
+32 165 Replacement cost value shall include all legitimate and necessary materials, labor, and
+33 166 specialized labor, and shall be inclusive of all consequential damage costs,
+34 167 necessary to restore the property to a reasonably uniform appearance.
+LC003903 - Page 8 of 13
+
+1 168 Restoration shall use new materials of like kind, quality, color, and appearance to the
+2 169 existing undamaged materials when the property is not being wholly replaced.
+3 170 Replacement cost value shall further factor in all applicable building requirements
+4 171 and manufacturer installation instructions, whichever is more stringent; and
+5 172 shall include compliance with all applicable health and safety requirements based on
+6 173 the age, design, and general nature of the scope of work for the property, without
+7 174 consideration of any depreciation.
+8 175 Actual cash value calculation shall include reasonable depreciation, which shall apply only to
+9 176 materials that are removed and replaced with new materials. Depreciation shall not be
+10 177 applied to labor, taxes, permits, fees, interest, or any non-material cost. Materials added
+11 178 solely due to building requirements or manufacturer installation standards shall not be
+12 179 depreciated. A depreciation schedule shall be prepared by each appraiser and provided to
+13 180 the appraisal panel.
+14 181 If the appraisers do not agree on any portion of the replacement cost value, actual
+15 182 cash value, or the cause of the damage evaluated, they shall submit only
+16 183 their differences and disagreements to the umpire for resolution.
+17 184 The appraisal award shall separately indicate the replacement cost value and
+18 185 accrued interest, calculated back to the date of loss, using a minimum interest rate of
+19 186 twelve percent (12%) per annum as established under § 9-21-10.
+20 187 If the policy provides actual cash value coverage, then the appraisal award shall
+21 188 separately indicate the replacement cost value, depreciation amount(s), the actual cash
+22 189 value, and accrued interest, calculated on the actual cash value back to the date of loss,
+23 190 using a minimum interest rate of twelve percent (12%) per annum as established
+24 191 under § 9-21-10.
+25 192 A written award signed by any two (2) members of the appraisal panel and filed with this
+26 193 company shall determine the amount of loss. Each appraiser shall immediately provide the
+27 194 executed award to the party who appointed that appraiser.
+28 195 If the insured purchased replacement cost coverage, the replacement cost value stated in the
+29 196 award, plus applicable interest accruing up to the date the payment is received, shall be the
+30 197 amount due.
+31 198 If the insured purchased only actual cash value coverage, the actual cash value stated
+32 199 in the award, plus applicable interest accruing up to the date the payment is received,
+33 200 shall be the amount due.
+34 201 If this company seeks to vacate or modify the appraisal award, it shall, contemporaneously
+LC003903 - Page 9 of 13
+
+1 202 with its initial filing in court, deposit into the registry of the court the full amount due for the
+2 203 appraisal award, including interest accrued to the date of filing, which shall remain on deposit
+3 204 pending final adjudication.
+4 205 If the cause of loss determined by the appraisal is covered under the policy and the company
+5 206 fails to pay the appraisal award within thirty (30) days of receipt of the award, and the
+6 207 insured thereafter files an action to confirm or enforce the award, this company shall,
+7 208 contemporaneously with its initial filing in that action, deposit into the registry of the court
+8 209 the full amount due for the appraisal award, including interest accrued to the date of filing,
+9 210 pending final adjudication.
+10 211 If the appraisal is invoked by the insured, each appraiser shall be compensated by the
+11 212 party selecting that appraiser. If the appraisal is invoked by the company, the expenses
+12 213 of both appraisers shall be paid by the company. The fees of the umpire shall be paid
+13 214 by the parties equally. No party shall pay more than fifty percent (50%) of the umpire’s
+14 215 total fees.
+15 141216 Company's It shall be optional with this company to
+16 142217 options. take all, or any part, of the property at the
+17 143218 agreed or appraised value, and also to re-
+18 144219 pair, rebuild, or replace the property destroyed or damaged with
+19 145220 another of like kind and quality within a reasonable time, on
+20 146221 giving notice of its intention so to do within thirty (30) days
+21 147222 after the receipt of the proof of the loss herein required.
+22 148223 Abandonment. There can be no abandonment to this com-
+23 149224 pany of any property.
+24 150225 When loss The amount of loss for which this company
+25 151226 payable may be becomes liable for shall be payable sixty (60) thirty (30)
+26 152227 days after proof of loss, as herein provided,
+27 153 228 is received by this company and ascertainment of the loss is
+28 154 229 made either by agreement between the insured and this com-
+29 155 230 pany expressed in writing or by the filing with this company
+30 156 231 of an award as herein provided. by this company, to which payment may be issued without
+31 232 agreement of the insured, or where there is an agreement between the parties expressed in
+32 233 writing or by the filing with this company of an appraisal award as herein provided.
+33 234 Any payment made by this company to the insured that is not the payment of an appraisal
+34 235 award or judgment, shall be accompanied by written notice advising the insured that any
+LC003903 - Page 10 of 13
+
+1 236 disagreement regarding the amount of loss may be resolved through appraisal as herein
+2 237 provided.
+3 157238 Suit. No A suit or action on this policy for the recov-
+4 158239 ery of any claim caused solely by fire or lightning shall be sustainable in any
+5 159240 court of law or equity unless all the requirements of this policy
+6 160241 shall have been complied with, and unless if it is commenced within
+7 161242 twenty-four (24) months next after inception of the loss.
+8 162243 Subrogation. This company may require from the insured
+9 163244 an assignment of all rights of recovery.
+10 164245 against any party for loss to the extent that payment therefor
+11 165246 is made by this company.
+12 Standard Fire Insurance Policy of the State of
+13 Expires ..............................................................................................................................................
+14 Property .............................................................................................................................................
+15 Assured .............................................................................................................................................
+16 No. ……………………………
+17 (COMPANY)
+18 It is important that the written portions of all policies covering
+19 the same property read exactly alike. If they do not, they should
+20 be made uniform at once.
+21
+22 SECTION 2. Section 27-5-9.1 of the General Laws in Chapter 27-5 entitled "Fire Insurance
+23 Policies and Reserves" is hereby amended to read as follows:
+24 27-5-9.1. Simplified comprehensive policies of insurance.
+25 (a) Simplified comprehensive policies of insurance providing broad coverage of all or
+26 various combinations of risks may be approved by the director of business regulation and issued
+27 by insurers notwithstanding those provisions of any other law that specify the contents of insurance
+28 policies; provided, that those policies contain provisions assuring to policyholders and claimants
+29 protection not less favorable than they would be entitled to under § 27-5-3 or a substantially similar
+30 policy that is not subject to this section.
+31 (b) Limitations period for non-fire and non-lightning homeowners claims. Any legal action
+32 for a claim under a homeowners policy issued pursuant to this section, where the cause of loss is
+33 neither fire nor lightning, shall be commenced within ten (10) years after inception of the loss. Any
+34 contractual provision establishing a shorter limitations period is void and unenforceable.
+LC003903 - Page 11 of 13
+
+1 (c) For purposes of this section, “inception of the loss” means, in the case of a continuous,
+2 repeated, or progressive loss, the first day on which the loss or damage was discovered.
+3 (d) Fire and lighting claims unaffected. Claims arising from fire or lightning shall remain
+4 governed by § 27-5-3.
+5 SECTION 3. This act shall take effect upon passage.
+========
+LC003903
+========
+LC003903 - Page 12 of 13
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- FIRE INSURANCE POLICIES AND RESERVES
+***
+1 This act would amend Rhode Island's standard fire insurance policy by codifying uniform,
+2 transparent appraisal procedures and payment obligations that reflect contemporary claim-handling
+3 practices while preserving long-standing consumer protections.
+4 This act would take effect upon passage.
+========
+LC003903
+========
+LC003903 - Page 13 of 13

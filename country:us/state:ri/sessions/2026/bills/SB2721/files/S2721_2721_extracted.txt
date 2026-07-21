@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - 2721
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2721
+========
+LC005849
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- CHILD-SERVING PROVIDER LIABILITY JOINT
+UNDERWRITING ASSOCIATION
+Introduced By: Senators DiMario, Lauria, Gallo, Vargas, Valverde, Britto, Acosta,
+Murray, and Kallman
+Date Introduced: February 27, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 84
+4 CHILD-SERVING PROVIDER LIABILITY JOINT UNDERWRITING ASSOCIATION
+5 27-84-1. Declaration of purpose.
+6 (a) The general assembly finds that:
+7 (1) Child-serving providers throughout the state are experiencing significant difficulty in
+8 obtaining affordable and adequate liability insurance coverage;
+9 (2) These organizations provide essential services to children and families, including
+10 childcare, education, behavioral health services, youth development, mentoring, foster care, and
+11 recreational programming;
+12 (3) The lack of available or affordable liability insurance threatens the continued operation
+13 of these providers and the health, safety, and welfare of Rhode Island children;
+14 (4) It is in the public interest to ensure the availability of liability insurance coverage for
+15 child-serving providers unable to procure such coverage in the voluntary insurance market.
+16 (b) The purpose of this chapter is to establish a joint underwriting association to provide
+17 liability insurance coverage to eligible child-serving providers as a market of last resort. This
+18 chapter is enacted to provide a mechanism for the equitable apportionment among insurers of the
+
+1 responsibility for insuring eligible child-serving providers who are in good faith entitled to, but are
+2 unable to procure, liability insurance coverage through ordinary methods.
+3 27-84-2. Definitions.
+4 As used in this chapter:
+5 (1) “Association” means the child-serving organization liability joint underwriting
+6 association established pursuant to this chapter.
+7 (2) “Child care provider” or “child-serving provider” means any person, corporation,
+8 partnership, nonprofit organization, governmental entity, or other legal entity that is licensed,
+9 certified, registered, or otherwise authorized under the laws of the State of Rhode Island to provide
+10 care, supervision, treatment, education, behavioral health services, residential services, or other
+11 essential services to children under eighteen (18) years of age. Such term shall include, but not be
+12 limited to:
+13 (i) Licensed child care centers and family child care homes;
+14 (ii) Group family child care homes and school-age child care programs;
+15 (iii) Early learning, preschool, and pre-kindergarten programs not otherwise operated by a
+16 public school district;
+17 (iv) Community-based children’s behavioral health providers including, but not limited to,
+18 entities providing outpatient counseling, home-based services, mobile response and stabilization
+19 services, intensive in-home treatment, therapeutic mentoring, case management, or similar
+20 services;
+21 (v) Residential treatment facilities, group homes, therapeutic foster care agencies, shelter
+22 care programs, and other congregate care programs serving minors;
+23 (vi) Providers of early intervention services, developmental disability services, and child
+24 welfare services;
+25 (vii) Nonprofit or for-profit organizations that provide after-school programs, enrichment
+26 programs, mentoring services, recreational supervision, or structured youth programming; and
+27 (viii) Any other licensed or state-contracted provider whose primary purpose includes the
+28 supervision, care, custody, treatment, or support of minors.
+29 For purposes of clarity, this definition shall apply regardless of whether services are
+30 delivered in a center-based setting, in a residential facility, in a private home, in a community
+31 setting, or through mobile or in-home service delivery.
+32 (3) “Department” means the Rhode Island department of business regulation.
+33 (4) “Director” means the director of the department of business regulation, or designee.
+34 (5) “Member insurer” means every insurer authorized to write commercial general liability
+LC005849 - Page 2 of 7
+
+1 insurance in this state.
+2 (6) “Net direct premiums” means gross direct premiums written on commercial general
+3 liability insurance in this state, less return premiums thereon and dividends paid or credited to
+4 policyholders.
+5 27-84-3. Establishment of association -- Mandatory membership.
+6 (a) There is created a nonprofit, unincorporated legal entity to be known as the child-
+7 serving provider liability joint underwriting association.
+8 (b) Every insurer authorized to write commercial general liability insurance in this state
+9 shall be and remain a member of the association as a condition of its authority to transact such
+10 insurance within this state.
+11 (c) The association shall operate pursuant to a plan of operation approved by the director
+12 and shall exercise its powers through a board of directors established under the plan.
+13 (d) The association shall operate under the supervision of the department and shall be
+14 subject to the applicable provisions of this title.
+15 27-84-4. Governance.
+16 (a) The association shall be governed by a board of directors consisting of:
+17 (1) Four (4) representatives of member insurers, appointed by the director;
+18 (2) Three (3) representatives of child-serving organizations, appointed by the governor;
+19 (3) One public member with experience in child advocacy or risk management, appointed
+20 by the governor; and
+21 (4) The director, or designee, who shall serve as an ex officio, nonvoting member.
+22 (b) Board members shall serve terms of three (3) years and may be reappointed.
+23 (c) The board shall adopt bylaws and administer the association in accordance with the
+24 approved plan of operation.
+25 27-84-5. Plan of operation.
+26 (a) Within one hundred twenty (120) days after the effective date of this chapter, the
+27 association shall submit to the director a proposed plan of operation for approval.
+28 (b) The plan of operation shall provide for:
+29 (1) The establishment of necessary facilities for underwriting, policy issuance, claims
+30 handling, and other functions of the association;
+31 (2) Reasonable underwriting standards for determining eligibility;
+32 (3) Procedures for applicants to demonstrate inability to obtain coverage in the voluntary
+33 market;
+34 (4) The establishment of rates, rating plans, and policy forms;
+LC005849 - Page 3 of 7
+
+1 (5) The assessment of member insurers to defray losses and expenses;
+2 (6) The investment and management of funds;
+3 (7) The appointment of servicing carriers or third-party administrators; and
+4 (8) Such other provisions as are necessary or proper for the efficient operation of the
+5 association.
+6 (c) If the association fails to submit a suitable plan of operation, the director shall
+7 promulgate and adopt a plan.
+8 (d) The plan of operation and any amendments thereto shall be subject to approval by the
+9 director.
+10 27-84-6. Coverage.
+11 (a) The association shall make available commercial general liability insurance coverage,
+12 including coverage for bodily injury, property damage, personal injury, and sexual abuse and
+13 molestation liability, to any eligible child-serving provider that:
+14 (1) Is in compliance with applicable state licensing and regulatory requirements; and
+15 (2) Has been unable, after diligent effort, to obtain substantially equivalent coverage in the
+16 voluntary market.
+17 (b) The association may establish reasonable limits of liability, deductibles, exclusions,
+18 and underwriting requirements, subject to approval by the director.
+19 (c) Coverage shall be provided only so long as the insured remains unable to obtain
+20 coverage in the voluntary market.
+21 27-84-7. Rates.
+22 (a) Rates shall not be excessive, inadequate, or unfairly discriminatory and shall be
+23 actuarially sound.
+24 (b) All rates, rating plans, and policy forms shall be filed with and approved by the director
+25 prior to use.
+26 (c) The director may disapprove any rate or form inconsistent with this title.
+27 27-84-8. Assessments.
+28 (a) If the association’s premiums, investment income, and other revenues are insufficient
+29 to pay its losses and expenses, the association shall assess member insurers in proportion to each
+30 member’s share of net direct premiums written in this state for commercial general liability
+31 insurance during the preceding calendar year.
+32 (b) Assessments shall be subject to approval by the director.
+33 (c) A member insurer may offset any assessment paid against its premium tax liability in
+34 this state in a manner and over a period determined by the general assembly.
+LC005849 - Page 4 of 7
+
+1 27-84-9. Powers of the association.
+2 The association shall have the power to:
+3 (1) Sue and be sued;
+4 (2) Enter into contracts;
+5 (3) Borrow funds and issue evidence of indebtedness;
+6 (4) Purchase reinsurance;
+7 (5) Invest funds in accordance with § 27-4-27;
+8 (6) Appoint servicing carriers or administrators; and
+9 (7) Perform all acts necessary or proper to effectuate the purposes of this chapter.
+10 27-84-10. Board of directors -- Immunity.
+11 (a) The association shall be governed by a board of directors established pursuant to the
+12 plan of operation and approved by the director.
+13 (b) No member of the board of directors, officer of the association, or employee or agent
+14 of the association shall be liable in a civil action for any act or omission arising out of the
+15 performance of duties pursuant to this chapter; provided that, such person acted in good faith and
+16 without willful misconduct or gross negligence.
+17 (c) The association shall indemnify and hold harmless each board member, officer,
+18 employee, and agent of the association against all costs, expenses, judgments, and liabilities
+19 incurred in connection with any action, suit, or proceeding arising out of the performance of duties
+20 under this chapter; provided that, the person acted in good faith and without willful misconduct or
+21 gross negligence.
+22 (d) For purposes of chapter 31 of title 9, the association shall be deemed a public
+23 instrumentality of the state solely for purposes of the immunity protections set forth in this section.
+24 27-84-11. Examination and oversight.
+25 The association shall be subject to examination by the department in the same manner as
+26 insurers authorized to transact business in this state. The reasonable costs of examination shall be
+27 borne by the association.
+28 27-84-12. Tax status.
+29 The association shall be exempt from all state and local taxes except taxes on real and
+30 personal property.
+31 27-84-13. Annual report.
+32 The association shall submit annually to the director and to the speaker of the house of
+33 representatives and the president of the senate a report on its financial condition, underwriting
+34 experience, claims activity, and market conditions.
+LC005849 - Page 5 of 7
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC005849
+========
+LC005849 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- CHILD-SERVING PROVIDER LIABILITY JOINT
+UNDERWRITING ASSOCIATION
+***
+1 This act would create the child-serving provider liability joint underwriting association to
+2 provide a joint underwriting association to provide liability insurance coverage for eligible child
+3 serving providers.
+4 This act would take effect upon passage.
+========
+LC005849
+========
+LC005849 - Page 7 of 7

@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - 2965
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2965
+========
+LC005526
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- UNIFORM ELECTRONIC
+TRANSACTIONS ACT
+Introduced By: Senators Lauria, DiMario, Valverde, Murray, Vargas, Ujifusa, Urso,
+Mack, Acosta, Kallman, and Pearson
+Date Introduced: March 04, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 42-127.1-8 of the General Laws in Chapter 42-127.1 entitled
+2 "Uniform Electronic Transactions Act" is hereby amended to read as follows:
+3 42-127.1-8. Provision of information in writing — Presentation of records.
+4 (a) If parties have agreed to conduct a transaction by electronic means and a law requires
+5 a person to provide, send, or deliver information, in writing, to another person, the requirement is
+6 satisfied if the information is provided, sent, or delivered, as the case may be, in an electronic record
+7 capable of retention by the recipient at the time of receipt. An electronic record is not capable of
+8 retention by the recipient if the sender or its information processing system inhibits the ability of
+9 the recipient to print or store the electronic record.
+10 (b) If a law other than this chapter requires a record:
+11 (1) to be posted or displayed in a certain manner;
+12 (2) to be sent, communicated, or transmitted by a specified method, or
+13 (3) to contain information that is formatted in a certain manner, the following rules apply:
+14 (i) The record must be posted or displayed in the manner specified in the other law.
+15 (ii) Except as otherwise provided in subdivision (d)(2), the record must be sent,
+16 communicated, or transmitted by the method specified in the other law.
+17 (iii) The record must contain the information formatted in the manner specified in the other
+18 law.
+
+1 (c) If a sender inhibits the ability of a recipient to store or print an electronic record, the
+2 electronic record is not enforceable against the recipient.
+3 (d) The requirements of this section may not be varied by agreement, but:
+4 (1) To the extent a law other than this chapter requires information to be provided, sent, or
+5 delivered in writing but permits that requirement to be varied by agreement, the requirement under
+6 subsection (a) that the information be in the form of an electronic record capable of retention may
+7 also be varied by agreement; and
+8 (2) A requirement under a law other than this chapter to send, communicate, or transmit a
+9 record by first-class mail, postage prepaid or regular United States mail, may be varied by
+10 agreement to the extent permitted by the other law; and
+11 (3) A party may condition their agreement to conduct a transaction by electronic means
+12 based upon their stated desire to obtain and receive a written copy of the document in English or
+13 Spanish, before electronic execution of any agreement or any performance is required of the party.
+14 SECTION 2. This act shall take effect upon passage.
+========
+LC005526
+========
+LC005526 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- UNIFORM ELECTRONIC
+TRANSACTIONS ACT
+***
+1 This act would allow a party to condition a transaction by electronic means on their stated
+2 desire to obtain and receive a written copy of the document in English or Spanish before electronic
+3 execution of the agreement or performance is required of the party.
+4 This act would take effect upon passage.
+========
+LC005526
+========
+LC005526 - Page 3 of 3

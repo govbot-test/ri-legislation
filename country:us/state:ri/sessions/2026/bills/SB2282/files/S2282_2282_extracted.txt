@@ -1,0 +1,134 @@
+Title: 
+Official Title: 
+Source: versions - 2282
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2282
+========
+LC004178
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO ELECTIONS -- LOCAL CANVASSING AUTHORITIES
+Introduced By: Senators Dimitri, LaMountain, Famiglietti, Patalano, and Thompson
+Date Introduced: January 23, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 17-8-10 of the General Laws in Chapter 17-8 entitled "Local
+2 Canvassing Authorities" is hereby amended to read as follows:
+3 17-8-10. Publication of local questions to be submitted to voters.
+4 (a) Prior At least twenty-five (25) days prior to each local election at which public questions
+5 are to be submitted, the local board shall cause to be prominently posted in at least three (3) local
+6 public locations and advertised at least once in a newspaper of local circulation, or in lieu of the
+7 requirement to place the advertisement in a newspaper of local circulation, the City of Pawtucket
+8 may mail to the household of each registered voter prior to the election the full text of each
+9 legislative act to be acted upon and the election date, or the local board may substitute a description
+10 of the text of each act in lieu of the full text, together with the following information:
+11 (1) The designated number of the question;
+12 (2) A brief caption of the question;
+13 (3) A brief explanation of the measure that is the subject matter of the question; and
+14 (4) A notice that voter fraud is a felony and the penalty for voter fraud. This notice shall be
+15 in conspicuous lettering and shall contain the following language: “You must be registered to vote
+16 from your actual place of residence.”
+17 (b) If the public question involves the issuance of bonds or other evidence of indebtedness
+18 or any other long-term financial obligation such as a lease, the notice required by subsection (a) of
+19 this section shall also include at least the following information to be provided:
+
+1 (1) The estimated total cost of the project or program, including financing (using a
+2 reasonable assumed rate of interest), legal, and other costs.
+3 (2) The estimated useful life of the project, and the term of the bonds, other indebtedness,
+4 or other obligation.
+5 (3) A reasonably detailed description of the project or program, its purposes, and a project
+6 timetable.
+7 (c) The local board shall additionally publish a conspicuous and prominent notice,
+8 containing all of the same information on the municipality's website for at least twenty-five (25)
+9 consecutive days leading up to and including the date of the election, where the local question(s)
+10 are certified to appear on the ballot. Said notice shall reasonably comply with the most recent,
+11 commonly adopted Web Content Accessibility Guidelines (WCAG), which shall be no less than
+12 2.0 compliance level AA.
+13 (d) The local board may, at its discretion, substitute the newspaper advertising
+14 requirements listed in subsection (a) of this section, by mailing a notice containing all of the same
+15 information to each voter household in the applicable election jurisdiction, in addition to
+16 prominently posting the same in at least three (3) local public locations.
+17 SECTION 2. Chapter 17-8 of the General Laws entitled "Local Canvassing Authorities" is
+18 hereby amended by adding thereto the following section:
+19 17-8-11. Publication of early voting dates, hours, and location.
+20 (a) The local board shall advertise the dates, hours, and location of early voting in a
+21 newspaper of general circulation in the city or town, at least once prior to the commencement of
+22 any in-person early voting period to be conducted by the local board, and at least once while that
+23 same early voting period is underway.
+24 (b) The local board shall publish a conspicuous and prominent notice on the municipality's
+25 website of the dates, hours, and location of early voting, and said notice shall remain published
+26 throughout the duration of any in-person early voting period conducted by the local board. Said
+27 notice shall reasonably comply with the most recent, commonly adopted Web Content Accessibility
+28 Guidelines (WCAG), which shall be no less than 2.0 compliance level AA.
+29 SECTION 3. Section 17-9.1-3 of the General Laws in Chapter 17-9.1 entitled "Registration
+30 of Voters" is hereby amended to read as follows:
+31 17-9.1-3. Periods when boards receive registrations.
+32 (a) The local boards shall open their respective offices for the purposes of receiving
+33 registration registrations of voters throughout the year during the their regular business hours.
+34 Registration for any election shall close on the thirtieth (30th) day preceding an election; provided,
+LC004178 - Page 2 of 4
+
+1 that local boards shall not receive the registration on Sundays or legal holidays, and may receive
+2 the registrations during additional hours each day from the fortieth (40th) to the thirtieth (30th) day
+3 before any election. Nothing contained in this section shall be construed as restricting the right of
+4 local boards, statewide or local registration agents, or members of the general assembly to accept
+5 registrations of voters on any day or at any time. The acceptance of registrations at any other time
+6 shall not affect the validity of any election.
+7 (b) Notwithstanding any other sections of the general laws to the contrary, all local boards
+8 of canvassers shall remain open from eight-thirty (8:30) a.m. until four o’clock (4:00) p.m. on the
+9 last day prescribed by law for the taking receiving of voter registrations to permit participation of
+10 the voters in the next succeeding election. In the event that the last day prescribed by law for the
+11 taking receiving of voter registrations is a Saturday, Sunday, or legal holiday, then the local board
+12 may;:
+13 (1) Designate one publicly accessible location in the city or town at which voter
+14 registrations will be taken received; and
+15 (2) Designate the hours during which voter registration registrations will be taken received
+16 at that location, which hours shall include the hours from one o’clock (1:00) p.m. until four o’clock
+17 (4:00) p.m.
+18 (c) If a local board does designate a location other than its regular place of business or does
+19 designate hours other than eight-thirty o’clock (8:30) a.m. until four o’clock (4:00) p.m., it shall:
+20 (1) Publicly announce Prominently post in at least three (3) local public locations those
+21 designation(s) at least ten (10) days prior to the last day provided by law for the taking receiving
+22 of voter registrations; and
+23 (2) Advertise those designation(s) in a newspaper of general circulation in the city or town
+24 at least twice prior to the last day prescribed by law for the taking receiving of voter registrations.
+25 The local board may substitute advertising in a newspaper by posting a conspicuous and prominent
+26 notice of those designation(s) on the municipality's website, for at least ten (10) consecutive days
+27 leading up to and including the last day prescribed by law for the receiving of voter registrations
+28 for any election. Said notice shall reasonably comply with the most recent, commonly adopted Web
+29 Content Accessibility Guidelines (WCAG), which shall be no less than 2.0 compliance level AA.
+30 SECTION 4. This act shall take effect upon passage.
+========
+LC004178
+========
+LC004178 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- LOCAL CANVASSING AUTHORITIES
+***
+1 This act would require the local board to publish early voting dates, hours, and location, at
+2 least twice in a newspaper of general circulation within the city or town, and to publish the same
+3 on the municipality's website for the duration of the in-person early voting period.
+4 This act would permit the substitution of advertising the voter registration deadline in a
+5 newspaper by posting notice of designation(s) on the municipality's website, continuously, for at
+6 least ten (10) consecutive days leading up to the last day prescribed by law for the receiving of
+7 voter registrations.
+8 This act would require the local board to publish local ballot questions on its website for
+9 25 consecutive days, and to authorize the substitution of newspaper advertisements if a jurisdiction-
+10 wide household mailing containing the same information is instead sent.
+11 This act would take effect upon passage.
+========
+LC004178
+========
+LC004178 - Page 4 of 4

@@ -1,0 +1,127 @@
+Title: 
+Official Title: 
+Source: versions - 8092
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8092
+========
+LC005361
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- ABUSED AND NEGLECTED CHILDREN
+Introduced By: Representatives Caldwell, McEntee, Spears, and Dawson
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+(DCYF)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 40-11-2 of the General Laws in Chapter 40-11 entitled "Abused and
+2 Neglected Children" is hereby amended to read as follows:
+3 40-11-2. Definitions.
+4 When used in this chapter and unless the specific context indicates otherwise:
+5 (1) “Abused or neglected child” means a child whose physical or mental health or welfare
+6 is harmed, or threatened with harm, when his or her parent or other person responsible for his or
+7 her welfare:
+8 (i) Inflicts, or allows to be inflicted, upon the child physical or mental injury, including
+9 excessive corporal punishment; or
+10 (ii) Creates, or allows to be created, a substantial risk of physical or mental injury to the
+11 child, including excessive corporal punishment; or
+12 (iii) Commits, or allows to be committed, against the child an act of sexual abuse; or
+13 (iv) Fails to supply the child with adequate food, clothing, shelter, or medical care, though
+14 financially able to do so or offered financial or other reasonable means to do so; or
+15 (v) Fails to provide the child with a minimum degree of care or proper supervision or
+16 guardianship because of his or her unwillingness or inability to do so by situations or conditions
+17 such as, but not limited to: social problems, mental incompetency, or the use of a drug, drugs, or
+18 alcohol to the extent that the parent or other person responsible for the child’s welfare loses his or
+19 her ability or is unwilling to properly care for the child; or
+
+1 (vi) Abandons or deserts the child; or
+2 (vii) Sexually exploits the child in that the person allows, permits, or encourages the child
+3 to engage in prostitution as defined by the provisions in § 11-34.1-1 et seq., entitled “Commercial
+4 Sexual Activity”; or
+5 (viii) Sexually exploits the child in that the person allows, permits, encourages, or engages
+6 in the obscene or pornographic photographing, filming, or depiction of the child in a setting that,
+7 taken as a whole, suggests to the average person that the child is about to engage in, or has engaged
+8 in, any sexual act, or that depicts any such child under eighteen (18) years of age performing
+9 sodomy, oral copulation, sexual intercourse, masturbation, or bestiality; or
+10 (ix) Commits, or allows to be committed, any sexual offense against the child as sexual
+11 offenses are defined by the provisions of chapter 37 of title 11, entitled “Sexual Assault,” as
+12 amended; or
+13 (x) Commits, or allows to be committed, against any child an act involving sexual
+14 penetration or sexual contact if the child is under fifteen (15) years of age; or if the child is fifteen
+15 (15) years or older, and (1) Force or coercion is used by the perpetrator, or (2) The perpetrator
+16 knows, or has reason to know, that the victim is a severely impaired person as defined by the
+17 provisions of § 11-5-11, or physically helpless as defined by the provisions of § 11-37-1(6).
+18 (2) “Child” means a person under the age of eighteen (18).
+19 (3) “Child protective investigator” means an employee of the department charged with
+20 responsibility for investigating complaints and referrals of child abuse and neglect and institutional
+21 child abuse and neglect.
+22 (4) “Children’s advocacy center (CAC)” means a community-based organization that is a
+23 member of the Rhode Island chapter of children advocacy centers and an accredited member (or
+24 working toward accreditation) of the National Children’s Alliance.
+25 (5) “Department” means department of children, youth and families.
+26 (6) “Educational program” means any public or private school, including boarding schools,
+27 or any home-schooling program.
+28 (7) “Healthcare provider” means any provider of healthcare services involved in the
+29 delivery or care of infants or care of children.
+30 (8) “Institution” means any private or public hospital or other facility providing medical or
+31 psychiatric diagnosis, treatment, and care.
+32 (9) “Institutional child abuse and neglect” means situations of known or suspected child
+33 abuse or neglect where the person allegedly responsible for the abuse or neglect is a foster parent
+34 or the employee of a public or private residential childcare institution or agency; or any staff person
+LC005361 - Page 2 of 4
+
+1 providing out-of-home care or situations where the suspected abuse or neglect occurs as a result of
+2 the institution’s practices, policies, or conditions.
+3 (10) “Law enforcement agency” means the police department in any city or town or the
+4 state police.
+5 (11) “Mental injury” includes a state of substantially diminished psychological or
+6 intellectual functioning in relation to, but not limited to, such factors as: failure to thrive; ability to
+7 think or reason; control of aggressive or self-destructive impulses; acting-out or misbehavior,
+8 including incorrigibility, ungovernability, or habitual truancy; provided, however, that the injury
+9 must be clearly attributable to the unwillingness or inability of the parent or other person
+10 responsible for the child’s welfare to exercise a minimum degree of care toward the child.
+11 (12) “Person responsible for child’s welfare” means the child’s parent; guardian; any
+12 individual, eighteen (18) years of age or older, who resides in the home of a parent or guardian and
+13 has unsupervised access to a child; foster parent; an employee of a public or private residential
+14 home or facility; or any staff person providing out-of-home care (out-of-home care means child
+15 day care to include family day care, group day care, and center-based day care; and camps, whether
+16 licensed or unlicensed, to include programs operating during the day or overnight in the summer
+17 or during other breaks in the academic calendar). Provided, further, that an individual, eighteen
+18 (18) years of age or older, who resides in the home of a parent or guardian and has unsupervised
+19 access to the child, shall not have the right to consent to the removal and examination of the child
+20 for the purposes of § 40-11-6.
+21 (13) “Physician” means any licensed doctor of medicine, licensed osteopathic physician,
+22 and any physician, intern, or resident of an institution as defined in subsection (8).
+23 (14) “Probable cause” means facts and circumstances based upon as accurate and reliable
+24 information as possible that would justify a reasonable person to suspect that a child is abused or
+25 neglected. The facts and circumstances may include evidence of an injury, or injuries, and the
+26 statements of a person worthy of belief, even if there is no present evidence of injury.
+27 (15) “Shaken-baby syndrome” means a form of abusive head trauma, characterized by a
+28 constellation of symptoms caused by other than accidental traumatic injury resulting from the
+29 violent shaking of or impact upon an infant or young child’s head.
+30 SECTION 2. This act shall take effect upon passage.
+========
+LC005361
+========
+LC005361 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- ABUSED AND NEGLECTED CHILDREN
+***
+1 This act would add staff of day camps and residential camps for youth to the definition of
+2 "person responsible for a child's welfare" within the chapter on abused and neglected children.
+3 This act would take effect upon passage.
+========
+LC005361
+========
+LC005361 - Page 4 of 4

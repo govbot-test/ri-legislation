@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - 7135  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7135 SUBSTITUTE A
+========
+LC003426/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+Introduced By: Representatives Read, Noret, Cotter, Casey, Shanley, Casimiro, Hull,
+Corvese, Serpa, and Paplauskas
+Date Introduced: January 15, 2026
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 23-28.2 of the General Laws entitled "Office of State Fire Marshal"
+2 is hereby amended by adding thereto the following section:
+3 23-28.2-31. Electric and hybrid motor vehicle identification database.
+4 (a) The office of the state fire marshal ("office") shall, in coordination with the division of
+5 motor vehicles ("division"), create and maintain a vehicle identification database for electric or
+6 hybrid motor vehicles powered in whole or in part by a high-voltage lithium-ion storage battery.
+7 (b) The office shall compile a contact list of all departments and districts that provide fire-
+8 fighting services and shall provide the division with the list which would enable the division to
+9 transfer the information required to be collected pursuant to subsection (c) of this section directly
+10 to the fire department or fire district that provides fire protection services to the address of the
+11 vehicle owner. The office shall provide an updated contact list to the division as necessary.
+12 (c) The information to be transferred by the division pursuant to this section shall be limited
+13 to:
+14 (1) A vehicle description including the make, model and year of the vehicle; and
+15 (2) The address of the structure where the vehicle is located.
+16 (d) The division shall forward the information collected pursuant to subsection (c) of this
+17 section to the municipal or volunteer fire department or fire district that provides fire protection
+18 services where the vehicle is located by January 1, and July 1, of each year.
+
+1 SECTION 2. This act shall take effect six (6) months after passage.
+========
+LC003426/SUB A
+========
+LC003426/SUB A - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- OFFICE OF STATE FIRE MARSHAL
+***
+1 This act would create a program through which fire departments and fire districts are
+2 notified of locations of registrants of electric and hybrid motor vehicles by the division of motor
+3 vehicles.
+4 This act would take effect six (6) months after passage.
+========
+LC003426/SUB A
+========
+LC003426/SUB A - Page 3 of 3

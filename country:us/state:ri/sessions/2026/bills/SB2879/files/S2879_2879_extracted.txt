@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - 2879
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2879
+========
+LC004463
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- THE PRIMARY CARE
+PRESERVATION ACT
+Introduced By: Senators DiPalma, Murray, Ciccone, Valverde, and Urso
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 5 of the General Laws entitled "BUSINESSES AND PROFESSIONS"
+2 is hereby amended by adding thereto the following chapter:
+3 CHAPTER 37.9
+4 THE PRIMARY CARE PRESERVATION ACT
+5 5-37.9-1. Short title.
+6 This chapter shall be known and may be cited as "The Primary Care Preservation Act."
+7 5-37.9-2. Definitions.
+8 As used in this chapter, the following words and terms shall have the meanings ascribed to
+9 them below unless the context clearly indicates otherwise:
+10 (1) "Administrative or operational fee" means a reasonable charge assessed by a physician
+11 practice to patients for non-clinical services necessary to support operations including, but not
+12 limited to, reception, scheduling, care coordination, referral management, communication systems,
+13 record handling, and other administrative functions.
+14 (2) "Payor" means any insurer, health maintenance organization, or other entity responsible
+15 for payment of healthcare services under a health plan.
+16 (3) "Physician practice" means a medical practice owned or operated by one or more
+17 licensed physicians providing outpatient care in the State of Rhode Island.
+18
+
+1 5-37.9-3. Payor contract restrictions prohibited.
+2 (a) No payor shall include in any contract, agreement, or participation document with a
+3 physician practice any clause or provision that prohibits, restricts, penalizes, or interferes with the
+4 ability of the practice to charge, bill, or collect a reasonable administrative or operational fee
+5 directly from patients.
+6 (b) No payor shall impose conditions, penalties, or sanctions on a physician practice for
+7 assessing such fees, provided that the fees are disclosed to patients in advance and are not billed to
+8 the payor.
+9 (c) Nothing in this section shall be construed to require a payor to reimburse a physician
+10 practice or patient for such fees.
+11 5-37.9-4. Patient access and continuity of care.
+12 (a) Nothing in this chapter shall limit a physician practice’s obligation to provide
+13 emergency or urgent care regardless of payment of any administrative or operational fee.
+14 (b) Physician practices shall provide reasonable notice and access to patient medical
+15 records consistent with state and federal law.
+16 5-37.9-5. Enforcement.
+17 Any provision in a payor contract that violates this chapter shall be deemed null and void
+18 and unenforceable as a matter of public policy.
+19 5-37.9-6. Severability.
+20 If any clause, sentence, paragraph, section, or part of this chapter shall be adjudged by any
+21 court of competent jurisdiction to be invalid, that judgment shall not affect, impair, or invalidate
+22 the remainder of the chapter but shall be confined in its operation to the clause, sentence, paragraph,
+23 section, or part directly involved in the controversy in which that judgment shall have been
+24 rendered.
+25 SECTION 2. This act shall take effect upon passage.
+========
+LC004463
+========
+LC004463 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- THE PRIMARY CARE
+PRESERVATION ACT
+***
+1 This act would prohibit health insurance companies or other payors from including in their
+2 physician participation agreements any provisions that restrict or prevent a physician practice from
+3 charging patients reasonable administrative or operational fees to support practice overhead.
+4 This act would take effect upon passage.
+========
+LC004463
+========
+LC004463 - Page 3 of 3

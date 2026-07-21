@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - 8401
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8401
+========
+LC006268
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- UNAUTHORIZED INSURANCE BUSINESS -- MEDICAL
+MALPRACTICE INSURANCE
+Introduced By: Representatives Spears, Cotter, Boylan, Fogarty, Donovan, Speakman,
+McEntee, and Potter
+Date Introduced: April 03, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-16-2.6 of the General Laws in Chapter 27-16 entitled
+2 "Unauthorized Insurance Business" is hereby amended to read as follows:
+3 27-16-2.6. Hospitals affiliated with accredited medical schools — Indemnification of
+4 personnel Self-insurance for hospitals affiliated with accredited medical schools.
+5 Nothing in §§ 27-16-1.2 — 27-16-2.2 shall be construed to limit or prevent hospitals
+6 affiliated with an accredited medical school from agreeing to indemnify hospital employees, and
+7 physicians, including physicians’ incorporated or unincorporated practices and employees, and
+8 medical, nursing, or allied health students affiliated with the hospital, collectively “covered
+9 persons”, for the legal liability of those covered persons for loss, damage, or expense incident to
+10 claims of bodily injury or death arising out of medical malpractice or professional error or mistake,
+11 “malpractice coverage”, whether the hospital charges the covered persons for malpractice coverage
+12 or not. The hospitals making the agreements shall be required to establish and maintain a reserve
+13 fund with which the malpractice coverage will be provided, which may be either part of or separate
+14 from a self-insurance fund maintained by or on behalf of the hospital. Any self-insurance fund shall
+15 annually provide a certified financial statement with actuarial projections as to the soundness of its
+16 reserving to the director of the department of health and the director of the department of business
+17 regulation. The malpractice coverage provided by the agreements shall be in amounts that meet the
+18 minimum insurance coverage limits required by any regulation promulgated by the director of
+
+1 business regulation pursuant to § 42-14.1-2.
+2 (a) Notwithstanding any provision of law, rule or regulation to the contrary, any hospital
+3 affiliated with a Rhode Island accredited medical school may establish a self-insurance program
+4 for medical malpractice liability; provided, however, that such program shall be subject to the full
+5 regulatory authority, review, and approval of the department of business regulation.
+6 (b) No such self-insurance program shall be established, maintained, or operated without
+7 prior approval of the department of business regulation.
+8 (c) The department of business regulation shall require demonstration of:
+9 (1) Establishment of an entity, such as a captive insurance company, that is regulated as an
+10 insurance entity;
+11 (2) Actuarial soundness of the entity;
+12 (3) Adequate capitalization and reserves;
+13 (4) Claims-paying ability under reasonably foreseeable adverse conditions;
+14 (5) Ongoing financial reporting and independent audit; and
+15 (6) The hospital entity will establish to the satisfaction of the department of business
+16 regulation that the self-insurance entities existence and reserves will survive the bankruptcy,
+17 dissolution or reorganization of the hospital.
+18 (d)(1) The department shall have authority to examine, audit, and require corrective action,
+19 including suspension or revocation of approval in the same manner in which the department has
+20 authority over licensed insurers under title 27.
+21 (2) If the self-insured entity is domiciled outside of Rhode Island, the department of
+22 business regulation shall be given access to all records of the entity and of the foreign jurisdiction
+23 regarding the entity upon demand.
+24 (e) The hospital will be responsible for all costs incurred by the department of business
+25 regulation pursuant to § 27-13.1-7.
+26 (f) The provisions of § 27-13.1-5(f) shall apply to all information received or created by
+27 the department of business regulation in regulation of the self-insured entity.
+28 (g) Any exemption from traditional insurance requirements under this section shall not
+29 exempt such entities from solvency, reporting, or oversight requirements imposed by the
+30 department of business regulation.
+31 (h) No medical malpractice coverage provided under this section shall be recognized for
+32 purposes of licensure unless approved by the department of business regulation.
+33 (i) The department of business regulation may withdraw approval of the self-insurance
+34 entity if the department determines that the entity is in hazardous financial condition pursuant to
+LC006268 - Page 2 of 8
+
+1 chapter 14.2 of title 27 or is otherwise out of compliance with this statute.
+2 (j) The department of business regulation shall prescribe the manner of application for
+3 permissible self-insurance and shall require renewal of the permission to self-insure on an annual
+4 basis.
+5 (k) If a hospital that has been granted self-insured status, a general description of the self-
+6 insured entity, including all contact information, shall be public along with information pursuant to
+7 § 27-13.1-5(e). All other information provided to the department of business regulation shall be
+8 subject to § 27-13.1-5(f).
+9 SECTION 2. Chapter 27-16 of the General Laws entitled "Unauthorized Insurance
+10 Business" is hereby amended by adding thereto the following section:
+11 27-16-2.7. Comprehensive regulation of medical malpractice coverage.
+12 (a) All forms of medical malpractice coverage for Rhode Island licensed providers,
+13 including insurance policies, self-insurance programs, captive insurance arrangements, and risk-
+14 sharing pools, shall be subject to the exclusive regulatory authority of the department of business
+15 regulation.
+16 (b) No such coverage shall be valid for purposes of licensure unless approved by the
+17 department of business regulation.
+18 (c) The department shall establish standards for:
+19 (1) Financial solvency;
+20 (2) Reserve adequacy;
+21 (3) Claims-paying ability; and
+22 (4) Governance and risk management.
+23 (d) The department shall have authority to examine, audit, and enforce compliance for all
+24 entities providing such coverage.
+25 (e) No form of medical malpractice insurance shall satisfy the requirement of coverage in
+26 this statute unless it meets the limits and deductibles established by the department of business
+27 regulation by rule or regulation.
+28 (f) The identity of medical malpractice coverage, including the insurer or self-insured
+29 entity, policy limits and deductibles shall be provided to the public upon demand.
+30 SECTION 3. Section 42-14-2.1 of the General Laws in Chapter 42-14 entitled "Department
+31 of Business Regulation" is hereby amended to read as follows:
+32 42-14-2.1. Reporting by certain insurers — Settlements Reporting of claims and
+33 coverage.
+34 (a) Every insurer or entity exempt pursuant to § 27-16-2.6 or entity permissibly self-insured
+LC006268 - Page 3 of 8
+
+1 pursuant to § 42-14.1-2 providing professional liability insurance to licensed healthcare
+2 professionals or licensed healthcare facilities shall send a complete report to the board of medical
+3 licensure and discipline established pursuant to chapter 37 of title 5, or the board of examiners in
+4 dentistry established pursuant to chapter 31.1 of title 5 and the department of business regulation
+5 as to any claim, notice, settlement, judgment, or arbitration award of a claim or action for damages
+6 for death or personal injury caused by such person’s negligence, error, or omission in practice or
+7 the person’s rendering of unauthorized professional services. The report shall be sent within thirty
+8 (30) days after service of such arbitration award on the parties or notice of the claim, settlement,
+9 judgment, or arbitration award.
+10 (b) Notwithstanding any other provision of law, an insurer or entity exempt pursuant to §
+11 27-16-2.6 or entity permissibly self-insured pursuant to § 42-14.1-2 providing professional liability
+12 coverage to licensed healthcare professionals or licensed healthcare facilities shall have the
+13 contractual right to settle any claim up to the limits of the policy without the insured’s consent,
+14 unless the policy by its express terms prohibits the insurer from settling any claim without the
+15 consent of the insured.
+16 (c) All insurers doing business in the state of Rhode Island or entity exempt pursuant to §
+17 27-16-2.6 or entity permissibly self-insured pursuant to § 42-14.1-2 providing professional liability
+18 insurance for healthcare professionals or licensed healthcare facilities shall file an annual report
+19 with the commissioner of insurance. This report must be filed for each year by March 1 of the next
+20 year. The information required for each year shall include, for each rating class:
+21 (1) The number of insured;
+22 (2) The total premiums paid;
+23 (3) The total number of claims made, the years in which the incidents giving rise to the
+24 claims occurred, and the total number of those claims outstanding at the end of the year;
+25 (4) The total amount of claims paid, the years in which the incidents giving rise to the
+26 claims occurred, and the amount of the costs that can be identified with these claims for
+27 investigation, processing, and defense of these claims; and
+28 (5) The number of lawsuits filed.
+29 (a) All insurers, self-insurance programs, captive arrangements, risk retention groups, or
+30 any entity providing professional liability coverage to Rhode Island licensed providers shall
+31 provide all information requested by the department of business regulation regarding their financial
+32 status, claims and coverage.
+33 (b) The information shall include, but not be limited to:
+34 (1) Claims activity;
+LC006268 - Page 4 of 8
+
+1 (2) Coverage limits and structure;
+2 (3) Financial condition of the coverage provider; and
+3 (4) Actuarial reserve status for self-insured programs.
+4 (c) Reporting shall occur as directed by the department of business regulation.
+5 (d) The department of business regulation shall have the authority to require additional
+6 financial and actuarial reporting necessary to assess solvency.
+7 (e) The department of business regulation shall share data and coordinate enforcement
+8 actions with the department of health or with other jurisdictions in accordance with § 27-13.1-
+9 5(e)(2).
+10 (f) The provisions of § 27-13.1-5(f) shall apply to all information received or created by
+11 the department of business regulation in regulation of the self-insured entity.
+12 (g) Any material impairment, insolvency risk, or regulatory action identified by the
+13 department of business regulation shall be reported to the department of health and may trigger
+14 licensure review or action.
+15 (h) In addition to any action taken by the department of health, the department of business
+16 regulation may take action against the self-insurance entity pursuant to § 27-13.1-5(d) independent
+17 of any action taken by the department of health.
+18 (i) If the department of business regulation believes that the solvency of the self-insured
+19 entity is at risk, it may take action against the self-insured entity under the provisions of § 27-13.1-
+20 5(d).
+21 (j) The hospital will be responsible for all costs incurred by the department of business
+22 regulation pursuant to § 27-13.1-7.
+23 SECTION 4. Section 42-14.1-2 of the General Laws in Chapter 42-14.1 entitled
+24 "Department of Business Regulation — Medical Malpractice Insurance" is hereby amended to read
+25 as follows:
+26 42-14.1-2. Malpractice insurance Professional liability insurance required.
+27 (a) The director of business regulation shall promulgate rules and regulations requiring all
+28 licensed medical and dental professional and all licensed healthcare providers to be covered by
+29 professional liability insurance insuring the practitioner for claims of bodily injury or death arising
+30 out of malpractice, professional error, or mistake. The director of the department of business
+31 regulation is hereby authorized to promulgate regulations establishing the minimum insurance
+32 coverage limits that shall be required; provided, however, that such limits shall not be less than one
+33 hundred thousand dollars ($100,000) for claims arising out of the same professional service and
+34 three hundred thousand dollars ($300,000) in the aggregate. The director of the department of
+LC006268 - Page 5 of 8
+
+1 business regulation is further authorized to establish rules and regulations allowing persons or
+2 entities with sufficient financial resources to be self-insurers.
+3 (b) Every licensed healthcare provider in direct patient care within a licensed hospital shall
+4 obtain liability insurance in a minimum amount determined by the board of trustees of that hospital.
+5 (a) Every physician, hospital, and healthcare provider shall maintain professional liability
+6 coverage as a condition of licensure.
+7 (b) Such coverage shall be obtained from:
+8 (1) An insurer licensed or approved by the department of business regulation; or
+9 (2) A self-insurance entity expressly approved by the department of business regulation
+10 pursuant to the provisions of title 27.
+11 (c) The department of health shall not issue, renew, or maintain any license unless proof of
+12 such approved coverage is provided.
+13 (d) The department of health shall not recognize, approve, or accept any form of
+14 professional liability coverage that has not been reviewed and approved by the department of
+15 business regulation.
+16 (e) Any lapse, suspension, or revocation of such coverage shall constitute grounds for
+17 licensure action, including suspension or revocation by the department of health.
+18 SECTION 5. Section 23-17-6 of the General Laws in Chapter 23-17 entitled "Licensing of
+19 Healthcare Facilities" is hereby amended to read as follows:
+20 23-17-6. Issuance of license — Posting — Transfer — Conditions.
+21 (a) Upon receipt of an application for a license, the licensing agency shall issue a license if
+22 the applicant and healthcare facility meet the requirements established under this chapter and any
+23 rules and regulations that may be established in accordance with the requirements established under
+24 this chapter. A license issued under the provisions of this section shall be the property of the state
+25 and loaned to the licensee, and it shall be kept posted in a conspicuous place on the licensed
+26 premises. Each license shall be issued only for the premises and persons named in the application,
+27 and shall not be transferable or assignable except with the written approval of the licensing agency.
+28 Home nursing-care providers and home-care providers operating under a single license may
+29 establish branch offices under that same single license and that license shall be maintained and
+30 posted in the central office.
+31 (b) Any change in owner, operator, or lessee of a licensed healthcare facility, (except for
+32 single-practice physician ambulatory-surgery centers, multi-practice physician ambulatory-surgery
+33 centers, single-practice podiatry ambulatory-surgery centers and multi-practice podiatry
+34 ambulatory-surgery centers as defined in subsections (17) and (18) of chapter 17, section 2) which
+LC006268 - Page 6 of 8
+
+1 license shall be transferable or assignable by decision of the licensing agency as shall be provided
+2 by regulation, shall require prior review by the health services council and approval of the licensing
+3 agency as a condition precedent to the transfer, assignment, or issuance of a new license. Issuance
+4 of the license may be made subject to any condition; provided, that no condition may be made
+5 unless it directly relates to the statutory purpose expressed in § 23-17-3 or to the review criteria set
+6 forth in § 23-17-14.3. This shall not limit the authority of the licensing agency to require correction
+7 of conditions or defects which existed prior to the proposed change of owner, operator, or lessee
+8 and of which notice had been given to the healthcare facility by the licensing agency.
+9 (c) Issuance of the license shall be conditioned on obtaining and maintaining a medical
+10 malpractice policy in compliance with § 42-14.1-2 or otherwise being in compliance with § 27-16-
+11 2.6. If a healthcare facility license fails to maintain such coverage, its license may be denied,
+12 suspended or revoked pursuant to § 23-17-8.
+13 SECTION 6. This act shall take effect on January 1, 2027.
+========
+LC006268
+========
+LC006268 - Page 7 of 8
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- UNAUTHORIZED INSURANCE BUSINESS -- MEDICAL
+MALPRACTICE INSURANCE
+***
+1 This act would provide for greater oversight and regulation by the department of business
+2 regulation on medical-malpractice insurance among self-insured entities.
+3 This act would take effect on January 1, 2027.
+========
+LC006268
+========
+LC006268 - Page 8 of 8

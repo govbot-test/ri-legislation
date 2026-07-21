@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - 2997
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2997
+========
+LC005518
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- VETERANS IDENTIFICATION IN THE
+CRIMINAL JUSTICE SYSTEM
+Introduced By: Senators E Morgan, Raptakis, Rogers, Patalano, Dimitri, Felag, Urso,
+Thompson, Paolino, and Ciccone
+Date Introduced: March 04, 2026
+Referred To: Senate Special Legislation and Veterans Affairs
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 12 of the General Laws entitled "CRIMINAL PROCEDURE" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 34
+4 VETERANS IDENTIFICATION IN THE CRIMINAL JUSTICE SYSTEM
+5 12-34-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Veterans Identification
+7 in the Criminal Justice System Act."
+8 12-34-2. Definitions.
+9 As used in this chapter:
+10 (1) "Accountability courts" means the veterans treatment courts and other specialty courts
+11 (drug, mental health, or family courts).
+12 (2) "Community supervision" means probation or parole under Title 13.
+13 (3) "Diversion programs" means any mechanism applied after charges are filed, including
+14 accountability courts and prosecutor programs.
+15 (4) "Identity attributes for individuals" means and includes name, date of birth, Social
+16 Security Number, and gender.
+17 (5) "Law enforcement partners" means and includes police departments, sheriff
+18 departments, courts, jails, and deflection initiatives collaborating with law enforcement.
+
+1 (6) "Local deflection initiative" means a community-based coalition assisting individuals
+2 with substance use disorder, mental health disorder, or co-occurring disorders via connection with
+3 local behavioral health systems following contact with law enforcement.
+4 (7) "Status query and response exchange system" or "SQUARES" means a web application
+5 of the VA providing verified information about veteran status, eligibility for healthcare, and VA
+6 programs.
+7 (8) "Veterans justice outreach program" means the VA office charged with early
+8 identification of justice-involved veterans and facilitating access to services.
+9 (9) "Veterans justice outreach specialists" means VA representatives tasked with
+10 identifying justice-involved veterans, conducting outreach, facilitating access to VA and other
+11 services, and providing case management.
+12 (10) "Veterans reentry search service" or "VRSS" means the secure database maintained
+13 by the United States Department of Veterans Affairs enabling correctional and criminal justice
+14 entities to identify veterans.
+15 (11) "Veteran sentencing option" means a statutory provision where disposition is
+16 postponed pending completion of a therapeutic case plan administered by a judge and community
+17 supervision.
+18 12-34-3. Definition of "veteran" for criminal justice system.
+19 (1) For purposes of identification in the Rhode Island criminal justice system, a "veteran"
+20 is a person who:
+21 (i) Swore an oath and entered any branch of the Armed Forces, including the National
+22 Guard or Reserves, and is:
+23 (ii) Currently serving; or
+24 (iii) Was discharged, that was not a dishonorable discharge, unless the individual with a
+25 dishonorable discharge has been diagnosed with substance use disorder, military sexual trauma,
+26 traumatic brain injury, post-traumatic stress disorder, or another mental health condition.
+27 (2) This definition does not affect veteran status for any other purpose and does not create
+28 additional rights or benefits.
+29 12-34-4. Law enforcement applicability.
+30 (a) Within twenty-four (24) hours of any law enforcement contact, with or without an
+31 arrest, the administrator of the local law enforcement department shall:
+32 (1) Provide necessary information for verification through SQUARES to the Rhode Island
+33 department of veterans services (RIVETS), if applicable, to verify the veteran status of all
+34 individuals who have made contact with law enforcement.
+LC005518 - Page 2 of 5
+
+1 (i) The administrator may coordinate with the RIVETS to ensure verification.
+2 (ii) In the absence of the administrator shall request the veterans justice outreach specialist
+3 to conduct verification of veteran status.
+4 (2) In the absence of a designated partner as in subsection (a)(1) of this section, the local
+5 law enforcement department shall conduct verification using VRSS or similar federal service, or
+6 request verification from a veterans justice outreach specialist.
+7 (b) Each week, RIVETS shall submit a report identifying each individual whose veteran
+8 status was verified during the previous week to:
+9 (1) The Rhode Island department of veterans services under title 42;
+10 (2) The nearest veterans justice outreach specialist;
+11 (3) The court where charges are pending;
+12 (4) Judge, prosecuting attorney, managing public defender, and the veteran-client's
+13 attorney of record; and
+14 (5) Coordinator of any specialty court program authorized by the Rhode Island supreme
+15 court.
+16 (c) The administrator shall provide veteran arrestees or inmates reasonable access to:
+17 (1) Deflection initiative personnel;
+18 (2) Rhode Island department of veterans services;
+19 (3) VA representatives to facilitate applications for:
+20 (i) Identification and referral to community resources;
+21 (ii) Federal or state benefits or compensation;
+22 (iii) Treatment through veterans treatment specialty courts or other accountability courts;
+23 (iv) Diversion programs other than accountability courts;
+24 (v) Veteran sentencing option; and
+25 (vi) Sentencing mitigation.
+26 (d) Notify veteran arrestees and inmates about assigned veterans justice outreach
+27 specialists.
+28 (e) Verified veteran status shall be shared with the judge, prosecutor, managing public
+29 defender, veteran’s attorney, and specialty court coordinator.
+30 SECTION 2. Chapter 13-8 of the General Laws entitled "Parole" is hereby amended by
+31 adding thereto the following section:
+32 13-8-32.1. Community supervision applicability -- Veterans.
+33 (a) Within twenty-one (21) days of community supervision sentence or start date, the
+34 administrator or designee, of Rhode Island probation or parole, or the RIVETS shall:
+LC005518 - Page 3 of 5
+
+1 (1) Verify veteran status using VRSS or a similar service;
+2 (2) Notify verified veterans of assigned veterans justice outreach specialists;
+3 (3) Allow verified veterans in-person or video access to VA or county veterans service
+4 coordinators;
+5 (4) Assist verified veterans in applying for federal benefits, including mailing applications
+6 on behalf of the supervisee;
+7 (5) Submit weekly reports of verified supervisees to Rhode Island department of veterans
+8 services.
+9 SECTION 3. Chapter 42-56 of the General Laws entitled "Corrections Department" is
+10 hereby amended by adding thereto the following section:
+11 42-56-43. Administration of veteran status.
+12 (a) Within seven (7) days of intake, the director of the correctional facility, designee, or
+13 RIVETS shall:
+14 (1) Verify veteran status using VRSS or similar service;
+15 (2) Assist verified veteran inmates with federal benefits and applications;
+16 (3) Submit weekly reports of newly verified veteran inmates to the Rhode Island
+17 department of veterans services, and relevant courts;
+18 (4) Allow in-person or video visitation with VA or veteran coordinators at no cost.
+19 (b) Administrators shall notify the VA in writing by mail, email, or fax between sixty-one
+20 (61) and ninety (90) days of initial incarceration for felony veterans still in custody.
+21 (c) Administrators shall notify the VA within seven (7) days of release from custody for
+22 inmates incarcerated more than sixty (60) days.
+23 (d) Verified veteran status shall be shared with the judge, prosecutor, managing public
+24 defender, veteran’s attorney, and specialty court coordinator.
+25 SECTION 4. This act shall take effect upon passage.
+========
+LC005518
+========
+LC005518 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- VETERANS IDENTIFICATION IN THE
+CRIMINAL JUSTICE SYSTEM
+***
+1 This act would provide services for veterans in the criminal justice system ensuring
+2 disclosure and connections with federal and state resources.
+3 This act would take effect upon passage.
+========
+LC005518
+========
+LC005518 - Page 5 of 5

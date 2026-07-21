@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - 7557
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7557
+========
+LC004651
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY --THE RHODE ISLAND FIREARM INDUSTRY
+ACCOUNTABILITY ACT OF 2026
+Introduced By: Representatives Donovan, Boylan, Speakman, Carson, Tanzi, Potter,
+Fogarty, Ajello, McGaw, and Casimiro
+Date Introduced: February 06, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 106
+4 THE RHODE ISLAND FIREARM INDUSTRY ACCOUNTABILITY ACT OF 2026
+5 23-106-1. Definitions.
+6 As used in this chapter:
+7 (1) “Firearm accessory” means an attachment or device designed or adapted to be inserted
+8 into, affixed onto, or used in conjunction with a firearm that is designed, intended, or functions to
+9 alter or enhance the firing capabilities of a firearm, the lethality of the firearm, or a shooter's ability
+10 to hold and use a firearm.
+11 (2) "Firearm industry member" means a person, firm, corporation, company, partnership,
+12 society, joint stock company, trade association, or any other entity or association engaged in the
+13 manufacture, distribution, importation, marketing, wholesale or retail sale of firearm industry
+14 products.
+15 (3) "Firearm industry product" means any of the following which are or were:
+16 (i) Sold, made or distributed in this state;
+17 (ii) Intended to be sold or distributed in this state; or
+18 (iii) Possessed in this state, and it was reasonably foreseeable that such product would be
+
+1 possessed in this state:
+2 (A) Ammunition, as defined in § 11-47-64;
+3 (B) A detachable magazine, as defined in § 11-47.2-1;
+4 (C) A firearm, as defined in § 11-47-2;
+5 (D) A firearm component;
+6 (E) A firearm accessory;
+7 (F) A bump-fire device, binary trigger, trigger crank, as those terms are defined in § 11-
+8 47-2; or
+9 (G) Any other device that when attached to a semi-automatic weapon allows full-automatic
+10 fire including, but not limited to, those devices prohibited pursuant to § 11-47-8.
+11 (4) "Firearm trafficker" means an individual who engages in, conspires to engage in, or
+12 attempts to engage in conduct that constitutes trafficking in firearms as described in 18 USC § 933.
+13 (5) "Reasonable controls" means procedures, acts and practices that are designed,
+14 implemented and enforced to do all of the following:
+15 (i) Prevent the sale or distribution of a firearm industry product to a straw purchaser, a
+16 firearm trafficker, a person prohibited from possessing a firearm under state or federal law, or a
+17 person about whom there is reasonable cause to believe such person is at substantial risk of using
+18 a firearm industry product to harm themself or another or of possessing or using a firearm industry
+19 product unlawfully;
+20 (ii) Ensure that a firearm industry member complies with the provisions of: §§ 11-47-35,
+21 11-47-35.2, 11-47-37, 11-47-38, 11-47-39, 11-47-48.1, and 11-47-64;
+22 (iii) Prevent the sale or distribution of a firearm industry product designed, sold, advertised,
+23 marketed or promoted in a manner that foreseeably promotes conversion of a legal firearm industry
+24 product into an illegal firearm industry product; and
+25 (iv) Ensures that the firearm industry member complies with the provisions of § 23-106-2
+26 and all other applicable provisions of state and federal law, and does not otherwise advertise, market
+27 or promote the unlawful manufacture, sale, possession, marketing or use of a firearm industry
+28 product.
+29 (6) "Straw purchaser" means an individual who engages in or attempts to engage in conduct
+30 that violates the provisions of § 11-47-23 or 18 USC § 932.
+31 23-106-2. Controls, possession, and advertisements of firearm industry products.
+32 (a) A firearm industry member shall establish, implement and enforce reasonable controls
+33 to ensure compliance with the provisions of this chapter.
+34 (b) No firearm industry member shall provide a firearm industry product to another firearm
+LC004651 - Page 2 of 5
+
+1 industry member when there is reasonable cause to believe that such other firearm industry member
+2 is engaged in conduct that is in violation of this chapter.
+3 (c) No firearm industry member shall advertise, market or promote firearm industry
+4 products in this state in a manner that promotes unlawful sales, unlawful use or use that promotes
+5 risk to public safety.
+6 23-106-3. Penalties and violations.
+7 (a) An act or omission by a firearm industry member that fails to comply with any provision
+8 of § 23-106-2 constitutes a violation of said section and shall be actionable under this section.
+9 (b) A civil action in a court of competent jurisdiction to enforce this section or remedy
+10 harm caused by a violation of § 23-106-2 may be brought by:
+11 (1) A person who has suffered harm in this state because of a firearm industry member's
+12 violation of § 23-106-2;
+13 (2) The corporation counsel or other chief legal officer of a municipality in the name of the
+14 municipality; or
+15 (3) The attorney general, in the name and on behalf of the state.
+16 (c) Any person bringing an action pursuant to this chapter shall provide notice of such
+17 action to the attorney general not later than thirty (30) days after the date of filing such action.
+18 (d) In an action alleging that a firearm industry member failed to establish, implement and
+19 enforce reasonable controls in violation of the provisions of § 23-106-2, there shall be a rebuttable
+20 presumption that the firearm industry member failed to implement reasonable controls if:
+21 (1) The firearm industry member's act or omission created or increased a reasonably
+22 foreseeable risk of the harm alleged occurring; and
+23 (2) The firearm industry member could have established, implemented and enforced
+24 reasonable controls to prevent or lower the risk of the harm that allegedly occurred, but failed to
+25 do so.
+26 (e) If a court determines that a firearm industry member has violated any provision of § 23-
+27 106-2, the firearm industry member shall forfeit and pay to the state a civil penalty of not more
+28 than ten thousand dollars ($10,000) per violation.
+29 (f) If a court determines that a firearm industry member has violated any provision of § 23-
+30 106-2, the court may award any or all of the following:
+31 (1) Injunctive relief sufficient to prevent the firearm industry member and any other
+32 defendant from further violating the law;
+33 (2) Compensatory damages;
+34 (3) Punitive damages;
+LC004651 - Page 3 of 5
+
+1 (4) Restitution; and
+2 (5) Any other appropriate relief necessary to enforce the provisions referenced in this
+3 chapter to remedy the harm caused by the conduct.
+4 (g) In addition to the relief permitted under subsection (f) of this section, if a court
+5 determines that a firearm industry member has violated any provision of § 23-106-2:
+6 (1) The court shall award costs and attorneys’ fees to a prevailing plaintiff; and
+7 (2) The court may suspend or revoke any permits issued to the firearm industry member
+8 under § 11-47-39.
+9 SECTION 2. This act shall take effect on October 1, 2026, and shall be applicable to any
+10 civil action filed on or after October 1, 2026.
+========
+LC004651
+========
+LC004651 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY --THE RHODE ISLAND FIREARM INDUSTRY
+ACCOUNTABILITY ACT OF 2026
+***
+1 This act would establish the Rhode Island firearm industry accountability act of 2026. The
+2 act imposes certain requirements on a firearms industry member pertaining to controls, possession,
+3 and advertisements of firearm industry products.
+4 This act would take effect on October 1, 2026, and would be applicable to any civil action
+5 filed on or after October 1, 2026.
+========
+LC004651
+========
+LC004651 - Page 5 of 5

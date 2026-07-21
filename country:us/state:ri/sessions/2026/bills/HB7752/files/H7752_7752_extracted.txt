@@ -1,0 +1,197 @@
+Title: 
+Official Title: 
+Source: versions - 7752
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7752
+========
+LC004360
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE--PROCEDURE IN PARTICULAR
+ACTIONS -- CLIMATE DISASTER ACTIONS
+Introduced By: Representatives Cortvriend, Boylan, Speakman, Handy, Carson, McGaw,
+and Kazarian
+Date Introduced: February 12, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings and purpose.
+2 The general assembly finds and declares that:
+3 (a)(1) Rhode Island is experiencing increasing harm from climate driven extreme weather
+4 events, including coastal flooding, storm surge, sea level rise, extreme precipitation, wind damage,
+5 heat, and related secondary impacts that threaten public health, safety, infrastructure, housing, and
+6 economic stability.
+7 (2) These climate impacts have contributed to rising property and casualty insurance losses,
+8 increased premiums, policy non-renewals, market contraction, and growing pressure on residual
+9 and reinsurance mechanisms, placing undue financial strain on Rhode Island residents, businesses,
+10 municipalities, and taxpayers.
+11 (3) For decades, certain fossil fuel companies possessed knowledge of the climate impacts
+12 associated with the extraction, marketing, and combustion of their products, yet engaged in
+13 misleading, deceptive, or false representations that obscured those risks, delayed public
+14 understanding, and impeded timely action.
+15 (4) Rhode Island has a compelling interest in stabilizing its insurance markets, protecting
+16 ratepayers, preserving access to coverage, and ensuring that entities whose deceptive conduct
+17 substantially contributed to climate related harms bear an equitable share of resulting costs.
+18 (5) Providing clear causes of action for injured persons and insurers, including subrogation
+
+1 rights, will promote accountability, reduce pressure for rate increases and public subsidies, and
+2 support long term insurance affordability.
+3 (b) The purpose of this act is to:
+4 (1) Create private rights of action for climate-related harms;
+5 (2) Authorize insurer recovery and subrogation;
+6 (3) Ensure recoveries benefit policyholders; and
+7 (4) Strengthen the stability of Rhode Island’s insurance markets.
+8 SECTION 2. Title 10 of the General Laws entitled "COURTS AND CIVIL PROCEDURE
+9 — PROCEDURE IN PARTICULAR ACTIONS" is hereby amended by adding thereto the
+10 following chapter:
+11 CHAPTER 22
+12 CLIMATE DISASTER ACTIONS
+13 10-22-1. Definitions.
+14 For purposes of this chapter:
+15 (1) “Climate disaster” means an event that meets any of the following threshold
+16 qualifications and is determined by impact attribution science or extreme event attribution science
+17 to be substantially worsened or caused by climate change from responsible parties’ fossil fuel
+18 products, or extreme weather or other events attributable to climate change from responsible
+19 parties’ fossil fuel products:
+20 (i) A natural catastrophe, including a hurricane, tornado, storm, high water, wind-driven
+21 water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or
+22 drought, or, regardless of cause, a fire, flood, or explosion, that, in the determination of the
+23 President of the United States causes damage of sufficient severity and magnitude to warrant major
+24 disaster assistance under the federal Robert T. Stafford Disaster Relief and Emergency Assistance
+25 Act, as amended (Pub. L. 93-288) to supplement the efforts and available resources of states, local
+26 governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering
+27 caused by the catastrophe.
+28 (ii) A catastrophic incident that is a natural or manmade incident that results in
+29 extraordinary levels of mass casualties, damage, or disruption severely affecting the population,
+30 infrastructure, environment, economy, national morale, or government functions. A catastrophic
+31 incident could result in sustained national impacts over a prolonged period, almost immediately
+32 exceeds resources normally available to local, state, tribal, and private sector authorities in the
+33 impacted area, and significantly interrupts governmental operations and emergency services to such
+34 an extent that national security could be threatened. A catastrophic incident does not include an
+LC004360 - Page 2 of 6
+
+1 event linked to terrorism.
+2 (iii) An event that qualifies, or would have qualified, for inclusion on the federal National
+3 Centers for Environmental Information’s “Billion-Dollar Weather and Climate Disasters” program
+4 and data list as it existed in December 2024.
+5 (iv) A state of emergency or local emergency as defined in chapter 15 of title 30.
+6 (v) An event or occurrence linked to extreme weather or other events attributable to climate
+7 change for which insurance claims in the aggregate across carriers in this state exceed one hundred
+8 million dollars ($100,000,000).
+9 (2) “Climate-attributable harm” means physical damage, economic loss, business
+10 interruption, insurance losses, or other measurable injury resulting from a climate disaster.
+11 (3) “Fossil fuel product” includes crude petroleum oil and all other hydrocarbons,
+12 regardless of gravity, that are produced at the wellhead in liquid form by ordinary production
+13 methods, natural, manufactured, mixed, and byproduct hydrocarbon gas, refined crude oil, crude
+14 tops, topped crude, processed crude, processed crude petroleum, residue from crude petroleum,
+15 cracking stock, uncracked fuel oil, fuel oil, treated crude oil, residuum, gas oil, casinghead gasoline,
+16 natural-gas gasoline, kerosene, benzine, wash oil, waste oil, blended gasoline, lubricating oil, and
+17 blends or mixtures of oil with one or more liquid products or byproducts derived from oil or gas.
+18 (4)(i) “Responsible party” means any corporation, company, partnership, association, or
+19 other entity that:
+20 (A) Extracted, produced, refined, marketed, or sold fossil fuel products; and
+21 (B) Engaged in misleading, deceptive, or false statements or omissions regarding the
+22 climate impacts of those products; and
+23 (C) Whose conduct is shown to have substantially contributed to climate-attributable harm
+24 in Rhode Island.
+25 (ii) “Responsible party” does not include the federal government, tribal governments, the
+26 state, a political subdivision of the federal, tribal, or state government, or an employee of the
+27 federal, tribal, or state government on the basis of acts or omissions in the course of official duties.
+28 (5) “Insurer” includes any admitted property or casualty insurer authorized to do business
+29 in Rhode Island, the Rhode Island joint reinsurance association, and any successor or residual
+30 market entity.
+31 10-22-2. Private right of action for climate attributable harm.
+32 (a) Any individual, business, nonprofit organization, municipality, or other political
+33 subdivision that suffers climate-attributable harm in Rhode Island may bring a civil action against
+34 one or more responsible parties.
+LC004360 - Page 3 of 6
+
+1 (b) Standard of liability. A responsible party shall be strictly liable for climate-attributable
+2 harm where the plaintiff establishes that the responsible party engaged in misleading or deceptive
+3 conduct regarding climate impacts and that such conduct was a substantial contributing factor to
+4 the harm.
+5 (c) Damages. Recoverable damages shall include, but are not limited to:
+6 (1) Property damage and loss of use;
+7 (2) Economic loss and business interruption;
+8 (3) Costs of repair, remediation, adaptation, or relocation;
+9 (4) Reasonable attorneys’ fees and costs; and
+10 (5) Punitive damages where authorized by law.
+11 (d) Statute of limitations. An action shall be commenced within three (3) years after the
+12 plaintiff knew or reasonably should have known of the climate attributable harm.
+13 (e) Defenses. No claim shall be barred by the doctrine of assumption of the risk or by
+14 contractual choice of law provisions where the defendant’s misleading or deceptive conduct is
+15 established.
+16 10-22-3. Direct cause of action for insurers.
+17 (a) An insurer that has paid claims or incurred increased costs because of climate-
+18 attributable harm in Rhode Island may bring a direct civil action against one or more responsible
+19 parties to recover:
+20 (1) Paid claims;
+21 (2) Increased reinsurance or capital costs; and
+22 (3) Costs associated with market destabilization, including non-renewals and residual
+23 market exposure.
+24 (b) Liability under this section shall be strict, subject to the same standards set forth in §
+25 10-22-2.
+26 (c) Recoveries under this section shall be used to support insurer solvency and market
+27 stability and shall be reflected pursuant to § 10-22-5.
+28 10-22-4. Subrogation and independent assessment.
+29 (a) Insurers, including the Rhode Island joint reinsurance association, shall retain and are
+30 expressly authorized to exercise subrogation rights against responsible parties for climate-
+31 attributable harms.
+32 (b) Prior to initiating large-scale subrogation litigation, the insurance commissioner shall
+33 obtain or conduct an independent actuarial and legal assessment evaluating whether the expected
+34 benefits of such action outweigh the anticipated costs and risks.
+LC004360 - Page 4 of 6
+
+1 (c) Where the assessment determines that subrogation is likely to produce net benefits for
+2 policyholders and market stability, the commissioner may require or authorize the exercise of
+3 subrogation rights.
+4 10-22-5. Ratepayer protection and rate regulation.
+5 (a) Any recovery obtained by an insurer pursuant to this chapter, whether through
+6 judgment, settlement, or subrogation, shall be considered in property and casualty rate filings and
+7 used to offset losses or reduce future rate increases.
+8 (b) The director of the department of business regulation shall adopt rules and regulations
+9 to ensure that recoveries are equitably credited to policyholders and do not result in duplicative or
+10 excessive rates.
+11 10-22-6. Relationship with other laws.
+12 Nothing in this chapter shall be construed to preempt or limit:
+13 (1) Enforcement actions by the attorney general;
+14 (2) Claims brought under consumer protection, environmental, or common law; or
+15 (3) The authority of the insurance commissioner under existing law.
+16 10-22-7. Severability.
+17 If any provision of this chapter, or the application of a provision to any person or
+18 circumstances shall be held invalid, the remainder of the chapter, and the application of the
+19 provision to persons or circumstances other than those as to which it is held invalid, shall not be
+20 affected by that invalidity.
+21 SECTION 3. This act shall take effect upon passage.
+========
+LC004360
+========
+LC004360 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COURTS AND CIVIL PROCEDURE--PROCEDURE IN PARTICULAR
+ACTIONS -- CLIMATE DISASTER ACTIONS
+***
+1 This act would create a legal cause of action for climate attributable harm during climate
+2 disasters caused by responsible parties. “Responsible party” means any corporation, company,
+3 partnership, association, or other entity that extracted, produced, refined, marketed, or sold fossil
+4 fuel products and engaged in misleading, deceptive, or false statements or omissions regarding the
+5 climate impacts of those products. The act would impose strict liability on a responsible party
+6 whose conduct substantially contributed to climate-attributable harm. The act also would provide
+7 a cause of action for insurers to recover losses sustained resulting from the climate disaster caused
+8 by a responsible party.
+9 This act would take effect upon passage.
+========
+LC004360
+========
+LC004360 - Page 6 of 6

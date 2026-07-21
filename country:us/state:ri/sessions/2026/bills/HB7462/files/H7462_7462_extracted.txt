@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - 7462
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7462
+========
+LC004488
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HUMAN SERVICES -- CHILD CARE ASSISTANCE PROGRAM
+COPAYMENTS
+Introduced By: Representatives Diaz, Kazarian, Shallcross Smith, Donovan, Cruz,
+Giraldo, Slater, Tanzi, and Casimiro
+Date Introduced: January 30, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings of fact.
+2 The general assembly hereby finds as follows:
+3 (1) Access to affordable, high-quality child care is essential to the economic stability of
+4 Rhode Island’s working families and the health and development of young children.
+5 (2) The federal Child Care and Development Block Grant Act (“CCDBG”) requires states
+6 to establish sliding fee scales for family copayments that account for family income and size and
+7 that ensure copayments are affordable and not a barrier to accessing care.
+8 (3) Federal regulations finalized in 2024 prohibit family copayments in excess of seven
+9 percent (7%) of family income and encourage states to eliminate or significantly reduce
+10 copayments for families with low incomes, particularly those under one hundred fifty percent
+11 (150%) of the federal poverty level.
+12 (4) Rhode Island law currently requires a sliding fee scale for child care assistance and,
+13 pursuant to the Child Care and Development Fund (CCDF) final rule, caps family copayments are
+14 capped at seven percent (7%) of family income.
+15 (5) Data from December 2024 demonstrate that a majority of families receiving assistance
+16 under the Child Care Assistance Program are not charged a copayment, and that modest statutory
+17 changes could further reduce financial barriers while maintaining program sustainability.
+18 (6) It is therefore the intent of the General Assembly to codify an affordable sliding fee
+
+1 scale in statute, expand eligibility for zero copayments, and reduce copayment amounts for working
+2 families, consistent with federal law and best practices.
+3 SECTION 2. Title 40 of the General Laws entitled "HUMAN SERVICES" is hereby
+4 amended by adding thereto the following chapter:
+5 CHAPTER 6.7
+6 CHILD CARE ASSISTANCE PROGRAM COPAYMENTS
+7 40-6.7-1. Child care assistance program -- Family copayments.
+8 (a) The department of human services ("DHS"), as the lead agency for the child care
+9 assistance program ("CCAP"), shall establish and administer family copayments pursuant to a
+10 sliding fee scale set forth in this section.
+11 (b) Family copayments under the CCAP shall:
+12 (1) Be based on family income and family size;
+13 (2) Not be based on the cost of care or the amount of subsidy payment;
+14 (3) Be affordable and not constitute a barrier to participation; and
+15 (4) Not exceed seven percent (7%) of a family's annual income, regardless of the number
+16 of children in care.
+17 (c) Except as otherwise provided in subsection (d) of this section, family copayments shall
+18 be assessed according to the following sliding fee scale, expressed as a percentage of annual family
+19 income:
+20 Table 1: Child Care Assistance Program Family Copayment Schedule
+21 Income Level as % of Copayment as %
+22 Federal Poverty Level (“FPL”) of Family Income
+23 At or below 125% FPL 0%
+24 Above 125% FPL and at or below 150% FPL 2%
+25 Above 150% FPL and at or below 200% FPL 4%
+26 Above 200% FPL and at or below 300% FPL 6%
+27 (d) DHS may waive family copayments, in whole or in part, for families who meet one or
+28 more of the following criteria, consistent with federal law and regulations:
+29 (1) Families with children in foster care or kinship care, or otherwise receiving or in need
+30 of protective services;
+31 (2) Families experiencing homelessness;
+32 (3) Families with children who have a disability, as defined by federal regulation;
+33 (4) Families enrolled in Head Start or Early Head Start programs; or
+34 (5) Any other category authorized under federal Child Care and Development Fund rules.
+LC004488 - Page 2 of 4
+
+1 (e) DHS is authorized to establish by regulation additional categories of copayments for
+2 families with incomes above three hundred percent (300%) of the federal poverty level; provided
+3 that, no copayment exceeds the cap set forth in subsection (b)(4) of this section.
+4 (f) DHS shall periodically review the sliding fee scale to ensure compliance with federal
+5 requirements and the affordability of child care for Rhode Island families, and shall report any
+6 recommended statutory changes to the general assembly.
+7 40-6.7-2. Severability.
+8 If any provision of this chapter or its application is held invalid, such invalidity shall not
+9 affect the other provisions or applications of the chapter which can be given effect without the
+10 invalid provision or application.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC004488
+========
+LC004488 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HUMAN SERVICES -- CHILD CARE ASSISTANCE PROGRAM
+COPAYMENTS
+***
+1 This act would codify child care copayments in law, expand zero copays to families under
+2 125% FPL, lower costs for working families, and cap most copayments at 6% while preserving a
+3 7% statutory maximum.
+4 This act would take effect upon passage.
+========
+LC004488
+========
+LC004488 - Page 4 of 4

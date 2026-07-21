@@ -1,0 +1,634 @@
+Title: 
+Official Title: 
+Source: versions - 8414
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8414
+========
+LC006281
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO AGRICULTURE AND FORESTRY -- HEMP GROWTH ACT -- RHODE
+ISLAND HEMP THC BEVERAGE ACT
+Introduced By: Representative Patricia A. Serpa
+Date Introduced: April 08, 2026
+Referred To: House Corporations
+(by request)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 2-26-4 of the General Laws in Chapter 2-26 entitled "Hemp Growth
+2 Act" is hereby amended to read as follows:
+3 2-26-4. Hemp an agricultural product.
+4 Hemp is an agricultural product that may be grown as a crop, produced, possessed,
+5 distributed, sold at retail, and commercially traded pursuant to the provisions of this chapter. Hemp
+6 is subject to primary regulation by the commission department of business regulation (DBR);
+7 provided, however, that the manufacture, distribution, sale, and service of THC-infused beverages
+8 shall be governed by chapter 28.13 of title 21. The division may assist the commission DBR in the
+9 regulation of hemp growth and production.
+10 SECTION 2. Section 21-28.11-6 of the General Laws in Chapter 21-28.11 entitled "The
+11 Rhode Island Cannabis Act" is hereby amended to read as follows:
+12 21-28.11-6. Cannabis advisory board.
+13 (a) There is hereby established a cannabis advisory board, which is directed to work in
+14 collaboration with the commission and the administrator of the cannabis office to advise and issue
+15 recommendations on the use, commerce, regulation and effects of adult-use and medical cannabis
+16 within the state. The advisory board shall additionally provide recommendations to the commission
+17 regarding the administration and distribution of the social equity assistance fund established
+18 pursuant to § 21-28.11-31.
+
+1 (b) Membership. The cannabis advisory board shall consist of twenty (20) members, of
+2 whom eleven (11) shall be voting members, and eight (8) nine (9) shall be non-voting members.
+3 (1) The board shall consist of the following non-voting members: the secretary of
+4 commerce or designee, the director of the department of labor and training or designee, the director
+5 of the department of health or designee, the commissioner of education or designee, the
+6 superintendent of public safety or designee, the director of the department of business regulation
+7 or designee, the secretary of the Executive Office of Health and Human Services (EOHHS) or
+8 designee, and a representative from the University of Rhode Island College of Pharmacy selected
+9 by the commission.
+10 (2) The board shall consist of the following voting members: a social equity officer, who
+11 shall be appointed by the governor and serve as chair of the advisory board; two (2) additional
+12 members to be appointed by the governor, one of whom shall represent the cannabis laboratory
+13 testing industry, and one of whom shall be appointed in accordance with subsection (e) of this
+14 section who has demonstrated experience in the manufacture, distribution, or retail sale of THC-
+15 infused beverages; four (4) members to be appointed by the speaker of the house, one of whom
+16 shall represent the cannabis cultivation industry, and three (3) of whom to be appointed in
+17 accordance with subsection (e) of this section; and four (4) members to be appointed by the
+18 president of the senate, one of whom shall represent the cannabis retail industry, and three (3) of
+19 whom to be appointed in accordance with subsection (e) of this section.
+20 (c) Term of voting members. The voting members shall be appointed to serve three (3)
+21 year terms or until a successor is appointed. In the event of vacancy, the vacancy shall be filled in
+22 the manner of the original appointment for the remainder of the term.
+23 (d) Compensation. The appointed members and representatives shall receive no
+24 compensation for their services.
+25 (e) Representation. The members of the advisory board appointed by the governor, the
+26 speaker of the house and the president of the senate pursuant to the provisions of the chapter shall
+27 to the extent possible be individuals with expertise in the following areas: public and behavioral
+28 health, substance use disorder treatment, effective rehabilitative treatment for adults and juveniles,
+29 homelessness and housing, economic development, criminal justice, law enforcement and drug
+30 policy. Further, the advisory board shall include representation from communities most impacted
+31 by cannabis prohibition, such as individuals with prior drug convictions, the formerly incarcerated,
+32 and representatives of organizations servicing communities impacted by past federal and state drug
+33 policies.
+34 (f) Quorum. To take action at a meeting, a majority of voting members of the board must
+LC006281 - Page 2 of 18
+
+1 be present and voting to constitute a quorum.
+2 (g) Role and responsibilities. The advisory board shall:
+3 (1) Consider all matters submitted to the board by the cannabis control commission;
+4 (2) Advise and make recommendations to the commission on the preparation and
+5 promulgation of guidelines, rules and regulations and any changes to guidelines, rules and
+6 regulations that the advisory board deems fundamental or necessary for the commission’s review
+7 and consideration;
+8 (3) Provide analysis and recommendations to the commission relating to the administration
+9 and distribution of the social equity assistance fund established pursuant to § 21-28.11-31;
+10 (4) Conduct all meetings in compliance with chapter 46 of title 42 (the “open meetings
+11 act”); and
+12 (5) Report the findings, analysis, recommendations and conclusions adopted and approved
+13 by the board to the commission within thirty (30) days of adoption and approval.
+14 (h) Subcommittees. The chair may appoint subcommittees in order to develop and report
+15 recommendations and to expedite the work of the board; provided, however, that the chair shall
+16 appoint:
+17 (1) A subcommittee on public health to develop recommendations on: products, labeling,
+18 marketing, advertising, related public health issues; potency, which may include a recommended
+19 maximum limit for individual servings of cannabis products; and packaging, which may include
+20 the development and implementation of a public health warning to appear on cannabis products;
+21 (2) A subcommittee on public safety and community mitigation to develop
+22 recommendations on law enforcement, property, business, consumer, and any other issues that may
+23 have an affect on the locality of the cannabis establishment and the surrounding environment;
+24 (3) A subcommittee on the cannabis industry to develop recommendations on cultivation,
+25 processing, manufacturing, transportation, distribution, seed-to-sale tracking systems and market
+26 stability;
+27 (4) A subcommittee on market participation to develop recommendations on minority and
+28 veteran-owned businesses, local agriculture and growing cooperatives; and
+29 (5) A subcommittee on social equity to develop recommendations on remedying the harm
+30 to individuals directly and adversely impacted by the past enforcement of cannabis-related laws.
+31 SECTION 3. Title 21 of the General Laws entitled "FOOD AND DRUGS" is hereby
+32 amended by adding thereto the following chapter:
+33 CHAPTER 28.13
+34 RHODE ISLAND HEMP THC BEVERAGE ACT
+LC006281 - Page 3 of 18
+
+1 21-28.13-1. Short title.
+2 This chapter shall be known and may be cited as the “Rhode Island Hemp THC Beverage
+3 Act.”
+4 21-28.13-2. Definitions.
+5 As used in this chapter:
+6 (1) “Artificially-derived cannabinoid” means a cannabinoid that is created or modified after
+7 extraction from hemp through a chemical reaction, other than decarboxylation or naturally
+8 occurring isomerization resulting from the application of heat or light, that materially alters the
+9 molecular structure of the cannabinoid. The term includes, but is not limited to,
+10 tetrahydrocannabinols produced through the chemical conversion of cannabidiol (CBD), such as
+11 delta-8-tetrahydrocannabinol (delta-8 THC) or delta-10-tetrahydrocannabinol (delta-10 THC),
+12 unless the commission, by rule, determines that a specific artificially derived cannabinoid may be
+13 safely manufactured and sold for human consumption in accordance with applicable law and
+14 commission standards.
+15 (2) “Business” means any individual or sole proprietorship, partnership, firm, corporation,
+16 trust, limited liability company, limited liability partnership, joint stock company, joint venture,
+17 association or other legal entity through which business for-profit or not-for-profit is conducted;
+18 (3) “Cannabis retailer” or “marijuana retailer” means an entity licensed pursuant to section
+19 28.11 of title 21;
+20 (4) “Commission” means the Rhode Island cannabis control commission established by §
+21 21-28.11-4;
+22 (5) “Hemp” or “industrial hemp” means the plant cannabis sativa L. and any part of that
+23 plant, including the seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts,
+24 and salts of isomers, whether growing or not, with a delta-9 tetrahydrocannabinol concentration of
+25 not more than three-tenths percent (0.3%) on a dry weight or per volume basis regardless of
+26 moisture content, and which satisfies the requirements of this chapter.
+27 (6) “Hemp-derived THC” means tetrahydrocannabinol derived solely from hemp and
+28 expressly excluding THC derived from cannabis.
+29 (7) “Hemp-derived CBD” means cannabidiol extracted or derived from hemp that does not
+30 itself produce intoxicating effects when consumed.
+31 (8) “Independent testing laboratory” means a laboratory that:
+32 (i) Does not have a direct or indirect interest in the entity whose product is being tested;
+33 (ii) Does not have a direct or indirect interest in a facility that cultivates, processes,
+34 manufactures, distributes, dispenses, or sells THC-infused beverages or infused beverage products
+LC006281 - Page 4 of 18
+
+1 in the state; and
+2 (iii) Is accredited by a third-party accrediting body to ISO/IEC 17025 for the applicable
+3 analytical methods used to test the product and otherwise meets any proficiency-testing, quality-
+4 assurance, and reporting standards established by the commission by rule.
+5 (9) “Infused-beverage endorsement” means an endorsement issued by the commission to a
+6 licensed liquor retailer, cannabis retailer, hemp-consumables retailer, or licensed on-premise
+7 server, or a person licensed or authorized by the commission to manufacture THC-infused
+8 beverages, authorizing the holder to sell or serve THC-infused beverages to consumers in
+9 accordance with this chapter. An infused-beverage endorsement shall not authorize wholesale or
+10 distribution activities.
+11 (10) “Licensed liquor retailer” means the holder of a Class A retailer’s liquor license in
+12 good standing.
+13 (11) “Licensed liquor wholesaler” means the holder of a wholesale Class A or wholesale
+14 Class B liquor license in good standing.
+15 (12) “Low-dose” means a THC-infused beverage labeled to contain not more than five
+16 milligrams (5 mg) of total hemp-derived THC per container.
+17 (13) “Manufacturing facility” means a facility licensed or otherwise authorized by the
+18 commission for the production or manufacture of THC-infused beverages in accordance with this
+19 chapter.
+20 (14) “Multi-serving container” means a beverage container intended for repeated access
+21 and multiple servings that includes clearly measurable servings, resealable packaging, and labeling
+22 stating the amount of total hemp-derived THC per serving and per container.
+23 (15) “Permissible variance” means ten percent (10%), or such other variance as the
+24 commission may establish by rule for particular analytes or testing circumstances upon an
+25 articulated scientific or analytical basis.
+26 (16) “Registered on-premise server” means the holder of a Class B liquor license in good
+27 standing that has received an infused-beverage endorsement from the commission authorizing the
+28 sale or service of THC-infused beverages for on-premises consumption in accordance with this
+29 chapter.
+30 (17) “Registered retailer” means a licensed liquor retailer, cannabis retailer, or hemp
+31 consumables retailer that has received an infused-beverage endorsement from the commission
+32 authorizing the retail sale of THC-infused beverages in accordance with this chapter.
+33 (18) “Single-serving container” means a beverage container intended to be consumed on a
+34 single occasion and containing not more than five milligrams (5 mg) of total hemp-derived THC.
+LC006281 - Page 5 of 18
+
+1 (19) “Synthetic cannabinoid” means a substance with a similar chemical structure and
+2 pharmacological activity to a cannabinoid, but which is not extracted or derived from hemp plants,
+3 or hemp plant parts and is instead created or produced by chemical or biochemical synthesis.
+4 (20) “Tax division” means the Rhode Island division of taxation.
+5 (21) “THC-infused beverage” means a beverage product that:
+6 (i) Is not an alcoholic beverage, as defined in title 3;
+7 (ii) Is intended for human consumption;
+8 (iii) Contains, or is advertised, labeled, or offered for sale as containing, not more than five
+9 milligrams (5 mg) of total hemp-derived THC per container subject to § 21-28.13-6;
+10 (iv) Is intended to be consumed as a beverage, including a ready-to-drink liquid and a
+11 product intended to be dissolved, diluted, or mixed into a beverage prior to consumption, when
+12 marketed and labeled as such; and
+13 (v) May contain hemp-derived CBD or other hemp-derived cannabinoids permitted under
+14 this chapter.
+15 (22) “Universal THC symbol” means the ASTM International standard intoxicating
+16 cannabinoid product symbol, ASTM D8441/D8441M, or a substantially similar symbol approved
+17 by the commission by rule, indicating that a product contains intoxicating cannabinoids and is
+18 intended for adult use only.
+19 21-28.13-3. Purposes -- Rules of construction.
+20 (a) This chapter shall be liberally construed and applied to promote its underlying purposes
+21 and policies.
+22 (b) The underlying purposes and policies of this chapter are:
+23 (1) To promote temperance and the reasonable control of the traffic in intoxicating THC-
+24 infused beverages;
+25 (2) To protect the public health, safety, and welfare through the safe, regulated, and age-
+26 restricted sale and service of THC-infused beverages, including by prohibiting the sale or service
+27 of THC-infused beverages to persons under twenty-one (21) years of age;
+28 (3) To establish a clear licensing, endorsement, registration, and distribution framework
+29 process for THC-infused beverages through existing regulated channels, including licensed liquor
+30 retailers, cannabis retailers, hemp-consumables retailers, licensed on-premise servers, licensed
+31 manufacturers, and licensed liquor wholesalers, as applicable under this chapter;
+32 (4) To utilize existing licensed and age-restricted retail channels, including cannabis
+33 retailers, that are already subject to strict age-verification and compliance requirements for the sale
+34 of adult-use products;
+LC006281 - Page 6 of 18
+
+1 (5) To integrate the distribution and sale of THC-infused beverages into the existing
+2 alcoholic beverage system in a manner that preserves the integrity of the three (3) tier structure
+3 while vesting the commission with authority over product safety, testing, labeling, consumer
+4 protection, and enforcement;
+5 (6) To establish a low dose, container-based regulatory framework for THC-infused
+6 beverages that is practical to administer, clear to consumers, and capable of routine inspection and
+7 enforcement in general retail settings;
+8 (7) To establish standardized requirements for labeling, universal intoxicating-cannabinoid
+9 symbols, batch-level traceability, independent laboratory testing, age verification, and product
+10 warnings in order to reduce consumer confusion and support consistent compliance and
+11 enforcement;
+12 (8) To distinguish regulated, tested, and lawfully distributed THC-infused beverages sold
+13 through licensed channels from unregulated or noncompliant intoxicating hemp products outside
+14 such channels;
+15 (9) To permit, under conditions established by the commission, limited on-premises service
+16 and off-premises sales by licensed manufacturers of THC-infused beverages in a manner consistent
+17 with supervised beverage-service models used for other regulated beverage producers; and
+18 (10) To ensure that taxes, fees, and other revenues associated with THC-infused beverages
+19 support licensing administration, compliance inspections, investigations, product testing,
+20 enforcement, and consumer education.
+21 (c) The effect of this chapter may not be varied by contract or agreement. Any contract or
+22 agreement purporting to do so is void and unenforceable to that extent only.
+23 (d) Nothing in this chapter shall be construed to authorize any activity prohibited under
+24 federal law, including the Controlled Substances Act, nor to limit or restrict the authority of the
+25 United States Food and Drug Administration.
+26 (e) This chapter shall be applied in a manner that does not discriminate against interstate
+27 commerce, and products lawfully manufactured outside this state shall be permitted on equal terms
+28 with in-state products, provided such products comply with the requirements of this chapter and
+29 rules promulgated hereunder.
+30 (f) In the event of a conflict between this chapter and any other provision of state law
+31 relating to hemp-derived consumable products, the provisions of this chapter shall control with
+32 respect to the manufacture, distribution, sale, and service of THC-infused beverages.
+33 21-28.13-4. Sale of THC-infused beverages -- Reporting -- Taxes -- Fees.
+34 (a) No THC-infused beverage shall be sold, offered for sale, distributed, or served in this
+LC006281 - Page 7 of 18
+
+1 state unless the THC-infused beverage is:
+2 (1) Sold or offered for sale on the premises of a registered retailer holding a valid infused-
+3 beverage endorsement issued by the commission;
+4 (2) Sold or served on the premises of a registered on-premise server holding a valid infused-
+5 beverage endorsement issued by the commission;
+6 (3) Sold by a manufacturer holding a valid infused-beverage endorsement issued by the
+7 commission, but only to the extent authorized under subsection (e) of this section; or
+8 (4) Distributed by a licensed liquor wholesaler registered with the commission in
+9 accordance with this chapter. For avoidance of doubt, a cannabis retailer or marijuana retailer
+10 authorized under this chapter to sell THC-infused beverages shall not otherwise be restricted from
+11 engaging in any activity otherwise permitted under chapter 28.11 of title 21, except as provided in
+12 this chapter.
+13 (b) Any licensed liquor retailer, cannabis retailer, or hemp-consumables retailer may apply
+14 to the commission for an infused-beverage endorsement authorizing the retail sale of THC-infused
+15 beverages. An infused-beverage endorsement issued under this subsection shall authorize sale to
+16 consumers only and shall not authorize wholesale distribution. The applicant shall submit to the
+17 commission, in a form and manner prescribed by the commission:
+18 (1) An application;
+19 (2) An annual endorsement fee of five hundred dollars ($500); and
+20 (3) Proof of tax compliance, including compliance with this chapter. For purposes of this
+21 subsection, the commission may require proof of tax compliance by:
+22 (i) A certification of compliance made under the penalty of perjury; or
+23 (ii) A letter of good standing from the tax division. An infused-beverage endorsement
+24 issued under this subsection shall authorize the retail sale of THC-infused beverages in sealed
+25 containers for off-premises consumption. Online ordering and delivery shall be permitted only
+26 where the sale is fulfilled by a licensed retailer, with age verification at the time of purchase and at
+27 the time of delivery, and otherwise in accordance with commission rule consistent with the delivery
+28 provisions of title 3.
+29 (c) Any licensed liquor wholesaler shall be eligible to distribute THC-infused beverages in
+30 the state. Distribution authority under this chapter shall be limited to holders of wholesale Class A
+31 or wholesale Class B liquor licenses in good standing under title 3. Each licensed liquor wholesaler
+32 distributing THC-infused beverages shall register annually with the commission and shall pay an
+33 annual compliance fee of two thousand five hundred dollars ($2,500). An applicant for registration
+34 under this subsection shall demonstrate tax compliance to the commission, including compliance
+LC006281 - Page 8 of 18
+
+1 with this chapter. For purposes of this subsection, the commission may require proof of tax
+2 compliance by:
+3 (i) A certification of compliance made under the penalty of perjury; or
+4 (ii) A letter of good standing from the tax division. A licensed liquor wholesaler registered
+5 under this subsection shall maintain invoice records, lot and batch traceability, and access to
+6 certificates of analysis for products distributed in this state in accordance with commission rules.
+7 (d) Any holder of a Class B liquor license in good standing may apply to the commission
+8 for an infused-beverage endorsement authorizing the sale or service of THC-infused beverages for
+9 on-premises consumption and, upon approval, shall be deemed a registered on-premise server
+10 under this chapter. THC-infused beverages sold by a registered on-premise server shall be sold
+11 exclusively for consumption on the premises of such registered on-premise server. The applicant
+12 shall submit to the commission, in a form and manner prescribed by the commission:
+13 (1) An application;
+14 (2) An annual endorsement fee of five hundred dollars ($500); and
+15 (3) Proof of tax compliance, including compliance with this chapter. The commission shall
+16 promulgate rules establishing minimum server training requirements for THC-infused beverages
+17 consistent, where applicable, with the alcohol server training regulations as set forth in § 3-7-6.1,
+18 including requirements relating to age verification, responsible service, delayed effects, consumer
+19 warnings, and limits on intoxication. THC-infused beverages shall not be commingled with
+20 alcoholic beverages in the same container or mixed drink.
+21 (e) A person licensed or otherwise authorized by the commission to manufacture THC-
+22 infused beverages may apply to the commission for an infused-beverage endorsement authorizing:
+23 (1) The sale or service or THC-infused beverages for on-premises consumption at a
+24 licensed manufacturing facility or tasting room approved by the commission; and
+25 (2) The sale of sealed THC-infused beverages for off-premises consumption from such
+26 premises. An applicant under this subsection shall submit to the commission, in the form and
+27 manner prescribed by the commission:
+28 (i) An application;
+29 (ii) An annual endorsement fee of five hundred dollars ($500); and
+30 (iii) Proof of tax compliance, including compliance with this chapter. The commission may
+31 establish by rule reasonable conditions on sales authorized under this subsection, including
+32 conditions relating to age verification, separation from alcoholic beverage service, premises
+33 supervision, hours of sale, signage, training, and recordkeeping. THC-infused beverages sold
+34 pursuant to this subsection shall not be commingled with alcoholic beverages in the same container
+LC006281 - Page 9 of 18
+
+1 or mixed drink.
+2 (f)(1) Not later than August 1, 2026, each business that owns or possesses any THC-infused
+3 beverage in this state shall prepare an inventory of all such products owned or possessed in this
+4 state as of said date.
+5 (2) Products lawfully manufactured or possessed in this state before August 1, 2026, may
+6 be sold through December 31, 2026; provided that, such products comply with the labeling and
+7 testing requirements of this chapter.
+8 (3) Each business in possession of THC-infused beverages for sale at retail or wholesale
+9 shall remit to the tax division all applicable excise taxes, beverage container taxes, and sales taxes
+10 consistent with the assessment, payment, and collection of:
+11 (i) Excise taxes under chapter 10 of title 3;
+12 (ii) Beverage container taxes under chapter 44 of title 44; and
+13 (iii) Sales taxes under chapter 18 of title 44.
+14 (4) The division of taxation shall establish a commodity code for THC-infused beverages,
+15 and such taxes shall be remitted according to the same process, frequency, and cadence applicable
+16 to alcoholic beverages.
+17 (5) For low-dose THC infused beverages, the excise tax rate shall be ten percent (10%) of
+18 the wholesale cost.
+19 (g) If any business fails to submit the inventory or remit the taxes required under subsection
+20 (f) of this section on or before August 1, 2026, the commission may:
+21 (1) Make a good faith estimate, based on the information reasonably available to the
+22 commission, of the number of containers owned or possessed by such business in this state on
+23 August 1, 2026; and
+24 (2) Invoice such business for the taxes due under subsection (f) of this section.
+25 (h) All fees and penalties collected under this section shall be deposited in the general fund;
+26 provided, however, that ten percent (10%) of such fees and penalties shall be credited to a restricted
+27 receipt account to be known as the THC-infused beverage enforcement fund. Monies in the fund
+28 shall be used, subject to appropriation, for administration and enforcement of this chapter, including
+29 product testing, compliance inspections, investigations, and public education related to THC-
+30 infused beverages.
+31 (i) If any business fails to submit required reports or pay the fees required under this
+32 chapter, the commission may suspend, revoke, or place conditions upon any certificate, license,
+33 permit, registration, endorsement, or other credential issued to or for such business.
+34 (j) The commission shall promulgate rules necessary to implement this chapter consistent
+LC006281 - Page 10 of 18
+
+1 with protecting public health, preventing youth access, ensuring product safety, and maintaining a
+2 transparent and accountable marketplace.
+3 21-28.13-5. Purchase from licensed wholesalers -- Limited exception.
+4 Except for THC-infused beverages manufactured by, and sold directly to consumers by, a
+5 manufacturer holding a valid infused-beverage endorsement under § 21-28.13-4(e), all registered
+6 retailers and registered on-premise servers authorized under this chapter shall purchase THC-
+7 infused beverages only from a licensed liquor wholesaler registered under this chapter and holding
+8 the applicable wholesale license under title 3.
+9 21-28.13-6. Dosage limitations.
+10 (a) A THC-infused beverage shall not contain more than five milligrams (5 mg) of total
+11 THC per container.
+12 (b) No single serving of a THC-infused beverage shall contain more than five milligrams
+13 (5 mg) of total THC. The commission may establish by rule requirements governing multi-serving
+14 containers, including labeling, demarcation of servings, and consumer instructions.
+15 (c) The commission shall promulgate rules and regulations to enforce this section,
+16 including:
+17 (1) Permissible variance thresholds;
+18 (2) Testing and verification requirements; and
+19 (3) Civil penalties or fines for violations of this section.
+20 (d) The commission shall establish, by rule, minimum testing panels including, at a
+21 minimum, cannabinoids, pesticides, heavy metals, residual solvents, and microcontaminants,
+22 together with sampling protocols and chain-of-custody requirements necessary to ensure the
+23 accuracy, reliability, and reproducibility of test results.
+24 21-28.13-7. Sale to minors prohibited.
+25 (a) No THC-infused beverage may be sold or served to any individual under twenty-one
+26 (21) years of age.
+27 (b) Prior to completing a sale or service of a THC-infused beverage, a registered retailer or
+28 registered on-premise server shall verify that the purchaser or consumer is at least twenty-one (21)
+29 years of age in accordance with the proof of age requirements set forth in § 3-8-6.
+30 (c) A registered retailer or registered on-premise server may seize a form of identification
+31 set forth in § 3-8-6 if the retailer or server has reasonable grounds to believe that the form of
+32 identification has been altered, falsified, or is being used in violation of law. Any form of
+33 identification seized pursuant to this subsection shall be delivered to a law enforcement agency
+34 within twenty-four (24) hours.
+LC006281 - Page 11 of 18
+
+1 (d) THC-infused beverages shall not be commingled with alcoholic beverages in the same
+2 container or mixed drink.
+3 (e) The commission may promulgate rules establishing additional age verification, point-
+4 of-sale, and service requirements consistent with this chapter and title 3.
+5 (f) Registered retailers and registered on-premise servers shall display clear and
+6 conspicuous signage stating that THC-infused beverages are intended only for individuals twenty-
+7 one (21) years of age or older.
+8 21-28.13-8. Labeling requirements.
+9 (a) A THC-infused beverage product regulated under this chapter shall bear a label that
+10 contains, at a minimum:
+11 (1) The business name, mailing address, and website of:
+12 (i) The manufacturer or co-packer responsible for physical production of the beverage; and
+13 (ii) The brand owner or other responsible business under whose name the product is
+14 marketed or distributed.
+15 (2) The name and address of the independent testing laboratory that performed the most
+16 recent testing of the batch;
+17 (3) The batch or lot number sufficient to enable traceability; and
+18 (4) An accurate statement of the cannabinoid profile of the product, showing the total
+19 amount of each cannabinoid present at or above the reporting threshold established by the
+20 commission, expressed per serving and per container, together with the total cannabinoids and total
+21 tetrahydrocannabinol (THC), within the permissible variance;
+22 (5) A scannable barcode or quick-response (QR) code linking directly to a certificate of
+23 analysis maintained by the commission, the manufacturer, or a designee of either;
+24 (6) A universal symbol, if established by the commission, indicating that the product
+25 contains intoxicating cannabinoids;
+26 (7) The following warning statements in bold type:
+27 (i) “For adults twenty-one (21) years of age and older.”
+28 (ii) “Do not drive or operate machinery after consuming.”
+29 (iii) “Effects may be delayed.”
+30 (iv) “Not safe during pregnancy or breastfeeding.”
+31 (v) “Keep this product out of reach of children.”
+32 For products manufactured under a co-packing or contract-manufacturing agreement, the
+33 label shall identify both the manufacturing facility and the brand owner as provided in subsection
+34 (1) of this section, and shall state “Manufactured for [Brand Name] by [Manufacturer Name, City,
+LC006281 - Page 12 of 18
+
+1 State].”
+2 (b) The information required in subsection (a) of this section may appear on an outer
+3 package when the immediate container is too small to accommodate all required information;
+4 provided that, the immediate container shall, at a minimum, display:
+5 (1) The universal symbol required by subsection (a)(6) of this section, if applicable;
+6 (2) The statement “21+”; and
+7 (3) The total THC per container.
+8 (c) The commission may authorize additional electronic or web-based disclosures by rule,
+9 including through QR codes or similar technology; provided that:
+10 (1) The linked page contains all information required by this section; and
+11 (2) Such information remains publicly accessible for not less than twenty-four (24) months
+12 following the product’s expiration date or final distribution, whichever is later.
+13 (d) The label shall state: “This product has not been evaluated by the United States Food
+14 and Drug Administration and is not intended to diagnose, treat, cure, or prevent any disease,” unless
+15 the product has received approval from the United States Food and Drug Administration.
+16 (e) All required label information shall be prominently and conspicuously displayed in a
+17 manner that is easily legible and understandable to the consumer.
+18 (f) The labeling shall not contain any statement or representation that a THC-infused
+19 beverage is intended or effective for the prevention, treatment, or cure of any disease, or to affect
+20 the structure or function of the human or animal body, unless such claim has been approved by the
+21 United States Food and Drug Administration.
+22 21-28.13-9. Additional requirements.
+23 (a) In addition to the testing and labeling requirements set forth in § 21-28.13-8, every
+24 THC-infused beverage sold or offered for sale in this state shall comply with the product-safety,
+25 packaging, and formulation standards of this section.
+26 (b) THC-infused beverages shall not:
+27 (1) Bear designs, names, cartoons, images, features, or marketing elements that the
+28 commission determines are reasonably likely to appeal primarily to persons under twenty-one (21)
+29 years of age;
+30 (2) Be modeled after, or marketed in a manner that imitates, a brand of products or category
+31 of product primarily consumed by or marketed to children;
+32 (3) Be made by applying an extracted or concentrated hemp-derived cannabinoid to a
+33 commercially available candy or snack food item;
+34 (4) Be represented or packaged in a form substantively similar to a meat food product;
+LC006281 - Page 13 of 18
+
+1 poultry food product; or a dairy product;
+2 (5) Contain any ingredient, other than a hemp-derived cannabinoid, that is not approved by
+3 the United States Food and Drug Administration for use in food or beverage products;
+4 (6) Be packaged in a manner that resembles the trademarked, characteristic, or product-
+5 specialized packaging of any commercially available food product in a way that is likely to cause
+6 consumer confusion;
+7 (7) Be packaged in a container that includes a statement, artwork, symbol, or design that
+8 could reasonably mislead a consumer to believe that the package contains anything other than a
+9 THC-infused beverage.
+10 (8) Use or display the same or a confusingly similar brand name, logo, or trade dress as an
+11 alcoholic-beverage product regulated under title 3; provided, however, that an alcohol manufacturer
+12 or wholesaler licensed under title 3 may use its existing corporate or brand name for a hemp-derived
+13 or THC-infused beverage if the labeling, packaging, and marketing clearly distinguish the product
+14 from alcoholic beverages in accordance with commission rules; or
+15 (9) Be advertised or marketed in a manner that is false, misleading, or reasonably likely to
+16 cause consumer confusion as to whether the product is an alcoholic beverage, a non-intoxicating
+17 hemp product, or a product intended for persons under twenty-one (21) years of age.
+18 (10) The commission shall establish by rule objective criteria and illustrative examples to
+19 guide determinations under this subsection.
+20 (c) In addition to the labeling elements required under § 21-28.13-8, each THC-infused
+21 beverage shall clearly display on its container or outer package:
+22 (1) The serving size and number of servings per container; provided, however, that for a
+23 single-serving beverage the container shall be deemed one serving;
+24 (2) A list of ingredients, including identification of any major food allergens declared by
+25 name in accordance with 21 U.S.C. § 343(w);
+26 (3) The following statement in bold, conspicuous type: “Keep this product out of reach of
+27 children.”
+28 (d) THC-infused beverages may contain delta-9 tetrahydrocannabinol and other naturally
+29 occurring cannabinoids derived from hemp plants or hemp plant parts. No THC-infused beverage
+30 shall contain a synthetic cannabinoid or any artificially-derived cannabinoid unless the
+31 commission, by rule and upon a finding of safety, stability, and suitability for human consumption
+32 in beverage form, authorizes its use in beverages manufactured for human consumption. The
+33 commission may establish by rule a list of approved cannabinoids and any concentration limits
+34 necessary to protect consumer health.
+LC006281 - Page 14 of 18
+
+1 (e) A manufacturer authorized under this chapter may produce, possess, and store THC-
+2 infused beverages formulated exclusively for lawful sale outside Rhode Island; provided that, such
+3 products are clearly labeled “Not for sale in Rhode Island,” segregated from in-state inventory, and
+4 documented in batch, lot, and manifest records identifying the lawful destination jurisdiction.
+5 (f) Each manufacturer shall maintain procedures for product recalls, consumer complaints,
+6 and adverse-event reporting consistent with commission rules. The commission may order a recall
+7 of any THC-infused beverage that it determines poses a risk to public health or safety.
+8 Manufacturers, wholesalers, and retailers shall maintain records sufficient to support product
+9 traceability, recall execution, and inspection-ready verification of batch identity and certificate-of-
+10 analysis access.
+11 (g) The commission may establish by rule requirements governing retail placement, point-
+12 of-sale identification, product segregation where necessary to prevent consumer confusion or youth
+13 access, and other shelf-level safeguards consistent with this chapter.
+14 21-28.13-10. Noncompliant products -- Enforcement.
+15 (a) A product regulated under this chapter, including a THC-infused beverage, shall be
+16 deemed noncompliant if it is offered for sale in this state, or manufactured, imported, distributed,
+17 possessed, or stored with intent for sale in this state, in violation of any provision of this chapter or
+18 rule promulgated hereunder including, but not limited to, where:
+19 (1) It consists, in whole or in part, of any unsanitary, putrescible, or decomposed substance;
+20 (2) It has been produced, prepared, packed, or held under unsanitary conditions whereby it
+21 may have been rendered injurious to health, or whereby it may have been contaminated with filth;
+22 (3) Its container is composed, in whole or in part, of any poisonous or deleterious substance
+23 that may render the contents injurious to health;
+24 (4) It contains any food additive, color additive, or excipient that has been found by the
+25 United States Food and Drug Administration to be unsafe for human consumption;
+26 (5) It contains an amount or percentage of cannabinoids that differs from the amount or
+27 percentage stated on the label by more than the permissible variance;
+28 (6) It contains an amount of tetrahydrocannabinol (THC) that exceeds the dosage limits
+29 established in § 21-28.13-6;
+30 (7) It contains mold, residual solvents, pesticides, fertilizers, heavy metals,
+31 microcontaminants, or other contaminants in excess of action limits established by the commission
+32 by rule;
+33 (8) It has not been tested, labeled, packaged, or traceable in accordance with the
+34 requirements of this chapter; or
+LC006281 - Page 15 of 18
+
+1 (9) It was tested by a laboratory that does not satisfy the requirements of this chapter or
+2 any rules promulgated hereunder.
+3 (b) A product regulated under this chapter shall be deemed noncompliant if its labeling,
+4 packaging, advertising, or presentation is false, misleading, or otherwise violates the requirements
+5 of this chapter or any rule adopted by the commission.
+6 (c) The commission may infer, based on the totality of the circumstances, that any regulated
+7 product present in this state, other than a product lawfully possessed for personal use, has been
+8 manufactured, imported, distributed, possessed, or stored with intent for sale in this state, including
+9 where:
+10 (1) A product of the same type and brand has been offered for sale in the state on or after
+11 the effective date of this chapter; or
+12 (2) The product is in the possession of a person who has sold any regulated product in
+13 violation of this chapter.
+14 (d) The commission may enforce this section against any manufacturer, wholesaler,
+15 distributor, retailer, on-premise server, or other person subject to this chapter, and may impose
+16 administrative penalties, suspend or revoke endorsements, or registrations, issue cease-and-desist
+17 orders, order recalls, quarantine or embargo products, and refer matters for civil or criminal
+18 prosecution as appropriate. In exercising its enforcement authority under this chapter, the
+19 commission shall prioritize protection of public health and safety, product traceability, and the
+20 removal of noncompliant products from commerce.
+21 (e) The commission and its authorized agents may enter and inspect, during normal
+22 business hours, any facility, manufacturing premises, warehouse, vehicle, retail premises, on-
+23 premise service premises, or other location used in the manufacture, storage, distribution, sale, or
+24 service of THC-infused beverages, and may seize, embargo, quarantine, or otherwise detain any
+25 product the commission reasonably believes to be noncompliant. The commission shall coordinate
+26 inspection and enforcement activities with the department of business regulation and the
+27 department of health, as appropriate, to avoid unnecessary duplication of effort and to ensure public
+28 safety.
+29 (f) The commission shall provide notice and an opportunity to be heard prior to the
+30 imposition of any administrative penalty, suspension, or revocation, consistent with chapter 35 of
+31 title 42.
+32 21-28.13-11. Existing franchise laws.
+33 (a) Nothing in this chapter shall be construed to repeal, amend, impair, or supersede any
+34 existing beer or wine franchise law including, without limitation, chapter 13 of title 3. This chapter
+LC006281 - Page 16 of 18
+
+1 is intended to provide additional franchise-related protections and requirements applicable to THC-
+2 infused beverages while leaving in effect and unchanged all otherwise applicable local and state
+3 franchise laws relating to beer or wine franchises in effect on the effective date of this chapter.
+4 (b) The provisions set forth in §§ 3-13-3 and 3-13-5 shall apply to all sales and distribution
+5 arrangements for THC-infused beverages governed by this chapter including, without limitation,
+6 prior notice of cancellation or termination of an agreement and prohibited supplier conduct, and
+7 such provisions are hereby incorporated by reference as if fully set forth herein.
+8 21-28.13-12. Exclusive jurisdiction.
+9 Notwithstanding any agreement to the contrary between or among retailers, wholesalers,
+10 commission licensees, department of business regulation licensees, manufacturers, or any other
+11 person subject to this chapter, any dispute arising out of or relating to this chapter shall be governed
+12 by the laws of the State of Rhode Island, and the state courts in Rhode Island shall have exclusive
+13 jurisdiction over such dispute.
+14 21-28.13-13. THC-infused beverage enforcement fund.
+15 (a) There is hereby established within the cannabis control commission a restricted receipt
+16 account to be known as the “THC-infused beverage enforcement fund.”
+17 (b) The fund shall consist of all monies credited to it pursuant to § 21-28.13-4(h), and any
+18 other monies made available by law.
+19 (c) The fund shall be administered by the commission and shall be used solely for the
+20 administration and enforcement of this chapter including, without limitation, product testing,
+21 compliance inspection, investigations, enforcement activities, license administration, and consumer
+22 education relating to THC-infused beverages.
+23 (d) Any unexpended balance in the fund at the close of a fiscal year shall remain in the
+24 fund and shall not revert to the general fund.
+25 21-28.13-14. Severability.
+26 If any provision of this chapter, or the application thereof to any person or circumstance,
+27 is held invalid or unconstitutional, such invalidity or unconstitutionality shall not affect other
+28 provisions or applications of this chapter that can be given effect without the invalid or
+29 unconstitutional provision or application, and to this end the provisions of this chapter are declared
+30 to be severable.
+31 SECTION 4. This act shall take effect on August 1, 2026.
+========
+LC006281
+========
+LC006281 - Page 17 of 18
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO AGRICULTURE AND FORESTRY -- HEMP GROWTH ACT -- RHODE
+ISLAND HEMP THC BEVERAGE ACT
+***
+1 This act would provide a licensed liquor retailer, cannabis retailer, or hemp consumable
+2 retailer that has received an infused-beverage endorsement from the cannabis control commission
+3 the authorization to sell at retail THC-infused beverages in accordance with this chapter.
+4 This act would take effect on August 1, 2026.
+========
+LC006281
+========
+LC006281 - Page 18 of 18

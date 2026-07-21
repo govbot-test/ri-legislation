@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - 2956
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2956
+========
+LC005519
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- TITLE FRAUD PREVENTION ACT
+Introduced By: Senators E Morgan, Raptakis, Rogers, Dimitri, Gu, Urso, Thompson,
+Paolino, Ciccone, and Burke
+Date Introduced: March 04, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 34 of the General Laws entitled "PROPERTY" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 13.3
+4 TITLE FRAUD PREVENTION ACT
+5 34-13.3-1. Short title.
+6 This chapter shall be known and may be cited as the "Title Fraud Prevention Act."
+7 34-13.3-2. Definitions.
+8 As used in this chapter:
+9 (1) "Instrument" means any deed, mortgage, assignment, discharge, lien, encumbrance,
+10 memorandum, notice, affidavit, contract, or other document that purports to convey, transfer,
+11 encumber, establish, or affect title to real property.
+12 (2) "Presenter" means an individual who delivers an instrument to a city or town clerk for
+13 recording.
+14 (3) "Trusted submitter" means:
+15 (i) An attorney licensed to practice law in this state;
+16 (ii) A title insurance company authorized to transact business in this state;
+17 (iii) A financial institution authorized to transact business in this state; or
+18 (iv) An authorized agent of any such person or entity.
+19 34-13.3-3. Identity verification required for certain recordings.
+
+1 (a) Notwithstanding any other provision of law, when an instrument is presented for
+2 recording by a presenter who is not a trusted submitter, the city or town clerk acting as recorder of
+3 deeds shall require the presenter to produce a valid government-issued photographic identification
+4 card prior to recording the instrument.
+5 (b) The clerk shall:
+6 (1) Record the name and address of the presenter as it appears on the identification card;
+7 and
+8 (2) Maintain such information in a record associated with the instrument number or book
+9 and page of the recorded document.
+10 (c) If the instrument is submitted electronically by a presenter who is not a trusted
+11 submitter, the presenter shall submit a copy of a government-issued photographic identification
+12 card. The presenter may redact all information except name, address, and photograph.
+13 (d) A clerk shall refuse to record an instrument if:
+14 (1) The presenter fails to provide identification as required by this section; or
+15 (2) The name appearing on the identification does not match the name of the grantor or
+16 conveying party appearing in the instrument.
+17 (e) The identity verification record created pursuant to this section shall not be posted on
+18 any publicly accessible internet website but shall constitute a public record subject to chapter 2 of
+19 title 38, except that any redacted information shall remain confidential.
+20 (f) No city, town, clerk, or employee thereof shall incur civil liability for requiring
+21 identification or for refusing to record an instrument in good faith compliance with this chapter.
+22 34-13.3-4. Fraudulent instruments -- Expedited quiet title procedure.
+23 (a) Any person claiming to be the lawful owner of an interest in real property that is subject
+24 to a recorded instrument alleged to be false, forged, fictitious, or fraudulent may file a verified
+25 complaint in the superior court seeking expedited relief.
+26 (b) Upon filing, the court shall:
+27 (1) Schedule a hearing not fewer than five (5) days nor more than twenty (20) days from
+28 service of notice; and
+29 (2) Permit service consistent with the Rhode Island rules of civil procedure.
+30 (c) If the court finds that the instrument is materially false, forged, fictitious, or fraudulent
+31 and unsupported by any lawful basis, the court shall:
+32 (1) Declare the instrument void ab initio;
+33 (2) Order the removal of the cloud on title;
+34 (3) Direct the city or town clerk to record and cross-index the court’s order; and
+LC005519 - Page 2 of 4
+
+1 (4) Authorize the clerk to conspicuously mark the first page of the original recorded
+2 instrument with the following statement:
+3 "THIS INSTRUMENT HAS BEEN DECLARED VOID BY ORDER OF THE RHODE
+4 ISLAND SUPERIOR COURT. "
+5 (d) The court may additionally:
+6 (1) Award reasonable attorneys’ fees and costs to the prevailing party;
+7 (2) Issue injunctive relief, including ejectment where appropriate;
+8 (3) Impose a civil penalty not exceeding ten thousand dollars ($10,000) for a frivolous or
+9 malicious filing;
+10 (4) Enter a pre-filing injunction against any person found to have repeatedly recorded
+11 fraudulent instruments.
+12 (e) The remedies provided in this section shall be in addition to any other remedies
+13 available at law or in equity, including those under § 34-16-1.
+14 SECTION 2. Chapter 34-16 of the General Laws entitled "Quieting Title" is hereby
+15 amended by adding thereto the following section:
+16 34-16-16. Expedited action for fraudulent conveyance.
+17 The procedure set forth in § 34-13.3-4 shall constitute an expedited method of quieting title
+18 where fraud is alleged. Nothing herein shall limit the court’s authority under this chapter.
+19 SECTION 3. Chapter 42-30.1 of the General Laws entitled "Uniform Law on Notarial
+20 Acts" is hereby amended by adding thereto the following section:
+21 42-30.1-25. Identity verification for electronic submissions.
+22 A recorder may require identity verification consistent with chapter 13.3 of title 34 prior to
+23 accepting an electronic document for recording, except where submitted by a trusted submitter.
+24 SECTION 4. This act shall take effect on January 1, 2027, and shall apply to instruments
+25 presented for recording on or after that date.
+========
+LC005519
+========
+LC005519 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- TITLE FRAUD PREVENTION ACT
+***
+1 This act would provide measures to prevent title fraud by authorizing the recorder of deeds
+2 to require the production of a government-issued photographic identification card before recording
+3 a deed or certain other instruments and providing for a separate cause of action to quiet title after
+4 an attempted fraudulent conveyance.
+5 This act would take effect on January 1, 2027, and would apply to instruments presented
+6 for recording on or after that date.
+========
+LC005519
+========
+LC005519 - Page 4 of 4

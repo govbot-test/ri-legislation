@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - 8145
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8145
+========
+LC005430
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC FINANCE -- STATE FUNDS
+Introduced By: Representatives Stewart, Alzate, Diaz, Giraldo, Dawson, Kislak, Cruz,
+Carson, Morales, and Cotter
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 35-4-27 of the General Laws in Chapter 35-4 entitled "State Funds"
+2 is hereby amended to read as follows:
+3 35-4-27. Indirect cost recoveries on restricted receipt accounts.
+4 Indirect cost recoveries of fifteen percent (15%) of cash receipts shall be transferred from
+5 all restricted receipt accounts, to be recorded as general revenues in the general fund. However,
+6 there shall be no transfer from cash receipts with restrictions received exclusively: (1) From
+7 contributions from nonprofit charitable organizations; (2) From the assessment of indirect cost-
+8 recovery rates on federal grant funds; or (3) Through transfers from state agencies to the department
+9 of administration for the payment of debt service. These indirect cost recoveries shall be applied to
+10 all accounts, unless prohibited by federal law or regulation, court order, or court settlement. The
+11 following restricted receipt accounts shall not be subject to the provisions of this section:
+12 Executive Office of Health and Human Services
+13 HIV Care Grant Drug Rebates
+14 Health System Transformation Project
+15 Rhode Island Statewide Opioid Abatement Account
+16 HCBS Support-ARPA
+17 HCBS Admin Support-ARPA
+18 Department of Human Services
+19 Organ Transplant Fund
+
+1 Veterans’ home — Restricted account
+2 Veterans’ home — Resident benefits
+3 Pharmaceutical Rebates Account
+4 Demand Side Management Grants
+5 Veteran’s Cemetery Memorial Fund
+6 Donations — New Veterans’ Home Construction
+7 Commodity Supplemental Food Program-Claims
+8 Department of Health
+9 Pandemic medications and equipment account
+10 Miscellaneous Donations/Grants from Non-Profits
+11 State Loan Repayment Match
+12 Healthcare Information Technology
+13 Department of Behavioral Healthcare, Developmental Disabilities and Hospitals
+14 Eleanor Slater non-Medicaid third-party payor account
+15 Hospital Medicare Part D Receipts
+16 RICLAS Group Home Operations
+17 Group Home Facility Improvement Fund
+18 Commission on the Deaf and Hard of Hearing
+19 Emergency and public communication access account
+20 Department of Environmental Management
+21 National heritage revolving fund
+22 Environmental response fund II
+23 Underground storage tanks registration fees
+24 De Coppet Estate Fund
+25 Rhode Island Historical Preservation and Heritage Commission
+26 Historic preservation revolving loan fund
+27 Historic Preservation loan fund — Interest revenue
+28 Department of Public Safety
+29 E-911 Uniform Emergency Telephone System
+30 Forfeited property — Retained
+31 Forfeitures — Federal
+32 Forfeited property — Gambling
+33 Donation — Polygraph and Law Enforcement Training
+34 Rhode Island State Firefighter’s League Training Account
+LC005430 - Page 2 of 6
+
+1 Fire Academy Training Fees Account
+2 Attorney General
+3 Forfeiture of property
+4 Federal forfeitures
+5 Attorney General multi-state account
+6 Forfeited property — Gambling
+7 Department of Administration
+8 Health Insurance Market Integrity Fund
+9 RI Health Benefits Exchange
+10 Information Technology restricted receipt account
+11 Restore and replacement — Insurance coverage
+12 Convention Center Authority rental payments
+13 Investment Receipts — TANS
+14 OPEB System Restricted Receipt Account
+15 Grants Management Administration
+16 Office of Energy Resources
+17 OER Reconciliation Funding
+18 RGGI Executive Climate Change Coordinating Council Projects
+19 Electric Vehicle Charging Stations Operating and Maintenance Account
+20 Clean Transportation Programs
+21 Department of Housing
+22 Housing Resources and Homelessness Restricted Receipt Account
+23 Housing Production Fund
+24 Low-Income Housing Tax Credit Fund
+25 Department of Revenue
+26 Car Rental Tax/Surcharge-Warwick Share
+27 DMV Modernization Project
+28 Jobs Tax Credit Redemption Fund
+29 Legislature
+30 Audit of federal assisted programs
+31 Department of Children, Youth and Families
+32 Children’s Trust Accounts — SSI
+33 Military Staff
+34 RI Military Family Relief Fund
+LC005430 - Page 3 of 6
+
+1 RI National Guard Counterdrug Program
+2 Treasury
+3 Admin. Expenses — State Retirement System
+4 Retirement — Treasury Investment Options
+5 Defined Contribution — Administration - RR
+6 Violent Crimes Compensation — Refunds
+7 Treasury Research Fellowship
+8 Business Regulation
+9 Banking Division Reimbursement Account
+10 Office of the Health Insurance Commissioner Reimbursement Account
+11 Securities Division Reimbursement Account
+12 Commercial Licensing and Racing and Athletics Division Reimbursement Account
+13 Insurance Division Reimbursement Account
+14 Historic Preservation Tax Credit Account
+15 Rhode Island Cannabis Control Commission
+16 Marijuana Trust Fund
+17 Social Equity Assistance Fund
+18 Judiciary
+19 Arbitration Fund Restricted Receipt Account
+20 Third-Party Grants
+21 RI Judiciary Technology Surcharge Account
+22 Department of Elementary and Secondary Education
+23 Statewide Student Transportation Services Account
+24 School for the Deaf Fee-for-Service Account
+25 School for the Deaf — School Breakfast and Lunch Program
+26 Davies Career and Technical School Local Education Aid Account
+27 Davies — National School Breakfast & Lunch Program
+28 School Construction Services
+29 Office of the Postsecondary Commissioner
+30 Tuition Savings Program Fund
+31 Higher Education and Industry Center
+32 IGT STEM Scholarships
+33 Department of Labor and Training
+34 Job Development Fund
+LC005430 - Page 4 of 6
+
+1 Contractor Training Restricted Receipt Account
+2 Workers’ Compensation Administrative Account
+3 Rhode Island Council on the Arts
+4 Governors’ Portrait Donation Fund
+5 Statewide records management system account
+6 Rhode Island public transit authority account
+7 SECTION 2. Chapter 44-18 of the General Laws entitled "Sales and Use Taxes — Liability
+8 and Computation" is hereby amended by adding thereto the following section:
+9 44-18-18.2. Rhode Island public transit authority operations allocation.
+10 (a) All sales and use tax revenue collected from transportation network companies, as
+11 defined in § 44-18-7.3, shall be deposited in a restricted receipt account for the benefit of the Rhode
+12 Island public transit authority for purposes to fund paratransit transportation and RIDE Anywhere.
+13 (b) There is created within the general fund a restricted receipt account known as the
+14 “Rhode Island public transit authority account”. Revenue collected from transportation network
+15 companies pursuant to subsection (a) of this section shall be deposited into this account and used
+16 to fund operations related to paratransit transportation and RIDE Anywhere of the Rhode Island
+17 public transit authority.
+18 (c) The account created under this section shall be exempt from the indirect cost recovery
+19 provision set forth in § 35-4-27.
+20 SECTION 3. This act shall take effect on July 1, 2026.
+========
+LC005430
+========
+LC005430 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC FINANCE -- STATE FUNDS
+***
+1 This act would establish a restricted receipt account for the benefit of the Rhode Island
+2 public transit authority funded by sales taxes collected from ride-share companies; and provided
+3 further, the account would be exempt from indirect cost recovery provisions.
+4 This act would take effect on July 1, 2026.
+========
+LC005430
+========
+LC005430 - Page 6 of 6

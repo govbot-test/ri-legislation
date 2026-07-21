@@ -1,0 +1,764 @@
+Title: 
+Official Title: 
+Source: versions - 2720
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2720
+========
+LC004361
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO ELECTIONS -- RHODE ISLAND CAMPAIGN CONTRIBUTIONS AND
+EXPENDITURES REPORTING
+Introduced By: Senators DiMario, Zurier, Euer, Gu, Lauria, Valverde, Murray,
+Bissaillon, McKenney, and Britto
+Date Introduced: February 27, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 17-25-3, 17-25-7, 17-25-10, 17-25-10.1, 17-25-11 and 17-25-12 of
+2 the General Laws in Chapter 17-25 entitled "Rhode Island Campaign Contributions and
+3 Expenditures Reporting" are hereby amended to read as follows:
+4 17-25-3. Definitions.
+5 As used in this chapter, unless a different meaning clearly appears from the context:
+6 (1) “Accounts payable” means credit extended to a candidate or political, candidate
+7 committee, political action committee or political party committee, for campaign expenditures;
+8 provided that, the credit extended is in the ordinary course of the vendor’s business, and the terms
+9 are substantially similar, in risk and amount, to extensions of credit to nonpolitical customers.
+10 (2) “Business entity” means any corporation, whether for profit or not for profit, domestic
+11 corporation or foreign corporation, as defined in § 7-1.2-106, financial institution, cooperative,
+12 association, receivership, trust, holding company, firm, joint stock company, public utility, sole
+13 proprietorship, partnership, limited partnership, or any other entity recognized by the laws of the
+14 United States and/or the state of Rhode Island for the purpose of doing business. The term “business
+15 entity” shall not include a political action committee organized pursuant to this chapter or a political
+16 party committee or an authorized campaign committee of a candidate or office holder. The term
+17 “business entity” shall not include any exempt nonprofit as defined herein or any organization
+18 described in § 501(c)(3) of the Internal Revenue Code of 1986, or any subsequent corresponding
+
+1 internal revenue code of the United States, as amended from time to time, for the purposes of
+2 chapter 25.3 of this title.
+3 (3) “Candidate” means any individual who undertakes any action, whether preliminary or
+4 final, which is necessary under the law to qualify for nomination for election or election to public
+5 office, and/or any individual who receives a contribution or makes an expenditure, or gives their
+6 consent for any other person to receive a contribution or make an expenditure, with a view to
+7 bringing about their nomination or election to any public office, whether or not the specific public
+8 office for which they will seek nomination or election is known at the time the contribution is
+9 received or the expenditure is made and whether or not they have announced their candidacy or
+10 filed a declaration of candidacy at that time.
+11 (4) “Conduit” or “intermediary” means any person who receives and forwards an
+12 earmarked contribution to a candidate or a candidate’s authorized committee, except as otherwise
+13 limited in this chapter.
+14 (5) “Contributions” and “expenditures” include all transfers of money, credit or debit card
+15 transactions, on-line or electronic payment systems such as “pay pal,” paid personal services, or
+16 other thing of value to or by any candidate, committee of a political party, or political action
+17 committee or ballot question advocate. A loan shall be considered a contribution of money until it
+18 is repaid.
+19 (6) “Covered transfer” means any transfer or payment of funds by any person, business
+20 entity, or political action committee to another person, business entity, or political action committee
+21 if the person, business entity, or political action committee making the transfer: (i) Designates,
+22 requests, or suggests that the amounts be used for independent expenditures or electioneering
+23 communications or making a transfer to another person for the purpose of making or paying for
+24 such independent expenditures or electioneering communications; (ii) Made such transfer or
+25 payment in response to a solicitation or other request for a transfer or payment for the making of
+26 or paying for independent expenditures or electioneering communications or making a transfer to
+27 another person for the purpose of making or paying for such independent expenditures or
+28 electioneering communications; (iii) Engaged in discussions with the recipient of the transfer or
+29 payment regarding independent expenditures or electioneering communications or making a
+30 transfer to another person for the purpose of making or paying for such independent expenditures
+31 or electioneering communications; or (iv) Made independent expenditures or electioneering
+32 communications in an aggregate amount of five thousand dollars ($5,000) or more during the two-
+33 year (2) period ending on the date of the transfer or payment, or knew or had reason to know that
+34 the person receiving the transfer or payment made such independent expenditures or electioneering
+LC004361 - Page 2 of 22
+
+1 communications in such an aggregate amount during that two-year (2) period.
+2 (A) Exceptions: The term “covered transfer” does not include:
+3 (I) A transfer or payment made by a person, business entity, or political action committee
+4 in the ordinary course of any trade or business conducted by the person, business entity, or political
+5 action committee or in the form of investments made by the person, business entity, or political
+6 action committee; or
+7 (II) A transfer or payment made by a person, business entity, or political action committee
+8 if the person, business entity, or political action committee making the transfer prohibited, in
+9 writing, the use of such transfer or payment for independent expenditures, electioneering
+10 communications, or covered transfers and the recipient of the transfer or payment agreed to follow
+11 the prohibition and deposited the transfer or payment in an account that is segregated from any
+12 account used to make independent expenditures, electioneering communications, or covered
+13 transfers.
+14 (7) For the purposes of chapter 25.3 of this title, “donation” means all transfers of money,
+15 credit or debit card transactions, on-line or electronic payment systems such as “pay pal,” paid
+16 personal services, or other thing of value to or by any person, business entity, or political action
+17 committee. A loan shall be considered a donation of money until it is repaid.
+18 (8) For the purposes of chapter 25.3 of this title, “donor” means a person, business entity,
+19 or political action committee that makes a donation.
+20 (9) “Earmarked” means a designation, instruction, or encumbrance, whether direct or
+21 indirect, express or implied, oral or written, that results in all or any part of a contribution or
+22 expenditure being made to, or expended on behalf of, a clearly identified candidate or a candidate’s
+23 authorized committee.
+24 (10) “Election” means any primary, general, or special election or town meeting for any
+25 public office of the state, municipality, or district, or for the determination of any question
+26 submitted to the voters of the state, municipality, or district.
+27 (11) “Election cycle” means the twenty-four month (24) period commencing on January 1
+28 of odd number years and ending on December 31 of even number years; provided, with respect to
+29 the public financing of election campaigns of general officers under §§ 17-25-19, 17-25-20, and
+30 17-25-25, “election cycle” means the forty-eight month (48) period commencing on January 1 of
+31 odd numbered years and ending December 31 of even numbered years.
+32 (12) “Electioneering communication” means any print, broadcast, cable, satellite, or
+33 electronic media communication not coordinated, as set forth in § 17-25-23, with any candidate,
+34 authorized candidate campaign committee, or political party committee and that unambiguously
+LC004361 - Page 3 of 22
+
+1 identifies a candidate or referendum and is made either within sixty (60) days before a general or
+2 special election or town meeting for the office sought by the candidate or referendum; or thirty (30)
+3 days before a primary election, for the office sought by the candidate; and is targeted to the relevant
+4 electorate.
+5 (i) A communication that refers to a clearly identified candidate or referendum is “targeted
+6 to the relevant electorate” if the communication can be received by two thousand (2,000) or more
+7 persons in the district the candidate seeks to represent or the constituency voting on the referendum.
+8 (ii) Exceptions: The term “electioneering communication” does not include:
+9 (A) A communication appearing in a news story, commentary, or editorial distributed
+10 through the facilities of any broadcasting station, unless such facilities are owned or controlled by
+11 any political party, political committee, or candidate;
+12 (B) A communication that constitutes a candidate debate or forum conducted pursuant to
+13 regulations adopted by the board of elections or that solely promotes such a debate or forum and is
+14 made by or on behalf of the person sponsoring the debate or forum;
+15 (C) A communication made by any business entity to its members, owners, stockholders,
+16 or employees;
+17 (D) A communication over the internet, except for (I) Communications placed for a fee on
+18 the website of another person, business entity, or political action committee; and (II) Websites
+19 formed primarily for the purpose, or whose primary purpose is, to expressly advocate the election
+20 or defeat of a clearly identified candidate or the passage or defeat of a referendum; or
+21 (E) Any other communication exempted under such regulations as the board of elections
+22 may promulgate (consistent with the requirements of this paragraph) to ensure the appropriate
+23 implementation of this paragraph.
+24 (13) “Exempt nonprofit” means any organization described in § 501(c)(4) of the Internal
+25 Revenue Code that spends an aggregate annual amount of no more than ten percent (10%) of its
+26 annual expenses or no more than fifteen thousand dollars ($15,000), whichever is less, on
+27 independent expenditures, electioneering communications, and covered transfers as defined herein
+28 and certifies the same to the board of elections seven (7) days before and after a primary election
+29 and seven (7) days before and after a general or special election.
+30 (14) “Fair market value” means the usual and normal charge for goods and services as
+31 determined by the marketplace from which they ordinarily would have been purchased at a usual
+32 and normal charge in an arms length transaction.
+33 (i) For purposes of this subsection, “usual and normal charge for goods” means the price
+34 of those goods in the market from which they ordinarily would have been purchased at the time of
+LC004361 - Page 4 of 22
+
+1 the contribution. “Usual and normal charge for services”, other than those provided by an unpaid
+2 volunteer, means the hourly or piecework charge for the services at a commercially reasonable rate
+3 prevailing at the time the services are rendered.
+4 (15) “Independent expenditure” means an expenditure that, when taken as a whole,
+5 expressly advocates the election or defeat of a clearly identified candidate, or the passage or defeat
+6 of a referendum, or amounts to the functional equivalent of such express advocacy, and is in no
+7 way coordinated, as set forth in § 17-25-23, with any candidate’s campaign, authorized candidate
+8 committee, or political party committee. An expenditure amounts to the functional equivalent of
+9 express advocacy if it can only be interpreted by a reasonable person as advocating the election,
+10 passage, or defeat of a candidate or referendum, taking into account whether the communication
+11 mentions a candidate or referendum and takes a position on a candidate’s character, qualifications,
+12 or fitness for office. An independent expenditure is not a contribution to that candidate or
+13 committee.
+14 (i) Exceptions: The term “independent expenditure” does not include:
+15 (A) A communication appearing in a news story, commentary, or editorial distributed
+16 through the facilities of any broadcasting station, unless such facilities are owned or controlled by
+17 any political party, political committee, or candidate;
+18 (B) A communication that constitutes a candidate debate or forum conducted pursuant to
+19 regulations adopted by the board of elections or that solely promotes such a debate or forum and is
+20 made by or on behalf of the person sponsoring the debate or forum;
+21 (C) A communication made by any business entity to its members, owners, stockholders,
+22 or employees;
+23 (D) A communication over the internet, except for (I) Communications placed for a fee on
+24 the website of another person, business entity, or political action committee; and (II) Websites
+25 formed primarily for the purpose, or whose primary purpose is, to expressly advocate the election
+26 or defeat of a clearly identified candidate or the passage or defeat of a referendum; or
+27 (E) Any other communication exempted under such regulations as the board of elections
+28 may promulgate (consistent with the requirements of this paragraph) to ensure the appropriate
+29 implementation of this paragraph.
+30 (16) “In-kind contributions” means the monetary fair market value of other things of value
+31 or paid personal services donated to, or benefiting, any person required to file reports with the board
+32 of elections, including the difference between the amount paid by a reporting person and the fair
+33 market value or a thing of value or personal service.
+34 (17) “Other thing of value” means any item of tangible real or personal property of a fair-
+LC004361 - Page 5 of 22
+
+1 market value in excess of one hundred dollars ($100).
+2 (18) “Paid personal services” means personal services of every kind and nature, the cost or
+3 consideration for which is paid or provided by someone other than the committee or candidate for
+4 whom the services are rendered, but shall not include personal services provided without
+5 compensation by persons individuals volunteering their time.
+6 (19) “Person” means an individual, partnership, committee, association, corporation,
+7 union, charity, and/or any other organization. The term “person” shall not include any exempt
+8 nonprofit as defined herein or any organization described in § 501(c)(3) of the Internal Revenue
+9 Code of 1986, or any subsequent corresponding internal revenue code of the United States, as
+10 amended from time to time, for the purposes of chapter 25.3 of this title only.
+11 (20) “Political action committee” means any group of two (2) or more persons that accepts
+12 any contributions to be used for advocating the election or defeat of any candidate or candidates.
+13 Only political action committees that have accepted contributions from fifteen (15) or more persons
+14 in amounts of ten dollars ($10.00) or more within an election cycle shall be permitted to make
+15 contributions, and those committees must make contributions to at least five (5) candidates for state
+16 or local office within an election cycle. Political action committees established, financed,
+17 maintained or controlled by the same person or the same group of persons are affiliated.
+18 (21) “Public office” means any state, municipal, school, or district office or other position
+19 that is filled by popular election, except political party offices. “Political party offices” means any
+20 state, city, town, ward, or representative or senatorial district committee office of a political party
+21 or delegate to a political party convention, or any similar office.
+22 (22) For purposes of chapter 25.3 of this title, “referendum” means the same as the
+23 definition set forth in § 17-5-1.
+24 (23) “State” means state of Rhode Island.
+25 (24) “Testimonial affair” means an affair of any kind or nature including, but not limited
+26 to, cocktail parties, breakfasts, luncheons, dinners, dances, picnics, or similar affairs expressly and
+27 directly intended to raise campaign funds in behalf of a candidate to be used for nomination or
+28 election to a public office in this state, or expressly and directly intended to raise funds in behalf of
+29 any state or municipal committee of a political party, or expressly and directly intended to raise
+30 funds in behalf of any political action committee.
+31 17-25-7. Contents of reports to be filed by treasurers of candidates and committees.
+32 (a) Each campaign treasurer of a candidate, each state and municipal committee of a
+33 political party, and each political action committee shall keep accurate records and make a full
+34 report, upon a form prescribed by the board of elections, of all contributions received, and
+LC004361 - Page 6 of 22
+
+1 expenditures made, by it in excess of a total of two hundred dollars ($200), from any one source
+2 within a calendar year, in furtherance of the nomination, election, or defeat of any candidate or the
+3 approval or rejection of any question submitted to the voters, or at any financial town meeting,
+4 financial town referendum, or other election at which amendments to a city or town charter are
+5 proposed, during the period from the date of the last report, or in the case of the initial report,
+6 beginning on the date of the appointment of the campaign treasurer for state and municipal
+7 committees and political action committees and on the date a person becomes a “candidate” as
+8 defined in § 17-25-3 for individual candidates. The report shall contain the name, address, and
+9 place of employment of each person or source from whom the contributions and expenditures in
+10 excess of two hundred dollars ($200), were received or made and the amount contributed or
+11 expended by each person or source. If such an expenditure constitutes a significant disbursement
+12 to a controlling person within the meaning of § 17-25-7.7, the campaign treasurer shall submit a
+13 separate notice of the significant disbursement to the state board of elections on a form prescribed
+14 by the board affirmatively demonstrating that the requirements of § 17-25-7.7(c) were satisfied.
+15 The report shall be filed with the board of elections on the dates designated in § 17-25-11. The
+16 campaign treasurer of the candidate or committee reporting shall certify to the correctness of each
+17 report. Notwithstanding any other provisions contained in this title, this subsection shall apply to
+18 any person or entity advocating the approval or rejection of any question presented to voters at any
+19 financial town meeting, financial town referendum, or other election at which amendments to a city
+20 or town charter are proposed, which shall file reports of contributions or expenditures in accordance
+21 with the filing schedule established by § 17-25-11 if the total of the money so expended exceeds
+22 two hundred dollars ($200), in a calendar year. As used in this subsection, the word “entity” means
+23 any political action committee, political party committee, authorized campaign committee of a
+24 candidate or officer holder, corporation, whether for profit, not-for-profit, or exempt nonprofit
+25 pursuant to 26 U.S.C. § 501(c)(3) of the Internal Revenue Code, domestic corporation or foreign
+26 corporation, as defined in § 7-1.2-106, financial institution, cooperative, association, receivership,
+27 partnership, committee, union, charity, trust, holding company, firm, joint stock company, public
+28 utility, sole proprietorship, limited partnership, or any other entity recognized by the laws of the
+29 United States and/or the state of Rhode Island.
+30 (b) Each state and municipal committee of a political party shall also file with the board of
+31 elections, not later than March 1 of each year, an annual report setting forth in the aggregate all
+32 contributions received and all expenditures made during the previous calendar year, whether or not
+33 these expenditures were made, incurred, or authorized in furtherance of the election or defeat of
+34 any candidate. The treasurer of the committee or organization reporting shall certify to the
+LC004361 - Page 7 of 22
+
+1 correctness of each report.
+2 (c)(1) Any report filed pursuant to the provisions of this section shall include expenditures
+3 or disbursements paid on behalf of or for the benefit of the reporting person by an agent or
+4 independent contractor, including a vendor.
+5 (2) An agent or contractor, including a vendor, who makes an expenditure or disbursement
+6 on behalf of or for the benefit of a committee or person that is required to be reported under this
+7 section shall promptly make known to the reporting committee or person all the information
+8 required for reporting the expenditure or disbursement.
+9 (3) If the electronic campaign finance reporting system is technologically capable of
+10 displaying or otherwise providing information required by subsection (c) of this section to the
+11 public, the state board of elections shall provide online public access to such information through
+12 the system. If the electronic campaign finance reporting system is not technologically capable of
+13 providing such information to the public, the board shall create an interim procedure for the public
+14 to obtain the information reported under subsection (c) of this section.
+15 (c)(d) Any report filed pursuant to the provisions of this section shall include contributions
+16 received from any “testimonial affair,” as defined in § 17-25-3, held since the date of the most
+17 recent report filed.
+18 17-25-10. Lawful methods of contributing to support of candidates — Reporting —
+19 Disposition of anonymous contributions.
+20 (a) No contribution shall be made or received, and no expenditures shall be directly made
+21 or incurred, to support or defeat a candidate except through:
+22 (1) The candidate or duly appointed campaign treasurer or deputy campaign treasurer of
+23 the candidate;
+24 (2) The duly appointed campaign treasurer or deputy campaign treasurer of a political party
+25 committee;
+26 (3) The duly appointed campaign treasurer or deputy campaign treasurer of a political
+27 action committee.
+28 (b) Any settlement of accounts payable between a creditor and a candidate, candidate
+29 committee, political action committee, or political party committee, for less than the full amount
+30 owed shall comply with the applicable contribution limitations under this chapter. The state board
+31 of elections may determine that a settlement of accounts payable for less than the full amount owed
+32 falls within the creditor's normal business practices and therefore, does not constitute a
+33 contribution, subject to the applicable contribution limitations under this chapter.
+34 (1) Any accounts payable by a candidate, candidate committee, political action committee
+LC004361 - Page 8 of 22
+
+1 or political party committee shall be considered a contribution received in-kind if the accounts
+2 payable remains outstanding, in full or in part, for a period of time that exceeds that which the
+3 entity to whom payment is owed permits for persons that are not candidates, political action
+4 committees or political party committees.
+5 (2) Notwithstanding subsection (b)(1) of this section, if any accounts payable by a
+6 candidate, candidate committee, political action committee or political party committee remain
+7 outstanding for one hundred twenty (120) days, the candidate, political action committee, or
+8 political party shall submit a notice to the state board of elections within seventy-two (72) hours on
+9 a form prescribed by the board, detailing the amount and purpose of such accounts payable and the
+10 arrangements made for discharge of the unpaid amount. Any accounts payable by a candidate
+11 political action committee or political party committee shall be considered a contribution received
+12 in-kind, if the account remains unpaid, in full or in part, for more than one hundred eighty (180)
+13 days.
+14 (3) Any accounts payable by a candidate, candidate committee, political action committee
+15 or political party committee that is considered a contribution received in-kind pursuant to
+16 subsections (b)(1) and (b)(2) of this section is subject to contribution limitations under § 17-25-
+17 10.1 and the penalties provided in § 17-25-13 for any resulting violation of that provision.
+18 (b)(c) It shall be lawful for any person, not otherwise prohibited by law and not acting in
+19 concert with any other person or group, to expend personally from that person’s own funds a sum
+20 that is not to be repaid to him or her for any purpose not prohibited by law to support or defeat a
+21 candidate; provided, that any person making the expenditure shall be required to report all of his or
+22 her expenditures and expenses, if the total of the money so expended exceeds one hundred dollars
+23 ($100) within a calendar year, to the board of elections within seven (7) days of making the
+24 expenditure and to the campaign treasurer of the candidate or political party committee on whose
+25 behalf the expenditure or contribution was made, or to his or her deputy, within seven (7) days of
+26 making the expenditure. The treasurer or his or her deputy shall cause the expenditures and
+27 expenses to be included in his or her reports to the board of elections. Whether a person is “acting
+28 in concert with any other person or group” for the purposes of this subsection shall be determined
+29 by application of the standards set forth in § 17-25-23.
+30 (c)(d) Any anonymous contribution received by a candidate, campaign treasurer, or deputy
+31 campaign treasurer shall not be used or expended, but shall be returned to the donor, if the donor’s
+32 identity can be ascertained; if not, the contribution shall escheat to the state.
+33 17-25-10.1. Political contributions — Limitations.
+34 (a)(1) No person, other than the candidate to his or her own campaign, nor any political
+LC004361 - Page 9 of 22
+
+1 action committee shall make a contribution or contributions to any candidate, as defined by § 17-
+2 25-3, or political action committee or political party committee that, in the aggregate, exceed two
+3 thousand dollars ($2,000) within a calendar year; nor shall any political action committee make
+4 such contributions that in the aggregate, exceed twenty-five thousand dollars ($25,000) within a
+5 calendar year; nor shall any candidate or any political action committee or any political party
+6 committee accept a contribution or contributions that, in the aggregate, exceed two thousand dollars
+7 ($2,000) within a calendar year from any one person or political action committee.
+8 (2) Notwithstanding the provisions of subsection (a)(1) of this section, a person or political
+9 action committee or political party committee may contribute an amount that in the aggregate, does
+10 not exceed ten thousand dollars ($10,000) within a calendar year to a political party committee,
+11 which funds can be utilized for organizational and party building activities, but shall not be used
+12 for contributions to candidates state and local for public office.
+13 (b) Contributions to a named candidate made to any political committee authorized by that
+14 candidate to accept contributions on the candidate’s behalf shall be considered to be contributions
+15 made to the candidate. Contributions to a candidate by a political committee for another person
+16 shall be considered to be contributions by that person.
+17 (c) Expenditures made by any person in cooperation, consultation, or concert with, or at
+18 the request or suggestion of, a candidate, the candidate’s authorized political committees, or their
+19 agents shall be considered to be a contribution to the candidate.
+20 (d) The financing by any person of the dissemination, distribution, or republication, in
+21 whole or in part, of any broadcast or any written, graphic, or other form of campaign materials
+22 prepared by the candidate, the candidate’s campaign committees, or their authorized agents shall
+23 be considered to be a contribution to a candidate.
+24 (e) Nothing in this section shall be construed to restrict political party committees
+25 organized pursuant to this title from making contributions to the candidates of that political party;
+26 provided, that these contributions, other than allowable “in-kind” contributions, shall not exceed,
+27 in the aggregate, twenty-five thousand dollars ($25,000) to any one candidate within a calendar
+28 year; nor shall any candidate accept a contribution or contributions, other than allowable “in-kind”
+29 contributions, that, in the aggregate, exceed twenty-five thousand dollars ($25,000) within a
+30 calendar year from all committees of his or her political party. There shall be no restriction on the
+31 amount of “in-kind” contributions that a political party committee may make to a candidate of its
+32 political party; provided, that for the purposes of this subsection only, the cost of any preparation
+33 and airing of television and/or radio advertisements and the cost of any print advertisements shall
+34 not be considered an allowable “in-kind” contribution and shall be subject to the aggregate
+LC004361 - Page 10 of 22
+
+1 limitation of twenty-five thousand dollars ($25,000).
+2 (f)(1) A contribution from an individual’s dependent children, as defined in § 36-14-2, shall
+3 be deemed a contribution from the individual for the purpose of determining whether aggregate
+4 contributions exceed either the two hundred dollar ($200) threshold for reporting purposes or the
+5 two thousand dollar ($2,000) maximum for contributions to a single candidate or political action
+6 committee within a calendar year.
+7 (2) No dependent child shall contribute an amount that, when added to contributions
+8 already made by that child’s parent or legal guardian and by other dependent children of that parent
+9 or legal guardian, exceed the two thousand dollar ($2,000) maximum for contributions to a single
+10 candidate or political action committee within a calendar year.
+11 (g) Nothing in this section shall be construed to restrict the amount of money that a
+12 candidate can borrow in his or her own name, and subsequently contribute or loan to his or her own
+13 campaign.
+14 (h)(1) It shall be unlawful for any corporation, whether profit or non-profit, domestic
+15 corporation or foreign corporation, as defined in § 7-1.2-106, or other business entity to make any
+16 campaign contribution or expenditure, as defined in § 17-25-3, to or for any candidate, political
+17 action committee, or political party committee, or for any candidate, political action committee, or
+18 political party committee to accept any campaign contribution or expenditure from a corporation
+19 or other business entity. Any contribution made in the personal name of any employee of a
+20 corporation or other business entity, for which the employee received or will receive reimbursement
+21 from the corporation or other business entity, shall be considered as a contribution by the
+22 corporation or other business entity, in violation of this section.
+23 (2) Any voluntary payroll deduction and/or contribution made by employees of a
+24 corporation or other business entity shall not be deemed a contribution of a corporation or other
+25 business entity, notwithstanding that the contributions were sent to the recipient by the corporation
+26 or other business entity.
+27 (i) All contributions of funds shall be by check, money order, or credit card and may be
+28 made over the internet, but in each case the source of the funds must be identified; provided, that
+29 candidates, political action committees, and political party committees may accept contributions in
+30 cash that do not exceed twenty-five dollars ($25.00) in the aggregate from an individual within a
+31 calendar year. The cash contribution must be delivered directly by the donor to the candidate, the
+32 campaign treasurer, or deputy treasurer. The treasurer or deputy treasurer shall maintain a record
+33 of the name and address of all persons making these cash contributions.
+34 (j) Except as provided in subsection (h) of this section, no entity other than an individual,
+LC004361 - Page 11 of 22
+
+1 a political action committee which is duly registered and qualified pursuant to the terms of this
+2 chapter, political party committee authorized by this title, or an authorized committee of an elected
+3 official or candidate established pursuant to this chapter shall make any contribution to or any
+4 expenditure on behalf of or in opposition to any candidate, political action committee, or political
+5 party.
+6 (k) For purposes of the limitations imposed by this section, all contributions made by a
+7 person, either directly or indirectly, on behalf of a particular candidate, including contributions that
+8 are in any way earmarked or otherwise directed through an intermediary or conduit to such
+9 candidate, shall be treated as contributions from such person to such candidate. The intermediary
+10 or conduit shall report the original source and the intended recipient of such contribution to the
+11 board of elections and to the intended recipient, in accordance with regulations and reporting
+12 requirements promulgated by the board of elections.
+13 (l) For purposes of the limitations on contributions provided by this chapter, all
+14 contributions made by political committees established, financed, maintained, or controlled by the
+15 same person or the same group of persons shall be considered to have been made by a single
+16 political committee.
+17 17-25-11. Dates for filing of reports by treasurers of candidates or of committees.
+18 (a) During the period between the appointment of the campaign treasurer for state and
+19 municipal committees and political action committees, or in the case of an individual the date on
+20 which the individual becomes a “declared or undeclared candidate” as defined in § 17-25-3(3),
+21 except when the ninety-day (90) reporting period ends less than forty (40) days prior to an election
+22 in which case the ninety-day (90) report shall be included as part of the report required to be filed
+23 on the twenty-eighth (28th) day next preceding the day of the primary, general, or special election
+24 pursuant to subsection (a)(2) of this section, and the election, with respect to which contributions
+25 are received, accounts payable, or expenditures made by him or her in behalf of, or in opposition
+26 to, a candidate, the campaign treasurer of a candidate, a political party committee, or a political
+27 action committee shall file a report containing an account of contributions received, and
+28 expenditures made, on behalf of, or in opposition to, a candidate:
+29 (1) At ninety-day (90) intervals commencing on the date on which the individual first
+30 becomes a candidate, as defined in § 17-25-3(3);
+31 (2) In a contested election, on the twenty-eighth (28th) and seventh (7th) days next
+32 preceding the day of the primary, general, or special election; provided, that in the case of a primary
+33 election for a special election where the twenty-eighth (28th) day next preceding the day of the
+34 primary election occurs prior to the first day for filing declarations of candidacy pursuant to § 17-
+LC004361 - Page 12 of 22
+
+1 14-1, the reports shall be due on the fourteenth (14th) and seventh (7th) days next preceding the
+2 day of the primary election for the special election; and
+3 (3) A final report on the twenty-eighth (28th) day following the election. The report shall
+4 contain:
+5 (i) The name and address and place of employment of each person from whom
+6 contributions in excess of a total of two hundred dollars ($200), within a calendar year were
+7 received;
+8 (ii) The amount contributed by each person;
+9 (iii) The name and address of each person to whom expenditures in excess of two hundred
+10 dollars ($200), were made; and
+11 (iv) The amount and purpose of each expenditure; and
+12 (v) For any accounts payable outstanding at the time of the final report, the amount and
+13 purpose of such accounts payable.
+14 (b) Concurrent with the report filed on the twenty-eighth (28th) day following an election,
+15 or at any time thereafter, the campaign treasurer of a candidate, or political party committee, or
+16 political action committee, may certify to the board of elections that the campaign fund of the
+17 candidate, political party committee, or political action committee having been instituted for the
+18 purposes of the past election, has completed its business and been dissolved or, in the event that
+19 the committee will continue its activities beyond the election, that its business regarding the past
+20 election has been completed. The certification shall be accompanied by a final accounting of the
+21 campaign fund, or of the transactions relating to the election, including the final disposition of any
+22 balance remaining in the fund at the time of dissolution or the arrangements that have been made
+23 for the discharge of any obligations remaining unpaid at the time of dissolution. Any committee
+24 that reports accounts payable cannot be dissolved until such accounts are fully paid.
+25 (c)(1) Once the campaign treasurer certifies that the campaign fund has completed its
+26 business and been dissolved, no contribution that is intended to defray expenditures incurred on
+27 behalf of, or in opposition to, a candidate during the campaign can be accepted. Until the time that
+28 the campaign treasurer certifies that the campaign fund has completed its business and been
+29 dissolved, the treasurer shall file reports containing an account of contributions received and
+30 expenditures made at ninety-day (90) intervals commencing with the next quarterly report
+31 following the election; however, the time to file under this subsection shall be no later than the last
+32 day of the month following the ninety-day (90) period, except when the last day of the month filing
+33 deadline following the ninety-day (90) reporting period occurs less than twenty-eight (28) days
+34 before an election, in which case the report shall be filed pursuant to the provisions of subsections
+LC004361 - Page 13 of 22
+
+1 (a)(1) and (a)(2) of this section. Provided, however, if the last day of the month falls on a weekend
+2 or a holiday, the report shall be due on the following business day.
+3 (2) In addition to the reports required pursuant to this section, a candidate or office holder
+4 shall also file with the board of elections a paper copy of the account statement from the office
+5 holder’s campaign account, which account statement shall be the next account statement issued by
+6 their financial institution after the filing of the fourth quarterly campaign expense report. The
+7 account statement shall be submitted to the board within thirty (30) days of its receipt by the
+8 candidate, officeholder, treasurer, or deputy treasurer. The account statement shall not be deemed
+9 a public record pursuant to the provisions of chapter 2 of title 38. The board of elections, its agents,
+10 and employees shall not publish, deliver, copy, or disclose, to any person or entity any account
+11 statement or information contained therein for any candidate, former candidate, officeholder, party,
+12 or political action committee. Provided, as to state and municipal political parties, the requirements
+13 of this subsection (c)(2) shall apply to the annual report required pursuant to § 17-25-7.
+14 (d)(1) There shall be no obligation to file the reports of expenditures required by this
+15 section on behalf of, or in opposition to, a candidate if the total amount to be expended in behalf of
+16 the candidacy by the candidate, by any political party committee, by any political action committee,
+17 or by any person shall not in the aggregate exceed two thousand dollars ($2,000).
+18 (2) However, even though the aggregate amount expended on behalf of the candidacy does
+19 not exceed two thousand dollars ($2,000), reports must be made listing the source and amounts of
+20 all contributions in excess of a total of two hundred dollars ($200) from any one source, within a
+21 calendar year. Even though the aggregate amount expended on behalf of the candidacy does not
+22 exceed two thousand dollars ($2,000) and no contribution from any one source, within a calendar
+23 year two hundred dollars ($200), the report shall state the aggregate amount of all contributions
+24 received. In addition, the report shall state the amount of aggregate contributions that were from
+25 individuals, the amount from political action committees, and the amount from political party
+26 committees.
+27 (e) On or before the first date for filing contribution and expenditure reports, the campaign
+28 treasurer may file a sworn statement that the treasurer will accept no contributions nor make
+29 aggregate expenditures in excess of the minimum amounts for which a report is required by this
+30 chapter. Thereafter, the campaign treasurer shall be excused from filing all the reports for that
+31 campaign, other than the final report due on the twenty-eighth (28th) day following the election.
+32 (f) A campaign treasurer must file a report containing an account of contributions received
+33 and expenditures made at the ninety-day (90) intervals provided for in subsection (c) of this section
+34 for any ninety-day (90) period in which the campaign received contributions in excess of a total of
+LC004361 - Page 14 of 22
+
+1 two hundred dollars ($200), within a calendar year from any one source and/or made expenditures
+2 in excess of two thousand dollars ($2,000) within a calendar year; however, the time to file under
+3 this subsection shall be no later than the last day of the month following the ninety-day (90) period,
+4 except when the last day of the month filing deadline following the ninety-day (90) reporting period
+5 occurs less than twenty-eight (28) days before an election, in which case the report shall be filed
+6 pursuant to the provisions of subsections (a)(1) and (a)(2) of this section. Provided, however, if the
+7 last day of the month falls on a weekend or a holiday, the report shall be due on the following
+8 business day.
+9 (g)(1) The board of elections may, for good cause shown and upon the receipt of a written
+10 or electronic request, grant a seven-day (7) extension for filing a report; provided, that the request
+11 must be received no later than the date upon which the report is due to be filed.
+12 (2) Any person or entity required to file reports with the board of elections pursuant to this
+13 section and who or that has not filed the report by the required date, unless granted an extension
+14 pursuant to subsection (g)(1) of this section, shall be fined twenty-five dollars ($25.00).
+15 Notwithstanding any of the provisions of this section, the board of elections shall have the authority
+16 to waive late filing fees for good cause shown.
+17 (3) The board of elections shall send a notice of non-compliance, by certified mail, to any
+18 person or entity who or that fails to file the reports required by this section. A person or entity who
+19 or that is sent a notice of non-compliance and fails to file the required report within seven (7) days
+20 of the receipt of the notice, shall be fined two dollars ($2.00) per day from the day of receipt of the
+21 notice of non-compliance until the day the report has been received by the state board.
+22 Notwithstanding any of the provisions of this section, the board of elections shall have the authority
+23 to waive late filing fees for good cause shown.
+24 17-25-12. Prohibited contributions.
+25 (a) No contributions shall be made, and no expenditure shall be made or incurred, whether
+26 anonymously, in a fictitious name, or by one person or group in the name of another, to support or
+27 defeat a candidate in a primary, general, or special election. No person or group shall knowingly
+28 help or assist any other person or group in making a contribution or expenditure contrary to the
+29 provisions of this section. No treasurer or candidate shall solicit or knowingly accept any
+30 contribution contrary to the provisions of this section.
+31 (b) Notwithstanding the provisions of § 17-25-13:
+32 (1) Any person or group who violates the provisions of this section shall be fined not less
+33 than the amount contributed, and not more than two thousand dollars ($2,000) or double the amount
+34 contributed, whichever is greater.
+LC004361 - Page 15 of 22
+
+1 (2) Any person or group who willfully and knowingly violates the provisions of this section
+2 shall upon conviction be guilty of a misdemeanor and shall be fined not less than double the amount
+3 contributed and not more than ten thousand dollars ($10,000) or triple the amount contributed,
+4 whichever is greater.
+5 (3) The state board of elections may impose civil fines as described in subsection (b)(1) of
+6 this section and order disgorgement of contributions to the general fund.
+7 SECTION 2. Section 17-25.3-1 of the General Laws in Chapter 17-25.3 entitled
+8 "Independent Expenditures and Electioneering Communications" is hereby amended to read as
+9 follows:
+10 17-25.3-1. Independent expenditures and electioneering communications for
+11 elections.
+12 (a) It shall be lawful for any person, business entity or political action committee, not
+13 otherwise prohibited by law and not acting in coordination with a candidate, authorized candidate
+14 campaign committee, political action committee, or political party committee, to expend personally
+15 from that person’s own funds a sum which is not to be repaid to him or her for any purpose not
+16 prohibited by law to support or defeat a candidate or referendum. Whether a person, business entity
+17 or political action committee is “acting in coordination with a candidate, authorized candidate
+18 campaign committee, political action committee or political party committee” for the purposes of
+19 this subsection shall be determined by application of the standards set forth in § 17-25-23. All terms
+20 used in this chapter shall have the same meaning as defined in § 17-25-3.
+21 (b) Any person, business entity or political action committee making independent
+22 expenditures, electioneering communications, or covered transfers shall report all such campaign
+23 finance expenditures and expenses to the board of elections, provided the total of the money so
+24 expended exceeds one thousand dollars ($1,000) within a calendar year, to the board of elections
+25 within seven (7) days of making the expenditure.
+26 (c) A person, business entity or political action committee who makes or contracts to make
+27 independent expenditures, electioneering communications, or covered transfers with an aggregate
+28 value of one thousand dollars ($1,000) or more shall electronically file a campaign finance report
+29 to the board of elections describing the expenditures.
+30 (d) After a person, business entity or political action committee files a report under
+31 subsection (b), the person, business entity or political action committee shall file an additional
+32 report after each time the person, business entity or political action committee makes or contracts
+33 to make independent expenditures, electioneering communications, or covered transfers
+34 aggregating an additional one thousand dollars ($1,000) with respect to the same election as that to
+LC004361 - Page 16 of 22
+
+1 which the initial report relates.
+2 (e) When a report is required by subsection (c) or (d) of this section within thirty (30) days
+3 prior to the election to which the expenditure was directed, it shall be filed within twenty-four (24)
+4 hours of the expenditure. When such a report is required at any other time, it shall be filed within
+5 seven (7) days after the expenditure.
+6 (f) Reports of independent expenditures, electioneering communications, or covered
+7 transfers by a person shall contain the name, street address, city, state, zip code, occupation,
+8 employer (if self-employed, the name and place of business), of the person responsible for the
+9 expenditure, the name, street address, city, state, and zip code of the person receiving the
+10 expenditure the date and amount of each expenditure, and the year to date total.
+11 (1) Any report filed pursuant to the provisions of this section shall include expenditures or
+12 disbursements paid on behalf of or for the benefit of the reporting person, by an agent or
+13 independent contractor including a vendor.
+14 (2) An agent or contractor including a vendor, who makes an expenditure or disbursement
+15 on behalf of or for the benefit of a committee or person, that is required to be reported under this
+16 section, shall promptly make known to the reporting committee or person all the information
+17 required for reporting the expenditure or disbursement.
+18 (3) If the electronic campaign finance reporting system is technologically capable of
+19 displaying or otherwise providing the information required by this subsection to the public, the
+20 state board of elections shall provide online public access to such information through the system.
+21 If the electronic campaign finance reporting system is not technologically capable of providing
+22 such information to the public, the board shall create an interim procedure for the public to obtain
+23 the information reported under this subsection.
+24 (g) The report shall also include a statement identifying the candidate or referendum that
+25 the independent expenditure or electioneering communication is intended to promote the success
+26 or defeat, and affirm under penalty of false statement that the expenditure is not coordinated with
+27 the campaign in question, and provide any information that the board of elections requires to
+28 facilitate compliance with the provisions of this chapter.
+29 (h) Reports of independent expenditures, electioneering communications, or covered
+30 transfers by a person, business entity or political action committee shall also disclose the identity
+31 of all donors of an aggregate of one thousand dollars ($1,000) or more to such person, business
+32 entity or committee within the current election cycle, if applicable, unless the person, business
+33 entity or political action committee has established a separate campaign-related account for
+34 independent expenditures, electioneering communications, and covered transfers as detailed in §
+LC004361 - Page 17 of 22
+
+1 17-25.3-2 in which case this paragraph applies only to donors to the person’s, business entity’s or
+2 political action committee’s separate campaign-related account; provided that no person, business
+3 entity, or political action committee shall be required to disclose in a report to the board of elections
+4 the identity, which includes name, address, place of employment, and donation amount, of any
+5 donor who makes no donation to such person, business entity, or political action committee after
+6 the date of enactment of this section.
+7 (i) If a person, business entity or political action committee and a donor mutually agree, at
+8 the time a donation, payment, or transfer to the person, business entity or political action committee
+9 which is required to disclose the identification under subsection (f) that the person, business entity
+10 or political action committee will not use the donation, payment, or transfer for independent
+11 expenditures, electioneering communications, or covered transfers, then not later than thirty (30)
+12 days after the person, business entity or political action committee receives the donation, payment,
+13 or transfer the person, business entity or political action committee shall transmit to the donor a
+14 written certification by the chief financial officer of the person, business entity or political action
+15 committee (or, if the organization does not have a chief financial officer, the highest ranking
+16 financial official of the organization) that:
+17 (1) The person, business entity or political action committee will not use the donation,
+18 payment, or transfer for independent expenditures, electioneering communications, or covered
+19 transfers; and
+20 (2) The person, business entity or political action committee will not include any
+21 information on the donor in any report filed by the person, business entity or political action
+22 committee under this section with respect to independent expenditures, electioneering
+23 communications, or covered transfers, so that the donor will not be required to appear in the list of
+24 donors.
+25 (3) Exception for payments made pursuant to commercial activities. Subsections (e) and
+26 (f) do not apply with respect to any payment or transfer made pursuant to commercial activities in
+27 the regular course of a person’s, business entity’s or political action committee’s business.
+28 (j) For the purposes of this chapter, two (2) or more entities (other than an exempt nonprofit
+29 as defined in § 17-25-3 or an organization described in § 501(c)(3) of the Internal Revenue Code
+30 of 1986, or any subsequent corresponding internal revenue code of the United States, as amended
+31 from time to time) are treated as a single entity if the entities:
+32 (1) Share the majority of members on their boards of directors;
+33 (2) Share two (2) or more officers;
+34 (3) A candidate committee and a political committee other than a candidate committee are
+LC004361 - Page 18 of 22
+
+1 for the purposes of this section treated as a single committee if the committees both have the
+2 candidate or a member of the candidate’s immediate family as an officer;
+3 (4) Are owned or controlled by the same majority shareholder or shareholders or persons;
+4 (5) Are in a parent-subsidiary relationship; or
+5 (6) Have bylaws so stating.
+6 (k) No donation, payments, or transfers shall be made, and no expenditure shall be made
+7 or incurred, anonymously, in a fictitious name, or by one person or group in the name of another,
+8 for the making of an independent expenditure or electioneering communication under this section.
+9 No person or group shall knowingly permit the use of the person's or group's name to effect any
+10 donation, payment, transfer, or expenditure contrary to the provisions of this section. No person or
+11 group shall knowingly help or assist any other person or group in making any donation, payment,
+12 transfer, or expenditure, contrary to the provisions of this section. No person, business entity, or
+13 political action committee shall solicit or knowingly accept any donation, payment, or transfer,
+14 contrary to the provisions of this section.
+15 (l) Notwithstanding § 17-25.3-4:
+16 (1) Any person, business entity, or political action committee who violates the provisions
+17 of subsection (k) of this section shall be fined not less than the amount contributed, and not more
+18 than two thousand ($2,000) or double the amount contributed, whichever is greater.
+19 (2) Any person, business entity, or political action committee who willfully and knowingly
+20 violates the provisions of subsection (k) of this section shall upon conviction be guilty of a
+21 misdemeanor and fined not less than double the amount contributed and not more than ten thousand
+22 dollars ($10,000) or triple the amount contributed, whichever is greater.
+23 (3) The state board of elections may impose civil fines, as described in subsection (l)(1) of
+24 this section and order disgorgement of donations, payments, or transfers in violation of this section
+25 to the general fund.
+26 SECTION 3. Chapter 17-25 of the General Laws entitled "Rhode Island Campaign
+27 Contributions and Expenditures Reporting" is hereby amended by adding thereto the following
+28 section:
+29 17-25-7.7. Self-dealing with committee funds prohibited.
+30 (a) A contribution or donation received by a committee may be used for any purpose that
+31 would otherwise be lawful under this chapter, unless prohibited by subsections (b) or (d) of this
+32 section.
+33 (b) Self-dealing by any controlling person of contributions or donations received by a
+34 committee is prohibited. For the purposes of this section, the use of a contribution or donation shall
+LC004361 - Page 19 of 22
+
+1 be presumed to be self-dealing, if the contribution or donation is used to make a significant
+2 disbursement to a controlling person.
+3 (c) The presumption in subsection (b) of this section may be rebutted upon a showing that:
+4 (1) The significant disbursement to the controlling person is a bona fide payment for goods
+5 or services, at no greater than fair market value;
+6 (2) The significant disbursement was negotiated at arms' length by and approved by an
+7 agent of the committee, who was neither the controlling person nor in an employment relationship
+8 directly or indirectly subject to the direction or control of the controlling person;
+9 (3) The agent who negotiated and approved the significant disbursement obtained and
+10 relied upon appropriate data as to fair market value prior to approving the disbursement;
+11 (4) The agent documented the basis for the approval determination concurrently with
+12 making that determination; and
+13 (5) At the time the significant disbursement was made, the aggregate total of itemized
+14 contributions to the committee during the election cycle, exceeded the aggregate total of
+15 disbursements to controlling persons by the committee during the election cycle.
+16 (d) In addition to the presumption in subsection (b) of this section, the use of contributions
+17 or donations for the following purposes to benefit a controlling person shall be considered self-
+18 dealing and is specifically prohibited.
+19 (1) Any residential or household items, supplies, or expenditures, including mortgage, rent,
+20 or utility payments for any part of any personal residence;
+21 (2) Mortgage, rent, or utility payments for any part of any nonresidential property, that is
+22 owned by a controlling person and used for campaign purposes, to the extent the payments exceed
+23 the fair-market value of the property usage;
+24 (3) Funeral, cremation, or burial expenses, including any expenses related to deaths within
+25 a controlling person's family;
+26 (4) Clothing, other than items of de minimis value that are used in the campaign;
+27 (5) Tuition payments;
+28 (6) Dues, fees, or gratuities at a country club, health club, recreational facility or other
+29 nonpolitical organization, unless they are part of a specific fundraising event that takes place on the
+30 organization's premises;
+31 (7) Admission to a sporting event, concert, theater, or other form of entertainment, unless
+32 part of a specific campaign or officeholder activity; and
+33 (8) Payment of any fines, fees, or penalties assessed, pursuant to this chapter.
+34 (e) For purposes of this section:
+LC004361 - Page 20 of 22
+
+1 (1) "Agent" means any person with actual authority, whether express or implied, to engage
+2 in activities on behalf of another person.
+3 (2) "Committee" means an authorized campaign committee of a candidate or officeholder,
+4 a political action committee, or a political party committee.
+5 (3) "Controlling person" means any person who has authority or ability to direct or control
+6 the committee's disbursements, any family member or business partner of such person, and any
+7 business entity or other entity owned or controlled, in whole or in part, by such person, family
+8 member, or business partner.
+9 (4) "Significant disbursement" means a disbursement that exceeds one thousand dollars
+10 ($1,000) or, when aggregated with all other disbursements by the committee to the recipient within
+11 the calendar year, exceeds five thousand dollars ($5,000).
+12 (f) Nothing in this section shall be construed to permit otherwise prohibited personal uses
+13 of campaign funds under § 17-25-7.2.
+14 SECTION 4. This act shall take effect upon passage.
+========
+LC004361
+========
+LC004361 - Page 21 of 22
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO ELECTIONS -- RHODE ISLAND CAMPAIGN CONTRIBUTIONS AND
+EXPENDITURES REPORTING
+***
+1 This act would amend various sections of law relating to campaign contributions and
+2 expenditures, including prohibitions on self-dealing with committee funds and would prohibit
+3 donations made in fictitious names. This act would also provide that for purposes of the limitations
+4 on contributions, all contributions made by political committees established, financed, maintained,
+5 or controlled by the same person or the same group of persons shall be considered to have been
+6 made by a single political committee.
+7 This act would take effect upon passage.
+========
+LC004361
+========
+LC004361 - Page 22 of 22

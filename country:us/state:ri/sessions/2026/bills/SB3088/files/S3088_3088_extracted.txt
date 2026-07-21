@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - 3088
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3088
+========
+LC006057
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- EQUITABLE FUNDING FOR HEALTHCARE PROVIDER
+BAD DEBT
+Introduced By: Senators Dimitri, Patalano, LaMountain, Bissaillon, Quezada,
+McKenney, and Raptakis
+Date Introduced: March 13, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 27 of the General Laws entitled "INSURANCE" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 18.10
+4 EQUITABLE FUNDING FOR HEALTHCARE PROVIDER BAD DEBT
+5 28-18.10-1. Definitions.
+6 When used in this chapter, the following words and phrases are construed as follows:
+7 (1) “Co-insurance” means a percentage of the allowed amount, after a co-payment, if any,
+8 that an insured must pay for covered services received under a health benefit plan for healthcare
+9 services provided and billed by a healthcare provider.
+10 (2) “Co-payment” means a fixed dollar amount that is owed by an insured as required under
+11 a health benefit plan for healthcare services provided and billed by a healthcare provider.
+12 (3) “Deductible” means a specific dollar amount that an insured must pay for covered
+13 services before the health insurer’s health benefit plan becomes obligated to pay for covered
+14 healthcare services provided and billed by a healthcare provider; such deductible does not include
+15 any portion of premiums paid by an insured.
+16 (4) “Health insurance commissioner” means that individual appointed pursuant to § 42-
+17 14.5-1.
+18 28-18.10-2. Reimbursement.
+
+1 (a) Notwithstanding any other provision of the general laws to the contrary, a health insurer
+2 shall reimburse a healthcare provider no less than sixty-five percent (65%) of each co-payment, co-
+3 insurance and/or deductible amount due under an insured’s health benefit plan which is unpaid after
+4 reasonable collection efforts have been made by the healthcare provider pursuant to subsection (b)
+5 of this section.
+6 (b) Reimbursement for uncollected co-payment, co-insurance and/or deductible amounts
+7 due (each a “claim”) under an insured’s health benefit plan for covered services rendered shall be
+8 deemed an uncollectible bad debt, and a healthcare provider may submit a request for
+9 reimbursement to the health insurer under the following conditions:
+10 (1) The claim must be derived from the wholly or partially uncollected co-payment, co-
+11 insurance and/or deductible amounts under an insured’s health benefit plan;
+12 (2) The reimbursement requested by the healthcare provider shall be for a claim where the
+13 co-payment, co-insurance, or deductible amount was at least two hundred fifty dollars ($250), and
+14 each claim reflects a unique covered service under the health benefit plan per insured;
+15 (3) The healthcare provider must have made reasonable collection efforts for each claim
+16 filed for reimbursement under this section, such efforts including documentation that the claim has
+17 remained partially or fully unpaid and is not subject to an ongoing payment plan for more than one
+18 hundred twenty (120) days from the date the first bill was mailed, which may include such efforts
+19 as telephone calls, collection letters, or any other notification method that constitutes a genuine and
+20 continuous effort to contact the member. Said documentation shall include the date and method of
+21 contact;
+22 (4) On or before May 1 of each year, the healthcare provider shall submit an aggregate
+23 request for reimbursement representing all claims that meet the criteria under this section in the
+24 prior calendar year. The request for reimbursement shall include documentation of the attempt to
+25 collect on the claim(s), the name and identification number of the insured, the date of service, the
+26 unpaid co-payment, co-insurance, or deductible, the amount that was collected, if any, and the date
+27 and general method of contact with the insured. For the purposes of this section, an insured co-
+28 payment, co-insurance, and/or deductible amount due shall be determined based on the date that
+29 the service is rendered; provided, further, that a health insurer shall not prohibit reimbursement if
+30 the insured is no longer covered by the plan on the date that the request is made;
+31 (5) Nothing in this section shall prevent the health insurer from conducting an audit of the
+32 request for reimbursement of unpaid co-payment, co-insurance, and/or deductible amounts to verify
+33 that the insured was eligible for coverage at the time of service, that the service was a covered
+34 health benefit under the applicable health benefit plan, and to verify from the provider’s internal
+LC006057 - Page 2 of 4
+
+1 log that reasonable efforts were made to contact the insured following the criteria outlined in this
+2 section. The health insurer must complete any such audit of the submitted report from the healthcare
+3 provider and notify the healthcare provider of any disputes as to the request for reimbursement
+4 within one hundred twenty (120) days of receipt of the request for reimbursement from the
+5 healthcare provider. The health insurer shall pay the healthcare provider sixty-five percent (65%)
+6 of the undisputed amounts as submitted by the healthcare provider in the request for reimbursement
+7 in accordance with this section within one hundred twenty (120) days of receipt of such requests
+8 from the healthcare provider. Any dispute regarding contested claims shall be subject to a dispute
+9 resolution process applicable to the arrangement between the health insurer and the healthcare
+10 provider; and
+11 (6) Any amounts attributable to co-payment, co-insurance, or deductible amounts collected
+12 by a healthcare provider after reimbursement has been made by the health insurer pursuant to this
+13 section shall be recorded by the healthcare provider and reported as an offset to future submissions
+14 to such health insurer.
+15 (c) No health insurer shall prohibit a healthcare provider from collecting the amount of the
+16 insured’s co-payment, co-insurance, and/or deductible, if any, at the time of service.
+17 (d) The health insurance commissioner shall promulgate regulations, by January 1, 2027,
+18 that are consistent with the rules developed by the Centers for Medicare & Medicaid Services for
+19 reasonable collection efforts required by a healthcare provider prior to submission of a request of
+20 reimbursement to a carrier. Notwithstanding the foregoing, in the event that the health insurance
+21 commissioner fails to promulgate such regulations, the provisions of this chapter shall be self-
+22 implementing, and carriers shall make applicable payments to healthcare providers in accordance
+23 with the provisions of this chapter, utilizing the same process adopted by the Centers for Medicare
+24 & Medicaid Services' reasonable collection efforts for bad debt, as documented in the most recent
+25 Medicare Provider Reimbursement Manual, CMS Pub. 15-1 and 15-2 (HIM-15) in effect, within
+26 ninety (90) days of the effective date of this chapter. The health insurance commissioner shall
+27 further require each carrier to provide the health insurance commissioner with an annual report
+28 showing the total number and amount of uncollected co-payments, co-insurances, and deductibles
+29 that are reimbursed as well as those that are denied. The report shall be made publicly available on
+30 the health insurance commissioner’s website.
+31 SECTION 2. This act shall take effect upon passage.
+========
+LC006057
+========
+LC006057 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- EQUITABLE FUNDING FOR HEALTHCARE PROVIDER
+BAD DEBT
+***
+1 This act would establish a procedure for a health insurer to reimburse a healthcare provider
+2 no less than sixty-five percent (65%) of each unpaid co-payment, co-insurance or deductible
+3 amount due, after reasonable collection efforts.
+4 This act would take effect upon passage.
+========
+LC006057
+========
+LC006057 - Page 4 of 4

@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - 8119
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8119
+========
+LC005399
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- WARRANTLESS PURCHASES
+OF PERSONAL DATA -- THE 4TH AMENDMENT IS NOT FOR SALE ACT
+Introduced By: Representatives Potter, Knight, Ajello, Morales, Dawson, Batista,
+McEntee, Felix, and Place
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings. The general assembly finds and declares as follows:
+2 (1) The Fourth Amendment to the United States Constitution guarantees that “The right of
+3 the people to be secure in their persons, houses, papers, and effects, against unreasonable searches
+4 and seizures, shall not be violated, and no warrants shall issue, but upon probable cause, supported
+5 by oath or affirmation, and particularly describing the place to be searched, and the persons or
+6 things to be seized";
+7 (2) The United States Supreme Court has observed that “Few protections are as essential
+8 to individual liberty as the right to be free from unreasonable searches and seizures. The Framers
+9 made that right explicit in the Bill of Rights following their experience with the indignities and
+10 invasions of privacy wrought by general warrants and warrantless searches that had so alienated
+11 the colonists and had helped speed the movement for independence. Ever mindful of the Fourth
+12 Amendment and its history, the Court has viewed with disfavor practices that permit police officers
+13 unbridled discretion to rummage at will among a person’s private effects.” Byrd v. United States,
+14 138 S. Ct. 1518, 1526 (2018). Accordingly, “As technology has enhanced the Government’s
+15 capacity to encroach upon areas normally guarded from inquisitive eyes, [the United States
+16 Supreme] Court has sought to assure preservation of that degree of privacy against government that
+17 existed when the Fourth Amendment was adopted.” Carpenter v. United States, 138 S.Ct. 2206,
+18 2214 (2018);
+
+1 (3) Law enforcement agencies are increasingly evading warrant requirements by
+2 purchasing personal data from data brokers and other data collectors – a practice that was well-
+3 described by the Project on Government Oversight as follows: “Normally, if law enforcement
+4 officers want to access your [personal] data, they need a warrant. But a glaring loophole in current
+5 law allows law enforcement and government intelligence agencies to pay third party data brokers
+6 to gain access to your private, sensitive [personal] data — no warrant needed. The government can
+7 (and often does) purchase the personal... data of American citizens from unregulated brokers who
+8 offer it up to the highest bidder, all without any court oversight. This is the equivalent of police
+9 bypassing the requirement to get a warrant to search someone’s apartment by simply handing their
+10 landlord an envelope of cash; and
+11 (4) Law enforcement has been able to effectively and efficiently enforce our criminal laws
+12 for more than 230 years without needing to evade Fourth Amendment warrant requirements that
+13 are essential to protecting Americans’ liberty and privacy in the digital age.
+14 SECTION 2. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+15 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+16 CHAPTER 28.11
+17 WARRANTLESS PURCHASES OF PERSONAL DATA
+18 42-28.11-1. Definitions.
+19 As used in this chapter:
+20 (1) “Governmental entity” means an agency, instrumentality, or other entity of the state or
+21 a political subdivision thereof, including multijurisdictional agencies, instrumentalities, and
+22 entities, or any person acting on behalf thereof.
+23 (2) “Law enforcement entity” means an agency or other instrumentality of a governmental
+24 entity, including the employees and agents thereof, that is authorized by law, regulation, or
+25 government policy to engage in or supervise the prevention, detection, investigation, or prosecution
+26 of any violation of criminal law.
+27 (3) “Location information” means information derived or otherwise calculated from the
+28 transmission or reception of any signal that reveals the approximate or actual geographic location
+29 of a customer, subscriber, or device.
+30 (4) “Obtain in exchange for anything of value” means to obtain or receive access to
+31 personal data:
+32 (i) In exchange for money or other valuable consideration;
+33 (ii) In connection with services or benefits being provided as consideration; or
+34 (iii) As part of the provision of a fee, including an access fee, service fee, maintenance fee,
+LC005399 - Page 2 of 6
+
+1 or licensing fee.
+2 (5) “Personal data” means information collected from or generated by a specific person, as
+3 part of a consumer transaction or the use of a consumer product or service, that is linked or
+4 reasonably linkable to that specific person or that specific person’s electronic device. Personal data
+5 shall include, without limitation, a person’s:
+6 (i) Name, billing information, social security number, billing address, or demographic data;
+7 (ii) Web browsing or search history;
+8 (iii) Application usage history;
+9 (iv) Location information;
+10 (v) Financial information;
+11 (vi) Health information;
+12 (vii) Biometric information;
+13 (viii) Characteristics of protected classifications under state or federal law;
+14 (ix) Device identifier, such as a media access control address, international mobile
+15 equipment identity, or Internet protocol address; and
+16 (x) Communications’ content.
+17 (6) "Third party" means a person who:
+18 (i) Is not a governmental entity; and
+19 (ii) Is not the person to whom the personal data pertains.
+20 42-28.11-2. Prohibiting warrantless purchases of personal data.
+21 (a) In connection with any criminal, civil, or other investigatory or enforcement activity:
+22 (1) A law enforcement entity may not obtain or receive access to any individual’s personal
+23 data from a third party in exchange for anything of value.
+24 (2) A law enforcement entity may not request, obtain, or receive access to any individual’s
+25 personal data from any federal, state, or local law enforcement or other government agency or
+26 department if such personal data was obtained from a third party in exchange for anything of value.
+27 (3) A governmental entity, including a law enforcement entity, may not provide or share
+28 with any federal, state, or local law enforcement agency or department any individual’s personal
+29 data that was obtained from a third party in exchange for anything of value.
+30 (4) Subsections (a)(1) through (a)(3) of this section shall not apply where:
+31 (i) The law enforcement entity has obtained a valid, judicially issued, probable cause
+32 warrant for the personal data of a specifically identified, individual(s);
+33 (ii) The law enforcement entity asserts, in good faith, that the exigent circumstance
+34 exception to warrant requirements applies due to an emergency involving imminent danger of death
+LC005399 - Page 3 of 6
+
+1 or serious physical injury to a person that requires disclosure without delay;
+2 (iii) The personal data is lawfully available to the public through government records or
+3 widely distributed media;
+4 (iv) The personal data pertains to a specific individual, was voluntarily made available to
+5 the public by that specific individual, and was obtained in compliance with all applicable laws,
+6 regulations, contracts, privacy policies, and terms of service;
+7 (v) The specific individual to whom the personal data pertains intended law enforcement
+8 to be a recipient of the personal data, as evidenced by case specific, express consent from the
+9 specific individual;
+10 (vi) The third party providing the data was authorized by the specific individual to whom
+11 the personal data pertains to provide the personal data to the law enforcement entity, as evidenced
+12 by case-specific, express consent from the specific individual; or
+13 (vii) The personal data is being provided to or by the National Center for Missing and
+14 Exploited Children.
+15 (b)The attorney general shall adopt specific procedures that are reasonably designed to
+16 prevent the acquisition and retention, prohibit the dissemination, and require the prompt destruction
+17 of any individual’s personal data that is acquired by any governmental entity in violation of this
+18 section; however, such data shall be retained and may exclusively be used as evidence of a violation
+19 of this chapter.
+20 42-28.11-3. Enforcement.
+21 (a) Any violation of this chapter constitutes an injury, and any person may institute
+22 proceedings for injunctive relief, declaratory relief, a writ of mandate, and/or attorneys' fees in any
+23 court of competent jurisdiction to enforce this chapter.
+24 (b) Any personal data acquired in violation of this chapter, and any evidence derived
+25 therefrom, may not be used, received in evidence, or otherwise disseminated in any investigation
+26 or in any trial, hearing, or other proceeding in or before any court, grand jury, or governmental
+27 entity, except as evidence of a violation of this chapter.
+28 42-28.11-4. Severability.
+29 (a) The provisions in this chapter are severable. If there is any part or provision of this
+30 chapter, or the application of this chapter to any person or circumstance, that is held invalid, the
+31 remainder of this chapter, including the application of such part or provisions to other persons or
+32 circumstances, shall not be affected by such holding and shall continue to have force and effect.
+LC005399 - Page 4 of 6
+
+1 SECTION 3. This act shall take effect upon passage.
+========
+LC005399
+========
+LC005399 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- WARRANTLESS PURCHASES
+OF PERSONAL DATA -- THE 4TH AMENDMENT IS NOT FOR SALE ACT
+***
+1 This act would prohibit warrantless searches of personal data in connection with any
+2 criminal, civil, or other investigatory or enforcement activity.
+3 This act would take effect upon passage.
+========
+LC005399
+========
+LC005399 - Page 6 of 6

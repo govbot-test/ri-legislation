@@ -1,0 +1,172 @@
+Title: 
+Official Title: 
+Source: versions - 8171  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8171 SUBSTITUTE A
+========
+LC005424/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- FOOD-AS-MEDICINE PILOT PROGRAM
+Introduced By: Representatives Caldwell, Slater, Kislak, and Spears
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. The general assembly finds and declares that:
+2 (1) Diet-related chronic diseases, including diabetes, cardiovascular disease, hypertension,
+3 and obesity, represent a significant and growing burden on Rhode Island’s residents and healthcare
+4 system;
+5 (2) Individuals experiencing food insecurity and chronic illness often face barriers to
+6 accessing nutritious food that supports disease prevention and management;
+7 (3) Evidence-based food-as-medicine interventions, including medically tailored meals
+8 and nutrition supports, have demonstrated in a number of states nationwide the potential to improve
+9 health outcomes, reduce health disparities, and lower healthcare utilization and costs for high-risk
+10 populations;
+11 (4) Healthcare delivery systems are increasingly transitioning to value-based purchasing
+12 and whole-person care models that emphasize prevention and the integration of health-related
+13 social needs; and
+14 (5) A carefully scoped pilot program, developed in collaboration with health insurers and
+15 community-based service providers, is necessary to determine the feasibility, effectiveness, and
+16 sustainability of food-as-medicine interventions in Rhode Island.
+17 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+18 amended by adding thereto the following chapter:
+19 CHAPTER 106
+
+1 FOOD-AS-MEDICINE PILOT PROGRAM
+2 23-106-1. Food-as-medicine task force -- Establishment.
+3 (a) The food-as-medicine task force is hereby established within the executive office of
+4 health and human services (EOHHS) for the purpose of developing recommendations for the
+5 creation and implementation of a food-as-medicine pilot program in Rhode Island.
+6 (b) The task force shall consist of the following members, or designees:
+7 (1) The secretary of the EOHHS;
+8 (2) The director of the department of health;
+9 (3) The director of the office of healthy aging;
+10 (4) The director of the department of human services;
+11 (5) The health insurance commissioner;
+12 (6) A representative from a community health center;
+13 (7) A representative from a managed Medicaid insurer providing medically tailored meals;
+14 (8) A representative from a commercial healthcare insurer providing medically tailored
+15 meals;
+16 (9) A representative from a hospital system engaged in value-based care initiatives;
+17 (10) A representative of an academic institution with research or evaluation expertise;
+18 (11) A representative of a not-for-profit medically tailored meal provider;
+19 (12) A general physician or advanced practice nurse with experience serving persons with
+20 chronic illness;
+21 (13) A licensed registered dietitian nutritionist;
+22 (14) One member of the Rhode Island house of representatives from the majority party,
+23 appointed by the speaker of the house;
+24 (15) One member of the Rhode Island house of representatives from the minority party,
+25 appointed by the minority leader of the house;
+26 (16) One member of the Rhode Island senate from the majority party, appointed by the
+27 senate president;
+28 (17) One member of the Rhode Island senate from the minority party, appointed by the
+29 senate minority leader; and
+30 (18) One public member representing the interests of individuals managing chronic illness.
+31 (c) Members shall serve without compensation.
+32 23-106-2. Duties of the task force.
+33 (a) The task force shall examine and make recommendations regarding the design, scope,
+34 and implementation of a food-as-medicine pilot program in Rhode Island including, but not limited
+LC005424/SUB A - Page 2 of 6
+
+1 to the following:
+2 (1) Identifying specific populations that experience a disproportionate burden of diet-
+3 related chronic disease and are most likely to benefit from food-as-medicine interventions
+4 including, but not limited to, individuals enrolled in Medicaid, older adults, and individuals with
+5 complex medical needs;
+6 (2) Defining appropriate eligibility criteria for participation in a food-as-medicine pilot
+7 program to ensure the efficient and effective targeting of limited resources;
+8 (3) Identifying evidence-based food-as-medicine interventions to be included in the pilot
+9 program including, but not limited to, medically tailored meals and other nutrition-based supports;
+10 (4) Assessing opportunities for collaboration with community-based service providers,
+11 health care providers, managed care organizations, and commercial insurers in the delivery of food-
+12 as-medicine interventions;
+13 (5) Evaluating options for reimbursement, payment models, and financing mechanisms,
+14 including Medicaid authorities, value-based purchasing arrangements, and public-private
+15 partnerships;
+16 (6) Examining data collection, evaluation, and reporting requirements necessary to assess
+17 health outcomes, utilization, cost impacts, and health equity implications of the pilot program;
+18 (7) Identifying administrative, operational, or regulatory barriers to implementation of a
+19 food-as-medicine pilot program in Rhode Island;
+20 (8) Developing recommendations for legislative, regulatory, or budgetary actions
+21 necessary to establish and sustain a food-as-medicine pilot program;
+22 (9) Examining the feasibility of utilizing federal Medicaid authorities and federal grant
+23 programs including, but not limited to, a federal rural health grant program or a waiver or
+24 amendment under section 1115 of the Social Security Act, to support the design, implementation,
+25 and evaluation of a food-as-medicine pilot program;
+26 (10) Identifying the populations, services, delivery models, and outcome measures that
+27 could be included in an application for a federal rural health grant program or a section 1115 waiver
+28 or waiver amendment to support food-as-medicine interventions for individuals with the highest
+29 burden of diet-related chronic disease; and
+30 (11) Assessing the alignment of a food-as-medicine pilot program with existing Medicaid
+31 managed care, value-based purchasing, and health equity initiatives administered by the executive
+32 office of health and human services.
+33 23-106-3. Meetings and staffing.
+34 (a) The secretary of the executive office of health and human services (EOHHS), or
+LC005424/SUB A - Page 3 of 6
+
+1 designee, shall convene the first meeting of the task force no later than ninety (90) days after the
+2 effective date of this chapter.
+3 (b) The EOHHS, or such department, office, or program with relevant subject‑matter
+4 expertise as designated by the secretary, shall provide staff support to the task force.
+5 23-106-4. Reporting.
+6 (a) The task force shall submit a report of its findings and recommendations to the
+7 governor, the speaker of the house of representatives, and the president of the senate.
+8 (b) The report shall include recommendations regarding the scope, design, and
+9 implementation of a food-as-medicine pilot program including, but not limited to, any proposed
+10 legislation necessary to authorize or fund the pilot program.
+11 (c) The report shall be submitted no later than December 31, 2026.
+12 23-106-5. Medicaid waiver authority -- Food-as-medicine pilot.
+13 (a) The executive office of health and human services (EOHHS) is authorized to seek
+14 federal approval to implement a food-as-medicine pilot program for eligible Medicaid
+15 beneficiaries.
+16 (b) For the purposes of this section, the EOHHS may submit an application for, or
+17 amendment to, a demonstration project pursuant to section 1115 of the Social Security Act, or
+18 pursue other available federal Medicaid authorities, as necessary to implement and fund the food-
+19 as-medicine pilot program.
+20 (c) The application for a section 1115 waiver or waiver amendment may include, but is not
+21 limited to:
+22 (1) Coverage of evidence-based food-as-medicine interventions including, but not limited
+23 to, medically tailored meals and other nutrition-based supports, for Medicaid beneficiaries with
+24 chronic, diet-related diseases;
+25 (2) Eligibility criteria designed to prioritize individuals with the highest health risks, health
+26 care utilization, and unmet nutrition-related needs;
+27 (3) Delivery models that leverage partnerships with community-based service providers,
+28 health care providers, and managed care organizations;
+29 (4) Payment and reimbursement methodologies consistent with value-based purchasing
+30 principles; and
+31 (5) Data collection, evaluation, and reporting requirements to assess health outcomes,
+32 health equity, utilization, and cost impacts.
+33 (d) The EOHHS may implement the food-as-medicine pilot program upon receipt of any
+34 necessary federal approvals and subject to the availability of federal financial participation.
+LC005424/SUB A - Page 4 of 6
+
+1 23-106-6. Construction.
+2 Nothing in this act shall be construed to require state expenditures beyond those authorized
+3 through federal approval, existing appropriations, or future legislative action.
+4 SECTION 3. This act shall take effect upon passage.
+========
+LC005424/SUB A
+========
+LC005424/SUB A - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- FOOD-AS-MEDICINE PILOT PROGRAM
+***
+1 This act would establish a food-as-medicine pilot program and task force to be
+2 administered by the executive office of health and human services.
+3 This act would take effect upon passage.
+========
+LC005424/SUB A
+========
+LC005424/SUB A - Page 6 of 6

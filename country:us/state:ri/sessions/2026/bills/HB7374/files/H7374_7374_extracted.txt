@@ -1,0 +1,347 @@
+Title: 
+Official Title: 
+Source: versions - 7374
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7374
+========
+LC004432
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TOWNS AND CITIES -- ZONING ORDINANCES
+Introduced By: Representatives McEntee, O'Brien, Spears, and Fogarty
+Date Introduced: January 28, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 45-24-31 of the General Laws in Chapter 45-24 entitled "Zoning
+2 Ordinances" is hereby amended to read as follows:
+3 45-24-31. Definitions. [Effective January 1, 2026.]
+4 Where words or terms used in this chapter are defined in § 45-22.2-4 or § 45-23-32, they
+5 have the meanings stated in that section. In addition, the following words have the following
+6 meanings. Additional words and phrases may be used in developing local ordinances under this
+7 chapter; however, the words and phrases defined in this section are controlling in all local
+8 ordinances created under this chapter:
+9 (1) Abutter. One whose property abuts, that is, adjoins at a border, boundary, or point with
+10 no intervening land.
+11 (2) Accessory dwelling unit (ADU). A residential living unit on the same lot where the
+12 principal use is a legally established single-family dwelling unit or multi-family dwelling unit. An
+13 ADU provides complete independent living facilities for one or more persons. It may take various
+14 forms including, but not limited to: a detached unit; a unit that is part of an accessory structure,
+15 such as a detached garage; or a unit that is part of an expanded or remodeled primary dwelling.
+16 (3) Accessory use. A use of land or of a building, or portion thereof, customarily incidental
+17 and subordinate to the principal use of the land or building. An accessory use may be restricted to
+18 the same lot as the principal use. An accessory use shall not be permitted without the principal use
+19 to which it is related.
+
+1 (4) Adaptive reuse. “Adaptive reuse,” as defined in § 42-64.22-2.
+2 (5) Aggrieved party. An aggrieved party, for purposes of this chapter, shall be:
+3 (i) Any person, or persons, or entity, or entities, who or that can demonstrate that their
+4 property will be injured by a decision of any officer or agency responsible for administering the
+5 zoning ordinance of a city or town; or
+6 (ii) Anyone requiring notice pursuant to this chapter.
+7 (6) Agricultural land. “Agricultural land,” as defined in § 45-22.2-4.
+8 (7) Airport hazard area. “Airport hazard area,” as defined in § 1-3-2.
+9 (8) Applicant. An owner, or authorized agent of the owner, submitting an application or
+10 appealing an action of any official, board, or agency.
+11 (9) Application. The completed form, or forms, and all accompanying documents,
+12 exhibits, and fees required of an applicant by an approving authority for development review,
+13 approval, or permitting purposes.
+14 (10) Buffer. Land that is maintained in either a natural or landscaped state, and is used to
+15 screen or mitigate the impacts of development on surrounding areas, properties, or rights-of-way.
+16 (11) Building. Any structure used or intended for supporting or sheltering any use or
+17 occupancy.
+18 (12) Building envelope. The three-dimensional space within which a structure is permitted
+19 to be built on a lot and that is defined by regulations governing building setbacks, maximum height,
+20 and bulk; by other regulations; or by any combination thereof.
+21 (13) Building height. For a vacant parcel of land, building height shall be measured from
+22 the average, existing-grade elevation where the foundation of the structure is proposed. For an
+23 existing structure, building height shall be measured from average grade taken from the outermost
+24 four (4) corners of the existing foundation. In all cases, building height shall be measured to the top
+25 of the highest point of the existing or proposed roof or structure. This distance shall exclude spires,
+26 chimneys, flag poles, and the like. For any property or structure located in a special flood hazard
+27 area, as shown on the official FEMA Flood Insurance Rate Maps (FIRMs), or depicted on the
+28 Rhode Island coastal resources management council (CRMC) suggested design elevation three foot
+29 (3′) sea level rise (CRMC SDE 3 SLR) map as being inundated during a one-hundred-year (100)
+30 storm, the greater of the following amounts, expressed in feet, shall be excluded from the building
+31 height calculation:
+32 (i) The base flood elevation on the FEMA FIRM plus up to five feet (5′) of any utilized or
+33 proposed freeboard, less the average existing grade elevation; or
+34 (ii) The suggested design elevation as depicted on the CRMC SDE 3 SLR map during a
+LC004432 - Page 2 of 10
+
+1 one-hundred-year (100) storm, less the average existing grade elevation. CRMC shall reevaluate
+2 the appropriate suggested design elevation map for the exclusion every ten (10) years, or as
+3 otherwise necessary.
+4 (14) Cluster. A site-planning technique that concentrates buildings in specific areas on the
+5 site to allow the remaining land to be used for recreation, common open space, and/or preservation
+6 of environmentally, historically, culturally, or other sensitive features and/or structures. The
+7 techniques used to concentrate buildings shall be specified in the ordinance and may include, but
+8 are not limited to, reduction in lot areas, setback requirements, and/or bulk requirements, with the
+9 resultant open land being devoted by deed restrictions for one or more uses. Under cluster
+10 development, there is no increase in the number of lots that would be permitted under conventional
+11 development except where ordinance provisions include incentive bonuses for certain types or
+12 conditions of development.
+13 (15) Co-living housing. A specific residential development with units which provide living
+14 and sleeping space which are independently rented and lockable for the exclusive use of an
+15 occupant, but require the occupant to share sanitary and/or food preparation facilities with the other
+16 units in the occupancy. This section shall not be read to allow the conversion of existing dwelling
+17 units into co-living housing unless authorized by a local zoning ordinance.
+18 (16) Common ownership. Either:
+19 (i) Ownership by one or more individuals or entities in any form of ownership of two (2)
+20 or more contiguous lots; or
+21 (ii) Ownership by any association (ownership may also include a municipality) of one or
+22 more lots under specific development techniques.
+23 (17) Community residence. A home or residential facility where children and/or adults
+24 reside in a family setting and may or may not receive supervised care. This does not include halfway
+25 houses or substance-use-disorder-treatment facilities. This does include, but is not limited to, the
+26 following:
+27 (i) Whenever six (6) or fewer children or adults with intellectual and/or developmental
+28 disability reside in any type of residence in the community, as licensed by the state pursuant to
+29 chapter 24 of title 40.1. All requirements pertaining to local zoning are waived for these community
+30 residences;
+31 (ii) A group home providing care or supervision, or both, to not more than eight (8) persons
+32 with disabilities, and licensed by the state pursuant to chapter 24 of title 40.1;
+33 (iii) A residence for children providing care or supervision, or both, to not more than eight
+34 (8) children, including those of the caregiver, and licensed by the state pursuant to chapter 72.1 of
+LC004432 - Page 3 of 10
+
+1 title 42;
+2 (iv) A community transitional residence providing care or assistance, or both, to no more
+3 than six (6) unrelated persons or no more than three (3) families, not to exceed a total of eight (8)
+4 persons, requiring temporary financial assistance, and/or to persons who are victims of crimes,
+5 abuse, or neglect, and who are expected to reside in that residence not less than sixty (60) days nor
+6 more than two (2) years. Residents will have access to, and use of, all common areas, including
+7 eating areas and living rooms, and will receive appropriate social services for the purpose of
+8 fostering independence, self-sufficiency, and eventual transition to a permanent living situation.
+9 (18) Comprehensive plan. The comprehensive plan adopted and approved pursuant to
+10 chapter 22.2 of this title and to which any zoning adopted pursuant to this chapter shall be in
+11 compliance.
+12 (19) Day care — Daycare center. Any other daycare center that is not a family daycare
+13 home.
+14 (20) Day care — Family daycare home. Any home, other than the individual’s home, in
+15 which day care in lieu of parental care or supervision is offered at the same time to six (6) or less
+16 individuals who are not relatives of the caregiver, but may not contain more than a total of eight
+17 (8) individuals receiving day care.
+18 (21) Density, residential. The number of dwelling units per unit of land.
+19 (22) Development. The construction, reconstruction, conversion, structural alteration,
+20 relocation, or enlargement of any structure; any mining, excavation, landfill, or land disturbance;
+21 or any change in use, or alteration or extension of the use, of land.
+22 (23) Development plan review. See §§ 45-23-32 and 45-23-50.
+23 (24) District. See “zoning use district.”
+24 (25) Drainage system. A system for the removal of water from land by drains, grading, or
+25 other appropriate means. These techniques may include runoff controls to minimize erosion and
+26 sedimentation during and after construction or development; the means for preserving surface and
+27 groundwaters; and the prevention and/or alleviation of flooding.
+28 (26) Dwelling unit. A structure, or portion of a structure, providing complete, independent
+29 living facilities for one or more persons, including permanent provisions for living, sleeping, eating,
+30 cooking, and sanitation, and containing a separate means of ingress and egress.
+31 (27) Extractive industry. The extraction of minerals, including: solids, such as coal and
+32 ores; liquids, such as crude petroleum; and gases, such as natural gases. The term also includes
+33 quarrying; well operation; milling, such as crushing, screening, washing, and flotation; and other
+34 preparation customarily done at the extraction site or as a part of the extractive activity.
+LC004432 - Page 4 of 10
+
+1 (28) Family member. A person, or persons, related by blood, marriage, or other legal
+2 means, including, but not limited to, a child, parent, spouse, mother-in-law, father-in-law,
+3 grandparents, grandchildren, domestic partner, sibling, care recipient, or member of the household.
+4 (29) Floating zone. An unmapped zoning district adopted within the ordinance that is
+5 established on the zoning map is effective only when an application for development, meeting the
+6 zone requirements, is approved and the approved plan is recorded.
+7 (30) Floodplains, or Flood hazard area. As defined in § 45-22.2-4.
+8 (31) Freeboard. A factor of safety expressed in feet above the base flood elevation of a
+9 flood hazard area for purposes of floodplain management. Freeboard compensates for the many
+10 unknown factors that could contribute to flood heights, such as wave action, bridge openings, and
+11 the hydrological effect of urbanization of the watershed.
+12 (32) Groundwater. “Groundwater” and associated terms, as defined in § 46-13.1-3.
+13 (33) Halfway house. A residential facility for adults or children who have been
+14 institutionalized for criminal conduct and who require a group setting to facilitate the transition to
+15 a functional member of society.
+16 (34) Hardship. See § 45-24-41.
+17 (35) Historic district or historic site. As defined in § 45-22.2-4.
+18 (36) Home occupation. Any activity customarily carried out for gain by a resident,
+19 conducted as an accessory use in the resident’s dwelling unit. For the purposes of this chapter,
+20 home occupation does not include remote work activities as defined in § 45-24-37.
+21 (37) Household. One or more persons living together in a single-dwelling unit, with
+22 common access to, and common use of, all living and eating areas and all areas and facilities for
+23 the preparation and storage of food within the dwelling unit. The term “household unit” is
+24 synonymous with the term “dwelling unit” for determining the number of units allowed within any
+25 structure on any lot in a zoning district. An individual household shall consist of any one of the
+26 following:
+27 (i) A family, which may also include servants and employees living with the family; or
+28 (ii) A person or group of unrelated persons living together. The A municipality may set a
+29 maximum number may be set by local ordinance, but such ordinance shall allow at least one person
+30 per bedroom for dwelling units containing up to five (5) bedrooms. For dwelling units that exceed
+31 five (5) bedrooms, a municipality shall allow at least five (5) unrelated persons per dwelling unit.
+32 but this maximum shall not be less than one person per bedroom and shall not exceed five (5)
+33 unrelated persons per dwelling. The maximum number shall not apply to NARR-certified recovery
+34 residences.
+LC004432 - Page 5 of 10
+
+1 (38) Incentive zoning. The process whereby the local authority may grant additional
+2 development capacity in exchange for the developer’s provision of a public benefit or amenity as
+3 specified in local ordinances.
+4 (39) Infrastructure. Facilities and services needed to sustain residential, commercial,
+5 industrial, institutional, and other activities.
+6 (40) Land development project. As defined in § 45-23-32.
+7 (41) Lot. Either:
+8 (i) The basic development unit for determination of lot area, depth, and other dimensional
+9 regulations; or
+10 (ii) A parcel of land whose boundaries have been established by some legal instrument,
+11 such as a recorded deed or recorded map, and that is recognized as a separate legal entity for
+12 purposes of transfer of title.
+13 (42) Lot area. The total area within the boundaries of a lot, excluding any street right-of-
+14 way, usually reported in acres or square feet.
+15 (43) Lot area, minimum. The smallest land area established by the local zoning ordinance
+16 upon which a use, building, or structure may be located in a particular zoning district.
+17 (44) Lot building coverage. That portion of the lot that is, or may be, covered by buildings
+18 and accessory buildings.
+19 (45) Lot depth. The distance measured from the front lot line to the rear lot line. For lots
+20 where the front and rear lot lines are not parallel, the lot depth is an average of the depth.
+21 (46) Lot frontage. That portion of a lot abutting a street. A zoning ordinance shall specify
+22 how noncontiguous frontage will be considered with regard to minimum frontage requirements.
+23 (47) Lot line. A line of record, bounding a lot, that divides one lot from another lot or from
+24 a public or private street or any other public or private space and shall include:
+25 (i) Front: the lot line separating a lot from a street right-of-way. A zoning ordinance shall
+26 specify the method to be used to determine the front lot line on lots fronting on more than one
+27 street, for example, corner and through lots;
+28 (ii) Rear: the lot line opposite and most distant from the front lot line, or in the case of
+29 triangular or otherwise irregularly shaped lots, an assumed line at least ten feet (10′) in length
+30 entirely within the lot, parallel to and at a maximum distance from, the front lot line; and
+31 (iii) Side: any lot line other than a front or rear lot line. On a corner lot, a side lot line may
+32 be a street lot line, depending on requirements of the local zoning ordinance.
+33 (48) Lot size, minimum. Shall have the same meaning as “minimum lot area” defined
+34 herein.
+LC004432 - Page 6 of 10
+
+1 (49) Lot, through. A lot that fronts upon two (2) parallel streets, or that fronts upon two
+2 (2) streets that do not intersect at the boundaries of the lot.
+3 (50) Lot width. The horizontal distance between the side lines of a lot measured at right
+4 angles to its depth along a straight line parallel to the front lot line at the minimum front setback
+5 line.
+6 (51) Manufactured home. As used in this section, a manufactured home shall have the
+7 same definition as in 42 U.S.C. § 5402, meaning a structure, transportable in one or more sections,
+8 which, in the traveling mode, is eight (8) body feet or more in width or forty (40) body feet or more
+9 in length, or, when erected on site, is three hundred twenty (320) or more square feet, and which is
+10 built on a permanent chassis and designed to be used as a dwelling with a permanent foundation
+11 connected to the required utilities, and includes the plumbing, heating, air-conditioning, and
+12 electrical systems contained therein; except that such term shall include any structure that meets all
+13 the requirements of this definition except the size requirements and with respect to which the
+14 manufacturer voluntarily files a certification required by the United States Secretary of Housing
+15 and Urban Development and complies with the standards established under chapter 70 of Title 42
+16 of the United States Code; and except that such term shall not include any self-propelled
+17 recreational vehicle.
+18 (52) Mere inconvenience. See § 45-24-41.
+19 (53) Mixed use. A mixture of land uses within a single development, building, or tract.
+20 (54) Modification. Permission granted and administered by the zoning enforcement officer
+21 of the city or town, and pursuant to the provisions of this chapter to grant dimensional relief from
+22 the zoning ordinance to a limited degree as determined by the zoning ordinance of the city or town,
+23 but not to exceed twenty-five percent (25%) of each of the applicable dimensional requirements,
+24 except as set forth in § 45-24-46(c).
+25 (55) Nonconformance. A building, structure, or parcel of land, or use thereof, lawfully
+26 existing at the time of the adoption or amendment of a zoning ordinance and not in conformity with
+27 the provisions of that ordinance or amendment. Nonconformance is of only two (2) types:
+28 (i) Nonconforming by use: a lawfully established use of land, building, or structure that is
+29 not a permitted use in that zoning district. A building or structure containing more dwelling units
+30 than are permitted by the use regulations of a zoning ordinance is nonconformity by use; or
+31 (ii) Nonconforming by dimension: a building, structure, or parcel of land not in compliance
+32 with the dimensional regulations of the zoning ordinance. Dimensional regulations include all
+33 regulations of the zoning ordinance, other than those pertaining to the permitted uses. A building
+34 or structure containing more dwelling units than are permitted by the use regulations of a zoning
+LC004432 - Page 7 of 10
+
+1 ordinance is nonconforming by use; a building or structure containing a permitted number of
+2 dwelling units by the use regulations of the zoning ordinance, but not meeting the lot area per
+3 dwelling unit regulations, is nonconforming by dimension.
+4 (56) Overlay district. A district established in a zoning ordinance that is superimposed on
+5 one or more districts or parts of districts. The standards and requirements associated with an overlay
+6 district may be more or less restrictive than those in the underlying districts consistent with other
+7 applicable state and federal laws.
+8 (57) Performance standards. A set of criteria or limits relating to elements that a
+9 particular use or process must either meet or may not exceed.
+10 (58) Permitted use. A use by right that is specifically authorized in a particular zoning
+11 district.
+12 (59) Planned development. A “land development project,” as defined in subsection (39),
+13 and developed according to plan as a single entity and containing one or more structures or uses
+14 with appurtenant common areas.
+15 (60) Plant agriculture. The growing of plants for food or fiber, to sell or consume.
+16 (61) Preapplication conference. A review meeting of a proposed development held
+17 between applicants and reviewing agencies as permitted by law and municipal ordinance, before
+18 formal submission of an application for a permit or for development approval.
+19 (62) Setback line or lines. A line, or lines, parallel to a lot line at the minimum distance
+20 of the required setback for the zoning district in which the lot is located that establishes the area
+21 within which the principal structure must be erected or placed.
+22 (63) Site plan. The development plan for one or more lots on which is shown the existing
+23 and/or the proposed conditions of the lot.
+24 (64) Slope of land. The grade, pitch, rise, or incline of the topographic landform or surface
+25 of the ground.
+26 (65) Special use. A regulated use that is permitted pursuant to the special-use permit issued
+27 by the authorized governmental entity, pursuant to § 45-24-42. Formerly referred to as a special
+28 exception.
+29 (66) Structure. A combination of materials to form a construction for use, occupancy, or
+30 ornamentation, whether installed on, above, or below the surface of land or water.
+31 (67) Substandard lot of record. Any lot lawfully existing at the time of adoption or
+32 amendment of a zoning ordinance and not in conformance with the dimensional or area provisions
+33 of that ordinance.
+34 (68) Use. The purpose or activity for which land or buildings are designed, arranged, or
+LC004432 - Page 8 of 10
+
+1 intended, or for which land or buildings are occupied or maintained.
+2 (69) Variance. Permission to depart from the literal requirements of a zoning ordinance.
+3 An authorization for the construction or maintenance of a building or structure, or for the
+4 establishment or maintenance of a use of land, that is prohibited by a zoning ordinance. There are
+5 only two (2) categories of variance, a use variance or a dimensional variance.
+6 (i) Use variance. Permission to depart from the use requirements of a zoning ordinance
+7 where the applicant for the requested variance has shown by evidence upon the record that the
+8 subject land or structure cannot yield any beneficial use if it is to conform to the provisions of the
+9 zoning ordinance.
+10 (ii) Dimensional variance. Permission to depart from the dimensional requirements of a
+11 zoning ordinance under the applicable standards set forth in § 45-24-41.
+12 (70) Waters. As defined in § 46-12-1(23).
+13 (71) Wetland, coastal. As defined in § 45-22.2-4.
+14 (72) Wetland, freshwater. As defined in § 2-1-20.
+15 (73) Zoning certificate. A document signed by the zoning enforcement officer, as required
+16 in the zoning ordinance, that acknowledges that a use, structure, building, or lot either complies
+17 with, or is legally nonconforming to, the provisions of the municipal zoning ordinance or is an
+18 authorized variance or modification therefrom.
+19 (74) Zoning map. The map, or maps, that are a part of the zoning ordinance and that
+20 delineate the boundaries of all mapped zoning districts within the physical boundary of the city or
+21 town.
+22 (75) Zoning ordinance. An ordinance enacted by the legislative body of the city or town
+23 pursuant to this chapter and in the manner providing for the adoption of ordinances in the city or
+24 town’s legislative or home rule charter, if any, that establish regulations and standards relating to
+25 the nature and extent of uses of land and structures; that is consistent with the comprehensive plan
+26 of the city or town as defined in chapter 22.2 of this title; that includes a zoning map; and that
+27 complies with the provisions of this chapter.
+28 (76) Zoning use district. The basic unit in zoning, either mapped or unmapped, to which
+29 a uniform set of regulations applies, or a uniform set of regulations for a specified use. Zoning use
+30 districts include, but are not limited to: agricultural, commercial, industrial, institutional, open
+31 space, and residential. Each district may include sub-districts. Districts may be combined.
+32 SECTION 2. This act shall take effect upon passage.
+========
+LC004432
+========
+LC004432 - Page 9 of 10
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- ZONING ORDINANCES
+***
+1 This act would amend the definition of a "household" in the "zoning ordinances" chapter
+2 to clarify that the maximum number of unrelated persons living together may be set by local
+3 ordinance; however, the maximum shall not be less than one person per bedroom, but may be
+4 limited to one person per bedroom up to a five (5) bedroom unit. Units with more than five (5)
+5 bedrooms may be limited to five (5) unrelated persons per unit.
+6 This act would take effect upon passage.
+========
+LC004432
+========
+LC004432 - Page 10 of 10

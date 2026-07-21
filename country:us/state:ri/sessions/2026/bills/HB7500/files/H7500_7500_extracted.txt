@@ -1,0 +1,370 @@
+Title: 
+Official Title: 
+Source: versions - 7500
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7500
+========
+LC004876
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO EDUCATION -- TEACHERS' RETIREMENT
+Introduced By: Representatives Shanley, Bennett, Voas, Stewart, and Casimiro
+Date Introduced: February 04, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 16-16-13 of the General Laws in Chapter 16-16 entitled "Teachers’
+2 Retirement [See Title 16 Chapter 97 — The Rhode Island Board of Education Act]" is hereby
+3 amended to read as follows:
+4 16-16-13. Amount of service retirement allowance.
+5 (a)(1)(i) For teachers eligible to retire on or before September 30, 2009, upon retirement
+6 from service under § 16-16-12 a teacher whose membership commenced before July 1, 2005, and
+7 who has completed at least ten (10) years of contributory service on or before July 1, 2005, shall
+8 receive a retirement allowance which shall be determined in accordance with schedule A for service
+9 prior to July 1, 2012.
+10 SCHEDULE A
+11 YEARS OF SERVICE PERCENTAGE ALLOWANCE
+12 1st through 10th inclusive 1.7%
+13 11th through 20th inclusive 1.9%
+14 21st through 34th inclusive 3.0%
+15 35th 2.0%
+16 (ii) For teachers eligible to retire on or after October 1, 2009, who were not eligible to retire
+17 on or before September 30, 2009, upon retirement for service under § 16-16-12, a teacher whose
+18 membership commenced before July 1, 2005, and who has completed at least ten (10) years of
+19 contributory service on or before July 1, 2005, shall receive a retirement allowance which shall be
+
+1 determined in accordance with schedule A above for service on before September 30, 2009, and
+2 shall be determined in accordance with schedule B in subsection (a)(2) below for service on or after
+3 October 1, 2009, and prior to July 1, 2012.
+4 (2) Upon retirement from service under § 16-16-12 a teacher whose membership
+5 commenced after July 1, 2005, or who has not completed at least ten (10) years of contributory
+6 service as of July 1, 2005, shall receive a retirement allowance which shall be determined in
+7 accordance with Schedule B for service prior to July 1, 2012.
+8 SCHEDULE B
+9 YEARS OF SERVICE PERCENTAGE ALLOWANCE
+10 1st through 10th inclusive 1.60%
+11 11th through 20th inclusive 1.80%
+12 21st through 25th inclusive 2.0%
+13 26th through 30th inclusive 2.25%
+14 31st through 37th inclusive 2.50%
+15 38th 2.25%
+16 (b) The retirement allowance of any teacher whose membership commenced before July 1,
+17 2005, and who has completed at least ten (10) years of contributory service on or before July 1,
+18 2005, shall be in an amount equal to the percentage allowance specified in subsection (a)(1) of the
+19 member’s average highest three (3) consecutive years of compensation multiplied by the number
+20 of years of total service, but in no case to exceed eighty percent (80%) of the compensation, payable
+21 at completion of thirty-five (35) years of service; provided, however, for teachers retiring on or
+22 after October 1, 2009, who were not eligible to retire as of September 30, 2009, the calculation
+23 shall be based on the average highest five (5) consecutive years of compensation; provided,
+24 however for teachers retiring on or after July 1, 2024 2009, the calculation shall be based on the
+25 average highest three (3) consecutive years of compensation; provided, however for teachers
+26 retiring on or after July 1, 2024, the calculation shall be based on the average highest three (3)
+27 consecutive years of compensation.
+28 The retirement allowance of any teacher whose membership commenced after July 1, 2005,
+29 or who has not completed at least ten (10) years of contributory service as of July 1, 2005, shall be
+30 in an amount equal to the percentage allowance specified in Schedule B of the member’s average
+31 highest three (3) consecutive years of compensation multiplied by the number of years of total
+32 service, but in no case to exceed seventy-five percent (75%) of the compensation, payable at
+33 completion of thirty-eight (38) years of service; provided, however, for teachers retiring on or after
+34 October 1, 2009, who were not eligible to retire as of September 30, 2009, the calculation shall be
+LC004876 - Page 2 of 11
+
+1 based on the average highest five (5) consecutive years of compensation; provided, however, for
+2 teachers retiring on or after July 1, 2024 2012, the calculation shall be based on the average highest
+3 three (3) consecutive years of compensation; provided, however for teachers retiring on or after
+4 July 1, 2024, the calculation shall be based on the average highest three (3) consecutive years of
+5 compensation.
+6 Any teacher who has in excess of thirty-five (35) years on or before June 2, 1985, shall not
+7 be entitled to any refund, and any teacher with thirty-five (35) years or more on or after June 2,
+8 1985, shall contribute from July 1, 1985, until their retirement.
+9 (c) For service prior to July 2012, the retirement allowance of a teacher shall be determined
+10 in accordance with subsections (a)(1) and (a)(2) above. For service on and after July 1, 2012:
+11 (i) For teachers with fewer than twenty (20) years of total service as of June 30, 2012, a
+12 teacher’s retirement allowance shall be equal to one percent (1%) of the teacher’s average
+13 compensation multiplied by the teacher’s years of total service on and after July 1, 2012; and
+14 (ii) For teachers with twenty (20) or more years of total service as of June 30, 2012, a
+15 teacher’s retirement allowance shall be equal to one percent (1%) of the teacher’s average
+16 compensation multiplied by the teacher’s years of total service between July 1, 2012, and June 30,
+17 2015, and two percent (2%) of the teacher’s average compensation multiplied by the teacher’s years
+18 of total service on and after July 1, 2015. For purposes of computing a teacher’s total service under
+19 the preceding sentence, service purchases shall be included in total service only with respect to
+20 those service purchases approved prior to June 30, 2012, and those applications for service
+21 purchases received by the retirement system on or before June 30, 2012. In no event shall a
+22 teacher’s retirement allowance exceed the maximum limitations set forth in subsection (b) above.
+23 SECTION 2. Section 36-8-1 of the General Laws in Chapter 36-8 entitled "Retirement
+24 System — Administration" is hereby amended to read as follows:
+25 36-8-1. Definition of terms.
+26 The following words and phrases as used in chapters 8 to 10 of this title unless a different
+27 meaning is plainly required by the context, shall have the following meanings:
+28 (1) “Accumulated contributions” shall mean the sum of all the amounts deducted from the
+29 compensation of a member and credited to their individual pension account.
+30 (2) “Active member” shall mean any employee of the state of Rhode Island as defined in
+31 this section for whom the retirement system is currently receiving regular contributions pursuant to
+32 §§ 36-10-1 and 36-10-1.1.
+33 (3) “Actuarial equivalent” shall mean an allowance or benefit of equal value to any other
+34 allowance or benefit when computed upon the basis of the actuarial tables in use by the system.
+LC004876 - Page 3 of 11
+
+1 (4) “Annuity reserve” shall mean the present value of all payments to be made on account
+2 of any annuity, benefit, or retirement allowance granted under the provisions of chapter 10 of this
+3 title computed upon the basis of such mortality tables as shall be adopted from time to time by the
+4 retirement board with regular interest.
+5 (5)(a) “Average compensation” for members eligible to retire as of September 30, 2009,
+6 shall mean the average of the highest three (3) consecutive years of compensation, within the total
+7 service when the average compensation was the highest. For members eligible to retire on or after
+8 October 1, 2009, “Average compensation” shall mean the average of the highest five (5)
+9 consecutive years of compensation within the total service when the average compensation was the
+10 highest.
+11 (b) For members eligible to and who retire on or after July 1, 2024 2009, “average
+12 compensation” means the average of the highest three (3) consecutive years of compensation within
+13 the total service when the average compensation was the highest.
+14 (c) For members who become eligible to retire on or after July 1, 2012, if more than one-
+15 half (½) of the member’s total years of service consist of years of service during which the member
+16 devoted less than thirty (30) business hours per week to the service of the state, but the member’s
+17 average compensation consists of three (3) or more years during which the member devoted more
+18 than thirty (30) business hours per week to the service of the state, such member’s average
+19 compensation shall mean the average of the highest ten (10) consecutive years of compensation
+20 within the total service when the average compensation was the highest; provided however,
+21 effective July 1, 2015, if such member’s average compensation as defined in subsection (a) above
+22 is equal to or less than thirty-five thousand dollars ($35,000), such amount to be indexed annually
+23 in accordance with § 36-10-35(h)(1)(B), such member’s average compensation shall mean the
+24 greater of: (i) The average of the highest ten (10) consecutive years of compensation within the
+25 total service when the average compensation was the highest; or (ii) The member’s average
+26 compensation as defined in subsection (a) above. To protect a member’s accrued benefit on June
+27 30, 2012, under this § 36-8-1(5)(c), in no event shall a member’s average compensation be lower
+28 than the member’s average compensation determined as of June 30, 2012.
+29 (6) “Beneficiary” shall mean any person in receipt of a pension, an annuity, a retirement
+30 allowance, or other benefit as provided by chapter 10 of this title.
+31 (7) “Casual employee” shall mean those persons hired for a temporary period, a period of
+32 emergency, or an occasional period.
+33 (8) “Compensation” as used in chapters 8 — 10 of this title, chapters 16 and 17 of title 16,
+34 and chapter 21 of title 45 shall mean salary or wages earned and paid for the performance of duties
+LC004876 - Page 4 of 11
+
+1 for covered employment, including regular longevity or incentive plans approved by the board, but
+2 shall not include payments made for overtime or any other reason other than performance of duties,
+3 including but not limited to the types of payments listed below:
+4 (i) Payments contingent on the employee having terminated or died;
+5 (ii) Payments made at termination for unused sick leave, vacation leave, or compensatory
+6 time;
+7 (iii) Payments contingent on the employee terminating employment at a specified time in
+8 the future to secure voluntary retirement or to secure release of an unexpired contract of
+9 employment;
+10 (iv) Individual salary adjustments which are granted primarily in anticipation of the
+11 employee’s retirement;
+12 (v) Additional payments for performing temporary or extra duties beyond the normal or
+13 regular work day or work year.
+14 (9) “Employee” shall mean any officer or employee of the state of Rhode Island whose
+15 business time is devoted exclusively to the services of the state, but shall not include one whose
+16 duties are of a casual or seasonal nature. The retirement board shall determine who are employees
+17 within the meaning of this chapter. The governor of the state, the lieutenant governor, the secretary
+18 of state, the attorney general, the general treasurer, and the members of the general assembly, ex
+19 officio, shall not be deemed to be employees within the meaning of that term unless and until they
+20 elect to become members of the system as provided in § 36-9-6, but in no case shall it deem as an
+21 employee, for the purposes of this chapter, any individual who devotes less than twenty (20)
+22 business hours per week to the service of the state, and who receives less than the equivalent of
+23 minimum wage compensation on an hourly basis for their services, except as provided in § 36-9-
+24 24. Any commissioner of a municipal housing authority or any member of a part-time state,
+25 municipal, or local board, commission, committee, or other public authority shall not be deemed to
+26 be an employee within the meaning of this chapter.
+27 (10) “Full actuarial costs” or “full actuarial value” shall mean the lump sum payable by a
+28 member claiming service credit for certain employment for which that payment is required which
+29 is determined according to the age of the member and the employee’s annual rate of compensation
+30 at the time the member applies for service credit and which is expressed as a rate percent of the
+31 employee’s annual rate of compensation to be multiplied by the number of years for which the
+32 member claims service credit as prescribed in a schedule adopted by the retirement board from time
+33 to time on the basis of computation by the actuary. Except as provided in §§ 16-16-7.1, 36-5-3, 36-
+34 9-31, 36-10-10.4, 45-21-53, 36-10-8, 45-21-29, 8-3-16(c), 8-8-10.1(c), 42-28-22.1(d), and 28-30-
+LC004876 - Page 5 of 11
+
+1 18.1(c):
+2 (i) All service credit purchases requested after June 16, 2009, and prior to July 1, 2012,
+3 shall be at full actuarial value; and
+4 (ii) All service credit purchases requested after June 30, 2012, shall be at full actuarial
+5 value which shall be determined using the system’s assumed investment rate of return minus one
+6 percent (1%).
+7 The rules applicable to a service credit purchase shall be the rules of the retirement system
+8 in effect at the time the purchase application is submitted to the retirement system.
+9 (11) “Funded ratio” shall mean the ratio of the actuarial value of assets to the actuarial
+10 accrued liability consistent with the funding policy of the retirement board as defined in § 36-8-4.
+11 (12) “Inactive member” shall mean a member who has withdrawn from service as an
+12 employee but who has not received a refund of contributions.
+13 (13) “Members” shall mean any person included in the membership of the retirement
+14 system as provided in §§ 36-9-1 — 36-9-7.
+15 (14) “Prior service” shall mean service as a member rendered before July 1, 1936, certified
+16 on the member’s prior service certificate and allowable as provided in § 36-9-28.
+17 (15) “Regular interest” shall mean interest at the assumed investment rate of return,
+18 compounded annually, as may be prescribed from time to time by the retirement board.
+19 (16) “Retirement allowance” shall mean annual payments for life made after retirement
+20 under and in accordance with chapters 8 to 10 of this title. All allowances shall be paid in equal
+21 monthly installments beginning as of the effective date thereof; provided, that a smaller pro rata
+22 amount may be paid for part of a month where separation from service occurs during the month in
+23 which the application was filed, and when the allowance ceases before the last day of the month.
+24 (17) “Retirement board” or “board” shall mean the board provided in § 36-8-3 to administer
+25 the retirement system.
+26 (18) “Retirement system” shall mean the employees’ retirement system of the state of
+27 Rhode Island as defined in § 36-8-2.
+28 (19) “Service” shall mean service as an employee of the state of Rhode Island as described
+29 in subdivision (9) of this section.
+30 (20) “Social Security retirement age” shall mean a member’s full retirement age as
+31 determined in accordance with the federal Old Age, Survivors and Disability Insurance Act, not to
+32 exceed age sixty-seven (67).
+33 (21) “Total service” shall mean prior service as defined above, plus service rendered as a
+34 member on or after July 1, 1936.
+LC004876 - Page 6 of 11
+
+1 SECTION 3. Section 45-21-2 of the General Laws in Chapter 45-21 entitled "Retirement
+2 of Municipal Employees" is hereby amended to read as follows:
+3 45-21-2. Definitions.
+4 The following words and phrases as used in this chapter have the following meanings
+5 unless a different meaning is plainly required by the context:
+6 (1) “Accumulated contributions” means the sum of all amounts deducted from the
+7 compensation of a member and credited to the member’s individual account in the members’
+8 contribution reserve account.
+9 (2) “Active member” means any employee of a participating municipality as defined in this
+10 section for whom the retirement system is currently receiving regular contributions pursuant to §
+11 45-21-41, § 45-21-41.1, or § 45-21.2-14.
+12 (3) “Actuarial reserve” means the present value of all payments to be made on account of
+13 any annuity, retirement allowance, or benefit, computed upon the basis of mortality tables adopted
+14 by the retirement board with regular interest.
+15 (4) “Beneficiary” means any person in receipt of a retirement allowance, annuity, or other
+16 benefit as provided by this chapter.
+17 (5) For purposes of this chapter, “domestic partner” shall be defined as a person who, prior
+18 to the decedent’s death, was in an exclusive, intimate, and committed relationship with the
+19 decedent, and who certifies by affidavit that their relationship met the following qualifications:
+20 (i) Both partners were at least eighteen (18) years of age and were mentally competent to
+21 contract;
+22 (ii) Neither partner was married to anyone else;
+23 (iii) Partners were not related by blood to a degree which would prohibit marriage in the
+24 state of Rhode Island;
+25 (iv) Partners resided together and had resided together for at least one year at the time of
+26 death; and
+27 (v) Partners were financially interdependent as evidenced by at least two (2) of the
+28 following:
+29 (A) Domestic partnership agreement or relationship contract;
+30 (B) Joint mortgage or joint ownership of primary residence;
+31 (C) Two (2) of: (I) Joint ownership of motor vehicle; (II) Joint checking account; (III) Joint
+32 credit account; (IV) Joint lease; and/or
+33 (D) The domestic partner had been designated as a beneficiary for the decedent’s will,
+34 retirement contract, or life insurance.
+LC004876 - Page 7 of 11
+
+1 (6) “Effective date of participation” means the date on which the provisions of this chapter
+2 have become applicable to a municipality accepting the provisions of the chapter in the manner
+3 stated in § 45-21-4.
+4 (7) “Employee” means any regular and permanent employee or officer of any municipality,
+5 whose business time at a minimum of twenty (20) hours a week is devoted to the service of the
+6 municipality, including elective officials and officials and employees of city and town housing
+7 authorities. Notwithstanding the previous sentence, the term “employee,” for the purposes of this
+8 chapter, does not include any person whose duties are of a casual or seasonal nature. The retirement
+9 board shall decide who are employees within the meaning of this chapter, but in no case shall it
+10 deem as an employee any individual who annually devotes less than twenty (20) business hours per
+11 week to the service of the municipality and who receives less than the equivalent of minimum wage
+12 compensation on an hourly basis for their services, except as provided in § 45-21-14.1 [repealed].
+13 Casual employees mean those persons hired for an occasional period or a period of emergency to
+14 perform special jobs or functions not necessarily related to the work of regular employees. Any
+15 commissioner of a municipal housing authority, or any member of a part-time state board
+16 commission, committee, or other authority is not deemed to be an employee within the meaning of
+17 this chapter.
+18 (8)(a) “Final compensation” for members who are eligible to retire on or prior to June 30,
+19 2012, means the average annual compensation, pay, or salary of a member for services rendered
+20 during the period of three (3) consecutive years within the total service of the member when the
+21 average was highest, and as the term average annual compensation is further defined in § 36-8-
+22 1(5)(a). For members eligible to retire on or after July 1, 2012, “final compensation” means the
+23 average of the highest five (5) consecutive years of compensation within the total service when the
+24 final compensation was the highest. For members eligible to and who retire on or after July 1, 2024
+25 2009, “final compensation” means the average of the highest three (3) consecutive years of
+26 compensation within the total service when the final compensation was the highest.
+27 (b) For members who become eligible to retire on or after July 1, 2012, if more than one
+28 half (½) of the member’s total years of service consist of years of service during which the member
+29 devoted less than thirty (30) business hours per week to the service of the municipality, but the
+30 member’s average compensation consists of three (3) or more years during which the member
+31 devoted more than thirty (30) business hours per week to the service of a municipality, such
+32 member’s average compensation shall mean the average of the highest ten (10) consecutive years
+33 of compensation within the total service when the average compensation was the highest; provided
+34 however, effective July 1, 2015, if such member’s average compensation as defined in subsection
+LC004876 - Page 8 of 11
+
+1 (a) above is equal to or less than thirty-five thousand dollars ($35,000), such amount to be indexed
+2 annually in accordance with § 45-21-52(d)(1)(B), such member’s average compensation shall mean
+3 the greater of: (i) The average of the highest ten (10) consecutive years of compensation within the
+4 total service when the average compensation was the highest; or (ii) The member’s average
+5 compensation as defined in subsection (a) above. To protect a member’s accrued benefit on June
+6 30, 2012, under this subsection (8)(b), in no event shall a member’s average compensation be lower
+7 than his or her average compensation determined as of June 30, 2012.
+8 Notwithstanding the preceding provisions, in no event shall a member’s final compensation
+9 be lower than the member’s final compensation determined as of June 30, 2012.
+10 (9) “Fiscal year” means the period beginning on July 1 in any year and ending on June 30
+11 of the next succeeding year.
+12 (10) “Full actuarial costs” or “full actuarial value” mean the lump sum payable by a
+13 member claiming service credit for certain employment for which payment is required, which is
+14 determined according to the age of the member and their annual rate of compensation at the time
+15 he or she applies for service credit, and which is expressed as a rate percent of the annual rate of
+16 compensation to be multiplied by the number of years for which the member claims the service
+17 credit, as prescribed in a schedule adopted by the retirement board, from time to time, on the basis
+18 of computation by the actuary. Except as provided in §§ 16-16-7.1, 36-5-3, 36-9-31, 36-10-10.4,
+19 and 45-21-53: (i) All service credit purchases requested after June 16, 2009, and prior to July 1,
+20 2012, shall be at full actuarial value; and (ii) All service credit purchases requested after June 30,
+21 2012, shall be at full actuarial value which shall be determined using the system’s assumed
+22 investment rate of return minus one percent (1%).
+23 (11) “Governing body” means any and all bodies empowered to appropriate monies for,
+24 and administer the operation of, the units as defined in subdivision (13) of this section.
+25 (12) “Member” means any person included in the membership of the retirement system as
+26 provided in § 45-21-8.
+27 (13) “Municipality” means any town or city in the state of Rhode Island, any city or town
+28 housing authority, fire, water, sewer district, regional school district, public building authority as
+29 established by chapter 14 of title 37 [repealed], or any other municipal financed agency to which
+30 the retirement board has approved admission in the retirement system.
+31 (14) “Participating municipality” means any municipality which has accepted this chapter,
+32 as provided in § 45-21-4.
+33 (15) “Prior service” means service as a member rendered before the effective date of
+34 participation as defined in this section, certified on the member’s prior service certificate, and
+LC004876 - Page 9 of 11
+
+1 allowable as provided in § 45-21-15.
+2 (16) “Regular interest” means interest at the assumed investment rate of return,
+3 compounded annually, as may be prescribed from time to time by the retirement board.
+4 (17) “Retirement allowance” or “annuity” means the amounts paid to any member of the
+5 municipal employees’ retirement system of the state of Rhode Island, or a survivor of the member,
+6 as provided in this chapter. All retirement allowances or annuities shall be paid in equal monthly
+7 installments for life, unless otherwise specifically provided.
+8 (18) “Retirement board” or “board” means the state retirement board created by chapter 8
+9 of title 36.
+10 (19) “Retirement system” means the “municipal employees’ retirement system of the state
+11 of Rhode Island” as defined in § 45-21-32.
+12 (20) “Service” means service as an employee of a municipality of the state of Rhode Island
+13 as defined in subdivision (7).
+14 (21) “Total service” means prior service as defined in subdivision (15) plus service
+15 rendered as a member on or after the effective date of participation.
+16 (22) Any term not specifically defined in this chapter and specifically defined in chapters
+17 8 through 10 of title 36 shall have the same definition as set forth in chapters 8 through 10 of title
+18 36.
+19 SECTION 4. This act shall take effect upon passage.
+========
+LC004876
+========
+LC004876 - Page 10 of 11
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO EDUCATION -- TEACHERS' RETIREMENT
+***
+1 This act would change the teacher and state employees' retirement benefit calculations'
+2 cutoff date, from July 1, 2024, to July 1, 2009, for all retirement members eligible to and who retire
+3 on or after the new July 1, 2009, cutoff date. The average compensation means the average of the
+4 highest three (3) consecutive years, of compensation, within the total service, when the average
+5 compensation was its highest.
+6 This act would take effect upon passage.
+========
+LC004876
+========
+LC004876 - Page 11 of 11

@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - 2852
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2852
+========
+LC005316
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- CONFIDENTIALITY OF
+HEALTHCARE COMMUNICATIONS AND INFORMATION ACT
+Introduced By: Senators Vargas, Urso, Lauria, Murray, Gu, and DiMario
+Date Introduced: March 04, 2026
+Referred To: Senate Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 5-37.3 of the General Laws entitled "Confidentiality of Healthcare
+2 Communications and Information Act" is hereby amended by adding thereto the following section:
+3 5-37.3-13. Electronic transmission of medical notes and records.
+4 (a) A healthcare provider shall, upon the written request of a patient or the patient’s
+5 authorized representative, furnish medical notes or other medical records in any readily producible
+6 form or format consistent with state and federal law.
+7 (b) Permissible formats shall include, but not be limited to, paper copies, facsimile
+8 transmission, secure electronic transmission, patient portal access, and electronic mail.
+9 (c) A provider may transmit a medical note or medical record by electronic mail, including
+10 unencrypted email, when:
+11 (1) The patient provides a written authorization identifying the specific email address for
+12 delivery;
+13 (2) The authorization acknowledges the potential privacy and security risks of email
+14 transmission; and
+15 (3) The patient consents to receive the information by email despite such risks.
+16 (d) The provider shall retain the patient’s authorization in the medical record.
+17 (e) A provider shall not be required to transmit records by email if unable to do so in a
+18 manner consistent with applicable federal law; provided an alternative lawful method is offered.
+
+1 (f) Nothing in this section shall be construed to limit rights under HIPAA or to require
+2 encryption where a patient has expressly requested unencrypted email and acknowledged the risks.
+3 (g) The department of health shall promulgate rules, regulations, or guidance, including
+4 model authorization forms, to implement this section.
+5 SECTION 2. This act shall take effect upon passage.
+========
+LC005316
+========
+LC005316 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO BUSINESSES AND PROFESSIONS -- CONFIDENTIALITY OF
+HEALTHCARE COMMUNICATIONS AND INFORMATION ACT
+***
+1 This act would allow patients to authorize providers to email medical notes or records,
+2 require written consent acknowledging risks, and ensure compliance with HIPAA while expanding
+3 delivery options beyond fax or in-person pickup.
+4 This act would take effect upon passage.
+========
+LC005316
+========
+LC005316 - Page 3 of 3

@@ -1,0 +1,463 @@
+Title: 
+Official Title: 
+Source: versions - 8273
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8273
+========
+LC005928
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- HOMEOWNERS ASSOCIATION LAW
+Introduced By: Representatives McNamara, and Ackerman
+Date Introduced: March 11, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 34 of the General Laws entitled "PROPERTY" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 36.2
+4 RHODE ISLANDS HOMEOWNERS' ASSOCIATION LAW
+5 34-36.2-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Homeowner's
+7 Association Act"
+8 34-36.2-2. Legislative findings-purpose-applicability.
+9 (a) The general assembly finds that:
+10 (1) Residential communities governed by homeowners’ associations exercise substantial
+11 authority affecting property rights and financial obligations of homeowners;
+12 (2) Uniform statutory standards are necessary to promote transparency, fairness, and
+13 accountability in association governance;
+14 (3) Clear procedures governing meetings, financial management, elections, and dispute
+15 resolution reduce conflict and litigation.
+16 (4) Alternative dispute resolution provides an efficient and cost-effective means of
+17 resolving disputes within common-interest communities.
+18 (b) The purpose of this chapter is to:
+19 (1) Establish minimum governance standards for homeowners’ associations operating
+
+1 within this state; and
+2 (2) Protect the rights of association members while preserving the operational ability of
+3 associations to perform their functions.
+4 (c) This chapter applies to homeowners’ associations consisting of ten (10) or more
+5 separately owned parcels unless otherwise provided by law.
+6 34-36.2-3. Definitions.
+7 As used in this chapter, the following terms shall have the meanings set forth below:
+8 (1) “Annual budget dues” means the recurring assessments levied pursuant to the
+9 association’s adopted annual budget.
+10 (2) “Assessment” means a share of the funds required for payment of common expenses,
+11 annual budget dues, or any assessment for expenses in excess of or different from annual budget
+12 dues and other operational expenses, including special assessments assessed against members from
+13 time to time.
+14 (3) “Association” or “homeowners’ association” means a Rhode Island corporation
+15 responsible for the operation of a residential community or mobile home subdivision in which
+16 membership is mandatory as a condition of parcel ownership and which is authorized to impose
+17 assessments that may become a lien if unpaid.
+18 (4) “Board” or “board of directors” means the representative body responsible for
+19 administration of the association.
+20 (5) “Common area” means all real property within a community owned or leased by an
+21 association or dedicated for use or maintenance by the association or its members, regardless of
+22 whether title has been conveyed to the association.
+23 (6) “Common elements” means portions of association property excluding residential
+24 dwellings of which a member has title.
+25 (7) “Declaration” or “declaration of covenants” means a recorded written instrument
+26 creating covenants running with the land and subjecting the land comprising the community to the
+27 jurisdiction and control of an association.
+28 (8) “Developer” means a person or entity that creates the community served by the
+29 association or succeeds to the rights and liabilities of the creator, as evidenced in writing.
+30 (9) “Governing documents” means the recorded declaration of covenants and all duly
+31 adopted amendments, supplements, exhibits, articles of incorporation, bylaws, and rules and
+32 regulations of the association.
+33 (10) “Limited common element” means a portion of the common elements allocated by
+34 declaration or by operation for the exclusive use of one or more but fewer than all parcels or units.
+LC005928 - Page 2 of 14
+
+1 (11) “Member” means a parcel owner or association representative obligated under the
+2 governing documents to pay assessments or association fees.
+3 (12) “Parcel” means a platted or unplotted lot, tract, unit, or other subdivision of real
+4 property within a community that is capable of separate conveyance and subject to mandatory
+5 association membership.
+6 (13) “Presuit mediation” means a dispute resolution process conducted by a neutral third-
+7 party mediator prior to filing civil litigation under this chapter.
+8 (14) “Special assessment” means any assessment levied for expenses differing from annual
+9 dues, including capital improvement or replacement expenses.
+10 (15) “Unit” means a physical portion of association property designated for separate
+11 ownership or occupancy.
+12 (16) “Voting interest” means the voting rights distributed to members pursuant to the
+13 governing documents.
+14 34-36.2-4. Amendment of governing documents.
+15 (a) Governing documents may be amended only as provided by this chapter.
+16 (b) Unless a greater vote is required, amendments shall require approval of:
+17 (1) Members holding more than fifty percent (50%) of voting interests; and
+18 (2) Not less than two-thirds (2/3) of the board; or
+19 (3) Members in excess of sixty-six and two thirds percent (66 2/3%) of the voting interest
+20 in the association.
+21 (c) No bylaw or declaration shall be revised or amended by reference to its title or number
+22 only and proposals to amend existing bylaws or declarations shall contain the full text of the bylaws
+23 or declaration to be amended; new words shall be inserted in the text underlined, and words to be
+24 deleted shall be lined through with hyphens. However, if the proposed change is so extensive, it is
+25 not necessary to use underlining and hyphens as indicators of words added or deleted, but, instead
+26 a notation shall be inserted immediately preceding the proposed amendment in substantially the
+27 following language: "Substantial rewording of bylaw or declaration. See bylaw or declaration for
+28 present text"
+29 (d) Nonmaterial errors of omission in the bylaws and declaration process will not invalidate
+30 an otherwise properly promulgated amendment.
+31 (e) Every amendment to the declaration must be recorded in every municipality in which
+32 any portion of the association is located and is effective only upon recordation. An amendment
+33 shall be indexed in the grantee's index in the name of the homeowner's association and of the
+34 grantor's index in the name of the parties executing the amendment.
+LC005928 - Page 3 of 14
+
+1 (g) Amendments to the declaration required by this chapter to be recorded by the
+2 association shall be prepared, executed, recorded, and certified on behalf of the association by any
+3 officer of the association designated for that purpose or, in the absence of designation, by the
+4 president of the association.
+5 34-36.2-5. Association powers and duties-board governance.
+6 (a) Directors and officers owe a fiduciary duty to members.
+7 (b) Meetings of the board shall be open to members except for executive sessions involving
+8 litigation, personnel matters, or attorney-client privileged communications.
+9 (c) The board of directors shall retain a copy of the homeowner’s association law, and any
+10 amendments to the chapter promulgated each year.
+11 (d) Notice of board meetings shall be provided at least fourteen (14) days in advance unless
+12 emergency circumstances exist. Members of the board of administration may use email as a means
+13 of communication but may not cast a vote on an association matter via email. A meeting of the
+14 board of directors of an association occurs whenever a quorum of the board gathers to conduct
+15 association business. Meetings of the board must be open to all members, except for meetings
+16 between the board and its attorney with respect to proposed or pending litigation where the contents
+17 of the discussion would otherwise be governed by the attorney-client privilege.
+18 (e) Members have the right to attend all meetings of the board. The right to attend such
+19 meetings includes the right to speak at such meetings with reference to all designated agenda items.
+20 The association may adopt written reasonable rules expanding the right of members to speak and
+21 governing the frequency, duration, and other manner of member statements, which rules must be
+22 consistent with this section and may include a sign-up sheet or other form of registration for
+23 members wishing to speak. Notwithstanding any other law to the contrary, meetings between the
+24 board or a committee and the association's attorney to discuss proposed or pending litigation or
+25 meetings of the board held for the purpose of discussing personnel matters are not required to be
+26 open to the members other than directors.
+27 (f) The bylaws shall provide the following for giving notice to parcel owners and members
+28 of all board meetings:
+29 (1) Notices of all board meetings must specifically identify agenda items for the meetings
+30 and must be posted in a conspicuous place in the community at least forty-eight (48) hours in
+31 advance of a meeting, except in an emergency. In the alternative, if notice is not posted in a
+32 conspicuous place in the community, notice of each board meeting must be mailed or delivered to
+33 each member at least seven (7) days before the meeting, except in an emergency. Notwithstanding
+34 this general notice requirement, for communities with more than one hundred (100) members, the
+LC005928 - Page 4 of 14
+
+1 association bylaws may provide for a reasonable alternative to posting or mailing of notice for each
+2 board meeting, including publication of notice, provision of a schedule of board meetings, or the
+3 conspicuous posting. In addition to any of the authorized means of providing notice of a meeting
+4 of the board, the association may, by rule, adopt a procedure for conspicuously posting the meeting
+5 notice and the agenda on the association's website or an application that can be downloaded on a
+6 mobile device for at least the minimum period of time for which a notice of a meeting is also
+7 required to be physically posted on the association property. Any rule adopted must, in addition to
+8 other matters, include a requirement that the association send an electronic notice to members
+9 whose email addresses are included in the association's official records in the same manner as is
+10 required for a notice of a meeting of the members. A member must consent in writing to receiving
+11 notice by electronic transmission.
+12 (2) An assessment may not be levied at a board meeting unless the notice of the meeting
+13 includes a statement that assessments will be considered and the nature of the assessments. Written
+14 notice of any meeting at which special assessments will be considered or at which amendments to
+15 rules regarding parcel use will be considered must be mailed, delivered, or electronically
+16 transmitted to the members and parcel owners and posted conspicuously on the property or
+17 broadcast on closed-circuit cable television not less than fourteen (14) days before the meeting.
+18 (3) Directors may not vote by proxy or by secret ballot at board meetings, except that secret
+19 ballots may be used in the election of officers.
+20 (g) If twenty percent (20%) of the total voting interests petition the board to address an
+21 item of business, the board shall at its next regular board meeting or at a special meeting of the
+22 board, but not later than sixty (60) days after the receipt of the petition, take the petitioned item up
+23 on an agenda. The board shall give all members notice of the meeting at which the petitioned item
+24 shall be addressed in accordance with the fourteen (14) day notice requirement pursuant to
+25 subsection (f)(2) of this section. Each member shall have the right to speak for at least three (3)
+26 minutes on each matter placed on the agenda by petition; provided that, the member signs the sign-
+27 up sheet, if one is provided, or submits a written request to speak prior to the meeting. Other than
+28 addressing the petitioned item at the meeting, the board is not obligated to take any other action
+29 requested by the petition.
+30 34-36.2-6. Members’ meetings.
+31 (a) Annual meeting. The annual member's meeting shall be held on the date, at the place
+32 located upon the association property and at the time determined by the board of directors from
+33 time to time; provided that, there shall be an annual meeting every calendar year and to the extent
+34 possible, no later than thirteen (13) months after the last preceding annual meeting. The purpose of
+LC005928 - Page 5 of 14
+
+1 the meeting shall be, except as provided herein to the contrary, to elect board of directors and to
+2 transact any other business authorized to be transacted by the members, or as stated in the notice
+3 of the meeting sent to association members in advance thereof.
+4 (1) Board of directors organization meeting. Immediately following the annual meeting of
+5 the election of officers, the new board shall have an organizational meeting to elect officers.
+6 (b) Special meetings. Special members meetings shall be held at such places as provided
+7 herein for annual meetings and may be called by the president or by majority of the board of
+8 directors of the association, and must be called by the president or secretary upon receipt of a
+9 written request form from a majority of the members of the association or upon receipt of a written
+10 application of ten percent (10%) of the voting interests to the board or such other percentage as
+11 may be required. The business conducted at a special meeting shall be limited to that stated in the
+12 notice of the meeting. Special meetings may also be called by association members in the manner
+13 provided.
+14 34-36.2-7. Member owner complaints.
+15 In the event that a unit owner shall file with the board of directors a written complaint
+16 delivered by the United States first class mail, return receipt requested, the board shall, within thirty
+17 (30) days of receipt of complaint, respond in writing to the member owner filing such complaint.
+18 Such response shall either:
+19 (1) set forth a substantive response to the complaint; or
+20 (2) notify the member owner that a legal opinion has been requested. ln the event the board
+21 of directors shall request a legal opinion, the board of directors shall, within sixty (60) days after
+22 its receipt of the complaint, provide in writing a substantive response to the member owner.
+23 34-36.2-8. Minutes.
+24 (a) Minutes of all meetings of the members of an association and of the board of directors
+25 of an association must be maintained in written form or in another form that can be converted into
+26 written form within a reasonable time. A vote or abstention from voting on each matter voted upon
+27 for each director present at a board meeting must be recorded in the minutes.
+28 (b) Official records. The association shall maintain the following items, when applicable,
+29 for at least seven (7) years, unless the governing documents of the association require a longer
+30 period of time, which constitute the official records of the association:
+31 (1) Copies of any plans, specifications, permits, and warranties related to improvements
+32 constructed on the common areas or other property that the association is obligated to maintain,
+33 repair, or replace.
+34 (2) A copy of the bylaws of the association and of each amendment to the bylaws.
+LC005928 - Page 6 of 14
+
+1 (3) A copy of the articles of incorporation of the association and of each amendment
+2 thereto.
+3 (4) A copy of the declaration of covenants and a copy of each amendment thereto.
+4 (5) A copy of the current rules of the homeowners' association.
+5 (6) The minutes of all meetings of the board of directors and of the members.
+6 (7) All of the association’s insurance policies or a copy thereof.
+7 (8) A current copy of all contracts to which the association is a party including, without
+8 limitation, any management agreement, lease, or other contract under which the association has
+9 any obligation or responsibility. Bids received by the association for work to be performed are
+10 considered official records and must be kept for a period of one year.
+11 (9) The financial and accounting records of the association, kept according to good
+12 accounting practices. The financial and accounting records must include all tax returns, financial
+13 statements, and financial reports of the association.
+14 (10) Ballots, sign-in sheets, voting proxies, and all other papers and electronic records
+15 relating to voting by parcel owners, which must be maintained for at least 1 year after the date of
+16 the election, vote, or meeting including the following:
+17 (i) The articles of incorporation of association and each amendment thereto;
+18 (ii) The recorded bylaws of the association and each amendment thereto;
+19 (iii) The declaration of covenants and a copy of each amendment thereto;
+20 (iv) The current rules of the association; and
+21 (v) The annual budget and any proposed budget to be considered at the annual meeting.
+22 (c) Inspection and copying of records. Unless otherwise provided by law or the governing
+23 documents of the association, the official records must be maintained within this state for at least
+24 seven (7) years and be made available to a member for inspection or photocopying.
+25 34-36.2-9. Assessments.
+26 (a) Annual budget. The association shall prepare an annual budget or annual dues that sets
+27 out the annual operating expenses. The budget must reflect the estimated revenues and expenses
+28 for that year and the estimated surplus or deficit as of the end of the current year.
+29 (b) Reserves. The association shall have the power to adopt a budget that include reserves
+30 for capital expenditures and deferred maintenance. Additionally, the association may create a
+31 reserve account for a shortfall of the annual budget amount to cover year end invoice payments and
+32 other payments such as payroll.
+33 (1) Funds collected for each capital expenditure improvement or replacement shall
+34 establish a separate reserve account.
+LC005928 - Page 7 of 14
+
+1 (2) An association is deemed to have provided for reserve accounts upon the affirmative
+2 approval of a majority of the total voting interests of the association. Such approval may be obtained
+3 by vote of the members at a duly called meeting of the membership or by the written consent of a
+4 majority of the total voting interests of the association. The approval action of the membership
+5 must state that reserve accounts shall be provided for in the budget and must designate the
+6 components for which the reserve accounts are to be established. Upon approval by the
+7 membership, the board of directors shall include the required reserve accounts in the budget in the
+8 next fiscal year following the approval and each year thereafter. Once established as provided in
+9 this subsection, the reserve accounts must be funded or maintained or have their funding waived in
+10 the manner provided in section (b)(4) of this section.
+11 (3) The amount to be reserved in any account established shall be computed by means of a
+12 formula that is based upon estimated remaining useful life and estimated replacement cost or
+13 deferred maintenance expense of each reserve item. The association may adjust replacement
+14 reserve assessments annually to take into account any changes in estimates of cost or useful life of
+15 a reserve item.
+16 (4) After one or more reserve accounts are established, the membership of the association,
+17 upon a majority vote at a meeting at which a quorum is present, may provide for no reserves or less
+18 reserves than required by this section. If a meeting of the parcel owners has been called to determine
+19 whether to waive or reduce the funding of reserves and such result is not achieved or a quorum is
+20 not present, the reserves as included in the budget go into effect, pursuant to this subsection to
+21 waive or reduce reserves is applicable only to one budget year.
+22 (c) Special assessments.
+23 (1) Whenever in the judgment of the board of directors, the common elements, or any part
+24 thereof, shall require capital additions, alterations or improvements (as distinguished from
+25 maintenance, repairs and replacements) costing in excess of fifteen thousand dollars ($15,000) in
+26 the aggregate in any calendar year, the association may proceed with such additions, alterations or
+27 improvements only if the making of such additions, alterations or improvements shall have been
+28 approved by a majority of the voting interest of the members represented at a meeting at which a
+29 quorum is attained. Any such additions, alterations or improvements to such common elements, or
+30 any part thereof, costing of the aggregate fifteen thousand dollars ($15,000) or less in a calendar
+31 year may be made by the board of directors without approval of the members.
+32 34-36.2-10. Recall of directors.
+33 (a) Notwithstanding of any provision to the contrary contained in the governing documents,
+34 any member of the board of directors may be recalled and removed from office with or without
+LC005928 - Page 8 of 14
+
+1 cause by a majority of the total voting interests.
+2 (b) If a vacancy occurs on the board as a result of a recall and less than a majority of the
+3 board of directors are removed, the vacancy may be filled by the affirmative vote of a majority of
+4 the remaining directors, notwithstanding any provision to the contrary contained in this subsection
+5 or in the association documents. If vacancies occur on the board as a result of a recall and a majority
+6 or more of the board directors are removed, the vacancies shall be filled by members voting in
+7 favor of the recall; if removal is at a meeting, any vacancies shall be filled by the members at the
+8 meeting. If the recall occurred by agreement in writing or by written ballot, members may vote for
+9 replacement directors in the same instrument in accordance with procedural rules adopted by the
+10 division, which rules need not be consistent with this subsection.
+11 34-36.2-11. Compensation prohibited.
+12 A director, officer, or committee member of the association may not receive any salary or
+13 compensation from the association for the performance of duties as a director, officer, or committee
+14 member and may not in any other way benefit financially from service to the association.
+15 34-36.2-12. Notice of meetings.
+16 The bylaws shall provide for giving notice to members of all member meetings, and if they
+17 do not do so shall be deemed to provide the following: The association shall give all parcel owners
+18 and members actual notice of all membership meetings, which shall be mailed, delivered, or
+19 electronically transmitted to the members not less than fourteen (14) days prior to the meeting.
+20 Evidence of compliance with this fourteen (14) day notice shall be made by an affidavit executed
+21 by the person providing the notice and filed upon execution among the official records of the
+22 association. In addition to mailing, delivering, or electronically transmitting the notice of any
+23 meeting, the association may, by reasonable rule, adopt a procedure for conspicuously posting and
+24 repeatedly broadcasting the notice and the agenda on a closed-circuit cable television system
+25 serving the association. When broadcast notice is provided, the notice and agenda must be
+26 broadcast in a manner and for a sufficient continuous length of time so as to allow an average reader
+27 to observe the notice and read and comprehend the entire content of the notice and the agenda.
+28 34-36.2-13. Right to speak.
+29 Members and parcel owners have the right to attend all membership meetings and to speak
+30 at any meeting with reference to all items opened for discussion or included on the agenda.
+31 Notwithstanding any provision to the contrary in the governing documents or any rules adopted by
+32 the board or by the membership, a member and a parcel owner have the right to speak for at least
+33 three (3) minutes on any item. The association may adopt written reasonable rules governing the
+34 frequency, duration, and other manner of member and parcel owner statements, which rules must
+LC005928 - Page 9 of 14
+
+1 be consistent with this subsection.
+2 34-36.2-14. Proxy voting.
+3 The members have the right, unless otherwise provided in this section or in the governing
+4 documents, to vote in person or by proxy. To be valid, a proxy must be dated, must state the date,
+5 time, and place of the meeting for which it was given, and must be signed by the authorized person
+6 who executed the proxy. A proxy is effective only for the specific meeting for which it was
+7 originally given, as the meeting may lawfully be adjourned and reconvened from time to time, and
+8 automatically expires ninety (90) days after the date of the meeting for which it was originally
+9 given. A proxy is revocable at any time at the pleasure of the person who executes it. If the proxy
+10 form expressly so provides, any proxy holder may appoint, in writing, a substitute to act in his or
+11 her place.
+12 34-36.2-15. Elections and board vacancies.
+13 (a) Elections of directors must be conducted in accordance with the procedures set forth in
+14 the governing documents of the association. Except as provided below:
+15 (1) All members of the association are eligible to serve on the board of directors, and a
+16 member may nominate himself or herself as a candidate for the board at a meeting where the
+17 election is to be held; provided however, that if the election process allows candidates to be
+18 nominated in advance of the meeting, the association is not required to allow nominations at the
+19 meeting. An election is not required unless more candidates are nominated than vacancies exist. If
+20 an election is not required because there are either an equal number or fewer qualified candidates
+21 than vacancies exist, and if nominations from the floor are not required pursuant to this section or
+22 the bylaws, write-in nominations are not permitted and such qualified candidates shall commence
+23 service on the board of directors, regardless of whether a quorum is attained at the annual meeting.
+24 Except as otherwise provided in the governing documents, boards of directors must be elected by
+25 a plurality of the votes cast by eligible voters.
+26 (2) If the governing documents permit voting by secret ballot by members who are not in
+27 attendance at a meeting of the members for the election of directors, such ballots must be placed in
+28 an inner envelope with no identifying markings and mailed or delivered to the association in an
+29 outer envelope bearing identifying information reflecting the name of the member, the lot, parcel,
+30 or unit for which the vote is being cast, and the signature of the member casting that ballot. If the
+31 eligibility of the member to vote is confirmed and no other ballot has been submitted for that lot or
+32 parcel, the inner envelope shall be removed from the outer envelope bearing the identification
+33 information, placed with the ballots which were personally cast, and opened when the ballots are
+34 counted. Any vote by ballot received after the closing of the balloting shall not be considered. Any
+LC005928 - Page 10 of 14
+
+1 challenge to the election process must be commenced within sixty (60) days after the election
+2 results are announced.
+3 34-36.2-16. Alternative dispute resolution-mediation-nonbinding arbitration.
+4 (a) The filing of any petition for arbitration or the serving of a demand for presuit mediation
+5 as provided for in this section shall toll the applicable statute of limitations.
+6 (b) Disputes between an association and a parcel owner regarding use of or changes to the
+7 parcel or the common areas and other covenant enforcement disputes, disputes regarding
+8 amendments to the association documents, disputes regarding meetings of the board and
+9 committees appointed by the board, membership meetings not including election meetings, and
+10 access to the official records of the association shall be the subject of a demand for presuit
+11 mediation served by an aggrieved party before the dispute is filed in court. Presuit mediation
+12 proceedings must be conducted in accordance with the applicable Rhode Island rules of civil
+13 procedure, and these proceedings are privileged and confidential to the same extent as court-
+14 ordered mediation. Disputes subject to presuit mediation under this section shall not include the
+15 collection of any assessment, fine, or other financial obligation, including attorneys' fees and costs,
+16 claimed to be due or any action to enforce a prior mediation settlement agreement between the
+17 parties. Furthermore, in any dispute subject to presuit mediation under this section where
+18 emergency relief is required, a motion for temporary injunctive relief may be filed with the court
+19 without first complying with the presuit mediation requirements of this section. After any issues
+20 regarding emergency or temporary relief are resolved, the court may either refer the parties to a
+21 mediation program administered by the courts or require mediation under this section. An arbitrator
+22 or judge may not consider any information or evidence arising from the presuit mediation
+23 proceeding except in a proceeding to impose sanctions for failure to attend a presuit mediation
+24 session or to enforce a mediated settlement agreement. Persons who are not parties to the dispute
+25 may not attend the presuit mediation conference without the consent of all parties, except for
+26 counsel for the parties and a corporate representative designated by the association. When
+27 mediation is attended by a quorum of the board, such mediation is not a board meeting for purposes
+28 of notice and participation. An aggrieved party shall serve on the responding party a written demand
+29 to participate in presuit mediation in substantially the following form:
+30 “Offer to participate in presuit mediation
+31 The alleged aggrieved party, hereby demands that, as the responding party, engage in
+32 mandatory presuit mediation in connection with the following disputes, which by statute are of a
+33 type that are subject to presuit mediation:
+34 (List specific nature of the dispute or disputes to be mediated and the authority supporting
+LC005928 - Page 11 of 14
+
+1 a finding of a violation as to each dispute.)
+2 This demand to resolve the dispute through presuit mediation is required before a lawsuit
+3 can be filed concerning the dispute. Pursuant to the statute, the parties are required to engage in
+4 presuit mediation with a neutral third-party mediator in order to attempt to resolve this dispute
+5 without court action, and the aggrieved party demands that you likewise agree to this process. If
+6 you fail to participate in the mediation process, suit may be brought against you without further
+7 warning.
+8 The process of mediation involves a supervised negotiation process in which a trained,
+9 neutral third-party mediator meets with both parties and assists them in exploring possible
+10 opportunities for resolving part or all of the dispute. By agreeing to participate in presuit mediation,
+11 you are not bound in any way to change your position. Furthermore, the mediator has no authority
+12 to make any decisions in this matter or to determine who is right or wrong and merely acts as a
+13 facilitator to ensure that each party understands the position of the other party and that all options
+14 for reasonable settlement are fully explored.
+15 If an agreement is reached, it shall be reduced to writing and becomes a binding and
+16 enforceable commitment of the parties. A resolution of one or more disputes in this fashion avoids
+17 the need to litigate these issues in court. The failure to reach an agreement, or the failure of a party
+18 to participate in the process, results in the mediator declaring an impasse in the mediation, after
+19 which the aggrieved party may proceed to court on all outstanding, unsettled disputes.
+20 The aggrieved party has selected and hereby lists five (5) certified mediators who we
+21 believe to be neutral and qualified to mediate the dispute. You have the right to select any one of
+22 these mediators. The fact that one party may be familiar with one or more of the listed mediators
+23 does not mean that the mediator cannot act as a neutral and impartial facilitator. Any mediator who
+24 cannot act in this capacity is required ethically to decline to accept engagement. The mediators that
+25 we suggest, and their current hourly rates, are as follows:
+26 (List the names, addresses, telephone numbers, and hourly rates of the mediators. Other
+27 pertinent information about the background of the mediators may be included as an attachment.)
+28 You may contact the offices of these mediators to confirm that the listed mediators will be
+29 neutral and will not show any favoritism toward either party. The Rhode Island supreme court can
+30 provide you a list of certified mediators.
+31 Unless otherwise agreed by the parties, the parties share the costs of presuit mediation
+32 equally, including the fee charged by the mediator.
+33 34-36.2-17. Compliance.
+34 Compliance with the provisions of this chapter shall be enforced one year after passage of
+LC005928 - Page 12 of 14
+
+1 the act.
+2 34-36.2-18. Severability clause.
+3 If any provisions of this chapter or its application to any person or circumstance is held
+4 invalid, the invalidity does not affect other provisions or applications of this chapter which can be
+5 given effect without the invalid provision or application, and to this end the provisions of this
+6 chapter are severable.
+7 SECTION 2. This act shall take effect upon passage.
+========
+LC005928
+========
+LC005928 - Page 13 of 14
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- HOMEOWNERS ASSOCIATION LAW
+***
+1 This act would create the homeowners association law to provide operational procedures
+2 for residential communities subject to the management of a homeowner association.
+3 This act would take effect upon passage.
+========
+LC005928
+========
+LC005928 - Page 14 of 14
