@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - 2517  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2517 SUBSTITUTE A
+========
+LC004706/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- COMMUNITY OBLIGATIONS AND
+BANKING OFFENSES
+Introduced By: Senators Vargas, Thompson, Bell, Dimitri, Quezada, Lauria, Mack,
+Murray, DiPalma, and Appollonio
+Date Introduced: February 13, 2026
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 19-9 of the General Laws entitled "Community Obligations and
+2 Banking Offenses" is hereby amended by adding thereto the following section:
+3 19-9-21.2. Automated teller machine balance disclosure prior to withdrawal.
+4 (a) Prior to completing any cash withdrawal transaction, every automated teller machine
+5 located within the State of Rhode Island except as provided in subsection (d) of this section, shall
+6 provide the consumer with a free, real-time account balance display or balance inquiry option
+7 indicating the consumer’s available balance for the account being accessed.
+8 (b) The balance disclosure required pursuant to subsection (a) of this section shall:
+9 (1) Be presented clearly and prominently on the automated teller machine screen;
+10 (2) Be displayed before the consumer is prompted to enter a withdrawal amount; and
+11 (3) Provide the consumer with the option to cancel the transaction without charge.
+12 (c) No bank, credit union, or automated teller machine operator shall impose a fee or charge
+13 of any kind for a transaction where no money is dispensed or for the balance disclosure or balance
+14 inquiry required by this section or for any transaction that has been declined.
+15 (d) This section shall apply to all automated teller machines, including those owned or
+16 operated by financial institutions and non-bank operators, that permit cash withdrawals by
+17 consumers in this state except any automated teller machine owned, operated, leased, branded, or
+18 made available by or on behalf of a financial institution subject to the federal Gramm-Leach-Bliley
+
+1 Act, 15 U.S.C. § 6801 et seq.
+2 (e) Enforcement of this section shall be by the department of business regulation. A
+3 violation of this section shall constitute an unfair practice subject to administrative enforcement,
+4 including fines and corrective orders, as determined by the director.
+5 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC004706/SUB A
+========
+LC004706/SUB A - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FINANCIAL INSTITUTIONS -- COMMUNITY OBLIGATIONS AND
+BANKING OFFENSES
+***
+1 This act would require that automated teller machines disclose the account balance prior to
+2 any cash withdrawal.
+3 This act would take effect on January 1, 2027.
+========
+LC004706/SUB A
+========
+LC004706/SUB A - Page 3 of 3

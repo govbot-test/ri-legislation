@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - 7817
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7817
+========
+LC005052
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO INSURANCE -- PHARMACY FREEDOM OF CHOICE -- FAIR
+COMPETITION AND PRACTICES
+Introduced By: Representative Charlene Lima
+Date Introduced: February 26, 2026
+Referred To: House Health & Human Services
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 27-29.1-1 of the General Laws in Chapter 27-29.1 entitled "Pharmacy
+2 Freedom of Choice — Fair Competition and Practices" is hereby amended to read as follows:
+3 27-29.1-1. Definitions.
+4 For purposes of this chapter, the following terms shall mean:
+5 (1) “Director” shall mean the director of the department of business regulation.
+6 (2) “Eligible bidder” shall mean a retail pharmacy, community pharmacy, or pharmacy
+7 department registered pursuant to chapter 19.1 of title 5, irrespective of corporate structure or
+8 number of locations at which it conducts business, located within the geographical service area of
+9 a carrier and willing to bid for participation in a restricted pharmacy network contract.
+10 (3) “Insured” shall mean any person who is entitled to have pharmacy services paid by an
+11 insurer pursuant to a policy, certificate, contract, or agreement of insurance or coverage.
+12 (4) “Insurer” shall mean an insurance carrier as defined in chapters 18, 19, 20, and 41 of
+13 this title.
+14 (5) “Nonrestricted pharmacy network” shall mean a network that permits any pharmacy to
+15 participate on substantially uniform terms and conditions established by an insurer or pharmacy
+16 benefits manager.
+17 (6) “Pharmacy benefits manager” shall mean any person or entity who or that is not
+18 licensed in Rhode Island as an insurer and that develops or manages pharmacy benefits, pharmacy
+
+1 network contracts, or the pharmacy benefit bid process.
+2 (7) “Prescriber” shall mean any healthcare professional licensed pursuant to the laws of
+3 this state and authorized to prescribe drugs to patients to treat or manage any condition of the body
+4 or mind.
+5 (7)(8) “Restricted pharmacy network” shall mean an arrangement for the provision of
+6 pharmaceutical drug services to insureds that under the terms of an insurer’s policy, certificate,
+7 contract, or agreement of insurance or coverage requires an insured or creates a financial incentive
+8 for an insured to obtain prescription drug services from one or more participating pharmacies that
+9 have entered into a specific contractual relationship with the carrier.
+10 SECTION 2. Chapter 27-29.1 of the General Laws entitled "Pharmacy Freedom of Choice
+11 — Fair Competition and Practices" is hereby amended by adding thereto the following section:
+12 27-29.1-7.1. Acceptance of prescriber’s-recommended drug.
+13 (a) A pharmacy benefits manager shall accept and honor a prescriber’s chosen prescription
+14 drug for a patient.
+15 (b) A pharmacy benefits manager is prohibited from substituting, denying, rejecting, or
+16 otherwise failing to authorize coverage for a prescription drug selected by a prescriber for a patient
+17 on the basis of the pharmacy benefits manager’s own clinical judgment, cost containment protocol,
+18 formulary preference, or step therapy requirement.
+19 (c) Any pharmacy benefits manager’s action that results in the denial, delay, or
+20 modification of a prescriber’s chosen drug for a patient shall be deemed an unlawful interference
+21 with the practice of medicine and shall be subject to penalties instituted by the director of the
+22 department of business regulation.
+23 (d) The director of the department of business regulation or the director’s designee shall
+24 promulgate rules, regulations, and penalties necessary to implement this chapter.
+25 SECTION 3. This act shall take effect upon passage.
+========
+LC005052
+========
+LC005052 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO INSURANCE -- PHARMACY FREEDOM OF CHOICE -- FAIR
+COMPETITION AND PRACTICES
+***
+1 This act would prohibit pharmacy benefits managers from refusing to provide coverage for
+2 a prescription drug chosen for a patient by the patient’s healthcare provider.
+3 This act would take effect upon passage.
+========
+LC005052
+========
+LC005052 - Page 3 of 3

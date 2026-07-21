@@ -1,0 +1,303 @@
+Title: 
+Official Title: 
+Source: versions - 7879  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7879 SUBSTITUTE A
+========
+LC004920/SUB A/2
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- THERMAL ENERGY NETWORK
+AND JOBS ACT
+Introduced By: Representatives Cortvriend, Handy, Boylan, McGaw, and Edwards
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 39 of the General Laws entitled "PUBLIC UTILITIES AND
+2 CARRIERS" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 36
+4 THERMAL ENERGY NETWORK AND JOBS ACT
+5 39-36-1. Short title.
+6 This chapter shall be known and may be cited as the "Thermal Energy Network and Jobs
+7 Act".
+8 39-36-2. Purpose.
+9 Thermal energy networks have the potential to contribute to the satisfaction of the
+10 greenhouse gas reduction and just-transition requirements of chapter 6.2 of title 42 ("2021 act on
+11 climate") while potentially offering reduced operating costs and decreased costs of future
+12 expansion. The purpose of the thermal energy network and jobs act is to facilitate the study of this
+13 technology in an effort to determine if these goals can be met by the implementation of thermal
+14 energy networks in Rhode Island.
+15 39-36-3. Definitions.
+16 When used in this chapter, the following words and phrases are construed as follows:
+17 (1) "Environmental justice focus area" means a census tract that meets one or more of the
+18 following criteria:
+
+1 (i) Annual median household income is not more than sixty-five percent (65%) of the
+2 statewide annual median household income;
+3 (ii) Minority population is equal to or greater than forty percent (40%) of the population;
+4 (iii) Twenty-five percent (25%) or more of the households lack English language
+5 proficiency; or
+6 (iv) Minorities comprise twenty-five percent (25%) or more of the population, and the
+7 annual median household income of the municipality in the proposed area does not exceed one
+8 hundred fifty percent (150%) of the statewide annual median household income.
+9 (2) "Public-private partnerships" means a long-term contract between the state and a private
+10 partner that develops, finances, constructs, operates, or maintains a state-owned physical asset or
+11 property in which the private party bears significant risk over the long term.
+12 (3) "Public right-of-way" means the area on, below, or above any street, avenue, boulevard,
+13 road, highway, sidewalk, alley, waterway, land, or easement that is owned, leased, or controlled by
+14 a public or quasi-public entity.
+15 (4) "Public utility" means the natural gas utility and or the electric distribution company as
+16 defined in § 39-1-2(a)(20) that serves over twenty-five thousand (25,000) ratepayers.
+17 (5) "PUC" means the public utilities commission.
+18 (6) "Thermal energy" means piped non-combustible fluids used for transferring heat into
+19 and out of buildings from heating and cooling processes, including comfort heating and cooling,
+20 domestic hot water, and refrigeration.
+21 (7) "Thermal energy network" means all real estate, fixtures, and personal property
+22 operated, owned, used, or to be used for, or for the primary purpose of facilitating, a utility-scale
+23 or community-scale distribution-infrastructure project that supplies thermal energy.
+24 39-36-4. Feasibility studies and recovery of approved implementation costs.
+25 (a) Upon passage, the public utility shall, within twelve (12) months of the effective date
+26 of this section, identify no fewer than two (2) and no more than twelve (12) potential locations for
+27 thermal energy network feasibility studies representing diverse geographies and building types.
+28 Within eighteen (18) months of the effective date of this section, the public utility shall commence
+29 at least two (2) feasibility studies relating to the selected locations.
+30 (b) At least one location considered shall be located within or directly benefit an
+31 environmental justice focus area, as defined in § 39-36-3 as determined by the department of
+32 environmental management.
+33 (c) In evaluating the locations to determine which location(s) should be subject to a
+34 feasibility study, the public utility shall consider:
+LC004920/SUB A/2 - Page 2 of 9
+
+1 (1) Greenhouse gas emissions reductions;
+2 (2) Cost-effectiveness, including projected energy-cost savings and operations and
+3 maintenance costs over the useful life of the equipment;
+4 (3) Potential engineering and design requirements;
+5 (4) Potential operations and maintenance requirements;
+6 (5) Ownership of buildings or facilities receiving network benefits; and
+7 (6) The degree to which the project benefits communities experiencing disproportionate
+8 environmental or public-health burdens.
+9 (d) In developing the initial list of locations to study, the public utility shall consider
+10 diversity in geography, customer class, and average annual consumption of thermal energy. The
+11 list shall include for consideration the following areas:
+12 (1) The Port of Providence and neighboring communities;
+13 (2) Residential, hospital, and health-care facilities;
+14 (3) Lower South Providence;
+15 (4) Facilities within the jurisdiction of the Rhode Island Convention Center Authority;
+16 (5) Facilities within the jurisdiction of the Quonset Development Corporation;
+17 (6) University of Rhode Island campuses;
+18 (7) Aquidneck Island;
+19 (8) The Port of Galilee; and
+20 (9) Pastore Center Campus.
+21 (e) All costs reasonably incurred by utilities in connection with its compliance with this
+22 chapter shall be fully recoverable by said utility. Provided, however, that each utility shall endeavor
+23 to secure available non-ratepayer funding, including from federal or state grants, subsidized loans,
+24 or tax credits to reduce said costs. To the extent a utility receives such funding support, the cost
+25 recovered pursuant to this subsection shall be offset by the amount of such funding support.
+26 (f) Without limiting the generality of subsection (e) of this section, the PUC shall authorize
+27 recovery of reasonable and prudently incurred costs associated with planning and feasibility studies
+28 for thermal energy network projects, provided that:
+29 (1) Such recovery shall be conditioned upon the utility's demonstration that it has pursued
+30 available non-ratepayer funding, including federal or state grants, tax credits, or low-interest
+31 financing; and
+32 (2) The PUC shall ensure that any rate recovery is just, reasonable, and limited so as not to
+33 impose an undue burden on ratepayers.
+34 (g) The PUC may authorize the public utility to use or leverage existing demand side
+LC004920/SUB A/2 - Page 3 of 9
+
+1 management charge pursuant to § 39-2-1.2 for planning, design, and construction of thermal-energy
+2 networks.
+3 (h) The utility may draw upon available state funding including, but not limited to, the
+4 office of energy resources ("OER") and Rhode Island infrastructure bank ("RIIB") programs and
+5 incentives, as well as federal technical-assistance programs to support such studies.
+6 (i) The OER may use Lead by Example (LBE) program funds and other state assistance to
+7 support feasibility and engineering studies requested by utilities, municipalities, or public-private
+8 partnerships.
+9 39-36-5. Thermal energy network pilot project.
+10 (a) Upon the completion of any feasibility study conducted by a utility in accordance with
+11 § 39-36-4, the relevant utility shall determine if the studied project is in fact feasible and, if so, may
+12 prepare and submit a proposal to the PUC to develop a pilot project that is consistent with the
+13 subject and results of said feasibility study.
+14 (b) The PUC shall approve cost recovery for all just and reasonably incurred costs
+15 associated with pilot projects that the PUC determines provide a net benefit to the relevant utility’s
+16 ratepayers based on its consideration of the following factors:
+17 (1) Greenhouse gas emissions reductions;
+18 (2) Cost-effectiveness, including projected energy-cost savings and operations and
+19 maintenance costs over the useful life of the equipment;
+20 (3) The degree to which the projected pilot program costs are funded by sources other than
+21 ratepayers, including by direct state support and/or by grants received by the utility in support of
+22 the project;
+23 (4) Benefits to communities experiencing disproportionate environmental or public-health
+24 burdens; and
+25 (5) A demonstration by the utility that non-ratepayer funding sources were explored to
+26 offset costs to ratepayers including, but not limited to, federal or state grants, financing sourced
+27 through public bonds, subsidized loans, or tax credits, pursuant to the provisions of this chapter.
+28 (c) For the avoidance of doubt, a utility shall have no obligation to proceed with a pilot
+29 project unless said project has been:
+30 (1) Approved by the PUC; and
+31 (2) The PUC has approved full cost recovery for the project other than to the extent such
+32 costs are funded by direct state support or by grants received by the utility in support of the project.
+33 (d) Notwithstanding any other provision of law, any public utility engaged in the business
+34 of natural gas distribution shall, subject to approval by the public utilities commission, be entitled
+LC004920/SUB A/2 - Page 4 of 9
+
+1 to own, construct, or operate thermal energy networks for the purpose of selling and distributing
+2 thermal energy and shall be entitled to charge and collect payment from its customers in connection
+3 therewith in accordance with and subject to the provisions of title 39. Nothing in this subsection
+4 shall be construed to limit the authority of the state, municipalities, cooperatives, or nonprofit
+5 entities to develop thermal energy networks in partnership with a public utility.
+6 39-36-6. Thermal energy networks regulation.
+7 (a) As part of any agreement with a public entity to construct a thermal energy network
+8 project that enters or crosses a public right-of-way, as defined in § 39-36-3, the public utility
+9 company shall:
+10 (1) For the construction of projects of one thousand dollars ($1,000) or greater, the public
+11 utility, and each contractor or subcontractor who performs work on those projects shall:
+12 (i) Pay each construction employee wages and benefits that are not less than the prevailing
+13 wage and fringe benefit rates in compliance with chapter 13 of title 37 ("labor and payment of debts
+14 by contractors") for the corresponding classification in which the employee is employed; and
+15 (ii) Be subject to all reporting and compliance requirements of chapter 13 of title 37;
+16 (2) For the construction of projects of one million dollars ($1,000,000) or greater, the public
+17 utility, and each contractor or subcontractor who performs work on those projects shall ensure that,
+18 no less than fifteen percent (15%) of the labor hours worked on the project shall be performed by
+19 registered apprentices for all crafts or trades with approved apprenticeship programs, as defined in
+20 § 39-26.9-2, that will be employed on the project;
+21 (b) For purposes of this section, a Class A Apprenticeship program is an apprenticeship
+22 program currently registered with the U.S. Department of Labor or a state apprenticeship agency
+23 and has graduated apprentices to journeyperson status for at least three (3) of the past five (5) years.
+24 This may be a program subject to the Employee Retirement Income Security Act of 1974, 29 U.S.C.
+25 § 1001 et seq. ("ERISA"), or a non-ERISA program.
+26 (c) To demonstrate compliance with this section, the public utility, contractor, or
+27 subcontractor, as applicable, shall provide, with this certification, a list of all trades or
+28 classifications of craft employees it will employ on the project and documentation verifying it
+29 participates in a Class A Apprenticeship program for each trade or classification listed. If the public
+30 utility, contractor, or subcontractor is unable to meet the fifteen percent (15%) requirement due to
+31 the unavailability of apprentices meeting the requirements of this section, said party may comply
+32 with this section by submitting the certification along with evidence of the efforts taken to comply
+33 herewith including, but not limited to, the bidding and responsive documents for the relevant scopes
+34 of work and evidence that:
+LC004920/SUB A/2 - Page 5 of 9
+
+1 (1) A trade or field does not have an apprenticeship program or cannot produce members
+2 from its program capable of performing the scope of work within the contract; or
+3 (2) The size and scope of the work will not allow for the contractor to comply with the
+4 apprenticeship ratio requirements for the craft affected; or
+5 (3) For any other non-economic justifiable reason that demonstrates good cause.
+6 (d) Contractors and subcontractors that violate subsection (a) of this section shall be subject
+7 to penalties and sanctions in accordance with chapter 13 of title 37.
+8 (e) Public utilities shall ensure that all contracts require contractors and subcontractors to
+9 comply with the provisions of this section in connection with their own employees; provided that,
+10 in connection with said contracts, the administrative reporting obligations herein shall be solely the
+11 responsibility of said contractors and subcontractors. This subsection shall not limit the public
+12 utility's obligations in connection with its own employees.
+13 (f) Any thermal energy network constructed under this section shall demonstrate that the
+14 public utility company has entered into a labor peace agreement, as defined in § 39-26.9-2, with a
+15 bona fide labor organization, as defined in § 39-26.9-2, of jurisdiction that is actively engaged in
+16 representing gas and electric company employees for the operations and maintenance of such
+17 thermal energy networks. Nothing in this subsection shall be construed to supersede or invalidate
+18 an existing collective bargaining agreement. Where employees performing operations and
+19 maintenance work are already covered by a collective bargaining agreement, such agreement shall
+20 satisfy the requirements of this subsection.
+21 (g) Notwithstanding the other provisions to the contrary, the provisions of this section shall
+22 not apply to:
+23 (1) Work performed by employees or contractors of a relevant public utility and/or
+24 subcontractors thereof, who already are subject to the terms of an existing collective bargaining
+25 agreement, in which case the terms of the existing collective bargaining agreement shall control;
+26 or
+27 (2) Work performed by employees or contractors of a relevant public utility and/or
+28 subcontractor thereof who are ineligible to bargain collectively under the National Labor Relations
+29 Act.
+30 39-36-7. Thermal energy network taskforce.
+31 (a) The PUC shall form a thermal energy network taskforce, which shall be an advisory
+32 committee to evaluate the results of the feasibility studies conducted in accordance with § 39-36-4
+33 and any pilot project undertaken in accordance with § 39-36-5. The taskforce shall meet not less
+34 than quarterly at the PUC and shall be comprised of eleven (11) members appointed by the PUC,
+LC004920/SUB A/2 - Page 6 of 9
+
+1 which shall include: the commissioner of the office of energy resources, or designee; the
+2 administrator of the division of public utilities and carriers, or designee; the president of the Rhode
+3 Island AFL-CIO, or designee; the president of the Rhode Island building & construction trades
+4 council, or designee; four (4) members from a public utility that is subject to the provisions of this
+5 chapter, appointed by the chairperson of the PUC; one representative of utility workers and one
+6 representative of steelworkers, each appointed by the president of the Rhode Island AFL-CIO; and
+7 one member of the public appointed by the chairperson of the PUC who shall be selected to ensure
+8 balanced representation of the following interests and areas of expertise:
+9 (1) Community, environmental and climate justice organizations or advocates; and
+10 (2) State or municipal policy and planning, including in connection with energy,
+11 environment, and infrastructure.
+12 (b) The taskforce shall provide periodic written updates on the status and insights from the
+13 feasibility studies and any pilot projects.
+14 (c) The purpose of said taskforce shall be to advise the PUC and public utility on the
+15 deployment of thermal energy and thermal energy networks throughout the state. As such, the
+16 taskforce shall:
+17 (1) Identify and align funding mechanisms (federal, state, rate-based, and private);
+18 (2) Recommend coordination among utilities, municipalities, and private developers:
+19 (3) Advise on workforce transition and labor standards;
+20 (4) Recommend locations and models for pilots and permanent projects; and
+21 (5) Create a framework to guide the state in planning for the expansion and accelerated
+22 deployment of thermal energy and thermal energy network systems, including recommendations
+23 for statewide infrastructure planning, integration with existing utility assets, and prioritization of
+24 environmental justice focus areas.
+25 (d) The taskforce shall submit a written report to the PUC, DEM, OER, and the general
+26 assembly no later than eighteen (18) months following its receipt of the complete results from the
+27 feasibility studies, which report shall include, but not be limited to, findings and actionable
+28 recommendations for consideration in state planning and regulatory processes, including pertaining
+29 to the following:
+30 (1) Creation of fair market access rules for utility-owned thermal energy networks to accept
+31 thermal energy that aligns with the climate justice, just transition, and greenhouse gas emissions
+32 reductions requirements of chapter 6.2 of title 42 ("2021 act on climate") and that does not increase
+33 greenhouse gas emissions or co-pollutants;
+34 (2) Criteria for cost-effectiveness;
+LC004920/SUB A/2 - Page 7 of 9
+
+1 (3) Potential rate structures for thermal energy networks;
+2 (4) Promotion of the training and transition of workers in the fossil fuel industry impacted
+3 by this chapter; and
+4 (5) The establishment of equitable rules for cost recovery by utilities for thermal energy
+5 networks.
+6 (e) The taskforce shall expire six (6) months following the delivery of the report identified
+7 in subsection (d) of this section, unless extended by the general assembly.
+8 39-36-8. Thermal energy networks regulation.
+9 (a) The general assembly finds and declares that thermal energy networks have the
+10 potential to be important to the state meeting the just transition, equity, and decarbonization
+11 requirements of chapter 6.2 of title 42 ("2021 act on climate") and further finds and declares that:
+12 (1) To the extent feasible, the public utility shall pursue cost effective investments in
+13 thermal energy networks when it is in the public interest; and
+14 (2) The public utilities commission shall exercise its authority to implement the provisions
+15 of this chapter and, to the extent feasible, support the implementation of thermal energy networks,
+16 pursuant to chapter 6.2 of title 42 ("2021 act on climate").
+17 (b) In promulgating rules and regulations for thermal energy networks, the PUC shall
+18 consider the advisory opinion and report findings of the taskforce.
+19 39-36-9. Severability.
+20 If any provision of this chapter or the application thereof to any person or circumstances is
+21 held invalid, such invalidity shall not affect other provisions or applications of the chapter, which
+22 can be given effect without the invalid provision or application, and to this end the provisions of
+23 this chapter are declared to be severable.
+24 SECTION 2. This act shall take effect upon passage.
+========
+LC004920/SUB A/2
+========
+LC004920/SUB A/2 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- THERMAL ENERGY NETWORK
+AND JOBS ACT
+***
+1 This act would establish the thermal energy network and jobs act to facilitate the study of
+2 this technology to determine if these goals can be met by the implementation of thermal energy
+3 networks in Rhode Island. The act would create a twelve (12) member task force of interested
+4 parties which would be an advisory committee to evaluate the results of the feasibility studies.
+5 This act would take effect upon passage.
+========
+LC004920/SUB A/2
+========
+LC004920/SUB A/2 - Page 9 of 9

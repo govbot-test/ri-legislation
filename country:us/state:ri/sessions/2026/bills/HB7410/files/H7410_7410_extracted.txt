@@ -1,0 +1,709 @@
+Title: 
+Official Title: 
+Source: versions - 7410
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7410
+========
+LC004455
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO FOOD AND DRUGS -- THE RHODE ISLAND CANNABIS ACT
+Introduced By: Representative Scott Slater
+Date Introduced: January 30, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 21-28.11-3, 21-28.11-7, 21-28.11-9, 21-28.11-10.2 and 21-28.11-
+2 11 of the General Laws in Chapter 21-28.11 entitled "The Rhode Island Cannabis Act" are hereby
+3 amended to read as follows:
+4 21-28.11-3. Definitions.
+5 For purposes of this chapter, the following words, terms and phrases shall have the
+6 following meanings:
+7 (1) “Administrator” means the administrator of the cannabis office appointed by the
+8 governor pursuant to the provisions of § 21-28.11-18.1.
+9 (2) “Adult use cannabis” or “recreational cannabis” means cannabis which may be legally
+10 possessed and consumed for non-medical purposes by a person who is at least twenty-one (21)
+11 years of age.
+12 (3) “Applicant” means a Rhode Island resident or a business entity with a principal place
+13 of business located in Rhode Island to include, person or business entity including, but not limited
+14 to, a corporation, limited liability company, limited liability partnership or partnership, and in
+15 which fifty-one percent (51%) of the equity in the business entity is owned by residents of Rhode
+16 Island, and the Rhode Island resident or business entity who has made application for issuance of
+17 a license or certificate to own or engage in a cannabis business subject to the provisions of this
+18 chapter.
+19 (4) “Cannabinoid’' means any of several compounds produced by cannabis plants that have
+
+1 medical and psychotropic effects.
+2 (5) “Cannabinoid profile” means amounts, expressed as the dry-weight percentages, of
+3 delta-9-tetrahydrocannabinol, cannabidiol, tetrahydrocannabinolic acid and cannabidiolic acid in a
+4 cannabis product. Amounts of other cannabinoids may be regulated by the commission.
+5 (6) “Cannabis” or “marijuana” or “marihuana” means all parts of any plant of the genus
+6 cannabis not excepted herein, and whether growing or not; the seeds thereof; and resin extracted
+7 from any part of the plant; and every compound, manufacture, salt, derivative, mixture or
+8 preparation of the plant, its seeds or resin including tetrahydrocannabinol; provided, however, that
+9 “cannabis” shall not include:
+10 (i) The mature stalks of the plant, fiber produced from the stalks, oil, or cake made from
+11 the seeds of the plant, any other compound, manufacture, salt, derivative, mixture or preparation of
+12 the mature stalks, fiber, oil or cake made from the seeds of the plant or the sterilized seed of the
+13 plant that is incapable of germination;
+14 (ii) Hemp; or
+15 (iii) The weight of any other ingredient combined with cannabis to prepare topical or oral
+16 administrations, food, drink or other products.
+17 (7) “Cannabis accessories” or “marijuana accessories” means equipment, products, devices
+18 or materials of any kind that are intended or designed for use in planting, propagating, cultivating,
+19 growing, harvesting, manufacturing, compounding, converting, producing, processing, preparing,
+20 testing, analyzing, packaging, repackaging, storing, containing, ingesting, inhaling or otherwise
+21 introducing cannabis into the human body.
+22 (8) “Cannabis advisory board” or “advisory board” means the cannabis advisory board
+23 established pursuant to the provisions of § 21-28.11-6.
+24 (9) “Cannabis concentrate” means the resin extracted from any part of the plant of the
+25 genus cannabis and every compound, manufacture, salt, derivative, mixture or preparation of that
+26 resin but shall not include the weight of any other ingredient combined with cannabis to prepare
+27 cannabis products.
+28 (10) “Cannabis control commission” or “commission” means the Rhode Island cannabis
+29 control commission established by § 21-28.11-4.
+30 (11) “Cannabis cultivator” or “marijuana cultivator” means an entity licensed to cultivate,
+31 process and package cannabis, to deliver cannabis to cannabis establishments and to transfer
+32 cannabis to other cannabis establishments, but not to consumers.
+33 (12) “Cannabis establishment” or “marijuana establishment” means a cannabis cultivator,
+34 cannabis testing laboratory, cannabis product manufacturer, cannabis retailer, hybrid cannabis
+LC004455 - Page 2 of 21
+
+1 retailer or any other type of licensed cannabis-related business.
+2 (13) “Cannabis office” means the office established pursuant to § 21-28.11-18.1.
+3 (14) “Cannabis product manufacturer” or “marijuana product manufacturer”' means an
+4 entity licensed to obtain, manufacture, process and package cannabis and cannabis products, to
+5 deliver cannabis and cannabis products to cannabis establishments and to transfer cannabis and
+6 cannabis products to other cannabis establishments, but not to consumers.
+7 (15) “Cannabis products” or “marijuana products” means products that have been
+8 manufactured and contain cannabis or an extract from cannabis, including concentrated forms of
+9 cannabis and products composed of cannabis and other ingredients that are intended for use or
+10 consumption, including edible products, beverages, topical products, ointments, oils and tinctures.
+11 (16) “Cannabis retailer” or “marijuana retailer” means an entity licensed pursuant to § 21-
+12 28.11-10.2 to purchase and deliver cannabis and cannabis products from cannabis establishments
+13 and to deliver, sell or otherwise transfer cannabis and cannabis products to cannabis establishments
+14 and to consumers.
+15 (17) “Cannabis testing laboratory’' means a third-party analytical testing laboratory that is
+16 licensed annually by the commission, in consultation with the department of health, to collect and
+17 test samples of cannabis and cannabis products pursuant to regulations issued by the commission
+18 and is:
+19 (i) Independent financially from any medical cannabis treatment center or any licensee or
+20 cannabis establishment for which it conducts a test; and
+21 (ii) Qualified to test cannabis in compliance with regulations promulgated by the
+22 commission pursuant to this chapter. The term includes, but is not limited to, a cannabis testing
+23 laboratory as provided in § 21-28.11-11.
+24 (18) “Chairperson” means the chairperson of the cannabis control commission established
+25 pursuant to § 21-28.11-4.
+26 (19) “Close associate” means a person who holds a legally recognized financial interest in,
+27 or is entitled to exercise power in, the business of an applicant or licensee and, by virtue of that
+28 interest or power, is able to exercise a significant influence over the management or operation of a
+29 cannabis establishment licensed under this chapter.
+30 (20) “Consumer” means a person who is at least twenty-one (21) years of age, and who is
+31 authorized by law to consume or use cannabis.
+32 (21) “Controlling person” means an officer, board member or other individual who has a
+33 financial or voting interest of ten percent (10%) or greater in a cannabis establishment.
+34 (22) “Cultivation batch” means a collection of cannabis plants from the same seed or plant
+LC004455 - Page 3 of 21
+
+1 stock that are cultivated and harvested together, and receive an identical propagation and cultivation
+2 treatment, including, but not limited to: growing media, ambient conditions, watering and light
+3 regimes and agricultural or hydroponic inputs. Every cannabis cultivator licensee shall assign and
+4 record a unique, sequential alphanumeric identifier to each cultivation batch for the purposes of
+5 production tracking, product labeling and product recalls.
+6 (23) “Disproportionately impacted area” means a census tract or comparable geographic
+7 area that satisfies at least one of the following criteria as determined by the commission, that:
+8 (i) The area has a poverty rate of at least twenty percent (20%) according to the latest
+9 federal decennial census;
+10 (ii) Seventy-five percent (75%) or more of the children in the area participate in the federal
+11 free lunch program according to reported statistics from the Rhode Island board of education;
+12 (iii) At least twenty percent (20%) of the households in the area receive assistance under
+13 the Supplemental Nutrition Assistance Program (SNAP);
+14 (iv) The area has an average unemployment rate, as determined by the Rhode Island
+15 department of labor and training, that is more than one hundred twenty percent (120%) of the
+16 national unemployment average, as determined by the United States Department of Labor, for a
+17 period of at least two (2) consecutive calendar years preceding the date of the application; or
+18 (v)(A) The area has disproportionately high rates of arrest, conviction, and incarceration
+19 related to the sale, possession, use, cultivation, manufacture, or transportation of cannabis in
+20 comparison to other communities and localities in the state; or
+21 (B) The area has a history of arrests, convictions, and other law enforcement practices in a
+22 certain geographic area, such as, but not limited to, precincts, zip codes, neighborhoods, and
+23 political subdivisions, reflecting a disparate enforcement of cannabis prohibition during a certain
+24 time period, when compared to the remainder of the state.
+25 (vi) The commission shall, with recommendations from the cannabis advisory board and
+26 the chief equity officer, issue guidelines to determine how to assess which communities have been
+27 disproportionately impacted and how to assess if someone is a member of a community
+28 disproportionately impacted.
+29 (24) “Final issuance of the commission’s rules and regulations” means the rules and
+30 regulations adopted by the commission after compliance with requirements of chapter 35 of title
+31 42 (the “administrative procedures act”) and chapter 46 of title 42 (the “open meetings act”) and
+32 shall not include any emergency, provisional or interim rules, regulations, requirements, orders,
+33 instructions or procedures.
+34 (25) “Finished cannabis” means a usable cannabis, cannabis resin or cannabis concentrate.
+LC004455 - Page 4 of 21
+
+1 (26) “Hemp” means the plant of the genus cannabis or any part of the plant, whether
+2 growing or not, with a delta-9-tetrahydrocannabinol concentration that does not exceed three tenths
+3 of one percent (0.3%) on a dry weight basis of any part of the plant of the genus cannabis, or per
+4 volume or weight of cannabis product, or the combined per cent of delta-9-tetrahydrocannabinol
+5 and tetrahydrocannabinolic acid in any part of the plant of the genus cannabis regardless of moisture
+6 content.
+7 (27) “Host community” means a municipality in which a cannabis establishment or a
+8 medical cannabis treatment center is located or in which an applicant has proposed locating a
+9 cannabis establishment or a medical cannabis treatment center.
+10 (28) “Hybrid cannabis retailer” or “hybrid compassion center” means a compassion center
+11 licensed pursuant to chapter 28.6 of this title that is in good standing with the department of business
+12 regulation and that has paid the fee pursuant to § 21-28.11-10 and has been authorized to sell non-
+13 medical or adult use cannabis to consumers.
+14 (29) “Laboratory agent” means a registered employee of a cannabis testing laboratory who
+15 transports, possesses or tests cannabis.
+16 (30) “Licensee” means a person or entity licensed by the commission pursuant to the
+17 provisions of this chapter. Any business structure recognized under title 7, including, but not limited
+18 to, corporations, partnerships, limited partnerships, limited-liability companies, and workers’
+19 cooperatives, which is otherwise qualified, is eligible to be considered by the commission as an
+20 entity licensee.
+21 (31) “Manufacture” means to compound, blend, extract, infuse or otherwise make or
+22 prepare a cannabis product.
+23 (32) “Medical cannabis” means cannabis and cannabis products that satisfy the
+24 requirements of chapter 28.6 of this title and have been given the designation of “medical cannabis”
+25 or “medical marijuana” due to dose, potency and form. Medical cannabis products are only
+26 available for use by patient cardholders, and may only be sold to or possessed by patient
+27 cardholders, or their registered caregiver, or authorized purchaser in accordance with chapter 28.6
+28 of this title. Medical cannabis may not be sold to, possessed by, manufactured by, or used by any
+29 person except as permitted pursuant to chapter 28.6 of this title.
+30 (33) “Medical cannabis treatment center” or “Medical marijuana treatment center” includes
+31 a compassion center, a medical marijuana emporium, or marijuana establishment licensee who
+32 operates a treatment center, as defined in § 21-28.6-3.
+33 (34) “Member of an impacted family” means an individual who has a parent, legal
+34 guardian, child, spouse, or dependent, or was a dependent of an individual who, prior to the
+LC004455 - Page 5 of 21
+
+1 effective date of this chapter, was arrested for, charged with, convicted of, or adjudicated delinquent
+2 for any offense that is eligible for expungement under this chapter.
+3 (35) “Ownership and control” means ownership of at least fifty-one percent (51%) of the
+4 cannabis establishment, and control over the management and day-to-day operations of the
+5 cannabis establishment, and an interest in the capital, assets, and profits and losses of the cannabis
+6 establishment proportionate to percentage of ownership.
+7 (36) “Process” or “processing” means to harvest, dry, cure, trim and separate parts of the
+8 cannabis plant by manual or mechanical means, except it shall not include manufacture as defined
+9 in this section.
+10 (37) “Production batch” means a batch of finished plant material, cannabis resin, cannabis
+11 concentrate or cannabis-infused product made at the same time, using the same methods, equipment
+12 and ingredients. The commission shall require licensees to assign and record a unique, sequential
+13 alphanumeric identifier to each production batch for the purposes of production tracking, product
+14 labeling and product recalls. All production batches shall be traceable to one or more cannabis
+15 cultivation batches.
+16 (38) “Residual solvent” means a volatile organic chemical used in the manufacture of a
+17 cannabis product and that is not completely removed by practical manufacturing techniques.
+18 (39) “Social equity applicant” means an applicant that has been disproportionately
+19 impacted by criminal enforcement of marijuana laws, including individuals convicted of nonviolent
+20 marijuana offenses, immediate family members of individuals convicted of nonviolent marijuana
+21 offenses and individuals who have resided in disproportionately impacted areas for at least five (5)
+22 of the last ten (10) years, as determined by the commission after consultation with the cannabis
+23 advisory board, and further specified in the rules and regulations that shall identify factors and other
+24 considerations to be evaluated in certifying applicants as social equity applicants, provided that
+25 such applicants shall at a minimum meet one of the following criteria:
+26 (i) An applicant with at least fifty-one percent (51%) ownership and control by one or more
+27 individuals who have resided for at least five (5) of the preceding ten (10) years in a
+28 disproportionately impacted area.
+29 (ii) An applicant with at least fifty-one percent (51%) ownership and control by one or
+30 more individuals who:
+31 (A) Have been arrested for, convicted of, or adjudicated delinquent for any offense that is
+32 eligible for expungement under this chapter; or
+33 (B) Is a member of an impacted family.
+34 (iii) For applicants with a minimum of ten (10) full-time employees, an applicant with at
+LC004455 - Page 6 of 21
+
+1 least fifty-one percent (51%) of current employees who:
+2 (A) Currently reside in a disproportionately impacted area; or
+3 (B) Have been arrested for, convicted of, or adjudicated delinquent for any offense that is
+4 eligible for expungement under this chapter or is a member of an impacted family.
+5 (iv) Can demonstrate significant past experience in or business practices that promote
+6 economic empowerment in disproportionally impacted areas.
+7 (v) Had income which does not exceed four hundred percent (400%) of the median income,
+8 as defined by the commission, in a disproportionally impacted area for at least five (5) of the past
+9 ten (10) years.
+10 (40) “Terpenoid” means an isoprene that are the aromatic compounds found in cannabis,
+11 including, but not limited to: limonene, myrcene, pinene, linalool, eucalyptol, Δ-terpinene, ß-
+12 caryophyllene, caryophyllene oxide, nerolidol and phytol.
+13 (41) “Unreasonable and impracticable” means that the measures necessary to comply with
+14 the rules and regulations adopted pursuant to this chapter subject licensees to unreasonable risk or
+15 require such a high investment of money, time or any other resource or asset that a reasonably
+16 prudent businessperson would not operate a cannabis establishment.
+17 (42) “Workers’ cooperative” means an applicant organized and operated pursuant to the
+18 provisions of chapter 6.2 of title 7.
+19 21-28.11-7. Licensed cannabis cultivators.
+20 (a) Except as provided pursuant to the provisions of subsection (b) of this section or § 21-
+21 28.11-8, there shall be a moratorium on the issuance of new cannabis cultivator licenses until the
+22 date that is two (2) years following the final issuance of the commission’s rules and regulations
+23 pursuant to the provisions of this chapter. This moratorium shall not apply to cannabis cultivators
+24 licensed pursuant to chapter 28.6 of this title on or before enactment of this chapter.
+25 (b) On August 1, 2022 and thereafter, any medical marijuana cultivator licensed or
+26 approved pursuant to the provisions of § 21-28.6-16, upon payment of an additional license fee,
+27 shall be permitted to cultivate, manufacture and process cannabis as a hybrid cannabis cultivator
+28 for both adult use and medical use. The amount of the additional license fee shall be determined by
+29 the office of cannabis regulation during the transitional period established by § 21-28.11-10 and
+30 shall be subject to review by the commission pursuant to the final rules and regulations. The fee
+31 shall be deposited in the social equity fund established in § 21-28.11-31. Sale of the cultivated
+32 cannabis shall be made directly to a licensee pursuant to the provisions of this chapter and chapter
+33 28.6 of this title, subject to the following conditions:
+34 (1) The cultivator must be in good standing and maintain the cultivator license pursuant to
+LC004455 - Page 7 of 21
+
+1 the provisions of chapter 28.6 of this title; and
+2 (2) The cultivator must make good faith efforts to ensure the adult use cannabis production
+3 portion of the cultivation operation has no significant adverse effect on the medical marijuana
+4 program and patient needs.
+5 (c) During the moratorium pursuant to this section, the commission, with the assistance of
+6 the advisory board, as required, shall submit a report to the general assembly which evaluates the
+7 cultivation of adult use and medical cannabis. The report shall consider factors, including, but not
+8 limited to:
+9 (1) Cultivation and production history;
+10 (2) Tax payment history;
+11 (3) Existing inventory and inventory history;
+12 (4) Sales contracts;
+13 (5) Current and future projected market conditions; and
+14 (6) Any other factors relevant to ensuring responsible cultivation, production, and
+15 inventory management for both medical and adult use cannabis.
+16 (d) Upon expiration of the moratorium pursuant to this section, the commission may adopt
+17 rules and regulations authorizing issuance of additional cultivator licenses; provided, however, a
+18 new cultivator licensee’s canopy shall not exceed ten thousand square feet (10,000 ft2). In
+19 determining whether to issue additional cultivator licenses, the cannabis control commission shall
+20 consider the findings of the report submitted pursuant to subsection (c) of this section.
+21 (e) For the purposes of this section, “canopy” means the total surface area within a
+22 cultivation area that is dedicated to the cultivation of mature cannabis plants. The surface area of
+23 the canopy must be calculated in square feet and measured using the outside boundaries of the area
+24 and must include all of the area within the boundaries. If the surface area of the canopy consists of
+25 noncontiguous areas, each component area must be separated by identifiable boundaries. If a tiered
+26 or shelving system is used in the cultivation area, the surface area of each tier or shelf must be
+27 included in calculating the area of the canopy. The canopy does not include the areas within the
+28 cultivation area that are used to cultivate immature cannabis plants and seedlings and that are not
+29 used at any time to cultivate mature cannabis plants.
+30 (f) To qualify for issuance of any cannabis cultivator license under subsection (d) of this
+31 section, an applicant shall satisfy all requirements and qualifications established by the commission
+32 to include but not limited to, the following:
+33 (1) Apply for a license in a manner prescribed by the commission;
+34 (2) Provide proof that the applicant is twenty-one (21) years of age or older and is a resident
+LC004455 - Page 8 of 21
+
+1 of the state proof of residency;
+2 (3) Undergo a criminal record background check pursuant to § 21-28.11-12.1 and on any
+3 terms established by the commission;
+4 (4) Provide proof that the applicant is current with and in compliance with all obligations
+5 required by the division of taxation, including filings and payment of taxes;
+6 (5) Has provided a nonrefundable application fee as determined by the commission;
+7 (6) Shall consent and be subject to inspections by the commission for the purposes of
+8 ensuring and enforcing compliance with this chapter and all rules and regulations promulgated
+9 pursuant to this chapter; and
+10 (7) Prior to the issuance of any license and for any period of renewal, the applicant shall
+11 submit an annual license fee pursuant to subsection (b) of this section to be deposited in the social
+12 equity fund established in § 21-28.11-31.
+13 (g) The commission may determine and adjust the application fee or annual license fee
+14 pursuant to the commission’s rulemaking authority and in accordance with the provisions of chapter
+15 35 of title 42.
+16 (h) Every individual cannabis plant possessed by a licensed cannabis cultivator shall be
+17 catalogued in a seed-to-sale inventory tracking system. The commission shall review the current
+18 seed-to-sale tracking system utilized pursuant to chapter 28.6 of this title and promulgate new or
+19 additional regulations, as it deems appropriate. As of December 1, 2022, any cannabis tags issued
+20 to provide seed-to-sale inventory and tracking shall be issued without charge to patient cardholders
+21 and/or primary caregivers authorized to grow medical cannabis.
+22 (i) Notwithstanding any other provisions of the general laws, the manufacture of cannabis
+23 using a solvent extraction process that includes the use of a compressed, flammable gas as a solvent
+24 by a licensed cannabis cultivator shall not be subject to the protections of this chapter.
+25 (j) Cannabis cultivators shall sell cannabis only to an entity licensed pursuant to the
+26 provisions of this chapter or chapter 28.6 of this title.
+27 (k) Cannabis cultivators shall be licensed to grow cannabis only at a location or locations
+28 registered with and approved by the cannabis commission. The commission may promulgate
+29 regulations governing locations where cultivators are authorized to grow. Cannabis cultivators shall
+30 abide by all local ordinances, including zoning ordinances.
+31 (l) As a condition of licensing, cannabis cultivators shall consent and be subject to
+32 inspection by the commission for the purposes of ensuring and enforcing compliance with this
+33 chapter and chapter 28.6 of this title, all rules and regulations promulgated pursuant to this chapter,
+34 and the provisions of § 28-5.1-14.
+LC004455 - Page 9 of 21
+
+1 (m) Persons issued cultivator licenses shall be subject to the following:
+2 (1) A licensed cannabis cultivator shall notify and request approval from the commission
+3 of any change in his or her name or address within ten (10) days of the change. A licensed cannabis
+4 cultivator who fails to notify the commission of any of these changes shall be subject to an
+5 administrative fine of no more than one hundred fifty dollars ($150), or other penalty as determined
+6 by the commission.
+7 (2) When a licensed cannabis cultivator notifies the commission of any changes listed in
+8 this subsection, the commission shall issue the licensed cannabis cultivator a new license
+9 identification document after the commission approves the changes and receives from the licensee
+10 payment of a fee specified in regulations.
+11 (3) If a licensed cannabis cultivator loses his or her license or certification document, he or
+12 she shall notify the commission and submit a fee specified in regulation within ten (10) days of
+13 losing the document. The commission shall issue a new license document with a new random
+14 identification number, upon receipt of payment of a fee promulgated in the rules and regulations
+15 not to exceed the amount of one hundred dollars ($100).
+16 (4) A licensed cannabis cultivator has a continuing duty to notify the commission of any
+17 criminal conviction(s) that occurs after the issuance of a license or registration. A criminal
+18 conviction may not automatically result in suspension or revocation of a license, but shall be subject
+19 to § 21-28.11-12.1. The commission may suspend and/or revoke his or her license after the
+20 notification, pending a final determination of disqualification pursuant to § 21-28.11-12.1.
+21 (5) If a licensed cannabis cultivator violates any provision of this chapter or regulations
+22 promulgated hereunder as determined by the commission, his or her issued license may be
+23 suspended and/or revoked.
+24 (n) Immunity.
+25 (1) No licensed cannabis cultivator shall be subject to: arrest; prosecution; search or
+26 seizure, except as authorized pursuant to §§ 21-28.11-20 and 21-28.11-27 and subsection (f)(6) of
+27 this section; or penalty in any manner, or denied any right or privilege, including, but not limited
+28 to, civil penalty or disciplinary action by a business, occupational, or professional licensing board
+29 or entity, solely for acting in accordance with this chapter, chapter 28.6 of this title and rules and
+30 regulations promulgated by the commission.
+31 (2) No principal officers, board members, agents, volunteers, or employees of a licensed
+32 cannabis cultivator shall be subject to arrest; prosecution; search or seizure, except as authorized
+33 pursuant to §§ 21-28.11-20 and 21-28.11-27 and subsection (f)(6) of this section; or penalty in any
+34 manner, or denied any right or privilege, including, but not limited to, civil penalty or disciplinary
+LC004455 - Page 10 of 21
+
+1 action by a business, occupational, or professional licensing board or entity, solely for working for
+2 or with a licensed cannabis cultivator to engage in acts permitted by this chapter, chapter 28.6 of
+3 this title and rules and regulations promulgated by the commission.
+4 (3) No state employee or commission member shall be subject to arrest; prosecution; search
+5 or seizure, except as authorized pursuant to §§ 21-28.11-20 and 21-28.11-27; or penalty in any
+6 manner, or denied any right or privilege, including, but not limited to, civil penalty, disciplinary
+7 action, termination, or loss of employee or pension benefits, for any and all conduct that occurs
+8 within the scope of his or her employment regarding the administration, execution, and/or
+9 enforcement of this chapter, chapter 28.6 of this title and rules and regulations promulgated by the
+10 commission, and the provisions of §§ 9-31-8 and 9-31-9 shall be applicable to this section.
+11 (o) Nothing in this section shall be construed as authorizing a cannabis cultivator to transfer
+12 or sell cannabis directly to a consumer. A direct sale or transfer from a cannabis cultivator to a
+13 consumer is prohibited and shall be grounds for revocation of license and criminal prosecution.
+14 (p) A cannabis cultivator and all agents and employees of the cannabis cultivator shall
+15 comply with all rules adopted by the commission and other applicable laws.
+16 (q) No cannabis or cannabis product shall be sold or otherwise marketed pursuant to this
+17 chapter that has not first been tested by a cannabis testing laboratory and determined to meet the
+18 commission’s testing protocols issued pursuant to § 21-28.11-11. Cannabis cultivators shall be
+19 subject to any regulations promulgated by the commission that specify how marijuana shall be
+20 tested, including, but not limited to, potency, cannabinoid profile and contaminants. Cannabis
+21 cultivators shall be subject to any product labeling requirements promulgated by the commission
+22 or otherwise required by law.
+23 (r) License required. No person or entity shall engage in activities described in this section
+24 without a cultivator license issued pursuant to this chapter.
+25 21-28.11-9. Cannabis product manufacturer or wholesaler.
+26 (a) A cannabis product manufacturer or processor or wholesaler that does not hold a
+27 cannabis cultivator’s license shall have a cannabis product manufacturer’s license issued by the
+28 commission. A cannabis product manufacturer licensee may purchase cannabis from cultivators for
+29 processing and shall only transfer or sell cannabis products to other entities licensed pursuant to
+30 this chapter or chapter 28.6 of this title. A cannabis product manufacturer’s licensee or processor
+31 or wholesaler shall report to the commission, pursuant to regulations, the purchase or acquisition
+32 and the sale or transfer of all cannabis and cannabis products.
+33 (b) To qualify and hold a cannabis product manufacturer’s license under this section the
+34 applicant shall satisfy all qualifications established by the commission to include, but not be limited
+LC004455 - Page 11 of 21
+
+1 to the following:
+2 (1) Apply for a license in a manner prescribed by the commission;
+3 (2) Provide proof that the applicant is twenty-one (21) years of age or older and is a resident
+4 of the state proof of residency;
+5 (3) Undergo a criminal record background check pursuant to § 21-28.11-12.1 and on any
+6 terms established by the commission;
+7 (4) Provide proof that the applicant is current and in compliance with all obligations for
+8 filings and payments for taxes with the division of taxation;
+9 (5) Has provided a nonrefundable application fee as determined by the commission and
+10 promulgated by rules and regulations; and
+11 (6) Prior to issuance of any license and for any period of renewal, the applicant shall submit
+12 an annual license fee as determined by the commission and promulgated by rules and regulations
+13 to be deposited in the social equity fund established in § 21-28.1-31.
+14 (c) A cannabis product manufacturer or processor or wholesaler and all agents and
+15 employees shall comply with all rules adopted by the commission and all applicable laws.
+16 (d) The commission may adjust the application fee or annual license fee pursuant to the
+17 commission’s rulemaking authority and in accordance with the provisions of chapter 35 of title 42.
+18 (e) As a condition of licensing, cannabis product manufacturers or processors or
+19 wholesalers shall consent and be subject to inspections by the commission for the purposes of
+20 ensuring and enforcing compliance with this chapter and all rules and regulations promulgated
+21 pursuant to this chapter, and pursuant to the provisions of § 21-28.11-20.
+22 (f) Nothing in this section shall be construed as authorizing a cannabis product
+23 manufacturer or processor or wholesaler to transfer or sell cannabis to a consumer. A direct sale or
+24 transfer from a cannabis product manufacturer licensee to a consumer is prohibited.
+25 (g) No cannabis or cannabis product shall be sold or otherwise marketed pursuant to this
+26 chapter that has not first been tested by a cannabis testing laboratory and determined to meet the
+27 commission’s testing protocols issued pursuant to § 21-28.11-11.
+28 (h) Persons issued cannabis product manufacturer’s licenses shall be subject to the
+29 following:
+30 (1) A licensed cannabis product manufacturer shall notify and request approval from the
+31 commission of any change in his or her name or address within ten (10) days of the change. A
+32 licensed cannabis product manufacturer who fails to notify the commission of any of these changes
+33 shall be subject to an administrative fine of no more than one hundred fifty dollars ($150) or other
+34 penalty as determined by the commission.
+LC004455 - Page 12 of 21
+
+1 (2) When a licensed cannabis product manufacturer notifies the commission of any changes
+2 listed in this subsection, the commission shall issue the licensed cannabis product manufacturer a
+3 new registry identification document after the department approves the changes and receives from
+4 the licensee payment of a fee specified in regulation.
+5 (3) If a licensed cannabis product manufacturer loses his or her document, he or she shall
+6 notify the commission and submit a fee specified in regulation not to exceed one hundred dollars
+7 ($100), within ten (10) days of losing the document. The commission shall issue a new license with
+8 a new random identification number.
+9 (4) A licensed cannabis product manufacturer has a continuing duty to notify the
+10 commission of any criminal conviction(s) that occurs after the issuance of a license or registration.
+11 A criminal conviction relating solely to a cannabis offense shall not automatically result in
+12 suspension or revocation of a license, but shall be subject to § 21-28.11-12.1.
+13 (5) If a licensed cannabis product manufacturer violates any provision of this chapter or
+14 regulations promulgated hereunder as determined by the commission, his or her issued license may
+15 be suspended and/or revoked in addition to any other enforcement action.
+16 (i) Immunity.
+17 (1) No licensed cannabis product manufacturer or wholesaler shall be subject to: arrest;
+18 prosecution; search or seizure, except as authorized pursuant to §§ 21-28.11-20 and 21-28.11-27
+19 and by subsection (e) of this section; or penalty in any manner, or denied any right or privilege,
+20 including, but not limited to, civil penalty or disciplinary action by a business, occupational, or
+21 professional licensing board or entity, solely for acting in accordance with this chapter, chapter
+22 28.6 of this title and rules and regulations promulgated by the commission.
+23 (2) No principal officers, board members, agents, volunteers, or employees of a licensed
+24 cannabis product manufacturer or wholesaler shall be subject to arrest; prosecution; search or
+25 seizure, except as authorized pursuant to §§ 21-28.11-20 and 21-28.11-27 and by subsection (e) of
+26 this section; or penalty in any manner, or denied any right or privilege, including, but not limited
+27 to, civil penalty or disciplinary action by a business, occupational, or professional licensing board
+28 or entity, solely for working for or with a licensed cannabis product manufacturer or wholesaler to
+29 engage in acts permitted by this chapter, chapter 28.6 of this title or rules and regulations
+30 promulgated by the commission.
+31 (3) No state employee or commission member shall be subject to arrest; prosecution; search
+32 or seizure, except as authorized pursuant to §§ 21-28.11-20 and 21-28.11-27 and by subsection (e)
+33 of this section; or penalty in any manner, or denied any right or privilege, including, but not limited
+34 to, civil penalty, disciplinary action, termination, or loss of employee or pension benefits, for any
+LC004455 - Page 13 of 21
+
+1 and all conduct that occurs within the scope of his or her employment regarding the administration,
+2 execution, and/or enforcement of this chapter, chapter 28.6 of this title and rules and regulations
+3 promulgated by the commission, and the provisions of §§ 9-31-8 and 9-31-9 shall be applicable to
+4 this section.
+5 21-28.11-10.2. Cannabis retail sales.
+6 (a) In addition to the hybrid cannabis retailer certificates that may be issued pursuant to the
+7 provisions of this chapter, after issuance of the final rules and regulations, the commission may
+8 grant twenty-four (24) retail licenses, subject to the following restrictions:
+9 (1) The retail licenses shall be issued pursuant to geographic zones as specified in § 21-
+10 28.11-10.3.
+11 (2) No more than four (4) retail licenses exclusive of any hybrid cannabis retail certificate
+12 shall be permitted in each geographic zone; and
+13 (3) Of the four (4) retail licenses in each geographic zone:
+14 (i) One shall be reserved for a workers’ cooperative applicant; and
+15 (ii) One shall be reserved for a social equity applicant.
+16 (b) Minimum qualifications. To qualify for issuance of a cannabis retail sales license
+17 under this section, an applicant shall satisfy all qualifications established by the commission to
+18 include, but not be limited to, the following:
+19 (1) Apply for a license in a manner prescribed by the commission;
+20 (2) Provide proof that the applicant is twenty-one (21) years of age or older and is a resident
+21 of the state proof of residency;
+22 (3) Undergo a criminal record background check pursuant to § 21-28.11-12.1 and on any
+23 terms established by the commission;
+24 (4) Provide proof that the applicant is current and in compliance with all obligations for
+25 filings and payments for taxes with the division of taxation;
+26 (5) Demonstrate that the proposed location for the retail sale of cannabis complies with
+27 provisions of municipal zoning and regulations or has been approved by the municipality;
+28 (6) Paid a nonrefundable application fee as determined by the commission and promulgated
+29 by rules and regulations; and
+30 (7) Prior to issuance of any license and for any period of renewal, the applicant shall pay
+31 an annual fee of thirty thousand dollars ($30,000) to be deposited in the social equity fund
+32 established in § 21-28.11-31.
+33 (c) Compliance. A cannabis retail sales licensee and all agents and employees shall comply
+34 with all rules adopted by the commission and all applicable laws to include, but not limited to,
+LC004455 - Page 14 of 21
+
+1 chapter 5 of title 28 (the “fair employment practices act”).
+2 (d) Inspection. As a condition of licensing and pursuant to § 21-28.11-20, cannabis
+3 retailers shall consent and be subject to inspections by the commission or designated personnel for
+4 the purposes of ensuring and enforcing compliance with this chapter, all rules and regulations
+5 promulgated pursuant to this chapter and all other applicable law, to include, but not be limited to,
+6 the provisions of title 44 (“taxation”), chapter 28 of this title (the “uniform controlled substance
+7 act”), and chapter 5 of title 28 (the “fair employment practices act”).
+8 (e) Testing. No cannabis or cannabis product shall be sold or otherwise marketed pursuant
+9 to this chapter that has not first been collected and tested by a cannabis testing laboratory and found
+10 to meet the testing protocols issued pursuant to regulations promulgated by the department of health
+11 and determined to meet the commission’s testing protocols issued pursuant to § 21-28.11-11.
+12 (f) Minimum requirements. Persons issued cannabis retail licenses shall be subject to the
+13 following:
+14 (1) A licensed cannabis retailer shall notify and request approval from the commission of
+15 any change in his or her name or address within ten (10) days of the change. A licensed cannabis
+16 retailer who fails to notify the commission of any of these changes shall be subject to an
+17 administrative fine of no more than one hundred fifty dollars ($150) or other penalty as determined
+18 by the commission;
+19 (2) When a licensed cannabis retailer notifies the commission of any changes listed in this
+20 subsection, the commission shall issue the licensed cannabis retailer a new license identification
+21 document after the commission approves the changes and receives from the licensee payment of a
+22 fee specified in regulation;
+23 (3) If a licensed cannabis retailer loses his or her license document, he or she shall notify
+24 the commission and submit a fee specified in regulation within ten (10) days of losing the
+25 document. The commission shall issue a new license document with a new random identification
+26 number upon payment of a fee promulgated in the rules and regulations not to exceed one hundred
+27 dollars ($100);
+28 (4) A licensed cannabis retailer has a continuing duty to notify the commission of any
+29 criminal conviction(s) that occurs after the issuance of a license or registration. A criminal
+30 conviction shall not automatically result in suspension or revocation of a license, but shall be
+31 subject to the provisions § 21-28.11-12.1;
+32 (5) If a licensed cannabis retailer violates any provision of this chapter or regulations
+33 promulgated hereunder as determined by the commission, his or her issued license may be
+34 suspended and/or revoked.
+LC004455 - Page 15 of 21
+
+1 (g) Immunity.
+2 (1) No licensed cannabis retailer shall be subject to: arrest; prosecution; search or seizure,
+3 except as authorized pursuant to §§ 21-28.11-20 and 21-28.11-27 and by subsection (d) of this
+4 section; or penalty in any manner, or denied any right or privilege, including, but not limited to,
+5 civil penalty or disciplinary action by a business, occupational, or professional licensing board or
+6 entity, solely for acting in accordance with this chapter and rules and regulations promulgated by
+7 the commission.
+8 (2) No principal officers, board members, agents, volunteers, or employees of a licensed
+9 cannabis retailer shall be subject to arrest; prosecution; search or seizure, except as authorized
+10 pursuant to §§ 21-28.11-20 and 21-28.11-27 and by subsection (d) of this section; or penalty in any
+11 manner, or denied any right or privilege, including, but not limited to, civil penalty or disciplinary
+12 action by a business, occupational, or professional licensing board or entity, solely for working for
+13 or with a licensed cannabis retailer to engage in acts permitted by this chapter and rules and
+14 regulations promulgated by the commission.
+15 (3) No state employee or commission member shall be subject to arrest; prosecution; search
+16 or seizure, except as authorized pursuant to §§ 21-28.11-20 and 21-28.11-27 and by subsection (d)
+17 of this section; or penalty in any manner, or denied any right or privilege, including, but not limited
+18 to, civil penalty, disciplinary action, termination, or loss of employee or pension benefits, for any
+19 and all conduct that occurs within the scope of his or her employment regarding the administration,
+20 execution, and/or enforcement of this chapter and rules and regulations promulgated by the
+21 commission, and the provisions of §§ 9-31-8 and 9-31-9 shall be applicable to this section.
+22 21-28.11-11. Cannabis testing laboratories — Licensure and oversight.
+23 (a) In consultation with the department of health, the commission shall have authority to
+24 promulgate regulations to create and implement all licenses involving cannabis reference testing
+25 requirements, including approval of laboratory proficiency programs and proficiency sample
+26 providers, quality assurance sample providers, round robin testing and regulations establishing
+27 quality control and test standardization, and create and implement additional types and classes of
+28 licensed cannabis testing facilities in accordance with regulations promulgated hereunder.
+29 (b)(1) The regulations promulgated by the commission shall at a minimum provide for the
+30 licensure and oversight of cannabis testing laboratories, and shall establish testing protocols for the
+31 sampling, testing and analysis of cannabis, finished cannabis and cannabis products in consultation
+32 with the department of health. Such regulations shall be based on the most recent standards as
+33 issued by the United States Pharmacopeial Convention and shall address sampling and analysis to
+34 characterize the cannabinoid profile and biological and chemical contaminants, including, but not
+LC004455 - Page 16 of 21
+
+1 limited to, pesticides, herbicides, plant growth regulators, metals, microbiological contaminants,
+2 and residual solvents introduced through cultivation of cannabis plants and post-harvest processing
+3 and handling of cannabis, cannabis products and ingredients.
+4 (2) No cannabis or cannabis product shall be sold or otherwise marketed pursuant to this
+5 chapter that has not first been tested by a cannabis testing laboratory and determined to meet the
+6 commission’s testing protocols issued pursuant to subsection (a) of this section.
+7 (3) A licensed cannabis testing laboratory shall transport, store, possess, and test cannabis
+8 in compliance with regulations promulgated by the commission. Nothing in this section shall be
+9 construed as authorizing a cannabis testing laboratory to transfer or sell cannabis to a consumer. A
+10 direct sale or transfer from a cannabis testing laboratory licensee to a consumer is prohibited.
+11 (4) A cannabis testing laboratory shall report any results indicating contamination to the
+12 commission, the department of health and the department of environmental management within
+13 forty-eight (48) hours of identification.
+14 (5) No laboratory agent or employee of a cannabis testing laboratory shall receive direct or
+15 indirect financial compensation, other than such reasonable contractual fees to conduct such testing,
+16 from any entity for which it is conducting testing pursuant to this chapter.
+17 (6) No individual who possesses an interest in or is a laboratory agent employed by a
+18 cannabis testing laboratory, and no immediate family member of that individual, shall possess an
+19 interest in or be employed by a cultivator, product manufacturer or retail cannabis establishment.
+20 (c) To qualify for issuance of a cannabis testing laboratory license under this section, an
+21 applicant shall satisfy all qualifications established by the commission to include, but not be limited
+22 to, the following:
+23 (1) Apply for a license in a manner prescribed by the commission;
+24 (2) Provide proof that the applicant is twenty-one (21) years of age or older and is a resident
+25 of the state proof of residency;
+26 (3) Undergo a criminal record background check pursuant to § 21-28.11-12.1 and on any
+27 terms established by the commission;
+28 (4) Provide proof that the applicant is current and in compliance with all obligations for
+29 filings and payments for taxes with the division of taxation;
+30 (5) Provide a nonrefundable application fee as determined by the commission and
+31 promulgated by rules and regulations and apply for a testing license from the commission prior to
+32 testing, processing or transporting cannabis; and
+33 (6) Prior to the issuance of any license and for any period of renewal, the applicant shall
+34 submit an annual license fee as determined by the commission and promulgated by rules and
+LC004455 - Page 17 of 21
+
+1 regulations.
+2 (d) Cannabis testing laboratories shall be responsible for ensuring the following, as related
+3 to laboratory agents:
+4 (1) A laboratory agent shall be registered with the commission prior to volunteering or
+5 working at a cannabis testing laboratory;
+6 (2) A cannabis testing laboratory shall apply to the commission for a registration document
+7 for each affiliated laboratory agent by submitting, at a minimum, the name, address, and date of
+8 birth of the laboratory agent;
+9 (3) A laboratory agent shall undergo a criminal background check pursuant to § 21-28.11-
+10 12.1 and on terms established by the commission, prior to volunteering or working at a cannabis
+11 testing laboratory. Laboratory agents shall also have a continuing duty to notify the commission of
+12 any criminal conviction(s) that occur after the issuance of a registration document. A criminal
+13 conviction shall not automatically result in suspension or revocation of registration, but shall be
+14 subject to § 21-28.11-12.1; and
+15 (4) A cannabis testing laboratory shall notify the commission within one business day if a
+16 laboratory agent ceases to be associated with the laboratory, and the laboratory agent’s registration
+17 document shall be immediately revoked.
+18 (e) A cannabis testing laboratory and all agents and employees shall comply with all rules
+19 adopted by the commission and all applicable laws.
+20 (f) As a condition of licensing and pursuant to the provisions of § 21-28.11-20, cannabis
+21 testing laboratories shall consent and be subject to inspection by the commission or personnel
+22 designated by the commission for the purposes of ensuring and enforcing compliance with this
+23 chapter and all rules and regulations promulgated pursuant to this chapter, to include, but not be
+24 limited to, the provisions of chapter 5 of title 28 (the “fair employment practices act”).
+25 (g) Persons issued cannabis testing laboratory licenses shall be subject to the following:
+26 (1) A licensed cannabis testing laboratory shall notify and request approval from the
+27 commission of any change in his or her name or address within ten (10) days of the change. A
+28 licensed cannabis testing laboratory who fails to notify the commission of any of these changes
+29 shall be subject to an administrative fine of no more than one hundred fifty dollars ($150) or other
+30 penalty as determined by the commission.
+31 (2) When a licensed cannabis testing laboratory notifies the commission of any changes
+32 listed in this subsection, the commission shall issue the licensed cannabis testing laboratory a new
+33 registry identification document after the department approves the changes and receives from the
+34 licensee payment of a fee specified in regulation.
+LC004455 - Page 18 of 21
+
+1 (3) If a licensed cannabis testing laboratory loses his or her license document, he or she
+2 shall notify the commission and submit a fee specified in regulation not to exceed the amount of
+3 one hundred dollars ($100), within ten (10) days of losing the license document. The commission
+4 shall issue a new license with a new random identification number.
+5 (4) A licensed cannabis testing laboratory has a continuing duty to notify the commission
+6 of any criminal conviction(s) of a laboratory licensee or agent that occurs after the issuance of a
+7 license or registration. A criminal conviction relating solely to a cannabis offense shall not
+8 automatically result in suspension or revocation of a license, but shall be subject to § 21-28.11-
+9 12.1.
+10 (5) If a licensed cannabis testing laboratory violates any provision of this chapter or
+11 regulations promulgated hereunder as determined by the commission, his or her issued license may
+12 be suspended and/or revoked.
+13 (h) Immunity.
+14 (1) No licensed cannabis testing laboratory licensee or agent shall be subject to: arrest;
+15 prosecution; search or seizure, except as authorized pursuant to §§ 21-28.11-20 and 21-28.11-27
+16 and by subsection (f) of this section; or penalty in any manner, or denied any right or privilege,
+17 including, but not limited to, civil penalty or disciplinary action by a business, occupational, or
+18 professional licensing board or entity, solely for acting in accordance with this chapter, chapter
+19 28.6 of this title and the rules and regulations promulgated by the commission.
+20 (2) No principal officers, board members, agents, volunteers, or employees of a licensed
+21 cannabis testing laboratory shall be subject to arrest; prosecution; search or seizure, except as
+22 authorized pursuant to §§ 21-28.11-20 and 21-28.11-27 and by subsection (f) of this section; or
+23 penalty in any manner, or denied any right or privilege, including, but not limited to, civil penalty
+24 or disciplinary action by a business, occupational, or professional licensing board or entity, solely
+25 for working for or with a licensed cannabis cultivator to engage in acts permitted by this chapter,
+26 chapter 28.6 of this title and the rules and regulations promulgated by the commission.
+27 (3) No state employee or commission member shall be subject to arrest; prosecution; search
+28 or seizure, except as authorized pursuant to §§ 21-28.11-20 and 21-28.11-27 and by subsection (f)
+29 of this section; or penalty in any manner, or denied any right or privilege, including, but not limited
+30 to, civil penalty, disciplinary action, termination, or loss of employee or pension benefits, for any
+31 and all conduct that occurs within the scope of his or her employment regarding the administration,
+32 execution, and/or enforcement of this chapter, chapter 28.6 of this title and the rules and regulations
+33 promulgated by the commission. The provisions of §§ 9-31-8 and 9-31-9 shall be applicable to this
+34 section.
+LC004455 - Page 19 of 21
+
+1 SECTION 2. This act shall take effect upon passage.
+========
+LC004455
+========
+LC004455 - Page 20 of 21
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO FOOD AND DRUGS -- THE RHODE ISLAND CANNABIS ACT
+***
+1 This act would amend sections of the Rhode Island cannabis act relating to the residency
+2 requirements for applicants for issuance of a license or certificate to own a cannabis establishment.
+3 This act would take effect upon passage.
+========
+LC004455
+========
+LC004455 - Page 21 of 21

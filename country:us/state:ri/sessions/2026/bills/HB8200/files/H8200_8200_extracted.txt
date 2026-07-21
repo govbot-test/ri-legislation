@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - 8200
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8200
+========
+LC005085
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- WEALTH PROCEEDS TAX
+Introduced By: Representatives Tanzi, Alzate, Potter, McGaw, Batista, Shanley, Stewart,
+Kislak, Handy, and Ajello
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+2 adding thereto the following chapter:
+3 CHAPTER 73
+4 WEALTH PROCEEDS TAX
+5 44-73-1. Short title.
+6 This act shall be known and may be cited as the "Wealth Proceeds Tax".
+7 44-73-2. Definitions.
+8 The definitions in this section apply throughout this chapter unless the context clearly
+9 requires otherwise.
+10 (1) "Federal modified adjusted gross income" means the definition contained in § 1411(d)
+11 of the Internal Revenue Code, modified in accordance with the same adjustments identified in
+12 subsections (3)(i) through (3)(iv) of this section.
+13 (2) "Threshold amount" means the definition contained in § 1411(b) of the Internal
+14 Revenue Code.
+15 (3) "Wealth proceeds" means the same meaning as "net investment income" contained in
+16 § 1411(c) of the Internal Revenue Code, subject to the following adjustments:
+17 (i) Excluding interest on U.S. obligations that the state is prohibited from taxing under
+18 federal law;
+19 (ii) Including interest on obligations issued by state and local governments other than
+
+1 Rhode Island and its subdivisions;
+2 (iii) Including net gain excluded under § 1202 of the Internal Revenue Code;
+3 (iv) Including net gain excluded under § 1400Z-2 of the Internal Revenue Code;
+4 (v) Including net gain attributable to the disposition of property held in a trade or business
+5 not described under § 1411(c)(2) of the Internal Revenue Code;
+6 (vi) Including net gain described under the exception found in § 1411(c)(4) of the Internal
+7 Revenue Code;
+8 (vii) Including net gain excluded under § 1411(c)(5) of the Internal Revenue Code that is
+9 attributable to net unrealized appreciation within the meaning of § 402(e)(4) of the Internal
+10 Revenue Code; and
+11 (viii) Including, for a taxpayer who transferred property to an incomplete gift non-grantor
+12 trust, "wealth proceeds" of the trust as described under subsections (3)(i) through (3)(vii) of this
+13 section, less any deductions of the trust, to the extent such wealth proceeds and deductions of such
+14 trust would be taken into account in computing the taxpayer's federal taxable income if such trust
+15 in its entirety were treated as a grantor trust for federal tax purposes. For purposes of this subsection,
+16 an "incomplete gift non-granter trust" means a resident trust that meets the following conditions:
+17 (A) The trust does not qualify as a grantor trust under §§ 671 through 679 of the Internal
+18 Revenue Code; and
+19 (B) The grantor's transfer of assets to the trust is treated as an incomplete gift under § 2511
+20 of the Internal Revenue Code, and the regulations thereunder.
+21 44-73-3. Imposition of tax.
+22 (a) In the case of an individual, estate, or trust there is hereby imposed (in addition to any
+23 other tax imposed) for each taxable year a tax equal to four percent (4%) of the lesser of:
+24 (1) Wealth proceeds for such taxable year; or
+25 (2) Federal modified adjusted gross income for such taxable year, less the threshold
+26 amount.
+27 (b) For an individual who is not a Rhode Island resident for the entire taxable year, the tax
+28 under this subsection shall be calculated as if the individual is a Rhode Island resident for the entire
+29 year, and that amount shall be multiplied by a fraction in which:
+30 (1) The numerator is wealth proceeds allocable under this chapter to Rhode Island; and
+31 (2) The denominator is the total amount of wealth proceeds for the taxable year.
+32 (c) For an estate or trust, the tax under this section shall be calculated by multiplying the
+33 wealth proceeds tax liability by a fraction, the numerator of which is the amount of the estate or
+34 trust's wealth proceeds allocated to the state pursuant to the provisions of chapter 23 of title 44, and
+LC005085 - Page 2 of 4
+
+1 the denominator of which is the taxpayer's total wealth proceeds.
+2 (d) All references to the Internal Revenue Code in this section shall refer to the code in
+3 effect as of January 1, 2026.
+4 SECTION 2. This act shall take effect on January 1, 2027, and shall not be applied
+5 retroactively.
+========
+LC005085
+========
+LC005085 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- WEALTH PROCEEDS TAX
+***
+1 This act would impose a wealth proceeds tax equal to four percent (4%) on net investment
+2 income, such as interest, dividends, annuities, royalties, capital gains and rental income, of high-
+3 income households, estates and trusts, based upon federal guidelines.
+4 This act would take effect on January 1, 2027, and would not be applied retroactively.
+========
+LC005085
+========
+LC005085 - Page 4 of 4

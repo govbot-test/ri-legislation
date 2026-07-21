@@ -1,0 +1,739 @@
+Title: 
+Official Title: 
+Source: versions - 2164
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2164
+========
+LC003348
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- WEAPONS
+Introduced By: Senators Rogers, de la Cruz, E Morgan, Paolino, and Raptakis
+Date Introduced: January 16, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 11-47-2, 11-47-9, 11-47-11, 11-47-12, 11-47-18 and 11-47-20 of
+2 the General Laws in Chapter 11-47 entitled "Weapons" are hereby amended to read as follows:
+3 11-47-2. Definitions.
+4 When used in this chapter, the following words and phrases are construed as follows:
+5 (1) “3D printing process” means 3D printing or additive manufacturing which is a process
+6 of making three (3) dimensional solid objects from a computer file and shall include any of various
+7 processes in which material is joined or solidified under computer control to create a three (3)
+8 dimensional object, with material being added together including liquid molecules or powder
+9 grains.
+10 (2) “Antique firearm” is defined as that term is defined under the provisions of 18 U.S.C.
+11 § 921.
+12 (3) “Binary trigger” means a device that replaces a standard trigger on a semi-automatic
+13 weapon and is designed to fire one round on the pull of the trigger and another round upon release
+14 of the trigger.
+15 (4) “Bump-fire stock” means any device that replaces a semi-automatic weapon’s standard
+16 stock and is designed to slide back and forth rapidly, harnessing the weapon’s recoil to rapidly fire
+17 the weapon.
+18 (5) “Crime gun” means any firearm used in a crime or identified by law enforcement as
+19 suspected of having been used in a criminal offense.
+
+1 (6) “Crime of violence” means and includes any of the following crimes or an attempt to
+2 commit any of them: murder, manslaughter, rape, first- or second-degree sexual assault, first- or
+3 second-degree child molestation, kidnapping, first- and second-degree arson, mayhem, robbery,
+4 burglary, breaking and entering, any felony violation involving the illegal manufacture, sale, or
+5 delivery of a controlled substance, or possession with intent to manufacture, sell, or deliver a
+6 controlled substance classified in schedule I or schedule II of § 21-28-2.08, any violation of § 21-
+7 28-4.01.1 or § 21-28-4.01.2 or conspiracy to commit any violation of these statutes, assault with a
+8 dangerous weapon, assault or battery involving grave bodily injury, or assault with intent to commit
+9 any offense punishable as a felony; upon any conviction of an offense punishable as a felony
+10 offense under § 12-29-5.
+11 (7) “Firearm” includes any machine gun, pistol, rifle, air rifle, air pistol, “blank gun,” “BB
+12 gun,” or other instrument from which steel or metal projectiles are propelled, or that may readily
+13 be converted to expel a projectile, except crossbows, recurve, compound, or longbows, and except
+14 instruments propelling projectiles that are designed or normally used for a primary purpose other
+15 than as a weapon. The frame or receiver of the weapon shall be construed as a firearm under the
+16 provisions of this section.
+17 (8) “Fugitive from justice” means any person who has fled from any state, territory, the
+18 District of Columbia, or possession of the United States to avoid prosecution for a crime of violence
+19 or to avoid giving testimony in any criminal proceeding.
+20 (9) “Ghost gun” means a firearm, including a frame or receiver, that lacks a unique serial
+21 number engraved or cased in metal alloy on the frame or receiver by a licensed manufacturer,
+22 maker, or importer under federal law or markings in accordance with 27 C.F.R. § 479.102. It does
+23 not include a firearm that has been rendered permanently inoperable, or a firearm that is not
+24 required to have a serial number in accordance with the federal Gun Control Act of 1968.
+25 (10) “Licensing authorities” means the board of police commissioners of a city or town
+26 where the board has been instituted, the chief of police or superintendent of police of other cities
+27 and towns having a regular organized police force, and, in towns where there is no chief of police
+28 or superintendent of police, it means the town clerk who may issue licenses upon the
+29 recommendation of the town sergeant, and it also means any other person or body duly authorized
+30 by the city or town charter or by state law.
+31 (11) “Machine gun” means any weapon that shoots, is designed to shoot, or can be readily
+32 restored to shoot automatically more than one shot, without manual reloading, by a single function
+33 of the trigger. The term also includes the frame or receiver of the weapon, any combination of parts
+34 designed and intended for use in converting a weapon into a machine gun, and any combination of
+LC003348 - Page 2 of 21
+
+1 parts from which a machine gun can be assembled if the parts are in the possession or under the
+2 control of a person.
+3 (12) “Major component” means, with respect to a firearm:
+4 (i) The slide or cylinder or the frame or receiver of the firearm; and
+5 (ii) In the case of a rifle or shotgun, includes the barrel of the firearm.
+6 (13) “Person” includes an individual, partnership, firm, association, or corporation.
+7 (14) “Pistol” includes any pistol or revolver, and any shotgun, rifle, or similar weapon with
+8 overall length less than twenty-six inches (26″), but does not include any pistol or revolver designed
+9 for the use of blank cartridges only.
+10 (15) “Rifle” shall have the same meaning as in 26 U.S.C. § 5845(c), and by barrel length
+11 and overall length not be subject to registration pursuant to the National Firearms Act, 26 U.S.C.
+12 ch. 53 (prior § 5801 et seq.).
+13 (16) “Sawed-off rifle” means any rifle with overall length of less than twenty-six inches
+14 (26″) or barrel length of less than sixteen inches (16″).
+15 (17) “Sawed-off shotgun” means any shotgun with overall length of less than twenty-six
+16 inches (26″) or barrel length of less than eighteen inches (18″).
+17 (18) “Sell” includes let or hire, give, lend, and transfer, and “purchase” includes hire,
+18 accept, and borrow, and “purchasing” shall be construed accordingly.
+19 (19) “Shotgun” shall have the same meaning as in 26 U.S.C. § 5845(d), and by barrel length
+20 and overall length not be subject to registration pursuant to the National Firearms Act, 26 U.S.C.
+21 ch. 53 (prior § 5801 et seq.).
+22 (20) "Suitable person" means any person who is not prohibited by state law from possessing
+23 a pistol or revolver. A person may be considered unsuitable if the licensing authority has clear and
+24 convincing evidence that the person is a clear and present danger to themself, or to another person.
+25 Any person may be considered unsuitable if the law enforcement agency conducting the
+26 background check or the department of attorney general has evidence which supports a good faith
+27 belief that the person is a member of a criminal street gang as defined in § 12-19-39(a).
+28 (20)(21) “Trigger crank” means a trigger actuator that attaches to the trigger of a semi-
+29 automatic weapon and causes the weapon to fire by turning the crank handle.
+30 (21)(22) “Undetectable firearm” means any firearm that:
+31 (i) After removal of all parts, other than a major component, is not as detectable by walk-
+32 through metal detectors commonly used at airports or other public buildings; or
+33 (ii) Any major component of which, if subjected to inspection by the types of detection
+34 devices commonly used at airports or other public buildings for security screening, would not
+LC003348 - Page 3 of 21
+
+1 generate an image that accurately depicts the shape of the component; or
+2 (iii) Is manufactured wholly of plastic, fiberglass, or through a 3D printing process; or
+3 (iv) Upon which the frame or receiver lacks a unique serial number engraved or cased into
+4 on the frame or receiver by a licensed manufacturer, maker, or importer under federal law, or
+5 markings in accordance with 27 C.F.R. § 479.102. Provided, however, this subsection shall not
+6 apply to any firearm rendered permanently inoperable or a firearm manufactured prior to 1968.
+7 11-47-9. Persons exempt from restrictions.
+8 (a) The provisions of § 11-47-8 shall not apply to sheriffs; deputy sheriffs; the
+9 superintendent and members of the state police; members of the Rhode Island airport police
+10 department; members of the Rhode Island capitol police; Rhode Island state fire marshal; chief
+11 deputy state fire marshals; deputy state fire marshals assigned to the bomb squad, and those
+12 assigned to the investigation unit; Providence fire department arson investigators, provided that the
+13 investigator receiving the permit is a graduate of a police-training academy; correctional officers,
+14 chief inspector and inspectors within the office of inspections, within the department of corrections;
+15 members of the city or town police force; capitol police investigators of the department of attorney
+16 general appointed pursuant to § 42-9-8.1; the witness protection coordinator for the witness
+17 protection review board as set forth in chapter 30 of title 12 and subject to the minimum
+18 qualifications of § 42-9-8.1; automobile theft investigators of the Rhode Island state police pursuant
+19 to § 31-50-1; railroad police while traveling to and from official assignments or while on
+20 assignments; conservation officers; or other duly appointed law enforcement officers; nor to
+21 members of the Army, Navy, Air Force, Space Force, and Marine Corps of the United States, the
+22 National Guard, or organized reserves, when on duty; nor to members of organizations by law
+23 authorized to purchase or receive firearms from the United States or this state, provided these
+24 members are at, or going to or from, their places of assembly or target practice; nor to officers or
+25 employees of the United States authorized by law to carry a concealed firearm; nor to any civilian
+26 guard or criminal investigator carrying sidearms or a concealed firearm in the performance of their
+27 official duties under the authority of the commanding officer of the military establishment in the
+28 state of Rhode Island where they are employed by the United States; nor to any civilian guard
+29 carrying sidearms or a concealed firearm in the performance of their official duties under the
+30 authority of the adjutant general where they are employed guarding a national guard facility,
+31 provided, that the commanding officer of the military establishment shall have on file with the
+32 attorney general of this state a list of the names and addresses of all civilian guards and criminal
+33 investigators so authorized; nor to duly authorized military organizations when on duty; nor to
+34 members when at, or going to or from, their customary places of assembly; nor to any individual
+LC003348 - Page 4 of 21
+
+1 employed in the capacity of warden, associate warden, major, captain, lieutenant, sergeant,
+2 correctional officer or investigator at any project owned or operated by a municipal detention
+3 facility corporation, including the Donald W. Wyatt Detention Facility; nor to the regular and/or
+4 ordinary transportation of pistols or revolvers as merchandise; nor to any person while transporting
+5 a pistol, or revolvers, unloaded from the place of purchase to their residence, or place of business,
+6 from their residence to their place of business or from their place of business to their residence, or
+7 to a federal firearms licensee for the purpose of sale, to or from a bona fide gunsmith, or firearms
+8 repair facility, to any police station or other location designated as a site of a bona fide “gun buy-
+9 back” program, but only if said pistol or revolver is unloaded and any ammunition for said pistol
+10 or revolver is not readily or directly accessible from the passenger compartment of such vehicle
+11 while transporting same and further provided, that in the case of a vehicle without a compartment
+12 separate from the passenger compartment, the firearm or the ammunition shall be stored in a locked
+13 container.
+14 (b) Persons exempted by the provisions of this section from the provisions of § 11-47-8
+15 shall have the right to carry concealed firearms everywhere within this state; provided, that this
+16 shall not be construed as giving the right to carry concealed firearms to a person transporting
+17 firearms as merchandise or as household or business goods.
+18 (c) The attorney general shall have the authority to enter into agreements or otherwise
+19 formally approve reciprocal recognition with other states that require an agreement to be in place
+20 before that state will recognize a Rhode Island attorney general or a city or town police department
+21 concealed handgun permit as valid.
+22 (d) Rhode Island shall recognize and honor a concealed handgun or concealed weapon
+23 permit or license issued by any other reciprocal state or county, provided:
+24 (1) The permit or license holder is a non-resident who is twenty-one (21) years of age or
+25 older;
+26 (2) The reciprocal state and/or county provides the means of instantaneous verification of
+27 the validity of all such permits or licenses issued within that state or county, accessible twenty-four
+28 (24) hours a day;
+29 (3) The permit or license holder has in their immediate possession the concealed handgun
+30 or concealed weapon license along with a photo identification issued by a state or government
+31 agency and present for verification the permit or license and identification upon demand by a law
+32 enforcement officer;
+33 (4) The permit of license holder is subject to the same laws and restrictions with respect to
+34 carrying a concealed firearm as a resident of Rhode Island who is so licensed.
+LC003348 - Page 5 of 21
+
+1 (e) Rhode Island shall recognize an official government-issued law enforcement
+2 identification card issued to an active-duty law enforcement officer from any other state or county.
+3 These individuals shall be exempted from the provisions of § 11-47-8 and shall have the right to
+4 carry a concealed firearm everywhere within this state.
+5 11-47-11. License or permit to carry concealed pistol or revolver.
+6 (a) The licensing authorities of any city or town shall, upon application of any person
+7 twenty-one (21) years of age or over having a bona fide residence or place of business within the
+8 city or town, or of any person twenty-one (21) years of age or over having a bona fide residence
+9 within the United States and a license or permit to carry a pistol or revolver concealed upon his or
+10 her person issued by the authorities of any other state or subdivision of the United States, issue a
+11 license or permit to the person to carry concealed upon his or her person a pistol or revolver
+12 everywhere within this state for four (4) years from date of issue, if it appears that the applicant has
+13 good reason to fear an injury to his or her person or property or has any other proper lawful reason
+14 for carrying a pistol or revolver, and that he or she is a suitable person to be so licensed, subject to
+15 the provisions of §§ 11-47-12 and 11-47-15. Self-defense shall be considered a proper and purpose
+16 and lawful reason.
+17 (1) The license or permit shall be in triplicate in form to be prescribed by the attorney
+18 general and shall bear the fingerprint, photograph, name, address, description, and signature of the
+19 licensee and the reason given for desiring a license or permit and in no case shall it contain the
+20 serial number of any firearm. The original shall be delivered to the licensee.
+21 (2) Any member of the licensing authority, its agents, servants, and employees shall be
+22 immune from suit in any action, civil or criminal, based upon any official act or decision, performed
+23 or made in good faith in issuing a license or permit under this chapter.
+24 (3) The licensing authority shall retain a copy of the permit for its records and send a second
+25 copy to the department of attorney general. All permits issued or renewed pursuant to this section
+26 shall be recorded in the Rhode Island criminal history database, or its successor system.
+27 (b) The licensing authority shall, within fourteen (14) calendar days, return any incomplete
+28 application to the applicant along with a written explanation, stating with specificity, why the
+29 application is incomplete.
+30 (c) The licensing authority shall approve or deny a complete application within ninety (90)
+31 calendar days of receiving it.
+32 (1) Within seven (7) business days after approval, the license shall be made available for
+33 the applicant to pick up in person or, at the request and expense of the applicant be delivered by
+34 mail.
+LC003348 - Page 6 of 21
+
+1 (2) Any denial shall be in writing and state with specificity the reason(s) and evidence upon
+2 which the licensing authority based its decision on and the rationale for the denial.
+3 (3) Failure by the licensing authority to approve or deny within the time allowed shall
+4 constitute a denial for the sole purpose of permitting an appeal by the applicant and for no other
+5 purpose, and shall create a presumption that no evidence exists indicating that the applicant is
+6 unsuitable.
+7 (d) Any permit issued pursuant to this section is eligible to be renewed if it is not expired,
+8 or has been expired for less than six (6) months. Any person whose permit has been expired for six
+9 (6) months or more may apply for a new permit under this section.
+10 (e) Each licensing authority shall make its application available to any person by:
+11 (1) Posting it on its website, if it has one; and
+12 (2) Making it immediately available, free of charge, to any person who requests it; and
+13 (3) Upon request, providing a copy by regular mail using the United States postal service.
+14 (f) All applications shall require two (2) forms of identification, such as a driver’s license,
+15 state issued non-driver identification card, concealed carry permit issued by any state or political
+16 subdivision of any state, passport, immigration documentation, military identification, student
+17 identification, social security card or a birth certificate. At least one of these must be a government
+18 issued photo identification.
+19 (1) The licensing authority may only use the applicant’s social security number for the
+20 background check.
+21 (g) All applications shall include a federal bureau of investigation (FBI) fingerprint card
+22 (FD-258), or successor version, or provide fingerprints by live-scan, with the application, except
+23 that this shall not be a requirement for a renewal applicant.
+24 (h) All applications shall include a copy of the instructor’s credentials for the instructor
+25 who certified their qualification score on the applicant’s application.
+26 (j) All licensing authorities of a city or town shall use the following application:
+27 Application for a concealed carry license pursuant to RIGL § 11-47-11
+28 Name: __________________________________________________________________
+29 Address: ________________________________________________________________
+30 (Street and number) (City or town) (State) (ZIP)
+31 Date of Birth: _________________ Place of Birth_____________________
+32 Height: __________ Weight: __________ Color hair: ___________ Color eyes: __
+33 Are you a citizen of the United States?_____________________
+34 If you are not a US citizen, please list your admission/INS number: ____________
+LC003348 - Page 7 of 21
+
+1 ARMY L or RI COMBAT COURSE shooting score: ______________________
+2 Name and certification number of NRA or RI instructor: _____________________
+3 Signature of instructor:_________________________________________________
+4 Have you ever been convicted of a crime of violence (Pursuant to §11-47-2)? ____
+5 Are you a fugitive from justice (Pursuant to §11-47-2)?______________________
+6 Have you ever been adjudicated as being addicted to a controlled substance (Pursuant to
+7 §11-47-6)? __________________________
+8 Have you ever been adjudicated as being mentally incompetent (Pursuant to §11-47-6)?
+9 _______
+10 Have you been dishonorably discharged from the United States Military? _______
+11 To your knowledge, are you prohibited by federal or state law from possessing a firearm?
+12 __________
+13 For what lawful purpose do you seek to carry a pistol or revolver?
+14 ______________________________________________________________
+15 Applicant's signature:_____________________________________________________
+16 (See §11-47-23 for penalty for false information provided on this application)
+17 AFFIDAVIT: I certify that I have read and am familiar with the provisions of chapter 47
+18 of title 11, of the general laws of the State of Rhode Island and that I am aware of the penalties for
+19 violation of the provisions of the cited sections.
+20 Signed before me under penalties of perjury by____________________, known to me
+21 personally or did present a valid photo identification card which
+22 was_________________________
+23 County of _________________
+24 State of Rhode
+25 Subscribed and sworn before me this ____ of ________________, 20____
+26 Notary Public
+27 Notary Public number:________________
+28 (j) No licensing authority shall require any additional forms, standards, information,
+29 waivers or other additional requirements. An applicant may submit additional information
+30 documentation at the applicant’s discretion.
+31 (k) The licensing authority shall establish and maintain an emergency permit extension on
+32 the renewal application for a license to carry a concealable weapon.
+33 (1) The emergency permit extension is only available to renewal applicants who, at the
+34 time of the application, have an unexpired four (4) year city or town issued license to carry a
+LC003348 - Page 8 of 21
+
+1 concealable weapon and who must maintain this license for work purposes.
+2 (2) A complete renewal application must be delivered to the licensing authority prior to the
+3 license expiration date.
+4 (3) The licensing authority shall, within three (3) business days of receipt of the renewal
+5 application if there is no material change in the renewal application, no material change in need
+6 and no change in the applicant’s criminal history, automatically approve and make available the
+7 emergency permit.
+8 (4) A fee of fifty dollars ($50.00) shall be paid to the licensing authority for the emergency
+9 permit extension upon the issuance of the emergency permit.
+10 (5) An emergency license to carry a concealable weapon will be valid for ninety (90) days
+11 only.
+12 (6) Nothing in the emergency permit extension section shall be construed or interpreted to
+13 stay or toll the time periods in the renewal process as outlined in subsection (e) of this section.
+14 (b)(m) Notwithstanding any other chapter or section of the general laws of the state of
+15 Rhode Island, the licensing authority of any city or town shall not provide or release to any
+16 individual, firm, association or corporation the name, address, or date of birth of any person who
+17 has held or currently holds a license or permit to carry a concealed pistol or revolver. This section
+18 shall not be construed to prohibit the release of any statistical data of a general nature relative to
+19 age, gender and racial or ethnic background nor shall it be construed to prevent the release of
+20 information to parties involved in any prosecution of § 11-47-8 or in response to a lawful subpoena
+21 in any criminal or civil action which the person is a party to that action.
+22 11-47-12. License or permit fee. License to carry weapon fee.
+23 A fee of forty dollars ($40.00) shall be charged and shall be paid for each a license or
+24 permit to carry a weapon to the licensing authority issuing it and/or the department of attorney
+25 general upon issuance. No additional fees or costs of any type shall be charged or assessed for any
+26 reason, except, that the applicant may be assessed the actual cost charged by the FBI to process
+27 their prints. Every license or permit shall be valid for four (4) years from the date when issued
+28 unless sooner revoked, subject to the emergency permit provisions of § 11-47-11. The fee charged
+29 for issuing of the license or permit shall be applied for the use and benefit of the city, town, or state
+30 of Rhode Island the department of attorney general.
+31 11-47-18. License or permit issued by attorney general on showing of need — Issuance
+32 to retired police officers.
+33 (a) The attorney general may issue a license or permit to any person twenty-one (21) years
+34 of age or over to carry a pistol or revolver, whether concealed or not, upon his or her person
+LC003348 - Page 9 of 21
+
+1 everywhere within this state for four (4) years from the date of issue upon a proper showing of
+2 need, or the applicant has good reason to fear an injury to their person or property, or for
+3 employment, and that her or she is a suitable person to be so licensed, subject to the provisions of
+4 §§ 11-47-12 and 11-47-15; that license or permit may be issued notwithstanding the provisions of
+5 § 11-47-7.
+6 (1) A license to carry a pistol or revolver may not be issued to and shall be immediately
+7 revoked for an individual who is in violation of § 11-47-7.
+8 (b) All state police officers and permanent members of city and town police forces of this
+9 state who have retired in good standing after at least twenty (20) years of service, or retired in good
+10 standing due to a physical disability other than a psychological impairment, may shall be issued a
+11 license or permit by the attorney general subject to the provisions of §§ 11-47-12 and 11-47-15.
+12 The term “in good standing” means that at the time of retirement, the police officer was not facing
+13 disciplinary action that could have resulted in his or her termination for misconduct or unfitness for
+14 office. Any member of the licensing authority, and its agents, servants, and employees shall be
+15 immune from suit in any action, civil or criminal, based upon any official act or decision, performed
+16 or made in good faith in issuing and/or denying a license or permit under this chapter.
+17 (c) Notwithstanding any other chapter or section of the general laws of the state of Rhode
+18 Island, the attorney general shall not provide or release to any individual, firm, association or
+19 corporation the name, address, or date of birth of any person who has held or currently holds a
+20 license or permit to carry a concealed pistol or revolver. This section shall not be construed to
+21 prohibit the release of any statistical data of a general nature relative to age, gender and racial or
+22 ethnic background nor shall it be construed to prevent the release of information to parties involved
+23 in any prosecution of § 11-47-8 or in response to a lawful subpoena in any criminal or civil action
+24 which said person is a party to such action.
+25 (d) Any permit issued pursuant to this section is eligible to be renewed if it is not expired,
+26 or has been expired for less than six (6) months. Any person whose permit has been expired for six
+27 (6) months or more may apply for a new permit under this section.
+28 (e) The attorney general’s application for a license to carry a pistol or revolver shall be
+29 filled out completely by the applicant, dated and signed by the applicant and notarized.
+30 (f) The attorney general may request only the following information on the application:
+31 (1) Applicant’s full name, prior name if legally changed, all nicknames and aliases, full
+32 residence address and mailing address if different. No post office box addresses may be used;
+33 (2) All of the applicant’s available phone numbers, including, but not limited to, business,
+34 cellular, mobile and land line phone numbers;
+LC003348 - Page 10 of 21
+
+1 (3) The applicant’s height, weight, color of eyes and hair, date and place of birth, and social
+2 security number;
+3 (4) Applicant’s occupation, job description, years of employment and employer’s address
+4 and contact information, except this information may only be required if the permit is being
+5 requested as a condition of employment with a specific company;
+6 (5) Applicant’s proof of citizenship, length of citizenship and if applicant is not a citizen
+7 of the United States, a copy of both sides of a current and valid alien registration card or work
+8 authorization card;
+9 (6) A listing of all of the applicant’s address for the last three (3) years, including the full
+10 address with dates of residence;
+11 (7) Information relating to the applicant’s arrest record including, but not limited to, the
+12 date the applicant was arrested, the name of the city/town or arresting agency, the state the arrest
+13 occurred in, the arresting charge and disposition;
+14 (8) Information relating to the applicant’s plea of nolo contendere to any charge or violation
+15 including, but not limited to, the date applicant was arrested, the name of the city/town or arresting
+16 agency, the state the plea occurred in, the arresting charge and disposition;
+17 (9) Information relating to the applicant’s conviction record, including, but not limited to,
+18 the date applicant was arrested, the name of the city/town or arresting agency, the state the arrest
+19 occurred in, the arresting charge and disposition;
+20 (10) Information relating to the applicant’s indictment in any court for a crime punishable
+21 for more than one year, including, but not limited to, the name of the city/town or indicting agency,
+22 the state of the indictment, the indicting charge and disposition;
+23 (11) Information relating to whether the applicant was ever under a guardianship or been
+24 subject confinement by virtue of being a mental incompetent, or who has been adjudicated or is
+25 under treatment or confinement as a drug addict, including, but not limited to, the dates thereof;
+26 and
+27 (12) Information relating to the applicant’s current and prior applications for a permit to
+28 carry a pistol or revolver from the Rhode Island attorney general, any local city or town, or any
+29 other state, including, but not limited to, if any permit is active, denied or revoked, with the dates
+30 and reasons thereof. The attorney general may require notarized photocopies of the front and back
+31 of all valid permits.
+32 (g) The attorney general may require only the following with the application from an out-
+33 of-state applicant:
+34 (1) A dated, signed and notarized typed statement from the applicant outlining the
+LC003348 - Page 11 of 21
+
+1 applicant’s specific reasons and details regarding the applicant's need for a Rhode Island permit. If
+2 the permit is to be used for employment, a typed and signed letter of explanation must be submitted
+3 on the applicant’s employer’s letterhead and included with the application. In addition, the
+4 applicant must submit a copy of the business license or other such evidence that the business exists.
+5 (2) Two (2) 1” X 1” pictures of the applicant taken without headgear or glasses. This photo
+6 must be a clear, colored picture of the head and face. The applicant must print their name on the
+7 back of each picture. No laminated photos will be accepted.
+8 (3) Copies of both the front and the back of two (2) types of positive identification for the
+9 applicant, examples include, but are not limited to, birth certificate, United States Passport, a Rhode
+10 Island or other state driver’s license or a Rhode Island identification card, concealed carry permit
+11 issued by any state or political subdivision of any state, military identification, student identification
+12 or social security card. At least one of these shall be a government issued photo identification. The
+13 photocopies submitted shall be signed and dated by a notary public attesting to the photocopies as
+14 being true copies.
+15 (4) The application shall include the applicant’s full set of fingerprints submitted on a FBI
+16 fingerprint identification card {FD-258 (Rev. 12-29-82 or successor version)} included with the
+17 application. The fingerprint card shall be signed by the applicant. Submission of fingerprints shall
+18 not necessary for a renewal application.
+19 (5) Three (3) dated, signed and notarized typed reference letters from individuals who
+20 personally know the applicant. The individuals used as references shall include on the letters the
+21 following information: their full names, residence address, phone number with area code and the
+22 years they have known the applicant. An applicant’s reference letter dated more than one hundred
+23 and twenty days (120) prior to the date of the permit application will be considered invalid.
+24 Reference letters shall be written by the reference, not the applicant, and cannot be identical.
+25 Submission of letters of reference shall not be necessary for a renewal application.
+26 (6) A certification that the applicant has qualified in accordance with § 11-47-15. (law
+27 enforcement personnel may submit a certification of the Rhode Island combat course). An N.R.A.
+28 instructor or a police range officer shall sign and complete the certification which shall include the
+29 date of the qualification, the printed name, phone number of the instructor, instructor N.R.A.
+30 number, the caliber of the weapon and the applicant’s score. An applicant’s qualification
+31 certification dated more than one year prior to the date of the permit application will be considered
+32 invalid.
+33 (7) A copy of the N.R.A. instructor certification and/or the police officer’s range
+34 certification shall be submitted with the application.
+LC003348 - Page 12 of 21
+
+1 (8) The applicant’s legal residence may be required. The residency requirement may be
+2 satisfied by any one of the following methods: the application may be signed by the applicant’s
+3 local licensing authority; the application may be signed by the city or town chief of police; the
+4 application may be signed by the city or town clerk; or the applicant may submit a certified or
+5 notarized copy the applicant’s voter registration card.
+6 (9) The applicant shall sign an affidavit certifying that the applicant has read and is familiar
+7 with the provision of the firearms act, §§ 11-47-1 through 11-47-65, inclusive, as amended, and
+8 acknowledges the penalties for violations of the provisions of the cited sections. The applicant shall
+9 further attest that any alteration of the permit is just cause for revocation. The affidavit shall be
+10 dated and notarized and shall indicate the date it was submitted to the licensing authority or the
+11 police department.
+12 (10) All non-resident applicants shall include a copy of both the front and the back of their
+13 home state permit, if they have one.
+14 (h) The licensing authority may only use the applicant’s social security number for the
+15 background check.
+16 (i) The attorney general shall, within ninety (90) days for an in-state applicant or one
+17 hundred twenty (120) days for an out-of-state applicant from the receipt of a complete application
+18 either approve or deny the application.
+19 (1) If the application is approved, the attorney general may require the applicant to appear
+20 at the department of attorney general to sign and submit a fingerprint card for the permit.
+21 (2) If the attorney general denies the application, the applicant shall be notified, either by
+22 mail or by phone, that the entire application is available for pick-up by the applicant. Any denial
+23 shall be in writing and state with specificity the reason(s) and evidence upon which the denial was
+24 based and the rationale for the denial.
+25 (3) If the attorney general deems the application incomplete, then the applicant shall be
+26 notified, either by mail or by phone, within five (5) business days from submitting the application,
+27 that the entire application is available for pick-up by the applicant along with a written response
+28 stating the reason(s) why the application was deemed incomplete.
+29 (j) The provisions of §§ 11-47-35 and 11-47-35.2 shall not apply to persons licensed
+30 pursuant to this section.
+31 (k) The attorney general’s renewal application for a license to carry a pistol or revolver
+32 shall require the following:
+33 (1) The applicant shall submit a fully complete, signed, dated and notarized renewal
+34 application to the attorney general prior to the expiration date of the permit.
+LC003348 - Page 13 of 21
+
+1 (2) The renewal application shall include the information included in subsection (f) of this
+2 section with the following exceptions:
+3 (i) The three (3) dated, signed and notarized typed reference letters from individuals who
+4 personally know the applicant are not required upon renewal.
+5 (ii) The fingerprint card requirement is not required upon renewal.
+6 (3) The attorney general shall, within sixty (60) days of receipt of the renewal application,
+7 if there is no material change in the applicant’s renewal application, no material change in need and
+8 no change in the applicant’s criminal history, automatically approve the renewal application.
+9 (l) The attorney general shall establish and maintain an emergency permit extension on the
+10 renewal application for a license to carry a pistol or revolver.
+11 (1) The emergency permit extension is only available to renewal applicants who, at the
+12 time of the application, have an unexpired four (4) year attorney general license to carry a pistol or
+13 revolver and who must maintain this license for work purposes.
+14 (2) A complete renewal application must be delivered to the department of attorney general
+15 prior to the license expiration date.
+16 (3) The attorney general shall, within three (3) business days of receipt of the renewal
+17 application, if there is no material change in the applicant’s renewal application, no material change
+18 in need and no change in the applicant’s criminal history, automatically approve and make available
+19 the emergency permit.
+20 (4) A fee of fifty dollars ($50.00) shall be paid to the attorney general for the emergency
+21 permit extension upon the issuance of the emergency permit.
+22 (5) An emergency license to carry a pistol or revolver will be valid for ninety (90) days
+23 only.
+24 (6) Nothing in the emergency permit extension section shall be construed or interpreted to
+25 stay or toll the time periods in the renewal process as outlined in § 11-47-11(e).
+26 11-47-20. Sale or possession of silencers.
+27 (a) It shall be unlawful within this state to manufacture, sell, purchase, or possess and/or
+28 use a firearm, with an overall length of less than seventeen inches (17”) that has attached any
+29 muffler, silencer, or device for deadening or muffling the sound of a firearm when discharged;
+30 provided, however, that law enforcement officers utilizing said devices while acting within the
+31 scope of their official duties, as tactical teams and under the direct supervision of the police chief
+32 or the colonel of the state police or their designee, shall not be in violation of this section.
+33 (b) Violations of this section shall be punished by imprisonment for not less than one year
+34 and one day.
+LC003348 - Page 14 of 21
+
+1 SECTION 2. Section 38-2-2 of the General Laws in Chapter 38-2 entitled "Access to Public
+2 Records" is hereby amended to read as follows:
+3 38-2-2. Definitions.
+4 As used in this chapter:
+5 (1) “Agency” or “public body” means any executive, legislative, judicial, regulatory, or
+6 administrative body of the state, or any political subdivision thereof; including, but not limited to:
+7 any department, division, agency, commission, board, office, bureau, authority; any school, fire, or
+8 water district, or other agency of Rhode Island state or local government that exercises
+9 governmental functions; any authority as defined in § 42-35-1(b); or any other public or private
+10 agency, person, partnership, corporation, or business entity acting on behalf of and/or in place of
+11 any public agency.
+12 (2) “Chief administrative officer” means the highest authority of the public body.
+13 (3) “Public business” means any matter over which the public body has supervision,
+14 control, jurisdiction, or advisory power.
+15 (4) “Public record” or “public records” shall mean all documents, papers, letters, maps,
+16 books, tapes, photographs, films, sound recordings, magnetic or other tapes, electronic data
+17 processing records, computer stored data (including electronic mail messages, except specifically
+18 for any electronic mail messages of or to elected officials with or relating to those they represent
+19 and correspondence of or to elected officials in their official capacities), or other material regardless
+20 of physical form or characteristics made or received pursuant to law or ordinance or in connection
+21 with the transaction of official business by any agency. For the purposes of this chapter, the
+22 following records shall not be deemed public:
+23 (A)(I)(a) All records relating to a client/attorney relationship and to a doctor/patient
+24 relationship, including all medical information relating to an individual in any files.
+25 (b) Personnel and other personal individually identifiable records otherwise deemed
+26 confidential by federal or state law or regulation, or the disclosure of which would constitute a
+27 clearly unwarranted invasion of personal privacy pursuant to 5 U.S.C. § 552 et seq.; provided,
+28 however, with respect to employees, and employees of contractors and subcontractors working on
+29 public works projects that are required to be listed as certified payrolls, the name, gross salary,
+30 salary range, total cost of paid fringe benefits, gross amount received in overtime, and any other
+31 remuneration in addition to salary, job title, job description, dates of employment and positions
+32 held with the state, municipality, or public works contractor or subcontractor on public works
+33 projects, employment contract, work location, and/or project, business telephone number, the city
+34 or town of residence, and date of termination shall be public. For the purposes of this section
+LC003348 - Page 15 of 21
+
+1 “remuneration” shall include any payments received by an employee as a result of termination, or
+2 otherwise leaving employment, including, but not limited to, payments for accrued sick and/or
+3 vacation time, severance pay, or compensation paid pursuant to a contract buy-out provision. For
+4 purposes of this section, the city or town residence shall not be deemed public for peace officers,
+5 as defined in § 12-7-21, and shall not be released.
+6 (II) Notwithstanding the provisions of this section, or any other provision of the general
+7 laws to the contrary, the pension records of all persons who are either current or retired members
+8 of any public retirement systems, as well as all persons who become members of those retirement
+9 systems after June 17, 1991, shall be open for public inspection. “Pension records” as used in this
+10 section, shall include all records containing information concerning pension and retirement benefits
+11 of current and retired members of the retirement systems and future members of said systems,
+12 including all records concerning retirement credits purchased and the ability of any member of the
+13 retirement system to purchase retirement credits, but excluding all information regarding the
+14 medical condition of any person and all information identifying the member’s designated
+15 beneficiary or beneficiaries unless and until the member’s designated beneficiary or beneficiaries
+16 have received or are receiving pension and/or retirement benefits through the retirement system.
+17 (B) Trade secrets and commercial or financial information obtained from a person, firm,
+18 or corporation that is of a privileged or confidential nature.
+19 (C) Child custody and adoption records, records of illegitimate births, and records of
+20 juvenile proceedings before the family court.
+21 (D) All records maintained by law enforcement agencies for criminal law enforcement and
+22 all records relating to the detection and investigation of crime, including those maintained on any
+23 individual or compiled in the course of a criminal investigation by any law enforcement agency.
+24 Provided, however, such records shall not be deemed public only to the extent that the disclosure
+25 of the records or information (a) Could reasonably be expected to interfere with investigations of
+26 criminal activity or with enforcement proceedings; (b) Would deprive a person of a right to a fair
+27 trial or an impartial adjudication; (c) Could reasonably be expected to constitute an unwarranted
+28 invasion of personal privacy; (d) Could reasonably be expected to disclose the identity of a
+29 confidential source, including a state, local, or foreign agency or authority, or any private institution
+30 that furnished information on a confidential basis, or the information furnished by a confidential
+31 source; (e) Would disclose techniques and procedures for law enforcement investigations or
+32 prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions; or
+33 (f) Could reasonably be expected to endanger the life or physical safety of any individual. Records
+34 relating to management and direction of a law enforcement agency and records or reports reflecting
+LC003348 - Page 16 of 21
+
+1 the initial arrest of an adult and the charge or charges brought against an adult shall be public.
+2 (E) Any records that would not be available by law or rule of court to an opposing party in
+3 litigation.
+4 (F) Scientific and technological secrets and the security plans of military and law
+5 enforcement agencies, the disclosure of which would endanger the public welfare and security.
+6 (G) Any records that disclose the identity of the contributor of a bona fide and lawful
+7 charitable contribution to the public body whenever public anonymity has been requested of the
+8 public body with respect to the contribution by the contributor.
+9 (H) Reports and statements of strategy or negotiation involving labor negotiations or
+10 collective bargaining.
+11 (I) Reports and statements of strategy or negotiation with respect to the investment or
+12 borrowing of public funds, until such time as those transactions are entered into.
+13 (J) Any minutes of a meeting of a public body that are not required to be disclosed pursuant
+14 to chapter 46 of title 42.
+15 (K) Preliminary drafts, notes, impressions, memoranda, working papers, and work
+16 products, including those involving research at state institutions of higher education on commercial,
+17 scientific, artistic, technical, or scholarly issues, whether in electronic or other format; provided,
+18 however, any documents submitted at a public meeting of a public body shall be deemed public.
+19 (L) Test questions, scoring keys, and other examination data used to administer a licensing
+20 examination, examination for employment or promotion, or academic examinations; provided,
+21 however, that a person shall have the right to review the results of his or her examination.
+22 (M) Correspondence of or to elected officials with or relating to those they represent and
+23 correspondence of or to elected officials in their official capacities.
+24 (N) The contents of real estate appraisals, engineering, or feasibility estimates and
+25 evaluations made for or by an agency relative to the acquisition of property or to prospective public
+26 supply and construction contracts, until such time as all of the property has been acquired or all
+27 proceedings or transactions have been terminated or abandoned; provided the law of eminent
+28 domain shall not be affected by this provision.
+29 (O) All tax returns.
+30 (P) All investigatory records of public bodies, with the exception of law enforcement
+31 agencies, pertaining to possible violations of statute, rule, or regulation other than records of final
+32 actions taken, provided that all records prior to formal notification of violations or noncompliance
+33 shall not be deemed to be public.
+34 (Q) Records of individual test scores on professional certification and licensing
+LC003348 - Page 17 of 21
+
+1 examinations; provided, however, that a person shall have the right to review the results of his or
+2 her examination.
+3 (R) Requests for advisory opinions until such time as the public body issues its opinion.
+4 (S) Records, reports, opinions, information, and statements required to be kept confidential
+5 by federal law or regulation or state law or rule of court.
+6 (T) Judicial bodies are included in the definition only in respect to their administrative
+7 function provided that records kept pursuant to the provisions of chapter 16 of title 8 are exempt
+8 from the operation of this chapter.
+9 (U) Library records that, by themselves or when examined with other public records, would
+10 reveal the identity of the library user requesting, checking out, or using any library materials.
+11 (V) Printouts from TELE — TEXT devices used by people who are deaf or hard of hearing
+12 or speech impaired.
+13 (W) All records received by the insurance division of the department of business regulation
+14 from other states, either directly or through the National Association of Insurance Commissioners,
+15 if those records are accorded confidential treatment in that state. Nothing contained in this title or
+16 any other provision of law shall prevent or be construed as prohibiting the commissioner of
+17 insurance from disclosing otherwise confidential information to the insurance department of this
+18 or any other state or country, at any time, so long as the agency or office receiving the records
+19 agrees in writing to hold it confidential in a manner consistent with the laws of this state.
+20 (X) Credit card account numbers in the possession of state or local government are
+21 confidential and shall not be deemed public records.
+22 (Y) Any documentary material, answers to written interrogatories, or oral testimony
+23 provided under any subpoena issued under § 9-1.1-6.
+24 (Z) Any individually identifiable evaluations of public school employees made pursuant to
+25 state or federal law or regulation.
+26 (AA) All documents prepared by school districts intended to be used by school districts in
+27 protecting the safety of their students from potential and actual threats.
+28 (BB) The list of teachers terminated for good and just cause maintained by the department
+29 of education pursuant to § 16-13-9.
+30 (CC) All documents, records and any records of proceedings involving the application
+31 submitted pursuant to §§ 11-47-11 or 11-47-18 or an appeal pursuant to § 11-47-65, before a
+32 licensing authority, the department of attorney general and the superior court are not open to the
+33 public.
+34 SECTION 3. Chapter 11-47 of the General Laws entitled "Weapons" is hereby amended
+LC003348 - Page 18 of 21
+
+1 by adding thereto the following section:
+2 11-47-65. Review and appeal of the decision of the licensing authority or attorney
+3 general.
+4 (a) A decision denying a firearms permit pursuant to either §§ 11-47-11 or 11-47-18 shall
+5 be final unless further review and/or appeal is initiated in writing within fifteen (15) days after the
+6 decision has been mailed to the applicant at the address listed on the application.
+7 (b) An aggrieved individual may submit a written request to reconsider the denial to the
+8 licensing authority or the department of attorney general. Any request for reconsideration must be
+9 submitted within fifteen (15) days after the decision has been mailed to the address provided by the
+10 applicant.
+11 (1) The licensing authority or the department of attorney general shall schedule and conduct
+12 an in-person meeting within thirty (30) days of the request to review and discuss the decision. Said
+13 meeting shall only be scheduled or rescheduled beyond the initial thirty (30) day period by
+14 agreement of the parties and/or for good cause, but in no event exceed sixty (60) days.
+15 (2) The applicant may submit any supplemental documentation or written evidence relative
+16 to the application, which shall become part of the application.
+17 (3) The meeting shall be conducted as an informal meeting, not as an administrative
+18 hearing. The licensing authority or the department of attorney general shall receive and consider
+19 documents and other evidence without regard to statutory and common law rules. No stenographic
+20 record, transcription, video, audio or other recording shall be allowed.
+21 (4) The applicant may be represented at this meeting by an attorney.
+22 (5) The licensing authority or the department of attorney general shall within fourteen (14)
+23 days after the meeting mail a decision to the applicant granting or denying the application. Any
+24 denial shall be in writing and state with specificity the reason(s) and evidence upon which the denial
+25 was based and the rationale for the denial.
+26 (c) An aggrieved individual may submit an appeal of the decision denying a firearms permit
+27 pursuant to the decision of the request to reconsider to the superior court of the State of Rhode
+28 Island for the county in which the licensing authority or attorney general is located, in the form of
+29 a miscellaneous petition, within fifteen (15) days after the decision has been mailed to the applicant
+30 at the address listed on the application.
+31 (1) The petition for review shall state the grounds upon which review is sought but need
+32 not be verified.
+33 (2) Upon appeal, the petitioner is entitled to a trial de novo before a justice of the superior
+34 court without a jury.
+LC003348 - Page 19 of 21
+
+1 (3) Within thirty (30) days of the filing of the notice of appeal the licensing authority or
+2 attorney general shall provide a full, complete and certified copy of the application and all
+3 submitted documents to both the petitioner and the superior court.
+4 (d) Pursuant to chapter 2 of title 38, the request to reconsider and the appeal to superior
+5 court, shall not be deemed public. All documents, records and proceedings before the licensing
+6 authority, the department of attorney general and the superior court are not open to the public but
+7 may be accessed by law enforcement personnel to be used for law enforcement purposes only and
+8 shall otherwise remain confidential.
+9 (e) An applicant may have their hearing open to the public upon written request to the
+10 superior court.
+11 (f) The superior court shall award reasonable attorney fees, costs and filing fees to the
+12 prevailing applicant if the court finds that there is no justiciable issue of either law of fact or to the
+13 prevailing applicant if the licensing authority or the department of attorney general did not have a
+14 good faith basis in the denial of the license or permit.
+15 SECTION 4. Chapter 20-13 of the General Laws entitled "Hunting and Hunting Safety" is
+16 hereby amended by adding thereto the following section:
+17 20-13-19. Hunting with suppressor.
+18 (a) An individual in lawful possession of a device that will silence, suppress, or muffle the
+19 sound of natural report of a rifle or shotgun when the rifle or shotgun is discharged may, at the
+20 individual's sole discretion, use such device to hunt any game for which the individual is licensed;
+21 provided the host rifle or shotgun to which the device is attached complies with the provisions of §
+22 20-13-13.
+23 (b) No city, town committee, board or state or local agency may enact rules, regulations or
+24 ordinances requiring or in any other manner mandating the use of a device that will silence,
+25 suppress, or muffle the sound of natural report of a rifle or shotgun.
+26 SECTION 5. This act shall take effect upon passage.
+========
+LC003348
+========
+LC003348 - Page 20 of 21
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL OFFENSES -- WEAPONS
+***
+1 This act would define suitable person for purposes of possessing and having a concealed
+2 carry pistol permit, would establish reasons for applying for a concealed carry permit for both in-
+3 state and out-of-state residents, would recognize a concealed weapon permit or license by a
+4 reciprocal state, would establish what information is required on applications for carry permits,
+5 establish time limits and an appeal process when an application is denied, provides that records
+6 relating to carry permits and appeals is not a public record and would permit the use of silence or
+7 suppressor for use in hunting.
+8 This act would take effect upon passage.
+========
+LC003348
+========
+LC003348 - Page 21 of 21

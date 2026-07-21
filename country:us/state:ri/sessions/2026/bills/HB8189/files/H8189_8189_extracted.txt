@@ -1,0 +1,153 @@
+Title: 
+Official Title: 
+Source: versions - 8189
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8189
+========
+LC005303
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TAXATION -- EMPLOYER TAX CREDITS FOR RETIREMENT PLAN
+ESTABLISHMENT, PARTICIPATION AND AUTO-ENROLLMENT
+Introduced By: Representative Alex S. Finkelman
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative Findings and Purpose
+2 The General Assembly finds that:
+3 (1) A substantial number of Rhode Island workers lack access to employer-sponsored
+4 retirement plans;
+5 (2) Small employers face disproportionate financial and administrative barriers in
+6 establishing and maintaining retirement plans;
+7 (3) The federal Setting Every Community Up for Retirement Enhancement Act of 2019, as
+8 amended (“SECURE Act”), established tax incentives to encourage small employers to adopt
+9 retirement plans, increase employee participation, and implement automatic enrollment features;
+10 and
+11 (4) Aligning state tax incentives with federal retirement policy will expand coverage,
+12 increase savings rates, and strengthen the long-term financial security of Rhode Island workers.
+13 It is therefore the purpose of this act to encourage the establishment and maintenance of
+14 employer-sponsored retirement plans by providing tax credits tied to employee participation and
+15 automatic enrollment, consistent with federal law.
+16 SECTION 2. Title 44 of the General Laws entitled "TAXATION" is hereby amended by
+17 adding thereto the following chapter:
+18 CHAPTER 55.1
+
+1 EMPLOYER TAX CREDITS FOR RETIREMENT PLAN ESTABLISHMENT,
+2 PARTICIPATION, AND AUTO-ENROLLMENT
+3 44-55.1-1. Definitions.
+4 As used in this chapter:
+5 (1) “Automatic enrollment feature” means a feature of a qualified retirement plan under
+6 which eligible employees are automatically enrolled at a specified contribution rate unless the
+7 employee affirmatively elects otherwise, consistent with the Internal Revenue Code.
+8 (2) “Eligible costs” means ordinary and necessary costs paid or incurred by an eligible
+9 employer in connection with:
+10 (i) The establishment or administration of a qualified retirement plan; and
+11 (ii) Employer contributions or matching contributions made on behalf of eligible
+12 employees.
+13 (3) “Eligible employee” means an employee who:
+14 (i) Is employed by an eligible employer;
+15 (ii) Meets the eligibility requirements of the qualified retirement plan; and
+16 (iii) Participates in the plan during the taxable year through elective deferrals or on whose
+17 behalf employer contributions are made.
+18 (4) “Eligible employer” means an employer that:
+19 (i) Employed one hundred (100) or fewer employees who received at least five thousand
+20 dollars ($5,000) in compensation during the preceding taxable year; and
+21 (ii) Did not maintain a qualified retirement plan covering substantially the same employees
+22 during the three (3) taxable years preceding the first taxable year for which a credit is claimed,
+23 except as otherwise permitted under applicable federal law.
+24 (5) “Qualified retirement plan” means a retirement plan described in the Internal Revenue
+25 Code and eligible for favorable federal tax treatment including, but not limited to, plans described
+26 in §§ 401(a), 401(k), 403(b), 408(k), or 408(p).
+27 (6) “Tax credit” means a credit allowed against Rhode Island income tax pursuant to this
+28 chapter.
+29 44-55.1-2. Retirement plan participation credit.
+30 (a) An eligible employer shall be allowed a nonrefundable credit against its tax liability
+31 imposed under chapters 11, 14, 15, or 30 of title 44, for each taxable year in which one or more
+32 eligible employees participate in a qualified retirement plan.
+33 (b) The credit attributable to any eligible employee shall not exceed one hundred dollars
+34 ($100) per employee per taxable year, and the aggregate credit allowed to any eligible employer
+LC005303 - Page 2 of 5
+
+1 shall not exceed ten thousand dollars ($10,000) per taxable year.
+2 (c) No credit shall be allowed under this section for costs attributable to employees who do
+3 not participate in the qualified retirement plan during the taxable year.
+4 (d) The credit allowed under this section shall not reduce a taxpayer’s liability below the
+5 minimum tax imposed under the applicable chapter of this title.
+6 44-55.1-3. Auto-enrollment enhancement credit.
+7 (a) In addition to the credit allowed under § 44-55.1-2, an eligible employer that includes
+8 an automatic enrollment feature in its qualified retirement plan shall be allowed an additional
+9 nonrefundable credit against its tax liability.
+10 (b) The auto-enrollment enhancement credit shall be determined on a per–eligible
+11 employee basis for each eligible employee subject to automatic enrollment during the taxable year.
+12 (c) The credit allowed under this section shall not exceed one hundred dollars ($100) per
+13 eligible employee per taxable year, subject to an aggregate annual cap of one thousand dollars
+14 ($1,000) per eligible employer.
+15 (d) The auto-enrollment enhancement credit may be claimed for up to three (3) consecutive
+16 taxable years beginning with the first taxable year in which the automatic enrollment feature is
+17 implemented.
+18 (e) No credit shall be allowed under this section unless the automatic enrollment feature
+19 complies with applicable requirements of the Internal Revenue Code.
+20 (f) The credit allowed under this section shall not reduce a taxpayer’s liability below the
+21 minimum tax imposed under the applicable chapter of this title.
+22 44-55.1-4. Nondiscrimination; coordination with other credits.
+23 (a) A qualified retirement plan for which a credit is claimed under this chapter shall be
+24 offered on a nondiscriminatory basis, consistent with the requirements of the Internal Revenue
+25 Code.
+26 (b) No credit shall be allowed under this chapter for any eligible costs that are used by the
+27 taxpayer to claim any other credit, deduction, or incentive under this title.
+28 (c) If a taxpayer is liable for tax under both chapters 14 and 15 of title 44, the taxpayer shall
+29 elect the chapter under which the credit shall be applied, and the credit shall be applied to only one
+30 chapter for the taxable year.
+31 44-55.1-5. Pass-through entities.
+32 If the eligible employer is a pass-through entity including, but not limited to, a partnership,
+33 limited liability company, or S corporation, the tax credit allowed under this chapter shall be passed
+34 through to the owners, partners, or members in the same manner as income, in proportion to their
+LC005303 - Page 3 of 5
+
+1 ownership interests.
+2 44-55.1-6. Carryforward of unused credit.
+3 Any unused portion of a credit allowed under this chapter may be carried forward for up
+4 to three (3) consecutive taxable years, subject to regulations adopted pursuant to this chapter.
+5 44-55.1-7. Coordination with federal law.
+6 (a) This chapter shall be interpreted and administered, to the extent practicable, in a manner
+7 consistent with the federal Setting Every Community Up for Retirement Enhancement Act, as
+8 amended.
+9 (b) In the event of a conflict between this chapter and applicable federal law governing
+10 qualified retirement plans, federal law shall control.
+11 44-55.1-8. Reporting and evaluation.
+12 The tax administrator shall annually report to the general assembly the number of taxpayers
+13 claiming the credit, the total amount of credits claimed, and any other information necessary to
+14 evaluate the fiscal and economic impact of the credit, consistent with § 44-48.2.
+15 44-55.1-9. Regulations.
+16 The tax administrator, in consultation with the office of the general treasurer, shall
+17 promulgate rules and regulations necessary to implement and administer the provisions of this
+18 chapter.
+19 SECTION 3. This act shall take effect for taxable years beginning on or after January 1,
+20 2027.
+========
+LC005303
+========
+LC005303 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TAXATION -- EMPLOYER TAX CREDITS FOR RETIREMENT PLAN
+ESTABLISHMENT, PARTICIPATION AND AUTO-ENROLLMENT
+***
+1 This would establish employer tax credits for establishing a retirement plan for employee
+2 participation with auto-enrollment.
+3 This act would take effect for taxable years beginning on or after January 1, 2027.
+========
+LC005303
+========
+LC005303 - Page 5 of 5

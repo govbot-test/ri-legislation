@@ -1,0 +1,165 @@
+Title: 
+Official Title: 
+Source: versions - 2845
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2845
+========
+LC005034
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND FAMILY HOME--
+VISITING ACT
+Introduced By: Senators Valverde, Mack, DiMario, DiPalma, Urso, Murray, Ujifusa,
+Quezada, and Acosta
+Date Introduced: March 04, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly hereby finds that:
+3 (1) A child's first experiences and relationships set the foundation for development and
+4 learning that leads to success in school and in life.
+5 (2) Voluntary, high-quality home-visiting programs help families learn about and connect
+6 to essential resources, adjust to parenthood, build parenting skills, and address challenges
+7 commonly faced by young families.
+8 (3) For at least four (4) decades, Rhode Island’s First Connections program, overseen by
+9 the department of health and funded primarily through Medicaid billing, has been providing free,
+10 voluntary, statewide home-visiting to expectant mothers and families with newborns, infants, and
+11 toddlers. Families typically receive one to four (4) home visits. Between 2021 and 2024, the number
+12 of families receiving at least one First Connections visit declined by 42%. In 2024, 1,970 families
+13 received services, approximately 32% of those referred.
+14 (4) Following the establishment of the federal Maternal, Infant, and Early Childhood Home
+15 Visiting (MIECHV) program in 2010, Rhode Island expanded home-visiting services to fund
+16 implementation of nationally-recognized evidence-based program models that connect pregnant
+17 and parenting families with a designated support person who guides them through the early stages
+18 of raising a family. Home visiting is voluntary, free, and tailored to meet families where they are
+
+1 and help them achieve their goals to raise healthy, happy children. Each of these proven models is
+2 designed to provide multi-year, consistent, flexible, relationship-based services to a family starting
+3 in the third trimester of pregnancy or soon after the birth of a child.
+4 (5) In 2022, the federal MIECHV funding was reauthorized and now includes a twenty-
+5 five percent (25%) state match requirement to receive increased funds. Most states have been able
+6 to meet or exceed the state match and have received additional federal funds. In 2024 and 2025,
+7 the first two (2) years of the state match challenge, Rhode Island did not meet the full state match
+8 challenge and was unable to draw down the full federal MIECHV grant.
+9 (6) Starting in 2023, the department of health began requiring all evidence-based family
+10 home visiting providers and programs to implement Medicaid fee-for-service billing for each
+11 encounter for every mother or child who has Medicaid insurance. Medicaid billing and other
+12 funding challenges led to a 32% decline in the number of families in Rhode Island receiving
+13 evidence-based home visiting services and the closure of 7 home visiting programs since 2021.
+14 SECTION 2. Section 23-13.7-2 of the General Laws in Chapter 23-13.7 entitled "The
+15 Rhode Island Family Home-Visiting Act" is hereby amended to read as follows:
+16 23-13.7-2. Home-visiting system components.
+17 (a) The Rhode Island department of health shall coordinate the system of early childhood
+18 home-visiting services in Rhode Island and shall work with the department of human services and
+19 department of children, youth and families to identify effective, evidence-based, home-visiting
+20 models that meet the needs of vulnerable families with young children.
+21 (b) The Rhode Island department of health shall implement a statewide home-visiting
+22 system that uses evidence-based models proven to improve child and family outcomes. Evidence-
+23 based, home-visiting programs must follow with fidelity a program model with comprehensive
+24 standards that ensure high-quality service delivery, use research-based curricula, and have
+25 demonstrated significant positive outcomes in at least two (2) of the following areas:
+26 (1) Improved prenatal, maternal, infant, or child health outcomes;
+27 (2) Improved safety and reduced child maltreatment and injury;
+28 (3) Improved family economic security and self-sufficiency;
+29 (4) Enhanced early childhood development (social-emotional, language, cognitive,
+30 physical) to improve children’s readiness to succeed in school.
+31 (c) The Rhode Island department of health shall implement a system to identify and refer
+32 families prenatally, or as early after the birth of a child as possible, to voluntary, evidence-based,
+33 home-visiting programs. The referral system shall prioritize families for services based on risk
+34 factors known to impair child development, including:
+LC005034 - Page 2 of 5
+
+1 (1) Adolescent parent(s);
+2 (2) History of prenatal drug or alcohol abuse;
+3 (3) History of child maltreatment, domestic abuse, or other types of violence;
+4 (4) Incarcerated parent(s);
+5 (5) Reduced parental cognitive functioning or significant disability;
+6 (6) Insufficient financial resources to meet family needs;
+7 (7) History of homelessness; or
+8 (8) Other risk factors as determined by the department.
+9 (d) The Rhode Island department of health shall issue a state home-visiting report due
+10 annually by March 1 of each year that outlines the components of the state’s family home-visiting
+11 system that shall, including state and federal funding amounts and sources. This report shall be
+12 shared with the general assembly and be made publicly available on the department’s website. The
+13 report shall include:
+14 (1) The number of families served by First Connections, as defined by subsection (f) of
+15 this section, in each calendar year, and the number of families enrolled in each evidence-based
+16 family home-visiting model at a common point-in-time for each of the last five (5) years; and
+17 (2) Demographic data on families served; and
+18 (3) Duration of participation of families; and
+19 (4) Cross-departmental coordination; and
+20 (5) Outcomes related to prenatal, maternal, infant and child health, child maltreatment,
+21 family economic security, and child development and school readiness; and
+22 (6) An annual estimate of the number of children born to Rhode Island families who face
+23 significant risk factors known to impair child development, and a plan including the fiscal costs
+24 and benefits to gradually expand access to First Connections and the existing evidence-based,
+25 family home-visiting programs in Rhode Island to all vulnerable families. The annual plan shall
+26 include a projected three (3) year estimate of the available federal MIECHV grant funds, the state
+27 match required to access the full federal MIECHV grant available, the projected Medicaid fee-
+28 for-service billing and/or other funding strategies to sustain the programs and to meet expansion
+29 targets. The annual plan shall be designed to maximize use of the federal MIECHV grant and
+30 ensure providers have adequate funds to recruit and retain qualified staff;
+31 (7) The total annual federal MIECHV funding available, received, and spent by the state
+32 on direct home-visiting services by program model and the total spent on state administration for
+33 each of the last five (5) years;
+34 (8) The total annual funding for each program model by source of funding to include
+LC005034 - Page 3 of 5
+
+1 Medicaid fee-for-service state and federal funding, MIECHV federal funding, MIECHV state
+2 match funding, and any other funding by source for each of the last five (5) years for all models;
+3 and
+4 (9) Implementation successes and challenges, including those related to funding, provider
+5 contracts, provider staffing and turnover, and family enrollment and retention.
+6 (e) State appropriations for this purpose shall be combined with federal dollars to fund the
+7 expansion of evidence-based, home-visiting programs, with the goal of offering the program to all
+8 the state’s pregnant and parenting teens; families with a history of involvement with the child
+9 welfare system; and other vulnerable families.
+10 (f) First Connections, as used in this section, means the state-run home-visiting program
+11 administered by the department's office of family visiting and implemented by community
+12 nonprofit organizations providing rapid-response and short-term home visits for pregnant
+13 individuals and families with newborns and children up to age three (3). Families typically receive
+14 one to four (4) home visits delivered by registered nurses, community health workers and social
+15 workers. Home visiting staff assess medical, safety, and other family needs and connect families
+16 with services to meet their needs such as postpartum support, basic needs, and referrals to more
+17 comprehensive, multi-year, evidence-based home visiting and early intervention programs.
+18 (g) The executive office of health and human services shall pursue a Medicaid state plan
+19 amendment and allocate sufficient state general revenue, to increase Medicaid payment rates for
+20 family home visiting services by the amount recommended in the 2025 social and human service
+21 programs review report by the Rhode Island office of the health insurance commissioner. Rate
+22 increases shall be implemented on or before October 1, 2026.
+23 (h) Annually, the state shall allocate the minimum amount required to draw down
+24 maximum MIECHV federal dollars available for Rhode Island to the department, which shall be
+25 used for funding home-visiting services.
+26 SECTION 3. This act shall take effect upon passage.
+========
+LC005034
+========
+LC005034 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- THE RHODE ISLAND FAMILY HOME--
+VISITING ACT
+***
+1 This act would add the First Connections family home-visiting program as a provider under
+2 the statute and change the department of health’s annual reporting requirements regarding family
+3 home-visiting programs. This act would also direct the executive office of health and human
+4 services to increase Medicaid rates for early intervention service providers by the amount
+5 recommended in the 2025 rate review, appropriate the minimum amount of general revenue to
+6 access the maximum amount of federal MIECHV funds and direct the department to spend all
+7 available federal funds.
+8 This act would take effect upon passage.
+========
+LC005034
+========
+LC005034 - Page 5 of 5

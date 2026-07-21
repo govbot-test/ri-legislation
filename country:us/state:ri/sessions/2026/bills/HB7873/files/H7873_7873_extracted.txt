@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - 7873
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7873
+========
+LC005417
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- RHODE ISLAND COORDINATE SYSTEM
+Introduced By: Representative Arthur Handy
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+(Dept. of Business Regulation)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. The title of Chapter 34-8 of the General Laws entitled "Rhode Island
+2 Coordinate System" is hereby amended to read as follows:
+3 CHAPTER 34-8
+4 Rhode Island Coordinate System
+5 CHAPTER 34-8
+6 RHODE ISLAND STATE PLANE COORDINATE SYSTEM
+7 SECTION 2. Sections 34-8-1, 34-8-2, 34-8-3, 34-8-7, 34-8-9 and 34-8-10 of the General
+8 Laws in Chapter 34-8 entitled "Rhode Island Coordinate System" are hereby amended to read as
+9 follows:
+10 34-8-1. Adoption of ocean and geodetic survey systems. Adoption of the national
+11 geodetic survey’s state plane coordinate systems.
+12 The two (2) systems Rhode Island shall adopt the most recent system of plane coordinates
+13 which have, known as the State Plane Coordinate System, that has been established by the national
+14 ocean/national geodetic survey, or its successors, for defining and stating the geographic positions
+15 or locations of points on the surface of the earth within the state are hereafter to be known and
+16 designated State of Rhode Island as the “Rhode Island State Plane Coordinate System.”
+17 Previous versions of these systems include the “Rhode Island coordinate system of 1927”
+18 and the “Rhode Island coordinate system of 1983”.
+19 34-8-2. Use of term in documents. Definitions.
+
+1 As used in this chapter, the following terms shall have the following meanings:
+2 (1) “Board” means the board of registration for professional land surveyors as established
+3 by chapter 8.1 of title 5.
+4 (2) “National Geodetic Survey” or “NGS” means the subdivision of NOAA’s National
+5 Ocean Service, or its successors, which provides the framework for all positioning activities in the
+6 US.
+7 (3) “NOAA” means the National Oceanic Atmospheric Administration, of the US
+8 Department of Commerce.
+9 (4) “National Spatial Reference System” or “NSRS” means a consistent coordinate system
+10 maintained by the NGS to determine latitude, longitude, height, scale, gravity, and orientation
+11 through the U.S.
+12 (5) “Rhode Island state plane coordinate system” or “RISPCS” means the most recent
+13 system of plane coordinates known as the “State Plane Coordinate System” established by the
+14 National Geodetic Survey, based on the National Spatial Reference System, for defining and stating
+15 the geographic positions or locations of points within the State of Rhode Island. The terms “Rhode
+16 Island coordinate system” and “Rhode Island plane coordinate system” are synonymous with the
+17 term “Rhode Island state plane coordinate system.”
+18 (6) Prior versions of the “Rhode Island coordinate systems,” collectively referred to as
+19 “legacy systems” are defined as:
+20 (i) “The Rhode Island coordinate system of 1927” means a transverse Mercator projection
+21 of the Clarke spheroid of 1866, having a central meridian 71° 30′ west of Greenwich, on which
+22 meridian the scale is set at one part in one hundred sixty thousand (160,000) too small. The origin
+23 of coordinates is at the intersection of the meridian 71° 30′ west of Greenwich and the parallel 41°
+24 05′ north latitude. This origin is given the coordinates: x = 500,000 feet and y = 0 feet.
+25 (ii) “The Rhode Island coordinate system of 1983” means a transverse Mercator projection
+26 of the North American datum of 1983 having a central meridian 71° 30′ west of Greenwich, on
+27 which meridian the scale is set at one part in one hundred sixty thousand (160,000) too small. The
+28 origin of coordinates is at the intersection of the meridian 71° 30′ west of Greenwich and the parallel
+29 41° 05′ north latitude. This origin is given the coordinates: x = 100,000 meters, and y = 0 meters.
+30 (iii) The use of the term “Rhode Island coordinate system of 1927” or “Rhode Island
+31 coordinate system of 1983” on any map, report of survey, or other document, shall be limited to
+32 coordinates based on the Rhode Island coordinate system as defined in this chapter.
+33 (7) “State plane coordinate system” means the most recent system of plane coordinates
+34 established by the National Geodetic Survey, based on the National Spatial Reference System, for
+LC005417 - Page 2 of 6
+
+1 defining and stating the geographic positions or locations of points within the United States.
+2 34-8-3. Location of point by coordinates.
+3 (a) The plane coordinate values for coordinates of a point on the earth’s surface, to be used
+4 to express in expressing the geographic position or location of such the point on the Rhode Island
+5 state plane coordinate system, shall consist of two (2) distances, expressed in:
+6 (1) Meters and decimals of a meter, or international feet and decimals of an international
+7 foot when using the Rhode Island state plane coordinate system;
+8 (2) Meters and decimals of a meter when using the Rhode Island coordinate system of
+9 1983; or
+10 (3) U. S. survey feet and decimals of a survey foot when using the Rhode Island coordinate
+11 system of 1927, and expressed in meters and decimals of a meter when using the Rhode Island
+12 coordinate system of 1983.
+13 (b) One of these the distances described in subsection (a) of this section, to be known as
+14 the “east or x-coordinate”, shall give the position in an east and west direction distance east of the
+15 y-axis; the other distance, to be known as the “north or y-coordinate”, shall give the position in a
+16 north and south direction distance north of the x-axis. These coordinates shall be made to depend
+17 upon and conform to plane rectangular coordinate values for the monumented points of the North
+18 American horizontal geodetic control network tied to the NSRS as published by the national ocean
+19 survey/national geodetic survey or its successors, and whose plane coordinates have been computed
+20 on the systems defined in this chapter. Any such station may be used for establishing a survey
+21 connection to either Rhode Island coordinate system set forth in § 34-8-1 of this chapter.
+22 34-8-7. Reliance on system not required — Describing location of survey system or
+23 land boundary corner.
+24 (a) Nothing contained in this chapter shall require any purchaser or mortgagee of real
+25 property to rely wholly on a land description, any part of which depends exclusively upon either
+26 Rhode Island coordinate system.
+27 (b) For purposes of describing the location of any survey station or land boundary corner
+28 in the state it shall be considered a complete, legal, and satisfactory description of such location to
+29 give the position of the survey station or land boundary corner on the system of plane coordinates
+30 defined in this chapter. Coordinates based on any Rhode Island coordinate system defined in § 34-
+31 8-2, purporting to define the position of a point on a land boundary, presented to be recorded in any
+32 public land records or deed records shall conform with current standards and guidelines published
+33 by NGS and shall be accompanied by a specific statement as to their basis and a description of the
+34 survey method used to determine them on the record plat or description of the survey. Such
+LC005417 - Page 3 of 6
+
+1 coordinate values shall not supersede the board of registration for professional land surveyors’ rules
+2 for procedural and technical standards, as promulgated by the board through regulation, for the
+3 actual establishment and location of the purported boundary.
+4 34-8-9. Use of coordinate systems.
+5 (a) The Rhode Island coordinate system of 1927 may be was used up to and including
+6 December 31, 1989, but shall not be used thereafter.
+7 (b) The Rhode Island coordinate system of 1983 may be used up to and including
+8 December 31, 1989, and shall be the exclusive Rhode Island coordinate system thereafter. the
+9 official release of the State Plane Coordinate System 2022 by the National Geodetic Survey.
+10 (c) The Rhode Island state plane coordinate system shall be used for projects commenced
+11 after the official release of the State Plane Coordinate System 2022 by the National Geodetic
+12 Survey.
+13 34-8-10. Meter-to-foot conversion.
+14 (a) The international foot shall be used for all foot distances and coordinates unless the
+15 distances or coordinates are tied to one of the legacy systems defined in § 34-8-2.
+16 (1) One international foot equals .3048 meter exactly.
+17 (b) For purposes of this chapter, and for purposes of conversion between the two (2)
+18 systems set forth in § 34-8-1 of this chapter legacy systems defined in § 34-8-2, one meter equals
+19 3.2808-⅓ survey feet.
+20 SECTION 3. Sections 34-8-4 and 34-8-6 of the General Laws in Chapter 34-8 entitled
+21 "Rhode Island Coordinate System" are hereby repealed.
+22 34-8-4. Technical definition of systems — Origin of coordinates.
+23 (a) For purposes of more precisely defining the Rhode Island coordinate system of 1927,
+24 the following definition by the national ocean survey/national geodetic survey is adopted:
+25 The Rhode Island coordinate system of 1927 is a transverse Mercator projection of the
+26 Clarke spheroid of 1866, having a central meridian 71° 30′ west of Greenwich, on which meridian
+27 the scale is set at one part in one hundred sixty thousand (160,000) too small. The origin of
+28 coordinates is at the intersection of the meridian 71° 30′ west of Greenwich and the parallel 41° 05′
+29 north latitude. This origin is given the coordinates: x = 500,000 feet and y = 0 feet.
+30 (b) For the purposes of more precisely defining the Rhode Island coordinate system of
+31 1983, the following definition by the national ocean survey/national geodetic survey is adopted:
+32 The Rhode Island coordinate system of 1983 is a transverse Mercator projection of the
+33 North American datum of 1983 having a central meridian 71° 30′ west of Greenwich, on which
+34 meridian the scale is set at one part in one hundred sixty thousand (160,000) too small. The origin
+LC005417 - Page 4 of 6
+
+1 of coordinates is at the intersection of the meridian 71° 30′ west of Greenwich and the parallel 41°
+2 05′ north latitude. This origin is given the coordinates: x = 100,000 meters, and y = 100,000 meters,
+3 and y = 0 meters.
+4 34-8-6. Proximity to established station required for use of coordinates in public
+5 records.
+6 No coordinates based on either Rhode Island coordinate system, purporting to define the
+7 position of a point on land boundary, shall be presented to be recorded in any public land records
+8 or deed records unless such point is within one kilometer of a monumented horizontal control
+9 station and unless minimum THIRD ORDER — class II procedures are used in conformity with
+10 the standards of accuracy and specifications prepared and published by the federal geodetic control
+11 committee established in conformity with the standards of accuracy and specifications for first —
+12 or second-order geodetic surveying as prepared and published by the federal geodetic control
+13 committee (FGCC) of the United States department of commerce. Standards and specifications of
+14 the FGCC or its successor in force on date of the survey shall apply. The publishing of the existing
+15 control stations, or the acceptance with intent to publish the newly established control stations, by
+16 the national ocean survey/national geodetic survey will constitute evidence of adherence to the
+17 FGCC specifications. Above limitations may be modified by the Rhode Island department of
+18 transportation land surveying section to meet local conditions.
+19 SECTION 4. This act shall take effect upon passage.
+========
+LC005417
+========
+LC005417 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- RHODE ISLAND COORDINATE SYSTEM
+***
+1 This act would update the Rhode Island coordinate system to adopt the most recent system
+2 of plane coordinates established by the National Geodetic Survey, a federal agency which is part
+3 of NOAA and the US Department of Commerce, and would modify the meter to foot conversion
+4 to adopt the international foot to provide national uniformity.
+5 This act would take effect upon passage.
+========
+LC005417
+========
+LC005417 - Page 6 of 6

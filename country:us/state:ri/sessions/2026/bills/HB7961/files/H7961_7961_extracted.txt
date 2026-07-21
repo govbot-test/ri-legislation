@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - 7961
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7961
+========
+LC005734
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- PAYMENT OF WAGES
+Introduced By: Representatives Bennett, Corvese, McEntee, Morales, Speakman,
+McNamara, Handy, Hull, Carson, and Shanley
+Date Introduced: February 27, 2026
+Referred To: House Labor
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 28-14 of the General Laws entitled "Payment of Wages" is hereby
+2 amended by adding thereto the following section:
+3 28-14-32. Construction industry paycheck recovery.
+4 (a) Definitions
+5 As used in this section:
+6 (1) "Benefits" means any and all benefits, including paid vacations, holidays, sick leave,
+7 employer contributions and reimbursements to health insurance and/or any other retirement
+8 benefits, and any other similar benefits that are incidents of employment.
+9 (2) "Construction" means the alteration, building, maintenance, reconstruction, moving or
+10 demolition of any building or structure, not including design services, or any appurtenances
+11 connected or attached to such buildings or structures.
+12 (3) "Construction contract" means a written or oral agreement for construction.
+13 (4) "Contractor" means any person, firm, partnership, corporation, association, company,
+14 organization or other entity, including a construction manager, general or prime contractor, joint
+15 venture, or any combination thereof, which enters into a construction contract for construction
+16 services with an owner.
+17 (5) "Notice" means a written communication mailed, postage prepaid, or hand delivered to
+18 the contractor’s place of business, registered agent, officer, director, worksite manager or a
+19 supervisor, or any other individual identified by the contractor as its representative. Notice shall
+
+1 include, if known and available, the name of the employer, the amount of the claim or an
+2 explanation of any data needed to calculate the amount of the claim and the dates that the claimant
+3 worked.
+4 (6) "Owner" means any person, firm, partnership, corporation, company, association or
+5 other organization or other entity, or a combination of any thereof, (with an ownership interest,
+6 whether the interest or estate is in fee, as vendee under a contract to purchase, as lessee or another
+7 interest or estate less than fee) that causes a building, structure or improvement, new or existing, to
+8 be constructed, altered, repaired, maintained, moved or demolished or that causes land to be
+9 excavated or otherwise developed or improved. "Owner" includes successors interest of the owner
+10 and agents of the owner acting within their authority or on the owner’s behalf. An owner shall not
+11 be subject to liability under subsection (b) of this section unless the owner is a contractor or
+12 subcontractor.
+13 (7) "Person" means, and shall include, any natural person, corporation, municipality,
+14 partnership, unincorporated association, or other legal entity.
+15 (8) "Subcontractor" means any person, firm, partnership, corporation, company,
+16 association, organization or other entity, or any combination thereof, which is a party to a contract
+17 with a contractor, and/or the contractor's subcontractors to perform any portion of work within the
+18 scope of the contractor's construction contract with the owner, including where the subcontractor
+19 has no direct privity of contract with the contractor.
+20 (b) A contractor making or taking a construction contract for construction work to be
+21 performed under the International Building Code (IBC), as modified and adopted as the Rhode
+22 Island building code RISBC-1 (510-RICR-00-00-1), shall assume liability for any debt resulting
+23 from an action brought under §§ 28-14-19, 28-14-19.1, 28-14-19.2, 37-13-14.1, or 37-13-17 owed
+24 to a wage claimant or third party on the wage claimant's behalf, incurred by a subcontractor within
+25 a chain of construction contracts at any tier acting under, by, or for the construction contractor or
+26 its subcontractors for the wage claimant's performance of labor; provided that, written notice of the
+27 alleged violation to be raised in that action is provided to the contractor not more than forty-five
+28 (45) days from the last occurrence of the alleged wage theft. A written offer and payment in full of
+29 all such wages allegedly owed during the forty-five (45) day period after a receipt of the notice by
+30 a contractor, shall extinguish a contractor’s liability for damages under this section.
+31 (c) The construction contractor’s joint and several liability shall be limited to one hundred
+32 twenty (120) consecutive days of any alleged wage theft, counting back the one hundred twenty
+33 (120) days from the day of the last violation prior to the notice. This one hundred twenty (120) day
+34 damages limitation period shall not impact other wage violation remedies available to a claimant.
+LC005734 - Page 2 of 5
+
+1 (d) No agreement or release by an employee or subcontractor to waive liability assigned to
+2 a construction contractor under this section shall be valid. The provisions of this section shall not
+3 be deemed to impair the rights of a contractor to maintain an action against a subcontractor for
+4 owed wages that are paid by a contractor pursuant to this section.
+5 (e) Notwithstanding any other provision of law, the remedies available for a claim pursuant
+6 to subsection (b) of this section, shall only be civil and administrative actions.
+7 (f) In the case of a private civil action brought by an employee under §§ 28-14-19.2 and
+8 37-13-17, such employee may authorize and designate any person, organization or collective
+9 bargaining agent to file a complaint with the director, to make a wage claim on their behalf.
+10 (g) In the case of an action against a subcontractor, the construction contractor shall be
+11 considered jointly and severally liable for any unpaid wages, benefits, wage supplements, attorneys'
+12 fees and any other costs resulting from such action in addition to any other damages and penalties
+13 specified in §§ 28-14-17, 28-14-19, 28-14-19.1, 37-13-16, and 37-13-12.4 that are applicable.
+14 (h) Nothing in this section shall preclude the attorney general from bringing a civil action
+15 to collect unpaid wages and penalties on behalf of employees pursuant to this section.
+16 (i) A contractor or any other person shall not evade, or commit any act that negates, the
+17 requirements of this section; provided, however, that this section shall not be deemed to prohibit a
+18 contractor or subcontractor from establishing by contract or enforcing any other lawful remedies
+19 against a subcontractor it hires for liability created by violation of this section; provided, further,
+20 that such contract or arrangement does not diminish the right of employees to bring an action under
+21 the provisions of this section.
+22 (j) Except as herein provided, nothing in this section shall be deemed to diminish the rights,
+23 privileges, or remedies of any employee under any collective bargaining agreement. The provisions
+24 of this section may be waived in a collective bargaining agreement between a contractor or
+25 subcontractor and a bona fide building and construction trade labor organization, which has
+26 established itself, and/or its affiliates, as the collective bargaining representative for persons
+27 performing work on a project; provided that, for such waiver to be valid, it shall explicitly reference
+28 this section; and provided further, however, that such waiver shall not diminish or impair the rights
+29 of an employee provided under any other section of this chapter.
+30 (k) The provisions of this section shall apply to construction contracts entered into,
+31 renewed, modified or amended on or after January 1, 2027.
+32 (l) Severability. If any provision of this section, or any application of any provision of this
+33 section, is held to be invalid, that shall not affect the validity or effectiveness of any other provision
+34 of this section, or of any other application of any provision of this section, which can be given
+LC005734 - Page 3 of 5
+
+1 effect without that provision or application; and to that end, the provisions and applications of this
+2 section are severable.
+3 SECTION 2. This act shall take effect on January 1, 2027.
+========
+LC005734
+========
+LC005734 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO LABOR AND LABOR RELATIONS -- PAYMENT OF WAGES
+***
+1 This act would make contractors civilly liable and/or jointly civilly liable for any claims
+2 of wage theft or nonpayment from an employee against the contractor, its subcontractors and any
+3 subcontractor, involved in the performance of a contract solely for construction services performed
+4 under the International Building Code, as locally amended and adopted as the RISBC-1; provided
+5 that, written notice of the alleged violation be given to the contractor not more than forty-five (45)
+6 days from the last occurrence of the alleged wage theft. This act would also authorize only
+7 administrative and/or civil actions to recover the claimed wages. This act would further provide
+8 that these provisions could be waived by a collective bargaining agreement with a bona fide
+9 building and construction trade labor organization which has established itself as the collective
+10 bargaining representative for persons performing work on a project. This act would apply to
+11 construction contracts entered into, renewed, modified or amended on or after the effective date of
+12 this act.
+13 This act would take effect on January 1, 2027.
+========
+LC005734
+========
+LC005734 - Page 5 of 5

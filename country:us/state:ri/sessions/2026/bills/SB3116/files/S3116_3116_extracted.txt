@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - 3116
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3116
+========
+LC006097
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RESTRICTIONS ON STATE
+AND MUNICIPAL COOPERATION WITH CIVIL IMMIGRATION ENFORCEMENT
+Introduced By: Senators Ciccone, Quezada, Acosta, Bissaillon, Murray, Kallman, Mack,
+and Bell
+Date Introduced: March 13, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative intent.
+2 (1) The general assembly finds that enforcement of federal civil immigration law is a
+3 federal function.
+4 (2) This act is intended to decline voluntary participation in federal civil immigration
+5 enforcement, pursuant to the Tenth Amendment of the United States Constitution, and consistent
+6 with the anti-commandeering doctrine.
+7 (3) Nothing in this act shall be construed to:
+8 (i) Prohibit compliance with a judicial warrant or court order issued by a court of competent
+9 jurisdiction;
+10 (ii) Prohibit communication of information regarding citizenship or immigration status as
+11 otherwise required by law;
+12 (iii) Interfere with the execution of federal law by federal officers acting within the scope
+13 of their lawful authority; or
+14 (iv) Prevent state or local cooperation in the investigation or prosecution of criminal
+15 offenses. For the avoidance of doubt, immigration status alone, including status as an
+16 undocumented individual resulting from unlawful entry, unlawful reentry, or failure to depart, or
+17 lawful presence in the United States as a nonimmigrant visa holder, refugee, asylee, or lawful
+18 permanent resident, shall not be considered a "criminal offense" or "violation of criminal law," as
+
+1 used in this act.
+2 SECTION 2. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+3 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+4 CHAPTER 161.1
+5 RESTRICTIONS ON STATE AND MUNICIPAL COOPERATION WITH CIVIL
+6 IMMIGRATION ENFORCEMENT
+7 42-161.1-1. Definitions.
+8 As used in this chapter:
+9 (1) "Administrative warrant" means a warrant of removal/deportation or a warrant for arrest
+10 signed by an immigration agent, which is not a judicial warrant.
+11 (2) "Assist" or "cooperate" means to expend state or local resources for the primary purpose
+12 of facilitating civil immigration enforcement.
+13 (3) "Civil immigration detainer" means a detainer issued by U.S. Immigration and Customs
+14 Enforcement, a component of the Department of Homeland Security, pursuant to 8 CFR 287.7.
+15 (4) "Civil immigration enforcement" means the investigation, detention, transfer, or
+16 removal of noncitizens under federal immigration law.
+17 (5) "Immigration agent" means any officer, employee, or authorized representative of a
+18 federal agency charged with enforcement of federal civil immigration laws.
+19 (6) "In custody" means detained, arrested, incarcerated, or otherwise deprived of liberty by
+20 a law enforcement agency.
+21 (7) "Judicial warrant" or "court order" means a lawful judicial warrant or court order signed
+22 by a judge appointed pursuant to Article III of the United States Constitution, or a United States
+23 district court magistrate, that authorizes the specific action requested.
+24 (8) "Law enforcement agency" means an agency of the state or of a unit of local
+25 government charged with enforcement of state, or municipal laws, or with managing custody of
+26 detained persons in the state; or with probation and parole; and includes state and municipal
+27 prosecutors, their employees and agents.
+28 (9) "Law enforcement official" means any individual with the power to arrest or detain
+29 individuals, including law enforcement officers, correctional officers, division of sheriffs,
+30 probation officers, and others employed or designated by a law enforcement agency.
+31 (10) "Non-public information" means information not otherwise available to the general
+32 public through official public records or routine public access.
+33 42-161.1-2. Limitations on use of state resources.
+34 (a) No state agency, office, department, or other unit of state government, and no unit of
+LC006097 - Page 2 of 5
+
+1 local government, or their subdivisions, may enter into or renew any agreement under 8 U.S.C. §
+2 1357(g) or any similar intergovernmental service agreement, contract, or policy, formal or
+3 informal, for the purpose of civil immigration enforcement, processing, detention, housing, or
+4 removal.
+5 (b) Except as required by federal or state law, or upon presentation of a valid judicial
+6 warrant or court order, no law enforcement agency, or law enforcement official acting in an official
+7 capacity, shall:
+8 (1) Participate in, assist, or cooperate with an immigration agent in the enforcement of civil
+9 immigration laws;
+10 (2) Provide an immigration agent nonconsensual access, whether in person, by telephone,
+11 electronically, or otherwise, to any individual in the custody of the agency for purposes of civil
+12 immigration enforcement interviews;
+13 (3) Transfer or otherwise facilitate the transfer of any individual into the custody of an
+14 immigration agent;
+15 (4) Permit the use of personnel facilities, equipment, property, non-public information, or
+16 other resources by an immigration agent for purposes of civil immigration enforcement;
+17 (5) Allow immigration agents use of secure facilities, non-public office space, or non-
+18 public law enforcement databases for civil immigration enforcement purposes;
+19 (6) Disclose non-public information in response to a request from a federal immigration
+20 agent regarding an individual in the custody of the agency for purposes of civil immigration
+21 enforcement; or
+22 (7) Provide advance notification of release dates, transfer dates, or custodial status changes
+23 where such information is non-public and requested for purposes of civil immigration enforcement.
+24 (c) A law enforcement agency, or law enforcement official acting in an official capacity,
+25 may provide advance notice of a release date to a civil immigration officer only if the detainee is
+26 charged with a capital offense.
+27 (d) Nothing in this section shall preclude a law enforcement official from otherwise
+28 executing that official's duties in investigating violations of criminal law and cooperating in such
+29 investigations with federal and other law enforcement agencies.
+30 42-161.1-3. No extension of custody.
+31 (a) A law enforcement agency shall not detain an individual or extend an individual's
+32 detention beyond the time the individual would otherwise be released solely for purposes of civil
+33 immigration enforcement, absent a judicial warrant or court order.
+34 (b) A civil immigration detainer, administrative warrant, or request for notification shall
+LC006097 - Page 3 of 5
+
+1 not constitute probable cause for continued detention under Rhode Island law.
+2 42-161.1-4. Remedies.
+3 (a) Any person aggrieved by a violation of this chapter may bring a civil action for
+4 declaratory and equitable relief.
+5 (b) A prevailing plaintiff shall be entitled to reasonable attorneys' fees and costs.
+6 42-161.1-5. Severability.
+7 If any provision of this chapter, or the application thereof, is held invalid, such
+8 determination shall not affect the provisions or applications of this chapter which can be given
+9 effect without the invalid provision or application, and to that end the provisions of this chapter are
+10 severable.
+11 SECTION 3. This act shall take effect upon passage.
+========
+LC006097
+========
+LC006097 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- RESTRICTIONS ON STATE
+AND MUNICIPAL COOPERATION WITH CIVIL IMMIGRATION ENFORCEMENT
+***
+1 This act would prohibit state or local authorities from voluntary participation in federal
+2 civil immigration enforcement. It would not prohibit compliance with a judicial warrant or court
+3 order issued by a court of competent jurisdiction.
+4 This act would take effect upon passage.
+========
+LC006097
+========
+LC006097 - Page 5 of 5

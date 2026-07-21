@@ -1,0 +1,215 @@
+Title: 
+Official Title: 
+Source: versions - 7563
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7563
+========
+LC003617
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO TOWNS AND CITIES -- THE DEVELOPMENT REVIEW EFFICIENCY
+ACT
+Introduced By: Representatives Quattrocchi, Fascia, Nardone, Santucci, Perez, Place,
+Chippendale, Cotter, and Hopkins
+Date Introduced: February 06, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 45 of the General Laws entitled "TOWNS AND CITIES" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 22.5
+4 THE DEVELOPMENT REVIEW EFFICIENCY ACT
+5 45-22.5-1. Short title.
+6 This act shall be known and may be cited as “The Development Review Efficiency Act.”
+7 45-22.5-2. Purpose.
+8 The purpose of this chapter is to facilitate speedier and more efficient development while
+9 ensuring public safety, by authorizing licensed or certified third parties to certify documents and
+10 inspect buildings in compliance with applicable building and other codes.
+11 45-22.5-3. Definitions.
+12 For the purposes of this section:
+13 (1) “Development document” means a document, to include a building plan, site plan, or
+14 an application for a building permit, relating to improvements to land required by state or local law
+15 or regulation or by a regulatory authority to initiate, engage in, or complete an improvement, but
+16 does not include applications or documents for zoning or planning approvals.
+17 (2) “Building inspection” means the inspection of an improvement to land required by a
+18 regulatory authority as part of a project to develop or improve real estate pursuant to the provisions
+
+1 of § 23-27.3-111.2.
+2 (3) “Building permit” means a permit required by a regulatory authority to construct or
+3 improve or complete an improvement to real estate as required pursuant to § 23-27.3-113.1.
+4 (4) “Independent provider” means a person licensed or certified as a building code
+5 administrator, engineer, or architect.
+6 (5) “Regulatory authority” means a department, board, commission, or other entity of the
+7 State of Rhode Island or of the political subdivision responsible for processing or approving
+8 development documents and building permits or conducting building inspections.
+9 45-22.5-4. Allowance for use of independent providers.
+10 (a) Notwithstanding any law, rule, or regulation, the fee owner of land or a building or
+11 structure, or the fee owner’s contractor upon written authorization from the fee owner, may contract
+12 with an independent provider to review development documents or provide building inspections
+13 with regard to the land, building, or structure, and may make payment directly to the independent
+14 provider for the provision of the services.
+15 (b) The fee owner or fee owner’s contractor shall not have an ownership stake in the
+16 independent provider, and the independent provider shall not provide legal counsel to the fee owner
+17 or fee owner’s contractor.
+18 (c) If a fee owner or contractor retains an independent provider for the purposes of
+19 reviewing development documents or providing building inspections, the regulatory authority shall
+20 reduce the fee charged for the services by the amount of cost savings realized by the regulatory
+21 authority.
+22 (d)(1) An independent provider shall only review development documents or provide
+23 building inspections if the independent provider maintains insurance for professional liability
+24 covering all services performed as an independent provider, unless the regulatory authority waives
+25 or modifies the insurance requirement of subsection (d)(2) of this section.
+26 (2) Unless waived or modified by the regulatory authority, the independent provider shall
+27 maintain minimum policy limits of one million dollars ($1,000,000) per occurrence and two million
+28 dollars ($2,000,000) in the aggregate for any project with a construction cost of five million dollars
+29 ($5,000,000) or less and two million dollars ($2,000,000) per occurrence and four million dollars
+30 ($4,000,000) in the aggregate for any project with a construction cost of over five million dollars
+31 ($5,000,000).
+32 (e) Before any development document reviews or building inspections are performed, the
+33 fee owner or the fee owner’s contractor shall provide to the regulatory authority:
+34 (1) The name, firm, address, telephone number, and e-mail address of each independent
+LC003617 - Page 2 of 7
+
+1 provider who is performing, or will perform, such services, his or her professional license or
+2 certification number, qualification statements or résumés, and, unless the regulatory authority
+3 waives insurance coverage, a certificate of insurance demonstrating that professional liability-
+4 insurance coverage is in place for the independent provider’s firm in the amounts required by
+5 subsection (b)(2) of this section and the list of any lots or structures that the independent provider
+6 assist on, along with the scheduled dates.
+7 (2) The following acknowledgment:
+8 "By executing this form, I acknowledge that I have made inquiry regarding the competence
+9 of the licensed or certified independent provider and the level of his/her insurance and am satisfied
+10 that my interests are adequately protected. I agree to indemnify, defend, and hold harmless any
+11 regulatory authority from any and all claims arising from my use of these licensed or certified
+12 personnel to provide development documents reviews and building inspections with respect to the
+13 building or structure that is the subject of the enclosed application."
+14 (f) If an owner or an owner’s contractor contracts with an independent provider to review
+15 development documents or provide building inspections, the regulatory authority shall provide
+16 equal access to all permitting and inspection documents and reports to the independent provider,
+17 owner, or contractor that would be provided to regulatory authority personnel in completing
+18 development documents or building inspections.
+19 (g) If such access is normally provided by software that protects exempt records from
+20 disclosure, the regulatory authority shall provide requested permitting or inspection documents and
+21 reports to the independent provider, owner, or contractor within two (2) business days of a request
+22 in electronic format.
+23 45-22.5-5. Qualifications and requirements for independent providers for building
+24 inspections.
+25 (a) An independent provider may only provide building inspections that are within the
+26 disciplines covered by that person’s licensure or;
+27 (b) Each regulatory authority may audit the performance of independent providers
+28 operating within their jurisdiction and demand the owner or owner’s contractor to be present during
+29 the times of requested building inspections by the independent provider, although the fact or
+30 findings of the audit shall not be given to the independent provider.
+31 (1) Audits may be conducted only after the regulatory authority has created a formal audit
+32 evaluation. The regulatory authority may, upon clear and convincing evidence, decide that an
+33 independent provider has been negligent in providing building inspections and suspend the
+34 independent provider for not more than one year.
+LC003617 - Page 3 of 7
+
+1 (2) An independent provider may be audited no more than four (4) times in a month, unless
+2 the regulatory authority determines that the condition of a building constitutes an immediate threat
+3 to public safety and welfare.
+4 (3) Work may not be delayed for the completion of an audit by the regulatory authority.
+5 (c) If an independent provider is providing building inspections, upon completion of all
+6 required inspections, the independent provider shall submit to the regulatory authority a certificate
+7 of compliance summarizing the inspections performed in accordance with the approved plans and
+8 applicable codes.
+9 (d) No more than seven (7) business days, or, if the independent provider is inspecting
+10 single-family or two (2) family dwellings, no more than three (3) business days, after the receipt of
+11 the certificate of compliance with all necessary inspections, and after the payment of all outstanding
+12 required fees, a certificate of occupancy or completion shall be issued by the regulatory authority,
+13 or the regulatory authority shall provide a notice to the independent provider of any specific
+14 deficiencies in the certificate of compliance, with reference to specific code chapters and if the
+15 regulatory authority does not issue the certificate of occupancy or completion or provide notice
+16 within the required number of days, the certificate of occupancy or completion is considered
+17 granted as a matter of law and shall be issued the next business day.
+18 (e) Notwithstanding any provision of this section, any decisions regarding a building
+19 inspection, certificate of occupancy, completion, or the suspension of an independent provider by
+20 a regulatory authority after an audit, may be appealed to the Rhode Island building code standards
+21 commission, which shall adjudicate the dispute.
+22 45-22.5-6. Requirements for reviews of development documents and permits.
+23 (a) An independent provider performing reviews of development documents under this
+24 chapter shall review them to determine compliance with the provisions of this chapter. Upon
+25 determining compliance, the independent provider shall prepare an affidavit or affidavits certifying
+26 that the documents were reviewed pursuant to this chapter, that the documents meet all applicable
+27 codes, and that he or she holds the appropriate license or certificate. The affidavit should be
+28 submitted to the regulatory authority.
+29 (b) No more than ten (10) business days after receipt of a development document or
+30 application for a building permit, the regulatory authority shall approve such document or provide
+31 a written notice to the applicant identifying the specific features that do not comply with the
+32 applicable codes, as well as the specific code chapters. If no written notice of the document or
+33 permit deficiencies is provided within the ten (10) business days, the document or permit shall be
+34 deemed approved as a matter of law, and any necessary permit or permits shall be issued by the
+LC003617 - Page 4 of 7
+
+1 regulatory authority on the next business day.
+2 (c) If the applicant submits revisions, the regulatory authority has the remainder of the
+3 tolled ten (10) business days plus one business day from the date of resubmittal to approve the
+4 development documents, issue the requested building permit, or provide a second written notice to
+5 the permit applicant stating which of the previously identified documents or permit features remain
+6 in noncompliance with the applicable codes, with specific reference to the relevant code chapters
+7 and sections. If the regulatory authority does not provide the second written notice within the tolling
+8 ten (10) business days, plus one additional business day, the development document or building
+9 permit shall be deemed approved as a matter of law, and any necessary permits shall be issued by
+10 the regulatory authority on the next business day.
+11 (d) Notwithstanding any provision of this chapter, any decisions regarding the issuance of
+12 a development document or building permit by a regulatory authority may be appealed to the Rhode
+13 Island building code standards commission, which shall adjudicate the dispute.
+14 45-22.5-7. Limits on regulatory authorities.
+15 (a) A regulatory authority may not adopt or enforce any laws, rules, procedures, policies,
+16 qualifications, or standards regarding independent providers more restrictive than those prescribed
+17 by this chapter.
+18 (b) This section shall not be construed to limit or deny the authority of the regulatory
+19 authority to issue a stop-work order for a building project or any portion of the project, as provided
+20 by law, if the regulatory authority determines that a condition on the building site constitutes an
+21 immediate threat to public safety and welfare.
+22 (c) If an applicant believes that the regulatory authority or the Rhode Island building code
+23 standards commission has interpreted existing ordinances, codes, and laws in error, or any of the
+24 following:
+25 (1) Rejected a certificate of compliance;
+26 (2) Rejected a development document in error;
+27 (3) Has not provided a sufficient reduction in fees due to cost-savings resulting from the
+28 use of an independent provider;
+29 (4) Refused to issue any valid building permit; or
+30 (5) Suspended an independent provider from performing building inspections in their
+31 jurisdiction in error, an independent provider, owner, or owner’s contractor may file an action in a
+32 court of competent jurisdiction seeking a determination that the inspection or document or permit
+33 complies with all relevant requirements, and may petition the court for an order requiring the
+34 regulatory authority to accept the document or inspection and issue any necessary building permits
+LC003617 - Page 5 of 7
+
+1 or certificate of occupancy or completion.
+2 45-22.5-8. Severability.
+3 The provisions of this chapter are severable. If any provision of this chapter or the
+4 application of such provision to any person or circumstance is declared or held to be invalid for any
+5 reason, such declaration or holding shall not affect the validity of the remaining portions of this
+6 chapter and the application of its provisions to any other persons or circumstances.
+7 SECTION 2. This act shall take effect sixty (60) days after passage.
+========
+LC003617
+========
+LC003617 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO TOWNS AND CITIES -- THE DEVELOPMENT REVIEW EFFICIENCY
+ACT
+***
+1 This act would allow property owners or their contractors to hire licensed third-party
+2 professionals to review development documents and perform building inspections. It would
+3 establish standards, timelines, fee reductions, and appeal rights to streamline permitting and
+4 inspections and improve efficiency in the development review process.
+5 This act would take effect sixty (60) days after passage.
+========
+LC003617
+========
+LC003617 - Page 7 of 7

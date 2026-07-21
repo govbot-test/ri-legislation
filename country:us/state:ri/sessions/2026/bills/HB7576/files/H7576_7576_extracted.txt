@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - 7576
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7576
+========
+LC004897
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC RECORDS -- ACCESS TO PUBLIC RECORDS
+Introduced By: Representatives Kislak, Potter, Serpa, Cortvriend, McGaw, Boylan,
+Caldwell, Cotter, Spears, and Carson
+Date Introduced: February 06, 2026
+Referred To: House State Government & Elections
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 38-2 of the General Laws entitled "Access to Public Records" is
+2 hereby amended by adding thereto the following section:
+3 38-2-17. Traffic accidents and improvement data.
+4 Notwithstanding any other provisions of this chapter or state law, any records that, under
+5 23 U.S.C. § 407, are not discoverable or admissible in court proceedings or allowed to be
+6 considered for other purposes in damage actions shall nonetheless be deemed public records;
+7 provided, however, the records may not be used for purposes prohibited by that federal statute.
+8 When making the record public, whether in response to a request pursuant to this chapter, or
+9 otherwise, a public body may provide written notice of the aforementioned restrictions on their use.
+10 SECTION 2. This act shall take effect upon passage.
+========
+LC004897
+========
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC RECORDS -- ACCESS TO PUBLIC RECORDS
+***
+1 This act would make traffic accident data a public record, subject to federal law.
+2 This act would take effect upon passage.
+========
+LC004897
+========
+LC004897 - Page 2 of 2

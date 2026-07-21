@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - 7620
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7620
+========
+LC004875
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PLASTIC WASTE CONVERSION FACILITY
+ACT
+Introduced By: Representatives McGaw, Boylan, Speakman, Donovan, Caldwell,
+Carson, Potter, Dawson, Batista, and McEntee
+Date Introduced: February 11, 2026
+Referred To: House Environment and Natural Resources
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Findings.
+2 (1) As stated in §§ 23-19-3(14) and (16), solid waste incineration releases more than four
+3 hundred (400) toxic pollutants including lead, mercury, dioxins, and acid gasses; poses
+4 unacceptable threats to the health and safety of Rhode Islanders and the environment; and is the
+5 most costly method of waste disposal;
+6 (2) Facilities that use regulated technologies as defined by this chapter 19.20 of title 23,
+7 including thermochemical, chemical, electrical, or catalytic processes including, but not limited to,
+8 incineration, gasification, pyrolysis, hydropyrolysis, solvolysis, and depolymerization, release
+9 toxic air pollutants, generate hazardous solid and liquid waste, contaminated wastewater, and
+10 chemical byproducts containing carcinogens, endocrine disruptors, and persistent organic
+11 pollutants, and often function in practice as forms of waste disposal rather than material recovery;
+12 (3) Energy derived from the combustion of solid waste, or from fuels, feedstocks, oils,
+13 gases, or chemicals derived from solid waste through regulated technologies, is not renewable
+14 energy and does not displace fossil fuel production or use;
+15 (4) Plastic waste conversion facilities marketed as “chemical,” “advanced,” or “molecular”
+16 recycling have a documented record of commercial failure, prolonged pilot-scale operation,
+17 shutdowns, fires, mechanical failures, and defaults, and have not demonstrated the ability to operate
+18 at scale without ongoing public subsidy;
+
+1 (5) Such facilities do not generally produce meaningful quantities of new plastic suitable
+2 for use in a circular materials economy, and instead primarily generate fuels, chemical
+3 intermediates, or waste streams;
+4 (6) Public subsidies, tax credits, financing assistance, and regulatory reclassification of
+5 plastic waste conversion facilities shift financial risk from private developers to taxpayers while
+6 primarily benefiting petrochemical, plastics, and fossil-fuel corporations;
+7 (7) Plastic waste conversion facilities are disproportionately sited in low-income
+8 communities and communities of color, exacerbating existing pollution burdens and posing
+9 environmental justice concerns due to increased exposure to toxic emissions, hazardous waste, and
+10 industrial accidents;
+11 (8) The lack of transparency, weakened oversight, and reliance on unverifiable accounting
+12 and tracking systems, including mass-balance crediting schemes, in the plastic waste conversion
+13 sector increase the risk of fraud, abuse, environmental harm, and threats to public safety; and
+14 (9) It is therefore in the best interests of the health, safety, environment, climate, and
+15 welfare of residents and visitors of Rhode Island to protect communities and natural resources by
+16 prohibiting the construction and operation of new plastic waste conversion facilities.
+17 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+18 amended by adding thereto the following chapter:
+19 CHAPTER 19.20
+20 PLASTIC WASTE CONVERSION FACILITY ACT
+21 23-19.20-1. Definitions.
+22 As used in this chapter, the following words and phrases have the following meanings,
+23 unless the context clearly indicates otherwise:
+24 (1) "Construction and demolition (C&D) debris" has the same meaning as set forth in § 23-
+25 18.9-7.
+26 (2) "Depolymerization" means a process through which heat, pressure, and/or solvents are
+27 used to break plastic polymers into oligomers and/or monomers.
+28 (3) "Hazardous waste" has the same meaning as set forth in § 23-19.1-4.
+29 (4) “Plastic” means a synthetic or semi-synthetic material made from linking monomers
+30 derived from fossil fuel or biological sources through a chemical reaction to create a polymer chain
+31 that can be molded, extruded, or otherwise shaped into pellets, objects, films, or filaments, whether
+32 alone or in combination with chemical additives including, but not limited to, plasticizers,
+33 stabilizers, colorants, or flame retardants.
+34 (5) "Plastic waste conversion facility" means a facility which:
+LC004875 - Page 2 of 5
+
+1 (i) Uses any disposal, treatment, recycling, or manufacturing process using regulated
+2 technologies as defined by this chapter, that subjects solid waste, segregated solid waste, recyclable
+3 materials, construction and demolition (C&D) debris, post-use polymers, or recovered feedstock to
+4 conditions sufficient to cause thermal cracking, depolymerization, chemical conversion, molecular
+5 rearrangement, or structural transformation of polymers, regardless of operating temperature; or
+6 (ii) Combusts chemicals, feedstocks, fuels, monomers, oligomers, hydrocarbons, or waste
+7 residues derived from any process that subjects solid waste, segregated solid waste, recyclable
+8 materials, construction and demolition (C&D) debris, post-use polymers, or recovered feedstock to
+9 thermochemical, chemical, electrical, or catalytic conversion conditions that result from the use of
+10 regulated technologies, regardless of operating temperature or energy source.
+11 (iii) "Plastic waste conversion facility" also includes advanced recycling facilities,
+12 chemical recycling facilities, molecular recycling facilities, and any other facility that uses a
+13 regulated technology as defined by this chapter, to convert post-use polymers, plastic, or recovered
+14 feedstock into fuels, chemical feedstocks, monomers, oligomers, hydrocarbons, waxes, lubricants,
+15 feedstocks, fuels, or hydrocarbons, regardless of how such facility or process is otherwise classified
+16 or marketed, or whether the process is characterized as low-temperature, non-thermal, or energy-
+17 efficient.
+18 (6) "Post-use polymer" means a plastic polymer previously used in any industrial,
+19 commercial, agricultural, or domestic activity.
+20 (7) "Recovered feedstock" means material derived and separated from solid waste,
+21 segregated solid waste, recyclable materials, or construction and demolition (C&D) debris for use
+22 as a feedstock or raw material in a plastic waste conversion facility using regulated technologies.
+23 (8) "Recyclable materials" has the same meaning as set forth in § 23-18.9-7.
+24 (9) “Regulated technologies” means:
+25 (i) The use of plastic as a fuel or fuel substitute or the general use of plastic in energy
+26 generation or the creation of hazardous chemicals by any means in such processes including, but
+27 not limited to, incineration, waste-to-energy, or waste-to-fuel; and
+28 (ii) The following processes:
+29 (A) Gasification;
+30 (B) Pyrolysis;
+31 (C) Solvolysis;
+32 (D) Hydropyrolysis;
+33 (E) Methanolysis;
+34 (F) Enzymatic breakdown;
+LC004875 - Page 3 of 5
+
+1 (G) Combustion;
+2 (H) Flash graphene conversion;
+3 (I) Radical anion attack or electron-driven depolymerization;
+4 (J) Thermal desorption;
+5 (K) Continuous microwave assisted pyrolysis;
+6 (L) Flash joule heating; and
+7 (M) Any other process used to transform plastic or plastic-derived materials including, but
+8 not limited to, plastic monomers, chemicals, waxes, lubricants, chemical feedstocks, crude oil,
+9 diesel, gasoline, or home heating oil; and
+10 (iii) Regulated technologies are regulated based on the function and outcome of the
+11 process, not on operating temperature, energy input, or claimed efficiency.
+12 (10) "Segregated solid waste" has the same meaning as set forth in § 23-18.9-7.
+13 (11) "Solid waste" has the same meaning as set forth in § 23-18.9-7.
+14 23-19.20-2. Prohibition on new plastic waste conversion facilities.
+15 (a) Notwithstanding any other law, rule, or regulation to the contrary, no permit or license
+16 shall be issued for the construction or operation of a new plastic waste conversion facility, and no
+17 application for a permit or license for such a facility shall be granted or issued by the state.
+18 (b) For purposes of this section, no plastic waste conversion facility shall be deemed
+19 manufacturing, materials recovery, or recycling based on the nature or intended use of its outputs.
+20 SECTION 3. This act shall take effect upon passage.
+========
+LC004875
+========
+LC004875 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- PLASTIC WASTE CONVERSION FACILITY
+ACT
+***
+1 This act would establish the Plastic Waste Conversion Facility Act. The act would prohibit
+2 the issuance of any permit or license for the construction or operation of a new plastic waste
+3 conversion facility, and would further provide that no application for a permit or license for such a
+4 facility would be granted or issued by the state.
+5 This act would take effect upon passage.
+========
+LC004875
+========
+LC004875 - Page 5 of 5

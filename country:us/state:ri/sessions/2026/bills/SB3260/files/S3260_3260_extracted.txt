@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - 3260
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3260
+========
+LC006236
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+DECEPTIVE TRADE PRACTICES
+Introduced By: Senators Britto, McKenney, Bissaillon, DiPalma, and Sosnowski
+Date Introduced: May 05, 2026
+Referred To: Senate Health & Human Services
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 6-13.1 of the General Laws entitled "Deceptive Trade Practices" is
+2 hereby amended by adding thereto the following section:
+3 6-13.1-31. Prohibited acts - Pharmacy benefits managers.
+4 (a) For the purposes of this section:
+5 (1) “Effective rate pricing” means any payment reduction for pharmacist or pharmacy
+6 services by a pharmacy benefits manager through reconciliation processes or aggregate payment
+7 reductions that are not expressly disclosed and agreed to between the pharmacy benefits manager
+8 and pharmacist or pharmacy and that result in reimbursement below the contracted rate.
+9 (2) “Enrollee” means an individual residing in this state for whom an insurer administers,
+10 provides, pays for, insures, or covers healthcare services; provided, however, that for purposes of
+11 this section, the term shall exclude individuals enrolled in Medicare Part D, the federal employee
+12 health benefit program, TRICARE, or the VA program.
+13 (3) “Inducement” means a financial incentive including, but not limited to, variations in
+14 premiums, deductibles, copayments, or coinsurance, offered to influence the selection,
+15 recommendation, or use of health care items or services.
+16 (4) “Maximum allowable cost price” or “MAC price” means the maximum amount that a
+17 pharmacy benefits manager will reimburse toward the cost of a drug.
+18 (5) “Patient steering” means any communication, verbal or written, by a pharmacy benefits
+
+1 manager to a patient to directly or indirectly influence the patient’s choice of pharmacy or
+2 encourage use of an alternate pharmacy that is a preferred pharmacy. This includes any requirement
+3 that a consumer utilize a particular pharmacy.
+4 (6) “Pharmacy benefits manager” or “PBM” means an entity doing business in this state
+5 that contracts to administer or manage prescription drug benefits on behalf of any carrier that
+6 provides prescription drug benefits to residents of this state.
+7 (7) “Spread pricing” means the model of prescription drug pricing in which a pharmacy
+8 benefits manager charges a health benefit plan a contracted price for prescription drugs that differs
+9 from the amount the pharmacy benefits manager directly or indirectly pays the pharmacist or
+10 pharmacy for pharmacy goods or services.
+11 (b) Violations. It shall be an unfair and deceptive trade practice and a method of unfair
+12 competition in violation of this chapter for any pharmacy benefits manager to:
+13 (1) Conduct or participate in spread pricing or effective rate pricing;
+14 (2) Directly or indirectly engage in patient steering to a pharmacy in which the pharmacy
+15 benefits manager, or any of its affiliated entities, maintains an ownership interest or control;
+16 (3) Penalize an enrollee or offer an inducement to an enrollee for the purpose of
+17 encouraging use of a specific retail, mail-order, or other pharmacy in which a pharmacy benefits
+18 manager holds an ownership or controlling interest, or in which the pharmacy holds an ownership
+19 or controlling interest in the pharmacy benefits manager;
+20 (4) Require a pharmacist or pharmacy to purchase drugs from a particular wholesaler;
+21 (5) Deflate or fail to adjust the MAC price set by the pharmacy benefits manager where the
+22 wholesaler offering the price upon which the MAC price is based chooses not to sell the drug to
+23 the pharmacist or pharmacy, rendering the MAC price unavailable to the pharmacist or pharmacy;
+24 (6) Fail to honor maximum allowable cost requirements in accordance with §§ 27-18-33.2,
+25 27-19-26.2, 27-20-23.2, 27-20.1-15.1, or 27-41-38.2;
+26 (7) Impose an early-refill restriction on a maintenance medication with a prescription of at
+27 least a thirty (30) day supply that requires fewer than seven (7) days of medication remaining before
+28 the prescription may be refilled; provided, however, that pursuant to regulation, guidance or at the
+29 direction of the executive office of health and human services, a pharmacy benefits manager may
+30 apply a more restrictive early refill policy for Medicaid enrollees without violating the provisions
+31 of this subsection. This provision shall not apply to controlled substances in schedules II to V;
+32 (8) Fail to honor or otherwise delay the acceptance of previously completed step therapy
+33 documentation where the prescribed drug is on the health plan’s prescription drug formulary, the
+34 enrollee has tried the step therapy required while enrolled in their current health plan or a health
+LC006236 - Page 2 of 5
+
+1 plan in which they were previously enrolled, and the enrollee’s provider has submitted justification
+2 and supporting clinical documentation that such prescription drug was discontinued due to lack of
+3 efficacy or effectiveness, diminished effect, or an adverse effect or event;
+4 (9) Exploit prescription drug information obtained from enrollees for monetary gain or
+5 economic power over pharmacists or pharmacies including, but not limited to, using data mining
+6 or other similar methods to gather patient information generated or obtained throughout the
+7 prescription filling process at any pharmacy for the purpose of directing business toward a
+8 pharmacy commonly owned, controlled, or exclusively contracted with the PBM;
+9 (10) Sell, exchange, or use in any manner prescription drug information regarding an
+10 enrollee obtained from an enrollee’s use of a prescription drug for purposes of marketing
+11 solicitation, patient steering, generating referrals, or any other practice or act that provides the
+12 pharmacy benefits manager, or any of its affiliates or subsidiaries, economic power or control over
+13 pharmacists or pharmacies, or that interferes in the enrollee’s free choice of pharmacy;
+14 (11) Engage in drug repackaging for the purpose of extracting a price markup. A pharmacy
+15 benefits manager that owns or controls a mail-order pharmacy shall not allow the mail-order
+16 pharmacy to repackage drugs for the purpose of selling the repackaged items at prices higher than
+17 the reimbursement price of the drug in its original manufacturer packaging, unless the enrollee to
+18 whom the repackaged drugs are dispensed is informed in writing that the drug has been repackaged
+19 and is being sold at a higher price; or
+20 (12) Operate in Rhode Island without being registered and in good standing with the
+21 secretary of state to do business in the state or without being licensed and in good standing with the
+22 department of business regulation. Each day that a pharmacy benefits manager operates without
+23 such registration or licensure and good standing shall constitute a separate violation.
+24 (c) Construction.
+25 (1) Except where expressly provided, for purposes of this section, a violation shall be
+26 deemed to occur each time a prohibited act is committed for each individual consumer transaction.
+27 (2) Nothing in this section shall be construed to prohibit truthful, non-misleading
+28 communications regarding cost or interfere with, or violate, a consumer’s right to know where the
+29 consumer may obtain the lowest cost drugs, whether a consumer is utilizing insurance or other
+30 third-party reimbursement or not.
+31 (3) Nothing in this section shall be construed to interfere with the requirement that
+32 consumers receive notice of changes to pharmacy networks, such as the inclusion of new
+33 pharmacies or removal of existing pharmacies from networks.
+34 (4) Nothing in this section shall prohibit the authorized use of protected health information
+LC006236 - Page 3 of 5
+
+1 for health care operations under the Health Insurance Portability and Accountability Act of 1996
+2 (Pub. L. No. 104-191).
+3 (5) Nothing in this section shall be construed or applied in a manner that conflicts with
+4 applicable federal law or regulation.
+5 (6) Nothing in this section shall be construed to limit or preclude the authority of the
+6 attorney general to pursue any other remedy, penalty, or cause of action available under common
+7 law or statute including, but not limited to, actions for injunctive relief, restitution, civil penalties,
+8 or other equitable or legal relief. Nor shall this section be construed to limit the application of
+9 chapter 13.1 of title 6 ("deceptive trade practices") or any other provision of the general laws to the
+10 conduct described herein. This amendment shall be interpreted to clarify existing law only.
+11 SECTION 2. This act shall take effect upon passage.
+========
+LC006236
+========
+LC006236 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS --
+DECEPTIVE TRADE PRACTICES
+***
+1 This act would provide that certain actions taken by pharmacy benefits managers are to be
+2 considered deceptive or unfair trade practices.
+3 This act would take effect upon passage.
+========
+LC006236
+========
+LC006236 - Page 5 of 5

@@ -1,0 +1,89 @@
+Title: 
+Official Title: 
+Source: versions - 8088
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8088
+========
+LC005620
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SEARCH WARRANTS
+Introduced By: Representatives Noret, Hull, Read, Fascia, and Corvese
+Date Introduced: February 27, 2026
+Referred To: House Judiciary
+(Attorney General)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 12-5-3 of the General Laws in Chapter 12-5 entitled "Search
+2 Warrants" is hereby amended to read as follows:
+3 12-5-3. Issuance and contents.
+4 (a) A warrant shall issue only upon complaint in writing, which may be transmitted by
+5 electronic means to an authorized judicial officer in accordance with the provisions of subsection
+6 (b) of this section, under oath of:
+7 (1) A chief of police, deputy chief of police or other members of the police force of any
+8 city or town, or deputy sheriff of any county, member of the division of state police, full time
+9 conservation officer of the department of environmental management, or other person specifically
+10 authorized by law to bring complaints for violation of the law which it is his or her responsibility
+11 to enforce;
+12 (2) Additionally, in the case of property stolen, embezzled, or obtained by fraud or false
+13 pretenses, any person who has a right to the possession of the property.
+14 (3) Additionally, a sworn law enforcement member of any city or town where that member
+15 is serving on a statewide task force.
+16 (b) A warrant may be issued by electronic means solely for the search and seizure of
+17 evidence relating to the commission of the following offenses:
+18 (1) Driving so as to endanger, resulting in death, pursuant to § 31-27-1;
+19 (2) Driving so as to endanger, resulting in serious bodily injury, pursuant to § 31-27-1.1;
+
+1 (3) Driving under the influence of liquor or drugs, resulting in death, pursuant to § 31-27-
+2 2.2;
+3 (4) Driving under the influence of liquor or drugs, resulting in serious bodily injury,
+4 pursuant to § 31-27-2.6;
+5 (c) Warrants issued pursuant to this section shall not be issued outside of normal court
+6 hours on weekdays, weekends, holidays, or other times when the court is not in session when by
+7 reason of emergency or administrative order.
+8 (d) When a duly authorized person requests the issuance of a warrant by electronic means,
+9 the judicial officer may issue a warrant based upon information communicated electronically as
+10 follows:
+11 (1) Upon being notified that a warrant is sought by electronic means, the judicial officer
+12 shall direct the applicant to transmit a complaint, affidavit and search warrant electronically to the
+13 judicial officer. The affidavit shall be sworn to or affirmed by administration of the oath or
+14 affirmation telephonically or by other electronic method that includes spoken real-time
+15 communication with the judicial officer. The administration of the oath or affirmation need not be
+16 part of the affidavit or recorded; however, the judicial officer shall note on the affidavit that the
+17 oath or affirmation was administered.
+18 (2) In the event the judicial officer proceeds to issue a warrant under this subsection, the
+19 judicial officer shall electronically sign the complaint, search warrant and affidavit. The judicial
+20 officer shall record the date and time of issuance on the search warrant and transmit the
+21 electronically signed documents to the applicant by reliable electronic means.
+22 (b)(e) Within fourteen (14) days of the issuance of any warrant under this chapter, whether
+23 or not executed, the warrant, accompanied by any supporting affidavits and an inventory of any
+24 property seized, shall be returned to the district court having jurisdiction over the place of the search
+25 or, in the event of a warrant that is not executed, the court from which it was issued. The returns
+26 shall be maintained by the district court according to the date of issuance. If not otherwise indicated,
+27 the return shall note whether the warrant was executed.
+28 SECTION 2. This act shall take effect upon passage.
+========
+LC005620
+========
+LC005620 - Page 2 of 3
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO CRIMINAL PROCEDURE -- SEARCH WARRANTS
+***
+1 This act would authorize judges to issue electronic warrants for DUI offenses under certain
+2 conditions.
+3 This act would take effect upon passage.
+========
+LC005620
+========
+LC005620 - Page 3 of 3

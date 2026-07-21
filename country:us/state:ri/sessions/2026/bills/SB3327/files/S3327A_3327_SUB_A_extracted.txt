@@ -1,0 +1,389 @@
+Title: 
+Official Title: 
+Source: versions - 3327  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3327 SUBSTITUTE A
+========
+LC006532/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- OFFICE OF INSPECTOR
+GENERAL
+Introduced By: Senators Ciccone, Tikoian, de la Cruz, Sosnowski, Gu, Britto, Burke, and
+DiPalma
+Date Introduced: May 26, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 42 of the General Laws entitled "STATE AFFAIRS AND
+2 GOVERNMENT" is hereby amended by adding thereto the following chapter:
+3 CHAPTER 9.4
+4 OFFICE OF INSPECTOR GENERAL
+5 42-9.4-1. Purpose and establishment of office of the inspector general.
+6 (a)(1) There is hereby established an office of the inspector general (the "office") that shall
+7 be an independent and nonpartisan administrative agency whose purpose shall be to investigate the
+8 management and operation of agencies as it relates to the prevention and detection of fraud, waste,
+9 abuse and mismanagement in the expenditure of public funds that harms the public interest.
+10 (2) The jurisdiction, authorization, powers, and duties granted to the office pursuant to this
+11 chapter shall be in addition to, and not in contravention of, any and all jurisdiction, authorization,
+12 powers, and duties of the office of attorney general, any other state or local law enforcement
+13 agency, or the auditor general.
+14 (3) The general assembly shall make adequate appropriations to the office of inspector
+15 general to enable effective operation and independence.
+16 (b) The inspector general shall be appointed by the governor with the advice and consent
+17 of the senate in accordance with § 42-9.4-4 and shall direct and supervise the work of the office as
+18 follows:
+
+1 (1) The inspector general shall establish the organizational structure appropriate to carry
+2 out the functions and duties of the office and shall have the power to employ, promote, and remove
+3 such deputies, assistants, employees, and personnel as deemed necessary for the efficient and
+4 effective administration of the office.
+5 (2) The inspector general may hire the necessary support staff, and designate a deputy
+6 inspector general and other qualified staff with education or experience in relevant areas, such as
+7 investigations, evidence collection, audits, compliance with laws and other requirements, or other
+8 forms of oversight, enforcement, or government evaluation. Provided, further, the inspector general
+9 may contract for services of technical experts, including legal counsel.
+10 (3) Within three (3) years after being hired, investigative staff employed by the office shall
+11 become certified by the Association of Inspectors General in at least one of the following fields:
+12 (i) Investigation;
+13 (ii) Auditing; or
+14 (iii) Evaluation.
+15 (c) Nothing in this chapter shall diminish, supersede, limit, or interfere with the statutory
+16 responsibilities and authority of the auditor general as provided in § 22-13-4.
+17 (d) The director of administration is hereby authorized and directed to provide suitable
+18 quarters for the office of inspector general.
+19 42-9.4-2. Definitions.
+20 As used in this chapter:
+21 (1) "Agency" means a separate agency or unit of state government created or established
+22 by law and includes, but is not limited to, the following entities and officers of any authority, board,
+23 branch, bureau, commission, committee, council, department, division, institution, office, public
+24 corporation, or quasi-agency as the case may be.
+25 Agency shall not mean and shall not include: (i) The legislative branch of state government
+26 and any agency, committee, commission, or unit therein or thereof; or (ii) The judicial branch of
+27 state government and any agency, committee, commission, or unit therein or thereof.
+28 (2) "Contractor" means any person, corporation, partnership, business, committee, or other
+29 organization entity or group of individuals, performing any tasks or duties as defined under a
+30 written or oral contract with an agency.
+31 (3) "Employee" means any person employed by an agency, including agency heads,
+32 directors and commissioners.
+33 (4) "Officer" means any person appointed to any agency.
+34 (5) "Official" means any person elected to office within the executive branch of
+LC006532/SUB A - Page 2 of 12
+
+1 government.
+2 (6) "Public funds" means state, federal or local funds, either appropriated, non-appropriated
+3 or given under right of grant.
+4 42-9.4-3. Qualifications.
+5 To be eligible to be appointed as an inspector general, a candidate shall have, at a minimum,
+6 the following qualifications:
+7 (1) Hold a bachelor's degree or higher in criminal justice, public administration, law
+8 enforcement, accounting, or a related area;
+9 (2) Have at least ten (10) years of professional experience in auditing, investigations, law
+10 enforcement, accounting, or a related area;
+11 (3) Hold a professional certificate from the Association of Inspectors General, including
+12 Certified Inspector General or Certified Inspector General Investigator; and
+13 (4) Demonstrate a commitment to safeguarding the mission of public service. Candidates
+14 must provide prior professional opinions, positions, or actions that may influence the candidate's
+15 approach to the role, which will be subject to public disclosure to the extent permitted under law.
+16 42-9.4-4. Inspector general -- Appointment -- Removal.
+17 (a) There is hereby established a five (5) member independent advisory commission
+18 comprised of the following individuals:
+19 (1) Attorney general;
+20 (2) General treasurer;
+21 (3) Secretary of state;
+22 (4) Executive director of the ethics commission; and
+23 (5) President of the Association of Inspectors General, or designee.
+24 (b) The commission shall immediately be charged with creating a process for the
+25 application, interview and selection of suitable and qualified candidates as follows:
+26 (1) The commission shall consider applicants for the position of inspector general, in
+27 accordance with this chapter and without regard to political affiliation, on the basis of integrity,
+28 capability for strong leadership and demonstrated ability in accounting, auditing, financial analysis,
+29 law, public administration, investigations, criminal justice administration, or closely related fields.
+30 (2) Within ninety (90) days of the effective date of this chapter, the commission shall
+31 submit to the governor a list of three (3) qualified candidates for inspector general that the governor
+32 shall give due consideration in appointing one individual from the list. Within ninety (90) days of
+33 receiving the list, the governor shall submit to the senate for advice and consent one individual for
+34 appointment as inspector general.
+LC006532/SUB A - Page 3 of 12
+
+1 (3) Once confirmed by the senate, the inspector general shall serve for a term of five (5)
+2 years and is eligible for reappointment for a second five (5) year term, in accordance with this
+3 section.
+4 (c) No inspector general may serve longer than two (2) five (5) year terms.
+5 (d) The inspector general and employees shall be subject to chapter 14 of title 36 ("code of
+6 ethics").
+7 (e) Upon a mid-term vacancy of the inspector general, an interim inspector general shall
+8 be appointed in accordance with this section.
+9 (f) No inspector general, officer, or employee of the office of inspector general shall hold
+10 or be a candidate for any other elective or appointed public office while serving as inspector
+11 general.
+12 (g) No inspector general, officer, or employee of the office of inspector general shall hold
+13 a position in any political party, committee, or subcommittee, or participate in any political
+14 campaign of any candidate for public office while serving as inspector general.
+15 (h) Eligibility restriction. The following individuals shall not be nominated for inspector
+16 general until one year after the last day of the individual's holding of any of the following
+17 disqualifying positions:
+18 (1) A member of the general assembly;
+19 (2) Any other public office holder; or
+20 (3) A cabinet secretary, a department director in the executive branch, or an individual of
+21 equivalent standing within the executive branch.
+22 (i) Removal. The person so appointed as inspector general may be removed from office for
+23 cause by the governor prior to the expiration of his or her term. Cause may include substantial
+24 neglect of duty, gross misconduct or conviction of a crime, whether or not it is related to official
+25 work duties.
+26 42-9.4-5. Jurisdiction -- Powers and duties.
+27 (a) The inspector general shall have jurisdiction over any official, officer, employee, or
+28 agency in the executive branch of state government.
+29 (b) The inspector general shall have the following duties:
+30 (1) Investigate the management and operation of agencies to determine if there has been
+31 evidence of fraud, waste, abuse, mismanagement, or any other abuse of governmental resources
+32 that harms the public interest, whether through acts or omissions;
+33 (2) Investigate retaliation claims regarding whistleblowers;
+34 (3) Report suspected acts of fraud, waste, abuse or mismanagement against or within an
+LC006532/SUB A - Page 4 of 12
+
+1 agency to the governor and, as appropriate to other state entities with jurisdiction over the matter;
+2 (4) Conduct special investigations and management reviews of agencies at the request of
+3 the governor;
+4 (5) Establish procedures to receive, investigate, and resolve complaints, including
+5 recommending whether disciplinary action or further investigation by appropriate local, state, or
+6 federal agencies is warranted and taking further action as appropriate;
+7 (6) Instruct and educate agencies on the detection and prevention of fraud, waste, abuse,
+8 and mismanagement; conduct evaluations of relevant agency policies and procedures implicated
+9 by any investigation and create a remedial action plan to prevent recurrences of fraud, waste, abuse,
+10 or mismanagement that harm the public interest; and close an investigation when the inspector
+11 general concludes there is insufficient evidence that a violation has occurred. Closure of any
+12 investigation by the inspector general shall not bar the reopening of the investigation should
+13 circumstances warrant;
+14 (7) Act as a liaison to agencies to promote accountability, integrity, and efficiency in state
+15 government;
+16 (8) Maintain a statewide-toll-free telephone number, website, email address, and physical
+17 mailing address for the receipt of complaints and inquiries;
+18 (9) Work collaboratively, including through any memoranda of understanding, for the
+19 purposes of efficiency, coordination, and avoidance of duplicative work with the attorney general,
+20 local, state or federal law enforcement, the ethics commission, and the auditor general;
+21 (10) Enter into contracts for audits or specialists needed to perform the duties outlined
+22 herein. Provided, further, the inspector general shall coordinate with the auditor general to ensure
+23 efficient utilization of available audit resources; and
+24 (11) When formally requested by a municipal government through a city or town council
+25 resolution, the inspector general may accept a request from a municipality to investigate concerns
+26 regarding fraud, waste, abuse, or mismanagement of state or municipal government funds. All the
+27 powers, duties and procedures of the inspector general set forth in this chapter for investigation of
+28 agencies shall apply to any investigation related to a municipality.
+29 42-9.4-6. Investigative procedures.
+30 (a) The inspector general shall accept and may investigate complaints or information from
+31 any individual or entity concerning the possible existence of any activity constituting alleged fraud,
+32 waste, abuse, and mismanagement relating to any agency as defined herein.
+33 (b) The inspector general shall not, after receipt of a complaint or information from an
+34 employee, contractor, or private citizen who requests confidentiality, disclose the identity of that
+LC006532/SUB A - Page 5 of 12
+
+1 individual, without the written consent of the individual, unless the inspector general determines
+2 such disclosure is necessary and unavoidable during the course of an investigation. In such event,
+3 the individual filing the complaint shall be notified immediately, if possible, of such disclosure
+4 which shall be in accordance with applicable law.
+5 (c) The inspector general shall not investigate complaints from employees that relate to
+6 their employment relationship with the agency, unless the complaint is directly related to fraud,
+7 waste, abuse, or mismanagement or abuse of governmental resources that harms the public interest.
+8 (d) The inspector general may decline to investigate a complaint as provided by the rules
+9 and regulations adopted pursuant to this chapter. If the inspector general declines to investigate a
+10 complaint, he or she shall notify the complainant of the decision not to investigate and the basis for
+11 that determination.
+12 (e) The inspector general may refer a complaint under this chapter to the attorney general;
+13 local, state or federal law enforcement, the auditor general, or the ethics commission.
+14 (f) The inspector general may not levy a fee for the submission or investigation of a
+15 complaint.
+16 (g) The inspector general shall remain neutral and impartial and may not act as an advocate
+17 for the complainant or for the agency.
+18 (h) The inspector general shall adhere to professional standards for initiating and
+19 conducting investigations, such as the Principles and Standards for Offices of Inspector General
+20 promulgated by the Association of Inspectors General. Additionally, the office of inspector general
+21 shall be a member of the Association of Inspectors General and participate in the peer review
+22 program of the association as part of the established quality control procedures adopted by the
+23 office.
+24 42-9.4-7. Conclusion of investigation -- Report -- Decision.
+25 (a) At the conclusion of the investigation of each complaint:
+26 (1) Report. Upon the conclusion of an investigation that results in a finding of fraud, waste,
+27 abuse or mismanagement but prior to issuing a decision, the inspector general shall issue a report
+28 or letter to the agency subject to the investigation, the office of the governor, the attorney general,
+29 the speaker of the house of representatives, the president of the senate and shall release to the public
+30 any such report unless the public release of such report would compromise a pending criminal
+31 investigation noted in the report and known to the inspector general or otherwise be exempt from
+32 disclosure pursuant to chapter 2 of title 38 ("access to public records");
+33 (i) The director of each agency may, within sixty (60) days of receipt of said report,
+34 comment upon any references to the agency contained within the report. The comment, if any, shall
+LC006532/SUB A - Page 6 of 12
+
+1 be forwarded to the governor, the attorney general, the speaker of the house of representatives, the
+2 president of the senate, and the office of inspector general.
+3 (2) Decision. The inspector general shall issue a decision on the merits of the complaint,
+4 including his or her recommendations, and the decision shall be posted on the inspector general's
+5 website;
+6 (i) Where the investigation finds that there has been or continues to be fraud, waste, abuse,
+7 mismanagement, or other abuse of governmental resources that harms the public interest or that
+8 there is evidence of a crime, the inspector general shall communicate its findings and decision to
+9 the attorney general, local, state or federal law enforcement, or the auditor general;
+10 (ii) If the complaint is about an employee of an agency or a contractor and the investigation
+11 found no evidence of wrongdoing, the inspector general shall ensure that the public decision does
+12 not contain the name of the individual investigated without the written permission of that
+13 individual.
+14 (b) Before announcing a decision, the inspector general shall do all of the following:
+15 (1) Consult with the agency and as appropriate, the employee or contractor regarding the
+16 decision;
+17 (2) Provide an opportunity for each person who is the subject of the decision to respond in
+18 writing to the decision within five (5) business days and any response shall be made available to
+19 the public when the decision is released. Provided, however, this does not allow an individual
+20 consulted by the inspector general before an announcement to hinder, prevent, or delay the
+21 inspector general's announcement of a decision.
+22 (c) In the decision, the inspector general may recommend that the agency:
+23 (1) Consider the matter further;
+24 (2) Modify or cancel an action or practice;
+25 (3) Alter a rule, practice, or decision;
+26 (4) Explain in detail the administrative action in question; or
+27 (5) Rectify an omission.
+28 (6) The inspector general shall communicate his or her decision to the complainant, the
+29 agency investigated, and as appropriate, the employee investigated, and the decision shall be posted
+30 on the inspector general's website.
+31 (d) Where the inspector general has discovered fraudulent acts and believes that civil
+32 recovery proceedings may be appropriate, the matter shall be referred to the attorney general.
+33 (1) The attorney general may, upon such referral, institute whatever proceedings it deems
+34 appropriate, including referring the matter to another state or local agency, authorizing the initiation
+LC006532/SUB A - Page 7 of 12
+
+1 of appropriate civil proceedings by the inspector general, retaining the matter for further
+2 investigation, or remanding the matter back to the inspector general for further investigation.
+3 (2) If the attorney general declines to take action pursuant to this section, the inspector
+4 general shall have the authority to institute a civil recovery action upon the authorization of the
+5 attorney general.
+6 (e) The public release of the inspector general's decision shall not contain information that
+7 is found to be confidential and/or exempt from disclosure pursuant to this chapter or other
+8 applicable laws, including chapter 2 of title 38 ("access to public records").
+9 (f) Investigator records, including, but not limited to, communications that include the
+10 investigative record may be deemed confidential and exempt from disclosure pursuant to chapter 2
+11 of title 38 ("access to public records") or other applicable laws.
+12 42-9.4-8. Access to agencies and records.
+13 (a) Agencies shall cooperate with any investigation conducted pursuant to this chapter, and
+14 the inspector general shall have reasonable access to an agency's records as necessary to conduct a
+15 full investigation of a complaint including, but not limited to, the following:
+16 (1) Access to records in the possession of a grantee or contractor;
+17 (2) The opportunity to interview an employee or any other individual who may have
+18 knowledge relating to the complaint under investigation.
+19 (b) The inspector general may inspect and copy all relevant information, records, or
+20 documents that the inspector general considers reasonably necessary in an investigation of a
+21 complaint under this chapter.
+22 (c) The inspector general is authorized to interview any official, officer, or employee
+23 serving in the agency and may inspect and copy any book, record, paper, or electronic file in the
+24 possession of the agency, taking care to preserve the confidentiality of the information.
+25 (d) Any knowing failure of any official, officer, or employee to comply with an
+26 investigation made pursuant to this chapter or the knowing provision of false information during
+27 an investigation or the destruction or attempted destruction of any relevant materials may be subject
+28 to criminal, civil, and/or administrative penalties.
+29 42-9.4-9. Oaths -- Subpoenas.
+30 (a) In performing an investigation authorized by this chapter, the inspector general shall
+31 have the authority to administer or take from any person an oath, examine witnesses under oath,
+32 and issue any subpoenas necessary to compel the attendance of witnesses and the production of all
+33 books, records, papers, electronic and tangible items that constitute or contain evidence which the
+34 inspector general finds reasonably relevant or material to the investigation, affirmation, or affidavit,
+LC006532/SUB A - Page 8 of 12
+
+1 whenever necessary to perform his or her duties.
+2 (b) Service of any subpoena issued under this chapter shall be made by any designated
+3 person. Service upon a natural person may be made by personal delivery of the subpoena to that
+4 person. Subpoenas may also be served upon a natural person by registered or certified mail and the
+5 return receipt shall constitute prima facie proof of service. Service to a natural person may also be
+6 made by serving as the person's counsel of record. Service may be made upon a domestic or foreign
+7 corporation by delivering the subpoena to an officer, to a managing or general agent, or to any other
+8 agent authorized by appointment or by law to receive service of process. A subpoena requiring the
+9 attendance of a witness may be served at any place within the state and furthermore, process may
+10 be served at any place within the state.
+11 (c) In the case of a refusal to obey any issued subpoena, the inspector general may request
+12 that the attorney general petition the superior court to compel compliance with the subpoena. The
+13 attorney general may petition the court upon such request by the inspector general.
+14 (d) Upon filing of the petition, the court may enter an order directing the individual to
+15 appear before the court at a specified time and place and then and there show cause why they had
+16 not attended, answered questions under penalty of perjury, or produced the requested items as
+17 required by the subpoena. If it appears to the court that the subpoena was properly issued by the
+18 inspector general, the court may enter an order that the person named in the subpoena appear at the
+19 time and place fixed in the order and answer questions under penalty of perjury or produce the
+20 requested items as required. Upon failure to obey the court order, the person may be subject to
+21 contempt of court.
+22 (e) Nothing in this section shall limit or alter a person's existing rights or protections under
+23 state or federal law.
+24 42-9.4-10. Rules and regulations.
+25 The office shall promulgate rules and regulations which shall govern its proceedings and
+26 operation pursuant to chapter 35 of title 42 ("administrative procedures").
+27 42-9.4-11. Reporting requirements.
+28 (a) The inspector general shall, no later than April 1 and every year thereafter, file a written
+29 report summarizing the activities of the office for the prior calendar year. The office may also
+30 prepare and file interim reports. These reports shall be forwarded to the governor, lieutenant
+31 governor, attorney general, secretary of state, general treasurer, the speaker of the house, the
+32 president of the senate and the auditor general, and shall be made available to the public.
+33 (b) The report shall include, but not be limited to:
+34 (1) A description of investigations undertaken related to fraud, waste, abuse, or
+LC006532/SUB A - Page 9 of 12
+
+1 mismanagement within agencies;
+2 (2) A description of any recommendations for corrective action made by the office during
+3 the reporting period with respect to significant deficiencies in the areas of fraud, waste, abuse or
+4 mismanagement;
+5 (3) The identification of each significant recommendation described in previous annual
+6 reports on which corrective action has not been completed;
+7 (4) A summary of matters referred to prosecuting authorities and the status of said referrals;
+8 (5) A summary of matters concerning recovery of monies as a result of civil action
+9 undertaken by the office or after a referral to the attorney general; and
+10 (6) A list of all audit reports completed by the office during the reporting period.
+11 (c) The report of the inspector general shall be made public on the day of the filing. Where
+12 no official disposition has been made by the office, the attorney general, or other law enforcement
+13 agencies, the report shall not list the names of individuals or corporations, nor describe them with
+14 sufficient particularity as to readily identify them to the general public.
+15 42-9.4-12. Budget submission.
+16 The inspector general shall comply with all budget submission requirements set forth in
+17 chapter 3 of title 35 ("state budget").
+18 42-9.4-13. Retaliation -- Whistleblower protections.
+19 (a) No agency, officer, or official shall take action against an official, officer, or employee
+20 for disclosing or threatening to disclose the existence of any activity constituting waste, fraud,
+21 abuse, or mismanagement to the inspector general, unless the disclosure or threatened disclosure
+22 was made with knowledge that the disclosure was false or was made with willful disregard for its
+23 truth or falsity.
+24 (b) Any report disclosed by the office may differ from the complete written report in that
+25 the inspector general shall have the discretion to redact or otherwise protect the names of
+26 complainants and witnesses, or other information that, if not redacted, might compromise the
+27 identity of a complainant or witness.
+28 (c) The provisions chapter 50 of title 28 ("the Rhode Island whistleblowers' protection act")
+29 shall be afforded to persons including, but not limited to, employees, reporting information under
+30 this chapter.
+31 42-9.4-14. Severability.
+32 If any provision of this chapter or the application thereof to any individual or circumstance
+33 is held invalid, such invalidity shall not affect the other provisions or applications of this chapter,
+34 which can be given effect without the invalid provision or application, and to this end the provisions
+LC006532/SUB A - Page 10 of 12
+
+1 of this chapter are declared to be severable.
+2 SECTION 2. This act shall take effect upon passage.
+========
+LC006532/SUB A
+========
+LC006532/SUB A - Page 11 of 12
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- OFFICE OF INSPECTOR
+GENERAL
+***
+1 This act would establish the office of inspector general to investigate the management and
+2 operation of agencies in an effort to prevent and deter fraud, waste, abuse and mismanagement in
+3 the expenditure of public funds.
+4 This act would take effect upon passage.
+========
+LC006532/SUB A
+========
+LC006532/SUB A - Page 12 of 12

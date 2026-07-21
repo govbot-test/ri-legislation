@@ -1,0 +1,290 @@
+Title: 
+Official Title: 
+Source: versions - 2427
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2427
+========
+LC004836
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITY COMMISSION
+Introduced By: Senators Lauria, Euer, DiMario, Ujifusa, Felag, Valverde, Vargas, Britto,
+Gallo, and McKenney
+Date Introduced: February 06, 2026
+Referred To: Senate Commerce
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 39-1-2 of the General Laws in Chapter 39-1 entitled "Public Utilities
+2 Commission" is hereby amended to read as follows:
+3 39-1-2. Definitions.
+4 (a) Terms used in this title shall be construed as follows, unless another meaning is
+5 expressed or is clearly apparent from the language or context:
+6 (1) “Administrator” means the administrator of the division of public utilities and carriers.
+7 (2) “Airport” and “landing field” mean and include all airports and landing fields other
+8 than those owned by the state.
+9 (3) “Chairperson” means the chairperson of the public utilities commission.
+10 (4) “Charter carrier” means and includes all carriers for hire or compensation within this
+11 state not included in the definition of common carrier.
+12 (5) “Commission” means the public utilities commission.
+13 (6) “Commissioner” means a member of the public utilities commission.
+14 (7) “Common carrier,” except when used in chapters 12, 13, and 14 of this title, means and
+15 includes all carriers for hire or compensation, including railroads, street railways, express, freight
+16 and freight-line companies, dining-car companies, steam boat, motor boat, power boat, hydrofoil,
+17 and ferry companies and all other companies operating any agency or facility for public use in the
+18 conveyance over fixed routes, or between fixed termini within this state of persons or property by,
+19 or by a combination of, land, air, or water.
+
+1 (8) “Company” means and includes a person, firm, partnership, corporation, quasi-
+2 municipal corporation, association, joint-stock association or company, and his, her, its, or their
+3 lessees, trustees, or receivers appointed by any court.
+4 (9) “Costs of serving” includes, as applicable, the costs incurred by an electric company in
+5 providing transmission, distribution, energy, capacity or ancillary electricity services, and any
+6 related costs or associated risks with serving a class of retail electricity consumers or a retail
+7 electricity consumer.
+8 (9)(10) “Customer” means a company taking service from an electric distribution company
+9 at a single point of delivery or meter location.
+10 (10)(11) “Distribution facility” means plant or equipment used for the distribution of
+11 electricity and that is not a transmission facility.
+12 (11)(12) “Division” means the division of public utilities and carriers.
+13 (12)(13) “Electric distribution company” means a company engaging in the distribution of
+14 electricity or owning, operating, or controlling distribution facilities and shall be a public utility
+15 pursuant to subsection (20) of this section.
+16 (13)(14) “Electric transmission company” means a company engaging in the transmission
+17 of electricity or owning, operating, or controlling transmission facilities. An electric transmission
+18 company shall not be subject to regulation as a public utility except as specifically provided in the
+19 general laws, but shall be regulated by the Federal Energy Regulatory Commission and shall
+20 provide transmission service to all nonregulated power producers and customers, whether affiliated
+21 or not, on comparable, nondiscriminatory prices and terms. Electric transmission companies shall
+22 have the power of eminent domain exercisable following a petition to the commission pursuant to
+23 § 39-1-31.
+24 (15) “Facility” means all buildings, equipment, structures and other stationary items that
+25 are located on a single site or on contiguous or adjacent sites and that are owned or operated by the
+26 same person or by any person who controls, is controlled by or is under common control with such
+27 person.
+28 (16) “Large energy use facility” means a facility that uses or is able to use twenty
+29 megawatts (20mw) or more and is primarily engaged in providing a service described under code
+30 518210 of the 2022 North American Industry Classification System. Code 51820 refers to
+31 businesses offering infrastructure like cloud storage, application hosting (excluding software
+32 publishing), and data entry services. These facilities process client-supplied data for reports or
+33 provide automated services such as optical scanning and disk conversion.
+34 (14)(17) “Liquefied natural gas” means a fluid in the liquid state composed predominantly
+LC004836 - Page 2 of 9
+
+1 of methane and that may contain minor quantities of ethane, propane, nitrogen, or other components
+2 normally found in natural gas.
+3 (15)(18) “Manufacturing customers” means all customers that have on file with an electric
+4 distribution company a valid certificate of exemption from the Rhode Island sales tax indicating
+5 the customer’s status as a manufacturer pursuant to § 44-18-30.
+6 (16)(19) “Motor carriers” means any carrier regulated by the administrator pursuant to
+7 chapters 3, 11, 12, 13, and 14 of this title.
+8 (17)(20) “Natural gas” means the combustible, gaseous mixture of low-molecular-weight,
+9 paraffin hydrocarbons, generated below the surface of the earth, containing mostly methane and
+10 ethane with small amounts of propane, butane, and hydrocarbons, and sometimes nitrogen, carbon
+11 dioxide, hydrogen sulfide, and helium.
+12 (18)(21) “Nonprofit housing development corporation” means a nonprofit corporation that
+13 has been approved as a 26 U.S.C. § 501(c)(3) corporation by the Internal Revenue Service, and is
+14 organized and operated primarily for the purpose of providing housing for low- and moderate-
+15 income persons.
+16 (19)(22) “Nonregulated power producer” means a company engaging in the business of
+17 producing, manufacturing, generating, buying, aggregating, marketing, or brokering electricity for
+18 sale at wholesale or for retail sale to the public; provided however, that companies that negotiate
+19 the purchase of electric generation services on behalf of customers and do not engage in the
+20 purchase and resale of electric generation services shall be excluded from this definition. A
+21 nonregulated power producer shall not be subject to regulation as a public utility except as
+22 specifically provided in the general laws.
+23 (20)(23) “Public utility” means and includes every company that is an electric distribution
+24 company and every company operating or doing business in intrastate commerce and in this state
+25 as a railroad, street railway, common carrier, gas, liquefied natural gas, water, telephone, telegraph,
+26 and pipeline company, and every company owning, leasing, maintaining, managing, or controlling
+27 any plant or equipment, or any part of any plant or equipment, within this state for manufacturing,
+28 producing, transmitting, distributing, delivering, or furnishing natural or manufactured gas, directly
+29 or indirectly, to or for the public, or any cars or equipment employed on, or in connection with, any
+30 railroad or street railway for public or general use within this state, or any pipes, mains, poles,
+31 wires, conduits, fixtures, through, over, across, under, or along any public highways, parkways, or
+32 streets, public lands, waters, or parks for the transmission, transportation, or distribution of gas for
+33 sale to the public for light, heat, cooling, or power for providing audio or visual telephonic or
+34 telegraphic communication service within this state, or any pond, lake, reservoir, stream, well, or
+LC004836 - Page 3 of 9
+
+1 distributing plant or system employed for the distribution of water to the consuming public within
+2 this state, including the water supply board of the city of Providence; provided, that, except as
+3 provided in § 39-16-9 and in P.L. 1933, ch. 2072, as amended, this definition shall not be construed
+4 to apply to any public waterworks or water service owned and furnished by any city, town, water
+5 district, fire district, or any other municipal or quasi-municipal corporation, excepting the water
+6 supply board of the city of Providence, unless any city, town, water district, fire district, municipal
+7 or quasi-municipal corporation obtains water from a source owned or leased by the water resources
+8 board, either directly or indirectly, or obtains a loan from the board pursuant to the provisions of
+9 chapter 15.1 of title 46, or sells water, on a wholesale or retail basis, inside and outside the territorial
+10 limits of the city or town, water district, fire district, municipal or quasi-municipal corporation,
+11 except, however, that a public waterworks or water service owned and furnished by any city, town,
+12 water district, fire district, or any other municipal or quasi-municipal corporation that sells water,
+13 on a wholesale or retail basis, inside and outside its territorial limits, shall not be construed as a
+14 public utility if it has fewer than one-thousand five hundred (1,500) total customer-service
+15 connections and provided outside sales do not exceed ten percent (10%) of the total water service
+16 connections or volumetric sales and provided the price charged to outside customers, per unit of
+17 water, is not greater than the price charged to inside customers for the same unit of water, nor to
+18 the Rhode Island public transit authority, or to the production and/or distribution of steam, heat, or
+19 water by the Rhode Island port authority and economic development corporation in the town of
+20 North Kingstown; and the term “public utility” shall also mean and include the Narragansett Bay
+21 water quality management district commission; and provided that the ownership or operation of a
+22 facility by a company that dispenses alternative fuel or energy sources at retail for use as a motor
+23 vehicle fuel or energy source, and the dispensing of alternative fuel or energy sources at retail from
+24 such a facility, does not make the company a public utility within the meaning of this title solely
+25 because of that ownership, operation, or sale; and provided further that this exemption shall not
+26 apply to presently regulated public utilities that sell natural gas or are dispensers of other energy
+27 sources; and provided further, that the term “public utility” shall not include any company:
+28 (i) Producing or distributing steam or heat from a fossil-fuel-fired cogeneration plant
+29 located at the university of Rhode Island South Kingstown, Rhode Island;
+30 (ii) Producing and/or distributing thermal energy and/or electricity to a state-owned facility
+31 from a plant located on an adjacent site, regardless of whether steam lines cross a public highway;
+32 and
+33 (iii) Providing wireless service.
+34 (21)(24) “Purchasing cooperatives” shall mean any association of electricity consumers
+LC004836 - Page 4 of 9
+
+1 that join for the purpose of negotiating the purchase of power from a nonregulated power producer,
+2 provided however, that purchasing cooperatives shall not be required to be legal entities and are
+3 prohibited from being engaged in the re-sale of electric power.
+4 (22)(25) “Railroad” means and includes every railroad other than a street railway, by
+5 whatsoever power, operated for public use in the conveyance in this state of persons or property
+6 for compensation, with all bridges, ferries, tunnels, switches, spurs, tracks, stations, wharves, and
+7 terminal facilities of every kind, used, operated, controlled, leased, or owned by or in connection
+8 with any railroad.
+9 (23)(26) “Retail access” means the use of transmission and distribution facilities owned by
+10 an electric transmission company or an electric distribution company to transport electricity sold
+11 by a nonregulated power producer to retail customers pursuant to § 39-1-27.3.
+12 (27) “Retail electricity consumer” means the end user of electricity for specific purposes
+13 such as heating, lighting or operating equipment, and includes all end users of electricity served
+14 through the distribution system of an electric utility, whether or not each end user purchases the
+15 electricity from the electric utility.
+16 (24)(28) “Street railway” means and includes every railway by whatsoever power operated
+17 or any extension or extensions, branch, or branches thereof, for public use in the conveyance in this
+18 state of persons or property for compensation, being mainly upon, along, above, or below any street,
+19 avenue, road, highway, bridge, or public place in any city or town, and including all switches, spurs,
+20 tracks, rights of trackage, subways, tunnels, stations, terminals, and terminal facilities of every kind,
+21 used, operated, controlled, or owned by or in connection with any street railway.
+22 (25)(29) “Transmission facility” means plant or equipment used for the transmission of
+23 electricity as determined by the Federal Energy Regulatory Commission pursuant to federal law as
+24 of the date of the property transfers pursuant to § 39-1-27(c).
+25 (26)(30) “Wireless service” means communication services provided over spectrum
+26 licensed by or subject to the jurisdiction of the Federal Communications Commission.
+27 (b) Notwithstanding any provision of this section or any provision of the act entitled, “An
+28 Act Relating to the Utility Restructuring Act of 1996” (hereinafter “utility restructuring act”), upon
+29 request by the affected electric utility, the commission may exempt from the utility restructuring
+30 act or any provision(s) thereof, an electric utility that meets the following requirements:
+31 (1) The utility is not selling or distributing electricity outside of the service territory in
+32 effect for that utility on the date of passage of the utility restructuring act; and
+33 (2) The number of kilowatt hours sold or distributed annually by the utility to the public is
+34 less than five percent (5%) of the total kilowatt hours consumed annually by the state. Provided,
+LC004836 - Page 5 of 9
+
+1 however, that nothing contained in this section shall prevent the commission from allowing
+2 competition in the generation of electricity in service territories of utilities exempted in whole or in
+3 part from the utility restructuring act pursuant to this section, as long as such allowance of
+4 competition is conditioned upon payment to the exempted electric utility of a nonbypassable
+5 transition charge calculated to recover the elements comparable in nature to the elements in § 39-
+6 1-27.4(b) and (c) taking into consideration any unique circumstances applicable to the exempted
+7 electric utility.
+8 SECTION 2. Chapter 39-1 of the General Laws entitled "Public Utilities Commission" is
+9 hereby amended by adding thereto the following section:
+10 39-1-27.10.1. Classification of services for large energy use facilities.
+11 (a) The commission shall provide for a classification of service for retail electricity
+12 consumers that are large energy use facilities. The classification of service shall be separate and
+13 distinct from classifications of service for other commercial or industrial retail electricity
+14 consumers and have its own tariff and rate schedule.
+15 (b) Any tariff and rate schedule adopted by the commission for the class shall:
+16 (1) Allocate the costs of serving the class of retail electricity consumers that are large
+17 energy use facilities to the class in a manner that is equal or proportional to the costs of serving the
+18 class; or
+19 (2) Directly assign the costs of serving a retail electricity consumer that is a large energy
+20 use facility to the retail electricity consumer;
+21 (3) Meet the same conditions the commission requires for a contract under this section;
+22 (4) Mitigate the risk of:
+23 (i) Other classes of retail electricity consumers paying unwarranted costs; and
+24 (ii) Shifting the costs, in an unwarranted manner, of serving a retail electricity consumer
+25 that is a large energy use facility to other classes of retail electricity consumers, including costs of
+26 an electric company to meet load requirements resulting from the provision of electricity service to
+27 a retail electricity consumer that is a large energy use facility.
+28 (5) In deciding whether to approve a proposed tariff or rate schedule of an electric company
+29 for a classification of service described under this section, the commission shall consider whether
+30 tariffs and the rates:
+31 (i) Result in, or have the potential to result in, increased costs or unwarranted risk to other
+32 retail electricity consumers;
+33 (ii) Provide for equitable contributions to grid efficiency, reliability and resiliency benefits;
+34 (iii) Impede the electric company’s ability to meet the clean energy targets set forth in
+LC004836 - Page 6 of 9
+
+1 chapter 6.2 of title 42 (" 2021 act on climate) or reduce the emissions of greenhouse gases consistent
+2 with state policy;
+3 (iv) Allow for procurement of or contracts for generation resources that support the electric
+4 company’s ability to meet the clean energy targets set forth in chapter 6.2 of title 42, or reduce the
+5 emissions of greenhouse gases consistent with state policy; and
+6 (v) Meet any other conditions the commission may require in the public interest.
+7 (d) The commission shall require an electric company that is providing electricity service
+8 to a retail electricity consumer that is a large energy use facility to enter into a contract with the
+9 retail electricity consumer that covers the provision of the electricity service including, as
+10 applicable, transmission, distribution, energy, capacity or ancillary electricity services.
+11 (e) Any contract for the provision of electricity service entered into between an electric
+12 company and a retail electricity consumer that is a large energy use facility:
+13 (1) Shall:
+14 (i) Be consistent with the criteria listed under this chapter;
+15 (ii) Specify the duration of the contract and be for a duration of ten (10) years or longer;
+16 (iii) Specify the date or estimated date that the electric company will begin to provide
+17 electricity service to the retail electricity consumer;
+18 (iv) Obligate the retail electricity consumer to pay a minimum amount or percentage, as
+19 determined by the commission, based on the retail electricity consumer’s projected electricity usage
+20 for the electricity services the electric company is contracted to provide for the duration of the
+21 contract; and
+22 (v) Meet any other conditions the commission may require in the public interest; and
+23 (2) May include a charge for excess demand for the electricity services the electric
+24 company is contracted to provide that is in addition to the tariff or rate schedule.
+25 (3) If an electric company fails to begin to provide electricity service on or by the date or
+26 estimated date specified in a contract entered into under this section due to causes within the electric
+27 company’s reasonable control, the electric company shall provide the retail electricity consumer
+28 notice of the delay as soon as reasonably practicable. A contract entered into under this section may
+29 include terms and conditions that address the possibility of a delay due to causes within the
+30 reasonable control of the parties to the contract.
+31 (4) A contract, as described in subsection (d) of this section as well as this subsection, shall
+32 not prevent the commission from carrying out the commission’s duties under this section.
+33 (5) Nothing in this chapter is intended to limit or restrict the ability of a retail electricity
+34 consumer that is a large energy use facility from using direct access or a green power rate, or a
+LC004836 - Page 7 of 9
+
+1 voluntary renewable energy rate or a special contract, as approved by the commission, except the
+2 contract shall meet the requirements and be consistent with the provisions of this section.
+3 (f) No later than September 1, 2028 and every even-numbered year thereafter, the
+4 commission shall submit a report to the governor and general assembly. The report shall review
+5 trends in load requirements and other implications from retail electricity consumers that use large
+6 amounts of electricity and may include recommendations for further legislation. In providing the
+7 report, the commission shall protect proprietary information as provided under the rules,
+8 regulations or orders of commission.
+9 SECTION 3. This act shall take effect upon passage.
+========
+LC004836
+========
+LC004836 - Page 8 of 9
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- PUBLIC UTILITY COMMISSION
+***
+1 This act would require the public utilities commission (PUC) to provide for a classification
+2 of service for retail electricity consumers that are large energy use facilities, defined as a facility
+3 that uses or is able to use twenty megawatts (20mw) or more and is primarily engaged in providing
+4 a service that is related to businesses offering infrastructure like cloud storage, application hosting
+5 (excluding software publishing), data entry services and facilities that process client-supplied data
+6 for reports or provide automated services such as optical scanning and disk conversion.
+7 This act would take effect upon passage.
+========
+LC004836
+========
+LC004836 - Page 9 of 9

@@ -1,0 +1,192 @@
+Title: 
+Official Title: 
+Source: versions - 2492
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2492
+========
+LC004169
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- RHODE ISLAND HEALTHCARE
+TRANSACTION OVERSIGHT ACT
+Introduced By: Senators Ujifusa, Bell, Kallman, Lauria, Valverde, Euer, Urso, Mack,
+Acosta, and Quezada
+Date Introduced: February 06, 2026
+Referred To: Senate Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+2 amended by adding thereto the following chapter:
+3 CHAPTER 106
+4 RHODE ISLAND HEALTHCARE TRANSACTION OVERSIGHT ACT
+5 23-106-1. Short title.
+6 This chapter shall be known and may be cited as the "Rhode Island Healthcare Transaction
+7 Oversight Act."
+8 23-106-2. Legislative findings and intent.
+9 (a) Findings. The general assembly finds that:
+10 (1) Hospitals and health care providers deliver essential services, and sudden financial or
+11 operational failures can jeopardize the health, safety, and financial security of Rhode Islanders.
+12 (2) Recent bankruptcy proceedings involving Roger Williams Medical Center and Our
+13 Lady of Fatima Hospital, as well as hospitals in other states formerly owned by Steward Health
+14 Care, demonstrate that certain corporate ownership structures, financial arrangements, and
+15 consolidation strategies can reduce access, increase costs, and destabilize the delivery of care.
+16 (3) A growing number of states, working with policy experts including the National
+17 Academy for State Health Policy (NASHP), have enacted laws to better detect and prevent material
+18 risks to patients, taxpayers, and health care providers. NASHP has developed a model act
+
+1 incorporating best practices, upon which this chapter is based.
+2 (4) It is the intent of the general assembly to ensure that changes in ownership or control
+3 of health care entities do not undermine financial sustainability, clinical independence, or the
+4 continued availability of essential health care services, and to provide the state with tools to act
+5 before such risks result in harm to patients or communities.
+6 23-106-3. Definitions.
+7 As used in this chapter, the following terms shall have the following meanings, unless the
+8 context clearly indicates otherwise:
+9 (1) "Affiliate" means an entity that directly, indirectly, or through one or more
+10 intermediaries controls, is controlled by, or is under common control with another entity.
+11 (2) "Control" means the direct or indirect power through ownership, contractual agreement,
+12 or otherwise to direct the actions or policies of a healthcare entity.
+13 (3) "Cost and market impact review ("CMIR")" means the review conducted by the
+14 attorney general and the department of health as outlined in this chapter.
+15 (4) "Healthcare entity" means a provider, facility, provider organization, pharmacy benefit
+16 manager, carrier, or any parent, subsidiary, or affiliate thereof that offers healthcare services in
+17 Rhode Island.
+18 (5) "Management services organization (MSO)" means an entity that contracts with a
+19 healthcare entity to perform administrative, financial, operational, or management services.
+20 (6) "Material change transaction" means any of the following involving a healthcare entity
+21 that has total assets, annual revenues, or anticipated annual revenues of at least ten million dollars
+22 ($10,000,000), whether occurring during a single transaction or a series of related transactions
+23 within a five (5) year period:
+24 (i) A corporate merger or consolidation including one or more healthcare entities;
+25 (ii) An acquisition of one or more healthcare entities or of control thereof;
+26 (iii) Any affiliation, joint venture, parent-subsidiary formation, or arrangement that results
+27 in a change of control;
+28 (iv) The formation of partnerships, joint ventures, or MSOs for contracting, management,
+29 or governance purposes;
+30 (v) Real estate sale or lease agreements involving material assets of a healthcare entity; or
+31 (vi) The closure of a healthcare facility or significant reduction of an essential health
+32 service.
+33 (7) "Private equity fund" means a publicly or non-publicly traded investment vehicle that
+34 pools capital for, and purchases direct or indirect ownership or controlling interests in, healthcare
+LC004169 - Page 2 of 6
+
+1 entities.
+2 23-106-4. Notice of material change transaction.
+3 (a) Before consummating a material change transaction, a healthcare entity shall submit
+4 written notice to the Rhode Island attorney general and the Rhode Island department of health not
+5 fewer than one hundred eighty (180) days prior to the proposed transaction date.
+6 (b) The notice shall include all material documents and information necessary for review
+7 including, but not limited to, transaction agreements, organizational charts, financial statements,
+8 service plans, and prior transaction history. The attorney general or the department of health may
+9 determine additional documents or information required to complete the notice and may require
+10 supplementation.
+11 (c) Within ten (10) days of acceptance of a complete notice, the attorney general and the
+12 department of health shall publish a summary of the proposed transaction on publicly accessible
+13 websites, excluding confidential information permitted to be withheld by law.
+14 23-106-5. Preliminary review.
+15 (a) Within thirty (30) days after receipt of a complete notice, the attorney general and the
+16 department of health shall:
+17 (1) Approve the transaction;
+18 (2) Approve with conditions; or
+19 (3) Designate the transaction for comprehensive review.
+20 (b) A transaction shall be designated for comprehensive review if the attorney general and
+21 the department of health determine the transaction is likely to significantly affect competition,
+22 prices, quality, access, workforce, or health equity in the Rhode Island healthcare market.
+23 23-106-6. Comprehensive review process.
+24 (a) Upon designation for comprehensive review, the attorney general and the department
+25 of health shall conduct one or more public hearings and complete a cost and market impact review
+26 (“CMIR”) within ninety (90) days after designation. The attorney general and the department of
+27 health may extend the ninety (90) day period if the transacting parties delay, fail to timely submit,
+28 or submit incomplete requested information.
+29 (b) The CMIR shall examine factors including, but not limited to:
+30 (1) Market share and competitive effects;
+31 (2) Price and total cost of care trends;
+32 (3) Impact on access and availability of services;
+33 (4) Impact on quality and patient outcomes;
+34 (5) Effects on underserved and at-risk populations;
+LC004169 - Page 3 of 6
+
+1 (6) Impact on the healthcare workforce;
+2 (7) Financial condition and prior conduct of the parties;
+3 (8) Prior healthcare transactions involving the parties, including serial acquisitions of “roll-
+4 ups;”
+5 (9) The impact of any real estate sale, lease, or sale-leaseback transaction on healthcare
+6 service delivery, cost, access, or financial sustainability; and
+7 (10) Any other factor relevant to the public interest.
+8 (c) The parties to the transaction shall bear the burden of demonstrating, by clear and
+9 convincing evidence, that the transaction will not result in a significant reduction in competition,
+10 increase in cost, or harm to access, quality, or equity.
+11 23-106-7. Determination and conditions.
+12 (a) After the CMIR, the attorney general and the department of health may:
+13 (1) Approve the transaction;
+14 (2) Approve with conditions; or
+15 (3) Disapprove the transaction.
+16 (b) Conditions may include, but are not limited to: requirements related to pricing,
+17 maintenance of essential services, reporting, workforce protections, or structural remedies such as
+18 divestiture or unwinding of components of the transaction.
+19 (c) The attorney general and the department of health shall issue a written determination
+20 no later than sixty (60) days following completion of the CMIR.
+21 (d) In making the determination, the attorney general and the department of health may
+22 consider any factors that they deem relevant, including, but not limited to:
+23 (1) The likely impact, as described in the CMIR report where applicable, of the material
+24 change transaction on:
+25 (i) Health care costs, prices, and affordability;
+26 (ii) The availability or accessibility of health care services to the affected community;
+27 (iii) Provider cost trends and containment of total state health care spending;
+28 (iv) Access to services in medically underserved areas;
+29 (v) Rectifying historical and contemporary factors contributing to a lack of health equities
+30 or access to services;
+31 (vi) The functioning and competitiveness of the markets for health care and health
+32 insurance;
+33 (vii) The potential effects of the transaction on health outcomes, quality, access, equity, or
+34 workforce for residents of this state;
+LC004169 - Page 4 of 6
+
+1 (viii) The potential loss or change in access to essential services;
+2 (ix) Whether the material change transaction is contrary to or violates any applicable law,
+3 including, without limitation, state antitrust laws, laws restricting the corporate practice of
+4 medicine, and consumer protection laws;
+5 (x) Whether the benefits of the transaction are likely to outweigh the anticompetitive effects
+6 from the transaction; and
+7 (xi) Whether the transaction is in the public interest.
+8 23-106-8. Post-transaction monitoring.
+9 The attorney general and the department of health may require ongoing reporting and
+10 monitoring of approved transactions and may reopen review or impose additional conditions upon
+11 a finding of noncompliance or changed circumstances.
+12 23-106-9. Cost recovery.
+13 The attorney general and the department of health may require reimbursement from the
+14 transaction parties for all actual and reasonable costs of review, including consultant and expert
+15 costs.
+16 23-106-10. Enforcement.
+17 Failure to comply with any of the requirements in this chapter may result in civil penalties
+18 of $10,000 (ten thousand dollars) per day, in addition to any other remedies available under law.
+19 SECTION 2. This act shall take effect upon passage.
+========
+LC004169
+========
+LC004169 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- RHODE ISLAND HEALTHCARE
+TRANSACTION OVERSIGHT ACT
+***
+1 This act would require a healthcare entity to submit written notice to the attorney general
+2 and the department of health of any material change transaction at least one hundred eighty (180)
+3 days prior to that transaction. This act would also authorize the attorney general and the department
+4 of health to review the transaction, approve, modify or deny the transaction, and provide factors to
+5 be considered within that review.
+6 This act would take effect upon passage.
+========
+LC004169
+========
+LC004169 - Page 6 of 6

@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - 8150
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8150
+========
+LC005607
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO THE UTGR MASTER CONTRACT AND THE TWIN RIVER -- TIVERTON
+MASTER CONTRACT -- CONSOLIDATED MARKETING PROGRAM
+Introduced By: Representative Scott Slater
+Date Introduced: February 27, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Except to the extent amended by this act, the terms, conditions, provisions
+2 and definitions of Chapter 322 and 323 of the Public Laws of 2005, Chapter 16 of the Public Laws
+3 of 2010, Chapter 151, Article 25 of the Public Laws of 2011, Chapters 289 and 290 of the Public
+4 Laws of 2012, Chapter 145, Article 13 of the Public Laws of 2014, Chapter 141, Article 11,
+5 Sections 16 -- 22 of the Public Laws of 2015, and Chapters 005 and 006 of the Public Laws of
+6 2016, Chapter 302, Article 8, Sections 4-6 of the Public Laws of 2017, and Chapters 41 and 42 of
+7 the Public Laws of 2021 (in each case as the more recent law may have amended an earlier law or
+8 laws), are hereby incorporated herein by reference and shall remain in full force and effect.
+9 SECTION 2. Definitions. For the purposes of this act, the following terms shall have the
+10 following meanings, and to the extent that such terms are otherwise defined in any provision of the
+11 general or public laws, for purposes of this act, those terms are hereby amended to read as follows:
+12 (1) “Adjustment Amount” means the percentage increase in the consumer price index (CPI)
+13 as reported by the Bureau of Labor Statistics (or any successor index that replaces it) as determined
+14 on an Adjustment Date by multiplying:
+15 (i) The original marketing cap amount specified in the Consolidated Marketing Program
+16 prior to any Adjustment Amount; and
+17 (ii) The fraction:
+18 (A) The numerator of which is the CPI published for the month immediately preceding the
+
+1 Adjustment Date; and
+2 (B) The denominator of which is the CPI value published for the month of June, 2025.
+3 (2) “Adjustment Date” means the first date of each Marketing Year.
+4 (3) “Consolidated Marketing Program” means that Consolidated Marketing Program
+5 authorized in this act.
+6 (4) “Consolidated Master Contract” means the UTGR Master Contract and the Twin River-
+7 Tiverton Master Contract as amended, restated, and consolidated pursuant to the terms set forth in
+8 this act.
+9 (5) “Division” means the state lottery division of the department of revenue and/or any
+10 successor in interest thereto.
+11 (6) “Division Percentage” means for any Marketing Year, the Division’s percentage of net
+12 terminal income derived from video lottery terminals located at the Tiverton Facility and the
+13 Lincoln Facility, as set forth in § 42-61.2-7.
+14 (7) “Lincoln Facility” means the Bally’s Twin River Lincoln Casino Resort located at 100
+15 Twin River Road, Lincoln, Rhode Island.
+16 (8) “Marketing Cap” means an amount equal to the Division Percentage multiplied by
+17 twenty-seven million two hundred and fifty thousand dollars ($27,250,000), and increased annually
+18 on the Adjustment Date by the Adjustment Amount.
+19 (9) “Marketing Program” means, as to UTGR, that marketing program set forth in Chapter
+20 16, Section 4(a)(iii) of Part A, of the Public Laws of 2010, as amended by Chapter 151, Article 25,
+21 Section 8 of the Public Laws of 2011, and as amended by Chapter 145, Article 13, Section 5 of the
+22 Public Laws of 2014, and as amended by Chapters 005 and 006 of the Public Laws of 2016. As to
+23 Twin River-Tiverton, “Marketing Program” means that marketing program set forth in Chapter 16,
+24 Section 4(a)(iii) of Part B of the Public Laws of 2010, as amended by Chapter 151, Article 25,
+25 Section 8 of the Public Laws of 2011, and as amended by Chapters 005 and 006 of the Public Laws
+26 of 2016.
+27 (10) “Marketing Year” means the fiscal year of the state.
+28 (11) “Tiverton Facility” means the Bally’s Tiverton Casino & Hotel located at 777 Tiverton
+29 Casino Boulevard, Tiverton, Rhode Island.
+30 (12) “Twin River-Tiverton” means Twin River-Tiverton, LLC and its permitted successors
+31 and assigns under the Twin River-Tiverton Master Contract, as amended, restated, and consolidated
+32 pursuant to this act.
+33 (13) “UTGR” means UTGR, LLC, and its permitted successors and assigns under the
+34 UTGR Master Contract, as amended, restated, and consolidated pursuant to this act.
+LC005607 - Page 2 of 5
+
+1 SECTION 3. Authorized procurement of Consolidated Master Contract. Notwithstanding
+2 any provisions of the General Laws of the state or regulations adopted thereunder to the contrary,
+3 within ninety (90) days of the enactment of this act, the Division is hereby authorized and
+4 empowered to enter into an amended, restated, and consolidated contract (the “Consolidated Master
+5 Contract”) among the Division, UTGR, and Twin River-Tiverton, which shall amend, restate, and
+6 consolidate the UTGR Master Contract and the Twin River-Tiverton Master Contract, and which
+7 shall:
+8 (1) Consolidate the Marketing Program applicable to UTGR and the Marketing Program
+9 applicable to Twin River-Tiverton into the Consolidated Marketing Program, which shall be
+10 monitored by the Division; and shall further provide that the marketing expenditures incurred by
+11 UTGR and Twin River-Tiverton, collectively, and not each individually, will be reimbursed by the
+12 Division in accordance with the following terms:
+13 (i) For each Marketing Year, the Division shall pay UTGR an amount equal to the product
+14 of the Division Percentage multiplied by the total combined marketing expenditures of UTGR and
+15 Twin River-Tiverton; provided, however, that the total amount payable by the Division for each
+16 Marketing Year pursuant to this section shall not exceed the Marketing Cap, as adjusted annually
+17 on the Adjustment Date;
+18 (ii) Provided, however, that in any partial Marketing Year, the total amount payable by the
+19 Division shall be capped at the amount equal to the Marketing Cap multiplied by a fraction:
+20 (A) The numerator of which is the number of days in any partial marketing year; and
+21 (B) The denominator of which is three hundred sixty-five (365); and
+22 (iii) Any amounts related to the Consolidated Marketing Program payable by the Division
+23 shall be paid on a frequency agreed by the Division (but no less frequently than annually) out of
+24 that share of net terminal income disbursed pursuant to § 42-61.2-7.
+25 (2) The foregoing supersedes and replaces any law applicable to the Tiverton Facility or
+26 the Lincoln Facility relating to the Marketing Program pertaining to such facility.
+27 (3) The UTGR Master Contract and the Twin River-Tiverton Master Contract, as amended
+28 and restated and as consolidated into the Consolidated Master Contract pursuant to this act, shall
+29 remain in full force and effect. If there is a conflict between any provision of the Consolidated
+30 Master Contract and this act, the provisions of this act control.
+31 SECTION 4. The Supplementary Promotional Points Program applicable to Twin River,
+32 which is in addition to the Initial Promotional Points Program, shall be amended so that UTGR
+33 may distribute to customers and prospective customers Promotional Points of up to but not more
+34 than sixteen percent (16%) of Twin River net terminal income for the Prior Marketing Year. For
+LC005607 - Page 3 of 5
+
+1 avoidance of doubt, as a result of the foregoing amendment, the approved amount of Promotional
+2 Points that may be distributed by UTGR pursuant to the Initial and Supplementary Promotional
+3 Points Programs, in the aggregate, may be up to but not more than twenty percent (20%) of the
+4 average of the prior three (3) years of Twin River net terminal income, plus an additional seven
+5 hundred fifty thousand dollars ($750,000), subject however, to subsections (a)(3) and (a)(4) below,
+6 and beginning on the first date following the Prior Marketing Year, beginning 2027 and each
+7 subsequent year thereafter, the distributive amount of Promotional Points shall be adjusted annually
+8 for inflation, indexed to the Consumer Price Index for All Urban Consumers (CPI-U), U.S. City
+9 Average, as published by the United States Bureau of Labor Statistics. The terms and conditions
+10 of the Initial and Supplementary Promotional Points Programs applicable to Twin River shall be
+11 established from time to time by the Division, and such terms and conditions shall include, without
+12 limitation, a state fiscal-year audit of the program, the cost of which audit shall be borne by UTGR.
+13 SECTION 5. This act shall take effect upon passage.
+========
+LC005607
+========
+LC005607 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO THE UTGR MASTER CONTRACT AND THE TWIN RIVER -- TIVERTON
+MASTER CONTRACT -- CONSOLIDATED MARKETING PROGRAM
+***
+1 This act would restate the UTGR Master Contract and the Twin River-Tiverton Master
+2 Contract and would consolidate the marketing program of each into the Consolidated Marketing
+3 Program.
+4 This act would take effect upon passage.
+========
+LC005607
+========
+LC005607 - Page 5 of 5

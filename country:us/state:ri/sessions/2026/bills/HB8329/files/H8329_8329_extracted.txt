@@ -1,0 +1,210 @@
+Title: 
+Official Title: 
+Source: versions - 8329
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8329
+========
+LC006089
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- TERMINAL PATIENTS' RIGHT TO TRY ACT
+Introduced By: Representatives Slater, and Diaz
+Date Introduced: March 20, 2026
+Referred To: House Judiciary
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative purpose.
+2 The general assembly enacts this chapter to promote maximum access by removing barriers
+3 in state law and indemnifying those involved in providing potentially life-saving treatments and
+4 treatments to improve the quality of patients' remaining life, to incentivize healthcare facilities,
+5 healthcare providers, manufacturers of drugs, biologics and devices, and other persons and entities
+6 involved in the care of patients, to treat terminal illness, whether through company-sponsored
+7 clinical trial, single-patient protocol, compassionate use protocol, or any other means of access to
+8 drugs, biologics, and/or devices which gathers information on patient outcomes, and to make Rhode
+9 Island a jurisdiction that attracts and fosters clinical trials and the development of drugs, biologics,
+10 and devices intended to monitor, diagnose and treat terminal illness.
+11 SECTION 2. Title 23 of the General Laws entitled "HEALTH AND SAFETY" is hereby
+12 amended by adding thereto the following chapter:
+13 CHAPTER 106
+14 TERMINAL PATIENTS' RIGHT TO TRY ACT
+15 23-106-1. Definitions.
+16 As used in this chapter:
+17 (1) "Diagnostic use" means the use of an innovative medical device to identify, monitor,
+18 or characterize a disease or condition, or to determine the safety and effectiveness of treatment
+19 regimens, in patients with a medically threatening disease or condition.
+
+1 (2) "Eligible facility" means an institution that is operating with an “Institutional Review
+2 Board” established pursuant to the provisions of 42 U.S.C. 289(a) and 45 CFR Part 46.
+3 (3) "Eligible patient" means a person to whom all of the following apply:
+4 (i) The person has been diagnosed by the person's physician and a consulting physician
+5 with a terminal illness or life-threatening disease;
+6 (ii) The person has already tried or is not a candidate for eligible United States Food and
+7 Drug Administration (FDA) approved treatment options for the person’s disease or condition;
+8 (iii) The person is unable to participate in a clinical trial involving the eligible
+9 investigational drug, biologic or device;
+10 (iv) The person has provided written informed consent for the use of the investigational
+11 drug, biological product, or device or, if the patient is a minor or lacks the mental capacity to
+12 provide informed consent, a parent or legal guardian has provided written informed consent on the
+13 patient's behalf;
+14 (v) The physician providing access to an investigational drug, biologic, or device shall not
+15 be compensated directly by the manufacturer for providing access to this therapy.
+16 (4) "Individualized investigational treatment" means drugs, biologics, or devices unique to
+17 and produced exclusively for use for an individual patient, based on their own genetic profile
+18 including, but not limited to, individualized gene therapy antisense oligonucleotides (ASO),
+19 individualized neoantigen vaccines, and any other individualized treatment.
+20 (5) "Innovative medical device" means a device that has successfully completed phase one
+21 of a clinical trial, as defined in 21CFR 312.21(a), but has not been approved for general use by the
+22 FDA and remains under investigation in a clinical trial, and may be used for either therapeutic or
+23 diagnostic purposes by eligible patients.
+24 (6) "Investigational drug, biologic, or device" means a drug, biologic, or device that has
+25 successfully completed phase one of a clinical trial as defined in 21CFR 312.21(a), but has not been
+26 approved for general use by the FDA and remains under investigation in a clinical trial.
+27 (7) "Medically threatening disease or condition" means a terminal or life-threatening
+28 disease or conditions, or a disease or condition that is likely to result in significant morbidity or
+29 mortality, or that significantly impairs quality of life, as determined by the patient's physician.
+30 (8) "Other protected access" means and includes:
+31 (i) "Expanded access" whereby the treating physician requests access to an investigational
+32 drug, biologic, or device from the FDA which is subject to oversight from an Institutional Review
+33 Board; and
+34 (ii) "Off-label use" means prescribing an FDA approved drug, biologic, or device for a use
+LC006089 - Page 2 of 7
+
+1 not approved for that specific indication.
+2 (9) "Physician" means an allopathic or osteopathic physician licensed pursuant to chapter
+3 37 of title 5,who is providing medical care, treatment or evaluation to the patient.
+4 (10) "Remote signing" means the signing of any form, witnessed by a notary public or a
+5 licensed healthcare provider, providing written informed consent for a person diagnosed by a
+6 physician with a terminal or condition illness, or medically threatening disease or condition, to
+7 participate in a clinical trial or receive a drug, biologic, or device, by the patient or, if the patient is
+8 a minor or lacks the mental capacity to provide consent, by a parent or legal guardian on the patient's
+9 behalf.
+10 (11) "Serious or potentially life-threatening disease or condition" means a disease or
+11 condition that is likely to result in significant morbidity, mortality, or permanent impairment of a
+12 vital organ function including, but not limited to:
+13 (i) Cancer at stage three (3) or four (4), including aggressive or high-mortality cancers such
+14 as pancreatic cancer, glioblastoma, colorectal cancer, ovarian cancer, breast cancer, lung cancer,
+15 and triple-negative breast cancer;
+16 (ii) Diseases or conditions that, without intervention, are likely to progress to a life-
+17 threatening state; and
+18 (iii) Diseases or conditions that significantly impair quality of life or vital organ function,
+19 as determined by the patient's physician.
+20 (12) "Telehealth prescreening" means any remote, real-time discussion intended, in part,
+21 to determine whether a person may be:
+22 (i) Ineligible for or not selected to participate in a clinical trial; or
+23 (ii) Ineligible to receive or not be offered a drug, biologic, or device.
+24 (13) "Terminal illness" means a disease that, without life-sustaining procedures, shall result
+25 in death in the near future or a state of permanent unconsciousness from which recovery is unlikely.
+26 23-106-2. Immunity.
+27 Notwithstanding any provision of law to the contrary, a manufacturer of a drug, biologic,
+28 or device, a pharmacist, a healthcare facility, a healthcare provider, or a person or entity involved
+29 in the care of a patient using a drug, biologic, or device is immune from suit for any harm done to
+30 a patient resulting from the drug, biologic, or device if:
+31 (1) The person has a terminal illness as determined by the person's physician and a
+32 consulting physician;
+33 (2) The person's physician has determined that the person has no comparable or satisfactory
+34 United States Food and Drug Administration (FDA) approved treatment options available to treat
+LC006089 - Page 3 of 7
+
+1 the disease or condition involved;
+2 (3) The patient has provided written informed consent for the use of the drug, biologic, or
+3 device or, if the patient is a minor or lacks the mental capacity to provide informed consent, a parent
+4 or legal guardian has provided written informed consent on the patient's behalf and, if the patient
+5 is a legal adult, the consent is not contrary to the prior documented directions or directives of the
+6 patient;
+7 (4) The manufacturer, pharmacist, facility, provider, or other person or entity has not
+8 engaged in willful misconduct or other bad faith conduct. For purpose of this subsection, “willful
+9 misconduct" means any conduct intended to hasten the death of the patient or conducted in bad
+10 faith or knowingly conducted as not in the best interest of this patient; and
+11 (5) If the drug, biologic, or device consists of an individualized investigational treatment,
+12 it is administered by a healthcare provider in cooperation with an eligible facility.
+13 23-106-3. Private cause of action.
+14 (a) Nothing in this chapter shall be construed to create a private cause of action against any
+15 person or entity except as specified in subsection (b) of this section.
+16 (b) Notwithstanding any provision of law to the contrary, any patient diagnosed by a
+17 physician with a terminal illness, and who has been treated, is being treated, or otherwise could be
+18 treated in this state with a drug, biologic, or device, and is affected by a violation of this chapter,
+19 or a healthcare facility or a healthcare provider involved in the treatment of the patient, shall be
+20 entitled to petition the superior court for injunctive relief and reasonable attorneys' fees against any
+21 regulatory or law enforcement authority that violates this chapter.
+22 23-106-4. Use of innovative medical devices for diagnostic purposes.
+23 (a) Notwithstanding any provision of law to the contrary, an eligible patient, as defined in
+24 § 23-106-1, may access and use an innovative medical device for diagnostic purposes, in addition
+25 to treatment; provided that:
+26 (1) The physician providing access to the innovative medical device for diagnostic
+27 purposes deems the medical device useful for data collection and diagnostic purposes;
+28 (2) The patient's physician has determined that the use of the device is necessary to
+29 diagnose, monitor, or characterize the patient's medically threatening disease or condition;
+30 (3) The patient has provided written informed consent for the use of the device for
+31 diagnostic purposes, or, if the patient is a minor or lacks the mental capacity to provide informed
+32 consent, a parent or legal guardian has provided written informed consent on the patient's behalf;
+33 (4) The physician providing access to the innovative medical device for diagnostic
+34 purposes shall not be compensated directly by the manufacturer for such access; and
+LC006089 - Page 4 of 7
+
+1 (5) The use of the device is conducted in accordance with all applicable federal and state
+2 laws and regulations.
+3 (b) The provisions of this chapter regarding liability, telehealth prescreening, and remote
+4 signing shall apply equally to the use of innovative medical devices for diagnostic purposes.
+5 23-106-5. Telehealth prescreening.
+6 (a) Notwithstanding any regulation or provision of law to the contrary, any healthcare
+7 provider, while physically located in the state, may conduct a telehealth prescreening with any
+8 patient, in any state or jurisdiction, who has been diagnosed by a physician with a terminal illness,
+9 a medically threatening disease or conditions or a serious or potentially life-threatening disease or
+10 condition.
+11 (b) No regulatory or law enforcement agency or state subdivision shall take action against
+12 a healthcare facility, a healthcare provider, or a person or entity involved in the care of a patient for
+13 conducting a telehealth prescreening as defined in § 23-106-1 and pursuant to subsection (a) of this
+14 section.
+15 (c) A healthcare facility, a healthcare provider, or a person or entity involved in the care of
+16 a patient shall be immune from suit to the extent that the suit is based upon a telehealth
+17 prescreening.
+18 23-106-6. Remote signing.
+19 (a) Notwithstanding any regulation or provision of law to the contrary, a manufacturer of
+20 a drug, biologic, or device, a pharmacist, a healthcare facility, a healthcare provider, or a person or
+21 entity involved in the care of a patient using a drug, biologic, or device may obtain consent to treat
+22 a patient using remote signing as defined in § 23-106-1; provided that, the manufacturer,
+23 pharmacist, facility, provider, or other person or entity has an office in the state and has conducted
+24 a telehealth prescreening pursuant to § 23-106-5.
+25 (b) The remote signing shall amount to full and effective consent for treatment under all
+26 applicable laws and regulations.
+27 (c) No regulatory or law enforcement agency or state subdivision shall take action against
+28 a healthcare facility, a healthcare provider, or a person or entity involved in the care of a patient for
+29 obtaining patient consent through remote signing, as defined in § 23-106-1, if the provider or
+30 facility has complied with subsection (a) of this section.
+31 (d) A healthcare facility, a healthcare provider, or a person or entity involved in the care of
+32 a patient shall be immune from suit to the extent that the suit challenges the validity of a remote
+33 signing to effect lawful consent; provided that, the person or entity is complying in good faith with
+34 the terms of this chapter and has not engaged in willful misconduct.
+LC006089 - Page 5 of 7
+
+1 23-106-7. Rules and regulations.
+2 The director of the department of health shall promulgate rules and regulations to
+3 implement, enforce and carry out the purpose of this chapter.
+4 SECTION 3. This act shall take effect on January 1, 2027.
+========
+LC006089
+========
+LC006089 - Page 6 of 7
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- TERMINAL PATIENTS' RIGHT TO TRY ACT
+***
+1 This act would establish the terminally ill patients' right to try act. The act would expand
+2 upon federal law by streamlining access to innovative treatments, allowing for telehealth and
+3 remote signing of documents, use of innovative medical devices for diagnostic purposes and
+4 providing immunity to healthcare providers.
+5 This act would take effect on January 1, 2027.
+========
+LC006089
+========
+LC006089 - Page 7 of 7

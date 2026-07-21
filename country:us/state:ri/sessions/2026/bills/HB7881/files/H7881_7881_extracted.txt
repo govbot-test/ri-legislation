@@ -1,0 +1,199 @@
+Title: 
+Official Title: 
+Source: versions - 7881
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7881
+========
+LC005488
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- DUTIES OF UTILITIES AND
+CARRIERS
+Introduced By: Representatives Handy, Potter, Ajello, McGaw, Boylan, Read, Giraldo,
+Dawson, McNamara, and Cotter
+Date Introduced: February 27, 2026
+Referred To: House Corporations
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Chapter 39-2 of the General Laws entitled "Duties of Utilities and Carriers"
+2 is hereby amended by adding thereto the following section:
+3 39-2-1.5. Utility base rate -- Prohibitions on advertising, political, charitable, and
+4 investor-related expenses.
+5 (a) In addition to costs prohibited in §§ 39-1-27.4(b) and 39-2-1.2, no public utility serving
+6 greater than one hundred thousand (100,000) customers distributing or providing heat, electricity,
+7 natural gas, or water to or for the public shall recover through rates any direct or indirect cost
+8 associated with:
+9 (1) Advertising, marketing, communications, or public education that seek to influence
+10 public opinion, including any costs associated with activities such as research, analysis, preparation
+11 or planning undertaken in support of advertising, marketing, communications, or public education,
+12 or any other related costs identified by the commission, unless such marketing, advertising,
+13 communications or related costs are specifically approved or ordered by the commission;
+14 (2) Membership dues, sponsorships or contributions to a business or industry trade
+15 association, group or related entity incorporated under Section 501 of the Internal Revenue Code
+16 of 1986, as amended;
+17 (3) Charitable giving expenses, including contributions to organizations qualified under
+18 section 501(c)(3) or 501(c)(4) of the Internal Revenue Code of 1986, as amended;
+
+1 (4) Lobbying as defined in § 42-139.1-3;
+2 (5) Contributions to political candidates, campaign committees, issue committees, or
+3 independent expenditure committees or similar political expenses; and
+4 (6)(i) Travel, lodging or food and beverage expenses for such company’s board of directors
+5 and officers or the board of directors and officers of such company’s parent company;
+6 (ii) Entertainment or gifts;
+7 (iii) Any owned, leased or chartered aircraft for such company’s board of directors and
+8 officers or the board of directors and officers of such company’s parent company; or
+9 (iv) Investor relations.
+10 (b) For any rate proceeding or infrastructure, safety and reliability proceeding, as described
+11 in § 39-1-27.7.1(d), initiated on or after July 1, 2026, an electric distribution company, gas
+12 company, pipeline company, or water company with more than one hundred thousand (100,000)
+13 customers shall not recover through rates its direct or indirect costs associated with its attendance
+14 in, participation in, preparation for, or appeal of such rate proceeding. Such costs shall include, but
+15 need not be limited to, attorneys’ fees, fees to engage expert witnesses or consultants, the portion
+16 of employee salaries associated with such attendance, participation, preparation or appeal of a
+17 contested proceeding and related costs identified by the commission.
+18 (c) The commission may initiate rulemaking to implement the requirements of this chapter.
+19 SECTION 2. Section 39-1-27.7.1 of the General Laws in Chapter 39-1 entitled "Public
+20 Utilities Commission" is hereby amended to read as follows:
+21 39-1-27.7.1. Revenue decoupling.
+22 (a) The general assembly finds and declares that electricity and gas revenues shall be fully
+23 decoupled from sales pursuant to the provisions of this chapter and further finds and declares that
+24 any decoupling proposal submitted by an electric distribution company as defined in § 39-1-
+25 2(a)(12) or gas distribution company included as a public utility in § 39-1-2(a)(20) that has greater
+26 than one hundred thousand (100,000) customers, shall be for the following purposes:
+27 (1) Increasing efficiency in the operations and management of the electric and gas
+28 distribution system;
+29 (2) Achieving the goals established in the electric distribution company’s plan for system
+30 reliability and energy efficiency and conservation procurement as required pursuant to § 39-1-
+31 27.7(d);
+32 (3) Increasing investment in least-cost resources that will reduce long-term electricity
+33 demand;
+34 (4) Reducing risks for both customers and the distribution company including, but not
+LC005488 - Page 2 of 6
+
+1 limited to, societal risks, weather risks, and economic risks;
+2 (5) Increasing investment in end-use energy efficiency;
+3 (6) Eliminating disincentives to support energy-efficiency programs;
+4 (7) Facilitating and encouraging investment in utility infrastructure, safety, and reliability;
+5 and
+6 (8) Considering the reduction of fixed, recurring customer charges and transition to
+7 increased unit charges that more accurately reflect the long-term costs of energy production and
+8 delivery.
+9 (b) Each electric distribution company as defined by § 39-1-2(a)(12) and gas distribution
+10 company included as a public utility in § 39-1-2(a)(20) having greater than one hundred thousand
+11 (100,000) customers shall file proposals at the commission to implement the policy set forth in
+12 subsection (a) of this section. The commission shall approve these proposals, provided they contain
+13 the features and components set forth in subsection (c) of this section, and that they are consistent
+14 with the intent and objectives contained in subsection (a) of this section. Actions taken by the
+15 commission in the exercise of its ratemaking authority for electric and gas rate cases shall be within
+16 the norm of industry standards and recognize the need to maintain the financial health of the
+17 distribution company as a stand-alone entity in Rhode Island.
+18 (c) The proposals shall contain the following features and components:
+19 (1) A revenue decoupling reconciliation mechanism that reconciles annually the revenue
+20 requirement allowed in the company’s base distribution-rate case to revenues actually received for
+21 the applicable twelve-month (12) period. Any revenues over-recovered or under-recovered shall be
+22 credited to, or recovered from, customers, as applicable; and
+23 (2) An annual infrastructure, safety, and reliability spending plan for each fiscal year and
+24 an annual rate-reconciliation mechanism that includes a reconcilable allowance for the anticipated
+25 capital investments and other spending pursuant to the annual pre-approved budget as developed
+26 in accordance with subsection (d) of this section.; and
+27 (3) For any infrastructure, safety and reliability proceeding, as described in subsection (d)
+28 of this section, initiated on or after July 1, 2026, electric distribution companies and gas companies
+29 with more than one hundred thousand (100,000) customers shall not increase their annual budgets
+30 for infrastructure, safety, and reliability plans by more than three percent (3%) over the average of
+31 the approved "total capital spending" budgets for the previous five (5) years. Spending on specific
+32 capital investment projects approved by the commission outside of the infrastructure, safety and
+33 reliability plan may be excluded from the annual budget limit, subject to commission discretion.
+34 (d) Prior to the beginning of each fiscal year, gas and electric distribution companies shall
+LC005488 - Page 3 of 6
+
+1 consult with the division of public utilities and carriers regarding their infrastructure, safety, and
+2 reliability spending plan for the following fiscal year, addressing the following categories:
+3 (1) Capital spending on utility infrastructure;
+4 (2) For electric distribution companies, operation and maintenance expenses on vegetation
+5 management;
+6 (3) For electric distribution companies, operation and maintenance expenses on system
+7 inspection, including expenses from expected resulting repairs; and
+8 (4) Any other costs relating to maintaining safety and reliability that are mutually agreed
+9 upon by the division and the company.
+10 The distribution company shall submit a plan to the division and the division shall
+11 cooperate in good faith to reach an agreement on a proposed plan for these categories of costs for
+12 the prospective fiscal year within sixty (60) days. To the extent that the company and the division
+13 mutually agree on a plan, such plan shall be filed with the commission for review and approval
+14 within ninety (90) days. If the company and the division cannot agree on a plan, the company shall
+15 file a proposed plan with the commission and the commission shall review and, if the investments
+16 and spending are found to be reasonably needed to maintain safe and reliable distribution service
+17 over the short and long term, approve the plan within ninety (90) days.
+18 (e) The commission shall have the following duties and powers, in addition to its existing
+19 authorities established in this title:
+20 (1) To maintain reasonable and adequate service-quality standards, after decoupling, that
+21 are in effect at the time of the proposal and were established pursuant to § 39-3-7.
+22 (2) The commission may exclude the low-income rate class from the revenue decoupling
+23 reconciliation-rate mechanism for either electric or gas distribution. The commission also may
+24 exclude customers in the large commercial and industrial rate class from the gas-distribution
+25 mechanism.
+26 (3) The commission may adopt performance incentives for the electric distribution
+27 company that provide a shared-savings mechanism whereby the company would receive a
+28 percentage of savings realized as a result of achieving the purposes of this section while the
+29 remaining savings are credited to customers.
+30 (4) The commission shall review and approve, with any necessary amendments,
+31 performance-based, energy-savings targets developed and submitted by the Rhode Island energy
+32 efficiency and resources management council. The performance-based targets shall also be used as
+33 a consideration in any shared-savings mechanism established by the commission pursuant to
+34 subsection (e)(3) of this section.
+LC005488 - Page 4 of 6
+
+1 (f) The Rhode Island energy efficiency and resources management council shall propose
+2 performance-based, energy-savings targets to the commission no later than September 1, 2010. The
+3 targets shall include, but not be limited to, specific energy kilowatt-hour savings overall and peak-
+4 demand savings for both summer and winter peak periods expressed in total megawatts as well as
+5 appropriate targets recommended in the opportunities report filed with the commission pursuant to
+6 § 39-1-27.7(d)(3). The council shall revise, as necessary, these targets on an annual basis prior to
+7 the reconciliation process established pursuant to subsection (c) of this section and submit its
+8 revisions to the commission for approval.
+9 (g) Reporting. Every electric distribution company, as defined in subsection (a) of this
+10 section, shall report to the governor, general assembly, division of public utilities and carriers, and
+11 public utilities commission on or before September 1, 2012. The report shall include, but not be
+12 limited to, the following elements:
+13 (1) A comparison of revenues from traditional rate regulation and how the revenues have
+14 differed as part of an approved decoupling structure;
+15 (2) A summary of how the company is achieving the performance-based targets that may
+16 have been adopted pursuant to subsection (e)(4) of this section;
+17 (3) A summary of any shared savings the company may have received pursuant to the
+18 performance incentives authorized in subsection (e)(3) of this section;
+19 (4) A summary of how the company is achieving the service-quality standards required in
+20 subsection (e)(1) of this section;
+21 (5) An overview of how decoupling is impacting revenue stabilization goals that have
+22 resulted from decoupling; and
+23 (6) A summary of any customer education programs provided.
+24 SECTION 3. This act shall take effect upon passage.
+========
+LC005488
+========
+LC005488 - Page 5 of 6
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PUBLIC UTILITIES AND CARRIERS -- DUTIES OF UTILITIES AND
+CARRIERS
+***
+1 This act would prohibit public utilities, serving greater than one hundred thousand
+2 (100,000) customers from recovering through rates any direct or indirect cost associated with,
+3 amongst other costs, advertising, marketing, communications, or public education that seek to
+4 influence public opinion, including any costs associated with activities such as research, analysis,
+5 preparation or planning undertaken in support of advertising, marketing, communications, or public
+6 education, or any other related costs identified by the commission. The act would also place a three
+7 percent (3%) cap on increases to its total capital spending budget.
+8 This act would take effect upon passage.
+========
+LC005488
+========
+LC005488 - Page 6 of 6

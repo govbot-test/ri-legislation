@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - 8268
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 8268
+========
+LC006051
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE HEALTHCARE SERVICES
+FUNDING PLAN ACT
+Introduced By: Representatives Shallcross Smith, Casimiro, Giraldo, Fellela, Tanzi,
+Fogarty, Bennett, Ajello, Boylan, and Carson
+Date Introduced: March 11, 2026
+Referred To: House Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Section 42-7.4-3 of the General Laws in Chapter 42-7.4 entitled "The
+2 Healthcare Services Funding Plan Act" is hereby amended to read as follows:
+3 42-7.4-3. Imposition of healthcare services funding contribution.
+4 (a) Each insurer is required to pay the healthcare services funding contribution for each
+5 contribution enrollee of the insurer at the time the contribution is calculated and paid, at the rate set
+6 forth in this section.
+7 (1) Beginning January 1, 2016, the secretary shall set the healthcare services funding
+8 contribution each fiscal year in an amount equal to: (i) The child immunization funding requirement
+9 described in § 23-1-46; plus (ii) The adult immunization funding requirement described in § 23-1-
+10 46; plus (iii) The children’s health services funding requirement described in § 42-12-29; and all
+11 as divided by (iv) The number of contribution enrollees of all insurers.
+12 (2) The contribution set forth herein shall be in addition to any other fees or assessments
+13 upon the insurer allowable by law.
+14 (b) The contribution shall be paid by the insurer; provided, however, a person providing
+15 health benefits coverage on a self-insurance basis that uses the services of a third-party
+16 administrator shall not be required to make a contribution for a contribution enrollee where the
+17 contribution on that enrollee has been or will be made by the third-party administrator.
+18 (c) Beginning calendar year 2026, in addition to the assessment collection pursuant to
+
+1 subsection (a), there shall be an additional amount assessed pursuant to (i) and (ii), to support
+2 primary care and other critical healthcare programs, including both the MomsPRN and PediPRN
+3 teleconsultation lines, as described in § 23-1-46.1, totaling thirty million dollars ($30,000,000),
+4 which shall be deposited as general revenues.
+5 SECTION 2. Section 23-1-46.1 of the General Laws in Chapter 23-1 entitled "Department
+6 of Health" is hereby amended to read as follows:
+7 23-1-46.1. Psychiatry resource network account Psychiatry resource network
+8 programs. [See Compiler’s Note.]
+9 (a) There is created within the general fund a restricted receipt account to be known as the
+10 “PRN account.” All money in the account shall be utilized by the The department of health shall
+11 manage any and all funds available to effectuate coverage for the following services: Existing
+12 Rhode Island lines including the PediPRN and MomsPRN teleconsultation information lines
+13 together with any additional information line, referral service, or hotline which is are available to
+14 support pediatric, primary care, perinatal, and other service providers or residents in the state in
+15 providing appropriate and timely mental healthcare and referrals to children, perinatal patients, and
+16 mothers with mental health concerns., and which is funded pursuant to regulation adopted by the
+17 director of the department of health. Amounts collected pursuant to § 42-7.4-3(a)(1)(iv) shall be
+18 deposited in the “PRN account.” The funds shall be used solely for the purposes of the “PRN
+19 account,” and no other.
+20 (b) Each year’s psychiatry resource network funding requirement in § 42-7.4-3(a)(1)(iv)
+21 shall be the amount:
+22 (1) Projected by the department of health for the services in subsection (a) of this section;
+23 plus
+24 (2) A ten percent (10%) contingency for unexpected expenses; and after
+25 (3) Deduction for any projected carryover of excess funds from prior assessments.
+26 (c) The department of health shall submit to the general assembly an annual report on the
+27 program and costs related to the program, on or before February 1 of each year. The department
+28 shall make available to each insurer required to make a contribution pursuant to § 42-7.4-3, upon
+29 its request, detailed information regarding the programs described in subsection (a) of this section
+30 and the costs related to those programs.
+31 (d)(b) The “PRN account program” shall be exempt from the indirect costs recovery
+32 provisions of § 35-4-27.
+33 SECTION 3. Chapter 23-13 of the General Laws entitled "Maternal and Child Health
+34 Services for Children with Special Health Care Needs" is hereby amended by adding thereto the
+LC006051 - Page 2 of 4
+
+1 following section:
+2 23-13-27. Psychiatry resource network programs.
+3 (a) Subject to appropriation, with sources including, but not limited to, § 42-7.4-3, the
+4 department shall operate statewide the psychiatry resource network programs: PediPRN and
+5 MomsPRN. These statewide psychiatry resource network programs expand Rhode Island's
+6 behavioral health and substance use capacity by providing workforce development and psychiatric
+7 consultation to primary and specialty care providers, including community-based health
+8 professionals.
+9 (b) The “PRN program” shall be exempt from the indirect costs recovery provisions of §
+10 35-4-27.
+11 SECTION 4. This act shall take effect upon passage.
+========
+LC006051
+========
+LC006051 - Page 3 of 4
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO STATE AFFAIRS AND GOVERNMENT -- THE HEALTHCARE SERVICES
+FUNDING PLAN ACT
+***
+1 This act would include both the MomsPRN and PediPRN teleconsultation lines in the
+2 healthcare services funding contributions payable by health insurers.
+3 This act would take effect upon passage.
+========
+LC006051
+========
+LC006051 - Page 4 of 4

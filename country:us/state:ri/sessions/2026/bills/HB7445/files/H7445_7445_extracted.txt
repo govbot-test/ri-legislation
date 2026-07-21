@@ -1,0 +1,164 @@
+Title: 
+Official Title: 
+Source: versions - 7445
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- H 7445
+========
+LC004245
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO PROPERTY -- FAITH-BASED AFFORDABLE HOUSING DEVELOPMENT
+ACT
+Introduced By: Representatives Speakman, Potter, Morales, Hull, Giraldo, Ajello,
+Fogarty, Kislak, Corvese, and Alzate
+Date Introduced: January 30, 2026
+Referred To: House Municipal Government & Housing
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The General Assembly finds and declares:
+3 (1) That the State of Rhode Island is experiencing a shortage of housing that threatens
+4 affordability, economic stability, and community well-being. The general assembly further finds
+5 that faith-based organizations often own or control underutilized land that may be suitable for
+6 residential development.
+7 (2) Therefore, it is the policy of the State of Rhode Island to authorize faith-based
+8 organizations to develop affordable housing as a use-by-right on property that faith-based
+9 organizations own or control.
+10 (3) Chapter 51 of title 34 is intended to increase housing access, reduce unnecessary
+11 regulatory barriers, and encourage mixed-use, community-focused development. Project approvals
+12 shall be based on objective and transparent standards to ensure operational flexibility for faith-
+13 based organizations while remaining responsive to local housing needs.
+14 SECTION 2. Title 34 of the General Laws entitled "PROPERTY" is hereby amended by
+15 adding thereto the following chapter:
+16 CHAPTER 51
+17 FAITH-BASED AFFORDABLE HOUSING DEVELOPMENT ACT
+18 34-51-1. Title.
+
+1 This chapter shall be known and may be cited as the "Faith-based Affordable Housing
+2 Development Act."
+3 34-51-2. Definitions.
+4 For the purposes of this chapter, the following words and terms shall have the following
+5 meanings:
+6 (1) “Active ground floor” means a portion of the ground floor dedicated to public-facing
+7 or commercial uses, including retail, restaurants, community centers, or similar uses.
+8 (2) “Affordable housing” means housing units restricted to households earning no more
+9 than eighty percent (80%) of the area median income, as determined by the United States
+10 Department of Housing and Urban Development (HUD), with affordability restrictions maintained
+11 for a period consistent with state low-income housing tax credit eligibility requirements.
+12 (3) “Ancillary uses” means uses that support and complement the mission of a faith-based
+13 organization, including child care, social services, educational uses, and small-scale commercial
+14 uses not exceeding three thousand square feet (3,000 ft2) per establishment.
+15 (4) “Development site” means land owned, leased, or otherwise controlled by a faith-based
+16 organization and eligible for residential, commercial, or mixed-use development, excluding light
+17 and heavy industrial zones unless residential uses are expressly permitted.
+18 (5) “Faith-based organization” means a religious institution, including churches, temples,
+19 mosques, synagogues, and religious higher education institutions, that owns or leases the
+20 development site.
+21 (6) “Housing unit” means a self-contained residential dwelling unit designed for occupancy
+22 by one household.
+23 (7) “Ministerial review” means a non-discretionary approval process based solely on
+24 objective standards without public hearings or subjective judgment.
+25 (8) “Mixed-use development” means a development containing both residential uses and
+26 ancillary uses.
+27 (9) “Net habitable square feet” means finished, heated, and enclosed floor area, excluding
+28 parking, garages, and unfinished spaces.
+29 (10) “Project” means development, construction, or renovation undertaken by a faith-based
+30 organization on a development site.
+31 (11) “Public benefit incentive” means additional development allowances granted in
+32 exchange for providing affordable housing, community services, or environmental preservation.
+33 (12) “Serviced lot” means a parcel connected to municipal water and sewer systems.
+34 (13) “Steep slope” means land with a rise of ten feet (10') over twenty-five feet (25') or a
+LC004245 - Page 2 of 5
+
+1 slope of forty percent (40%) or greater.
+2 34-51-3. Project eligibility.
+3 (a) Projects shall be owned or controlled by a faith-based organization through fee
+4 ownership or a lease of not less than fifty-five (55) years.
+5 (b) Development sites shall be located in zones permitting residential, commercial,
+6 institutional, civic, single-family, duplex, or multifamily uses.
+7 (c) Industrial zones are excluded unless residential uses are expressly permitted.
+8 (d) Mixed-use developments shall dedicate at least sixty percent (60%) of net habitable
+9 square feet to residential use.
+10 (e) Projects shall comply with applicable building, fire, health, life safety codes, and the
+11 federal Fair Housing Act, 42 U.S.C. 3601 et seq.
+12 34-51-4. State preemption.
+13 (a) This chapter shall preempt any local ordinance or regulation that conflicts with its
+14 provisions.
+15 (b) Municipalities shall not impose discretionary review, special permits, additional fees,
+16 or conditions beyond those applicable to comparable by-right developments.
+17 (c) Targeted regulations singling out faith-based organization projects are prohibited and
+18 void.
+19 34-51-5. Affordable housing standards.
+20 (a) Municipalities may adopt generally applicable affordability ordinances consistent with
+21 this chapter.
+22 (b) Affordability requirements shall not exceed state low-income housing tax credit
+23 affordability periods and shall rely on HUD income limits and rent schedules.
+24 34-51-6. Base development incentives.
+25 (a) Projects shall be permitted a base density of thirty (30) dwelling units per acre.
+26 (b) Where greater density or height is allowed on the site or adjoining sites, the project
+27 shall be entitled to the greater allowance.
+28 (c) Projects may exceed existing height limits by one story or fifteen feet (15'), with a base
+29 floor area ratio (“FAR”) of 2:1.
+30 (d) No minimum parking requirements shall apply to residential or ancillary uses.
+31 34-51-7. Bonus incentives.
+32 (a) Active ground floor ancillary uses qualify for an additional FAR bonus of 0.5.
+33 (b) Projects with forty percent (40%) or more two (2) bedroom units qualify for increased
+34 density up to fifty (50) units per acre and additional height bonuses.
+LC004245 - Page 3 of 5
+
+1 (c) Preservation of mature trees qualifies for height bonuses.
+2 (d) Maximum FAR under incentives shall be 3:1 and maximum height forty-five feet (45'),
+3 unless underlying zoning allows more.
+4 34-51-8. Development standards.
+5 (a) Existing setback requirements shall apply unless waived.
+6 (b) Municipalities shall not impose minimum unit sizes, lot coverage limits, or mandatory
+7 open space requirements.
+8 34-51-9. Review and approval.
+9 (a) Eligible projects shall be approved through ministerial review.
+10 (b) Decisions shall be issued within fifteen (15) days of a complete application.
+11 (c) Permitting and inspections shall be conducted concurrently, with final approvals issued
+12 within sixty (60) business days.
+13 34-51-10. Environmental and safety requirements.
+14 (a) Floodplain projects shall comply with Federal Emergency Management Agency
+15 (FEMA) and state flood standards.
+16 (b) Projects on steep slopes shall submit geotechnical analyses and mitigation measures.
+17 34-51-11. Exemptions.
+18 (a) Sites within one thousand six hundred feet (1,600') of industrial uses within the meaning
+19 of Title V of the federal Clean Air Act, 42 U.S.C. §§ 7661-7661f, implemented pursuant to 40 CFR
+20 Part 70 shall be excluded.
+21 (b) Environmentally protected lands and wetlands are exempt.
+22 (c) Additional setbacks may be required near critical infrastructure.
+23 34-51-12. Enforcement and oversight.
+24 The Rhode Island housing and mortgage finance corporation shall monitor compliance and
+25 may refer violations to the attorney general for enforcement.
+26 34-51-13. Severability.
+27 If any provision of this chapter is held invalid, the remaining provisions shall remain in
+28 effect.
+29 SECTION 3. This act shall take effect upon passage.
+========
+LC004245
+========
+LC004245 - Page 4 of 5
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO PROPERTY -- FAITH-BASED AFFORDABLE HOUSING DEVELOPMENT
+ACT
+***
+1 This act would allow faith-based organizations to develop affordable and mixed-use
+2 housing on land they own as a by-right use, set statewide development standards, limit local
+3 barriers, and streamline approvals to expand housing supply.
+4 This act would take effect upon passage.
+========
+LC004245
+========
+LC004245 - Page 5 of 5

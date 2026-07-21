@@ -1,0 +1,374 @@
+Title: 
+Official Title: 
+Source: versions - 2799
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 2799
+========
+LC004958
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO HEALTH AND SAFETY -- CONSUMER PFAS BAN ACT OF 2024
+Introduced By: Senators Felag, Burke, Tikoian, DiPalma, Lauria, LaMountain, and
+Ciccone
+Date Introduced: March 04, 2026
+Referred To: Senate Environment & Agriculture
+(Dept. of Environmental Management)
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Sections 23-18.18-3, 23-18.18-4, 23-18.18-5 and 23-18.18-7 of the General
+2 Laws in Chapter 23-18.18 entitled "Consumer PFAS Ban Act of 2024" are hereby amended to read
+3 as follows:
+4 23-18.18-3. Definitions.
+5 As used in this chapter:
+6 (1) “Adult mattress” means a mattress other than a crib mattress or toddler mattress.
+7 (2) “Apparel” means any of the following:
+8 (i) Clothing items intended for regular wear or formal occasions, including, but not limited
+9 to: undergarments, shirts, pants, skirts, dresses, overalls, bodysuits, costumes, vests, dancewear,
+10 suits, saris, scarves, tops, leggings, school uniforms, leisurewear, athletic wear, sports uniforms,
+11 everyday swimwear, formal wear, onesies, bibs, diapers, footwear, and everyday uniforms for
+12 workwear. Clothing items intended for regular wear or formal occasions does not include personal
+13 protective equipment or clothing items for exclusive use by the United States military; and
+14 (ii) Outdoor apparel.
+15 (3) “Artificial turf” means a man-made material that simulates the appearance of live turf,
+16 organic turf, grass, sod, or lawn.
+17 (4) “Carpet” or “rug” means a consumer product made from natural or synthetic fabric
+18 intended for use as a floor covering inside commercial or residential buildings. “Carpet or rug”
+19 does not include:
+
+1 (i) A carpet or rug intended solely for outdoor use;
+2 (ii) A carpet or rug intended solely for use inside an aircraft, train, watercraft, automobile,
+3 light duty truck, van, bus, or any other vehicle and any aftermarket or replacement part marketed
+4 solely for use in a vehicle;
+5 (iii) A resilient floor covering;
+6 (iv) Artificial turf;
+7 (v) A wall hanging or covering;
+8 (vi) A table mat; or
+9 (vii) A camping sleeping mat.
+10 (5) “Cookware” means durable cookware items that are used in homes and restaurants to
+11 prepare, dispense, or store food, foodstuffs, or beverages. “Cookware” includes, but is not limited
+12 to, pots, pans, skillets, grills, baking sheets, baking molds, trays, bowls, and cooking utensils.
+13 (6) “Cosmetic” means:
+14 (i) Articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or
+15 otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting
+16 attractiveness, or altering the appearance; and
+17 (ii) Articles intended for use as a component of any such article; except that such term shall
+18 not include soap.
+19 (7) “Covered product” means the following:
+20 (i) Artificial turf;
+21 (ii) Carpets or rugs;
+22 (iii) Cookware;
+23 (iv) Cosmetics;
+24 (v) Fabric treatments;
+25 (vi) Juvenile products;
+26 (vii) Menstrual products;
+27 (viii) Ski wax;
+28 (ix) Textile articles;
+29 (x) Firefighting personal protective equipment.
+30 (8) “Department” means the department of environmental management.
+31 (9) “Director” means the director of the department of environmental management.
+32 (10) “Fabric treatment” means a substance applied to fabric to give the fabric one or more
+33 characteristics, including, but not limited to, stain resistance or water resistance.
+34 (11) “Ingredient” has the same meaning as defined in 21 C.F.R. Part 700 § 700.3(e) and
+LC004958 - Page 2 of 11
+
+1 does not include any incidental ingredient as defined in 21 C.F.R. Part 701 § 701.3.
+2 (12) “Intentionally added PFAS” means PFAS added to a covered product or one of its
+3 product components to provide a specific characteristic, appearance, or quality or to perform a
+4 specific function. “Intentionally added PFAS” also includes any degradation byproducts of PFAS
+5 or PFAS that are intentional breakdown products of an added chemical. The use of PFAS as a
+6 processing agent, mold release agent, or intermediate is considered intentional introduction for the
+7 purposes of this chapter where PFAS is detected in the final covered product.
+8 (13) “Juvenile product” means a product designed for use by infants and children under
+9 twelve (12) years of age, including, but not limited to: a baby or toddler foam pillow, bassinet,
+10 bedside sleeper, booster seat, changing pad, child restraint system for use in motor vehicles and
+11 aircraft, co-sleeper, crib mattress, floor playmat, highchair, highchair pad, infant bouncer, infant
+12 carrier, infant seat, infant sleep positioner, infant swing, infant travel bed, infant walker, nap cot,
+13 nursing pad, nursing pillow, playmat, playpen, play yard, polyurethane foam mat, pad, or pillow,
+14 portable foam nap mat, portable infant sleeper, portable hook-on chair, soft-sided portable crib,
+15 stroller, and toddler mattress. “Juvenile product” shall not include any of the following:
+16 (i) A children’s electronic product, including, but not limited to: a personal computer, audio
+17 and video equipment, calculator, wireless phone, game console, handheld device incorporating a
+18 video screen, or any associated peripheral such as a mouse, keyboard, power supply unit, power
+19 cord, film, camera, audio, visual, or imaging equipment or sensors;
+20 (ii) A medical device;
+21 (iii) An adult mattress; or
+22 (iv) Children’s electronic products containing integrated circuits, semiconductor package,
+23 or device that contains a semiconductor chip.
+24 (14) “Manufacturer” means the person that manufactures a product or whose brand name
+25 is affixed to the product. In the case of a product imported into the United States, “manufacturer”
+26 includes the importer or first domestic distributor of the product if the person that manufactured or
+27 assembled the product or whose brand name is affixed to the product does not have a presence in
+28 the United States.
+29 (15) “Medical device” has the same meaning as the term “device” as defined in 21 U.S.C.
+30 § 321(h).
+31 (16) “Menstrual product” means a product used to collect menstruation and vaginal
+32 discharge, including, but not limited to: tampons, pads, sponges, menstruation underwear, disks,
+33 applicators, and menstrual cups, whether disposable or reusable.
+34 (17) “Outdoor apparel” means clothing items intended primarily for outdoor activities,
+LC004958 - Page 3 of 11
+
+1 including, but not limited to: hiking, camping, skiing, climbing, bicycling, and fishing.
+2 (18) “Outdoor apparel for severe wet conditions” means apparel that are extreme and
+3 extended use products designed for outdoor sports experts for applications that provide protection
+4 against extended exposure to extreme rain conditions or against extended immersion in water or
+5 wet conditions, such as from snow, in order to protect the health and safety of the user and that are
+6 not marketed for general consumer use. Examples of extreme and extended use products include
+7 outerwear for offshore fishing, offshore sailing, whitewater kayaking, and mountaineering.
+8 (19) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” means substances that
+9 include any member of the class of fluorinated organic chemicals containing at least one fully
+10 fluorinated carbon atom.
+11 (20) “Personal protective equipment” means equipment worn to minimize exposure to
+12 hazards that cause serious workplace injuries and illnesses that may result from contact with
+13 chemical, radiological, physical, biological, electrical, mechanical, or other workplace or
+14 professional hazards.
+15 (21) “Product” means an item manufactured, assembled, packaged, or otherwise prepared
+16 for sale to consumers, including its product components, sold or distributed for personal, or
+17 residential, commercial, or industrial use, including for use in making other products. “Product”
+18 does not mean used products offered for sale or resale.
+19 (22) “Product component” means an identifiable component of a product, regardless of
+20 whether the manufacturer of the product is the manufacturer of the component.
+21 (23) “Ski wax” means a lubricant applied to the bottom of snow runners, including, but not
+22 limited to, skis and snowboards to improve their grip or glide properties. “Ski wax” includes related
+23 tuning products.
+24 (24) “Textile” means any item made in whole or part from a natural, manmade, or synthetic
+25 fiber, yarn, or fabric, and includes, but is not limited to: leather, cotton, silk, jute, hemp, wool,
+26 viscose, nylon, or polyester. “Textile” does not include single-use paper hygiene products,
+27 including, but not limited to: toilet paper, paper towels or tissues, or single-use absorbent hygiene
+28 products.
+29 (25) “Textile articles” means textile goods of a type customarily and ordinarily used in
+30 households and businesses, and include, but are not limited to: apparel, accessories, handbags,
+31 backpacks, draperies, shower curtains, furnishings, upholstery, beddings, towels, napkins, and
+32 tablecloths. “Textile articles” does not include:
+33 (i) A carpet or rug;
+34 (ii) A treatment for use on covered textiles or leathers;
+LC004958 - Page 4 of 11
+
+1 (iii) A textile used in or designed for laboratory analysis and testing;
+2 (iv) A stadium shade or other architectural fabric structure; or
+3 (v) Filtration or separation media processing equipment and plumbing, or a filter product
+4 used in industrial applications, including but not limited to, chemical or pharmaceutical
+5 manufacturing and environmental control technologies.
+6 23-18.18-4. Prohibition on use of PFAS.
+7 (a) Except as provided otherwise in this section, on and after January 1, 2027, no person
+8 shall manufacture, sell, offer for sale, or distribute for sale in the state any covered product that
+9 contains intentionally added perfluoroalkyl and polyfluoroalkyl substances or PFAS.
+10 (b) Except as provided otherwise in this section, on and after January 1, 2029, no person
+11 shall manufacture, sell, offer for sale, or distribute for sale in the state:
+12 (1) Artificial turf containing intentionally added PFAS; or
+13 (2) Outdoor apparel for severe wet conditions containing intentionally added PFAS, unless
+14 it is accompanied by a legible, easily discernable disclosure that includes the following statement:
+15 “Made with PFAS chemicals.”
+16 (c) If the department has reason to believe that a covered product contains intentionally
+17 added PFAS and the covered product is being offered for sale in the state, the director may direct
+18 the manufacturer of the product to, within thirty (30) days:
+19 (1) Provide the director a certificate attesting that the covered product does not contain
+20 intentionally added PFAS; or
+21 (2) Notify persons who sell, offer for sale, or distribute for sale a covered product
+22 prohibited under subsection (a) of this section, that the sale of that covered product is prohibited in
+23 this state and provide the director with a list of the names and addresses of those notified.
+24 (d) The director may notify persons who sell or offer for sale a product prohibited under
+25 subsection (a) of this section, that the sale of that product is prohibited in this state.
+26 (e) This section shall not apply to the sale or resale of used products.
+27 (f) Notwithstanding any provision of this section, if a cosmetic product made through
+28 manufacturing processes intended to comply with this section contains an unavoidable trace
+29 quantity of PFAS that is attributable to impurities of natural or synthetic ingredients, the
+30 manufacturing process, storage or migration from packaging, or other such unintentional and
+31 unavoidable origin, such unavoidable trace quantity shall not cause the cosmetic product to be in
+32 violation of this section.
+33 (g) Notices from the director made pursuant to subsections (c) and (d) of this section shall
+34 be sent by certified mail.
+LC004958 - Page 5 of 11
+
+1 (h) The director may grant, with modifications or conditions, an exemption for a product
+2 or category of products if the director finds the following criteria are met:
+3 (1) Use of the product is beneficial to the environment or protective of public health or
+4 protective of public safety; and/or
+5 (2) There is no technically feasible alternative to the use of PFAS in the product; and
+6 (3) There is no comparable non-PFAS-added product available at reasonable cost.
+7 Prior to issuing an exemption, the director shall consult with neighboring states and
+8 regional organizations to promote consistency. The state shall avoid, to the extent feasible,
+9 inconsistencies in the implementation of this section. Upon reapplication by the manufacturer and
+10 findings by the director of continued eligibility under the criteria of this subsection and of
+11 compliance by the manufacturer with the conditions of the director’s original approval, an
+12 exemption may be renewed one or more times and each renewal may be for a period of no longer
+13 than five (5) years.
+14 23-18.18-5. Ban in firefighting foam.
+15 (a) For the purposes of this section, the following terms shall have the following meanings:
+16 (1) “Class B firefighting foam” means foams designed for flammable liquid fires.
+17 (2) "Department" means the department of environmental management.
+18 (2)(3) “Firefighting personal protective equipment” means any clothing designed,
+19 intended, or marketed to be worn by firefighting personnel in the performance of their duties,
+20 designed with the intent for the use in fire and rescue activities, including jackets, pants, shoes,
+21 gloves, helmets, and respiratory equipment.
+22 (3)(4) “Local government” means any county, city, town, fire district, regional fire
+23 protection authority, or other special purpose district that provides firefighting services.
+24 (4)(5) “Terminal” means an establishment primarily engaged in the wholesale distribution
+25 of crude petroleum and petroleum products, including liquefied petroleum gas from bulk liquid
+26 storage facilities.
+27 (b) Beginning January 1, 2025, a person, local government, or state agency state
+28 department, agency, commission, council, or instrumentality, including a quasi-public agency, may
+29 not discharge or otherwise use for training purposes class B firefighting foam that contains
+30 intentionally added PFAS chemicals.
+31 (c) Beginning January 1, 2025, a manufacturer of class B firefighting foam may not
+32 manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use or use in this
+33 state class B firefighting foam to which PFAS have been intentionally added.
+34 (d) The restrictions in subsections (b) and (c) of this section do not apply to any
+LC004958 - Page 6 of 11
+
+1 manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS
+2 chemicals are required by federal law, including, but not limited to, the requirements of 14 C.F.R.
+3 § 139.317, as that section existed as of January 1, 2022. In the event that applicable federal
+4 regulations change after January 1, 2022, to allow the use of alternative firefighting agents that do
+5 not contain PFAS chemicals, the restrictions set forth in subsection (b) of this section shall apply.
+6 (1) A person that uses class B firefighting foam containing PFAS chemicals pursuant to
+7 subsection (d) of this section shall report the use of the foam to the state fire marshal and the
+8 department within five (5) business days of the use, including the identity of the foam, the quantity
+9 used, the total PFAS concentration, the application for which the foam was used, and the duration
+10 of the fire.
+11 (2) A person that uses class B firefighting foam containing PFAS chemicals pursuant to
+12 subsection (d) of this section shall do all of the following:
+13 (i) Allow no release directly to the environment, such as to unsealed ground, soakage pits,
+14 waterways, or uncontrolled drains;
+15 (ii) Fully contain all releases onsite;
+16 (iii) Implement containment measures such as bunds and ponds that are controlled,
+17 impervious to PFAS, and do not allow firewater, wastewater, runoff, and other wastes to be released
+18 to the environment, such as to soils, groundwater, waterways, or stormwater;
+19 (iv) Dispose of all firewater, wastewater, runoff, and other wastes in a way that prevents
+20 releases to the environment;
+21 (v) If there is a release to the environment, report the identity of the foam, the quantity
+22 used, the total PFAS concentration, and the form of any waste that contains PFAS chemicals that
+23 is released into the environment to the state fire marshal and the department within five (5) business
+24 days of the release; and
+25 (vi) Document the measures undertaken pursuant to this subsection. In investigating
+26 compliance with this subsection, the department, the attorney general, a city attorney, or a city or
+27 town solicitor may request the documentation.
+28 (e) A person operating a terminal after January 1, 2025, and who seeks to purchase class B
+29 firefighting foam containing intentionally added PFAS for the purpose of fighting emergency class
+30 B fires, may apply to the department for a temporary exemption from the restrictions on the
+31 manufacture, sale, offer for sale, or distribution of class B firefighting foam for use at a terminal.
+32 An exemption shall not exceed one year. The department of environmental management, in
+33 consultation with the department of health, may grant an exemption under this subsection if the
+34 applicant provides:
+LC004958 - Page 7 of 11
+
+1 (1) Clear and convincing evidence that there is not a commercially available alternative
+2 that:
+3 (i) Does not contain intentionally added PFAS; and
+4 (ii) Is capable of suppressing a large atmospheric tank fire or emergency class B fire at the
+5 terminal;
+6 (2) Information on the amount of class B firefighting foam containing intentionally added
+7 PFAS that is annually stored, used, or released at the terminal;
+8 (3) A report on the progress being made by the applicant to transition at the terminal to
+9 class B firefighting foam that does not contain intentionally added PFAS; and
+10 (4) An explanation of how:
+11 (i) All releases of class B firefighting foam containing intentionally added PFAS shall be
+12 fully contained at the terminal; and
+13 (ii) Existing containment measures prevent firewater, wastewater, runoff, and other wastes
+14 from being released into the environment, including into soil, groundwater, waterways, and
+15 stormwater.
+16 (f) Nothing in this section shall prohibit a terminal from providing class B firefighting foam
+17 in the form of aid to another terminal in the event of a class B fire.
+18 (g) A manufacturer of class B firefighting foam restricted under subsection (c) of this
+19 section must notify, in writing, persons that sell the manufacturer’s products in this state about the
+20 provisions of this chapter no less than one year prior to the effective date of the restrictions.
+21 (h) A manufacturer that produces, sells, or distributes a class B firefighting foam prohibited
+22 under subsection (c) of this section shall recall the product and reimburse the retailer or any other
+23 purchaser for the product by March 1, 2025, and shall reimburse the retailer or any other purchaser
+24 for the product. A recall of the product shall include safe transport and storage and documentation
+25 of the amount and storage location of the PFAS-containing firefighting foam, until the department
+26 formally identifies a safe disposal technology. The manufacturer shall provide this documentation
+27 to the attorney general, or city or town solicitor upon request.
+28 (i) The department may request a certificate of compliance from a manufacturer of class B
+29 firefighting foam, or firefighting personal protective equipment sold in this state. A certificate of
+30 compliance attests that a manufacturer’s product or products meets the requirements of this chapter.
+31 If the department requests such a certificate, the manufacturer shall provide the certificate within
+32 thirty (30) calendar days after the request is made.
+33 (j) The department shall assist state agencies, fire protection districts, and other local
+34 governments to avoid purchasing or using class B firefighting foams to which PFAS chemicals
+LC004958 - Page 8 of 11
+
+1 have been intentionally added.
+2 (k) A manufacturer of class B firefighting foam in violation of this chapter is subject to a
+3 civil penalty not to exceed five thousand dollars ($5,000) for each violation in the case of a first
+4 offense. Manufacturers, local governments, or persons that are repeat violators are subject to a civil
+5 penalty not to exceed ten thousand dollars ($10,000) for each repeat offense.
+6 (l)(1) Beginning January 1, 2025, a manufacturer or other person that sells firefighting
+7 personal protective equipment to any person, local government, or state agency must provide
+8 written notice to the purchaser at the time of sale if the firefighting personal protective equipment
+9 contains any PFAS. The written notice must include a statement that the firefighting personal
+10 protective equipment contains PFAS chemicals and the reason PFAS chemicals are added to the
+11 equipment.
+12 (2) Beginning January 1, 2027, a manufacturer or other person that sells firefighting
+13 personal protective equipment to any person, local government, or state agency shall not
+14 manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in the state any
+15 firefighting personal protective equipment containing intentionally-added PFAS.
+16 (m) The department shall assist state agencies, fire protection districts, and other local
+17 governments to give priority and preference to the purchase of firefighting personal protective
+18 equipment that does not contain PFAS.
+19 (n) The manufacturer or person selling firefighting personal protective equipment and the
+20 purchaser of the equipment must retain the notice on file for at least three (3) years from the date
+21 of the transaction. Upon the request of the department, a person, manufacturer, or purchaser must
+22 furnish the notice, or written copies, and associated sales documentation to the department within
+23 sixty (60) days.
+24 23-18.18-7. Violations.
+25 (a) The director may obtain relief in equity or by prerogative writ whenever relief shall be
+26 necessary for the proper performance of the director's duties under this chapter. The superior court
+27 for Providence County shall have concurrent jurisdiction to enforce the provisions of this chapter
+28 and any rule, regulation, or order issued pursuant to this chapter. Proceedings for enforcement may
+29 be instituted and prosecuted in the name of the director, by either the director or by the attorney
+30 general, and in any proceeding in which the director or the attorney general seeks injunctive relief,
+31 it shall not be necessary to show that without this relief, the injury that will result will be irreparable,
+32 or that the remedy at law is inadequate. Proceedings provided for in this section shall be in addition
+33 to other administrative or judicial proceedings authorized by this chapter or pursuant to any other
+34 provision of the general laws or common law.
+LC004958 - Page 9 of 11
+
+1 (b) The director shall follow the procedures provided in § 42-17.1-2(21) in issuing any
+2 notice of violation or compliance order authorized pursuant to this chapter or any rules, regulations,
+3 or permits promulgated thereunder.
+4 (c) Effective January 1, 2027, a violation of any of the provisions of this law or any rule or
+5 regulation promulgated pursuant thereto shall be punishable, in the case of a first violation, by a
+6 civil penalty not to exceed one thousand dollars ($1,000). In the case of a second and any further
+7 violations, the liability shall be for a civil penalty not to exceed five thousand dollars ($5,000) for
+8 each violation.
+9 (d) A manufacturer of class B firefighting foam in violation of this chapter is subject to a
+10 civil penalty not to exceed five thousand dollars ($5,000) for each violation in the case of a first
+11 offense. Manufacturers, local governments, or persons that are repeat violators are subject to a civil
+12 penalty not to exceed ten thousand dollars ($10,000) for each repeat offense.
+13 SECTION 2. Chapter 23-18.18 of the General Laws entitled "Consumer PFAS Ban Act of
+14 2024" is hereby amended by adding thereto the following section:
+15 23-18.18-8. Interstate clearinghouse.
+16 The department may participate in the establishment and implementation of a
+17 multijurisdictional clearinghouse to assist in carrying out the requirements of this chapter. This
+18 includes, but is not limited to, the sharing of relevant information, maintenance of a database of all
+19 products containing intentionally added PFAS, and a file on exemptions or waivers granted by the
+20 participating jurisdictions.
+21 SECTION 3. This act shall take effect upon passage.
+========
+LC004958
+========
+LC004958 - Page 10 of 11
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO HEALTH AND SAFETY -- CONSUMER PFAS BAN ACT OF 2024
+***
+1 This act would amend the Consumer PFAS Ban Act of 2024 by clarifying enforcement
+2 provisions, providing the department of environmental management (DEM) with authority to join
+3 a multijurisdictional clearinghouse to assist in carrying out the requirements of the law, and
+4 providing DEM with the authority to exempt a product or category of products from the
+5 prohibitions in the law.
+6 This act would take effect upon passage.
+========
+LC004958
+========
+LC004958 - Page 11 of 11

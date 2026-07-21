@@ -1,0 +1,1053 @@
+Title: 
+Official Title: 
+Source: versions - 3182  SUB A
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 -- S 3182 SUBSTITUTE A
+========
+LC006272/SUB A
+========
+S T A T E O F R H O D E I S L A N D
+IN GENERAL ASSEMBLY
+JANUARY SESSION, A.D. 2026
+____________
+A N A C T
+RELATING TO AGRICULTURE AND FORESTRY -- FORESTRY AND FOREST PARITY
+ACT
+Introduced By: Senators Ciccone, Burke, Famiglietti, Raptakis, Tikoian, and Bissaillon
+Date Introduced: April 03, 2026
+Referred To: Senate Finance
+It is enacted by the General Assembly as follows:
+1 SECTION 1. Legislative findings.
+2 The general assembly finds and declares:
+3 (1) That maintaining forests is vital to maintain both biodiversity, and ecosystem services,
+4 including carbon sequestration in the state;
+5 (2) That forests are more likely to be maintained if they provide economic value;
+6 (3) That providing for the economic viability of the forest products industry is an interest
+7 of the state;
+8 (4) That forest conservation is given the same status as farm and open space conservation
+9 under chapter 27 of title 44 ("taxation of farm, forest, and open space land"); however, elsewhere
+10 in the general laws, forestry, and the production of forest products, are not given the same benefits,
+11 including protections from taxation, and protections as agriculture; and
+12 (5) That it is in the interest of the state, in order to protect economic viability of forests and
+13 to provide for their conservation for the future benefit and enjoyment of the people of the state.
+14 SECTION 2. Title 2 of the General Laws entitled "AGRICULTURE AND FORESTRY"
+15 is hereby amended by adding thereto the following chapter:
+16 CHAPTER 27.1
+17 FORESTRY AND FOREST PARITY ACT
+18 2-27.1-1. Short title.
+
+1 This chapter shall be known and may be cited as the "Forestry Parity Act."
+2 2-27.1-2. Purpose.
+3 It is the purpose of this chapter to provide parity of treatment, under the law, with farming
+4 and agriculture operations, to forestry and forest product operations.
+5 2-27.1-3. Definitions.
+6 When used in this chapter, the following words and phrases are construed as follows:
+7 (1) "Arboriculture" shall have the same meaning as defined in § 2-19-4.1(a)(1).
+8 (2) "Forest-based business" shall have the same meaning as defined in § 2-27-2.
+9 (3) "Forest land" shall have the same meaning as defined in § 2-27-2.
+10 (4) "Forest management" shall have the same meaning as defined in § 2-27-2.
+11 (5) "Forest product operations" means any and all trade occupations involving the
+12 harvesting, production, maintaining, and sale of forest products originating in the state, but not land
+13 clearing, including:
+14 (i) Arboriculture, logging, and silviculture; and
+15 (ii) Kiln drying, operations of firewood, saw milling, lumber, pallets, biochar, mulch,
+16 compost, biomass, wood chips, saw dust, timbers, posts, beams, shingles, and artisan tree carvings,
+17 seasonal greens and berries.
+18 (6) "Forest property owner" means a person who owns "forest land" or leases "forest land"
+19 for a period of five (5) years or more, which lease permits the conduct of some or all "forest product
+20 operations" on the "forest land".
+21 (7) "Land clearing" for purposes of this chapter only, means the uprooting or clearing of
+22 trees and vegetation in connection with construction of buildings; right-of-way maintenance;
+23 residential, commercial, institutional, or industrial development; mining activities; or the initial
+24 clearing of vegetation to enhance property value or change the property's zoned use or current use,
+25 but does not include routine maintenance or property clean-up activities.
+26 (8) "Person" shall have the same meaning as defined in § 43-3-6.
+27 (9) "Silviculture" means activity that is associated with the art and science of controlling
+28 the establishment, growth, composition, health, and quality of forests and woodlands to meet the
+29 diverse needs and values of landowners and society such as timber, water resources, restoration,
+30 wildlife habitat and recreation on a sustainable basis, and shall include arboriculture as defined in
+31 § 2-19-4.1(a)(1)
+32 2-27.1-4. Declaration of policies.
+33 The general assembly finds and declares that it is the policy of the state to promote an
+34 environment in which forest operations and forest-based businesses are safeguarded against
+LC006272/SUB A - Page 2 of 30
+
+1 nuisance actions arising out of conflicts between forestry operations and urban and suburban land
+2 uses, in a manner consistent with the provisions of chapter 23 of title 2 ("right to farm act"), and to
+3 protect forest landowners with forest management plans from state administrative actions and
+4 regulations above and beyond the restrictions on farms and agricultural operations on the same
+5 subject.
+6 2-27.1-5. Intentional and negligent actions.
+7 The provisions of this chapter do not apply to forestry operations conducted in a malicious
+8 or negligent manner, or to forestry operations conducted in violation of federal or state law.
+9 SECTION 3. Chapter 31-1 of the General Laws entitled "Definitions and General Code
+10 Provisions" is hereby amended by adding thereto the following section:
+11 31-1-8.1. Forestry vehicle.
+12 "Forestry vehicle" means every vehicle which is designed for and used for forest product
+13 operations purposes, as defined in § 2-27.1-3, and used by the owner of the vehicle or family
+14 member(s) or employee(s) or designees of the owner, in the conduct of the owner's forestry product
+15 operations, which use shall include the delivery of forest products produced by the forester but shall
+16 not include commercial hire for non-forestry product operation uses, including, but not limited to,
+17 hauling of sand and gravel, snow plowing, other than directly on the vehicle owner's forest land.
+18 For an owner to qualify as having forestry purposes, the owner shall provide evidence that the
+19 owner meets the requirements of § 44-18-30.
+20 SECTION 4. Section 42-64-5 of the General Laws in Chapter 42-64 entitled "Rhode Island
+21 Commerce Corporation" is hereby amended to read as follows:
+22 42-64-5. Purposes.
+23 The Rhode Island commerce corporation is authorized, created, and established to be an
+24 agency under the jurisdiction of the state’s lead agency for economic development, the executive
+25 office of commerce, and to be the operating agency of the state to carry out the policies and
+26 procedure as established by the secretary, governor, and the board of directors for the following
+27 purposes:
+28 (1) To promote and encourage the preservation, expansion, and sound development of new
+29 and existing industry, business, commerce, agriculture, forestry, tourism, and recreational facilities
+30 in the state, which will promote the economic development of the state and the general welfare of
+31 its citizens; and
+32 (2) With respect to real property other than federal land or land related to federal land, to
+33 undertake any project, except a residential facility; and
+34 (3) With respect to federal land or land related to federal land, to undertake any project,
+LC006272/SUB A - Page 3 of 30
+
+1 except as those responsibilities are assigned to the Quonset Development Corporation; and
+2 (4) To create an organization that is responsive to the needs and interests of businesses of
+3 all sizes within the state of Rhode Island and to be structured to be customer centric to enhance
+4 commerce in the state utilizing all available resources.
+5 SECTION 5. Section 44-5-12.1 of the General Laws in Chapter 44-5 entitled "Levy and
+6 Assessment of Local Taxes" is hereby amended to read as follows:
+7 44-5-12.1. Assessment of tangible personal property.
+8 (a) All tangible personal property subject to taxation shall be assessed for taxation based
+9 on the original purchase price (new or used) including all costs such as freight and installation.
+10 Assets will be classified and depreciated as defined in this section.
+11 (b) The following classification and depreciation table shall be used in determining the
+12 assessed value of tangible personal property.
+13 State of Rhode Island Tangible Property Classification
+14 Class I Class II Class III
+15 Class of Assets Short Life Mid-Life Long Life
+16 Age 1-5 yrs 6-12 yrs 13+ yrs
+17 1 95 95 95
+18 2 80 90 90
+19 3 60 80 85
+20 4 30 70 80
+21 5 20 60 75
+22 6 20 50 70
+23 7 20 40 65
+24 8 20 30 60
+25 9 20 30 55
+26 10 20 30 50
+27 11 20 30 45
+28 12 20 30 40
+29 13 20 30 35
+30 14 20 30 30
+31 15+ 20 30 30
+32 Assets Shall Not be Trended
+33 (c) Assets shall be classified on an annual basis by the Rhode Island Association of
+34 Assessing Officers’ Personal Property Committee based on the following table:
+LC006272/SUB A - Page 4 of 30
+
+1 INDUSTRY GROUP IN YEARS CLASS
+2 Agriculture and forestry machinery and equipment II
+3 Aircraft and all helicopters II
+4 Amusement and theme parks II
+5 Apparel and fabricated textile manufacturing II
+6 Automobile repair shops II
+7 Bakeries and confectionery production II
+8 Barber and beauty shops II
+9 Billboards III
+10 Brewery equipment not used directly in manufacturing II
+11 Cable television, headend facilities: II
+12 Microwave systems II
+13 Program origination II
+14 Service and test II
+15 Subscriber connection and distribution II
+16 Canneries and frozen food production II
+17 Cement processing III
+18 Chemical and allied production II
+19 Clay products processing III
+20 Cold storage and ice-making equipment III
+21 Cold storage warehouse equipment II
+22 Computers, personal computers (PC), laptops, tablets, cellphones,
+23 mainframe/servers, peripherals, keyboard, mouse I
+24 Condiments, processing II
+25 Construction equipment, general construction, backhoes,
+26 forklifts, loaders, cranes, unregistered vehicles II
+27 Dairy products processing II
+28 Data handling equipment, except computers II
+29 printers, copiers, bridges, routers and gateways II
+30 Distilling II
+31 Electrical equipment not used in manufacturing II
+32 Electronic equipment II
+33 Fabricated metal products/special tools II
+34 Fishing equipment, excluding boats and barges, lines, nets I
+LC006272/SUB A - Page 5 of 30
+
+1 Food and beverage production II
+2 Fur processing II
+3 Gas distribution, total distribution equipment III
+4 Glass and glass products/special tools II
+5 Grain and grain mill products processing III
+6 Gypsum products III
+7 Hand tools II
+8 Hospital furnishings and equipment II
+9 Hotel and motel furnishings and equipment II
+10 Jewelry products and pens II
+11 Knitwear and knit products, ex, work uniforms I
+12 Laundry equipment II
+13 Leather and leather products II
+14 Logging, timber cutting II
+15 Marine construction II
+16 Meatpacking II
+17 Medical and dental supply production II
+18 Metalworking machinery processing II
+19 Mining and quarrying II
+20 Motion picture and television production II
+21 Motor vehicle and parts/special tools II
+22 Office furniture and equipment II
+23 Optical lenses and instrument processing II
+24 Paints and varnishes I
+25 Petroleum refining III
+26 pipeline transportation III
+27 Plastics manufacturing I/II
+28 Plastic products processing/special tools II
+29 Primary metals production, nonferrous and foundry products III
+30 special tools III
+31 Primary steel mill products III
+32 Printing and publishing II
+33 Professional and scientific instruments II
+34 Radio and television, broadcasting II
+LC006272/SUB A - Page 6 of 30
+
+1 Railroad transportation equipment II
+2 locomotive II
+3 Recreation and amusement II
+4 Retail trades, fixtures and equipment II
+5 Residential furniture II
+6 Restaurant and bar equipment II
+7 Restaurant equipment, fast foods II
+8 Rubber products processing/special tools II
+9 Sawmills, permanent/portable II
+10 Service establishments II
+11 Ship and boat building equipment/special tools II
+12 Soft drink processing and bottling II
+13 Stone products processing III
+14 Telecommunications, local and interstate II
+15 analog switching II
+16 circuit, digital, analog, optic II
+17 information/origination equipment I/II
+18 smart phones I
+19 metallic cable III
+20 fiber cable, poles, conduit III
+21 all other equipment II
+22 Telecommunications, cellular
+23 analog/digital switching II
+24 radio frequency channel and control II
+25 power equipment II
+26 antennae II
+27 towers III
+28 transmission equipment II
+29 cellular phones I
+30 Textile products, including finishing and dyeing II
+31 yarn, thread and woven fabrics II
+32 Theater equipment II
+33 Utilities/power production III
+34 generation, transmission, or distribution equipment III
+LC006272/SUB A - Page 7 of 30
+
+1 Waste reduction and resource recovery II
+2 Water transportation III
+3 vessels, barges and tugs III
+4 Water utilities III
+5 Wharves, docks and piers III
+6 Wholesale trade fixtures and equipment II
+7 Wood products and furniture manufacturing II
+8 (d) Any industry, group, or asset not enumerated in subsection (c) of this section, shall be
+9 categorized as class II.
+10 SECTION 6. Chapter 44-5 of the General Laws entitled "Levy and Assessment of Local
+11 Taxes" is hereby amended by adding thereto the following section:
+12 44-5-42.2. Exemption of certain forestry product operations property.
+13 All forestry product operations machinery, including motor vehicles with farm plates, are
+14 exempt from taxation.
+15 SECTION 7. Section 44-18-30 of the General Laws in Chapter 44-18 entitled "Sales and
+16 Use Taxes — Liability and Computation" is hereby amended to read as follows:
+17 44-18-30. Gross receipts exempt from sales and use taxes.
+18 There are exempted from the taxes imposed by this chapter the following gross receipts:
+19 (1) Sales and uses beyond constitutional power of state. From the sale and from the storage,
+20 use, or other consumption in this state of tangible personal property the gross receipts from the sale
+21 of which, or the storage, use, or other consumption of which, this state is prohibited from taxing
+22 under the Constitution of the United States or under the constitution of this state.
+23 (2) Newspapers.
+24 (i) From the sale and from the storage, use, or other consumption in this state of any
+25 newspaper.
+26 (ii) “Newspaper” means an unbound publication printed on newsprint that contains news,
+27 editorial comment, opinions, features, advertising matter, and other matters of public interest.
+28 (iii) “Newspaper” does not include a magazine, handbill, circular, flyer, sales catalog, or
+29 similar item unless the item is printed for, and distributed as, a part of a newspaper.
+30 (3) School meals. From the sale and from the storage, use, or other consumption in this
+31 state of meals served by public, private, or parochial schools, school districts, colleges, universities,
+32 student organizations, and parent-teacher associations to the students or teachers of a school,
+33 college, or university whether the meals are served by the educational institutions or by a food
+34 service or management entity under contract to the educational institutions.
+LC006272/SUB A - Page 8 of 30
+
+1 (4) Containers.
+2 (i) From the sale and from the storage, use, or other consumption in this state of:
+3 (A) Non-returnable containers, including boxes, paper bags, and wrapping materials that
+4 are biodegradable and all bags and wrapping materials utilized in the medical and healing arts,
+5 when sold without the contents to persons who place the contents in the container and sell the
+6 contents with the container.
+7 (B) Containers when sold with the contents if the sale price of the contents is not required
+8 to be included in the measure of the taxes imposed by this chapter.
+9 (C) Returnable containers when sold with the contents in connection with a retail sale of
+10 the contents or when resold for refilling.
+11 (D) Keg and barrel containers, whether returnable or not, when sold to alcoholic beverage
+12 producers who place the alcoholic beverages in the containers.
+13 (ii) As used in this subdivision, the term “returnable containers” means containers of a kind
+14 customarily returned by the buyer of the contents for reuse. All other containers are “non-returnable
+15 containers.”
+16 (5)(i) Charitable, educational, and religious organizations. From the sale to, as in defined
+17 in this section, and from the storage, use, and other consumption in this state, or any other state of
+18 the United States of America, of tangible personal property by hospitals not operated for a profit;
+19 “educational institutions” as defined in subdivision (18) not operated for a profit; churches,
+20 orphanages, and other institutions or organizations operated exclusively for religious or charitable
+21 purposes; interest-free loan associations not operated for profit; nonprofit, organized sporting
+22 leagues and associations and bands for boys and girls under the age of nineteen (19) years; the
+23 following vocational student organizations that are state chapters of national vocational student
+24 organizations: Distributive Education Clubs of America (DECA); Future Business Leaders of
+25 America, Phi Beta Lambda (FBLA/PBL); Future Farmers of America (FFA); Future Homemakers
+26 of America/Home Economics Related Occupations (FHA/HERD); Vocational Industrial Clubs of
+27 America (VICA); organized nonprofit golden age and senior citizens clubs for men and women;
+28 and parent-teacher associations; and from the sale, storage, use, and other consumption in this state,
+29 of and by the Industrial Foundation of Burrillville, a Rhode Island domestic nonprofit corporation.
+30 (ii) In the case of contracts entered into with the federal government, its agencies, or
+31 instrumentalities, this state, or any other state of the United States of America, its agencies, any
+32 city, town, district, or other political subdivision of the states; hospitals not operated for profit;
+33 educational institutions not operated for profit; churches, orphanages, and other institutions or
+34 organizations operated exclusively for religious or charitable purposes, the contractor may purchase
+LC006272/SUB A - Page 9 of 30
+
+1 such materials and supplies (materials and/or supplies are defined as those that are essential to the
+2 project) that are to be utilized in the construction of the projects being performed under the contracts
+3 without payment of the tax.
+4 (iii) The contractor shall not charge any sales or use tax to any exempt agency, institution,
+5 or organization but shall in that instance provide his or her suppliers with certificates in the form
+6 as determined by the division of taxation showing the reason for exemption and the contractor’s
+7 records must substantiate the claim for exemption by showing the disposition of all property so
+8 purchased. If any property is then used for a nonexempt purpose, the contractor must pay the tax
+9 on the property used.
+10 (6) Gasoline. From the sale and from the storage, use, or other consumption in this state
+11 of: (i) Gasoline and other products taxed under chapter 36 of title 31 and (ii) Fuels used for the
+12 propulsion of airplanes.
+13 (7) Purchase for manufacturing purposes.
+14 (i) From the sale and from the storage, use, or other consumption in this state of computer
+15 software, tangible personal property, electricity, natural gas, artificial gas, steam, refrigeration, and
+16 water, when the property or service is purchased for the purpose of being manufactured into a
+17 finished product for resale and becomes an ingredient, component, or integral part of the
+18 manufactured, compounded, processed, assembled, or prepared product, or if the property or
+19 service is consumed in the process of manufacturing for resale computer software, tangible personal
+20 property, electricity, natural gas, artificial gas, steam, refrigeration, or water.
+21 (ii) “Consumed” means destroyed, used up, or worn out to the degree or extent that the
+22 property cannot be repaired, reconditioned, or rendered fit for further manufacturing use.
+23 (iii) “Consumed” includes mere obsolescence.
+24 (iv) “Manufacturing” means and includes: manufacturing, compounding, processing,
+25 assembling, preparing, or producing.
+26 (v) “Process of manufacturing” means and includes all production operations performed in
+27 the producing or processing room, shop, or plant, insofar as the operations are a part of and
+28 connected with the manufacturing for resale of tangible personal property, electricity, natural gas,
+29 artificial gas, steam, refrigeration, or water and all production operations performed insofar as the
+30 operations are a part of and connected with the manufacturing for resale of computer software.
+31 (vi) “Process of manufacturing” does not mean or include administration operations such
+32 as general office operations, accounting, collection, or sales promotion, nor does it mean or include
+33 distribution operations that occur subsequent to production operations, such as handling, storing,
+34 selling, and transporting the manufactured products, even though the administration and
+LC006272/SUB A - Page 10 of 30
+
+1 distribution operations are performed by, or in connection with, a manufacturing business.
+2 (8) State and political subdivisions. From the sale to, and from the storage, use, or other
+3 consumption by, this state, any city, town, district, or other political subdivision of this state. Every
+4 redevelopment agency created pursuant to chapter 31 of title 45 is deemed to be a subdivision of
+5 the municipality where it is located.
+6 (9) Food and food ingredients. From the sale and storage, use, or other consumption in this
+7 state of food and food ingredients as defined in § 44-18-7.1(l).
+8 For the purposes of this exemption “food and food ingredients” shall not include candy,
+9 soft drinks, dietary supplements, alcoholic beverages, tobacco, food sold through vending
+10 machines, or prepared food, as those terms are defined in § 44-18-7.1, unless the prepared food is:
+11 (i) Sold by a seller whose primary NAICS classification is manufacturing in sector 311,
+12 except sub-sector 3118 (bakeries);
+13 (ii) Sold in an unheated state by weight or volume as a single item;
+14 (iii) Bakery items, including: bread, rolls, buns, biscuits, bagels, croissants, pastries,
+15 donuts, danish, cakes, tortes, pies, tarts, muffins, bars, cookies, tortillas; and
+16 is not sold with utensils provided by the seller, including: plates, knives, forks, spoons,
+17 glasses, cups, napkins, or straws.
+18 (10) Medicines, drugs, and durable medical equipment. From the sale and from the storage,
+19 use, or other consumption in this state, of:
+20 (i) “Drugs” as defined in § 44-18-7.1(h)(i), sold on prescriptions, medical oxygen, and
+21 insulin whether or not sold on prescription. For purposes of this exemption drugs shall not include
+22 over-the-counter drugs and grooming and hygiene products as defined in § 44-18-7.1(h)(iii).
+23 (ii) Durable medical equipment as defined in § 44-18-7.1(k) for home use only, including,
+24 but not limited to: syringe infusers, ambulatory drug delivery pumps, hospital beds, convalescent
+25 chairs, and chair lifts. Supplies used in connection with syringe infusers and ambulatory drug
+26 delivery pumps that are sold on prescription to individuals to be used by them to dispense or
+27 administer prescription drugs, and related ancillary dressings and supplies used to dispense or
+28 administer prescription drugs, shall also be exempt from tax.
+29 (11) Prosthetic devices and mobility enhancing equipment. From the sale and from the
+30 storage, use, or other consumption in this state, of prosthetic devices as defined in § 44-18-7.1(t),
+31 sold on prescription, including, but not limited to: artificial limbs, dentures, spectacles, eyeglasses,
+32 and artificial eyes; artificial hearing devices and hearing aids, whether or not sold on prescription;
+33 and mobility enhancing equipment as defined in § 44-18-7.1(p), including wheelchairs, crutches,
+34 and canes.
+LC006272/SUB A - Page 11 of 30
+
+1 (12) Coffins, caskets, urns, shrouds and burial garments. From the sale and from the
+2 storage, use, or other consumption in this state of coffins, caskets, burial containers, urns, urn liners,
+3 urn vaults, grave liners, grave vaults, burial tent setups, prayer cards, shrouds, and other burial
+4 garments that are ordinarily sold by a funeral director as part of the business of funeral directing.
+5 (13) Motor vehicles sold to nonresidents.
+6 (i) From the sale, subsequent to June 30, 1958, of a motor vehicle to a bona fide nonresident
+7 of this state who does not register the motor vehicle in this state, whether the sale or delivery of the
+8 motor vehicle is made in this state or at the place of residence of the nonresident. A motor vehicle
+9 sold to a bona fide nonresident whose state of residence does not allow a like exemption to its
+10 nonresidents is not exempt from the tax imposed under § 44-18-20. In that event, the bona fide
+11 nonresident pays a tax to Rhode Island on the sale at a rate equal to the rate that would be imposed
+12 in his or her state of residence not to exceed the rate that would have been imposed under § 44-18-
+13 20. Notwithstanding any other provisions of law, a licensed motor vehicle dealer shall add and
+14 collect the tax required under this subdivision and remit the tax to the tax administrator under the
+15 provisions of chapters 18 and 19 of this title. When a Rhode Island licensed, motor vehicle dealer
+16 is required to add and collect the sales and use tax on the sale of a motor vehicle to a bona fide
+17 nonresident as provided in this section, the dealer in computing the tax takes into consideration the
+18 law of the state of the nonresident as it relates to the trade-in of motor vehicles.
+19 (ii) The tax administrator, in addition to the provisions of §§ 44-19-27 and 44-19-28, may
+20 require any licensed motor vehicle dealer to keep records of sales to bona fide nonresidents as the
+21 tax administrator deems reasonably necessary to substantiate the exemption provided in this
+22 subdivision, including the affidavit of a licensed motor vehicle dealer that the purchaser of the
+23 motor vehicle was the holder of, and had in his or her possession a valid out-of-state motor vehicle
+24 registration or a valid out-of-state driver’s license.
+25 (iii) Any nonresident who registers a motor vehicle in this state within ninety (90) days of
+26 the date of its sale to him or her is deemed to have purchased the motor vehicle for use, storage, or
+27 other consumption in this state, and is subject to, and liable for, the use tax imposed under the
+28 provisions of § 44-18-20.
+29 (14) Sales in public buildings by blind people. From the sale and from the storage, use, or
+30 other consumption in all public buildings in this state of all products or wares by any person
+31 licensed under § 40-9-11.1.
+32 (15) Air and water pollution control facilities. From the sale, storage, use, or other
+33 consumption in this state of tangible personal property or supplies acquired for incorporation into
+34 or used and consumed in the operation of a facility, the primary purpose of which is to aid in the
+LC006272/SUB A - Page 12 of 30
+
+1 control of the pollution or contamination of the waters or air of the state, as defined in chapter 12
+2 of title 46 and chapter 23 of title 23, respectively, and that has been certified as approved for that
+3 purpose by the director of environmental management. The director of environmental management
+4 may certify to a portion of the tangible personal property or supplies acquired for incorporation
+5 into those facilities or used and consumed in the operation of those facilities to the extent that that
+6 portion has as its primary purpose the control of the pollution or contamination of the waters or air
+7 of this state. As used in this subdivision, “facility” means any land, facility, device, building,
+8 machinery, or equipment.
+9 (16) Camps. From the rental charged for living quarters, or sleeping, or housekeeping
+10 accommodations at camps or retreat houses operated by religious, charitable, educational, or other
+11 organizations and associations mentioned in subsection (5), or by privately owned and operated
+12 summer camps for children.
+13 (17) Certain institutions. From the rental charged for living or sleeping quarters in an
+14 institution licensed by the state for the hospitalization, custodial, or nursing care of human beings.
+15 (18) Educational institutions. From the rental charged by any educational institution for
+16 living quarters, or sleeping, or housekeeping accommodations or other rooms or accommodations
+17 to any student or teacher necessitated by attendance at an educational institution. “Educational
+18 institution” as used in this section means an institution of learning not operated for profit that is
+19 empowered to confer diplomas, educational, literary, or academic degrees; that has a regular
+20 faculty, curriculum, and organized body of pupils or students in attendance throughout the usual
+21 school year; that keeps and furnishes to students and others records required and accepted for
+22 entrance to schools of secondary, collegiate, or graduate rank; and no part of the net earnings of
+23 which inures to the benefit of any individual.
+24 (19) Motor vehicle and adaptive equipment for persons with disabilities.
+25 (i) From the sale of: (A) Special adaptations; (B) The component parts of the special
+26 adaptations; or (C) A specially adapted motor vehicle; provided that the owner furnishes to the tax
+27 administrator an affidavit of a licensed physician to the effect that the specially adapted motor
+28 vehicle is necessary to transport a family member with a disability or where the vehicle has been
+29 specially adapted to meet the specific needs of the person with a disability. This exemption applies
+30 to not more than one motor vehicle owned and registered for personal, noncommercial use.
+31 (ii) For the purpose of this subsection the term “special adaptations” includes, but is not
+32 limited to: wheelchair lifts, wheelchair carriers, wheelchair ramps, wheelchair securements, hand
+33 controls, steering devices, extensions, relocations, and crossovers of operator controls, power-
+34 assisted controls, raised tops or dropped floors, raised entry doors, or alternative signaling devices
+LC006272/SUB A - Page 13 of 30
+
+1 to auditory signals.
+2 (iii) From the sale of: (a) Special adaptations, (b) The component parts of the special
+3 adaptations, for a “wheelchair accessible taxicab” as defined in § 39-14-1, and/or a “wheelchair
+4 accessible public motor vehicle” as defined in § 39-14.1-1.
+5 (iv) For the purpose of this subdivision the exemption for a “specially adapted motor
+6 vehicle” means a use tax credit not to exceed the amount of use tax that would otherwise be due on
+7 the motor vehicle, exclusive of any adaptations. The use tax credit is equal to the cost of the special
+8 adaptations, including installation.
+9 (20) Heating fuels. From the sale and from the storage, use, or other consumption in this
+10 state of every type of heating fuel.
+11 (21) Electricity and gas. From the sale and from the storage, use, or other consumption in
+12 this state of electricity and gas.
+13 (22) Manufacturing machinery and equipment.
+14 (i) From the sale and from the storage, use, or other consumption in this state of tools, dies,
+15 molds, machinery, equipment (including replacement parts), and related items to the extent used in
+16 an industrial plant in connection with the actual manufacture, conversion, or processing of tangible
+17 personal property, or to the extent used in connection with the actual manufacture, conversion, or
+18 processing of computer software as that term is utilized in industry numbers 7371, 7372, and 7373
+19 in the standard industrial classification manual prepared by the Technical Committee on Industrial
+20 Classification, Office of Statistical Standards, Executive Office of the President, United States
+21 Bureau of the Budget, as revised from time to time, to be sold, or that machinery and equipment
+22 used in the furnishing of power to an industrial manufacturing plant. For the purposes of this
+23 subdivision, “industrial plant” means a factory at a fixed location primarily engaged in the
+24 manufacture, conversion, or processing of tangible personal property to be sold in the regular
+25 course of business;
+26 (ii) Machinery and equipment and related items are not deemed to be used in connection
+27 with the actual manufacture, conversion, or processing of tangible personal property, or in
+28 connection with the actual manufacture, conversion, or processing of computer software as that
+29 term is utilized in industry numbers 7371, 7372, and 7373 in the standard industrial classification
+30 manual prepared by the Technical Committee on Industrial Classification, Office of Statistical
+31 Standards, Executive Office of the President, United States Bureau of the Budget, as revised from
+32 time to time, to be sold to the extent the property is used in administration or distribution operations;
+33 (iii) Machinery and equipment and related items used in connection with the actual
+34 manufacture, conversion, or processing of any computer software or any tangible personal property
+LC006272/SUB A - Page 14 of 30
+
+1 that is not to be sold and that would be exempt under subdivision (7) or this subdivision if purchased
+2 from a vendor or machinery and equipment and related items used during any manufacturing,
+3 converting, or processing function is exempt under this subdivision even if that operation, function,
+4 or purpose is not an integral or essential part of a continuous production flow or manufacturing
+5 process;
+6 (iv) Where a portion of a group of portable or mobile machinery is used in connection with
+7 the actual manufacture, conversion, or processing of computer software or tangible personal
+8 property to be sold, as previously defined, that portion, if otherwise qualifying, is exempt under
+9 this subdivision even though the machinery in that group is used interchangeably and not otherwise
+10 identifiable as to use.
+11 (23) Trade-in value of motor vehicles. From the sale and from the storage, use, or other
+12 consumption in this state of so much of the purchase price paid for a new or used automobile as is
+13 allocated for a trade-in allowance on the automobile of the buyer given in trade to the seller, or of
+14 the proceeds applicable only to the automobile as are received from the manufacturer of
+15 automobiles for the repurchase of the automobile whether the repurchase was voluntary or not
+16 towards the purchase of a new or used automobile by the buyer. For the purpose of this subdivision,
+17 the word “automobile” means a private passenger automobile not used for hire and does not refer
+18 to any other type of motor vehicle.
+19 (24) Precious metal bullion.
+20 (i) From the sale and from the storage, use, or other consumption in this state of precious
+21 metal bullion, substantially equivalent to a transaction in securities or commodities.
+22 (ii) For purposes of this subdivision, “precious metal bullion” means any elementary
+23 precious metal that has been put through a process of smelting or refining, including, but not limited
+24 to: gold, silver, platinum, rhodium, and chromium, and that is in a state or condition that its value
+25 depends upon its content and not upon its form.
+26 (iii) The term does not include fabricated precious metal that has been processed or
+27 manufactured for some one or more specific and customary industrial, professional, or artistic uses.
+28 (25) Commercial vessels. From sales made to a commercial ship, barge, or other vessel of
+29 fifty (50) tons burden or over, primarily engaged in interstate or foreign commerce, and from the
+30 repair, alteration, or conversion of the vessels, and from the sale of property purchased for the use
+31 of the vessels including provisions, supplies, and material for the maintenance and/or repair of the
+32 vessels.
+33 (26) Commercial fishing vessels. From the sale and from the storage, use, or other
+34 consumption in this state of vessels and other watercraft that are in excess of five (5) net tons and
+LC006272/SUB A - Page 15 of 30
+
+1 that are used exclusively for “commercial fishing,” as defined in this subdivision, and from the
+2 repair, alteration, or conversion of those vessels and other watercraft, and from the sale of property
+3 purchased for the use of those vessels and other watercraft including provisions, supplies, and
+4 material for the maintenance and/or repair of the vessels and other watercraft and the boats nets,
+5 cables, tackle, and other fishing equipment appurtenant to or used in connection with the
+6 commercial fishing of the vessels and other watercraft. “Commercial fishing” means taking or
+7 attempting to take any fish, shellfish, crustacea, or bait species with the intent of disposing of it for
+8 profit or by sale, barter, trade, or in commercial channels. The term does not include subsistence
+9 fishing, i.e., the taking for personal use and not for sale or barter; or sport fishing; but shall include
+10 vessels and other watercraft with a Rhode Island party and charter boat license issued by the
+11 department of environmental management pursuant to § 20-2-27.1 that meet the following criteria:
+12 (i) The operator must have a current United States Coast Guard (U.S.C.G.) license to carry
+13 passengers for hire; (ii) U.S.C.G. vessel documentation in the coast wide fishery trade; (iii)
+14 U.S.C.G. vessel documentation as to proof of Rhode Island home port status or a Rhode Island boat
+15 registration to prove Rhode Island home port status; and (iv) The vessel must be used as a
+16 commercial passenger carrying fishing vessel to carry passengers for fishing. The vessel must be
+17 able to demonstrate that at least fifty percent (50%) of its annual gross income derives from charters
+18 or provides documentation of a minimum of one hundred (100) charter trips annually; and (v) The
+19 vessel must have a valid Rhode Island party and charter boat license. The tax administrator shall
+20 implement the provisions of this subdivision by promulgating rules and regulations relating thereto.
+21 (27) Clothing and footwear. From the sales of articles of clothing, including footwear,
+22 intended to be worn or carried on or about the human body for sales prior to October 1, 2012.
+23 Effective October 1, 2012, the exemption will apply to the sales of articles of clothing, including
+24 footwear, intended to be worn or carried on or about the human body up to two hundred and fifty
+25 dollars ($250) of the sales price per item. For the purposes of this section, “clothing or footwear”
+26 does not include clothing accessories or equipment or special clothing or footwear primarily
+27 designed for athletic activity or protective use as these terms are defined in § 44-18-7.1(f). In
+28 recognition of the work being performed by the streamlined sales and use tax governing board,
+29 upon passage of any federal law that authorizes states to require remote sellers to collect and remit
+30 sales and use taxes, this unlimited exemption will apply as it did prior to October 1, 2012. The
+31 unlimited exemption on sales of clothing and footwear shall take effect on the date that the state
+32 requires remote sellers to collect and remit sales and use taxes.
+33 (28) Water for residential use. From the sale and from the storage, use, or other
+34 consumption in this state of water furnished for domestic use by occupants of residential premises.
+LC006272/SUB A - Page 16 of 30
+
+1 (29) Bibles. [Unconstitutional; see Ahlburn v. Clark, 728 A.2d 449 (R.I. 1999); see Notes
+2 to Decisions.] From the sale and from the storage, use, or other consumption in the state of any
+3 canonized scriptures of any tax-exempt nonprofit religious organization including, but not limited
+4 to, the Old Testament and the New Testament versions.
+5 (30) Boats.
+6 (i) From the sale of a boat or vessel to a bona fide nonresident of this state who does not
+7 register the boat or vessel in this state or document the boat or vessel with the United States
+8 government at a home port within the state, whether the sale or delivery of the boat or vessel is
+9 made in this state or elsewhere; provided, that the nonresident transports the boat within thirty (30)
+10 days after delivery by the seller outside the state for use thereafter solely outside the state.
+11 (ii) The tax administrator, in addition to the provisions of §§ 44-19-27 and 44-19-28, may
+12 require the seller of the boat or vessel to keep records of the sales to bona fide nonresidents as the
+13 tax administrator deems reasonably necessary to substantiate the exemption provided in this
+14 subdivision, including the affidavit of the seller that the buyer represented himself or herself to be
+15 a bona fide nonresident of this state and of the buyer that he or she is a nonresident of this state.
+16 (31) Youth activities equipment. From the sale, storage, use, or other consumption in this
+17 state of items for not more than twenty dollars ($20.00) each by nonprofit Rhode Island
+18 eleemosynary organizations, for the purposes of youth activities that the organization is formed to
+19 sponsor and support; and by accredited elementary and secondary schools for the purposes of the
+20 schools or of organized activities of the enrolled students.
+21 (32) Farm equipment. From the sale and from the storage or use of machinery and
+22 equipment used directly for commercial farming and agricultural production; including, but not
+23 limited to: tractors, ploughs, harrows, spreaders, seeders, milking machines, silage conveyors,
+24 balers, bulk milk storage tanks, trucks with farm plates, mowers, combines, irrigation equipment,
+25 greenhouses and greenhouse coverings, graders and packaging machines, tools and supplies and
+26 other farming equipment, including replacement parts appurtenant to or used in connection with
+27 commercial farming and tools and supplies used in the repair and maintenance of farming
+28 equipment. “Commercial farming” means the keeping or boarding of five (5) or more horses or the
+29 production within this state of agricultural products, including, but not limited to, field or orchard
+30 crops, livestock, dairy, and poultry, or their products, where the keeping, boarding, or production
+31 provides at least two thousand five hundred dollars ($2,500) in annual gross sales to the operator,
+32 whether an individual, a group, a partnership, or a corporation for exemptions issued prior to July
+33 1, 2002. For exemptions issued or renewed after July 1, 2002, there shall be two (2) levels. Level I
+34 shall be based on proof of annual, gross sales from commercial farming of at least twenty-five
+LC006272/SUB A - Page 17 of 30
+
+1 hundred dollars ($2,500) and shall be valid for purchases subject to the exemption provided in this
+2 subdivision except for motor vehicles with an excise tax value of five thousand dollars ($5,000) or
+3 greater. Level II shall be based on proof of annual gross sales from commercial farming of at least
+4 ten thousand dollars ($10,000) or greater and shall be valid for purchases subject to the exemption
+5 provided in this subdivision including motor vehicles with an excise tax value of five thousand
+6 dollars ($5,000) or greater. For the initial issuance of the exemptions, proof of the requisite amount
+7 of annual gross sales from commercial farming shall be required for the prior year; for any renewal
+8 of an exemption granted in accordance with this subdivision at either level I or level II, proof of
+9 gross annual sales from commercial farming at the requisite amount shall be required for each of
+10 the prior two (2) years. Certificates of exemption issued or renewed after July 1, 2002, shall clearly
+11 indicate the level of the exemption and be valid for four (4) years after the date of issue. This
+12 exemption applies even if the same equipment is used for ancillary uses, or is temporarily used for
+13 a non-farming or a non-agricultural purpose, but shall not apply to motor vehicles acquired after
+14 July 1, 2002, unless the vehicle is a farm vehicle as defined pursuant to § 31-1-8 and is eligible for
+15 registration displaying farm plates as provided for in § 31-3-31.
+16 (33) Compressed air. From the sale and from the storage, use, or other consumption in the
+17 state of compressed air.
+18 (34) Flags. From the sale and from the storage, consumption, or other use in this state of
+19 United States, Rhode Island or POW-MIA flags.
+20 (35) Motor vehicle and adaptive equipment to certain veterans. From the sale of a motor
+21 vehicle and adaptive equipment to and for the use of a veteran with a service-connected loss of or
+22 the loss of use of a leg, foot, hand, or arm, or any veteran who is a double amputee, whether service
+23 connected or not. The motor vehicle must be purchased by and especially equipped for use by the
+24 qualifying veteran. Certificate of exemption or refunds of taxes paid is granted under rules or
+25 regulations that the tax administrator may prescribe.
+26 (36) Textbooks. From the sale and from the storage, use, or other consumption in this state
+27 of textbooks by an “educational institution,” as defined in subsection (18) of this section, and any
+28 educational institution within the purview of § 16-63-9(4), and used textbooks by any purveyor.
+29 (37) Tangible personal property and supplies used in on-site hazardous waste recycling,
+30 reuse, or treatment. From the sale, storage, use, or other consumption in this state of tangible
+31 personal property or supplies used or consumed in the operation of equipment, the exclusive
+32 function of which is the recycling, reuse, or recovery of materials (other than precious metals, as
+33 defined in subdivision (24)(ii) of this section) from the treatment of “hazardous wastes,” as defined
+34 in § 23-19.1-4, where the “hazardous wastes” are generated in Rhode Island solely by the same
+LC006272/SUB A - Page 18 of 30
+
+1 taxpayer and where the personal property is located at, in, or adjacent to a generating facility of the
+2 taxpayer in Rhode Island. The taxpayer shall procure an order from the director of the department
+3 of environmental management certifying that the equipment and/or supplies as used or consumed,
+4 qualify for the exemption under this subdivision. If any information relating to secret processes or
+5 methods of manufacture, production, or treatment is disclosed to the department of environmental
+6 management only to procure an order, and is a “trade secret” as defined in § 28-21-10(b), it is not
+7 open to public inspection or publicly disclosed unless disclosure is required under chapter 21 of
+8 title 28 or chapter 24.4 of title 23.
+9 (38) Promotional and product literature of boat manufacturers. From the sale and from the
+10 storage, use, or other consumption of promotional and product literature of boat manufacturers
+11 shipped to points outside of Rhode Island that either: (i) Accompany the product that is sold; (ii)
+12 Are shipped in bulk to out-of-state dealers for use in the sale of the product; or (iii) Are mailed to
+13 customers at no charge.
+14 (39) Food items paid for by food stamps. From the sale and from the storage, use, or other
+15 consumption in this state of eligible food items payment for which is properly made to the retailer
+16 in the form of U.S. government food stamps issued in accordance with the Food Stamp Act of 1977,
+17 7 U.S.C. § 2011 et seq.
+18 (40) Transportation charges. From the sale or hiring of motor carriers as defined in § 39-
+19 12-2(12) to haul goods, when the contract or hiring cost is charged by a motor freight tariff filed
+20 with the Rhode Island public utilities commission on the number of miles driven or by the number
+21 of hours spent on the job.
+22 (41) Trade-in value of boats. From the sale and from the storage, use, or other consumption
+23 in this state of so much of the purchase price paid for a new or used boat as is allocated for a trade-
+24 in allowance on the boat of the buyer given in trade to the seller or of the proceeds applicable only
+25 to the boat as are received from an insurance claim as a result of a stolen or damaged boat, towards
+26 the purchase of a new or used boat by the buyer.
+27 (42) Equipment used for research and development. From the sale and from the storage,
+28 use, or other consumption of equipment to the extent used for research and development purposes
+29 by a qualifying firm. For the purposes of this subsection, “qualifying firm” means a business for
+30 which the use of research and development equipment is an integral part of its operation and
+31 “equipment” means scientific equipment, computers, software, and related items.
+32 (43) Coins. From the sale and from the other consumption in this state of coins having
+33 numismatic or investment value.
+34 (44) Farm structure construction materials. Lumber, hardware, and other materials used in
+LC006272/SUB A - Page 19 of 30
+
+1 the new construction of farm structures, including production facilities such as, but not limited to:
+2 farrowing sheds, free stall and stanchion barns, milking parlors, silos, poultry barns, laying houses,
+3 fruit and vegetable storages, rooting cellars, propagation rooms, greenhouses, packing rooms,
+4 machinery storage, seasonal farm worker housing, certified farm markets, bunker and trench silos,
+5 feed storage sheds, and any other structures used in connection with commercial farming.
+6 (45) Telecommunications carrier access service. Carrier access service or
+7 telecommunications service when purchased by a telecommunications company from another
+8 telecommunications company to facilitate the provision of telecommunications service.
+9 (46) Boats or vessels brought into the state exclusively for winter storage, maintenance,
+10 repair, or sale. Notwithstanding the provisions of §§ 44-18-10, 44-18-11 and 44-18-20, the tax
+11 imposed by § 44-18-20 is not applicable for the period commencing on the first day of October in
+12 any year up to and including the 30th day of April next succeeding with respect to the use of any
+13 boat or vessel within this state exclusively for purposes of: (i) Delivery of the vessel to a facility in
+14 this state for storage, including dry storage and storage in water by means of apparatus preventing
+15 ice damage to the hull, maintenance, or repair; (ii) The actual process of storage, maintenance, or
+16 repair of the boat or vessel; or (iii) Storage for the purpose of selling the boat or vessel.
+17 (47) Jewelry display product. From the sale and from the storage, use, or other
+18 consumption in this state of tangible personal property used to display any jewelry product;
+19 provided that title to the jewelry display product is transferred by the jewelry manufacturer or seller
+20 and that the jewelry display product is shipped out of state for use solely outside the state and is not
+21 returned to the jewelry manufacturer or seller.
+22 (48) Boats or vessels generally. Notwithstanding the provisions of this chapter, the tax
+23 imposed by §§ 44-18-20 and 44-18-18 shall not apply with respect to the sale and to the storage,
+24 use, or other consumption in this state of any new or used boat. The exemption provided for in this
+25 subdivision does not apply after October 1, 1993, unless prior to October 1, 1993, the federal ten
+26 percent (10%) surcharge on luxury boats is repealed.
+27 (49) Banks and regulated investment companies interstate toll-free calls. Notwithstanding
+28 the provisions of this chapter, the tax imposed by this chapter does not apply to the furnishing of
+29 interstate and international, toll-free terminating telecommunication service that is used directly
+30 and exclusively by or for the benefit of an eligible company as defined in this subdivision; provided
+31 that an eligible company employs on average during the calendar year no less than five hundred
+32 (500) “full-time equivalent employees” as that term is defined in § 42-64.5-2. For purposes of this
+33 section, an “eligible company” means a “regulated investment company” as that term is defined in
+34 the Internal Revenue Code of 1986, 26 U.S.C. § 851, or a corporation to the extent the service is
+LC006272/SUB A - Page 20 of 30
+
+1 provided, directly or indirectly, to or on behalf of a regulated investment company, an employee
+2 benefit plan, a retirement plan or a pension plan, or a state-chartered bank.
+3 (50) Mobile and manufactured homes generally. From the sale and from the storage, use,
+4 or other consumption in this state of mobile and/or manufactured homes as defined and subject to
+5 taxation pursuant to the provisions of chapter 44 of title 31.
+6 (51) Manufacturing business reconstruction materials.
+7 (i) From the sale and from the storage, use, or other consumption in this state of lumber,
+8 hardware, and other building materials used in the reconstruction of a manufacturing business
+9 facility that suffers a disaster, as defined in this subdivision, in this state. “Disaster” means any
+10 occurrence, natural or otherwise, that results in the destruction of sixty percent (60%) or more of
+11 an operating manufacturing business facility within this state. “Disaster” does not include any
+12 damage resulting from the willful act of the owner of the manufacturing business facility.
+13 (ii) Manufacturing business facility includes, but is not limited to, the structures housing
+14 the production and administrative facilities.
+15 (iii) In the event a manufacturer has more than one manufacturing site in this state, the sixty
+16 percent (60%) provision applies to the damages suffered at that one site.
+17 (iv) To the extent that the costs of the reconstruction materials are reimbursed by insurance,
+18 this exemption does not apply.
+19 (52) Tangible personal property and supplies used in the processing or preparation of floral
+20 products and floral arrangements. From the sale, storage, use, or other consumption in this state of
+21 tangible personal property or supplies purchased by florists, garden centers, or other like producers
+22 or vendors of flowers, plants, floral products, and natural and artificial floral arrangements that are
+23 ultimately sold with flowers, plants, floral products, and natural and artificial floral arrangements
+24 or are otherwise used in the decoration, fabrication, creation, processing, or preparation of flowers,
+25 plants, floral products, or natural and artificial floral arrangements, including descriptive labels,
+26 stickers, and cards affixed to the flower, plant, floral product, or arrangement, artificial flowers,
+27 spray materials, floral paint and tint, plant shine, flower food, insecticide, and fertilizers.
+28 (53) Horse food products. From the sale and from the storage, use, or other consumption
+29 in this state of horse food products purchased by a person engaged in the business of the boarding
+30 of horses.
+31 (54) Non-motorized recreational vehicles sold to nonresidents.
+32 (i) From the sale, subsequent to June 30, 2003, of a non-motorized recreational vehicle to
+33 a bona fide nonresident of this state who does not register the non-motorized recreational vehicle
+34 in this state, whether the sale or delivery of the non-motorized recreational vehicle is made in this
+LC006272/SUB A - Page 21 of 30
+
+1 state or at the place of residence of the nonresident; provided that a non-motorized recreational
+2 vehicle sold to a bona fide nonresident whose state of residence does not allow a like exemption to
+3 its nonresidents is not exempt from the tax imposed under § 44-18-20; provided, further, that in
+4 that event the bona fide nonresident pays a tax to Rhode Island on the sale at a rate equal to the rate
+5 that would be imposed in his or her state of residence not to exceed the rate that would have been
+6 imposed under § 44-18-20. Notwithstanding any other provisions of law, a licensed, non-motorized
+7 recreational vehicle dealer shall add and collect the tax required under this subdivision and remit
+8 the tax to the tax administrator under the provisions of chapters 18 and 19 of this title. Provided,
+9 that when a Rhode Island licensed, non-motorized recreational vehicle dealer is required to add and
+10 collect the sales and use tax on the sale of a non-motorized recreational vehicle to a bona fide
+11 nonresident as provided in this section, the dealer in computing the tax takes into consideration the
+12 law of the state of the nonresident as it relates to the trade-in of motor vehicles.
+13 (ii) The tax administrator, in addition to the provisions of §§ 44-19-27 and 44-19-28, may
+14 require any licensed, non-motorized recreational vehicle dealer to keep records of sales to bona fide
+15 nonresidents as the tax administrator deems reasonably necessary to substantiate the exemption
+16 provided in this subdivision, including the affidavit of a licensed, non-motorized recreational
+17 vehicle dealer that the purchaser of the non-motorized recreational vehicle was the holder of, and
+18 had in his or her possession a valid out-of-state non-motorized recreational vehicle registration or
+19 a valid out-of-state driver’s license.
+20 (iii) Any nonresident who registers a non-motorized recreational vehicle in this state within
+21 ninety (90) days of the date of its sale to him or her is deemed to have purchased the non-motorized
+22 recreational vehicle for use, storage, or other consumption in this state, and is subject to, and liable
+23 for, the use tax imposed under the provisions of § 44-18-20.
+24 (iv) “Non-motorized recreational vehicle” means any portable dwelling designed and
+25 constructed to be used as a temporary dwelling for travel, camping, recreational, and vacation use
+26 that is eligible to be registered for highway use, including, but not limited to, “pick-up coaches” or
+27 “pick-up campers,” “travel trailers,” and “tent trailers” as those terms are defined in chapter 1 of
+28 title 31.
+29 (55) Sprinkler and fire alarm systems in existing buildings. From the sale in this state of
+30 sprinkler and fire alarm systems; emergency lighting and alarm systems; and the materials
+31 necessary and attendant to the installation of those systems that are required in buildings and
+32 occupancies existing therein in July 2003 in order to comply with any additional requirements for
+33 such buildings arising directly from the enactment of the Comprehensive Fire Safety Act of 2003
+34 and that are not required by any other provision of law or ordinance or regulation adopted pursuant
+LC006272/SUB A - Page 22 of 30
+
+1 to that act. The exemption provided in this subdivision shall expire on December 31, 2008.
+2 (56) Aircraft. Notwithstanding the provisions of this chapter, the tax imposed by §§ 44-
+3 18-18 and 44-18-20 shall not apply with respect to the sale and to the storage, use, or other
+4 consumption in this state of any new or used aircraft or aircraft parts.
+5 (57) Renewable energy products. Notwithstanding any other provisions of Rhode Island
+6 general laws, the following products shall also be exempt from sales tax: solar photovoltaic
+7 modules or panels, or any module or panel that generates electricity from light; solar thermal
+8 collectors, including, but not limited to, those manufactured with flat glass plates, extruded plastic,
+9 sheet metal, and/or evacuated tubes; geothermal heat pumps, including both water-to-water and
+10 water-to-air type pumps; wind turbines; towers used to mount wind turbines if specified by or sold
+11 by a wind turbine manufacturer; DC to AC inverters that interconnect with utility power lines; and
+12 manufactured mounting racks and ballast pans for solar collector, module, or panel installation. Not
+13 to include materials that could be fabricated into such racks; monitoring and control equipment, if
+14 specified or supplied by a manufacturer of solar thermal, solar photovoltaic, geothermal, or wind
+15 energy systems or if required by law or regulation for such systems but not to include pumps, fans
+16 or plumbing or electrical fixtures unless shipped from the manufacturer affixed to, or an integral
+17 part of, another item specified on this list; and solar storage tanks that are part of a solar domestic
+18 hot water system or a solar space heating system. If the tank comes with an external heat exchanger
+19 it shall also be tax exempt, but a standard hot water tank is not exempt from state sales tax.
+20 (58) Returned property. The amount charged for property returned by customers upon
+21 rescission of the contract of sale when the entire amount exclusive of handling charges paid for the
+22 property is refunded in either cash or credit, and where the property is returned within one hundred
+23 twenty (120) days from the date of delivery.
+24 (59) Dietary supplements. From the sale and from the storage, use, or other consumption
+25 of dietary supplements as defined in § 44-18-7.1(l)(v), sold on prescriptions.
+26 (60) Blood. From the sale and from the storage, use, or other consumption of human blood.
+27 (61) Agricultural products for human consumption. From the sale and from the storage,
+28 use, or other consumption of livestock and poultry of the kinds of products that ordinarily constitute
+29 food for human consumption and of livestock of the kind the products of which ordinarily constitute
+30 fibers for human use.
+31 (62) Diesel emission control technology. From the sale and use of diesel retrofit
+32 technology that is required by § 31-47.3-4.
+33 (63) Feed for certain animals used in commercial farming. From the sale of feed for
+34 animals as described in subsection (61) of this section.
+LC006272/SUB A - Page 23 of 30
+
+1 (64) Alcoholic beverages. From the sale and storage, use, or other consumption in this
+2 state by a Class A licensee of alcoholic beverages, as defined in § 44-18-7.1, excluding beer and
+3 malt beverages; provided, further, notwithstanding § 6-13-1 or any other general or public law to
+4 the contrary, alcoholic beverages, as defined in § 44-18-7.1, shall not be subject to minimum
+5 markup.
+6 (65) Seeds and plants used to grow food and food ingredients. From the sale, storage, use,
+7 or other consumption in this state of seeds and plants used to grow food and food ingredients as
+8 defined in § 44-18-7.1(l)(i). “Seeds and plants used to grow food and food ingredients” shall not
+9 include marijuana seeds or plants.
+10 (66) Feminine hygiene products. From the sale and from the storage, use, or other
+11 consumption of tampons, panty liners, menstrual cups, sanitary napkins, and other similar products
+12 the principal use of which is feminine hygiene in connection with the menstrual cycle.
+13 (67) “Breast pump collection and storage supplies” means items of tangible personal
+14 property used in conjunction with a breast pump to collect milk expressed from a human breast and
+15 to store collected milk until it is ready for consumption. “Breast pump collection and storage
+16 supplies” include, but are not limited to, breast shields and breast shield connectors; breast pump
+17 tubes and tubing adaptors; breast pump valves and membranes; backflow protectors and backflow
+18 protector adaptors; bottles and bottle caps specific to the operation of the breast pump; breast milk
+19 storage bags; and related items sold as part of a breast pump kit pre-packaged by the breast pump
+20 manufacturer. “Breast pump collection and storage supplies” does not include: bottles and bottle
+21 caps not specific to the operation of the breast pump; breast pump travel bags and other similar
+22 carrying accessories, including ice packs, labels, and other similar products, unless sold as part of
+23 a breast pump kit pre-packed by the breast pump manufacturer; breast pump cleaning supplies,
+24 unless sold as part of a breast pump kit pre-packaged by the breast pump manufacturer; nursing
+25 bras, bra pads, breast shells, and other similar products; and creams, ointments, and other similar
+26 products that relieve breastfeeding-related symptoms or conditions of the breasts or nipples.
+27 (68) Trade-in value of motorcycles. From the sale and from the storage, use, or other
+28 consumption in this state of so much of the purchase price paid for a new or used motorcycle as is
+29 allocated for a trade-in allowance on the motorcycle of the buyer given in trade to the seller, or of
+30 the proceeds applicable only to the motorcycle as are received from the manufacturer of
+31 motorcycles for the repurchase of the motorcycle whether the repurchase was voluntary or not
+32 towards the purchase of a new or used motorcycle by the buyer. For the purpose of this subsection,
+33 the word “motorcycle” means a motorcycle not used for hire and does not refer to any other type
+34 of motor vehicle.
+LC006272/SUB A - Page 24 of 30
+
+1 (69) Forestry product operations equipment and parts. From the sale and from the storage
+2 or use of machinery and equipment and parts used directly for forest product operations engaged
+3 in commercial production including, but not limited to: chainsaws, tree chippers, mulch grinders,
+4 chip screeners, sawdust blowers, conveyors, power generators , firewood processors, log skidders,
+5 wood splitters, disc cleaners, tumblers, shaving mills, loaders, forklifts, firewood kilns, pallet kilns,
+6 lumber kilns, sawdust dryers, forwarders, sawmills, resaws, edgers, planers, debarkers, live log
+7 decks, green chains, tractors, winches, tree harvesters, feller bunchers, log loaders, slashers,
+8 delimbers, grapples, bucket trucks, tree cranes, and stump grinders. "Forest product operations"
+9 shall have the same meaning as defined in § 2-27.1-3.
+10 The exemption shall be valid for small businesses, as defined in § 22-7.6-1, that employ
+11 no more than three hundred (300) employees and which derive at least eighty percent (80%) of
+12 their annual revenue from silviculture services, but which do not derive more than twenty-five
+13 percent (25%) of their annual revenue performing arboricultural services for any public utility, and
+14 shall apply to more than five million dollars ($5,000,000) in forest operations equipment and parts.
+15 Any forest operations equipment and parts exempted under this chapter that are transferred or sold
+16 to any entity affiliated with such small business under this chapter shall be subject to the full amount
+17 of taxes imposed by this chapter upon such transfer or sale. Any lease or rental of such forest
+18 operations equipment and parts to any entity affiliated with any small business under this chapter
+19 shall be deemed a transfer for purposes of subjecting such equipment and parts to all taxes imposed
+20 under this chapter.
+21 SECTION 8. Section 44-27-1 of the General Laws in Chapter 44-27 entitled "Taxation of
+22 Farm, Forest, and Open Space Land" is hereby amended to read as follows:
+23 44-27-1. Legislative declaration.
+24 It is declared:
+25 (1) That it is in the public interest to encourage the preservation of farm, forest, and open
+26 space land in order to maintain a readily available source of food and farm and forest products close
+27 to the metropolitan areas of the state, to conserve the state’s natural resources, and to provide for
+28 the welfare and happiness of the inhabitants of the state.
+29 (2) That it is in the public interest to prevent the forced conversion of farm, forest, and open
+30 space land to more intensive uses as the result of economic pressures caused by the assessment for
+31 purposes of property taxation at values incompatible with their preservation as farm, forest, and
+32 open space land.
+33 (3) That the necessity in the public interest of the enactment of the provisions of this chapter
+34 is a matter of legislative determination.
+LC006272/SUB A - Page 25 of 30
+
+1 SECTION 9. Section 45-24-37 of the General Laws in Chapter 45-24 entitled "Zoning
+2 Ordinances" is hereby amended to read as follows:
+3 45-24-37. General provisions — Permitted uses. [Effective January 1, 2026.]
+4 (a) The zoning ordinance shall provide a listing of all land uses and/or performance
+5 standards for uses that are permitted within the zoning use districts of the municipality. The
+6 ordinance may provide for a procedure under which a proposed land use that is not specifically
+7 listed may be presented by the property owner to the zoning board of review or to a local official
+8 or agency charged with administration and enforcement of the ordinance for an evaluation and
+9 determination of whether the proposed use is of a similar type, character, and intensity as a listed
+10 permitted use. Upon such determination, the proposed use may be considered to be a permitted use.
+11 (b) Notwithstanding any other provision of this chapter, the following uses are permitted
+12 uses within all residential zoning use districts of a municipality and all industrial and commercial
+13 zoning use districts except where residential use is prohibited for public health or safety reasons:
+14 (1) Households;
+15 (2) Community residences;
+16 (3) Family daycare homes; and
+17 (4) Remote work, defined as a work flexibility arrangement under which a W-2 employee
+18 or full-time contractor routinely performs the duties and responsibilities of such employee’s
+19 position from an approved worksite other than the location from which the employee would
+20 otherwise work.
+21 (i) Remote work shall not include any activities that:
+22 (A) Relate to the sale of unlawful goods and services;
+23 (B) Generate on-street parking or a substantial increase in traffic through the residential
+24 area;
+25 (C) Occur outside of the residential dwelling;
+26 (D) Occur in the yard; or
+27 (E) Are visible from the street.
+28 (c) Any time a building or other structure used for residential purposes, or a portion of a
+29 building containing residential units, is rendered uninhabitable by virtue of a casualty such as fire
+30 or flood, the owner of the property is allowed to park, temporarily, mobile and manufactured home,
+31 or homes, as the need may be, elsewhere upon the land, for use and occupancy of the former
+32 occupants for a period of up to twelve (12) months, or until the building or structure is rehabilitated
+33 and otherwise made fit for occupancy. The property owner, or a properly designated agent of the
+34 owner, is only allowed to cause the mobile and manufactured home, or homes, to remain
+LC006272/SUB A - Page 26 of 30
+
+1 temporarily upon the land by making timely application to the local building official for the
+2 purposes of obtaining the necessary permits to repair or rebuild the structure.
+3 (d) Notwithstanding any other provision of this chapter, appropriate access for people with
+4 disabilities to residential structures is allowed as a reasonable accommodation for any person(s)
+5 residing, or intending to reside, in the residential structure.
+6 (e) Notwithstanding any other provision of this chapter, an accessory dwelling unit
+7 (“ADU”) that meets the requirements of §§ 45-24-31 and 45-24-73(a) shall be a permitted use in
+8 all residential zoning districts. An ADU that meets the requirements of §§ 45-24-31 and 45-24-
+9 73(a) shall be permitted through an administrative building permit process only.
+10 (f) When used in this section the terms “people with disabilities” or “member, or members,
+11 with disabilities” means a person(s) who has a physical or mental impairment that substantially
+12 limits one or more major life activities, as defined in 42-87-1(5).
+13 (g) Notwithstanding any other provisions of this chapter, plant agriculture is a permitted
+14 use and forest product operations, as defined in § 2-27.1-3 are permitted uses within all zoning
+15 districts of a municipality, including all industrial and commercial zoning districts, except where
+16 prohibited for public health or safety reasons or the protection of wildlife habitat.
+17 (h) Adaptive reuse. Notwithstanding any other provisions of this chapter, adaptive reuse
+18 for the conversion of any commercial building, including offices, schools, religious facilities,
+19 medical buildings, mills, and malls into residential units or mixed-use developments which include
+20 the development of at least fifty percent (50%) of the existing gross floor area into residential units,
+21 shall be a permitted use and allowed by specific and objective provisions of a zoning ordinance.
+22 (1) Prohibitions. Adaptive reuse under this section shall not be allowed where:
+23 (i) Residential use is prohibited by environmental land use restrictions recorded on the
+24 property by the state of Rhode Island department of environmental management or the United
+25 States Environmental Protection Agency;
+26 (ii) In any industrial or manufacturing zoning use district, or a portion thereof, where
+27 residential use is prohibited for public health and safety reasons which are based on specific and
+28 detailed findings;
+29 (iii) In any building previously used for industrial or manufacturing use(s), which has not
+30 been vacant of an industrial use for less than one year prior to the submission of the permit or
+31 application for adaptive reuse.
+32 (2) Density.
+33 (i) Provided that all minimum building, rehabilitation, and fire code requirements are met
+34 for all residential units, as applicable; and provided that, for projects with more than four (4)
+LC006272/SUB A - Page 27 of 30
+
+1 residential units, not less than ten percent (10%) of low- or moderate-income housing is provided,
+2 the local zoning ordinance shall not specify any maximum density of residential units. If less than
+3 ten percent (10%) of low- or moderate-income housing is provided, then the allowable maximum
+4 density shall be determined by the municipality.
+5 (ii) Co-living housing which meets the applicable requirements of the building and fire
+6 codes, may be allowed in adaptive reuse developments.
+7 (3) Dimensional requirements.
+8 (i) Building envelope. Unless a local zoning ordinance allows otherwise, the development
+9 shall be limited to the existing building envelope, except that the envelope is allowed to be
+10 expanded to accommodate upgrades of non-occupiable space related to the building and fire codes
+11 and utilities such as HVAC equipment, stairs, and elevators.
+12 (ii) Parking. A local zoning ordinance shall not require a development under this section
+13 to provide more than one off-street parking space for the first two (2) bedrooms of any dwelling
+14 unit and shall not require more than one off-street parking space for any additional bedroom beyond
+15 the second bedroom in any dwelling unit.
+16 (iii) Existing setbacks. Notwithstanding any other provisions of this chapter, for adaptive
+17 reuse projects, existing building setbacks shall remain and shall be considered legal
+18 nonconforming, but no additional encroachments shall be permitted into any nonconforming
+19 setback, unless otherwise allowed by local zoning ordinance or relief is granted by the applicable
+20 authority.
+21 (iv) Height. For adaptive reuse projects, notwithstanding any other provisions of this
+22 chapter, the height of the existing structure, if it exceeds the maximum height of the zoning district,
+23 may remain and shall be considered legal nonconforming, and any non-occupiable rooftop
+24 construction such as HVAC equipment and stairs or elevator towers, but excluding rooftop decks,
+25 shall be included within the height exemption.
+26 (4) Water and sewer. The development shall have access to public water and sewer
+27 services or shall have access to adequate private water, such as a well(s) and and/or on-site
+28 wastewater treatment system(s) approved by the relevant state agency.
+29 (i) Notwithstanding any other provisions of this chapter, all towns and cities shall allow
+30 manufactured homes, as defined in § 45-24-31, that comply with § 23-27.3-109.1.3 as a type of
+31 single-family home on any lot zoned for single-family use. Such home shall comply with all
+32 dimensional requirements of a single-family home in the district or seek relief for the same under
+33 the provisions of this chapter.
+34 (j) Attached single-family dwellings. Notwithstanding any other provision of this chapter,
+LC006272/SUB A - Page 28 of 30
+
+1 all towns and cities shall allow attached single-family units, as defined in § 45-24-33, in residential
+2 districts which allow for the construction of two (2) or more units. The number of attached single-
+3 family units allowed shall be the same as the corresponding residential density for the property and
+4 zoning district.
+5 SECTION 10. Construction. This act, being necessary for the welfare of the state and its
+6 inhabitants, shall be construed liberally in order to effectuate its purposes.
+7 SECTION 11. Severability. If any clause, sentence, paragraph, section, or part of this act
+8 shall be adjudged by any court of competent jurisdiction to be invalid, that judgment shall not
+9 affect, impair, or invalidate the remainder of this act but shall be confined in its operation to the
+10 clause, sentence, paragraph, section, or part directly involved in the controversy in which that
+11 judgment shall have been rendered.
+12 SECTION 12. This act shall take effect upon passage.
+========
+LC006272/SUB A
+========
+LC006272/SUB A - Page 29 of 30
+
+EXPLANATION
+BY THE LEGISLATIVE COUNCIL
+OF
+A N A C T
+RELATING TO AGRICULTURE AND FORESTRY -- FORESTRY AND FOREST PARITY
+ACT
+***
+1 This act would establish sales and use tax exemptions for commercial forest product
+2 operations. Exempt would be machinery and equipment to include, but not limited to: sawmills,
+3 tractors, forklifts, log skidders, chainsaws and power generators. Additionally, the act would create
+4 a new motor vehicle registration for "forestry vehicles" and would provide that all forestry product
+5 operations machinery, including motor vehicles with forestry registration plates would be exempt
+6 from taxation. Municipalities would be allowed to tax forestry product operations buildings at a
+7 rate that reflects the actual cost incurred by the municipality in providing services to these
+8 buildings. Finally, this act would provide that forest product operations are permitted uses within
+9 all zoning districts of a municipality except where prohibited for public health or safety reasons or
+10 the protection of wildlife habitat.
+11 This act would take effect upon passage.
+========
+LC006272/SUB A
+========
+LC006272/SUB A - Page 30 of 30
